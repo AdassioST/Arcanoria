@@ -1,0 +1,1 @@
+The magical Earth where the game takes place.

@@ -1,0 +1,7 @@
+The [[Sixth Cycle]] of the [[Seven-Day Creation]] of [[Arcanoria]].
+
+What happened in this cycle greatly depends on either the [[Auric Mythos of Creation]] or the [[True Mythos of Creation]].
+
+In truth, it is the [[Cycle]] where [[Selenea]] and the [[Auric Aria]] collaborated to create most of the original life in [[Arcanoria]]. The [[Auric Aria]] shaped bodies of flesh, wings, find, and claws with the [[Auric Heptacode]] while [[Selenea]] infused them with vitality and a unique [[Fundamental Frequency]]. Together they filled the skies, seas, and soil but some of the remnants of the [[Formless Masses]] and [[Primal Discordia]] warped some into predators and abominations, reflecting life's [[Potential of Creation]] turned cruel.
+
+Halfway through this [[Cycle]], the [[Auric Aria]] broke after the horrifying sight of the suffering of her creations, she withdrew into isolation doubting her [[Sufficient Precision]]. [[Selenea]], however, continued alone and created the beings of [[Pure Light]]. By the end of the [[Sixth Cycle]] however, the [[Auric Aria]] came with the concept of [[Perfect Reflection]] and had the idea of conceiving [[Humanity]] as crowned creation attuned to her own [[Fundamental Frequency]].

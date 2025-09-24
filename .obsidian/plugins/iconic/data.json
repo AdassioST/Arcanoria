@@ -1,0 +1,141 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Events": {
+      "icon": "⭐",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Game Systems": {
+      "icon": "⚙️",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Game Systems/Environment Logic.md": {
+      "icon": "lucide-cloud-moon"
+    },
+    "Game Systems/Event System Logic.md": {
+      "icon": "lucide-stars"
+    },
+    "Game Systems/Game Logic.md": {
+      "icon": "lucide-box"
+    },
+    "Game Systems/Government Logic.md": {
+      "icon": "lucide-crown"
+    },
+    "Gateway To Genesis.md": {
+      "icon": "⚓"
+    },
+    "Images": {
+      "icon": "📸",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Images/Cosmic Objects": {
+      "icon": "lucide-moon-star",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Images/Deities": {
+      "icon": "lucide-sun-snow",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding": {
+      "icon": "🗺️",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Landmarks": {
+      "icon": "lucide-land-plot",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Mythology": {
+      "icon": "lucide-snowflake",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Mythology/Arcanoria Flowchart.canvas": {
+      "icon": "🌙"
+    },
+    "Worldbuilding/Mythology/Deific Moodboard.canvas": {
+      "icon": "🖌️"
+    },
+    "Worldbuilding/Mythology/Deities": {
+      "icon": "lucide-sun-snow",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Mythology/True Mythos of Creation.md": {
+      "icon": "🌟"
+    },
+    "Worldbuilding/Origin of Magic": {
+      "icon": "lucide-orbit",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Rise & Fall, Crisis": {
+      "icon": "lucide-droplets",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time": {
+      "icon": "lucide-timer-reset",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Society": {
+      "icon": "lucide-message-circle-heart",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

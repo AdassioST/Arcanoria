@@ -1,0 +1,1 @@
+Experiment gone very bad, creating the [[Formless Masses]] and first [[Primal Discordia]], [[Inevitability of Death]] and original [[Dissonance]]

@@ -1,0 +1,8 @@
+{
+  "primary-theme@@italic-color@@dark": "#D2ABC6",
+  "primary-theme@@link-color@@dark": "#A1D6A6",
+  "primary-theme@@h3-color@@dark": "#FFBB00",
+  "primary-theme@@editor-file-header": "file-header-default",
+  "primary-theme@@active-line-highlight": false,
+  "primary-theme@@interface_status-bar-style": "sb-default"
+}

@@ -1,0 +1,6 @@
+This is the governing body, quite literally, of meta-political systems. The Stat Manager computes [[Pillars]], [[Substats]]. and [[Derived Stats]] while controlling [[Civics]], every [[Seat Council Position]], [[Edicts]], manages [[Legend]] Leader effects, and structural modifiers like [[Corruption]] and [[Institutional Resilience]]. It also affects directly the [[Satisfaction]], determines global production through [[Morale]].
+
+The system key responsibilities are found in several layers of scripts that contain the following:
+- Stat Manager: This is the central storage and logic processing for the in-game stats that pertain to everything in the government. It computes the primary roles for [[Pillars]], [[Derived Stats]] and [[Substats]]. It also manages extra modifiers from [[Morale]] and handles the global variable of [[Dark Morale]] for [[Events]].
+- Government Logic: Manages the information and bonuses of [[Seat Council Position]], the [[Head of State]], and its respective assignation of [[Legend]] Leader slots. It applies the effects after an assignation period of X [[Seventh]].
+- Civic Manager: Similarly to government logic it governs all active [[Civics]] and their respective effects while accounting for the possible [[Seat Council Position]] related to it.

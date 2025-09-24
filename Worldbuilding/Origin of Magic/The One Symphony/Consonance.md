@@ -1,0 +1,1 @@
+Order and harmony, what is the natural "good" for in [[Arcanoria]]. The opposite of [[Dissonance]].

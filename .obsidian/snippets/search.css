@@ -1,0 +1,6 @@
+.backlink-pane .search-result-file-matched-text,
+  .workspace-leaf-content[data-type="search"] .search-result-file-matched-text,
+  .internal-query .search-result-file-matched-text {
+    background: none;
+    color: var(--text-accent);
+  }

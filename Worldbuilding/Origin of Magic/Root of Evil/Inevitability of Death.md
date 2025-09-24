@@ -1,0 +1,1 @@
+Death comes to us all, nothing lasts forever.

@@ -1,0 +1,1 @@
+A celestial mirrorbox device created with [[Cosmic Motion]] and essence of [[The First Overtone]] capable of trapping deities and giving form to the formless.

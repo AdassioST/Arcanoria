@@ -1,0 +1,1 @@
+A [[Fated Flower]] born from the gift of the union of the [[Auric Aria]] giving form, and [[Selenea]] breathing vitality in a unique [[Fundamental Frequency]].

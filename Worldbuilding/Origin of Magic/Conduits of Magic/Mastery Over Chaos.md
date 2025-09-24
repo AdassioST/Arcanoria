@@ -1,0 +1,1 @@
+A popular statement and magic principle which binds [[Absolute Certainty]], [[Perfect Focus]] and [[Sufficient Precision]] together. It is one of the triadic virtues for spellcraft.

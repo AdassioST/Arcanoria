@@ -1,0 +1,7 @@
+The [[Seventh Cycle]] of the [[Seven-Day Creation]] of [[Arcanoria]].
+
+What happened in this cycle greatly depends on either the [[Auric Mythos of Creation]] or the [[True Mythos of Creation]].
+
+In truth, it is the [[Cycle]] where the [[Auric Aria]]'s envy and fear culminated the betrayal and binding of [[Selenea]] in the [[Moon]]. It begins with the obsession of the [[Auric Aria]] of creating [[Humanity]] as her [[Perfect Reflection]]. She could not bear to share their creation with [[Selenea]]. Haunted by the [[Formless Masses]] and driven by [[Absolute Certainty]] of her desire, she forged a [[Celestial Ensnaring Mirror]] from threads of [[The First Overtone]] — a cosmic trap born of fear and jealousy. Luring [[Selenea]] into collaborative creation, the [[Auric Aria]] sealed her former ally into the [[Moon]], bleeding her vitality through [[Arcanoria]]'s [[Leylines]] and crystallizing her theft as crimson [[Emberwhisper]] crystals.
+
+With [[Selenea]]'s stolen gift, the [[Auric Aria]] finally wove [[Humanity]]: sentient beings upright in her image and likeliness, resonating with her [[Fundamental Frequency]] alone. Unlike beasts bound by instinct, [[Pure Light]] beings without form, or creatures suffering the full [[Inevitability of Death]], [[Humanity]] possessed thought, will, memory, and tangible flesh while remaining her [[Perfect Reflection]]. They were her ultimate creation and crown — but born from the cosmic crime that forever stained [[Arcanoria]] with the crystallized essence of betrayal itself.
