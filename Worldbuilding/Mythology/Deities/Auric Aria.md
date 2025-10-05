@@ -1,6 +1,11 @@
 [[The One True God]] | [[Deific Moodboard.canvas|Deific Moodboard]]
 
-- *"So long as it is for good, I don't care if I'm hated. I care more for the outcome of my loved creations even if it means they see me as evil."
+[[Primary Instrument]]: [[Goldweaver Auric Harp]], [[Own Voice]]
+[[Armament]]: None
+[[Soul Leitmotif]]: [[Resonance]]
+[[Ornaments]]: [[Crystal]], [[Luminance]]
+
+- *"So long as it is for good, I don't care if I'm hated. I care more for the future of my beloved creations even if it means they will see me as evil."
 
 ![[Images/Deities/Auric Aria/Auric Aria Face.png]]
 

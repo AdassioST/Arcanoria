@@ -29,11 +29,11 @@ Embark on an odyssey of the [[Cataclysmic Aftermath]], navigating through [[Cycl
 
 ### 🎭World Building
 
-- [[True Mythos of Creation]]
-- The Realm of [[Arcanoria]]
-- The [[Great Fracture]] and the [[Cataclysmic Aftermath]]
-- [[Music as Catalyst]] and [[The Principles of Magic]]
-- Passing of [[Cycle]] and [[Ages]] 
+- [[True Mythos of Creation]].
+- The Realm of [[Arcanoria]].
+- The [[Great Fracture]] and the [[Cataclysmic Aftermath]].
+- [[Music as Catalyst]] and [[The Principles of Magic]].
+- Passing of [[Cycle]] and [[Ages]].
 - **Structure ([[Auric Aria]]) vs. Essence/Vitality ([[Selenea]]).** This is the duality of the [[Click Power]] [[Vital Resources]] vs [[Building Materials]].
 
 ### Backlog Ideas

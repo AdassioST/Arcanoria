@@ -1,1 +1,1 @@
-The magical Earth where the game takes place.
+The magical Earth where the game takes place, its origin lies in the [[Seven-Day Creation]] by the [[Auric Aria]].
