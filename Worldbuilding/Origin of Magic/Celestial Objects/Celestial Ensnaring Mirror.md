@@ -1,1 +1,3 @@
-A celestial mirrorbox device created with [[Cosmic Motion]] and essence of [[The First Overtone]] capable of trapping deities and giving form to the formless.
+#technology
+
+An impossible large construct of a [[Mirrorbox Trap]] uniquely created with [[Cosmic Motion]] and essence of [[The First Overtone]], it is capable of trapping any [[Outer God]], giving an [[Anthropomorphic Shape]] to the formless.

@@ -1,3 +1,5 @@
-The second statement and magic principle of the [[Triadic Virtues of Spellcraft]] which binds [[Emotional Authenticity]], [[Essence Sacrifice]] and [[Echoing Bonds]] together.
+#spellweaving
 
-It refers to the ability to shape form from consciousness, to shape from the essence of self and the weight of one's [[Fundamental Frequency]] across time. 
+The second statement and popular magic principle of the [[Triadic Virtues of Spellcraft]] which binds [[Emotional Authenticity]], [[Essence Sacrifice]] and [[Echoing Bonds]] together.
+
+It refers to the ability to give meaning, potency and fuel to [[Spellweaving]] from the essence of one's [[Fundamental Frequency]] across time. It carries weight, memory, and expression.

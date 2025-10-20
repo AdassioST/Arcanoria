@@ -1,1 +1,1 @@
-The celestial prison where [[Selenea]] is bound.
+The first [[Celestial Ensnaring Mirror]], made by the [[Auric Aria]] during the [[Seventh Cycle]]. It is the place where [[Selenea]] is bound and from which she seeps [[Lunehymn]] as liquid grief into the [[Leylines]] of [[Arcanoria]].

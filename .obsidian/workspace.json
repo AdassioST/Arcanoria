@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Mythology/Deific Moodboard.canvas",
-                "viewState": {
-                  "x": 2818.8026190733453,
-                  "y": -772.0888365929537,
-                  "zoom": -1.5
-                }
+                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/The Principles of Magic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Deific Moodboard"
+              "icon": "lucide-file",
+              "title": "The Principles of Magic"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#chaos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,17 +104,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Mythology/Deific Moodboard.canvas",
+                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/The Principles of Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deific Moodboard"
+              "title": "Backlinks for The Principles of Magic"
             }
           },
           {
@@ -166,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,45 +182,46 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Pasted image 20251004191207.png",
-    "Pasted image 20251004191101.png",
-    "Pasted image 20251004191001.png",
-    "Pasted image 20251004190853.png",
-    "Pasted image 20251004190618.png",
-    "Pasted image 20251004190410.png",
-    "Pasted image 20251004190318.png",
-    "Pasted image 20251004190234.png",
-    "Pasted image 20251004190157.png",
-    "Pasted image 20251004190105.png",
-    "Pasted image 20251004190052.png",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/The Principles of Magic.md",
-    "Crystal.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Absolute Certainty.md",
-    "Soul Leitmotif.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Flux.md",
-    "Worldbuilding/Mythology/Deific Moodboard.canvas",
-    "Worldbuilding/Mythology/Deities/Selenea.md",
-    "Gateway To Genesis.md",
-    "Worldbuilding/Society/Characters/Skarr Karmelita.md",
-    "Worldbuilding/Mythology/Deities/Auric Aria.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Key of Attunement.md",
-    "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
-    "Worldbuilding/Mythology/True Mythos of Creation.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Major Note.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Golden Ichor.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Fundamental Frequency.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Emotional Authenticity.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Essence Sacrifice.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Echoing Bonds.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Discordant Interference.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Cindergale.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Attunement for Magic.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
-    "Worldbuilding/Society/Characters",
-    "Ornaments.md",
-    "Worldbuilding/Mythology/Deities/First Weaving of Life.md",
+    "Spellweaving.md",
+    "Spellweaver.md",
     "Motif Awakening.md",
-    "Goldweaver Auric Harp.md",
+    "Mirrorbox Trap.md",
+    "Worldbuilding/Mythology/Mythos/Seven-Day Creation.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Attunement for Magic.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Key of Attunement.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Triadic Virtues of Spellcraft.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Mastery Over Chaos.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Sufficient Precision.md",
+    "Worldbuilding/Origin of Magic/The One Symphony/Auric Heptacode.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Seventh.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ritual Seventh.md",
+    "Worldbuilding/Origin of Magic/The One Symphony/The Eternal Symphony.md",
+    "Worldbuilding/Origin of Magic/The One Symphony/The First Overtone.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Fundamental Frequency.md",
+    "Gateway To Genesis.md",
+    "Worldbuilding/Mythology/Deities/Outer God.md",
+    "Worldbuilding/Mythology/Deities/Selenea.md",
+    "Chaotic Resonant Cascade.md",
+    "Auric Mythos of Creation.md",
+    "Vibrational Fallout.md",
+    "Flesh-Binding Ritual.md",
+    "A True Sine Wave.md",
+    "Void.md",
+    "README.md",
+    "Untitled.base",
+    "Worldbuilding/Mythology/Deific Moodboard.canvas",
+    "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
+    "Auric  Aria 10.png",
+    "Selenea 4.png",
+    "Selenea 2 1.png",
+    "Selenea 5.png",
+    "Selenea 7.png",
+    "Selenea 6.png",
+    "Auric  Aria 20.png",
+    "Auric  Aria 13.png",
+    "Auric  Aria 16.png",
+    "Auric  Aria 14.png",
+    "Worldbuilding/Society/Characters",
     "LICENSE",
     "Images/Deities/Selenea",
     "Worldbuilding/Society",
@@ -231,7 +229,6 @@
     "Worldbuilding/Origin of Magic/Magical Resources",
     "Worldbuilding/Mythology",
     "Worldbuilding/Origin of Magic/Celestial Objects",
-    "Worldbuilding/Rise & Fall, Crisis/Crisis",
-    "Worldbuilding/Origin of Magic/Root of Evil"
+    "Worldbuilding/Rise & Fall, Crisis/Crisis"
   ]
 }

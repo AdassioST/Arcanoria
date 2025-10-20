@@ -1,6 +1,8 @@
+#spellweaving
+
 *[[Resonance]]. [[Luminance]], [[Flux]], [[Void]], [[Cindergale]], [[Crystal]], [[Strand]]
 
-Magic in [[Arcanoria]] flows through seven foundational principles, each bound to a virtue and a constraint, drawing directly from one of the golden threads in the [[Auric Heptacode]]. The principles are divided into the seven bindings of [[Spellweaving]] and cast upon the various layers of consciousness from [[The First Overtone]], and from these layers, the principles create physicality in the [[Known Universe]].
+Magic in [[Arcanoria]] flows through seven foundational principles, each bound to a virtue and a constraint, drawing directly from one of the golden threads in the [[Auric Heptacode]]. The principles are divided into the seven bindings of [[Spellweaving]] and cast upon the various layers of [[Consciousness]] from [[The First Overtone]], and from these layers, the principles create physicality in the [[Known Universe]].
 
 In [[Arcanoria]], they greatly amplify the magical [[Resonance]] of [[Frequency Harmonics]] due to the existence of the [[Great Harmonic Loom]] using a [[Soul Leitmotif]] with [[Music as Catalyst]]. The bindings themselves are equal to masterfully playing a song:
 
@@ -16,7 +18,7 @@ The expertise combination of [[Sufficient Precision]], [[Perfect Focus]], and [[
 
 ### The Seven Bindings
 
-Woven from the [[Auric Heptacode]], these seven bindings form the invisible rules for [[Spellweaving]] upon which they govern every [[Spellweaver]]'s spell integrity, cost, and potency. Each binding names a core psychological and physical domain, and anchors a facet of consciousness to an elemental aspect keyed uniquely to the [[Spellweaver]]'s soul.
+Woven from the [[Auric Heptacode]], these seven bindings form the invisible rules for [[Spellweaving]] upon which they govern every [[Spellweaver]]'s spell integrity, cost, and potency. Each binding names a core psychological and physical domain, and anchors a facet of [[Consciousness]] to an elemental aspect keyed uniquely to the [[Spellweaver]]'s soul.
 
 Every single person is naturally aligned to a binding once they trigger a [[Motif Awakening]] and, while the proficiency in said element is given by nature, authentic [[Spellweaving]] demands walking the delicate edge between fused elements. Thus, it is possible to create combinations of two or more bindings, and it's an essential practice of advanced [[Spellweaving]]. Still, it is a carefully crafted dance of profound mastery, personal growth, and binding knowledge, as fusions of several elements are more challenging to sustain without diluting direction and potency.
 
@@ -66,7 +68,7 @@ To touch the fabric of reality, one must be true to the wellspring of feeling wi
 *Fourth thread: Auric Thread of Conservation of Energy.*
 Attuned Element [[Void]]. (Shadow + Space)
 
-Spellcraft is a currency of what one holds dearest. Power flows only when the [[Spellweaver]] parts with a fragment of their [[Fundamental Frequency]], consciousness, and being — the [[Spellweaver]]'s own shards of memory, life force, physical exhaustion, or symbolic attachments are the fuel of magic. Every enchantment mirrors the sacrifice, birth, and creation based on [[Perfect Reflection]].
+Spellcraft is a currency of what one holds dearest. Power flows only when the [[Spellweaver]] parts with a fragment of their [[Fundamental Frequency]], [[Consciousness]], and being — the [[Spellweaver]]'s own shards of memory, life force, physical exhaustion, or symbolic attachments are the fuel of magic. Every enchantment mirrors the sacrifice, birth, and creation based on [[Perfect Reflection]].
 
 **Constraint:** A meaningful fragment of the [[Spellweaver]] is consumed on spell creation. Potency is amplified by alignment with the spell's theme and dampened by superficial offerings. Not all spells demand heavy sacrifice, but all can be greatly empowered by it.
 
@@ -79,7 +81,7 @@ Spellcraft is a currency of what one holds dearest. Power flows only when the [[
 *Fifth Auric Thread of Inertia and Momentum*
 Attuned Element [[Cindergale]]. (Fire + Wind)
 
-Fire is the breath that keeps the notes alive, wind is the unseen flow that holds the song aloft. It requires passion and unyielding attention to fully channel the essence of your consciousness into something for it to come true. It taps into the flow state and can be heavily enhanced if the [[Spellweaver]] can remain concentrated in an undisturbed flow, even within the eye of chaos in a storm.
+Fire is the breath that keeps the notes alive, wind is the unseen flow that holds the song aloft. It requires passion and unyielding attention to fully channel the essence of your [[Consciousness]] into something for it to come true. It taps into the flow state and can be heavily enhanced if the [[Spellweaver]] can remain concentrated in an undisturbed flow, even within the eye of chaos in a storm.
 
 **Constraint:** Casting demands uninterrupted flow-state until completion. Layered and over time spells require more mental action than instant casting, but an unwavering state of perfect spell weaving is a blazing arc nigh impossible to defeat. Potency is amplified in silence, ritual, or during a state of flow, such as battle, and dampened by distraction.
 
@@ -94,7 +96,7 @@ Attuned Element [[Crystal]]. (Earth + Prisms)
 
 Nothing steps into existence without first taking shape within the mind's eye. A vision unseen cannot bloom. Only if it can be visualized can it exist. What you can't imagine happening cannot come to be.
 
-**Constraint:** Casting spells requires a complete mental forging, a vivid rehearsal beneath the effects of existence. It taps into the innate [[Potential of Creation]] of consciousness and requires deep belief and confidence. A spell has to be directly tied to the self-perceived [[Coherence]]. Potency is amplified by vivid visualization and will. Dampened by doubt, overthinking, and insecurity in becoming real.
+**Constraint:** Casting spells requires a complete mental forging, a vivid rehearsal beneath the effects of existence. It taps into the innate [[Potential of Creation]] of [[Consciousness]] and requires deep belief and confidence. A spell has to be directly tied to the self-perceived [[Coherence]]. Potency is amplified by vivid visualization and will. Dampened by doubt, overthinking, and insecurity in becoming real.
 
 **Personal Root & [[Motif Awakening]]:** Forging their own will and vision after chaos and doubt. Those paralyzed by uncertainty who created their own unbreakable conviction.
 
@@ -105,7 +107,7 @@ Nothing steps into existence without first taking shape within the mind's eye. A
 *Seventh Auric Thread of Relativity*
 Attuned Element [[Strand]]. (Time + Memory)
 
-Magic is not only forged in the moment but woven with weight through the ages. The strength of a bond — its history, its memory — casts a temporal echo across the fabric of fate. The strength of the bond between [[Spellweaver]] and target signifies the importance of the story and the role of fate. This binding is the only one to utilize the one golden strand of the [[Auric Heptacode]] that interacts with the [[Trinity Harmony]], thereby granting access to both spatial and temporal properties rooted in personal legacy.
+Magic is not only forged in the moment but woven with weight through the [[Ages]]. The strength of a bond — its history, its memory — casts a temporal echo across the fabric of fate. The strength of the bond between [[Spellweaver]] and target signifies the importance of the story and the role of fate. This binding is the only one to utilize the one golden strand of the [[Auric Heptacode]] that interacts with the [[Trinity Harmony]], thereby granting access to both spatial and temporal properties rooted in personal legacy.
 
 **Constraint:** Bond quality, depth, and duration are the anchor that determines spell tier and resistance to disruption. A spell potency is amplified by longstanding loyalty and memory, while dampened by betrayal, denial of the past, amnesia, or neglect.
 
@@ -117,7 +119,7 @@ Magic is not only forged in the moment but woven with weight through the ages. T
 
 Every binding in Arcanoria may be struck as a [[Minor Note]] or a [[Major Note]], each reflecting a different depth of commitment and consequence. [[Minor Note]]s draw upon fleeting emotions and lighter expressions of elemental power; they are most suitable for simple charms but most commonly used in supportive enhancement effects. [[Major Note]]s channel core convictions, and are usually the Root of any solid magic. They are heavily influenced by the casted attuned element.
 
-Though [[Minor Note]] spells cost little — perhaps only a moment's fatigue — even the most trivial enchantment can ascend to a [[Major Note]] when fueled by a meaningful [[Essence Sacrifice]]. Finally, the true artistry of [[The Principles of Magic]] lies in weaving multiple bindings together into a single composition. Spellcraft can only hold one [[Major Note]] and it unfolds like a song, with three essential components that create any spell:
+Though [[Minor Note]] spells cost little, usually only slight fatigue, even the most trivial enchantment can ascend to a [[Major Note]] when fueled by a meaningful [[Essence Sacrifice]]. Finally, the true artistry of [[The Principles of Magic]] lies in weaving multiple bindings together into a single composition. Spell craft can only hold one [[Major Note]] and it unfolds like a song, with three essential components that create any spell:
 
 - **Melody**: The fundamental essence of a spell — a single binding cast as a [[Major Note]] that defines the enchantment's elemental theme and emotional direction. Whether it sings with purpose, blazes with focus, or glints with crystalline vision, the Root sets the spell's identity.
 

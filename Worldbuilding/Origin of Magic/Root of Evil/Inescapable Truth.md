@@ -1,1 +1,0 @@
-Searing truth of an impossible enigma and deepest fear come true.

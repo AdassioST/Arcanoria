@@ -1,4 +1,6 @@
-Description: *The primal flow of [[Resonance]], the living current that carries both magic and memory — and, in death, the very essence of consciousness — into the threads deep within [[The Eternal Symphony]].*
+#technology #spellweaving
+
+Description: *The primal flow of [[Resonance]], the living star stream and current that carries both magic and memory — and, in death, the very essence of [[Consciousness]] — into the threads deep within [[The Eternal Symphony]].*
 
 Where [[The Eternal Symphony]] is the grand fabric, [[The First Overtone]] is its living pulse, a resonant cosmic flow that channels, magic, memory, and power through the cosmos. It is the original vibration that awakens sound into motion, carrying the will of [[The Eternal Symphony]] into every note and every heartbeat. It is the singular cosmic object of highest [[Vibrational Density]].
 
@@ -8,7 +10,7 @@ At the moment of the [[Original Ripple]], a singular vibrational mode collapsed 
 
 ### A Conduit for the Afterlife
 
-Beyond its role as the engine of magic and memory, [[The First Overtone]] serves as the cosmic river upon which discarded consciousness flows. As life ends, the soul and [[Fundamental Frequency]] decouple from their vessel and enter [[The First Overtone]]’s current as potential [[Flux]], until the essence collapses memory and identity into a note within [[The Eternal Symphony]].
+Beyond its role as the engine of magic and memory, [[The First Overtone]] serves as the cosmic river upon which discarded [[Consciousness]] flows. As life ends, the soul and [[Fundamental Frequency]] decouple from their vessel and enter [[The First Overtone]]’s current as potential [[Flux]], until the essence collapses memory and identity into a note within [[The Eternal Symphony]].
 
 Though existing in a state of impossible [[Superposed Resonance]], the frequency stream can become observable at sites of exceptional [[Vibrational Density]]. Most [[Sacred Site]]s naturally possess such heightened density, their earth humming with latent [[Coherence]] and revealing departing frequencies. Some temples can also capture this phenomenon through potent [[Resonance Anchors]] precisely tuned to the passing [[Fundamental Frequency]] and tracing the [[Grand Thread Rings]] to align with [[The First Overtone]] flow. 
 

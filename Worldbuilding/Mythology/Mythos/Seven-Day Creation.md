@@ -1,3 +1,5 @@
+#story
+
 The mythical tale of how [[Arcanoria]] was made in seven [[Cycle]]s by the [[Auric Aria]]. It is part of the classical [[Auric Mythos of Creation]] which is conformed of:
 
 The [[First Cycle]], [[Second Cycle]], [[Third Cycle]], [[Fourth Cycle]]. [[Fifth Cycle]], [[Sixth Cycle]]. [[Seventh Cycle]].
