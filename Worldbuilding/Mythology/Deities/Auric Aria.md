@@ -5,7 +5,7 @@
 [[Primary Instrument]]: [[Goldweaver Auric Harp]], [[Own Voice]]
 [[Armament]]: None
 [[Soul Leitmotif]]: [[Resonance]]
-[[Ornaments]]: [[Crystal]], [[Luminance]]
+[[Ornament]]s: [[Crystal]], [[Luminance]]
 
 - *"So long as it is for good, I don't care if I'm hated. I care more for the future of my beloved creations even if it means they will see me as evil."
 
@@ -15,6 +15,9 @@
 
 During the [[Seventh Cycle]] she betrayed [[Selenea]] binding her in the [[Moon]] in the first [[Celestial Ensnaring Mirror]] to appropriate the power of breathing vitality in order to create [[Humanity]]. Her element is [[Aetherlight]] with [[Emberwhisper]] being the refining material from the crystalized theft of the [[Betrayal of the Moon]].
 
+![[u4413486447_A_dormant_soul_leitmotif_gem_teardrop_ovoid_7cm_len_5a1342ad-7f0d-49b2-a03d-9bf9bdff2bf2.png]]
+
+The [[Auric Aria]]'s [[Soul Leitmotif]].
 ### Media References:
 - [Characterization & Wings to Clothing](https://vt.tiktok.com/ZSDXF34N7/ "https://vt.tiktok.com/ZSDXF34N7/")
 - [Character Edit: The Brightest Star in the Sky](https://vt.tiktok.com/ZSDXFqF7u/ "https://vt.tiktok.com/ZSDXFqF7u/")

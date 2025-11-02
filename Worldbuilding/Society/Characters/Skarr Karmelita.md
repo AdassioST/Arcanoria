@@ -5,7 +5,7 @@ Idea for a main character that combines physical attacks in precise [[Dance]] mo
 [[Primary Instrument]]: [[Own Voice]], [[Dance]]
 [[Armament]]: [[Crystal]]-made dual chakras
 [[Soul Leitmotif]]: [[Crystal]]
-[[Ornaments]]: [[Void]], [[Cindergale]]
+[[Ornament]]s: [[Void]], [[Cindergale]]
 
 Spells:
 

@@ -47,3 +47,4 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 
 - Preconception the Movie as a reference for an intersex god that gets pregnant with itself and its son is the god. It causes a time crystal, a paradox where it is both the son, the mother, and the father in an infinite ouroboros cycle.
 - Brobola creature.
+- "If the world won't be kind, I will build my own." Character.

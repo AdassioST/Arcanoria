@@ -1,0 +1,1 @@
+The state of the soul reflected in the [[Soul Leitmotif]]. Commands genuine intention bound to memory.

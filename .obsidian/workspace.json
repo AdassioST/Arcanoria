@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/The Principles of Magic.md",
+                "file": "Personal Pathways and Interconnected Awakenings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Principles of Magic"
+              "title": "Personal Pathways and Interconnected Awakenings"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chaos",
+                "query": "tag:#spellweaving",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,17 +104,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/The Principles of Magic.md",
+                "file": "Personal Pathways and Interconnected Awakenings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Principles of Magic"
+              "title": "Backlinks for Personal Pathways and Interconnected Awakenings"
             }
           },
           {
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,45 +182,45 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Spellweaving.md",
-    "Spellweaver.md",
-    "Motif Awakening.md",
-    "Mirrorbox Trap.md",
-    "Worldbuilding/Mythology/Mythos/Seven-Day Creation.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Attunement for Magic.md",
     "Worldbuilding/Origin of Magic/Conduits of Magic/Key of Attunement.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Triadic Virtues of Spellcraft.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Mastery Over Chaos.md",
+    "Personal Pathways and Interconnected Awakenings.md",
+    "Motif Awakening.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/The Principles of Magic.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Echoing Bonds.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Perfect Focus.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Absolute Certainty.md",
     "Worldbuilding/Origin of Magic/Conduits of Magic/Sufficient Precision.md",
-    "Worldbuilding/Origin of Magic/The One Symphony/Auric Heptacode.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Seventh.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ritual Seventh.md",
-    "Worldbuilding/Origin of Magic/The One Symphony/The Eternal Symphony.md",
-    "Worldbuilding/Origin of Magic/The One Symphony/The First Overtone.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Fundamental Frequency.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Emotional Authenticity.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Essence Sacrifice.md",
+    "Soul Leitmotif.md",
+    "Worldbuilding/Mythology/Deities/Auric Aria.md",
     "Gateway To Genesis.md",
-    "Worldbuilding/Mythology/Deities/Outer God.md",
     "Worldbuilding/Mythology/Deities/Selenea.md",
-    "Chaotic Resonant Cascade.md",
-    "Auric Mythos of Creation.md",
-    "Vibrational Fallout.md",
-    "Flesh-Binding Ritual.md",
-    "A True Sine Wave.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Resonance.md",
+    "u4413486447_Apocalyptic_cinematic_wide_shot_scene_of_an_awakene_2935cb08-a9ac-4390-927f-245a5e64e8bc.png",
+    "Worldbuilding/Rise & Fall, Crisis/Arcanoria.md",
     "Void.md",
-    "README.md",
-    "Untitled.base",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Potential of Creation.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Flux.md",
+    "Spellweaver.md",
+    "u4413486447_An_awakened_soul_leitmotif_gem_in_catastrophic_mani_758cf879-298d-491f-9017-5bdc31265743.png",
+    "Worldbuilding/Mythology/Deities/Humanity.md",
+    "Spellweaving.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Triadic Virtues of Spellcraft.md",
+    "Worldbuilding/Mythology/Deities/Outer God.md",
+    "Worldbuilding/Mythology/Mythos/First Cycle.md",
+    "Worldbuilding/Mythology/Mythos/Eighth Cycle.md",
+    "u4413486447_httpss.mj.runTTgkvf8lKLk_A_dormant_soul_leitmotif_g_f4ab8d6d-b3dd-4b3a-acc0-d6ceb7f39e2a.png",
+    "u4413486447_A_wearable_soul_leitmotif_gem_as_a_spherical_pendan_79e803ee-41bc-463e-bfc6-ba1c1223b44e.png",
     "Worldbuilding/Mythology/Deific Moodboard.canvas",
+    "u4413486447_httpss.mj.rungZUy1BXcWOk_A_dormant_soul_leitmotif_g_549ecba7-66af-4a3d-acb9-2cd2d38c46bb.png",
+    "u4413486447_A_dormant_soul_leitmotif_gem_teardrop_ovoid_7cm_len_5a1342ad-7f0d-49b2-a03d-9bf9bdff2bf2.png",
+    "u4413486447_A_dormant_soul_leitmotif_gem_teardrop_ovoid_7cm_len_8f471712-63f9-4b3c-8db2-443694e3ac2a.png",
+    "Untitled.base",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
     "Auric  Aria 10.png",
     "Selenea 4.png",
     "Selenea 2 1.png",
-    "Selenea 5.png",
-    "Selenea 7.png",
-    "Selenea 6.png",
-    "Auric  Aria 20.png",
-    "Auric  Aria 13.png",
-    "Auric  Aria 16.png",
-    "Auric  Aria 14.png",
     "Worldbuilding/Society/Characters",
     "LICENSE",
     "Images/Deities/Selenea",

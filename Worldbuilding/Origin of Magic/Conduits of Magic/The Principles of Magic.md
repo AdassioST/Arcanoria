@@ -6,15 +6,15 @@ Magic in [[Arcanoria]] flows through seven foundational principles, each bound t
 
 In [[Arcanoria]], they greatly amplify the magical [[Resonance]] of [[Frequency Harmonics]] due to the existence of the [[Great Harmonic Loom]] using a [[Soul Leitmotif]] with [[Music as Catalyst]]. The bindings themselves are equal to masterfully playing a song:
 
-- You find your note (1). [[Key of Attunement]].
+- You find your note and key (1). [[Key of Attunement]].
 - You play a precise interval (2).  [[Sufficient Precision]].
 - You imbue it with feeling (3).  [[Emotional Authenticity]].
-- You understand the strength required to apply dynamics and play it. [[Essence Sacrifice]].
+- You understand the strength required to apply dynamics and play it (4). [[Essence Sacrifice]].
 - You sustain it with focus (5). [[Perfect Focus]].
 - You resolve it with perfect certainty (6). [[Absolute Certainty]].
 - You harmonize it with other players (7). [[Echoing Bonds]].
 
-The expertise combination of [[Sufficient Precision]], [[Perfect Focus]], and [[Absolute Certainty]] is called [[Mastery Over Chaos]]. While [[Emotional Authenticity]], [[Essence Sacrifice]], and [[Echoing Bonds]] create the [[Potential of Creation]].
+The expertise combination of [[Sufficient Precision]], [[Perfect Focus]], and [[Absolute Certainty]] is called [[Mastery Over Chaos]]. While [[Emotional Authenticity]], [[Essence Sacrifice]], and [[Echoing Bonds]] create the [[Potential of Creation]]. The combination of all bindings are the [[Triadic Virtues of Spellcraft]].
 
 ### The Seven Bindings
 
@@ -31,9 +31,9 @@ Attuned Element [[Resonance]]. (Sound + Wind)
 
 The art of harmony begins in serenity — when the self grows quiet enough to hear the world's song, and whole again to hold its own voice.
 
-**Constraint:** The [[Spellweaver]]’s intent must align with their [[Fundamental Frequency]] soul-key. Potency is amplified by unwavering purpose and dampened by inner conflict.
+**Constraint:** The [[Spellweaver]]’s intent must align with their [[Fundamental Frequency]] [[Soul-Key]]. Potency is amplified by unwavering purpose and dampened by inner conflict.
 
-**Personal Root & [[Motif Awakening]]:** Seeking belonging after isolation / Finding your place in the world. Those "Out of tune" who learn to align their soul-key to the world.
+**Personal Root & [[Motif Awakening]]:** Seeking belonging after isolation / Finding your place in the world. Those "Out of tune" who learn to align their [[Soul-Key]] to the world.
 
 *"A string only rings true when perfectly tuned to the purpose of a key."*
 
@@ -65,7 +65,7 @@ To touch the fabric of reality, one must be true to the wellspring of feeling wi
 
 #### [[Essence Sacrifice]] - Self-Worth, Loss and Commitment
 
-*Fourth thread: Auric Thread of Conservation of Energy.*
+*Fourth Auric Thread of Conservation of Energy.*
 Attuned Element [[Void]]. (Shadow + Space)
 
 Spellcraft is a currency of what one holds dearest. Power flows only when the [[Spellweaver]] parts with a fragment of their [[Fundamental Frequency]], [[Consciousness]], and being — the [[Spellweaver]]'s own shards of memory, life force, physical exhaustion, or symbolic attachments are the fuel of magic. Every enchantment mirrors the sacrifice, birth, and creation based on [[Perfect Reflection]].
