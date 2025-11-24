@@ -17,7 +17,7 @@ During the [[Seventh Cycle]] she was sealed in the [[Moon]] by the [[Auric Aria]
 
 Her element is [[Lunehymn]] with [[Glimmerfern]] being the refining material born out of sealed grief after the first [[Fated Flower]]s witnessed [[The Auric Aria's Sacrifice]].
 
-![[u4413486447_httpss.mj.rungZUy1BXcWOk_A_dormant_soul_leitmotif_g_549ecba7-66af-4a3d-acb9-2cd2d38c46bb.png]]
+![[Selenea's Soul Leitmotif.png]]
 
 [[Selenea]]'s [[Soul Leitmotif]].
 ### Media References:

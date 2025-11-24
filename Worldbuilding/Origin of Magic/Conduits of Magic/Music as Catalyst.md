@@ -1,3 +1,0 @@
-#spellweaving
-
-Magic exists due to a [[Soul Leitmotif]], requires a [[Primary Instrument]] to trigger in [[Spellweaving]].

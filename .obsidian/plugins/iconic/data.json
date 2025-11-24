@@ -62,6 +62,18 @@
         "d48e64e7bb66fb41"
       ]
     },
+    "Images/Chaos, Atonalis, Monsters": {
+      "icon": "lucide-cloud-moon-rain",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Images/Characters": {
+      "icon": "lucide-users",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
     "Images/Cosmic Objects": {
       "icon": "lucide-moon-star",
       "unsynced": [
@@ -74,14 +86,29 @@
         "d48e64e7bb66fb41"
       ]
     },
-    "Worldbuilding": {
-      "icon": "🗺️",
+    "Images/Spellweaving": {
+      "icon": "lucide-wand-sparkles",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]
     },
-    "Worldbuilding/Landmarks": {
-      "icon": "lucide-land-plot",
+    "Images/Tools & Inventions": {
+      "icon": "lucide-cog",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Images/Weapons & Relics": {
+      "icon": "lucide-swords",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "README.md": {
+      "icon": "🤔"
+    },
+    "Worldbuilding": {
+      "icon": "🗺️",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]
@@ -104,6 +131,12 @@
         "d48e64e7bb66fb41"
       ]
     },
+    "Worldbuilding/Mythology/Mythos": {
+      "icon": "lucide-wallpaper",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
     "Worldbuilding/Mythology/True Mythos of Creation.md": {
       "icon": "🌟"
     },
@@ -113,8 +146,62 @@
         "d48e64e7bb66fb41"
       ]
     },
+    "Worldbuilding/Origin of Magic/Bindings & Elements": {
+      "icon": "lucide-align-vertical-justify-end",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Origin of Magic/Celestial Objects": {
+      "icon": "moon",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Origin of Magic/Conduits of Magic": {
+      "icon": "lucide-arrow-up-left-from-circle",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Origin of Magic/Magical Resources": {
+      "icon": "lucide-kanban-square-dashed",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Origin of Magic/Root of Evil": {
+      "icon": "lucide-cloud-moon-rain",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Origin of Magic/Spellweaving": {
+      "icon": "lucide-wand-sparkles",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Origin of Magic/The One Symphony": {
+      "icon": "🇮🇴",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Origin of Magic/The Principles of Magic.md": {
+      "icon": "🪄"
+    },
     "Worldbuilding/Rise & Fall, Crisis": {
       "icon": "lucide-droplets",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Rise & Fall, Crisis/Arcanoria.md": {
+      "icon": "🌸"
+    },
+    "Worldbuilding/Rise & Fall, Crisis/Crisis": {
+      "icon": "lucide-pocket-knife",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]
@@ -127,6 +214,96 @@
     },
     "Worldbuilding/Society": {
       "icon": "lucide-message-circle-heart",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Society/Auric Order": {
+      "icon": "lucide-sunrise",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Society/Characters": {
+      "icon": "lucide-users",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Society/Societal Resources": {
+      "icon": "lucide-person-standing",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Society/Tools & Inventions": {
+      "icon": "lucide-cog",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Society/Weapons & Relics": {
+      "icon": "lucide-swords",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Truths, Chaos, Rituals": {
+      "icon": "distribute-space-horizontal",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Truths, Chaos, Rituals/Forbidden Objects": {
+      "icon": "lucide-bookmark",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths": {
+      "icon": "lucide-search-code",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Truths, Chaos, Rituals/Outer God Rituals": {
+      "icon": "lucide-scan-eye",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Truths, Chaos, Rituals/Spellweaving Rituals": {
+      "icon": "lucide-leafy-green",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/World Environment": {
+      "icon": "lucide-trees",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/World Environment/Atonalis": {
+      "icon": "lucide-moon-star",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/World Environment/Bestiary": {
+      "icon": "lucide-dog",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/World Environment/Biomes": {
+      "icon": "lucide-tent-tree",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/World Environment/Landmarks": {
+      "icon": "lucide-land-plot",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]

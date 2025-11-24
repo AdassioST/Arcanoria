@@ -1,5 +1,0 @@
-#scorchingtruth 
-
-A [[Scorching Truth]] which details that the true [[Perfect Manifestation of Life]] is impossible, nothing is immune from cruelty, from sorrow, from suffering, either as victim or as perpetrator. Neither the most gentle pacifist nor the greatest, enduring creatures are safe from it. It is the birthright of all [[Consciousness]] to wither, to eventually perish, either by the harsh hand of violence or by a withering death in time. The cycle is inescapable as it is as true as life itself.
-
-Neither [[The One True God]] or any [[Outer God]]s can change it despite how much they would desire to reshape reality. Existence and [[Consciousness]] is flawed and we are all powerless to the cruel [[The Infinite Void]]. [[The Eternal Symphony]] itself is a requiem for all life, and for there to be a requiem something has to die first.

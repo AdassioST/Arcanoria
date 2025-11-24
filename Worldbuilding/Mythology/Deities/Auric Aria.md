@@ -15,7 +15,7 @@
 
 During the [[Seventh Cycle]] she betrayed [[Selenea]] binding her in the [[Moon]] in the first [[Celestial Ensnaring Mirror]] to appropriate the power of breathing vitality in order to create [[Humanity]]. Her element is [[Aetherlight]] with [[Emberwhisper]] being the refining material from the crystalized theft of the [[Betrayal of the Moon]].
 
-![[u4413486447_A_dormant_soul_leitmotif_gem_teardrop_ovoid_7cm_len_5a1342ad-7f0d-49b2-a03d-9bf9bdff2bf2.png]]
+![[Auric Aria Soul Leitmotif.png]]
 
 The [[Auric Aria]]'s [[Soul Leitmotif]].
 ### Media References:

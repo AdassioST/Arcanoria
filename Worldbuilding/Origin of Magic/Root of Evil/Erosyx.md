@@ -1,0 +1,1 @@
+*"Love that consumes is not Love; it is Hunger."

@@ -1,0 +1,1 @@
+A place with exceptionally high [[Vibrational Density]].

@@ -23,7 +23,7 @@ Once phase‑locked, focused intention selects a target mode, collapsing [[Super
 
 The first [[Attunement for Magic]], achieved when compassion touched the wounded [[Auric Aria]], established this [[Flux]] coupling; their shared sorrow created the precise emotional frequency necessary for [[Coherence]] to interact with the [[Great Harmonic Loom]]’s structure. Thus, this proves that magic requires as much [[Potential of Creation]] as it does [[Mastery Over Chaos]], and, without both elements and a proper [[Key of Attunement]], the [[Spellweaver]] cannot achieve the psychophysical alignment necessary to sustain predictable [[Spellweaving]].
 
-### Corruption: The Cacophony of Broken Threads
+### [[Corruption]]: The Cacophony of Broken Threads
 
 The original [[Dissonance]] from the [[Fifth Cycle]] created regions where the [[Great Harmonic Loom]]'s [[Coherence]] collapsed into [[Vibrational Fallout]]. [[Formless Masses]] and [[Primal Discordia]] represent this harmonic breakdown, where the [[Auric Aria]]'s divine fear crystallized into entropy itself. These corrupted regions disrupt the intended magical effects by introducing unbound [[Primal White Noise]], causing cascading system failures that spread through the membrane's delicate harmonics like a virus.
 

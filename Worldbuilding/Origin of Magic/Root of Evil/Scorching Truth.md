@@ -6,3 +6,4 @@ List of [[Scorching Truth]]s:
 - [[The Auric Aria's Sacrifice]]
 - [[First Weaving of Life]]
 - [[Imperfection of Life]]
+- [[Root of All Evil]]

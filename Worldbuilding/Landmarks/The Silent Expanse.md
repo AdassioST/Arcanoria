@@ -1,3 +1,0 @@
-#chaos #biome
-
-A wasteland of wild magic where not even wind dares to stir.

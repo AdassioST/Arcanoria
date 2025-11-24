@@ -1,5 +1,7 @@
 #deity #chaos 
 
+![[Adass_A_colossal_iridescent_serpentine_form_half-submerged_in_a_6680be95-c3c2-4ba4-abca-83a89c1855a2.png]]
+
 Any other deity born on [[The Infinite Void]] that is not [[The One True God]]. They are all heavily despised by the [[Auric Aria]].
 
 They extend influence beyond the [[Known Universe]] and can only manifest with the help of flesh-bound vessels as they are too vast to enter physicality and lack [[Sufficient Precision]] to modify directly [[Arcanoria]].

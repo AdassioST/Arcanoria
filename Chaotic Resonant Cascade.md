@@ -1,3 +1,0 @@
-#chaos #technology 
-
-Heightened version of [[Discordant Interference]] that erupts along the boundary of [[Vibrational Fallout]], where corrupted harmonics leap from thread to thread in rapid succession and greatly amplify the effects of all wild magic. The mixture of [[Discordant Interference]] with amplified vibrational bursts fractures all conventional [[Spellweaving]] turning every spell immensely dangerous and potent.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Pathways and Interconnected Awakenings.md",
+                "file": "Worldbuilding/Origin of Magic/The Principles of Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal Pathways and Interconnected Awakenings"
+              "title": "The Principles of Magic"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spellweaving",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Pathways and Interconnected Awakenings.md",
+                "file": "Worldbuilding/Origin of Magic/The Principles of Magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Personal Pathways and Interconnected Awakenings"
+              "title": "Backlinks for The Principles of Magic"
             }
           },
           {
@@ -123,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Worldbuilding/Society/Characters/Eyras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Eyras"
             }
           },
           {
@@ -138,7 +139,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -151,19 +152,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Worldbuilding/Society/Characters/Eyras.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Eyras"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 244
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,53 +184,53 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Key of Attunement.md",
-    "Personal Pathways and Interconnected Awakenings.md",
-    "Motif Awakening.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/The Principles of Magic.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Echoing Bonds.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Perfect Focus.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Absolute Certainty.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Sufficient Precision.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Emotional Authenticity.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Essence Sacrifice.md",
-    "Soul Leitmotif.md",
-    "Worldbuilding/Mythology/Deities/Auric Aria.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/Soul Leitmotif.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/Music as Catalyst.md",
     "Gateway To Genesis.md",
-    "Worldbuilding/Mythology/Deities/Selenea.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Resonance.md",
-    "u4413486447_Apocalyptic_cinematic_wide_shot_scene_of_an_awakene_2935cb08-a9ac-4390-927f-245a5e64e8bc.png",
-    "Worldbuilding/Rise & Fall, Crisis/Arcanoria.md",
-    "Void.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Potential of Creation.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Flux.md",
-    "Spellweaver.md",
-    "u4413486447_An_awakened_soul_leitmotif_gem_in_catastrophic_mani_758cf879-298d-491f-9017-5bdc31265743.png",
-    "Worldbuilding/Mythology/Deities/Humanity.md",
-    "Spellweaving.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Triadic Virtues of Spellcraft.md",
-    "Worldbuilding/Mythology/Deities/Outer God.md",
-    "Worldbuilding/Mythology/Mythos/First Cycle.md",
-    "Worldbuilding/Mythology/Mythos/Eighth Cycle.md",
-    "u4413486447_httpss.mj.runTTgkvf8lKLk_A_dormant_soul_leitmotif_g_f4ab8d6d-b3dd-4b3a-acc0-d6ceb7f39e2a.png",
-    "u4413486447_A_wearable_soul_leitmotif_gem_as_a_spherical_pendan_79e803ee-41bc-463e-bfc6-ba1c1223b44e.png",
-    "Worldbuilding/Mythology/Deific Moodboard.canvas",
-    "u4413486447_httpss.mj.rungZUy1BXcWOk_A_dormant_soul_leitmotif_g_549ecba7-66af-4a3d-acb9-2cd2d38c46bb.png",
-    "u4413486447_A_dormant_soul_leitmotif_gem_teardrop_ovoid_7cm_len_5a1342ad-7f0d-49b2-a03d-9bf9bdff2bf2.png",
-    "u4413486447_A_dormant_soul_leitmotif_gem_teardrop_ovoid_7cm_len_8f471712-63f9-4b3c-8db2-443694e3ac2a.png",
-    "Untitled.base",
+    "Elara.png",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
-    "Auric  Aria 10.png",
-    "Selenea 4.png",
-    "Selenea 2 1.png",
-    "Worldbuilding/Society/Characters",
-    "LICENSE",
-    "Images/Deities/Selenea",
-    "Worldbuilding/Society",
-    "Worldbuilding/Mythology/Mythos",
-    "Worldbuilding/Origin of Magic/Magical Resources",
-    "Worldbuilding/Mythology",
-    "Worldbuilding/Origin of Magic/Celestial Objects",
-    "Worldbuilding/Rise & Fall, Crisis/Crisis"
+    "Worldbuilding/Mythology/True Mythos of Creation.md",
+    "Worldbuilding/Mythology/Deific Moodboard.canvas",
+    "Worldbuilding/Mythology/Deities/Selenea.md",
+    "Worldbuilding/Mythology/Deities/Auric Aria.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Atonalis.md",
+    "Worldbuilding/Society/Characters/Elara.md",
+    "Worldbuilding/Society/Characters/Sedrick.md",
+    "Worldbuilding/Society/Characters/Eyras.md",
+    "Worldbuilding/World Environment/Atonalis/The Cradle of Echoes.md",
+    "Worldbuilding/World Environment/Biomes",
+    "Worldbuilding/World Environment/Bestiary",
+    "Worldbuilding/Environment, Creatures/Untitled.md",
+    "Worldbuilding/World Environment/Atonalis",
+    "Worldbuilding/World Environment",
+    "Adass_a_dark_swirling_tornado_of_smoke_and_clouds_in_the_shape__3e41ccde-1568-4f2c-8d0d-9ba1f4ae472c.png",
+    "Adass_A_colossal_iridescent_serpentine_form_half-submerged_in_a_6680be95-c3c2-4ba4-abca-83a89c1855a2.png",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Consciousness.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Corruption.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Anxithor.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Formless Masses.md",
+    "Images/Chaos, Atonalis, Monsters/Atonalis.png",
+    "Worldbuilding/Society/Characters/Skarr Karmelita.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Auroral Ribbons.md",
+    "Worldbuilding/Society/Characters/Vanessa of Iridia.md",
+    "Worldbuilding/Society/Characters/The White-Touched Archivist.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Discant.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/Spellweaver.md",
+    "Adass_A_wavering_semi-corporeal_specter_manifesting_as_a_humano_2526b4a0-588f-480e-a576-7660aa2b6347.png",
+    "Adass_A_wavering_semi-corporeal_specter_manifesting_as_a_humano_2526b4a0-588f-480e-a576-7660aa2b6347 1.png",
+    "Worldbuilding/Origin of Magic/Root of Evil/Eight-Born Paths.md",
+    "Worldbuilding/Mythology/Mythos/Fifth Cycle.md",
+    "Worldbuilding/Mythology/Mythos/Seven-Day Creation.md",
+    "Worldbuilding/Mythology/Mythos/Eighth Cycle.md",
+    "Images/Chaos, Atonalis, Monsters/Formless Mass 2.png",
+    "Images/Spellweaving/Soul Leitmotif.png",
+    "Images/Chaos, Atonalis, Monsters/Eight-Born Paths 5.png",
+    "Images/Chaos, Atonalis, Monsters/Formless Mass 1.png",
+    "Images/Spellweaving",
+    "Images/Chaos, Atonalis, Monsters",
+    "Worldbuilding/Society/Societal Resources",
+    "Images/Weapons & Relics/World Bending Objects",
+    "Images/Weapons & Relics",
+    "Images/Tools & Inventions"
   ]
 }

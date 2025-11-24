@@ -1,3 +1,0 @@
-#spellweaving
-
-Fire + Wind
