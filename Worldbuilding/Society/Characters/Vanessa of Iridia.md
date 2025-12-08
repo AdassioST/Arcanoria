@@ -2,7 +2,7 @@
 
 Idea for a main character that just so happens to be an incredible cameo.
 
-[[Primary Instrument]]: [[Own Voice]], [[Dance]]
+[[Primary Instrument]]: [[Own Voice]], Piano
 [[Armament]]: None
 [[Soul Leitmotif]]: [[Resonance]]
 [[Ornament]]s: [[Crystal]], [[Flux]]

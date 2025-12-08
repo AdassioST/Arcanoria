@@ -32,12 +32,14 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 - Spell Crafting System
 - Combat Troop Templates / Compositions
 - Religion, Laws System
+- Story Builder + User Generated Content
+- Community Story Ratings + Mod Interface
 
 ### 🎭World Building
 
 - [[True Mythos of Creation]].
 - The Realm of [[Arcanoria]].
-- The [[Great Fracture]] and the [[Cataclysmic Aftermath]].
+- [[Ages]], the [[Great Fracture]] and [[Age Crisis]] [[Cataclysmic Aftermath]]s.
 - [[The White-Touched Archivist]].
 - [[Music as Catalyst]] and [[The Principles of Magic]].
 - Passing of [[Cycle]] and [[Ages]].
@@ -61,8 +63,39 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 - Magical artifacts being woven, strong reality bending artifacts contain the [[Soul Leitmotif]] and [[Consciousness]] of a powerful being. Limited use cases before they depart and come on with [[The Eternal Symphony]]. It's a sort of [[Flesh-Casing Ritual]]. Akin to white whistles in Made in Abyss.
 - Titles: "Tamer of Terrors",
 - [[Erosyx]] [[Atonalis]] born from a gay dude refusing.
+- Unchecked [[Consonance]] is just as bad as [[Dissonance]] without intention. It is the mixture of both that gives texture and feeling to a song.
+- [[Sufficient Precision]] to the max first used by a serial killer who develops anatomical knowledge to make incredibly sharp cuts. First display and mastery of [[Sufficient Precision]], [[Perfect Focus]] and [[Absolute Certainty]]. The [[Mastery Over Chaos]] jack the ripper.
+- [[Perfect Focus]] + [[Cindergale]] user "The mind is a powerful thing, it can make a heaven out of hell, or a hell out of heaven. The line lies in being on the present flow in the eye of chaos."
+
+Dancers Story
+- Dos personajes medianamente inspirados en la historia de Caín y Abel que desde chiquitos los entrenaron en un pueblo para defender una reliquia.
+- Se supone que en este pueblo, la manera en la que han logrado defender la reliquia es a través de la [[Consonance]] por [[Sympathetic Oscillation]].
+- Van creciendo, se lo roban, no logran juntarse, causan [[Dissonance]], vale todo
+- Empiezan a hacer su camino otra vez de cómo tener la [[Consonance]] y volver al pueblo.
+- A base de que uno cree que él no la cagó sino que es el otro que está mal es que se empieza a volver villanezca la cosa. Él no comete errores y la culpa es del otro.
+- En vez de arreglar los problemas cada vez causan más [[Dissonance]].
+- Mejores amigos para siempre, pero después del pueblo se van.
+- Para que se lleven mejor, son dos [[Dance]]rs, se sincronizan a través de bailar y estar haciendo en dueto la música. [[Luminance]] el que se y [[Void]] el que sufre la pérdida de su amigo después de que desapareció. Safe bet de dos hombres.
+- Es una historia basada completamente en la confianza, ya que el baile depende de la confianza. A veces la persona con la que bailas la caga, tienes que confiar en que se puedan recuperar de eso y puedan seguir bailando juntos a pesar del error.
+- El baile da para que cada quien se exprese de diferente manera aunque sea la misma música, aunque el ritmo sea diferente ambos hacen sentido.
+- El pueblo tiene un background de que le gustan las percusiones, baile a la luna relacionado a [[Selenea]].
+- Ryan fue más outgoing y sus padres no prestaban atención entonces hacía lo que quería, Minging lo veían mucho y era lo contrario, tenía todas las expectativas sobre él. Tomar más riesgos sin plan vs Tener un plan impuesto y miedo a los riesgos. (Algo relacionado a la personalidad de dos ideas opuestas debido a la presión social respecto a cada uno. Cain / Abel)
+
 
 - Monster Hunter
 - Witcher
 - Planet Zoo
 
+- [[Flux]]
+- Large
+- Deer + Bear
+- Plumage
+![[Gateway To Genesis.jpg]]
+
+![[Gateway To Genesis-1.jpg]]
+
+[[Void]]
+- Tiny
+- Horse + Wolf
+- Social Creature
+- Magic on Tail

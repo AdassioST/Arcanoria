@@ -1,0 +1,1 @@
+A type of [[Age Crisis]] resulting in the firing of the ultimate weapon by the use of a Tetrad Chord.

@@ -46,11 +46,24 @@ In the moment of surrender to [[Corruption]], the [[Soul Leitmotif]] shatters. T
 
 When the [[Dissonance]] cocoon ruptures, it releases a violent burst of [[Discordant Interference]], and the [[Atonalis]] is born. What emerges is no longer a [[Spellweaver]], it is a hollow entity unable to remember its previous state of existence. Ironically, It retains the elemental binding of the original's [[Spellweaver]]'s [[Soul Leitmotif]], locked forever within that signature. It carries fragments of the [[Spellweaver]]'s knowledge, skills, and memories, but all of these are filtered through the lens of a suffering creature from the [[Eight-Born Paths]].
 
+### Stages of an [[Atonalis]]
+
+- Nascent:
+
+- Sectile:
+
+- Fracted:
+
+- Ascendant:
+
+- [[Primal Discordia]]:
+
+
 ### The Surrender of [[Elara]], [[The Cradle of Echoes]]
 
 As a human, [[Elara]] was a seamstress of tapestries long before she knew magic. Her hands moved through thread and needle with practiced grace, preserving stories and history records in cloth. When her primary binding manifested, her [[Soul Leitmotif]] crystallized as [[Strand]] as the natural extension of hands that already wove memory into form. For years, this was enough. Her magic deepened what she already knew: the threading of bonds, the preservation of love across time.
 
-Then she met [[Sedrick]]. A [[Spellweaver]] of [[Crystal]], he brought clarity to her world and a dream she had never dared voice — a family, children, a home filled with the kind of love that built futures. For a time, they built that future together. However, when the first wave of the [[Great Plague]] took him while she was heavy with his child, that dream was shattered. The plague erased the future she had just learned to imagine.
+Then she met [[Sedrick]]. A [[Spellweaver]] of [[Crystal]], he brought clarity to her world and a dream she had never dared voice — a family, children, a home filled with the kind of love that built futures. For a time, they built that future together. However, when the first wave of [[The Great Plague]] took him while she was heavy with his child, that dream was shattered. The plague erased the future she had just learned to imagine.
 
 She underwent her [[Motif Awakening]] for [[Void]] in the depths of that loss — not just the death, but the unmade family, the dreams left crystallized in air — her first [[Ornament]] awakened. [[Void]] crystallized alongside her [[Strand]] binding, the power to thread emptiness as deeply as presence, to honor what was missing as much as what remained.
 

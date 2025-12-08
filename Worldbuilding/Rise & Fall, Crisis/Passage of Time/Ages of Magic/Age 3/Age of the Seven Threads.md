@@ -1,0 +1,3 @@
+Warring states period inspired by the seven warring states but with the elemental bindings of the [[Auric Heptacode]] and [[The Principles of Magic]]. Each kingdom representing [[Resonance]], [[Luminance]], [[Flux]], [[Void]], [[Cindergale]], [[Crystal]], [[Strand]]. 
+
+They are only using one but it will teach the importance of multi binding and using more than one element through specialization in [[Ornament]]s.

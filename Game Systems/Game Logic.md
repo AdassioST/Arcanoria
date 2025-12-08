@@ -1,7 +1,7 @@
 Game Logic runs as the core manager for two sections:
 ### Game Units Logic
 
-This system manages every in-game item of the class of Game Units. These are [[Resources]], [[Production Units]], and [[Technologies]]. Game Units are stored in container collections divided by sections. Some [[Resources]] pertaining to [[Old World Materials]] appear as such, like Duskstone.
+This system manages every in-game item of the class of Game Units. These are [[Resources]], [[Production Units]], and [[Technologies]]. Game Units are stored in container collections divided by sections. Some [[Resources]] pertaining to [[Old World Relics]] appear as such, like Duskstone.
 
 In the case of [[Technologies]] however, they are grouped by [[Ages]] instead, like [[Age of Desolation]] being the section for Reconstruction. Finally, production units are categorized by [[District]] like Field Kitchen being part of the [[Heartlands]] or Decaying Hut being part of the [[Residential District]]. 
 

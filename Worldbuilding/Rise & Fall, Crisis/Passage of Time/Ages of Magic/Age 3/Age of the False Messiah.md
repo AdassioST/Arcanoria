@@ -1,0 +1,1 @@
+The first coming of [[The False Moon]] an [[Outer God]] inviting chaos and a terrible accident with a tetrad chord.

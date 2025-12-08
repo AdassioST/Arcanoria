@@ -1,0 +1,1 @@
+Trapping [[Outer God]]s in [[Celestial Ensnaring Mirror]]s. Related to the [[Weight of Value]].

@@ -1,0 +1,1 @@
+Control of the [[Dual Confluence Stream]], new age of the golden. Gentle giant beasts come to exist due to this
