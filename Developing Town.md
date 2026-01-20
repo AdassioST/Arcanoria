@@ -1,0 +1,1 @@
+Minor cities that aren't yet [[Major Settlement]]s. All [[Major Settlement]]s begin as [[Developing Town]]s.

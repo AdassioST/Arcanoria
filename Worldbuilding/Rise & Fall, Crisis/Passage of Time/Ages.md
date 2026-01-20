@@ -1,40 +1,65 @@
 Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 13, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]].
 
-All [[Ages]] have branching logic depending on the [[Age Crisis]] triggered from certains checks of resources, population, crisis technology, etc. Based on what the player has done during that age, their era score, and certain focus missions, they will enter a [[Golden Age]], a [[Dark Age]] or a [[Standard Age]].
+All [[Ages]] have branching logic depending on the [[Age Crisis]] triggered from certain checks of resources, population, crisis technology, etc. Based on what the player has done during that age, their era score, the [[Age Crisis]] resolution, and certain focus missions, they will enter a [[Golden Age]], a [[Dark Age]] or a [[Standard Age]].
 
-The diagram of all ages is the following:
+The diagram of all [[Ages]] is the following:
+
+Excess [[Era Score]] above the required for a [[Golden Age]] becomes points that can redeem failed [[Age Crisis]] checks. Even if [[Civilization]] performs poorly during an [[Age Crisis]], it can be saved by the excess [[Era Score]] to go back into a [[Golden Age]] or resist a [[Dark Age]]. Additional [[Era Score]] is a saving grace buffer for [[Ages]] transitions.
 
 ### Age 0 (Stone Age)
 
 Fractured [[Arcanoria]] after a [[Cataclysmic Aftermath]].
-Flickering Rhythm. Barely any Unison Spells. Mostly [[Resonance]].
+Flickering Staccato Rhythm. Primitive [[Unison]] Spells. Mostly [[Minor Note]] magic.
 
 - [[Age of Desolation]]: ([[Age Crisis]]: The [[The Inescapable Hunger]]) | Dark Fantasy
+
+The [[Age Crisis]] teaches that there are [[Civilization]] changing events at the end of all [[Ages]].
+
+_[[Age Crisis]] exist._
 
 ### Age I (Bronze Age)
 
 Healing from the [[Cataclysmic Aftermath]] fallout.
-Introducing Staccato. First Stable Unison. Sparse Magic.
+Introducing Legato. First Stable [[Unison]]. Introducing [[Major Note]]s, and sparse [[Dyad Chord]]s Magic.
 
 [[Ages]]:
-- [[Age of Renewal]] ([[Age Crisis]]: [[The Great Plague]] of Euphoria) | Dark Fantasy
-- [[Age of Hymns]] (Attainable after first [[Cataclysmic Aftermath]] reset) | Dark Fantasy
+- [[Age of Renewal]] ([[Age Crisis]]: [[Great Plague]] of Euphoria) | Dark Fantasy
+- [[Age of Hymns]] (Attainable after learning [[The Truth of Arcanoria]] after the [[Cataclysmic Aftermath]] of the [[Second Reset]]) | Dark Fantasy
+
+The [[Age Crisis]] teaches that [[Civilization]] can fail and the resolution of the [[Cataclysmic Aftermath]] leads to a different [[Golden Age]], [[Standard Age]], or [[Dark Age]] from the survivors.
+
+_You can fail an [[Age Crisis]]._
 
 ### Age II (Iron Age)
 
 Establishment of [[The Principles of Magic]].
-Introducing Legato. First Dyads. Unison Primacy. Basic Magic.
+Introducing Ritardando. First [[Dyad Chord]]s. [[Unison]] Primacy. Basic Magic.
+
+The [[Age Crisis]] is variations of the start of [[The Hollowing]], [[A Pact of a Thousand-Eyes]], or [[Voice of the Heavens]]. It is the first age to have more than one crisis that depends entirely on the [[Civilization]] behavior and if they were the ones that invited an [[Outer God]], [[Lacrimosa]], to [[Arcanoria]].
+
+The [[Age Crisis]] teaches that there's more than one [[Age Crisis]] possible, and the paths of [[World Event]]s have variation depending on the resolution. If the [[Civilization]] loses to [[Lacrimosa]] they become the "villain" as one of the satellites supporting [[The Hollowing]] during the [[Age of the False Messiah]]. It proves [[Civilization]] is not static and there is no "correct" route to development.
 
 [[Ages]]:
 - [[Age of Behemoths]] ([[Golden Age]]) | Light Fae Fantasy
 - [[Age of Glyphs]] ([[Standard Age]]) | High Fantasy
 - [[Age of Embers]] ([[Dark Age]]) | Dark Fantasy
 
+The [[Age Crisis]] teaches that [[Civilization]] can trigger different types of [[Age Crisis]] based on their involvement with the triggers during the [[Ages]]. [[World Event]]s have different manifestations, they're not always the same [[Age Crisis]].
+
+_There is more than one possible [[Age Crisis]] depending on your actions._
+
 ### Age III (Classical Antiquity)
 
+**Cause of [[The Birth of the Tetrad Chord]] accident with whomever is on the side of [[Lacrimosa]]. Teasing to the [[Polychord Crisis]] and the eventual [[Civilization Reset]].**
+
+Starting point of proper [[Ornament]]al Magic. Full resolution of the [[World Event]] of [[The Hollowing]] and [[Lacrimosa]] brewing through the whole age.
+
 First classical civilizations.
-Introducing Ritardando. First Triads. Dyad Primacy. Unison Mastery.
-Starting point of [[Ornament]]al Magic.
+Introducing Accelerando. First [[Triad Chord]]s. [[Dyad Chord]] Primacy. [[Unison]] Mastery.
+
+The [[Age Crisis]] is variations of [[The Hollowing]], [[Opposing the Heavens]], [[The Undeniable Moon]], [[The Birth of the Tetrad Chord]], depending on their relationship with her and the stance they take as either a [[Major Actor]] or [[Minor Actor]].
+
+The [[Age Crisis]] teaches that there's different roles [[Civilization]] can take in [[World Event]]s and [[Age Crisis]].
 
 [[Ages]]:
 - [[Age of Legends]] ([[Golden Age]]) | Epic Fantasy (Frieren's Flamme Mythical Mages)
@@ -42,12 +67,19 @@ Starting point of [[Ornament]]al Magic.
 - [[Age of Silk]] ([[Standard Age]]) | Dark Fantasy
 - [[Age of the False Messiah]] ([[Dark Age]]) | Horror Fantasy (First [[Outer God]] intrusion)
 
-**Cause of the First Tetrad Chord Accident.
+The [[Age Crisis]] teaches that [[Civilization]] can participate as a [[Major Actor]] or a [[Minor Actor]] in [[World Event]]s, and that they can pick whichever side they decide on the conflict.
+
+_There are [[Minor Actor]] and [[Major Actor]] roles for [[Age Crisis]] and stories._
 
 ### Age IV (Early Medieval)
 
+**[[Ages]] IV onwards there are [[Magical Objects]], [[Cursed Objects]] and [[World-Bending Relics]].**
+
+Resolution of the [[Law of Relics]] and [[The Hollowing]] allow for [[World-Bending Relics]] to exist from now onwards, giving permanence to both [[Magical Objects]], and [[Cursed Objects]].
+
 Exploration and classical RPG focused with small settlements & castles.
-Introducing Accelerando. Basic Triads. Dyad Primacy. Unison Mastery.
+
+Introducing Polyrhythms. Basic [[Triad Chord]]s. [[Dyad Chord]] Primacy. [[Unison]] Mastery.
 Starting point of Advanced Magic.
 
 [[Ages]]:
@@ -56,13 +88,19 @@ Starting point of Advanced Magic.
 - [[Age of Wayfarers]] ([[Standard Age]]) | Mythic Fantasy (Xianxia)
 - [[Age of Candles]] ([[Dark Age]]) | Dark Fantasy
 
+_There is more than a single [[World Event]] for an [[Age Crisis]].
+
+The [[Age Crisis]] teaches that [[Civilization]] can have multiple [[World Event]]s at the end of an era, and each is an [[Age Crisis]].
+
 ### Age V (Middle Medieval)
 
-First "Age of [[Humanity]]"
+First "Age of [[Humanity]]."
 
-Focus on Duchy to Kingdom building, rags to riches stories, religion primacy. 
-Introducing Polyrhythms. Advanced Triads. Dyad Mastery. Unison Mastery.
-Advanced [[Ornament]]al Magic Development.
+Focus on Duchy to Kingdom building, rags to riches stories, religion primacy, crusades, and similar mechanics.
+
+_First Diplomatic Heavy Mechanics, Starting Espionage Organisms, Border Skirmishes, Ideology / Theology, Rivals, Conflicts and Political Interests._
+
+Advanced Polyrhythms. Advanced [[Triad Chord]]s. [[Dyad Chord]] Mastery. [[Unison]] Mastery. Advanced [[Ornament]]al Magic Development.
 
 [[Ages]]:
 - [[Age of the Sacred Cross]] ([[Golden Age]]) | Dark Fantasy
@@ -71,10 +109,17 @@ Advanced [[Ornament]]al Magic Development.
 - [[Age of Covens]] ([[Standard Age]]) | Dark Fantasy
 - [[Age of Horrors]] ([[Dark Age]]) | Horror Fantasy
 
+_Even if there's multiple [[World Event]]s, they can still converge as [[Age Crisis]] with several [[Major Actor]]s. Each with their own agenda and means of survival._
+
+The [[Age Crisis]] teaches that all [[Major Actor]]s have their own agenda, and even if there's multiple [[World Event]]s they can still converge as the [[Age Crisis]] that has multiple conflicting factions fighting for their own agenda and survival.
+
 ### Age VI (High Medieval)
 
 Focus on Kingdom to Empire, established civilizations, culture, courts, secrets.
-All rhythm types available. First Unstable Tetrads. Triad Primacy. Dyad Mastery. Unison Mastery.
+
+_First Cultural Conflicts, Advanced Espionage, Owls of Minerva, Assassins, Betrayals, Courtship, Political Drama & Diplomatic Scandals._
+
+All rhythm types available. First Unstable [[Tetrad Chord]]s. [[Triad Chord]] Primacy. [[Dyad Chord]] Mastery. [[Unison]] Mastery.
 Starting point of Mastery of Magic.
 
 [[Ages]]:
@@ -84,9 +129,13 @@ Starting point of Mastery of Magic.
 - [[Age of Vessels]] ([[Dark Age]]) | Horror Fantasy
 - [[Age of Auroral Ribbons]] ([[Dark Age]]) | Dark Fantasy
 
-**First Reset with Tetrad [[Polychord Crisis]]. 
+_[[Age Crisis]] can end [[Civilization]] and lead to a [[Civilization Reset]]._
+
+The [[Age Crisis]] teaches that all [[Civilization]]s have an end, and that every end is just a beginning. That's the [[Weight of Change]], and it's necessary for advancing into hard mode after learning [[The Truth of Arcanoria]].
 
 The [[Polychord Crisis]] is going to be the AC, BC of the game. After [[Polychord Crisis]] (APC), Before [[Polychord Crisis]] (BPC).
+
+**First [[Civilization Reset]] with the Tetrad [[Polychord Crisis]]. Teasing of building the "ultimate weapon" which is previously one of the [[Crisis Wonders]].**
 
 ### Age VII (Renaissance & Discovery)
 
@@ -107,7 +156,7 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 
 ### Age IX (Industrial Era)
 
-Second Age of [[Humanity]].
+Second "Age of [[Humanity]]."
 
 - [[Age of Invention]] ([[Standard Age]]) | Early Steampunk
 - [[Age of Sealing Iron]] ([[Dark Age]]) | Dark Fae Fantasy
@@ -118,15 +167,15 @@ Second Age of [[Humanity]].
 - [[Age of Clockwork]] ([[Golden Age]]) | Steampunk
 - [[Age of Chimeras]] ([[Dark Age]]) | Horror Fantasy
 
-### Age XI (Atomic & War Era)
+### Age XI (Atomic, World Wars & Information Era)
 
-Third Age of [[Humanity]].
+Third "Age of [[Humanity]]."
 
 - [[Age of Starlight]] ([[Golden Age]]) | Magical Girls
 
-**Second Reset with MAD
+**Second [[Civilization Reset]] with MAD
 
-### Age XII (Information Era)
+### Age XII (Near Future Era)
 
 - [[Age of Arcology]] ([[Golden Age]]) | Urban Fantasy
 - [[Age of Holography]] ([[Standard Age]]) | Space Fantasy

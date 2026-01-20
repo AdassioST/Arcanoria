@@ -100,9 +100,27 @@ The sequence of activation is the following:
 4. Spell Manifestation and Cascading Collateral Damage (7+ seconds):
 5. Collapse and Aftermath (On ending of [[Awakened State]]):
 
+### [[Soul-Binding]] of a [[Primary Instrument]]
+
+When you bind with your [[Soul-Key]] a [[Primary Instrument]] of sufficient emotional value. It allows to create a copy of any tangible instrument that can be activated to conjure magic through [[Music as Catalyst]] without having to carry it.
+
+It is exceptionally useful for both combat and utility but it requires that the [[Spellweaver]] has unlocked at least one [[Ornament]]. 
+
+The storage is found withing the [[Soul Leitmotif]] as part of the [[Spellweaver]]s own [[Consciousness]] that's why it has to be meaningful enough for it to attune to oneself.
+
+### [[Soul-Casing]] of [[Familiar]]s
+
+A concept similar to that of [[Soul-Binding]] but it encases on itself an animal or [[Pure Light]] being born from [[Consciousness]].
 
 ### Dark Arts
 
-[[Flesh-Casing Ritual]], [[Red Honey]]
+[[Flesh-Casing Ritual]]: The dark version of making a [[Familiar]] but from oneself to encase fully within the gem. The [[Spellweaver]] is able to withstand fatal physical damage so long as their [[Soul Leitmotif]] remains intact. It becomes not just the externalization of [[Consciousness]] but rather the [[Spellweaver]] essence entirely. If the [[Soul Leitmotif]] is broken or damaged, it is fatal for the [[Spellweaver]] regardless of their physical state.
+
+The body becomes only a container, but if the body moves away more than 30 meters from the [[Soul Leitmotif]] it causes the body to cease functioning and, unless an external actor returns them within the [[Soul-Key]] [[Resonance]] distance, it usually ends in comatose or permanent death as the body naturally rots just as if it was regular rigor mortis.
+
+[[Flesh-Binding Ritual]]: A similar concept of binding oneself but instead of using the [[Soul-Key]] in a [[Soul Leitmotif]] to transfer a state of physicality into formless or [[Consciousness]] it instead does the opposite, giving flesh to anything beyond the [[Known Universe]]. It is the only method that invites [[Outer God]]s to [[Arcanoria]] by using sacrifice as the means of gaining an [[Anthropomorphic Shape]].
+
+
+[[Red Honey]]
 
 *Virtually the same as a vision in Genshin*

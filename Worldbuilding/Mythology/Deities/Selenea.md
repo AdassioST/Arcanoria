@@ -2,6 +2,8 @@
 
 [[Outer God]] | [[Deific Moodboard.canvas|Deific Moodboard]]
 
+Also known as the Pale Moon.
+
 [[Primary Instrument]]: [[Pale Moonlit Violin]], [[Dance]]
 [[Armament]]: None
 [[Soul Leitmotif]]: [[Strand]]
@@ -11,7 +13,7 @@
 
 ![[Selenea 6.png]]
 
-An [[Outer God]], co creator of [[Humanity]] who gave them the gift of life through their own [[Fundamental Frequency]]. 
+An [[Outer God]], co creator of [[Humanity]] who gave them the gift of life through their own [[Fundamental Frequency]].
 
 During the [[Seventh Cycle]] she was sealed in the [[Moon]] by the [[Auric Aria]] in a [[Celestial Ensnaring Mirror]] after the [[Auric Aria]]'s [[Betrayal of the Moon]].
 

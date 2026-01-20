@@ -1,3 +1,5 @@
 #spellweaving 
 
-Wind + Sound Waves
+The carrier wave of [[Spellweaving]] and reality itself. 
+
+Wind + (Sound) Waves

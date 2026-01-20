@@ -1,3 +1,3 @@
 #technology
 
-[[Stable Harmonic Channels]] where energy runs
+[[Stable Harmonic Channels]] where natural [[Coherence]] and energy runs.

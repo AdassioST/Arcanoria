@@ -34,7 +34,9 @@ If the [[Atonalis]] is born from collective [[Consciousness]] from events, they 
 
 When they have fed enough on [[Consciousness]], they begin their metamorphosis into a [[Dissonance]] cocoon. Depending on the type of emotion they fed on, they will manifest as one of the [[Eight-Born Paths]] upon hatching. Once the cocoon ruptures and the [[Atonalis]] emerges, it is perpetually seeking resolution through feeding on negative emotional wounds that match its classification in the attempt to find [[Coherence]]. This paradox is what makes these beings tragic and hostile: their state of permanent suffering invites harm to mirror their own, and they endlessly pursue a resolution they can never achieve.
 
-### Birth from [[Corruption]] of a [[Spellweaver]]'s [[Soul Leitmotif]] 
+### Birth from [[Corruption]] of a [[Spellweaver]]'s [[Soul Leitmotif]]
+
+_If you see a monster, kill it. If you wait enough to hear their story, you might start loving them. And empathy is the most dangerous weapon you're willfully giving._
 
 ![[Adass_a_dark_swirling_tornado_of_smoke_and_clouds_in_the_shape__3e41ccde-1568-4f2c-8d0d-9ba1f4ae472c.png]]
 
@@ -48,7 +50,7 @@ When the [[Dissonance]] cocoon ruptures, it releases a violent burst of [[Discor
 
 ### Stages of an [[Atonalis]]
 
-- Nascent:
+- Nascent: 
 
 - Sectile:
 
@@ -63,7 +65,7 @@ When the [[Dissonance]] cocoon ruptures, it releases a violent burst of [[Discor
 
 As a human, [[Elara]] was a seamstress of tapestries long before she knew magic. Her hands moved through thread and needle with practiced grace, preserving stories and history records in cloth. When her primary binding manifested, her [[Soul Leitmotif]] crystallized as [[Strand]] as the natural extension of hands that already wove memory into form. For years, this was enough. Her magic deepened what she already knew: the threading of bonds, the preservation of love across time.
 
-Then she met [[Sedrick]]. A [[Spellweaver]] of [[Crystal]], he brought clarity to her world and a dream she had never dared voice — a family, children, a home filled with the kind of love that built futures. For a time, they built that future together. However, when the first wave of [[The Great Plague]] took him while she was heavy with his child, that dream was shattered. The plague erased the future she had just learned to imagine.
+Then she met [[Sedrick]]. A [[Spellweaver]] of [[Crystal]], he brought clarity to her world and a dream she had never dared voice — a family, children, a home filled with the kind of love that built futures. For a time, they built that future together. However, when the first wave of [[Great Plague]] took him while she was heavy with his child, that dream was shattered. The plague erased the future she had just learned to imagine.
 
 She underwent her [[Motif Awakening]] for [[Void]] in the depths of that loss — not just the death, but the unmade family, the dreams left crystallized in air — her first [[Ornament]] awakened. [[Void]] crystallized alongside her [[Strand]] binding, the power to thread emptiness as deeply as presence, to honor what was missing as much as what remained.
 

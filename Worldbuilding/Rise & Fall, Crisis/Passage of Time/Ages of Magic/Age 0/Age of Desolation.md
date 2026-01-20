@@ -1,9 +1,9 @@
 #age
 
-*"Golden ashes forsaken by the Gods."
+_"Golden ashes forsaken by the Gods."_
 
 Description:
-*"The once-great civilization is now reduced to a faraway memory, dwindled to dust, and scattered survivors struggling to find food, shelter, and safety. The land is littered with crumbling structures, decaying in remnants of a gentler past and steeped in a pervasive sense of despair. Only slim, isolated communities form as people strive to piece together their shattered lives, clinging to fragments of ancient knowledge and relics for hope."
+_"The once-great civilization is now reduced to a faraway memory, dwindled to dust, and scattered survivors struggling to find food, shelter, and safety. The land is littered with crumbling structures, decaying in remnants of a gentler past and steeped in a pervasive sense of despair. Only slim, isolated communities form as people strive to piece together their shattered lives, clinging to fragments of ancient knowledge and relics for hope."_
 
 The starting point of the [[Ages]] for the game, it pertains to Age 0 as it isn't itself a proper age but rather it is the result of the post apocalyptic landscape after a [[Cataclysmic Aftermath]].
 

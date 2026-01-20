@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Mythology/Deities/The False Moon.md",
+                "file": "Gateway To Genesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The False Moon"
+              "title": "Gateway To Genesis"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398
+    "width": 200
   },
   "right": {
     "id": "c527bee07c2268a4",
@@ -97,6 +97,7 @@
       {
         "id": "8c313b1b27723a34",
         "type": "tabs",
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "2c2597ffe0811d0e",
@@ -104,12 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Mythology/Deities/The False Moon.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "file": "Gateway To Genesis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The False Moon"
+              "title": "Outgoing links from Gateway To Genesis"
             }
           }
         ]
@@ -117,6 +118,7 @@
       {
         "id": "dbdace8cb3f9056b",
         "type": "tabs",
+        "dimension": 75.49019607843137,
         "children": [
           {
             "id": "2ac760bb07b07980",
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Mythology/Deities/The False Moon.md",
+                "file": "Gateway To Genesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The False Moon"
+              "title": "Backlinks for Gateway To Genesis"
             }
           },
           {
@@ -171,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,53 +192,54 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Worldbuilding/Origin of Magic/Bindings & Elements/Void.md",
-    "Worldbuilding/Mythology/Deities/The False Moon.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Auroral Ribbons.md",
-    "Worldbuilding/Origin of Magic/Celestial Objects/Known Universe.md",
-    "The False Moon-2.png",
-    "The False Moon-1.png",
-    "The False Moon.png",
-    "Worldbuilding/Mythology/Deities/Selenea.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 3/Age of the False Messiah.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
+    "Worldbuilding/Rise & Fall, Crisis/Arcanoria.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Vibrational Density.md",
     "Gateway To Genesis.md",
+    "Worldbuilding/Origin of Magic/Bindings & Elements/Resonance.md",
+    "Worldbuilding/Origin of Magic/Bindings & Elements/Essence Sacrifice.md",
+    "Worldbuilding/Origin of Magic/Bindings & Elements/Emotional Authenticity.md",
+    "Worldbuilding/Origin of Magic/Bindings & Elements/Sufficient Precision.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Sympathetic Oscillation.md",
+    "Worldbuilding/Origin of Magic/Bindings & Elements/Attunement for Magic.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Frequency Harmonics.md",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 0/Age of Desolation.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Vibrational Fallout.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 5/Age of Horrors.md",
-    "Gateway To Genesis-1.jpg",
-    "Gateway To Genesis.jpg",
-    "Worldbuilding/Origin of Magic/Root of Evil/Corruption.md",
-    "Age of Mirrors.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 5/Age of Crowns.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 6/Age of High Courts.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 4/Age of Archways.md",
-    "Worldbuilding/Society/Characters/Vanessa of Iridia.md",
-    "Worldbuilding/Mythology/Deities/Auric Aria.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 1/Age of Hymns.md",
-    "Portharmonica.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+    "Eight-Winged Viola.md",
+    "Law of Relics.md",
+    "Legend.md",
+    "Kaia.md",
+    "Fauna Moodboard.canvas",
+    "Adass_concept_art_of_an_ancient_ruin_in_the_distance_situated_a_80abe6c0-6b98-4c99-8caf-ce20fa5ce037.png",
+    "Worldbuilding/Rise & Fall, Crisis/Crisis/A Pact of a Thousand-Eyes.md",
+    "Pasted image 20260117185616.png",
+    "Pasted image 20260117185540.png",
+    "Pasted image 20260117185518.png",
+    "Pasted image 20260117185503.png",
+    "Pasted image 20260117185447.png",
+    "Pasted image 20260117184933.png",
+    "Pasted image 20260117184906.png",
+    "Gateway To Genesis.png",
+    "Mira.md",
+    "Erastus.md",
+    "Stellar Legacy Score.md",
+    "Legend Trait.md",
+    "Worldbuilding/Society/Characters/Ages I",
+    "Great Concertist.md",
+    "Great Spellweaver.md",
+    "Ballad.md",
+    "Fragment of Renewal.md",
+    "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
+    "Enclave.png",
+    "Worldbuilding/Mythology/Deific Moodboard.canvas",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic",
-    "Elara.png",
-    "Adass_httpss.mj.runI8l4fkaWv-k_enchanted_weasel_familiar_copper_801b7253-2dc1-41ec-a58a-909f1e514319 1.png",
-    "Adass_httpss.mj.runI8l4fkaWv-k_enchanted_weasel_familiar_copper_801b7253-2dc1-41ec-a58a-909f1e514319.png",
-    "Adass_httpss.mj.runONMtjZHUTnc_steampunk_gnome_divination_wizar_b50011ff-7671-4aec-9eda-8f00855d54b4.png",
-    "Adass_httpss.mj.runS4Ujn0LRlKI_steampunk_gnome_divination_wizar_076bb5ee-206b-4a8d-87ca-f34dd08f550f.png",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 13",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 12",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 11",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 9/Age of Sealing Iron.md",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 10",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 9",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 8",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 7",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 6",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 5",
-    "Worldbuilding/Society/Auric Order/Auric Mythos of Creation.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Age 0.md",
-    "Worldbuilding/Society/Characters/Skarr Karmelita.md",
-    "Worldbuilding/Society/Characters/Gayviene.md",
-    "Worldbuilding/Origin of Magic/Spellweaving/Motif Awakening.md",
-    "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
-    "Worldbuilding/Mythology/Deific Moodboard.canvas"
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Age 6"
   ]
 }

@@ -1,0 +1,1 @@
+The main city of any [[Civilization]].

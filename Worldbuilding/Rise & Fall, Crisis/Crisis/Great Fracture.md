@@ -1,0 +1,1 @@
+The cause of both the [[First Reset]] and the [[Second Reset]]. The climax of the [[Polychord Crisis]].

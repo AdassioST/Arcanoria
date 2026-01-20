@@ -110,7 +110,7 @@ Attuned Element [[Strand]]. (Time + Memory)
 Magic is not only forged in the moment but woven with weight through the [[Ages]]. The strength of a bond — its history, its memory — casts a temporal echo across the fabric of fate. The strength of the bond between [[Spellweaver]] and target signifies the importance of the story and the role of fate. This binding is the only one to utilize the one golden strand of the [[Auric Heptacode]] that interacts with the [[Trinity Harmony]], thereby granting access to both spatial and temporal properties rooted in personal legacy.
 
 **Constraint:** Bond quality, depth, and duration are the anchor that determines spell tier and resistance to disruption. A spell potency is amplified by longstanding loyalty and memory, while dampened by betrayal, denial of the past, amnesia, or neglect.
-
+W
 **Personal Root & [[Motif Awakening]]:** Honoring legacy after betrayal, dishonor, broken trust, or in healing a scarred, broken past. Those who rebuild trust over time and mend past, present, and future.
 
 *"A leitmotif by itself is simple, but when it carries weight and history, it is masterful."*

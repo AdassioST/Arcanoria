@@ -17,11 +17,38 @@ The [[Great Harmonic Loom]]'s connection to [[Selenea]]'s imprisonment permeates
 
 ### The Mortal Interface: Where Flesh Meets Symphony
 
-All magical capacity arises when any [[Consciousness]] — beast, mortal, or spirit — attunes its [[Fundamental Frequency]] to the [[Great Harmonic Loom]]’s baseline in [[Consonance]] with the [[Auric Aria]]’s vibrational signature. Heightened emotion shapes that [[Resonance]] into a standing‑wave pattern, where prior feelings amplify or dampen the present signal within the [[Flux]]‑vibrational membrane, establishing [[Sympathetic Oscillation]] as the imbuing of feeling into the coupling and enabling phase‑lock with the [[Grand Thread Rings]].​
+All magical capacity arises when any [[Consciousness]] — beast, mortal, or spirit — attunes its [[Fundamental Frequency]] to the [[Great Harmonic Loom]]’s baseline in [[Consonance]] with the [[Auric Aria]]’s vibrational signature. Heightened emotion shapes that [[Resonance]] into a standing‑wave pattern, where prior feelings amplify or dampen the present signal within the [[Flux]]‑vibrational membrane, establishing [[Sympathetic Oscillation]] as the imbuing of feeling into the coupling and enabling to phase‑lock with the [[Grand Thread Rings]].​
 
 Once phase‑locked, focused intention selects a target mode, collapsing [[Superposed Resonance]] as the effective “pluck” of specific threads of the [[Great Harmonic Loom]], creating localized field perturbations that propagate only through regions of strong [[Coherence]] along [[Stable Harmonic Channels]] that then manifest as magical effects.​
 
 The first [[Attunement for Magic]], achieved when compassion touched the wounded [[Auric Aria]], established this [[Flux]] coupling; their shared sorrow created the precise emotional frequency necessary for [[Coherence]] to interact with the [[Great Harmonic Loom]]’s structure. Thus, this proves that magic requires as much [[Potential of Creation]] as it does [[Mastery Over Chaos]], and, without both elements and a proper [[Key of Attunement]], the [[Spellweaver]] cannot achieve the psychophysical alignment necessary to sustain predictable [[Spellweaving]].
+
+The whole process of casting magic behaves like a full audio signal chain and requires the following steps:
+
+1. [[Resonance]] as the vibration of a [[Fundamental Frequency]] to create a signal. This raw carrier wave is a pure tone that becomes the baseband signal.
+
+2. A [[Spellweaving]] interface that acts as a transducer of the internal psychophysical vibration. It is the object bridging the physical and metaphysical, like a [[Soul Leitmotif]] or an organ with [[Coherence Binding Tissue]], which then is able to encode encode said signal into [[Frequency Harmonics]] and phase-lock with the [[Great Harmonic Loom]]. Without this interface, the [[Resonance]] never becomes a [[Coherence]]-filled, multiplexable signal in the [[Great Harmonic Loom]]. This is what defines who and what is a [[Spellweaver]].
+
+3. [[Attunement for Magic]] where the [[Key of Attunement]] comes in as carrier integrity and spectral cleanup. It ensures the [[Consonance]] of that [[Resonance]] frequency with the [[Auric Aria]]'s own [[Fundamental Frequency]]. It "cleans-up" the signal of [[Spellweaving]] by having a correct center with the broadcast standard.
+
+4. Enrichment of the signal through [[The Principles of Magic]]. It is the phase that adds modulation as a synthesis chain that sculpts the spell, adding texture and complexity to the original [[Resonance]] by imbuing the characteristics of [[Spellweaving]], like potency, effect, power, area, and intent through [[Mastery Over Chaos]] and [[Potential of Creation]]. The specific effects are:
+
+	1. [[Sufficient Precision]]: A filter EQ precise bandpass that forces the spell to occupy a narrow, well-defined portion of “magical spectrum.”
+	2. [[Emotional Authenticity]]: The dynamic modulation and expression pedal that modulates envelope and timbre.
+	3. [[Essence Sacrifice]]: The power supply and gain staging that runs the "fuel" and potency with higher headroom and gain at the cost of system wear.
+	4. [[Perfect Focus]]: Sustained signal integrity avoiding buffer underruns to maintain a continuous, uninterrupted output.
+	5. [[Absolute Certainty]]: The waveform design and final render accounting for quantization error, aliasing, and target waveform.
+	6. [[Echoing Bonds]]: The delay, reverb, and send-bus routing with persistence and feedback lines across time.
+	
+	The purpose here is to turn the bare tone into a full composition by adding a modulation scheme, the spectral content, envelope and routing which correspond to potency, effect, shape, range, duration, and area of action.
+	
+5. A [[Magical Catalyst]], regularly [[Music as Catalyst]], to amplify that [[Resonance]] signal into actual physical manifestation to effectively "pluck" the threads. It is the power amp and loudspeaker stage that takes the fully-encoded, modulated magical signal where:
+
+	- Prior steps define the waveform and modulation in the [[Spellweaver]]'s internal "mix bus."
+	- The [[Magical Catalyst]] uses constructive interference between the [[Primary Instrument]] and the internal [[Spellweaver]]'s [[Resonance]] to amplify amplitude sharply with at the right moment of a spell's application.
+	- The spike is what actually "plucks" the [[Great Harmonic Loom]] threads, akin to a transient hitting a threshold in a nonlinear system and flipping it to a new state through the resonant medium. It only flips into a new macro-state when the local energy at the right frequency crosses the [[Spellweaving]] threshold.
+	
+	Thus, the [[Magical Catalyst]] provides that final gain and transient, and [[Music as Catalyst]] tends to be the best medium for a [[Magical Catalyst]] because it synchronizes the external sound / vibration of the [[Spellweaver]]'s [[Primary  Instrument]] to the spell's internal phase-lock in [[Rhythmic Entrainment]].
 
 ### [[Corruption]]: The Cacophony of Broken Threads
 

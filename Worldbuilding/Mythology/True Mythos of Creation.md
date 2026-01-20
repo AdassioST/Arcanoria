@@ -5,7 +5,7 @@
 
 *"A Hymn Woven in the Threads of both Gold and Shadow."
 
-Before existence, before matter, before even gods, there was nothing, and before there was nothing, there was the [[The Eternal Symphony]], an infinite expanse of silent potential. It was not yet sound, not yet matter — only unending, absolute silence. It was a thread not yet plucked, an instrument with latent [[Potential of Creation]], containing all that could be, yet nothing had form, shape, or [[Consciousness]]. [[The Eternal Symphony]] was preexistent beyond time, yet a blank canvas for all of creation to awaken.
+Before existence, before matter, before even gods, there was nothing, and before there was nothing, there was [[The Eternal Symphony]], an infinite expanse of silent potential. It was not yet sound, not yet matter — only unending, absolute silence. It was a thread not yet plucked, an instrument with latent [[Potential of Creation]], containing all that could be, yet nothing had form, shape, or [[Consciousness]]. [[The Eternal Symphony]] was preexistent beyond time, yet a blank canvas for all of creation to awaken.
   
 In a single instant of causality, from this silence, the [[Original Ripple]] arose: [[The First Overtone]], a singular vibration of [[Flux]] that awakened [[The Infinite Void]] to [[Primal White Noise]]. For the first time, existence could hear [[The Eternal Symphony]], if only in potential, stirring the cosmos into motion and laying the seed of rhythm that would, one day, govern creation.  
   

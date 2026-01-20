@@ -1,1 +1,1 @@
-First magic primarily based on glyphs, it's the partial success of [[The Great Plague]]
+First magic primarily based on glyphs, it's the partial success of [[Great Plague]]

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"0d4748ab7baa4512","type":"file","file":"Pasted image 20260117184933.png","x":40,"y":-200,"width":196,"height":280},
+		{"id":"108d9c05bf96d8ec","type":"file","file":"Pasted image 20260117184906.png","x":-202,"y":-200,"width":242,"height":280},
+		{"id":"c5b4752ad633a144","type":"file","file":"Pasted image 20260117185503.png","x":198,"y":180,"width":400,"height":301},
+		{"id":"1f6587db4619ad7c","type":"file","file":"Pasted image 20260117185518.png","x":-202,"y":481,"width":400,"height":301},
+		{"id":"7257b74353aba718","type":"file","file":"Pasted image 20260117185540.png","x":198,"y":481,"width":400,"height":301},
+		{"id":"a3b01f2dada26c37","type":"file","file":"Pasted image 20260117185616.png","x":-602,"y":180,"width":400,"height":301},
+		{"id":"b327f8b7dfab5174","x":-202,"y":180,"width":400,"height":301,"type":"file","file":"Adass_concept_art_of_an_ancient_ruin_in_the_distance_situated_a_80abe6c0-6b98-4c99-8caf-ce20fa5ce037.png"}
+	],
+	"edges":[]
+}

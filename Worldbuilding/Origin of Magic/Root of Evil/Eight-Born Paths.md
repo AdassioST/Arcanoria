@@ -10,6 +10,8 @@ The complete framework for demonological classification in Arcanoria, grounded i
 
 The [[Atonalis]] themselves embody and suffer from the psychological condition — they are not inflicting it externally but are the manifestation of that illness given predatory form and [[Consciousness]]. Thus, [[Atonalis]] do not cause these psychic fractures. They are the fractures of [[Consciousness]] itself. Each [[Atonalis]] is the crystallization of a broken harmonic state, suffering eternally in its own distortion. They are predatory only because their nature is hunger for the emotion that mirrors their wound, not because the wound is morally corrupt.
 
+All of the mental disorders are a reference framework for distinction during design. The actual [[Atonalis]] are just named [[Anxithor]], [[Discant]], etc. No mention of mental illness only their reflection of behavior. It's up to the narrative to "label" if anything with mythological framing. This is only used in design documents for design purposes and for understanding within a framework the precise manifestation.
+
 ![[Eight-Born Paths.png]]
 
 **Path I: [[Anxithor]] - The Perpetual Fear (16.00%)**

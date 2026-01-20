@@ -1,0 +1,1 @@
+A type of landmark of hidden settlements alongside the map. Like [[Lune Shallow]].
