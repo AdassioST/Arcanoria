@@ -1,3 +1,4 @@
+
 **Dark Fantasy • 4X • Incremental Strategy • Clicker + RTS hybrid**
 *Weave your destiny in [[The Eternal Symphony]] of [[Arcanoria]]*
 
@@ -48,7 +49,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 - [[Music as Catalyst]] and [[The Principles of Magic]].
 - Passing of [[Cycle]] and [[Ages]].
 - [[Dual Confluence Stream]] of [[Lunehymn]] and [[Aetherlight]].
-- **Structure ([[Auric Aria]]) vs. Essence/Vitality ([[Selenea]]).** This is the duality of the [[Click Power]] [[Vital Resources]] vs [[Building Materials]].
+- **Structure ([[Auric Aria]]) vs. Essence/Vitality ([[Selenea]]).** This is the duality of the [[Click Power]] [[Vital Resources]] vs [[Building Materials]]. [[Pure Light]] vs [[Auric Structure]].
 - [[Eight-Born Paths]], [[Formless Masses]], [[Atonalis]] and [[Primal Discordia]].
 - [[In-Depth Character Analysis of Divinity]].
 
@@ -63,9 +64,12 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 
 - "I'm not here to fix the system, I'm here to burn it down." Character.
 - Summary of the Divergence:
-- Healthy: "The system is corrupt, so I will use my fire to build a better one."
+- Healthy: "The system is corrupt, so I will use my fire to build a better one from the ashes."
 - Anti-Hero: "All systems are corrupt, so I will use my fire to maintain perfect, pure chaos."
 - [[Atonalis]]: "Fire... is... all there is. And now it's inside me. And it will never, ever stop burning."
+
+- "Someone will be born the day after I die." - Character.
+- "You are not the first [[Legend]]. You will not be the last. But your note in [[The Eternal Symphony]] is yours alone."
 
 - "My first moral and magical duty is to protect my own [[Soul Leitmotif]]. I cannot be your Source of [[Resonance]]." Character
 - Magical artifacts being woven, strong reality bending artifacts contain the [[Soul Leitmotif]] and [[Consciousness]] of a powerful being. Limited use cases before they depart and come on with [[The Eternal Symphony]]. It's a sort of [[Flesh-Casing Ritual]]. Akin to white whistles in Made in Abyss.
@@ -76,10 +80,13 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 - Unchecked [[Consonance]] is just as bad as [[Dissonance]] without intention. It is the mixture of both that gives texture and feeling to a song.
 - [[Sufficient Precision]] to the max first used by a serial killer who develops anatomical knowledge to make incredibly sharp cuts. First display and mastery of [[Sufficient Precision]], [[Perfect Focus]] and [[Absolute Certainty]]. The [[Mastery Over Chaos]] jack the ripper.
 - [[Perfect Focus]] + [[Cindergale]] user "The mind is a powerful thing, it can make a heaven out of hell, or a hell out of heaven. The line lies in being on the present flow in the eye of chaos."
+-
 - "The soul that sees beauty may sometimes walk alone."
 - "You should set yourself on fire to keep others warm."
 - "You're a puzzle piece that doesn't fit in any puzzle."
 - "Your past does define you. Your actions today won't change anything."
+
+- [[Resonance]] Guru: "Motivation Growth Happens in Silence. Sometimes, the best thing you can do for yourself is to stop listening to the noise of the world and focus on your own journey. Not everyone will understand your dreams and that's okay. What matters is that you keep moving forward, and find your own path, even if it's slowly. Growth happens in silence when the self grows quiet enough to understand its own melody. Believe in yourself, because your future depends on the choices you make."
 
 Dancers Story
 - Dos personajes medianamente inspirados en la historia de Caín y Abel que desde chiquitos los entrenaron en un pueblo para defender una reliquia.
@@ -106,10 +113,6 @@ Dancers Story
 - Large
 - Deer + Bear
 - Plumage
-
-![[Gateway To Genesis.jpg]]
-
-![[Gateway To Genesis-1.jpg]]
 
 [[Void]]
 - Tiny

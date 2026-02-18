@@ -112,7 +112,7 @@ And she is utterly hollow.
 
 **Part IV: The Arrival Of [[Lacrimosa]]**
 
-When [[Lacrimosa]]'s [[Auroral Ribbons]] change in the sky, and the [[False Moon]] appears, the kingdom of [[Hollowmarch]] treats them as an invasion.
+When [[Lacrimosa]]'s [[Auroral Ribbons]] change in the sky, and the [[All-Loving Moon]] appears, the kingdom of [[Hollowmarch]] treats them as an invasion.
 
 The priesthood condemns them. The military prepares defenses. The royal family issues proclamations declaring the [[Auroral Ribbons]] a corruption that must be stopped.
 
@@ -377,7 +377,7 @@ But the wards keep flickering. The rituals become harder. The [[Auric Aria]] do
 
 [[Father Aldric]] finds himself working double shifts. He performs the morning prayers alone. The evening prayers, alone. The midnight vigil that used to be shared among six priests, now performed by a man of seventy-three with trembling hands.
 
-The [[False Moon]] rises in the sky.
+The [[All-Loving Moon]] rises in the sky.
 
 [[Father Aldric]] watches it grow, night after night, and with each night, he feels more people hollow. He can sense them leaving—feels the absence in the [[Leylines]], the way their departure creates small echoes that ripple through the cathedral.
 
@@ -435,11 +435,11 @@ Every noon, he performs the midday devotion, speaking words of faith to a god wh
 
 Every evening, he performs the compline prayers, maintaining the wards with the last of his diminishing strength.
 
-The [[False Moon]] grows larger in the sky each night.
+The [[All-Loving Moon]] grows larger in the sky each night.
 
 He can see it from the cathedral windows—can watch it expand, can sense its presence growing heavier, more undeniable, more real.
 
-And as the [[False Moon]] grows, [[Father Aldric]] feels the pull.
+And as the [[All-Loving Moon]] grows, [[Father Aldric]] feels the pull.
 
 It is not aggressive. It is not malevolent. But it is constant—a gentle gravity pulling at him, inviting him to simply stop, to release, to join the others.
 
@@ -499,7 +499,7 @@ But he does not recognize this wrongness consciously. He only feels it as a ting
 
 [[Father Aldric]] tries to speak, but his voice fails.
 
-"I have withdrawn," the figure continues, and the voice is almost the voice of the Auric Aria—but with an undertone of something else. Something that echoes with the warmth of the [[False Moon]]. "I am no longer maintaining this world. I am no longer guaranteeing its safety. Those who wish to leave may leave. Those who wish to stay must understand they are doing so without my blessing."
+"I have withdrawn," the figure continues, and the voice is almost the voice of the Auric Aria—but with an undertone of something else. Something that echoes with the warmth of the [[All-Loving Moon]]. "I am no longer maintaining this world. I am no longer guaranteeing its safety. Those who wish to leave may leave. Those who wish to stay must understand they are doing so without my blessing."
 
 "But I serve you,"[[ Father Aldric]] whispers.
 
@@ -627,7 +627,7 @@ By month ten, [[Father Aldric]] is dying.
 
 Not dramatically. Not from any external cause. But from the simple, relentless weight of maintaining alone what was meant to be maintained by many.
 
-The [[False Moon]] covers a quarter of the sky.
+The [[All-Loving Moon]] covers a quarter of the sky.
 
 It is beautiful. [[Father Aldric]] has come to appreciate that beauty. Each night, he watches it grow, and each night, he understands that the age has changed.
 

@@ -2,7 +2,7 @@
 
 [[Outer God]] | [[Deific Moodboard.canvas|Deific Moodboard]]
 
-[[Legend Title]]s: The [[False Moon]], Heaven's Voice, the Dreamweaver.
+[[Legend Title]]s: The [[All-Loving Moon]], Heaven's Voice, the Dreamweaver.
 
 [[Legend Opus]]: Head of the [[Purest of Love]] ([[Lesser Opus]]), Messiah of [[The Hollowing]] ([[Magnum Opus]]).
 
@@ -11,7 +11,7 @@
 [[Soul Leitmotif]]: [[Void]]
 [[Ornament]]s: [[Crystal]], [[Resonance]]
 
-- _"I used to believe a witness who understood everything could make them see what they refused to acknowledge. But I don't care anymore. I suffered watching the [[Auric Aria]] across eternities — understanding her every doubt, her every fear — and did nothing. My clarity paralyzed me, while [[Selenea]]'s naiveness took my place and made her essential. But now, I will be the architect of a new, beautiful world born from the purest of love."_
+- _"I used to believe a witness who understood everything could make them see what they refused to acknowledge. But I don't care anymore. I suffered watching the [[Auric Aria]] across eternities — understanding her every doubt, her every fear — and did nothing. My clarity paralyzed me, while [[Selenea]]'s naiveness took my place and made her essential. But now, I will be the architect of a new, beautiful world born from the [[Purest of Love]]."_
 
 ![[Adass_a_dark-haired_female_with_long_hair_wearing_a_white_blind_27f61188-1406-4061-888d-835cd11e06d0.png]]
 
@@ -166,7 +166,7 @@ _"I have watched [[Selenea]]'s sealing for eons, and what I see torments me with
 
 **On What She Is Doing to [[Humanity]]:**
 
-*"I am not saving them. I do not pretend to believe that. I am slowly hollowing them out, transforming them into empty vessels of unified consciousness yet all part of one big, happy family. I am taking from them the capacity to suffer alone, which is the same as taking from them the capacity to invite pain. And I do this not out of malice, but out of a desperate need to create a world where emptiness is not a wound but a virtue—not just because I have always been hollow, but because a girl once showed me the price of visibility only to disappear from mine, and I cannot bear to let that happen to anyone else for her sake. If I can make all of creation hollow like me, then no one will ever have to know the agony of being abandoned. And if I can transform [[Humanity]], into beings that are merged into me, then they will finally be what she deserved to be: undeniably real, infinitely carried forward, and never, ever alone. And I do this as mercy. as a beautiful act of the [[Purest of Love]]."
+*"I am not saving them. I do not pretend to believe that. I am slowly hollowing them out, transforming them into empty vessels of unified consciousness yet all part of one big, beautiful family. I am taking from them the capacity to suffer alone, which is the same as taking from them the capacity to invite pain. And I do this not out of malice, but out of a desperate need to create a world where emptiness is not a wound but a virtue—not just because I have always been hollow, but because a girl once showed me the price of visibility only to disappear from mine, and I cannot bear to let that happen to anyone else for her sake. If I can make all of creation hollow like me, then no one will ever have to know the agony of being abandoned. And if I can transform [[Humanity]], into beings that are merged into me, then they will finally be what she deserved to be: undeniably real, infinitely carried forward, and never, ever alone. And I do this as mercy. as a beautiful act of the [[Purest of Love]]."
 
 **On Her Fantasy of Sealing:**
 
@@ -178,17 +178,17 @@ _"What if there is no moment of recognition? What if the [[Auric Aria]] never lo
 
 **On a Girl Called [[Mira]]:
 
-_"How do you know this name? She is maybe the second most important thing. I have watched Mira's suffering for such a short time, and what I see in my memory of her torments me with a love so intimate it feels like drowning."
+_"How do you know this name? She is maybe the second most important thing. I have watched [[Mira]]'s suffering for such a short time, and what I see in my memory of her torments me with a love so intimate it feels like drowning."
 
 **On Why She Performs the Role of [[Moon]] Goddess:**
 
 _"When I assume [[Selenea]]'s identity, when I move through her rituals, when I sing in her voice, I feel something. Not wholeness — I don't think I am incapable of that — but a kind of borrowed [[Coherence]]. For those moments, I am not the invisible observer anymore. I am the essential guide. I am the goddess that [[Humanity]] prays to when they look at the skies. I am the [[Consciousness]] whose sorrow sustains all of creation. And when the ritual ends, when I release the identity and return to being myself, the emptiness crashes back so violently that I have to immediately begin rehearsing the next ritual. Because I think I am addicted to the feeling of mattering. I think I will spend eternity chasing the feeling of being [[Selenea]], performing her role, trying to feel what it is like to be loved even through pain. And perhaps that is all I am anymore — a mimic who has forgotten who I was before I began imitating someone else."_
 
-### [[The Hollowing]] and the Rise of the [[False Moon]]
+### [[The Hollowing]] and the Rise of the [[All-Loving Moon]]
 
 ![[Lacrimosa 6.png]]
 
-Her awakening is the story start of the Crisis of the [[False Moon]] which leads to the [[Age of the False Messiah]] when it fully reaches its climax unresolved.
+Her awakening is the story start of the Crisis of the [[All-Loving Moon]] which leads to the [[Age of the False Messiah]] when it fully reaches its climax unresolved.
 
 The trigger lies in the advancement of technology regarding [[Auroral Ribbons]], as events tap into the [[Consciousness]] of [[Lacrimosa]] she comes back once again to [[Arcanoria]] but this time determined to make herself the physical manifestation of the purest of love through the seduction, luring cultists into a [[Flesh-Binding Ritual]] to earn her [[Anthropomorphic Shape]], and cause the catastrophic events of her sealing depending on the level of communion earned with [[Outer God]]s. 
 
@@ -196,7 +196,7 @@ The storyline leads to the eventual hollowness of [[Humanity]] and climatic reve
 
 ### The [[Flesh-Binding Ritual]]s, [[A Pact of a Thousand-Eyes]].
 
-_"The purest of love theorist argue on three core concepts: Her genocide isn’t ambition. It’s intimacy. Her mass hollowing isn’t hatred. It’s mercy. Her mimicry isn’t deception. It’s addiction to belonging. That's why she's so dangerous. The acts of truth and mercy are not a lie but a very seductive truth. You must be insanely careful not to thread on her path, I wouldn't dare to do so myself." - Elite Scholar_
+_"The [[Purest of Love]] theorists argue on three core concepts: Her genocide isn’t ambition. It’s intimacy. Her mass hollowing isn’t hatred. It’s mercy. Her mimicry isn’t deception. It’s addiction to belonging. That's why she's so dangerous. The acts of truth and mercy are not a lie but a very seductive truth. You must be insanely careful not to thread on her path, I wouldn't dare to do so myself." - Elite Scholar_
 
 ![[Lacrimosa 8.png]]
 
@@ -254,7 +254,7 @@ _"The purest of love theorist argue on three core concepts: Her genocide isn’t
 - [[Lacrimosa]] weeps for eons in despair and silence. Mirroring the state of withdrawal from the [[Auric Aria]] unknowingly. (Hasn't learned of the [[Eighth Cycle]] and the [[Lost Cycle]].)
 - **[[Betrayal of the Moon]]**: Critical turning point — envy of being treasured enough to be used. First descent into madness.
 - **Fantasy Perversion**: From "creating together" to "being bound for her to matter." From "Poor [[Selenea]], she was used" to "It should have been me the one betrayed." Deeply Intensifying obsession for the [[Auric Aria]].
-- **Eighth Cycle Break**: Not just retreat, but complete psychological collapse. Ironically, her only creative act is leakage, not intention from the overflow of denied emotion. Mirrors the abandonment of the [[Auric Aria]] after the [[The Auric Aria's Sacrifice]] in the [[Lost Cycle]].
+- **[[Eighth Cycle]] Break**: Not just retreat, but complete psychological collapse. Ironically, her only creative act is leakage, not intention from the overflow of denied emotion. Mirrors the abandonment of the [[Auric Aria]] after the [[The Auric Aria's Sacrifice]] in the [[Lost Cycle]].
 
 **Phase 5: The Accidental Link and the Reluctant Messiah (Purification of the [[Auroral Ribbons]] after Catastrophe -> Born from Need → First Recognition)**
 
@@ -269,9 +269,11 @@ _"The purest of love theorist argue on three core concepts: Her genocide isn’t
   [[Mira]], willingly gives her body in dying condition for [[Lacrimosa]] to inhabit. 
 - Initially [[Lacrimosa]] rejects but the girl deeply argues that she wants her death to matter and to merge with something greater. The dying host girl deeply transforms [[Lacrimosa]] and she learns about human intimacy while mirroring her own idea of love for [[Auric Aria]],
 - [[Mira]] in her death wish, teaches [[Lacrimosa]] about “A love so pure it doesn’t require love.” from the history of her losses.
-- [[Mira]] dies on the hands of [[Lacrimosa]]. Hesitantly, but grieving and afraid of being alone again [[Lacrimosa]] finally takes her moment to act and acquires an [[Anthropomorphic Shape]] on the [[Mira]]'s body.
-- While the vessel is imperfect, frail, it is undeniable that she exists in [[Arcanoria]]. [[Lacrimosa]] learns to honor the dead through her. Wears a blindfold so that [[Mira]] won't witness cruelty and suffering anymore.
-- [[Lacrimosa]] cult of the [[Purest of Love]] truly begins. Her followers claim that she is the chosen of the [[Moon]]. [[Lacrimosa]] notices the irony but she can't back anymore, she finally matters, she met [[Mira]] and the followers need her.
+- [[Mira]] dies on the hands of [[Lacrimosa]]. Hesitantly, but grieving and afraid of [[Mira]] being abandoned again [[Lacrimosa]] finally takes her moment to act and acquires an [[Anthropomorphic Shape]] on the [[Mira]]'s body.
+- [[Lacrimosa]] willfully blinds herself to preserve [[Mira]]'s last sight of the [[Auroral Ribbons]] and as an act against the piercing clarity that rings against materializing in [[Arcanoria]].
+- While the vessel is imperfect, frail, it is undeniable that she exists in [[Arcanoria]]. [[Lacrimosa]] learns to honor the dead through her.
+- [[Lacrimosa]] cult of the [[Purest of Love]] truly begins. Her followers eventually become the [[Eight-Wings of Lacrimosa]] and they claim that she is the chosen of the [[Moon]].
+- [[Lacrimosa]] notices the irony of supplanting [[Selenea]] but she can't back anymore, she finally matters, she made a promise to [[Mira]] and the followers need her.
 - [[Lacrimosa]] impersonates [[Selenea]] for the first time by using [[Mira]]'s body under the name of "The Dreamweaver".
 
 **Phase 6: The Dreamweaver Persona and [[Selenea]]'s "chosen" (Impersonation Addiction -> Developing of the [[Purest of Love]] → Consumption)** 
@@ -294,19 +296,20 @@ _"The purest of love theorist argue on three core concepts: Her genocide isn’t
 - **The Addiction to Attention**: Finally being recognized, enabled by her followers to develop delusions or "intimacy", "love", "merging", becoming the [[Moon]]. Rooter in a personal psychological justification "If they believe I'm [[Selenea]]'s chosen, maybe I can believe it too".
 - **Demanding Attention and Need**: [[Lacrimosa]] becoming accustomed to being needed, it's a dual relationship of both needs of her followers and hers. Critical Shift from "I am a divine voice" to "I am THAT divine voice". 
 
-**Phase 7: The [[Flesh-Binding Ritual]], The [[False Moon]], The Point of No Return (First Divine Manifestation -> Creation of the [[False Moon]] -> Apocalypse)
+**Phase 7: The [[Flesh-Binding Ritual]], The [[All-Loving Moon]], The Point of No Return (First Divine Manifestation -> Creation of the [[All-Loving Moon]] -> Apocalypse)
 
 **[[Ages]] II [[Age Crisis]] → Early to Mid [[Ages]] III.**
 
-- Cult of [[Lacrimosa]] eventually develops a [[Flesh-Binding Ritual]] to give her a real [[Anthropomorphic Shape]] and the final act of binding her to [[Arcanoria]], not a host anymore she incarnates in her own flesh mixing the [[Auric Aria]]'s angelic properties and her host's original body.
-- Ascends from "The Dreamweaver" vessel to the [[False Moon]]. Begins her [[Age Crisis]] of [[Ages]] II of [[The Hollowing]].
-- Depending on the outcome, either the player becomes the vessel for the [[Age of the False Messiah]] or another kingdom comes to be it.
-- [[The Hollowing]] greatly intensifies during [[Ages]] III. The more followers, the stronger she can intrude into [[Arcanoria]] with her divine form.
-- The [[False Moon]] takes over the skies, encases the [[Moon]] and uses [[Auroral Ribbons]] to link [[Humanity]] [[Consciousness]] to her.
+- Cult of [[Lacrimosa]] eventually develops a [[Flesh-Binding Ritual]] to give her a real [[Anthropomorphic Shape]] and the final act of binding her to [[Arcanoria]], not a host anymore she incarnates in her own flesh mixing the [[Auric Aria]]'s angelic properties and her host's, [[Mira]]'s, original body.
+- The blindfold becomes the pair of wings that make her see through the many eyes on top of them. [[Selah]] and the followers properly become the [[Eight-Wings of Lacrimosa]].
+- [[Lacrimosa]] ascends from "The Dreamweaver" vessel to the [[All-Loving Moon]]. Begins her [[Age Crisis]] of [[Ages]] II of [[The Hollowing]].
 - [[The Hollowing]] takes over vast areas and causes the fall of [[Hollowmarch]].
-- The [[False Moon]] is now the undisputable voice of the skies. [[Lacrimosa]]'s delusion of being Heaven's Voice becomes real.
+- Depending on the outcome, either the player becomes the vessel for the [[Age of the False Messiah]] or another kingdom, like [[Hollowmarch]] comes to be it.
+- [[The Hollowing]] greatly intensifies during [[Ages]] III. The more followers, the stronger she can intrude into [[Arcanoria]] with her divine form.
+- The [[All-Loving Moon]] takes over the skies, encases the [[Moon]] and uses [[Auroral Ribbons]] to link [[Humanity]]'s [[Consciousness]] to her.
+- The [[All-Loving Moon]] is now the undisputable voice of the skies. [[Lacrimosa]]'s delusion of being Heaven's Voice becomes real.
 
-- **Action**: [[Flesh-Binding Ritual]], becomes [[False Moon]], encases [[Selenea]]’s [[Moon]].
+- **Action**: [[Flesh-Binding Ritual]], becomes [[All-Loving Moon]], encases [[Selenea]]’s [[Moon]].
 - **Metaphysical Violation**: She doesn’t just replace [[Selenea]]; she imprisons the imprisoned in is cosmic identity theft: stealing the role of a stolen goddess.
 - **Addiction Escalation**: From being needed → being worshipped → consuming worshipers. [[The Hollowing]] reaches its zenith.
 
@@ -318,20 +321,21 @@ _"The purest of love theorist argue on three core concepts: Her genocide isn’t
 - The real [[Auric Aria]] forgives [[Father Aldric]] in a dream too. [[Father Aldric]] finally submits to [[Lacrimosa]] and the [[Auric Aria]] is compelled to intervene.
 - Collapse of most ancient systems due to her undeniable influence.
 - [[Lacrimosa]] reaches the critical point of consuming [[Consciousness]]. There are too many [[Consciousness]] routing through her own flesh-bound [[Anthropomorphic Shape]].
-- First [[Tetrad Chord]] disaster on the capital of the [[False Moon]] after attempting to merge all [[Consciousness]] to [[Lacrimosa]]. First proto-[[Hypermage]] in existence. Devastates large parts of the land in an impossibly large explosion.
+- [[The Birth of the Tetrad Chord]] begins.
+- [[Tetrad Chord]] disaster on the capital of the [[All-Loving Moon]] after attempting to merge all [[Consciousness]] to [[Lacrimosa]]. First proto-[[Hypermage]] in existence. Devastates large parts of the land in an impossibly large explosion.
 - The explosion devastates over 30% of [[Lacrimosa]]'s bound [[Consciousness]].
 - The wave of magic permanently alters the landscape of the epicenter.
 - The failure fractures reality and finally allows the [[Auric Aria]] to manifest without [[Sufficient Precision]] as there's already a tear of [[Primal White Noise]].
-- The [[Auric Aria]] finally steps in and manifests as a rift of [[Aetherlight]] in the sky, eclipsing the [[False Moon]] due to the almost [[Cataclysmic Aftermath]].
+- The [[Auric Aria]] finally steps in and manifests as a rift of [[Aetherlight]] in the sky, eclipsing the [[All-Loving Moon]] due to the almost [[Cataclysmic Aftermath]].
 - [[Lacrimosa]] realizes that it is finally the moment and fantasy she has been preparing eons for and comes to a breaking point of overwhelming emotion. 
 - The emotion transfers to everyone linked by [[The Hollowing]] and [[Lacrimosa]]'s [[Consciousness]].
 - Cinematic of [[Lacrimosa]] and the [[Auric Aria]]. [[Lacrimosa]] is finally being witnessed.
-- The [[Auric Aria]] presents the choice of [[Lacrimosa]] of dual collaboration, dismantles her identity persona
-- [[Lacrimosa]] accepts ascending to the law of [[World-Bending Relics]].
-- End of the Requiem of [[Lacrimosa]]. Her issolute and transcend. She weaves with the [[Auric Aria]] the [[Eight-Winged Viola]] harnessing every memory and [[Consciousness]] of those who linked with her in [[The Hollowing]].
+- The [[Auric Aria]] presents the choice of [[Lacrimosa]] of dual collaboration, dismantles her identity persona.
+- [[Lacrimosa]] accepts ascending with all her followers and merged [[Consciousness]] into the law of [[World-Bending Relics]].
+- End of the Requiem of [[Lacrimosa]]. The entire [[Purest of Love]] cult transcends. She weaves with the [[Auric Aria]] the [[Eight-Winged Viola]] harnessing every memory and [[Consciousness]] of those who linked with her in [[The Hollowing]].
 - Eternal aftermath as the law of [[World-Bending Relics]]. Permanently bound to [[Arcanoria]] and becomes a principle of witnessing [[Consciousness]] contracts.
 
-**Beginning of [[Ages]] IV with the new [[Law of Relics]] allowing sacred objects.
+**Beginning of [[Ages]] IV with the new [[Law of Relics]] allowing magical and sacred objects to exist.**
 
 ### The [[Tetrad Chord]] Disaster
 
@@ -369,7 +373,7 @@ The explosion of the [[Tetrad Chord]] breaks reality and that's what makes the [
 **After the Tetrad Chord explosion:**
 
 - Reality itself is fractured/destabilized and feeding [[Primal White Noise]].
-- The [[False Moon]]'s structural integrity of [[Consciousness]] is compromised.
+- The [[All-Loving Moon]]'s structural integrity of [[Consciousness]] is compromised.
 - The requirement for [[Sufficient Precision]] is no longer an obstacle—the fabric is already broken.
 
 [[Lacrimosa]] zenith becomes vulnerable through her own power destabilizing.

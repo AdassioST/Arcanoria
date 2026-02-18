@@ -33,7 +33,7 @@ However, to become a [[Major Actor]], a participating [[Legend]] must reach the�
 _Example:_ [[The Hollowing]]:
 
 - [[Purest of Love]] Roles:
-	- The [[False Moon]]: [[Lacrimosa]].
+	- The [[All-Loving Moon]]: [[Lacrimosa]].
 	- The [[Eight-Wings of Lacrimosa]]: [[Selah]], [[Adel]], [[Kaia]], [[Erastus]], [[Seraph]], [[Arioch]], [[Destra]], [[Lucetta]], [[Pagiel]].
 	- The [[Purest of Love]] Zealot: Can be [[Civilization]].
 	- [[A Pact of a Thousand-Eyes]] Recipient: Can be [[Civilization]].
@@ -98,7 +98,7 @@ Finally, when a [[World Event]] concludes the resolution of its [[Ballad]] there
 
 **Act I:** The Calling after [[A Pact of a Thousand-Eyes]]
 
-- _Available Roles:_ [[False Moon]], [[Eight-Wings of Lacrimosa]], [[Opposing the Heavens]].
+- _Available Roles:_ [[All-Loving Moon]], [[Eight-Wings of Lacrimosa]], [[Opposing the Heavens]].
 - _A cultist performs a miracle_ → +3 [[Purest of Love]] [[Story Affinity]].
 - _A scholar negates the true nature of [[Lacrimosa]]_ → +2 [[Opposing the Heavens]] [[Story Affinity]].
 
@@ -112,7 +112,7 @@ Finally, when a [[World Event]] concludes the resolution of its [[Ballad]] there
 
 - _[[Transient Actor]]s appear:_ The Sacrifice, The Judge.
 - _Final confrontation_ → [[Major Actor]]s make their defining choices.
-- _Resolution:_ The Unbroken Will sacrifices themselves, becoming The Martyr. The [[False Moon]] is debilitated, delaying [[The Birth of the Tetrad Chord]].
+- _Resolution:_ The Unbroken Will sacrifices themselves, becoming The Martyr. The [[All-Loving Moon]] is debilitated, delaying [[The Birth of the Tetrad Chord]].
 - _World Truth:_ “The Martyr’s Seal” – one of the possible martyrs to assign when changing religions has a canonized name.
 
 The [[Fate Stage]] ensures that there is replayability for [[World Event]]s while adding narrative texture as the living mythos is unfolding upon the player. [[Legend]]s are not passengers in a story — they are its authors, and every choice etches a new verse into [[The Eternal Symphony]].

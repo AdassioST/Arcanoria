@@ -1,1 +1,1 @@
-Epics and mythical mages
+Epics and mythical mages and [[Spellweaver]]s that opposed [[Lacrimosa]] and the voice of the heavens when surrendering was the logical choice. These are heroes born from hardship where choosing to suffer was the ultimate test amidst a crumbling world of the [[Purest of Love]].

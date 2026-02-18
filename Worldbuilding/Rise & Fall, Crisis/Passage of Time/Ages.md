@@ -11,7 +11,7 @@ Excess [[Era Score]] above the required for a [[Golden Age]] becomes points that
 Fractured [[Arcanoria]] after a [[Cataclysmic Aftermath]].
 Flickering Staccato Rhythm. Primitive [[Unison]] Spells. Mostly [[Minor Note]] magic.
 
-- [[Age of Desolation]]: ([[Age Crisis]]: The [[The Inescapable Hunger]]) | Dark Fantasy
+- [[Age of Desolation]]: ([[Age Crisis]]: [[The Inescapable Hunger]]) | Dark Fantasy
 
 The [[Age Crisis]] teaches that there are [[Civilization]] changing events at the end of all [[Ages]].
 
@@ -57,7 +57,7 @@ Starting point of proper [[Ornament]]al Magic. Full resolution of the [[World Ev
 First classical civilizations.
 Introducing Accelerando. First [[Triad Chord]]s. [[Dyad Chord]] Primacy. [[Unison]] Mastery.
 
-The [[Age Crisis]] is variations of [[The Hollowing]], [[Opposing the Heavens]], [[The Undeniable Moon]], [[The Birth of the Tetrad Chord]], depending on their relationship with her and the stance they take as either a [[Major Actor]] or [[Minor Actor]].
+The [[Age Crisis]] is variations of end of [[The Hollowing]], [[Opposing the Heavens]], [[The Undeniable Moon]], [[The Birth of the Tetrad Chord]], depending on their relationship with her and the stance they take as either a [[Major Actor]] or [[Minor Actor]].
 
 The [[Age Crisis]] teaches that there's different roles [[Civilization]] can take in [[World Event]]s and [[Age Crisis]].
 
@@ -92,6 +92,10 @@ _There is more than a single [[World Event]] for an [[Age Crisis]].
 
 The [[Age Crisis]] teaches that [[Civilization]] can have multiple [[World Event]]s at the end of an era, and each is an [[Age Crisis]].
 
+A doctor that's been studying the leftover traces of the [[Great Plague]] becomes the first epidemiologist of creating a vaccine. Gets executed for treason and witchcraft but with work inspires ORB style [[Gayvian Ikathon]].
+
+One of the 2 [[World Event]] [[Age Crisis]] is related to the lack of [[Atonalis]] during [[The Hollowing]] as the "Demon Lord" becomes the first structured [[Atonalis]] type of government.
+
 ### Age V (Middle Medieval)
 
 First "Age of [[Humanity]]."
@@ -112,6 +116,8 @@ Advanced Polyrhythms. Advanced [[Triad Chord]]s. [[Dyad Chord]] Mastery. [[Uniso
 _Even if there's multiple [[World Event]]s, they can still converge as [[Age Crisis]] with several [[Major Actor]]s. Each with their own agenda and means of survival._
 
 The [[Age Crisis]] teaches that all [[Major Actor]]s have their own agenda, and even if there's multiple [[World Event]]s they can still converge as the [[Age Crisis]] that has multiple conflicting factions fighting for their own agenda and survival.
+
+Development of surgery on [[Pure Light]] beings by [[Gayvian Ikathon]], he's cruel but does necessary advancements, inspired by Pasteur. He coins the term Age of [[Humanity]].
 
 ### Age VI (High Medieval)
 

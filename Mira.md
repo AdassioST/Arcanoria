@@ -5,8 +5,9 @@
 [[Soul Leitmotif]]: [[Void]]
 [[Ornament]]s: None
 
+### [[Memory Field]]: The Girl Left Behind That Changed a God
 
-### The Girl Left Behind That Changed a God
+**[[Ballad]] Fragment Introduction. The Girl Left Behind**
 
 The memory comes to [[Mira]] in fragments, like trying to reconstruct something from salt and ash.
 
@@ -16,51 +17,229 @@ She remembers the sound of him weeping. But also the sweet sound of a gentle lul
 
 A sickly father—ravaged by a consumption that the healers in the mountain villages had no names for—walked three days down from the high country to reach [[Lune Shallow]]. He did not come for healing. He came because he was dying, and he knew it, and he needed one thing before the end: he needed his daughter to live.
 
-The fisherman who found her on the dock that morning was named [[Kael]]. He was alone—his wife had died in childbirth years before, and he had learned to accept the silence of his home as the price of avoiding the pain of sharing it.
+The fisherman who found her on the dock that morning was named [[Kael]]. He was alone — his wife had died in childbirth years before, and he had learned to accept the silence of his home as the price of avoiding the pain of sharing it. Lovestruck and still grieving, yet he knew the sea had few space left for spared tears.
 
-But a child left at the dock, wrapped in cloth, expensive once yet now threadbare, with a letter that simply read: *“Her name is [[Mira]]. Her father is dead. Her mother is dead. Save her. She deserves the world. —A Father’s Last Act”*—a child like that could not be left alone.
+But he couldn't bear the sight of a child left at the dock, of a child wrapped in cloth expensive once yet now threadbare, with a letter that simply read: *“Her name is [[Mira]]. Her father is dead. Her mother is dead. Save her. She deserves the world. —A Father’s Last Act”* — a child like that could not be left alone.
 
-[[Kael]] later told people he did not decide to raise her. He just did not choose not to. And by the time he was aware of the decision that had been made, [[Mira]] was already 3 years old and calling him Father.
+And so, he took [[Mira]] under his care.
 
-For most of [[Mira]]'s childhood, [[Lune Shallow]] was a place of relative peace. The Second Wave of the [[Great Plague]] had ravaged many settlements, but it had largely spared the secluded bay. The people said it was because the [[Moon]] watched over them. The people said the [[Lunehymn]] that flowed from the [[Leylines]] here was a blessing.
+[[Kael]] later told people he did not decide to raise her. He just did not choose not to. And by the time he was aware of the decision that had been made, [[Mira]] was already 3 years old and calling him "Father."
 
-[[Kael]], however, told [[Mira]] a different story: "We're safe because we're isolated. We're safe because people don't think of us. In a sense, we're only safe because the world forgot we exist."
+**[[Ballad]] Fragment I. An Ill-Stricken Orphan**
 
-It was not a story meant to comfort. It was a story meant to teach.
+For most of [[Mira]]'s childhood, [[Lune Shallow]] was a place of relative peace. The Second Wave of the [[Great Plague]] had ravaged many settlements, but it had largely spared the secluded bay, and the fisherman raised her as his father had raised him— with work, with expectation, with the kind of love that is expressed through action rather than softness.
 
-[[Mira]] grew up understanding, from her earliest [[Consciousness]], that safety was conditional. That was the only reason she was alive: someone—a father she would never meet—had taken the risk that a sickly girl abandoned in a safer village had better odds than a dying man's daughter eventually perishing alone in the mountains.
+[[Kael]] was also a careful man; he had grown cold since the passing of his wife, yet he still kept memory of them, and saw a home in everything [[Mira]] did — in the way she moved, the way she grew, and in the way she delighted in savoring sweets every so often. However, his work, while simple, required dedication. For most dawns he would be leaving early their home until night came. Yet he would not leave [[Mira]] unattended on his house. On the contrary, he would often take her with him to the docks, but this wouldn't last long.
 
-This knowledge lived in her bones.
+The cough came the year she turned 8. It started as a tickle. Then a persistent rattle in her chest. Until one sunset, when [[Kael]] was securing his ship after work's end on the harbor with [[Mira]]'s help, it deeply worsened. 
 
-It made her grateful in a way that some might have called unhealthy. She never complained. She never demanded. She never took for granted that [[Kael]]'s choice to feed her was guaranteed to continue.
+It was close to nightfall, and both [[Mira]] and [[Kael]] were about to finish a long day of work. They were each on opposite sides of the deck, anchoring the mast of a wooden vessel. [[Mira]] pulled the line taut, made two passes, and [[Kael]] was waiting for her to secure the line, but before she made the third pass her lungs faltered. 
 
-She also never forgot.
+A deep cough bent her double.
 
-The fisherman raised her as his father had raised him—with work, with expectation, with the kind of love that is expressed through teaching rather than softness. [[Mira]] learned to mend nets. She learned to read the [[Moon]]'s phases and their effect on the tides. She knew the taste of salt, the color of different depths, the way the harbor changed with the seasons.
+It felt like something inside her was trying to escape her throat, and by the time it had passed, her hands had lost the strength required to keep the boat steady, and the grip pulled her to the cold sea.
 
-But most importantly, she learned to observe the world and its people.
+[[Kael]] lunged immediately to the waves to rescue her. [[Mira]] was fighting as much the cough anew as she was trying not to drown.
 
-[[Kael]] was a careful man; he had grown cold since the passing of his wife, yet he still kept memory of them, and saw a home in everything [[Mira]] did—in the way she moved, the way she grew. And he recognized that she seemed to carry something heavy even as a child. 
+Once washed ashore, [[Mira]] was trembling but without signs of any major injury. In a sigh of relief [[Kael]] kept her in a tight embrace. Delicately streaking the sides of her hair, humming the familiar lullaby that would calm [[Mira]].
 
-He never asked what it was. But for such, he taught [[Mira]] to notice things in others the same way he saw them in her.
+It had been a long time since the fisherman ever took care of someone like this. His heart never fully healed from the loss of a possible family cut short, yet the sight of [[Mira]] in his embrace was the reflection of the home he would vow to never lose again.
 
-"People are always trying to hide," he would say one day while they mended the nets together, "but if you watch long enough, you can see what they're protecting. And sometimes, if you're with them, they'll let you witness it."
+The truth was, he could not call her "daughter." The word caught in his throat — not from rejection, but from the weight it carried. To say "daughter" was to name what he'd failed to protect. So instead, [[Kael]] found smaller names, and gentler approaches. He found ways to speak his love that didn't require him to speak his loss.
 
-[[Mira]] did not understand what he meant at the time. But those words kept in her mind as much as the sound of the washing waves of the shore.
+And to protect [[Mira]] as much as it was to protect himself, it would become the language of their entire life together.
 
-By age 19, [[Mira]] had begun to understand something about herself: her body was not entirely hers.
+The incident was as much of a toll for [[Mira]] as it was for [[Kael]]. [[Mira]] had learned that her body wasn't fully hers. The frailty of her lungs was the only inheritance her biological family had left. And for [[Kael]], it was the wake-up call to the delicate thread that kept their home alive. 
 
-She had inherited something from the father she never knew—a weakness in the lungs, a tendency toward persistent coughs, a fragility that made even simple work exhausting. [[Kael]] knew what this meant. He had watched the Second Wave claim people with similar weaknesses.
+From now onwards, he would leave [[Mira]] on her own while he went fishing, as an act of love to protect her from the strains of physical labor and the toll of her condition.
+
+The routine changed slowly, then all at once. [[Mira]] used to spend the entire day at the docks by his side. Now the mornings belonged to the silence of the house when [[Kael]] went off at sunrise. 
+
+At first she still tried to help. She sometimes carried water from the nearby well on top of the harbor's hill to help [[Kael]] with the morning routine. But one time too often would the bucket’s handle bite into her fingers, until halfway home her hands began to shake. 
+
+One morning as her cough rose, raw and tearing. The water spilled into the dirt in a dark fan when she was close to home. [[Kael]] came out at the sound, took the bucket from her without rebuke, and carried it inside himself.
+
+Another [[Moon]], [[Mira]] tried to mend nets alone one afternoon while [[Kael]] was still away. The twine blurred when the coughing fit came; her fingers lost their rhythm. When [[Kael]] returned, he found the net tangled in her lap and her chest heaving as she forced shallow breaths between spasms.
+
+He did not scold her then either. He sat beside her and untangled the net in silence, his jaw tight with a heavy heart.
+
+After that, [[Kael]] stopped asking her to help with work that demanded strength.
+
+Instead, she watched.
+
+Often she would stroll alongside [[Lune Shallow]]'s market, harbor, and the docks where her biological father had left her. It wasn't long before [[Mira]] learned which fishermen came back with their shoulders heavy. She also came to recognize which merchants lied by watching their hands instead of their mouths, and she became skilled at reading the gait of the few spare widows who moved as if the air itself pressed against them.
+
+While [[Mira]] felt the weight of being by herself, [[Kael]] in turn however, would make it up by showing her love through teaching her skills he had learned on the waves whenever he came back from a fishing trip.
+
+He feared hurting her as much as he feared neglecting his own role as a father.
+
+Thus, [[Mira]] learned to mend nets in the evenings, when breathing was easier and the air smelled of salt and cooked fish rather than murk and wet rope. She learned to read the [[Moon]]'s phases and their effect on the tides. She knew the taste of salt, the color of different depths, the way the harbor changed with the seasons.
+
+But perhaps the most important lesson was what [[Kael]] told her one sunset while they mended the nets together.
+
+He now reached consistently to one of those smaller names — the one that had become his language for loving her when "daughter" was too heavy.
+
+"What is it, sweet tooth?" [[Kael]] said in a soft, raspy voice when he noticed her oblivious gaze into the horizon. "You look as lost as the barnacles washed ashore."
+
+[[Mira]] remained muted, mechanically moving her hands but on a blank stare.
+
+"You forgot how to tie the ends? We can go over knots again if you're unsure," [[Kael]] said jokingly, expecting a response from [[Mira]] but she kept a stare to herself.
+
+"I'll treat you something sweet nice after we head to the market tonight," [[Kael]] proposed while throwing a net to catch [[Mira]]'s attention. "Merchant supplies are ever running dry with the [[Great Plague]] but with today's catch we can afford a few luxuries. Maybe even one or two of those breads you like a lot—"
+
+"Father, why can't I be with you?" [[Mira]] replied quietly with tears building on the rim of her eyes.
+
+"Ah, that's what it is," [[Kael]] let out a deep sigh while trying to make up the words as he scratches the top of his forehead. "You know what happened last time. I would like to take you with me sweet tooth, but hard labor is not for you. And that's not all there is to work, tracking the [[Moon]] is much more important than reeling the fish."
+
+"You always say that, but what if you don't come back..." [[Mira]]'s tears began to run down her cheeks while sobbing. "I... miss you. And if I'm alone..."
+
+[[Kael]] dropped the net to cut her sentence short.
+
+"[[Mira]], I will never leave you. Not this [[Moon]], nor the next, nor for a thousand [[Cycle]]s," [[Kael]] said to reassure her in his still raspy voice. "Just like your father does, I also live in you, in your memory, in your emotions. Even in the tears that run down your cheeks, if you can feel me. I'm here."
+
+"Even if you can't look at this sack of rags." [[Kael]] laughed while removing his coat. 
+
+"And that's the truth, [[Mira]]. I can't always be here next to you, but I don't really leave if you can say I'm still here," [[Kael]] says as he puts his coat on top of [[Mira]]'s shoulders as a sort of hug, "You're a smart young lady, and there's plenty of things you can do by observing the world on your own." 
+
+"People are just like schools of fish, and are always trying to hide," he would say while pointing at the [[Leylines]] converging with the rivers at the shore, "but if you watch long enough, you can see what they're protecting. And sometimes, if you're with them, they'll let you be a witness to it."
+
+"I'm sure you're already better than me at that just by watching everyone on [[Lune Shallow]]'s harbor." [[Kael]] continued while trying to ease the tension. "I'd be real lucky if I could watch through a merchant's tricks."
+
+[[Mira]] did not understand what he meant at the time. But those words kept in her mind as much as the sound of the washing waves.
+
+"I'm sorry you can't accompany me anymore, [[Mira]] but I too have something to protect," [[Kael]] continues in a somber yet jokingly way while closing the leather of his coat now covering [[Mira]], "I wouldn't want any more salt on your tangled little hair. It's hard enough to comb it as it is."
+
+[[Kael]] then carried [[Mira]] on his shoulders, heading to the market in the hope to lift up her spirits with as many sweets as his pockets would allow. It wasn't the first nor the last time [[Mira]] would struggle with loss and her worth. [[Kael]] himself recognized that she seemed to carry something heavy even as a child, though he never quite found the words to ask about it.
+
+He instead taught her that to be present is much more important than longing in the past. And to help her with such, he guided [[Mira]] to notice things in others the same way he saw them in her.
+
+**[[Ballad]] Fragment II. The Departure**
+
+A few years went by. [[Mira]], now grown to the age of 12, picked up on the habit of being the lookout for [[Lune Shallow]]'s gathering caravans on the harbor's [[Trade Node]] when [[Kael]] was gone.
+
+The few times that a merchant arrived to a [[Secluded Refuge]] such as [[Lune Shallow]], they were always met with skepticism as a threat to the population. The Second Wave of the [[Great Plague]] had taught many to distrust anyone coming from outside. Horror stories travelled all throughout [[Arcanoria]] of a dancing frenzy that would never cease until it consumed everything.
+
+Perhaps it was blind luck or the secluded location of the settlement, but for the people of [[Lune Shallow]] it was because the [[Moon]] watched over them. The folk story was that the [[Lunehymn]] that flowed from the [[Leylines]] here was imbued with a blessing of the heavens themselves.
+
+One autumn, a merchant caravan from the southern pass arrived later than expected, its wagons rimed with dust and its people moving with the wary stiffness of those who had seen too many sickbeds. Among them was a boy around [[Mira]]'s age, with sun‑bleached hair and a gap in him carrying losses she recognized but could not name.
+
+His name was Kyrie, although [[Mira]] later adopted a nickname of her own: [[Kyvy]].
+
+He stayed with one of the miller families at the edge of the village, a household that had taken him in after his own had been lost somewhere along the southern roads across the great mountains that separate [[Lune Shallow]] from the [[Great Plague]].
+
+[[Mira]] first saw him by the tide rocks, throwing pebbles into the water with the same absent focus she had once used on knots.
+
+They did not speak at first. They simply threw stones together and watched the circles expand, collide, and vanish in [[Resonance]]. But the repeating appearance of [[Kyvy]] on the docks while [[Kael]] was away planted the seeds of her first friendship.
+
+In later weeks, [[Kyvy]] showed [[Mira]] how to whistle with a blade of seagrass. She brought him peppermint leaves from [[Kael]]'s small garden. And they tend to talk about the few things they both knew about the sea — the color of the sky before storms, the way gulls cried like lost children, how the cold made the murk and water clearer.
+
+With [[Kyvy]], [[Mira]] was not [[Lune Shallow]]'s sick girl or the fisherman’s foundling. She was just a girl who knew the tides better than he did, who could point out which clouds meant weather, who laughed when his whistling attempts failed.
+
+It was the first thing in her life she had taken for herself instead of being given.
+
+However, when she mentioned [[Kyvy]] in a conversation over diner, [[Kael]]'s hands stilled briefly over his bowl.
+
+"That caravan of millers came from the south pass," he said. "From the villages that are now lost to most maps."
+
+"[[Kyvy]] said his family died in a mudslide," [[Mira]] answered.
+
+"Mudslides follow storms as sure as the [[Great Plague]] follows people," [[Kael]] muttered, then shook his head, as if scolding his own thoughts. "It's great that you've finally made friends but just promise me to be careful, sweet tooth."
+
+[[Mira]] continued to exchange time with [[Kyvy]] for the following next four [[Moon]]s while [[Kael]] was gone until dusk. She now had built on the habit to visit the home of [[Kyvy]] in the outskirts of [[Lune Shallow]].
+
+One dreaded morning, however, the miller’s house stood empty.
+
+The door was open with leftover ashes on a cold hearth. A few chairs layed overturned in the yard. Inside, the bedding of the rooms was gone. Only in the middle of the floor sat by the fire a small wooden windpipe, its edges rough-carved, as if it was made in a hurry.
+
+[[Mira]] stood in the doorway, first calling awkwardly for [[Kyvy]], then for any names, until at last she tried to scream in a breath thin and fast. Her cough scratched at her throat, but she held it back for finding anyone was more important than tending to herself. 
+
+Desperately, she looked on every house of the neighboring caravan but she was only met with the deafening silence of absence until the sun fell down.
+
+[[Kyvy]] was gone. No note. No farewell. No presence of himself or his adopted family.
+
+[[Mira]] ran back toward the harbor when last streaks of sunlight set by the horizon of the sea beyond the empty houses. Her lungs were burning from the physical strain after desperate hours of searching. Ultimately, she was met by no one until she found [[Kael]] at the docks, mending nets alone.
+
+"[[Kael]]! They left!" she said, the words catching between coughs. "The caravan, the millers. [[Kyvy]] — he's gone!"
+
+[[Kael]]'s hands froze in the net. For a moment, his face didn’t move at all, as if skipping a breath. Then something sharp passed behind his eyes. He set the net aside very carefully, as if it were something that might break.
+
+"You went to their house?" he asked, too quietly.
+
+"He’s my friend," [[Mira]] said, as if that explained everything.
+
+"[[Mira]]," [[Kael]] began, but whatever softer word he had been reaching for turned to stone on his tongue. "Those people... They came from the [[Great Plague]]. They knew it. They knew all the stories. They came here anyway and then left in the night."
+
+He stood, his voice rising now, hoarse with something like panic. "You’ve been coughing around them. You’ve been in their house, breathing their air! And now they’re gone! Do you understand what that looks like? To them? To the rest of the village?"
+
+Tears burned at the corners of [[Mira]]’s eyes. "He wouldn’t leave without saying goodbye."
+
+"He didn’t have a choice!" [[Kael]] finally snapped. "They left because they were afraid. Afraid of what follows them, afraid of what follows you. In the end they all leave! Whether by choice or by force... That’s why we don’t tie ourselves to people who can disappear with the next tide."
+
+He had never raised his voice at her like that. The words hit harder than the cold water ever had.
+
+"[[Mira]], I have told you many times! We are safe because we are forgotten," he continued, voice fraying. "[[Lune Shallow]] only survived so far because no one thinks of us. The moment people remember us, they bring their plagues and their fear and their leaving. And we are the ones who stay with whatever they’ve stirred up."
+
+[[Mira]] said nothing. She could not tell where his anger ended and his fear began. She tried to compose herself but no words could come from the knot of her throat.
+
+"Don’t ask the world for things it cannot keep," [[Kael]] now with his voice wore down to a rasp concluded, "If you don't want to meaningless suffer then don’t cling to what can disappear before the end of the night..."
+
+[[Kael]] finally stopped with a deep breath, and turned back to the nets. He couldn't keep the sight of her daughter crying of the pain of loss. [[Kael]] knew he should comfort her, but her wound mirrored too close to his own. So he kept on working, with his fingers moving faster than before, as if mending rope could keep anything else from coming apart.
+
+That night a deep silence covered their house, [[Mira]] lay awake listening to the waves and to her own lungs drag air in and out of her chest. She didn’t know whether the caravan and [[Kyvy]] had left because of her, or because of something beyond the horizon, but the knot between those possibilities tightened around her ribs all the same.
+
+She did not ask [[Kael]] if he thought she was to blame. She did not ask if he would ever leave without saying goodbye. She did not ask for anything anymore.
+
+In the [[Moon]]s that followed, [[Kael]] tried, clumsily, to soften what he had said.
+
+He brought her honey cakes from the market on days even when the catch wasn't good. He returned from longer trips with little things in his pockets — smooth stones, a strip of colored cloth, a tarnished coin from some other, larger harbor.
+
+"[[Mira]]," he said one dawn before he left to work, his voice careful, "about what I said. About them leaving because of you. I was afraid. I spoke badly. I… I didn’t mean to put all of that on your shoulders."
+
+"It’s fine," [[Mira]] answered, eyes on her hands.
+
+"Sweet tooth, it’s not fine," [[Kael]] said, sharper than he intended. Then, softer: "I can see it’s not. You haven’t asked me for anything since."
+
+She thought about denying it, but that would have been another kind of lie.
+
+Instead, [[Mira]] reflected on that nickname. She had never given second thought to what [[Kael]] called her, but then she remembered the one name she herself gave to [[Kyvy]]. This time "Sweet tooth" felt hollow.
+
+"You're still calling me that?," she said instead and continued after a sigh. "You’re a good father. You saved me. You feed me. That’s enough."
+
+"[[Mira]], I don’t want ‘enough’ from you," he whispered. "I want you to know you can ask. For sweets, for time, for… whatever you need— You're my daughter..."
+
+[[Mira]] was surprised to hear those words coming from him. It filled a [[Void]] she had been yearning for. But then the memories of the day she was abandoned at the docks flooded her.
+
+She shook her head and in a soft voice she replied, "Every time I’ve wanted something, it’s gone. Or it hurts. Or it leaves. It’s easier to let go."
+
+[[Kael]] looked at her then with an expression of grief that hurt her as much as she wished to deny it to the point that [[Mira]] had to look away.
+
+"Did— Did I do that to you?," he said in a voice close to breaking.
+
+She did not contradict him. There was nothing kind to say that would also be true. 
+
+The only words [[Mira]] could phrase were: "I still love you, Father. And that's enough."
+
+**[[Ballad]] Fragment III. The Third Wave**
+
+By age 19, [[Mira]] came to the cruelest realization yet, the sickly condition she had since inherited from her bygone family since her childhood rapidly worsened into what would be finally her end.
+
+It started on the morning where she was awakened from her sleep by a feeling of suffocation. For a moment [[Mira]] believed it was a dream where she was drowning, as one of the nightmares that haunted her every so often about being left at the mercy of the waves, but it quickly came to her senses that she was in her home.
+
+She curled up to the side of the bed, and the moment she fully realized she was awake, she coughed a pool of blood.
+
+[[Kael]] quickly came to her room after hearing the noise of the desperate thrashing.
+
+He froze at the scene the moment he saw the position [[Mira]] was in, for he knew what this meant. He had watched the Second Wave claim victims the same way.
 
 He did not speak of it.
 
-Instead, he held her hand more often. He sat with her through the nights when her cough was worst. And when she asked him, "Am I going to die as he did?" he did not lie to her.
+Instead, he held her hand more often, softly but desperately clinging to her touch. He sat with her through the nights when her cough was worst. And when she asked him, "[[Kael]], am I going to die as my family did?" he did not lie to her.
 
 "Yes," he said with a heavy heart. "Probably. But not today. And that's the only promise anyone has."
 
 It was not cruel, this honesty. It was, in its own way, the most incredible kindness because it allowed [[Mira]] to stop being afraid and start being present to her own life.
 
-She began leaving the house more deliberately, not out of rebellion against her body's limitations, but because she understood—in the way that only someone waiting for their own death can understand—that time was not infinite.
+She began leaving the house more deliberately, not out of rebellion against her body's limitations, but because she understood — in the way that only someone waiting for their own death can understand — that time was not infinite.
 
 She started spending afternoons in the sick houses.
 
@@ -80,11 +259,11 @@ He recognized it because he had done something similar when his wife was dying. 
 
 "They're already alone," [[Kael]] said gently. "Death is the ultimate solitude. You can't change that."
 
-[[Mira]] turned to face him. She was still young, but there was something ancient in her eyes—something that had learned too much about loss already.
+[[Mira]] turned to face him. She was still young, but there was something ancient in her eyes — something that had learned too much about loss already.
 
 "No," she said. "But I can change whether it's invisible alone. I can change whether their passing is truly solitary, and if someone has memories of their life."
 
-[[Kael]] looked at his adoptive daughter—this girl he had raised from abandonment, this girl who was slowly becoming luminous with purpose—and he understood what he was seeing: he was watching someone figure out how to make peace with the fact that they are dying.
+[[Kael]] looked at his adoptive daughter — this girl he had raised from abandonment, this girl who was slowly becoming luminous with renewed purpose — and he understood what he was seeing: [[Mira]] was not the child she once was, even the nicknames felt awkward now. He was, instead, watching someone figure out how to make peace with the fact that they are dying.
 
 He said nothing more.
 
@@ -92,11 +271,11 @@ He held her hand and let her go.
 
 The Second Wave of the [[Great Plague]] had truly ended while [[Mira]] was still a child, way before [[Mira]] began her work, but it left scars that never truly healed.
 
-The plague had erased so many families. The song of many bloodlines fell silent. And [[Mira]] learned from the stories of the weeping ill that those who survived had done so partially through luck and partially through the deliberate choice to isolate.
+The [[Great Plague]] had erased so many families. The song of many bloodlines fell silent. And [[Mira]] learned from the stories of the weeping ill that those who survived had done so partially through luck and partially through the deliberate choice to isolate.
 
 It was hard to be away from others, but the most brutal truth wasn't about minimizing contact but about accepting that loving people in plague times meant watching them die. Some of the survivors had developed a theology about this and the glowing lights in the sky that shine when the night is at its darkest.
 
-They called themselves the followers of the [[Purest of Love]], the devout of the [[Auroral Ribbons]]. Their doctrine was simple: the [[Moon]] that hung above [[Lune Shallow]] was weeping. Something understood loss so intimately that it was trying to send comfort through the only channel available: the [[Lunehymn]], the silvery liquid that flowed from the [[Leylines]].
+They called themselves the devout of the [[Auroral Ribbons]]. Their doctrine was simple: the [[Moon]] that hung above [[Lune Shallow]] was weeping. Something understood loss so intimately that it was trying to send comfort through the only channel available: the [[Lunehymn]], the silvery liquid that flowed from the [[Leylines]].
 
 These pilgrims began collecting [[Lunehymn]], but they weren't carrying it for healing; instead, it was for them a sacred vial in revelation. When the liquid was most concentrated, it shifted from its regular pale silvery shine into a deep, midnight blue, with slight sparkles that mirrored the stars of the cosmos.
 
@@ -110,15 +289,15 @@ The pilgrims not only saw the [[Auroral Ribbons]]. They also watched [[Mira]].
 
 They saw a girl who had been left behind as a child, raised by someone else's mercy, slowly dying from the frailty of their condition, yet even in her weakness, she chose to spend her evenings comforting the endings of others that could not prevent their own death.
 
-And they understood that [[Mira]] was already doing what the [[Moon]] had been trying to do. They understood that [[Mira]] was the living answer to the [[Moon]] weeping dreams.
+And they recognized that [[Mira]] was already doing what the [[Moon]] had been trying to do. [[Mira]] was the living answer to the [[Moon]] weeping dreams.
 
 However, not everything would always be so beautiful.
 
 Two years went by, and finally the devastating yet silent Third Wave of the [[Great Plague]] came. It did not announce itself until it had already begun.
 
-A fisherman coughs at the market. A child develops a fever. A wife wakes to find her husband struggling for breath. Within days, even the carefully maintained isolation that [[Lune Shallow]] had relied on for safety since the start of [[Worldbuilding/Rise & Fall, Crisis/Crisis/Great Plague]] shatters.
+A fisherman coughs at the market. A child develops a fever. A wife wakes to find her husband struggling for breath. Within days, even the carefully maintained isolation that [[Lune Shallow]] had relied on for safety since the start of [[Great Plague]] shatters.
 
-The [[Great Plague]] arrives with the spring tides, carried perhaps by traders from outside, or by the simple inevitability of disease finding every hiding place eventually.
+The [[Great Plague]] arrives with the spring tides, carried perhaps by traders from outside, or by the simple inevitability of disease finding every hiding place eventually after one too many outsider caravans have arrived.
 
 [[Kael]] is not young. He is 57 years old, and decades of work on the water had weathered his body. His lungs are already compromised and strained from constant exposure to salt air and harsh labor.
 
@@ -132,27 +311,29 @@ Instead, he continues to rise at dawn. He continues to prepare to go to the boat
 
 Instead, she asks: "How long have you known?"
 
-[[Kael]] looks at his daughter—this woman who has grown from an abandoned child into someone luminous with purpose—and he tells her the truth.
+[[Kael]] looks up at his daughter, who is now tending to him instead of him tending to her. He sees in [[Mira]] the woman who has grown from an abandoned child into someone wise and kind, and he tells her the truth.
 
-"Since the first cough. I've lived long enough to recognize my own ending."
+"Since the first cough. I've lived long enough to recognize my own ending." [[Kael]] tries to make eye contact with her but he ultimately can't, "It has taken years for anything to take a toll on you, [[Mira]]. But I won't be here for the next [[Cycle]]."
 
 [[Mira]] helps him to bed. She brings him water. She sits beside him and does the thing she has learned to do: she stays with him as he passes, slow yet sure.
 
-"I'm sorry," [[Kael]] says after a long silence with the first tears that [[Mira]] has ever seen in him. "I'm sorry I have to leave you again. I know what abandonment is like. I know what it does to you."
+"I'm sorry, my daughter," [[Kael]] says after a long silence with the first tears that [[Mira]] has ever seen in him. "I'm sorry I have to leave you again. I know what abandonment is like. I know what it does to you and in the end I couldn't fully make peace with it either."
 
 [[Mira]] takes his hand. Her grip is steady, even though her body is betraying her too, even though she knows she will not be far behind him.
 
-"You didn't abandon me the first time," she says. "You saved me. And you're not abandoning me now. You're dying. There's a difference."
+"You didn't abandon me the first time, Father," she says. "You saved me. And you're not abandoning me now. You're dying. There's a difference."
 
-"Is there?" [[Kael]] asks, with a genuine uncertainty in his voice. "From where you're standing, does it feel different?"
+"Is there, Sweet tooth?" [[Kael]] asks, with a limp smile and genuine uncertainty in his voice, now whispering the final time [[Mira]] will hear that name. "From where you're standing, does it feel different?"
 
 [[Mira]] considers this with absolute honesty.
 
-"No," she finally says. "It feels like losing everything. But at least this time, I understand that it has to happen. The first time, I didn't even understand what was being taken from me."
+"No," she finally says. "It feels like losing everything. But at least this time, I understand that it has to happen. Before, I didn't even know why or what was being taken away from me."
+
+**[[Ballad]] Fragment IV. [[Kael]]**
 
 [[Kael]]'s breathing becomes more labored as the days pass.
 
-He declines rapidly—faster than the typical progression, as if his body is in a hurry to leave. Within a week, he is barely conscious. Within ten days, his breathing is shallow and irregular.
+He declines rapidly — faster than the typical progression, as if his body is in a hurry to leave. Within a week, he is barely conscious. Within ten days, his breathing is shallow and irregular.
 
 [[Mira]] sits with him constantly.
 
@@ -172,7 +353,7 @@ It becomes the breathing of someone whose lungs have filled with despair, whose 
 
 She watches the light in his eyes begin to dim.
 
-And when the moment comes—that precise, countable moment where he stops being someone struggling to breathe and becomes someone who has stopped breathing—[[Mira]] is present.
+And when the moment comes — that precise, countable moment where he stops being someone struggling to breathe and becomes someone who has stopped breathing — [[Mira]] is present.
 
 She sees it. She is the one witness clinging to his deathbed. She is the last in this world to register that [[Kael]] exists, before his existence becomes her memory.
 
@@ -184,11 +365,11 @@ For two days after [[Kael]]'s death, [[Mira]] holds still. She is still clinging
 
 She sits in the house and feels the weight of every ending she has ever witnessed, compressed now into her own body, her own loss.
 
-She understands, for the first time, that witnessing the deaths of strangers was practice. It was preparation. But nothing—nothing—prepares you for seeing someone you love.
+She understands, for the first time, that witnessing the deaths of strangers was practice. It was preparation. But nothing — nothing — prepares you for seeing someone you love.
 
 She understands that this is a wound that will not close. That she will carry [[Kael]]'s absence for the rest of her life, even if that too is increasingly limited.
 
-On the third day—still without sleep—[[Mira]]'s body finally passes out from exhaustion. 
+On the third day — still without sleep — [[Mira]]'s body finally passes out from exhaustion. 
 
 She dreams of her father, desperately running, yet composed in singing her a lullaby. She never forgot the melody, even if fog deeply clouded the memory. The sweetness of it made her solitude bearable, even if the only truth she knew of her home was the harmony of it.
 
@@ -196,13 +377,13 @@ When she woke up, she was curled on the floor. She had a burning feeling in her 
 
 It was pulsing with her heartbeat in a beautiful midnight purple, fading through a fine veinwork of black branches. She just had her [[Motif Awakening]] to [[Void]], the element of absence itself, in the dark hues of the space that is no longer there.
 
-She does not understand what has happened—that the intensity of her grief has crystallized her [[Consciousness]] into the one binding that could hold it: the power to thread emptiness as deeply as presence. 
+She does not understand what has happened — that the intensity of her grief has crystallized her [[Consciousness]] into the one binding that could hold it: the power to thread emptiness as deeply as presence. 
 
 She carefully holds the gem in her trembling hands and understands one thing: the absence is absolute now. And this gem, her [[Soul Leitmotif]] humming with the sweet lullaby of her bygone memory, is proof that [[Kael]] existed, that her orphaned family existed, because something in [[Mira]] broke when they all left her behind.
 
 She sits on the floor with the gem in her palms and rocks back and forth, not weeping now, but in a state beyond weeping. In shock. In sleeplessness. In a hunger so profound it has stopped hurting and become a kind of hollow feeling.
 
-She fidgets with the gem endlessly, her fingers tracing its curves, feeling its warmth—the pulsing of her own heartbeat, crystallized, made tangible.
+She fidgets with the gem endlessly, her fingers tracing its curves, feeling its warmth— the pulsing of her own heartbeat, crystallized, made tangible.
 
 "This is proof," she whispers to no one, to everyone, to the absence itself. "This is proof I loved. This is proof that they were all real."
 
@@ -232,7 +413,7 @@ And as she cries, something else happens.
 
 The [[Auroral Ribbons]] begin to shimmer in the window with the light of the people who had passed that night. Not faintly, as they usually do. But visibly, actively, almost as if responding to her grief with their own kind of luminescence.
 
-[[Selah]] prays to them. And as she does, she understands that [[Mira]]'s grief is the light in her darkest night. She is the chosen of the [[Moon]].
+[[Selah]] prays to them. And as she does, she sees a vision on their reflection. One single star of the vast, immense sky reflecting the golden light of the ribbons. For [[Selah]] this is the signal that it is [[Mira]]'s grief the light of that same star in her darkest night. For [[Selah]], [[Mira]] truly is the chosen of the [[Moon]].
 
 When [[Mira]]'s weeping finally subdues, [[Selah]] speaks.
 
@@ -276,6 +457,8 @@ She pauses carefully.
 
 [[Mira]] finally falls asleep.
 
+**[[Ballad]] Fragment V. [[Lacrimosa]]**
+
 It's been a week after [[Kael]]'s death. The pilgrims have prepared a building at the highest point in [[Lune Shallow]]. A secluded location overlooking the crescent shape of the moonlit bay. A place where the [[Moon]]'s light falls unobstructed by the harbor.
 
 They bring [[Mira]] there.
@@ -300,7 +483,7 @@ She does not see the presence. She feels it. She understands, without words, tha
 
 The presence shows her visions:
 
-A 12-year-old girl, sitting beside a dying older woman, counting the moments between breaths, comforting her as she sings.
+A 12 year old girl, sitting beside a bridge, throwing rocks into the horizon and to the sunset of the sea with skips in between laughter with a boy her age.
 
 The same girl, now 19, holding the hand of a plague victim, whispering that his name would be remembered.
 
@@ -310,7 +493,7 @@ And then this presence reveals their name: "[[Lacrimosa]]." echoes in the infini
 
 "You feel like I feel," [[Lacrimosa]] continues in an impossible voice, akin to the texture of silence learning to vibrate. "You are lonely. You are grieving. You are trying to make sense of loss through presence."
 
-[[Mira]] does not try to respond. She only acknowledges: "Yes." As she lifts her [[Void]] [[Soul Leitmotif]] from the brooch of her ribbon into the infinite presence. Letting anotherworldly, red gleam of light catch it.
+[[Mira]] does not try to respond. She only acknowledges: "Yes." As she lifts her [[Void]] [[Soul Leitmotif]] from the brooch of her ribbon into the infinite presence. Letting an otherworldly, red gleam of light catch it.
 
 The gem sparkles—as proof of her grief, proof of her loss, proof that she understands what it means to carry absence.
 
@@ -413,6 +596,8 @@ For [[Mira]], it is confirmation that what she is experiencing is not madness, b
 When she wakes up again, she doesn't feel the haziness she felt the first time, but warmth, albeit hollow.
 
 [[Mira]] begins singing to the moon-swept sea below, the melody of her [[Soul Leitmotif]] as her lullaby, as the omen to the melody of the [[Moon]].
+
+**[[Ballad]] Fragment VI. The Twin [[Moon]]s**
 
 While the ritual ends, over the course of the three full [[Moon]]s that mark [[Mira]]'s final months of life, they speak.
 
@@ -532,6 +717,8 @@ She learns that love—real love—is not about being essential in an infinite s
 
 She learns that the girl she has been speaking to—this ordinary, orphaned, dying girl—understands something that she, herself, has spent eons trying to grasp in [[The Infinite Void]]: that invisibility is only unbearable if you stop trying to reach toward others. That loneliness only becomes absolute if you stop being present to it. It is the merger of two [[Consciousness]], which makes their suffering into [[Consonance]].
 
+**[[Ballad]] Fragment VII. [[Mira]]**
+
 Six months after [[Kael]]'s death. The final full [[Moon]] rises, the last one [[Mira]] will see.
 
 She is skeletal now, nearly as translucent as [[Lacrimosa]]. Her breathing is a conscious effort. Her voice has become something thin and reedy, like a wind instrument at the edge of breaking.
@@ -634,7 +821,7 @@ Instead, it hovers on the rim of the filaments in the [[Auroral Ribbons]] that s
 
 The grief of watching a [[Consciousness]] that mattered to her step beyond the edge of existence, beyond the edge of her.
 
-She weeps for [[Mira]], for [[Kael]], for the father [[Mira]] never knew, for everyone that [[Mira]] ever sat with while they died.
+She weeps for [[Mira]], for [[Kael]], for [[Kyvy]], for the father [[Mira]] never knew, for everyone that [[Mira]] ever sat with while they died.
 
 She weeps for all the loneliness she has carried, all the moments she watched and did not manifest, all the presence she offered from a distance when what was needed was closeness.
 
@@ -676,7 +863,11 @@ And thus, the pilgrims had achieved the impossible: making the divine descend.
 
 They created a way of bypassing the limit of [[Sufficient Precision]] that prevented [[Outer God]]s from reaching the threshold of mortality and directly affecting the realm.
 
-[[Lacrimosa]] standing in the newfound body was declared the first miracle by the pilgrims of the [[Purest of Love]]. [[Selah]], overjoyed, couldn't contain her emotion. And, in song, they all celebrate for it is the first time the divine came to [[Arcanoria]], after ages bygone of meaningless suffering gone in unanswered prayers.
+**[[Ballad]] Fragment Outro. A New Age of the [[Purest of Love]].**
+
+[[Lacrimosa]] standing in the newfound body was declared the first miracle by the pilgrims of the [[Purest of Love]].
+
+[[Selah]], overjoyed, couldn't contain her emotion. And, in song, all the pilgrims of the [[Auroral Ribbons]] celebrate, for it is the first time the divine came to [[Arcanoria]], after [[Ages]] bygone of meaningless suffering gone in unanswered prayers.
 
 [[Selah]] still knew that they needed a definite body for [[Lacrimosa]] to inhabit. But for now, this was enough.
 
