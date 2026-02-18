@@ -35,6 +35,18 @@
         "d48e64e7bb66fb41"
       ]
     },
+    "Events/Age Related": {
+      "icon": "lucide-clock-plus",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Events/World Events": {
+      "icon": "lucide-globe-2",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
     "Game Systems": {
       "icon": "⚙️",
       "unsynced": [
@@ -58,6 +70,18 @@
     },
     "Images": {
       "icon": "📸",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Images/Bestiary": {
+      "icon": "lucide-paw-print",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Images/Biomes & Ages": {
+      "icon": "lucide-tree-pine",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]
@@ -109,6 +133,12 @@
     },
     "Worldbuilding": {
       "icon": "🗺️",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Meta Analysis": {
+      "icon": "sidebar-toggle-button-icon",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]
@@ -236,8 +266,17 @@
         "d48e64e7bb66fb41"
       ]
     },
+    "Worldbuilding/Society/Civilization.md": {
+      "icon": "🛡️"
+    },
     "Worldbuilding/Society/Societal Resources": {
       "icon": "lucide-person-standing",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Society/Stellar Legacy": {
+      "icon": "lucide-stars",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]
@@ -291,7 +330,7 @@
       ]
     },
     "Worldbuilding/World Environment/Atonalis": {
-      "icon": "lucide-moon-star",
+      "icon": "lucide-cloud-moon",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]
@@ -302,8 +341,23 @@
         "d48e64e7bb66fb41"
       ]
     },
+    "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas": {
+      "icon": "🐾"
+    },
     "Worldbuilding/World Environment/Biomes": {
       "icon": "lucide-tent-tree",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/World Environment/Civilizations": {
+      "icon": "lucide-flag",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/World Environment/Enclaves": {
+      "icon": "lucide-shield-question",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]

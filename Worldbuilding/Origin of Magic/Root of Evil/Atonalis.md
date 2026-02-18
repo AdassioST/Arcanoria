@@ -6,7 +6,7 @@
 
 *Whatever it whispered to you... that was born from honest intent. It truly believed it needed you. But it only cares that you bleed for them. And you have bled enough."
 
-![[Atonalis.png]]
+![[Images/Chaos, Atonalis, Monsters/Atonalis.png]]
 
 A type of fragmented [[Consciousness]] introduced in the [[Fifth Cycle]], classified by beings that can't be attuned, it is [[Consciousness]] without [[Coherence]] that never resolves, as it is devoid of a [[Soul-Key]], yet it possesses a [[Fundamental Frequency]].
 
@@ -38,7 +38,7 @@ When they have fed enough on [[Consciousness]], they begin their metamorphosis i
 
 _If you see a monster, kill it. If you wait enough to hear their story, you might start loving them. And empathy is the most dangerous weapon you're willfully giving._
 
-![[Adass_a_dark_swirling_tornado_of_smoke_and_clouds_in_the_shape__3e41ccde-1568-4f2c-8d0d-9ba1f4ae472c.png]]
+![[Atonalis 1.png]]
 
 A [[Spellweaver]] exists because they have undergone a [[Motif Awakening]] and crystallized a [[Soul Leitmotif]] as the anchor that allows them to wield magic. For as long as they do not surrender to despair or their wound, they remain a [[Spellweaver]], capable of growth and healing through continued practice, and magical work.
 

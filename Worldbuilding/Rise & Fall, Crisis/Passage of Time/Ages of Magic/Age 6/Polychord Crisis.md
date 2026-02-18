@@ -1,3 +1,0 @@
-A type of [[Age Crisis]] resulting in the firing of the ultimate weapon by the use of a Tetrad Chord. Involves [[Primal White Noise]] and it's the first time being harnessed. This created the origin story of [[The White-Touched Archivist]] during the first timeline after the [[Lost Cycle]] and the first reset. Before the start of the game in Reset 2.
-
-The ultimate weapon is teased before as the first of the [[Crisis Wonders]] the [[Civilization]] encounters. The original is one of the [[Megastructure Wonders]] and serves as foreshadowing.

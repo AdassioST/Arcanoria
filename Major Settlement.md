@@ -1,1 +1,0 @@
-Secondary cities that aren't a [[Capital]] but are still large and crucial to any [[Civilization]].

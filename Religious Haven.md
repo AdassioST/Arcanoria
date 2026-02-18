@@ -1,1 +1,0 @@
-Theological-based monasteries that behave like [[Enclave]]s but for religion.

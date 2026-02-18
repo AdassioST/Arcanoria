@@ -1,1 +1,0 @@
-Tolkien + Most Fantasy + D&D inspired era

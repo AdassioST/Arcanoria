@@ -1,0 +1,1 @@
+Classical age of the republic but memory weavers are a common thing to weave cloth as magical practice for armor

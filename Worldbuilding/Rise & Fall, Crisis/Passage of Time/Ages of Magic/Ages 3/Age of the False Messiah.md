@@ -1,0 +1,3 @@
+The first coming of [[Lacrimosa]] an [[Outer God]] inviting chaos, [[The Hollowing]], and a terrible accident with a tetrad chord in whichever kingdom invited her. Despite this [[Dark Age]] being centered around her. All [[Ages]] in [[Ages]] III will feel her presence.
+
+It is only after the age is done that it will be called [[Age of the False Messiah]], before it will be called the "Age of the [[Purest of Love]]." The way to summon [[Lacrimosa]] is by upgrading too much technology related to the [[Auroral Ribbons]].

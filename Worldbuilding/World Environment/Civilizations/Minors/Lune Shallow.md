@@ -1,0 +1,1 @@
+A [[Secluded Refuge]] containing the story of [[Mira]]. Fundamental for opposing [[Lacrimosa]] during [[The Hollowing]] in the [[Opposing the Heavens]] [[Age Crisis]].

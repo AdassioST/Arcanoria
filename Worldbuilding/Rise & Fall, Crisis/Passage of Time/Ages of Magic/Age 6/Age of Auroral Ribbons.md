@@ -1,1 +1,0 @@
-A lot of dying provokes a lot of [[Auroral Ribbons]] which make souls pass a regular basis from the sheer amount of genocide.

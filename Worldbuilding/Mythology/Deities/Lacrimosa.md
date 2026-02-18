@@ -13,11 +13,11 @@
 
 - _"I used to believe a witness who understood everything could make them see what they refused to acknowledge. But I don't care anymore. I suffered watching the [[Auric Aria]] across eternities — understanding her every doubt, her every fear — and did nothing. My clarity paralyzed me, while [[Selenea]]'s naiveness took my place and made her essential. But now, I will be the architect of a new, beautiful world born from the [[Purest of Love]]."_
 
-![[Adass_a_dark-haired_female_with_long_hair_wearing_a_white_blind_27f61188-1406-4061-888d-835cd11e06d0.png]]
+![[Lacrimosa 1.png]]
 
 An [[Outer God]], deeply jealous of [[Selenea]] and the main antagonist of the [[Age of the False Messiah]].
 
-![[Lacrimosa 3 1.png]]
+![[Lacrimosa 5.png]]
 ### The Witness in the Dark
 
 ![[Lacrimosa.png]]
@@ -132,7 +132,7 @@ Invisible.
 
 ### Characterization & Quotes
 
-![[Lacrimosa 2 1.png]]
+![[Lacrimosa 4.png]]
 
 ![[The False Moon.png]]
 

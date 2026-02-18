@@ -1,1 +1,0 @@
-Artificial god bad, hyper accelerationiSt age of AM. related to the [[Weight of Flaw]].

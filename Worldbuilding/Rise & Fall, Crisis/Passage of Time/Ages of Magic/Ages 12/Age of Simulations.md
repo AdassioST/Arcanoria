@@ -1,0 +1,1 @@
+Infinite Tsukuyomi matrix kinda thing. [[Weight of Purpose]] related.

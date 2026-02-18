@@ -1,1 +1,0 @@
-Border sovereignty for a [[Civilization]].

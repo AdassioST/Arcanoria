@@ -1,1 +1,0 @@
-[[Magnum Opus]], [[Lesser Opus]], [[Slayer Magnum Opus]]

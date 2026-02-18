@@ -48,7 +48,7 @@ The whole process of casting magic behaves like a full audio signal chain and re
 	- The [[Magical Catalyst]] uses constructive interference between the [[Primary Instrument]] and the internal [[Spellweaver]]'s [[Resonance]] to amplify amplitude sharply with at the right moment of a spell's application.
 	- The spike is what actually "plucks" the [[Great Harmonic Loom]] threads, akin to a transient hitting a threshold in a nonlinear system and flipping it to a new state through the resonant medium. It only flips into a new macro-state when the local energy at the right frequency crosses the [[Spellweaving]] threshold.
 	
-	Thus, the [[Magical Catalyst]] provides that final gain and transient, and [[Music as Catalyst]] tends to be the best medium for a [[Magical Catalyst]] because it synchronizes the external sound / vibration of the [[Spellweaver]]'s [[Primary  Instrument]] to the spell's internal phase-lock in [[Rhythmic Entrainment]].
+	Thus, the [[Magical Catalyst]] provides that final gain and transient, and [[Music as Catalyst]] tends to be the best medium for a [[Magical Catalyst]] because it synchronizes the external sound / vibration of the [[Spellweaver]]'s [[Primary Instrument]] to the spell's internal phase-lock in [[Rhythmic Entrainment]].
 
 ### [[Corruption]]: The Cacophony of Broken Threads
 

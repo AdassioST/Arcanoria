@@ -1,0 +1,1 @@
+[[Strand]] can keep the structure of past objects and can imbue magic into them to regenerate things like tissue. Bio-magical. [[Age of Vessels]] related.

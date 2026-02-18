@@ -2,7 +2,7 @@
 
 [[Primary Instrument]]: [[Portharmonica]] (A hybrid device: part music box, part calculation engine, producing tones that correspond to divined futures)
 
-[[Armament]]: [[Spindle-Staff]] (A staff topped with a spinning apparatus)
+[[Armament]]: Spindle-Staff (A staff topped with a spinning apparatus)
 
 [[Soul Leitmotif]]: [[Luminance]] (Realization that magic can also be beautiful)
 [[Ornament]]s: [[Resonance]] (Finding his authentic self through the fusion of invention and magic), [[Flux]] (The raw emotional truth of discovery and experimentation)
@@ -13,9 +13,9 @@
 
 *Anti-Hero Path: "I see the futures no one else can see. I will speak them all, and they will fear me, and fear will make them obey."
 
-![[Adass_httpss.mj.runS4Ujn0LRlKI_steampunk_gnome_divination_wizar_076bb5ee-206b-4a8d-87ca-f34dd08f550f.png]]
+![[Gayviene.png]]
 
-A young inventor and divination wizard whose family raised him on systematic lies about magic's nature. His parents, merchants of the [[Sundered Vale]], built their security on a foundational myth: that magic was corruption, that [[Spellweaver]]s were sources of contagion, that any manifestation of the [[Soul Leitmotif]] was a mark of internal rot that would consume the family. They did not suppress [[Gayviene]]'s [[Luminance]] binding outright—they poisoned his perception of it. When his primary binding manifested, they taught him that what he perceived as clarity was delusion. What he saw as truth was dangerous obsession. The gift that should have liberated him became a source of profound shame.
+A young inventor and divination wizard whose family raised him on systematic lies about magic's nature. His parents, merchants of the Sundered Vale, built their security on a foundational myth: that magic was corruption, that [[Spellweaver]]s were sources of contagion, that any manifestation of the [[Soul Leitmotif]] was a mark of internal rot that would consume the family. They did not suppress [[Gayviene]]'s [[Luminance]] binding outright—they poisoned his perception of it. When his primary binding manifested, they taught him that what he perceived as clarity was delusion. What he saw as truth was dangerous obsession. The gift that should have liberated him became a source of profound shame.
 
 So [[Gayviene]] learned to hide his visions, to question his own perceptions, to believe that his ability to see through deception was itself a form of deception. He became a creator of mechanisms instead—things made of metal and mathematics, where magic could not hide. His inventions were brilliant but soulless, machines that worked perfectly because they relied on nothing but their own logic. In the mechanisms, he found refuge: precision without magic, order without the corruption his family promised.
 
@@ -37,7 +37,7 @@ The wizard taught him then—not through lecture, but through ritual. She showed
 
 [[Scrap]] was born.
 
-![[Adass_httpss.mj.runI8l4fkaWv-k_enchanted_weasel_familiar_copper_801b7253-2dc1-41ec-a58a-909f1e514319 1.png]]
+![[Gayviene Familiar.png]]
 
 The weasel was [[Gayviene]]—or rather, [[Gayviene]]'s authentic self given independent life. Small, fierce, loyal, and entirely free of the shame and poisoning his family had instilled. In that instant of binding, as [[Scrap]]'s small [[Consciousness]] synchronized with his own through [[Sympathetic Oscillation]], [[Gayviene]] perceived a truth so profound it reordered his entire being:
 
@@ -135,6 +135,6 @@ After months of witnessing the futility of his attempts, [[Scrap]] made a choice
 
 The weasel released the bond. It was an act of agonized mercy—freeing himself from the torture of proximity to corruption, but also freeing [[The Forecaster]] from the presence of something it could neither harm nor comprehend. [[Scrap]] fled [[Hollowmarch]] with a satchel of seeds and mechanisms his companion had built, carrying with him the memory of who [[Gayviene]] had been.
 
-Yet [[Scrap]] did not abandon hope entirely. The weasel wanders still, small and fierce and alone, following rumors of a cure, seeking stories of [[Atonalis]] who were somehow restored, listening to travelers' tales of [[Spellweavers]] who found their way back from fractured places. Every city [[Scrap]] enters, the creature searches for signs of his old companion's humanity. And every dawn, when the [[Portharmonica]] somewhere distant sounds its prophecies, [[Scrap]] listens—hoping to hear, beneath the compulsion and corruption, the echo of the voice that once said: _Magic is beautiful._
+Yet [[Scrap]] did not abandon hope entirely. The weasel wanders still, small and fierce and alone, following rumors of a cure, seeking stories of [[Atonalis]] who were somehow restored, listening to travelers' tales of [[Spellweaver]]s who found their way back from fractured places. Every city [[Scrap]] enters, the creature searches for signs of his old companion's humanity. And every dawn, when the [[Portharmonica]] somewhere distant sounds its prophecies, [[Scrap]] listens—hoping to hear, beneath the compulsion and corruption, the echo of the voice that once said: _Magic is beautiful._
 
 Some who have seen the small weasel speak of him as a harbinger of tragedy. Others speak of him as a sign of redemption still possible. None know that [[Scrap]] carries something precious: the certainty that [[Gayviene]], somewhere inside [[The Forecaster]]'s fractured being, still exists. And if he exists, then he can be remembered. And if he can be remembered, then perhaps—through some alchemy [[Scrap]] does not understand—he might one day become again what he was.

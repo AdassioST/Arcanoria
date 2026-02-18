@@ -1,1 +1,0 @@
- If the [[Civilization]] is opposing [[Lacrimosa]] and [[The Hollowing]] and is a major actor. Requires completing the [[Liberation of Hollowmarch]] storyline.

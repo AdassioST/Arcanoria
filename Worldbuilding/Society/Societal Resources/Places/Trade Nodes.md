@@ -1,0 +1,1 @@
+Places where merchant hubs gather to conduct trade, vital for any [[Civilization]].

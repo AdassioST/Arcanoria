@@ -1,1 +1,0 @@
-Alternative version of [[Age of Renewal]] where some old knowledge is passed through oral tradition. Visually resembles the [[Age of Bells]].
