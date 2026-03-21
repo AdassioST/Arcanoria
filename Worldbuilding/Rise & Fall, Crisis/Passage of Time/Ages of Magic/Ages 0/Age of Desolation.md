@@ -9,7 +9,7 @@ The starting point of the [[Ages]] for the game, it pertains to Age 0 as it isn'
 
 Most of the magic in this age has been lost and there's only instinctive calling to elements to perform [[Minor Note]] basic sorcery, without the knowledge of [[The Principles of Magic]]. Likewise, Due to the [[Vibrational Fallout]] residual in the land, most of the [[Dual Confluence Stream]] is locked, and the low presence of both [[Lunehymn]] and [[Aetherlight]], it is very hard for magic to manifest except for some individuals with very strong [[Motif Awakening]]s.
 
-[[Ornament]]s are completely unavailable in this age, and the only known rhythm tempo is staccato although most [[Spellweaver]]s are unaware of the presence of rhythmic elements for magic. They begin discovering 
+[[Ornament]]s are completely unavailable in this age, and the only known rhythm tempo is staccato although most [[Spellweaver]]s are unaware of the presence of rhythmic elements for magic.
 
 The point of this era is to survive through the wasteland and find solace in fleeting communities. Most of the world became no man's land and all major empires, borders, and cultures are erased from history leaving only remnants behind. The gathering of magic elements usually comes in the shape of [[Old World Relics]] with sparse lookout towers sending explorers to the nearby areas.
 

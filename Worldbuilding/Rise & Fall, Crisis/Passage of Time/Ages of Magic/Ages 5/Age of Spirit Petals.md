@@ -1,1 +1,1 @@
-Cultivation, legends, mythic fantasy in wuxia
+Cultivation, [[Legend]]s, mythic fantasy in wuxia

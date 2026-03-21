@@ -2,12 +2,21 @@
 
 [[Outer God]] | [[Deific Moodboard.canvas|Deific Moodboard]]
 
-Also known as the Pale Moon.
+[[Legend Title]]s: The Pale [[Moon]].
 
 [[Primary Instrument]]: [[Pale Moonlit Violin]], [[Dance]]
 [[Armament]]: None
 [[Soul Leitmotif]]: [[Strand]]
 [[Ornament]]s: [[Void]], [[Flux]]
+
+[[Motif Awakening]] Wish: _"I wish I could create again, with her, with my children."_
+
+[[Legend Trait]]s: 
+- [[Melancholic]] -> [[Daydreaming Escapist]] ([[Strand]])
+- [[Naive]] -> [[Broken Optimist]] ([[Void]])
+- [[Jolly]] -> [[Deep Feeler]] ([[Flux]]) 
+
+[[Legend Opus]]:
 
 - *"One day I will meet them, they are still my children."
 

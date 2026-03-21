@@ -1,4 +1,6 @@
 #spellweaving
+
+_Quiet the mind, feel the vibe, align with the world_
 #### *Purpose, Identity and Self-Integrity
 First Auric Thread of Wave Mechanics.*
 
@@ -11,7 +13,7 @@ First Auric Thread of Wave Mechanics.*
 - You find your note and key (1). [[The Principles of Magic]].
 - *"A string only rings true when perfectly tuned to the purpose of a key."*
 
-The third statement and popular magic principle of the [[Triadic Virtues of Spellcraft]]. It is the first auric thread of the [[Auric Heptacode]], and the only binding within [[The Principles of Magic]] to stand only by itself, for it is the foundational act that makes all [[Spellweaving]] possible. Its principle states that any [[Spellweaving]] must align with the [[Spellweaver]]'s [[Soul-Key]].
+The "Present" of the threefold melodies of the [[Trinity Harmony]], and the third statement and popular magic principle of the [[Triadic Virtues of Spellcraft]]. It is the first auric thread of the [[Auric Heptacode]], and the only binding within [[The Principles of Magic]] to stand only by itself, for it is the foundational act that makes all [[Spellweaving]] possible. Its principle states that any [[Spellweaving]] must align with the [[Spellweaver]]'s [[Soul-Key]].
 
 At the moment of the [[Original Ripple]], [[The Eternal Symphony]]'s boundless superposed potential collapsed into the first coherent vibration, awakening [[The First Overtone]] and forging the inaugural echo of existence. Every [[Consciousness]] born into [[Arcanoria]] carries within it part of that first sound — in a unique [[Fundamental Frequency]] that resonates and is greatly amplified by the [[Great Harmonic Loom]]. This mark of the soul's singular place in the cosmic score is the [[Soul-Key]] as the vibrational signature that defines identity itself. This note distinguishes one voice from the infinite choir of [[The Eternal Symphony]].​
 

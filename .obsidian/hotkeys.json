@@ -1,0 +1,12 @@
+{
+  "md-merge:merge-md-files": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ It exhibits similar properties to that of a [[Strand Pool]]:
 
 - Temporal Distortion: Time flows irregularly, a visitor can feel the experience of hours passing yet emerge to find only minutes have passed, or vice versa.
 
-- [[Object Blueprint]] Permanence: They maintain a blueprint of historical data of how something, someone, or somewhere used to be in the past.
+- [[Object Permanence]] at Large Scale: They maintain a blueprint of historical data of how something, someone, or somewhere used to be in the past on a vast field.
 
 However, [[Memory Field]]s are [[Strand Pool]]s strong enough to be outside the [[Trinity Harmony]]'s normal temporal current, being looped instead with the specific moment its standing-wave crystalized into [[Resonance]].
 

@@ -1,6 +1,6 @@
 #age #character #mechanic
 
-[[In-Depth Legend and Stellar Legacy Score]]
+_"A profound requiem for the human condition, played on the strings of the stars."_
 
 Everything in [[The Eternal Symphony]] given an audible score that binds all [[Legend]]s from all [[Ages]] as a powerful living mythos that modifies the structure of the world. A celestial ledger that transforms individual stories into world-altering myths. Each [[Legend]] does not merely live and die; they compose a personal symphony of actions and choices that, upon their death, are canonized into a [[Constellation]] — a permanent note in the grand score of [[The Eternal Symphony]].
 
@@ -49,7 +49,7 @@ Collecting enough of a type allows creating a [[Legend Opus]] which are traits
 - [[Fragment of Acceptance]] ([[Void]]): Earned through sacrifice and letting go.
 - [[Fragment of Defiance]] ([[Cindergale]]): Earned through resistance and overcoming.
 - [[Fragment of Vision]] ([[Crystal]]): Earned through will, determination, and creation.
-- [[Fragment of Renewal]] ([[Strand]]): Earned through transformation.
+- [[Fragment of Rebirth]] ([[Strand]]): Earned through transformation.
 
 Every significant action during [[Events]] generates a [[Lyrical Fragment]] tagged with their respective Binding/Emotion.
 
@@ -211,7 +211,7 @@ Every [[Legend]] begins broken. The origin [[Legend Trait]]s represent the speci
 
 There are three types of origin [[Legend Trait]]s which can be either advantages or disadvantages at birth, they include physical traits such as beauty, intelligence, or constitution, and also family legacies and ties to a backstory. This provides the framework of how the [[Legend]] is born and the obstacles they have to overcome, a naturally intelligent character will have an easier time learning, while a slow character will have to learn to deal with their lack of intelligence. Thus, the interplay of these [[Legend Trait]]s appears as the following framework:
 
-- [[Dissonance]] Origins: Includes traits that actively harm the character start but pose a bonus of [[Lyrical Fragment]]s when dealing with core issues such as Orphan, which receives [[Fragment of Meaning]] and [[Resonance]] bonus when finding belonging, Sickly, which receives [[Fragment of Defiance]] and [[Cindergale]] bonus when resisting frailty, Exiled, which receives [[Fragment of Renewal]] and [[Strand]] bonus when reclaiming a place in society. Other traits like Lunatic give a negative to two random elements but it also helps for polyrhythms and chaotic spells, giving a bonus to this specific advanced magic.
+- [[Dissonance]] Origins: Includes traits that actively harm the character start but pose a bonus of [[Lyrical Fragment]]s when dealing with core issues such as Orphan, which receives [[Fragment of Meaning]] and [[Resonance]] bonus when finding belonging, Sickly, which receives [[Fragment of Defiance]] and [[Cindergale]] bonus when resisting frailty, Exiled, which receives [[Fragment of Rebirth]] and [[Strand]] bonus when reclaiming a place in society. Other traits like Lunatic give a negative to two random elements but it also helps for polyrhythms and chaotic spells, giving a bonus to this specific advanced magic.
 
 - Standard Origins: Includes regular traits that are mostly benign or come with a few drawbacks like Ascetic which increases [[Fragment of Acceptance]]s from [[Essence Sacrifice]] or Healer which increases [[Flux]] and [[Strand]] but it places a [[Weight of Potential]] for serving the community. Similarly, unique traits like Sold Into Service work by increasing [[Luminance]] and [[Fragment of Lucidity]] at the cost of having to learn obedience and fulfilling someone else's wishes, diminishing [[Resonance]] and [[Flux]].
 

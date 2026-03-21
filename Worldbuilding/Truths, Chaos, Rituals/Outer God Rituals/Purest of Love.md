@@ -2,6 +2,8 @@
 
 _"Suffering is not meaningless if it is shared."_
 
+_"If you could end all suffering by ending the capacity to suffer, would you? And if you wouldn't, can you explain why without sounding cruel to someone in agony?"**
+
 [[Lacrimosa]]'s Requiem is the "archive of the dead, in memory eternal."
 
 [[Mira]] teaches Lacrimosa a genuinely beautiful concept: **"A love so pure it doesn't require love."** What this means in its pure form is selfless merger—the girl wants to become part of something greater than herself, not for reciprocation, but for _transcendence_. She wants her death to matter by merging with the divine.
@@ -36,7 +38,7 @@ Theological Axis:
 
 **Eschatology:** The world is moving toward unified [[Consciousness]]. The [[Age of the False Messiah]] is actually the Age of Salvation. When all are hollowed, suffering ceases. You become united with the universe, in one.
 
-**Orthodox theology (Auric Aria's):**
+**Orthodox theology ([[Auric Aria]]'s):**
 
 - Deity acts
 - Humanity responds

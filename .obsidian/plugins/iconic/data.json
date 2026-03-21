@@ -29,24 +29,6 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Events": {
-      "icon": "⭐",
-      "unsynced": [
-        "d48e64e7bb66fb41"
-      ]
-    },
-    "Events/Age Related": {
-      "icon": "lucide-clock-plus",
-      "unsynced": [
-        "d48e64e7bb66fb41"
-      ]
-    },
-    "Events/World Events": {
-      "icon": "lucide-globe-2",
-      "unsynced": [
-        "d48e64e7bb66fb41"
-      ]
-    },
     "Game Systems": {
       "icon": "⚙️",
       "unsynced": [
@@ -65,11 +47,14 @@
     "Game Systems/Government Logic.md": {
       "icon": "lucide-crown"
     },
-    "Gateway To Genesis.md": {
-      "icon": "⚓"
-    },
     "Images": {
       "icon": "📸",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Images/Auric Order": {
+      "icon": "lucide-clock-plus",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]
@@ -110,6 +95,9 @@
         "d48e64e7bb66fb41"
       ]
     },
+    "Images/Gateway To Genesis.png": {
+      "icon": "👁️"
+    },
     "Images/Spellweaving": {
       "icon": "lucide-wand-sparkles",
       "unsynced": [
@@ -136,6 +124,27 @@
       "unsynced": [
         "d48e64e7bb66fb41"
       ]
+    },
+    "Worldbuilding/Events": {
+      "icon": "⭐",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Events/Age Related": {
+      "icon": "lucide-clock-plus",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Events/World Events": {
+      "icon": "lucide-globe-2",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Gateway To Genesis.md": {
+      "icon": "⚓"
     },
     "Worldbuilding/Meta Analysis": {
       "icon": "sidebar-toggle-button-icon",
@@ -307,6 +316,12 @@
     },
     "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths": {
       "icon": "lucide-search-code",
+      "unsynced": [
+        "d48e64e7bb66fb41"
+      ]
+    },
+    "Worldbuilding/Truths, Chaos, Rituals/Old Testament": {
+      "icon": "lucide-book-x",
       "unsynced": [
         "d48e64e7bb66fb41"
       ]

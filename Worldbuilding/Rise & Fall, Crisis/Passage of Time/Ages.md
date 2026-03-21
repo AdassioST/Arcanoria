@@ -52,6 +52,7 @@ _There is more than one possible [[Age Crisis]] depending on your actions._
 
 **Cause of [[The Birth of the Tetrad Chord]] accident with whomever is on the side of [[Lacrimosa]]. Teasing to the [[Polychord Crisis]] and the eventual [[Civilization Reset]].**
 
+Mastery of the [[The Principles of Magic]].
 Starting point of proper [[Ornament]]al Magic. Full resolution of the [[World Event]] of [[The Hollowing]] and [[Lacrimosa]] brewing through the whole age.
 
 First classical civilizations.
@@ -92,13 +93,15 @@ _There is more than a single [[World Event]] for an [[Age Crisis]].
 
 The [[Age Crisis]] teaches that [[Civilization]] can have multiple [[World Event]]s at the end of an era, and each is an [[Age Crisis]].
 
-A doctor that's been studying the leftover traces of the [[Great Plague]] becomes the first epidemiologist of creating a vaccine. Gets executed for treason and witchcraft but with work inspires ORB style [[Gayvian Ikathon]].
+A doctor ([[Vals Jenner]]) that's been studying the leftover traces of the [[Great Plague]] ([[Vals Jenner]]) becomes the first epidemiologist of creating a vaccine. She gets executed for treason and witchcraft but her obscure work eventually inspires in ORB style the future Dr [[Cadmus Tacet]].
+
+The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becomes popularized. He eventually dies, but this is one of the important expeditions of [[Cadmus Tacet]].
 
 One of the 2 [[World Event]] [[Age Crisis]] is related to the lack of [[Atonalis]] during [[The Hollowing]] as the "Demon Lord" becomes the first structured [[Atonalis]] type of government.
 
 ### Age V (Middle Medieval)
 
-First "Age of [[Humanity]]."
+First "[[Age of Humanity]]"
 
 Focus on Duchy to Kingdom building, rags to riches stories, religion primacy, crusades, and similar mechanics.
 
@@ -117,7 +120,7 @@ _Even if there's multiple [[World Event]]s, they can still converge as [[Age Cri
 
 The [[Age Crisis]] teaches that all [[Major Actor]]s have their own agenda, and even if there's multiple [[World Event]]s they can still converge as the [[Age Crisis]] that has multiple conflicting factions fighting for their own agenda and survival.
 
-Development of surgery on [[Pure Light]] beings by [[Gayvian Ikathon]], he's cruel but does necessary advancements, inspired by Pasteur. He coins the term Age of [[Humanity]].
+Development of surgery on [[Pure Light]] beings by [[Cadmus Tacet]], he's cruel but does necessary advancements, inspired by Pasteur. He coins the term Age of [[Humanity]].
 
 ### Age VI (High Medieval)
 

@@ -1,5 +1,9 @@
 #analysis
 
+_"[[Magical Objects]] are physicalized relationships amidst a world where Geology is Psychology. Petrified history is the physical residue of a shared moment of deep emotion between two or more beings."_ 
+
+_"The [[World-Bending Relics]] of a legendary sword weren't forged in the heart of a volcano, they were forged in the heart of a relationship."_
+
 The Resonant Vessel: An Exhaustive Metaphysical Analysis of Object-Oriented Ontology in the Arcanoria Mythos
 
 ## Abstract
@@ -318,7 +322,7 @@ This table summarizes the trajectory of the magical object from unstable chaos t
     
 - **Lunehymn:** The specific frequency of magic radiating from the bound Moon; essentially the broadcasted suffering of Selenea, which powers the Old Magic.1
     
-- **Resonance:** The sympathetic vibration between two entities (e.g., Aria and the first beast, or Aria and Lacrimosa). It is the precursor to true collaborative creation.
+- **Resonance:** The vibration between two entities (e.g., Aria and the first beast, or Aria and Lacrimosa). It is the precursor to true collaborative creation.
 
 # The Resonant Vessel: An Exhaustive Metaphysical and Critical Analysis of the Arcanoria Mythos
 

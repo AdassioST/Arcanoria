@@ -54,7 +54,7 @@ Feeds on: Intrusive thoughts, obsessive cycles, forced repetition, recursive pat
 
 **Behavior:** Creates zones of compulsive phenomena that can't distinguish reality. Forced loops — behavioral, mental, spiritual. Victims cannot distinguish their own thoughts from the demon's implantations.
 
-[[Primal Discordia]]: The Looped Revenant.
+[[Primal Discordia]]: The [[Looping Paradox]], the [[Time Bubble]] prisoner.
 
 **Path IV: [[Signath]] - The Shattered Reality (11.5%)**
 

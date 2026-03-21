@@ -1,4 +1,4 @@
-While it is not traditionally part of the [[Seven-Day Creation]] of [[Arcanoria]]. This [[Cycle]] is one of the most important for in that [[Cycle]] the [[Auric Aria]] clothed herself in flesh, weaving skin and bone from her own radiant thread. She descended into [[Arcanoria]] as a weaver turned mortal.
+While it is not traditionally part of the [[Seven-Cycle Creation]] of [[Arcanoria]]. This [[Cycle]] is one of the most important for in that [[Cycle]] the [[Auric Aria]] clothed herself in flesh, weaving skin and bone from her own radiant thread. She descended into [[Arcanoria]] as a weaver turned mortal.
 
 The [[Auric Mythos of Creation]] outright denies and calls the [[Eighth Cycle]] blasphemous lies fed by [[Outer God]]s. However, it is part of the [[True Mythos of Creation]]. It symbolizes the first time the [[Auric Aria]] felt awe, fear, joy, despair. It is the [[Cycle]] where she tasted mortality in a pale golden fruit, shared a moment of fleeting [[Resonance]] with a [[Perfect Manifestation of Life]], and learned in flesh the [[Inevitability of Death]] after an encounter with a [[Primal Discordia]].
 

@@ -77,9 +77,9 @@ While embodying a role, every action aligned with that role’s theme generates�
 | ---------------- | ----------------------------------------- | --------------------------------------- |
 | Leader           | [[Fragment of Meaning]] ([[Resonance]])   | [[Fragment of Vision]] ([[Crystal]])    |
 | Resistor         | [[Fragment of Defiance]] ([[Cindergale]]) | [[Fragment of Acceptance]] ([[Void]])   |
-| Scholar          | [[Fragment of Lucidity]] ([[Luminance]])  | [[Fragment of Renewal]] ([[Strand]])    |
+| Scholar          | [[Fragment of Lucidity]] ([[Luminance]])  | [[Fragment of Rebirth]] ([[Strand]])    |
 | Emotional Core   | [[Fragment of Catharsis]] ([[Flux]])      | [[Fragment of Meaning]] ([[Resonance]]) |
-| Sacrificial Lamb | [[Fragment of Acceptance]] ([[Void]])     | [[Fragment of Renewal]] ([[Strand]])    |
+| Sacrificial Lamb | [[Fragment of Acceptance]] ([[Void]])     | [[Fragment of Rebirth]] ([[Strand]])    |
 
 There is also some degree of director’s influence, this means that the player, as the ruler of a [[Civilization]], can shape the [[Fate Stage ]]indirectly through
 

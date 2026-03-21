@@ -1,4 +1,4 @@
-The [[Seventh Cycle]] of the [[Seven-Day Creation]] of [[Arcanoria]].
+The [[Seventh Cycle]] of the [[Seven-Cycle Creation]] of [[Arcanoria]].
 
 What happened in this cycle greatly depends on either the [[Auric Mythos of Creation]] or the [[True Mythos of Creation]].
 

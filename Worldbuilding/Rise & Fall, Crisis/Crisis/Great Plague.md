@@ -2089,7 +2089,7 @@ Spellweavers experience **iatrogenic damage** (harm caused by treatment):
 
 - Infected person's motor activity radiates Dissonance Bloom (50-100m/hour expansion)
     
-- Others in field experience irresistible compulsion to mirror movement (sympathetic oscillation)
+- Others in field experience irresistible compulsion to mirror movement ([[Sympathetic Vibration]])
     
 - With each new dancer, field strengthens (constructive interference)
     

@@ -1,6 +1,6 @@
- _Loss is transformation. The game is not about preventing loss. It's about what you do with loss after it happens._
+ _Loss is transformation. [[Gateway To Genesis]] is not about preventing loss. It's about what you do with loss after it happens._
 
-The magical Earth where the game takes place, its origin lies in the [[Seven-Day Creation]] by the [[Auric Aria]].
+The magical Earth where the game takes place, its origin lies in the [[Seven-Cycle Creation]] by the [[Auric Aria]].
 
 ### Map Features
 
@@ -36,7 +36,7 @@ The map features and types are:
 
 - **[[Enclave]]s**: A type of autonomous self-governing authority specialized in a particular activity that vary based on the [[Ages]] they're currently in. While [[Enclave]]s evolve over time, they have diplomacy distinct from other [[Civilization]]s or proper empires as they're city-states that can be interacted and integrated within a [[Civilization]].
 
-### Enclaves (City-states) as Middle Ground between [[Civilization]]s, and other settlements.
+### [[Enclave]]s (City-states) as Middle Ground between [[Civilization]]s, and other settlements.
 
 A type of autonomous self-governing authority specialized in a particular activity that vary based on the [[Ages]] they're currently in. While [[Enclave]]s evolve over time, they have diplomacy distinct from other [[Civilization]]s or proper empires as they're city-states that can be interacted and integrated within a [[Civilization]]. Regardless of the type of [[Enclave]] they all shared the following:
 

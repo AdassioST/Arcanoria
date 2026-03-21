@@ -1,4 +1,6 @@
 #spellweaving
+
+_"The size of a loss is always proportional to the size of the care; to lose greatly is to have loved greatly"_
 #### *Self-Worth, Loss, and Commitment
 Fourth Auric Thread of Conservation of Energy.*
 
@@ -25,7 +27,7 @@ Magic in [[Arcanoria]] requires fuel to exist, and it is only when a [[Spellweav
 
 Loss is the mechanism by which transformation occurs. Every spell requires giving up something — a fragment of memory, a measure of vitality, a moment of life force, or a piece of symbolic meaning. The [[Spellweaver]] must consciously recognize and accept what is lost. The letting go must be deliberate, willing, and understood as a transformation rather than mere destruction. In this way, the act of sacrifice is not passive suffering but active creation — the [[Spellweaver]] wielding their own essence as both material and tool.
 
-Thematic alignment between the loss and the transformation amplifies power exponentially. A protective ward fueled by the memory of a lost guardian resonates with far greater [[Coherence]] than one powered by fatigue. A healing spell cast while surrendering one's own vitality to save another creates [[Sympathetic Oscillation]] that amplifies the transfer of life force to maximum potency, with their frequencies phase-locking to create constructive interference that the [[Great Harmonic Loom]] amplifies through cascading [[Resonance]].
+Thematic alignment between the loss and the transformation amplifies power exponentially. A protective ward fueled by the memory of a lost guardian resonates with far greater [[Coherence]] than one powered by fatigue. A healing spell cast while surrendering one's own vitality to save another creates [[Sympathetic Vibration]] that amplifies the transfer of life force to maximum potency, with their frequencies phase-locking to create constructive interference that the [[Great Harmonic Loom]] amplifies through cascading [[Resonance]].
 
 The magnitude of the sacrifice determines the upper limit of available power. Small offerings can fuel simple spells, but cannot sustain reality-bending [[Spellweaving]]. Profound sacrifices, often in the [[Catalytic Abyss of Emotion]], unlock proportionally devastating power. The greater the value surrendered, the greater the transformation achieved.
 

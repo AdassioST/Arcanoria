@@ -39,7 +39,7 @@ The wizard taught him then—not through lecture, but through ritual. She showed
 
 ![[Gayviene Familiar.png]]
 
-The weasel was [[Gayviene]]—or rather, [[Gayviene]]'s authentic self given independent life. Small, fierce, loyal, and entirely free of the shame and poisoning his family had instilled. In that instant of binding, as [[Scrap]]'s small [[Consciousness]] synchronized with his own through [[Sympathetic Oscillation]], [[Gayviene]] perceived a truth so profound it reordered his entire being:
+The weasel was [[Gayviene]]—or rather, [[Gayviene]]'s authentic self given independent life. Small, fierce, loyal, and entirely free of the shame and poisoning his family had instilled. In that instant of binding, as [[Scrap]]'s small [[Consciousness]] synchronized with his own through [[Sympathetic Vibration]], [[Gayviene]] perceived a truth so profound it reordered his entire being:
 
 **Magic was not corruption. Magic was beauty.**
 

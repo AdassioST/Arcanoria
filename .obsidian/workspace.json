@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gateway To Genesis.md",
+                "file": "merged/merged-output-2026-03-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gateway To Genesis"
+              "title": "merged-output-2026-03-21"
             }
           }
         ]
@@ -105,12 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gateway To Genesis.md",
+                "file": "merged/merged-output-2026-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gateway To Genesis"
+              "title": "Outgoing links from merged-output-2026-03-21"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gateway To Genesis.md",
+                "file": "merged/merged-output-2026-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gateway To Genesis"
+              "title": "Backlinks for merged-output-2026-03-21"
             }
           },
           {
@@ -192,54 +192,54 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Worldbuilding/Society/Stellar Legacy/Legend Trait.md",
-    "Confluence.md",
-    "Worldbuilding/Rise & Fall, Crisis/Crisis/Great Plague.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/The Truth of Arcanoria.md",
-    "Worldbuilding/Society/Characters/Gayviene.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
-    "Worldbuilding/Society/Stellar Legacy/Fate Stage.md",
-    "Worldbuilding/Society/Stellar Legacy/Stellar Legacy Score.md",
-    "Worldbuilding/Society/Civilization.md",
-    "Worldbuilding/Meta Analysis/Enclave.png",
-    "Images/Chaos, Atonalis, Monsters/Atonalis.png",
-    "Images/Chaos, Atonalis, Monsters/Atonalis 1.png",
-    "Images/Bestiary/Gateway To Genesis-1.jpg",
-    "Images/Bestiary/Gateway To Genesis.jpg",
-    "Images/Bestiary",
-    "Gateway To Genesis.png",
-    "Gateway To Genesis.md",
-    "Images/Characters/Gayviene Familiar.png",
-    "Images/Characters/Gayviene.png",
-    "Images/Biomes & Ages/Age of Desolation.png",
-    "Images/Biomes & Ages/Age of Desolation 1.png",
-    "Images/Biomes & Ages",
-    "Images/Deities/Lacrimosa",
+    "Clarity of Infinite Light.md",
+    "merged/merged-output-2026-03-21.md",
+    "Worldbuilding/Society/Characters/Ages 0/Vaelia.md",
+    "Worldbuilding/Society/Characters/Ages 0",
+    "Analytical.md",
+    "Worldbuilding/Society/Characters/Ages 5/Cadmus Tacet.md",
+    "Worldbuilding/Society/Characters/Ages 3/Luminaire.md",
+    "Worldbuilding/Mythology/Deities/Auric Aria.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Scorching Truth.md",
+    "Worldbuilding/Society/Auric Order/Auric Order.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+    "Worldbuilding/Gateway To Genesis.md",
+    "Worldbuilding/Society/Characters/Ages 4/Syvanth.md",
     "Worldbuilding/Mythology/Deities/Lacrimosa.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Pure Light.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 9/Age of Sealing Iron.md",
-    "Worldbuilding/Society/Societal Resources/Places/Trade Nodes.md",
-    "Worldbuilding/Society/Societal Resources/Places/Secluded Refuge.md",
-    "Worldbuilding/Society/Societal Resources/Places/Major Settlement.md",
-    "Worldbuilding/World Environment/Civilizations/Minors",
-    "Worldbuilding/World Environment/Civilizations/Empires",
-    "Worldbuilding/World Environment/Civilizations/Minors/Lune Shallow.md",
-    "Worldbuilding/Rise & Fall, Crisis/Crisis/The Undeniable Moon.md",
-    "Worldbuilding/Rise & Fall, Crisis/Crisis/Voice of the Heavens.md",
-    "Worldbuilding/Meta Analysis/In-Depth Character Analysis of Divinity.md",
-    "Worldbuilding/World Environment/Civilizations",
-    "Events/World Events/The Hollowing.md",
-    "Events/Age Related/Ages 13",
-    "Events/Age Related/Ages 12",
-    "Events/Age Related/Ages 11",
-    "Events/Age Related/Ages 10",
-    "Events/World Events/The Golden Light in the Sky.md",
-    "Events/Age Related/Ages 2/The Call of the Dreamweaver.md",
-    "Worldbuilding/Origin of Magic/Magical Resources/Resources.md",
-    "Worldbuilding/Society/Characters/Ages 3/Adel.md",
-    "Untitled 1.md",
-    "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas",
+    "Worldbuilding/Mythology/Deities/Selenea.md",
+    "Worldbuilding/Society/Characters/The White-Touched Archivist.md",
+    "Worldbuilding/Society/Characters/Skarr Karmelita.md",
+    "Worldbuilding/Society/Characters/Scrap.md",
+    "Worldbuilding/Society/Characters/Gayviene.md",
+    "Worldbuilding/Society/Characters/Ages 6/Vanessa of Iridia.md",
+    "Worldbuilding/Society/Characters/Ages 4/Vals Jenner.md",
+    "Worldbuilding/Society/Characters/Ages 3/Seraph.md",
+    "Worldbuilding/Society/Characters/Ages 3/Selah.md",
+    "Worldbuilding/Society/Characters/Ages 3/Pagiel.md",
+    "Worldbuilding/Society/Characters/Ages 3/Lucetta.md",
+    "Worldbuilding/Society/Characters/Ages 3/Kaia.md",
+    "Worldbuilding/Society/Characters/Ages 3/Father Aldric.md",
+    "Vaelia-1.png",
+    "Vaelia.png",
+    "Worldbuilding/Society/Characters/Ages 4",
+    "Worldbuilding/Society/Characters/Ages 5",
+    "All-Loving Moon.mp4",
+    "merged",
+    "Images/Deities/Lacrimosa/All-Loving Moon.png",
+    "Images/Auric Order/Auric Heptacode 1.png",
+    "Worldbuilding/Truths, Chaos, Rituals/Old Testament",
+    "Game Systems/Derivative Ideas",
+    "Worldbuilding/Mythology/Deific Moodboard.canvas",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
-    "Worldbuilding/Mythology/Deific Moodboard.canvas"
+    "Images/Gateway To Genesis.png",
+    "Images/Biomes & Ages/Age of Humanity.png",
+    "Images/Auric Order/Auric Mythos of Creation-1.png",
+    "Images/Auric Order/Auric Mythos of Creation.png",
+    "Images/Auric Order/Auric Heptacode.png",
+    "Images/Spellweaving/Dance.png",
+    "Images/Deities/Auric Aria/Auric Aria.mp4",
+    "Images/Auric Order",
+    "Images/Deities/Lacrimosa/Lacrimosa.mp4",
+    "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas"
   ]
 }

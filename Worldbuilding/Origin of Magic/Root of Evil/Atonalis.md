@@ -2,7 +2,7 @@
 
 *"Do not look away. I know it sounded like a child. I know it felt like genuine fear. I too feel pity for them, but we do not share their burden. 
 
-*You have to understand, they are only the shadow of a person who decided to stay broken. They are not the victim and that's their trap. It is the crystallized refusal to heal, given claws.
+*You have to understand, they are only the shadow of a person who decided to stay broken. They are not the victim and that's their trap. It is the crystricallized refusal to heal, given claws.
 
 *Whatever it whispered to you... that was born from honest intent. It truly believed it needed you. But it only cares that you bleed for them. And you have bled enough."
 
@@ -25,6 +25,7 @@ The anomalous properties
 - Parasitic [[Resonance]]: Rather than feeding entirely on flesh or pure on [[Consciousness]], [[Atonalis]] feed on the echoing [[Resonance]] of their own wound manifesting in others. Their presence amplifies pain that mirrors their own, drawing sustenance from the suffering they perpetually have. This parasitic [[Resonance]] is what makes them predatory. In their hunger for resolution, they target wounds that match their classification within the [[Eight-Born Paths]].
 - Emergence from [[Dissonance]] Cocoon: All [[Atonalis]], whether born from [[Formless Masses]] or corrupted [[Spellweaver]]s, must complete their transformation through a [[Dissonance]] cocoon—a floating chrysalis orb that represents the threshold between incomplete [[Consciousness]] and predatory being. The cocoon forms when either [[Formless Masses]] have fed sufficiently on [[Consciousness]] or when a [[Spellweaver]]'s [[Soul Leitmotif]] shatters and envelops them upon surrender. When the cocoon hatches, the [[Atonalis]] erupts into existence with a violent burst of waves of [[Discordant Interference]].
 - Individual Quirks: Each [[Atonalis]] develops unique predatory behaviors and manifestations rooted in its classification within the [[Eight-Born Paths]]. These quirks define how the entity hunts, feeds, and expresses its particular wound.
+- [[Dissonance Core]]: You kill this, you kill them. It is the source of static of their [[Fundamental Frequency]] that keeps them from dissolving into [[Primal White Noise]]. If they run out of [[Resonance]] or if the [[Dissonance Core]] is destroyed, they degrade into nothingness as they don't have the [[Soul-Key]] [[Coherence]] to make them survive against the encroaching [[Primal White Noise]].
 
 ### Birth from [[Formless Masses]] and Lingering [[Consciousness]]
 

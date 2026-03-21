@@ -1,5 +1,7 @@
 #character
 
+![[Skarr Karmelita.png]]
+
 Idea for a main character that combines physical attacks in precise [[Dance]] movements with lasting ground properties.
 
 [[Primary Instrument]]: [[Own Voice]], [[Dance]]

@@ -1,0 +1,8 @@
+{
+  "folderName": "Worldbuilding",
+  "outputFolder": "merged",
+  "outputFileName": "merged-output-{date}.md",
+  "includeHidden": false,
+  "excludedFiles": "",
+  "recursive": true
+}

@@ -1,0 +1,1 @@
+A core principle of [[Strand]] magic that can keep the structure of past objects as a blueprint, and can imbue magic into them to regenerate things like tissue. Bio-magical. [[Age of Vessels]] related.

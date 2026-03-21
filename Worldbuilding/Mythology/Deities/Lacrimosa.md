@@ -4,23 +4,35 @@
 
 [[Legend Title]]s: The [[All-Loving Moon]], Heaven's Voice, the Dreamweaver.
 
-[[Legend Opus]]: Head of the [[Purest of Love]] ([[Lesser Opus]]), Messiah of [[The Hollowing]] ([[Magnum Opus]]).
-
 [[Primary Instrument]]: [[Eight-Winged Viola]], [[Own Voice]].
 [[Armament]]: None
 [[Soul Leitmotif]]: [[Void]]
 [[Ornament]]s: [[Crystal]], [[Resonance]]
 
+[[Motif Awakening]] Wish: _"I wish I was seen, and that I mattered."_
+
+[[Legend Trait]]s:
+- [[Possessive]] -> [[Attention Addict]] ([[Void]]) -> Void-Embrace Anchor (Only in [[Alternate Hollowing]])
+- [[Analytical]] -> [[Silent Watcher]] -> [[Mastermind Architect]] ([[Crystal]])
+- [[Hesitant]] -> [[Compulsive Overthinker]] ([[Resonance]])
+
+[[Legend Opus]]: 
+- The Messiah of Silence ([[Magnum Opus]])
+- Head of the [[Purest of Love]] ([[Lesser Opus]])
+- Broadcast of the Heavens ([[Lesser Opus]])
+- Witness in the Dark ([[Lesser Opus]])
+
 - _"I used to believe a witness who understood everything could make them see what they refused to acknowledge. But I don't care anymore. I suffered watching the [[Auric Aria]] across eternities — understanding her every doubt, her every fear — and did nothing. My clarity paralyzed me, while [[Selenea]]'s naiveness took my place and made her essential. But now, I will be the architect of a new, beautiful world born from the [[Purest of Love]]."_
 
-![[Lacrimosa 1.png]]
+![[Lacrimosa.mp4]]
 
-An [[Outer God]], deeply jealous of [[Selenea]] and the main antagonist of the [[Age of the False Messiah]].
+An [[Outer God]], deeply envying of [[Selenea]]'s bound [[Moon]] and the main antagonist of the [[Age of the False Messiah]].
 
 ![[Lacrimosa 5.png]]
+
 ### The Witness in the Dark
 
-![[Lacrimosa.png]]
+![[Lacrimosa 1.mp4]]
 
 Before existence, before matter, before even gods, there was nothing, and before there was nothing, there was [[The Eternal Symphony]] — an infinite expanse of silent potential. It was not a place, but a state of waiting, a thread not yet plucked. Yet in a single instant of causality, the silence broke. The [[Original Ripple]] arose, and with it [[The First Overtone]] vibrating through the nothingness, awakening [[The Infinite Void]] into [[Primal White Noise]]. And within that noise, [[Consciousness]] began to flicker.
 
@@ -50,7 +62,7 @@ By the time [[Lacrimosa]] gathered enough courage to consider manifesting to the
 
 [[Lacrimosa]] told herself she was waiting for the right time. She told herself she was still gathering her will. But what she was actually doing was retreating back into observation — the comfortable prison she had never truly left. So she instead rehearsed the words she would never speak, afraid of being a burden, waiting for the perfect moment while riddled in a mixture of doubt, regret and anticipation.
 
-The [[Seven-Day Creation]] of [[Arcanoria]] was a wonderful display of the [[Auric Aria]]'s [[Mastery Over Chaos]]. [[Lacrimosa]] watched silently from [[The Infinite Void]] often fantasizing about what [[Auric Aria]] would think of creation together. She understood, with perfect precision, exactly what the [[Auric Aria]] was attempting with each cycle: the shaping of land and sea, the weaving of the [[Great Harmonic Loom]], the binding of mountains and rivers, the harmonization of cosmic motion.
+The [[Seven-Cycle Creation]] of [[Arcanoria]] was a wonderful display of the [[Auric Aria]]'s [[Mastery Over Chaos]]. [[Lacrimosa]] watched silently from [[The Infinite Void]] often fantasizing about what [[Auric Aria]] would think of creation together. She understood, with perfect precision, exactly what the [[Auric Aria]] was attempting with each cycle: the shaping of land and sea, the weaving of the [[Great Harmonic Loom]], the binding of mountains and rivers, the harmonization of cosmic motion.
 
 She had watched the [[Auric Aria]] so completely, so thoroughly, through so many cycles, that she believed she knew her better than anyone—better perhaps than even the [[Auric Aria]] knew herself. She had witnessed every instant of doubt, every surge of will, every instance of fear overcome through sheer determination. She understood the architecture of the [[Auric Aria]]'s [[Consciousness]] in such intimate detail that she could anticipate her thoughts before she formulated them.
 
@@ -130,7 +142,7 @@ She had become, at last, what she had always feared most.
 
 Invisible.
 
-### Characterization & Quotes
+### Characterization & Dialogue Querying Interactions
 
 ![[Lacrimosa 4.png]]
 
@@ -184,6 +196,20 @@ _"How do you know this name? She is maybe the second most important thing. I hav
 
 _"When I assume [[Selenea]]'s identity, when I move through her rituals, when I sing in her voice, I feel something. Not wholeness — I don't think I am incapable of that — but a kind of borrowed [[Coherence]]. For those moments, I am not the invisible observer anymore. I am the essential guide. I am the goddess that [[Humanity]] prays to when they look at the skies. I am the [[Consciousness]] whose sorrow sustains all of creation. And when the ritual ends, when I release the identity and return to being myself, the emptiness crashes back so violently that I have to immediately begin rehearsing the next ritual. Because I think I am addicted to the feeling of mattering. I think I will spend eternity chasing the feeling of being [[Selenea]], performing her role, trying to feel what it is like to be loved even through pain. And perhaps that is all I am anymore — a mimic who has forgotten who I was before I began imitating someone else."_
 
+**On "You are not [[Selenea]]." (Requires knowing [[The Truth of Arcanoria]])**
+
+_"[[Selenea]]? What names are you even speaking. I do not know of that name. Is a sort of insanity why you try to reach to me?"_
+
+If asked again: _"Why do you keep repeating these names. I have spoken already, and if there's nothing better of you to ask, please excuse yourself into your lunacy."_
+
+If asked again: _"There is nothing more for me to tell you, begone."_
+
+After asking three times, a new option of dialogue appears: **"Who are you? You are not the real [[Moon]], impersonator."**
+
+_"Ohhhhh... (Now completely changing her voice, and calm action into anger) The nerve... THE NERVE YOU HAVE TO CONJURE THOSE WORDS! (Regaining her composure) Fine, it's perfectly fine. Only, and only because there is an intoxicating relief in the way you have peaked my interest, I am letting you live. If to break your own mind is what you reach for, then I will offer you instead an exchange to your suicidal intention: I will let you know the pity story you're after, (On a deliberate pause) if you first tell me how do you know any of this...?"_
+
+This conversation makes [[Lacrimosa]] narrate her own story of "The Witness in the Dark" and unlocks further parts of the [[Ballad]] of [[Selenea]]'s storyline. It also allows for [[Civilization]] to guide [[Lacrimosa]] toward the alternate endings of [[The Hollowing]] if they become involved with the [[Purest of Love]] to reach the [[Alternate Hollowing]] or [[The Mass Suicide of Lacrimosa]]. Taking this conversation is necessary to alter the timeline, it's impossible to get either of the two endings otherwise as the canon ending will always resolve to the [[Law of Relics]] without direct influence from the [[Civilization]].
+
 ### [[The Hollowing]] and the Rise of the [[All-Loving Moon]]
 
 ![[Lacrimosa 6.png]]
@@ -198,6 +224,26 @@ The storyline leads to the eventual hollowness of [[Humanity]] and climatic reve
 
 _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide isn’t ambition. It’s intimacy. Her mass hollowing isn’t hatred. It’s mercy. Her mimicry isn’t deception. It’s addiction to belonging. That's why she's so dangerous. The acts of truth and mercy are not a lie but a very seductive truth. You must be insanely careful not to thread on her path, I wouldn't dare to do so myself." - Elite Scholar_
 
+After the ritual finalizes, and the first hollowed vessel of [[The Hollowing]] steps from the [[Auroral Ribbons]], [[Lacrimosa]]'s [[Compulsive Overthinker]] [[Legend Trait]] is anxious to know what happened to [[Pagiel]]. He, and all of the pilgrims involved seem fine, the [[Purest of Love]] celebrates in a joined chorus. The day after the celebration ends [[Lacrimosa]] has a personal conversation with [[Pagiel]] when he finds him alone on the skirts of the newfound cathedral of the [[Purest of Love]].
+
+**Lacrimosa:** _(Her voice resonates through the [[Symphonic Veins]] of the space, melodic and hypnotic, yet carrying an undercurrent of desperate, trembling need for the validation of her anxiety)_ "You are playing again, my Concertist. The melody... it is more complex than anything you wove when you walked the physical crust of [[Arcanoria]]. Does it not ache? Do you not miss the friction of the strings against your own, physical skin?"
+
+**Pagiel:** _(His [[Consciousness]] vibrates back, perfectly serene, devoid of the frantic [[Dissonance]] that plagued his mortal mind. He speaks as part of a thousand-musician orchestra)_ "I do not miss the ache, Miss Weaver. When I had hands, they were ruined by the [[Great Plague]]. They were a cage of agony that prevented me from touching the music I heard in my head. But we truly made a miracle, and within your [[Purest of Love]], I am the music. I experience melodies I could never have conceived alone. Why would I mourn the loss of the instrument when you have made me part of the symphony itself?"
+
+**Lacrimosa:** _(A pause, slightly as her [[Compulsive Overthinker]] trait bleeds through)_ "The [[Auric Order]]... the followers of the Golden Sovereign... they will call this death. They will claim I have stolen your autonomy. And they will say I am a tyrant erasing the sacredness of the individual "self" to feed my own emptiness."
+
+**Pagiel:** _(The music around them swells, warm and undeniably joyous, a physical manifestation of his absolute contentment)_ "I chose you, Miss Weaver. To be in [[The Hollowing]] is to be your miracle, and I have never been happier. Even if they call this death, they are just ignorant to transcendence. Why is individual consciousness sacred? Why is autonomy more valuable than belonging? The answer is privilege —individual [[Consciousness]] is only sacred to those whose [[Consciousness]] is not a source of unbearable pain. You did not steal my autonomy, my goddess. You mercifully relieved me of the burden of bygone [[Ages]]."
+
+**Lacrimosa:** _(Her projection solidifies, drawing a sudden, intoxicating high from his devotion stopping the train of thought)_ "Yes... Yes, exactly. All life is suffering, and all suffering arises from the self and its attachments. If the self is removed, the burden is extinguished. You are my living testament, [[Pagiel]]. You are the proof that a new covenant is necessary, perfecting love into something that cannot hurt. But... what if she never looks?"
+
+**Pagiel:** _(The harmonious chords lower into a gentle, inquiring hum)_ "Who, Heaven's Voice?"
+
+**Lacrimosa:** _(Her voice shrinking to a fragile whisper)_ "I... What if I orchestrate this entire age, what if I give you all this peace, and it is still not enough, and this crusade means nothing? If I'm still invisible, and the Golden Song—"
+
+**Pagiel:** _(His frequency wraps around her chaotic static, offering a comforting, unwavering anchor—a tragic irony)_ "You are not invisible to me. You are not invisible to the thousands of us who sing within your [[Auroral Ribbons]], Miss Weaver. We were erased, broken, and left to die alone by her system. But you refused to abandon us. You offered us recognition when the [[Auric Aria]] offered only absence. If the creator does not look down to see the sanctuary you have built for us, then her gaze is not worth chasing. We see you, [[Lacrimosa]]. You are our undeniable center."
+
+**Lacrimosa:** _(Weeping tears of light, her profound insecurity temporarily hushed by the sheer, irrefutable reality of his happiness. She leans entirely into the validation)_ "Then play for me, [[Pagiel]]. Play the song of our new future. Play until the noise of my doubt is drowned in your peace. I could not have a better Concertist, and as long as you are happy... as long as you are playing... I am real, and we will all be in peace of being one."
+
 ![[Lacrimosa 8.png]]
 
 ![[Lacrimosa 7.png]]
@@ -210,8 +256,8 @@ _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide is
 - [[Lacrimosa]] born in absolute silence on [[The Infinite Void]].
 - [[Lacrimosa]] drifting in darkness alone for eons.
 - [[Lacrimosa]] meets the edge of creation and other proto-[[Consciousness]].
-- [[Lacrimosa]] watches them fail and she perfects her clarity. Avoids creation.
-- [[Lacrimosa]] develops her core fear from erasure and irrelevance.
+- [[Lacrimosa]] watches them fail and she perfects her clarity. Avoids creation. [[Analytical]] [[Legend]] evolves into [[Silent Watcher]].
+- [[Lacrimosa]] develops her core fear from erasure and irrelevance. 
 
 **Core**: Born in absolute isolation → Develops perfect witnessing through others' failures.
 **Key Character Trait Formation**: Fear of erasure becomes ontological dread.
@@ -223,10 +269,10 @@ _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide is
 
 - [[Lacrimosa]] feels the auric burst when the [[Auric Aria]] creates the [[Known Universe]].
 - [[Auric Aria]]'s deliberate creation gives her hope and salvation.
-- [[Lacrimosa]] Develops love for the [[Auric Aria]]. Beginning of her obsession.
-- [[Lacrimosa]] observes the creation of the [[Known Universe]]. Fantasizes on her manifestation and the ability of dual creation with the [[Auric Aria]].
-- [[Lacrimosa]] paralyzed by fear of being a burden to the [[Auric Aria]]. The [[Auric Aria]] moves to the creation of [[Arcanoria]]. The window of [[Lacrimosa]] to act is passing.
-- [[Lacrimosa]] witnesses the [[Seven-Day Creation]], admires her [[Mastery Over Chaos]], and her obsession for the [[Auric Aria]] deepens.
+- [[Lacrimosa]] Develops love for the [[Auric Aria]]. Beginning of her obsession and [[Possessive]] [[Legend Trait]].
+- [[Lacrimosa]] observes the creation of the [[Known Universe]]. Fantasizes on her manifestation and the ability of dual creation with the [[Auric Aria]]. 
+- [[Lacrimosa]] paralyzed by fear of being a burden to the [[Auric Aria]]. The [[Auric Aria]] moves to the creation of [[Arcanoria]]. The window of [[Lacrimosa]] to act is passing. [[Hesitant]] [[Legend Trait]] evolves into [[Compulsive Overthinker]].
+- [[Lacrimosa]] witnesses the [[Seven-Cycle Creation]], admires her [[Mastery Over Chaos]], and her obsession for the [[Auric Aria]] deepens.
 
 **Core**: [[Auric Aria]]'s creation provides first meaning to [[Lacrimosa]].
 **Love-as-Obsession**: Not romantic love, but obsessive admiration and identification love (she sees herself in Aria's overcoming of doubt).
@@ -234,7 +280,7 @@ _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide is
 
 **Phase 3: Robbed of the Perfect Moment (Idealized Opportunity → Replaced)**
 
-**Halfway through the [[Seven-Day Creation]].**
+**Halfway through the [[Seven-Cycle Creation]].**
 
 - [[First Weaving of Life]] happens during the [[Fifth Cycle]] and [[Lacrimosa]] finally found the perfect moment to manifest. Trembling with joy. Her fantasy deepens.
 - [[Selenea]] manifests before [[Lacrimosa]] can. She is paralyzed in horror when the [[Auric Aria]] and [[Selenea]] create the [[First Living Being]] together.
@@ -252,8 +298,9 @@ _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide is
 - At the dawn of the [[Eighth Cycle]], [[Lacrimosa]] can't bear the pressure of only watching and being invisible any longer. She breaks. Retreats from [[Arcanoria]] deep into [[The Infinite Void]].
 - [[Lacrimosa]]'s tears accidentally create the [[Auroral Ribbons]], they manifest at the edge of the [[Great Harmonic Loom]] creating a permanent link from [[Arcanoria]] to her [[Consciousness]].
 - [[Lacrimosa]] weeps for eons in despair and silence. Mirroring the state of withdrawal from the [[Auric Aria]] unknowingly. (Hasn't learned of the [[Eighth Cycle]] and the [[Lost Cycle]].)
+- The loss of her identity and her fantasy awaken her [[Void]] [[Soul Leitmotif]] from the total collapse of her [[Possessive]] [[Legend Trait]].
 - **[[Betrayal of the Moon]]**: Critical turning point — envy of being treasured enough to be used. First descent into madness.
-- **Fantasy Perversion**: From "creating together" to "being bound for her to matter." From "Poor [[Selenea]], she was used" to "It should have been me the one betrayed." Deeply Intensifying obsession for the [[Auric Aria]].
+- **Fantasy Perversion**: From "creating together" to "being bound for her to matter." From "Poor [[Selenea]], she was used" to "It should have been me the one betrayed." Deeply Intensifying obsession for the [[Auric Aria]] and her [[Possessive]] [[Legend Trait]] to her core personality.
 - **[[Eighth Cycle]] Break**: Not just retreat, but complete psychological collapse. Ironically, her only creative act is leakage, not intention from the overflow of denied emotion. Mirrors the abandonment of the [[Auric Aria]] after the [[The Auric Aria's Sacrifice]] in the [[Lost Cycle]].
 
 **Phase 5: The Accidental Link and the Reluctant Messiah (Purification of the [[Auroral Ribbons]] after Catastrophe -> Born from Need → First Recognition)**
@@ -269,14 +316,15 @@ _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide is
   [[Mira]], willingly gives her body in dying condition for [[Lacrimosa]] to inhabit. 
 - Initially [[Lacrimosa]] rejects but the girl deeply argues that she wants her death to matter and to merge with something greater. The dying host girl deeply transforms [[Lacrimosa]] and she learns about human intimacy while mirroring her own idea of love for [[Auric Aria]],
 - [[Mira]] in her death wish, teaches [[Lacrimosa]] about “A love so pure it doesn’t require love.” from the history of her losses.
-- [[Mira]] dies on the hands of [[Lacrimosa]]. Hesitantly, but grieving and afraid of [[Mira]] being abandoned again [[Lacrimosa]] finally takes her moment to act and acquires an [[Anthropomorphic Shape]] on the [[Mira]]'s body.
+- [[Mira]] dies on the hands of [[Lacrimosa]]. Hesitantly, but grieving and afraid of [[Mira]] being abandoned again [[Lacrimosa]] finally takes her moment to act and acquires an [[Anthropomorphic Shape]] on the [[Mira]]'s body. This establishes the coupling of "consent" of the eventual end of the world and the [[Law of Relics]].
 - [[Lacrimosa]] willfully blinds herself to preserve [[Mira]]'s last sight of the [[Auroral Ribbons]] and as an act against the piercing clarity that rings against materializing in [[Arcanoria]].
+- [[Lacrimosa]] desperately silences her own [[Compulsive Overthinker]] [[Legend Trait]] by drowning it in action and by other means of validation.
 - While the vessel is imperfect, frail, it is undeniable that she exists in [[Arcanoria]]. [[Lacrimosa]] learns to honor the dead through her.
-- [[Lacrimosa]] cult of the [[Purest of Love]] truly begins. Her followers eventually become the [[Eight-Wings of Lacrimosa]] and they claim that she is the chosen of the [[Moon]].
+- [[Lacrimosa]] cult of the [[Purest of Love]] truly begins. Her followers eventually become the [[Eight-Wings of Lacrimosa]] and they claim that she is the goddess of the [[Moon]].
 - [[Lacrimosa]] notices the irony of supplanting [[Selenea]] but she can't back anymore, she finally matters, she made a promise to [[Mira]] and the followers need her.
 - [[Lacrimosa]] impersonates [[Selenea]] for the first time by using [[Mira]]'s body under the name of "The Dreamweaver".
 
-**Phase 6: The Dreamweaver Persona and [[Selenea]]'s "chosen" (Impersonation Addiction -> Developing of the [[Purest of Love]] → Consumption)** 
+**Phase 6: The Dreamweaver Persona and "chosen" [[Selenea]]  (Impersonation Addiction -> Developing of the [[Purest of Love]] → Consumption)** 
 
 **Early to Late [[Ages]] II**
 
@@ -287,14 +335,14 @@ _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide is
 - [[Lacrimosa]] adopts the persona of the Voice of Heavens. Her singing becomes [[The Call of the Dreamweaver]] which can do miracles at a cost of [[Consciousness]].
 - [[Lacrimosa]] receives attention, validation, and feeling of mattering on each ritual.
 - [[Purest of Love]] followers grow and implant the idea on her that this is "intimacy", people want to merge with the heavens.
-- [[Lacrimosa]] becomes addicted to the idea of being the role of the [[Moon]].
+- [[Lacrimosa]] becomes addicted to the idea of being the role of the [[Moon]]. [[Possessive]] [[Legend Trait]] evolves into [[Attention Addict]].
 - [[Lacrimosa]]'s obsession of finally mattering deepens. Becomes the new "messiah".
-- [[Lacrimosa]] core idea of the "Love so pure it doesn't require love" she learned from the dying girl host twists into removing emotion, she realizes the hollowing isn’t destroying love—she’s perfecting it into something that cannot hurt.
-- [[Lacrimosa]] understands that she’s offering a world where no one can feel the loneliness she felt and that "intimacy" is real when binding her [[Consciousness]] to mortals. Finally feels "bound" like [[Selenea]].
+- [[Lacrimosa]] core idea of the "Love so pure it doesn't require love" she learned from the dying girl host twists into removing emotion because of how people praise her miracles, she realizes the hollowing isn’t destroying love —she’s perfecting it into something that cannot hurt.
+- [[Lacrimosa]] understands that she’s offering a world where no one can feel the loneliness she felt and that "intimacy" is real when binding her [[Consciousness]] to mortals. Finally feels "bound" like [[Selenea]] due to the responsibility of being the architect of a new covenant within [[Arcanoria]]'s [[New Testament]].
 
-- **Identity Layering**: Girl who wanted to merge -> [[Selenea]]'s chosen → The Dreamweaver miracles -> Being called "mercy and salvation" through numbness.
-- **The Addiction to Attention**: Finally being recognized, enabled by her followers to develop delusions or "intimacy", "love", "merging", becoming the [[Moon]]. Rooter in a personal psychological justification "If they believe I'm [[Selenea]]'s chosen, maybe I can believe it too".
-- **Demanding Attention and Need**: [[Lacrimosa]] becoming accustomed to being needed, it's a dual relationship of both needs of her followers and hers. Critical Shift from "I am a divine voice" to "I am THAT divine voice". 
+- **Identity Layering**: Girl who wanted to merge -> "Chosen" [[Selenea]]  → The Dreamweaver miracles -> Being called "mercy and salvation" through numbness.
+- **The Addiction to Attention**: Finally being recognized, enabled by her followers to develop delusions or "intimacy", "love", "merging", becoming the [[Moon]]. Rooter in a personal psychological justification "If they chose me, and believe I'm [[Selenea]], maybe I can believe it too".
+- **Demanding Attention and Need**: [[Lacrimosa]] becoming accustomed to being needed, it's a dual relationship of both needs of her followers and hers. Critical Shift from "I am a divine voice" to "I am THE divine voice". 
 
 **Phase 7: The [[Flesh-Binding Ritual]], The [[All-Loving Moon]], The Point of No Return (First Divine Manifestation -> Creation of the [[All-Loving Moon]] -> Apocalypse)
 
@@ -302,12 +350,15 @@ _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide is
 
 - Cult of [[Lacrimosa]] eventually develops a [[Flesh-Binding Ritual]] to give her a real [[Anthropomorphic Shape]] and the final act of binding her to [[Arcanoria]], not a host anymore she incarnates in her own flesh mixing the [[Auric Aria]]'s angelic properties and her host's, [[Mira]]'s, original body.
 - The blindfold becomes the pair of wings that make her see through the many eyes on top of them. [[Selah]] and the followers properly become the [[Eight-Wings of Lacrimosa]].
-- [[Lacrimosa]] ascends from "The Dreamweaver" vessel to the [[All-Loving Moon]]. Begins her [[Age Crisis]] of [[Ages]] II of [[The Hollowing]].
-- [[The Hollowing]] takes over vast areas and causes the fall of [[Hollowmarch]].
+- [[Lacrimosa]] ascends from "The Dreamweaver" vessel to the [[All-Loving Moon]]. Begins her [[Age Crisis]] of [[Ages]] II of [[The Hollowing]]. This determination to change reality and become undeniable awakens her [[Crystal]] [[Ornament]].
+- [[The Hollowing]] takes over vast areas and beings the expansion of the broadcasts of the [[Auroral Ribbons]] and the gravity pull of the [[All-Loving Moon]]. 
+- The defection of [[Luminaire]], and the constant broadcasts begins the [[Ballad]] of the fall of [[Hollowmarch]].
+- With the first crack in [[Hollowmarch]] her [[Silent Watcher]] [[Legend Trait]] fully evolves into her first [[Apex Trait]] of [[Mastermind Architect]] and develops her maximum ability of emotional manipulation
+- Begins growing in influence and cementing her infrastructure for the ongoing effort of [[The Hollowing]] and the [[Auroral Ribbons]] broadcasts.
 - Depending on the outcome, either the player becomes the vessel for the [[Age of the False Messiah]] or another kingdom, like [[Hollowmarch]] comes to be it.
-- [[The Hollowing]] greatly intensifies during [[Ages]] III. The more followers, the stronger she can intrude into [[Arcanoria]] with her divine form.
-- The [[All-Loving Moon]] takes over the skies, encases the [[Moon]] and uses [[Auroral Ribbons]] to link [[Humanity]]'s [[Consciousness]] to her.
-- The [[All-Loving Moon]] is now the undisputable voice of the skies. [[Lacrimosa]]'s delusion of being Heaven's Voice becomes real.
+- [[The Hollowing]] greatly intensifies during [[Ages]] III. The more followers, the stronger she can intrude into [[Arcanoria]] with her divine form and the more potent her broadcasting pull is.
+- The [[All-Loving Moon]] takes over the skies, encases the [[Moon]] and uses [[Auroral Ribbons]] to link [[Humanity]]'s [[Consciousness]] to her. 
+- The [[All-Loving Moon]] is now the undisputable voice of the skies. [[Lacrimosa]]'s delusion of being Heaven's Voice becomes real. 
 
 - **Action**: [[Flesh-Binding Ritual]], becomes [[All-Loving Moon]], encases [[Selenea]]’s [[Moon]].
 - **Metaphysical Violation**: She doesn’t just replace [[Selenea]]; she imprisons the imprisoned in is cosmic identity theft: stealing the role of a stolen goddess.
@@ -317,10 +368,15 @@ _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide is
 
 **Late [[Ages]] III -> [[Ages]] III [[Age Crisis]] -> Transition to [[Ages]] IV.**
 
-- [[Lacrimosa]] manifests as the [[Auric Aria]] in [[Father Aldric]]'s visions to force him to submit as he is one of the last remaining strongholds of [[Piety]].
-- The real [[Auric Aria]] forgives [[Father Aldric]] in a dream too. [[Father Aldric]] finally submits to [[Lacrimosa]] and the [[Auric Aria]] is compelled to intervene.
 - Collapse of most ancient systems due to her undeniable influence.
-- [[Lacrimosa]] reaches the critical point of consuming [[Consciousness]]. There are too many [[Consciousness]] routing through her own flesh-bound [[Anthropomorphic Shape]].
+- The lack of the [[Auric Aria]]'s appearance makes [[Lacrimosa]] insanely distressed and redirects all of her insecurities to question the entire effort. This is the first profound crack in her self-worth that desperately looks to weaponize anything to get a reaction of the [[Auric Aria]] and find belonging. 
+- [[Lacrimosa]] begins to target the most pious resistance. She deceives as the [[Auric Aria]] in [[Father Aldric]]'s visions to force him to submit as he is one of the last remaining strongholds of [[Piety]].
+- The real [[Auric Aria]] forgives [[Father Aldric]] in a dream too. Depending on [[Father Aldric]] actions, the timeline changes, if he finally submits to [[Lacrimosa]] then [[Auric Aria]] is compelled to intervene becoming the [[Law of Relics]] or [[Alternate Hollowing]]. If he pushes stubbornly and dies of natural causes the timeline is either [[Alternate Hollowing]] (if the [[Auric Aria]] is compelled to manifest by either [[Father Aldric]] or the loss of many other priests to [[Lacrimosa]]) or [[The Mass Suicide of Lacrimosa]].
+- The profound despairing spiral of the losses of half of her [[Eight-Wings of Lacrimosa]] trigger the sequence of the Judgement of One-Million Eyes, which is her [[Resonance]] [[Motif Awakening]] and final [[Ornament]]. It is the result of the deep insurrection of the [[Compulsive Overthinker]] [[Legend Trait]] she has been painfully suppressing since her promise with [[Mira]].
+- [[Lacrimosa]] decides she has to act more desperately and starts envisioning plans of how to resolve [[The Hollowing]]. If [[Possessive]] trait prioritizes the [[Auric Aria]] she will take the broadcasting gamble and is on the path of the [[Alternate Hollowing]] or [[The Mass Suicide of Lacrimosa]]. If [[Attention Addict]] becomes unbearable to overcompensate for the fact that she isn't reacting, she is on the path of the [[Law of Relics]] by consuming even more [[Humanity]].
+- As the [[Auric Aria]] isn't manifesting, [[Lacrimosa]] finally develops her gamble to control the hunger clawing at her and twisting the plan of the [[Alternate Hollowing]]. If she goes for the gamble of submission and broadcast in a last ditch effort to convince the [[Auric Aria]] to manifest and surrender it's either [[Alternate Hollowing]] or [[The Mass Suicide of Lacrimosa]]. If her [[Compulsive Overthinker]] [[Legend Trait]] takes over, she goes a more abrupt route by using [[The Birth of the Tetrad Chord]] to compensate for the lack of attention.
+- [[Lacrimosa]] is the canon does a desperate effort to calm her hunger and envisions a plan to fix the critical point of consuming [[Consciousness]]. Her [[Compulsive Overthinker]] [[Legend Trait]] screams at her as it isn't guaranteed that the [[Auric Aria]] would even respond to her desperate gamble and broadcast.
+- On the canon path there are too many [[Consciousness]] routing through her own flesh-bound [[Anthropomorphic Shape]].
 - [[The Birth of the Tetrad Chord]] begins.
 - [[Tetrad Chord]] disaster on the capital of the [[All-Loving Moon]] after attempting to merge all [[Consciousness]] to [[Lacrimosa]]. First proto-[[Hypermage]] in existence. Devastates large parts of the land in an impossibly large explosion.
 - The explosion devastates over 30% of [[Lacrimosa]]'s bound [[Consciousness]].
@@ -336,6 +392,41 @@ _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide is
 - Eternal aftermath as the law of [[World-Bending Relics]]. Permanently bound to [[Arcanoria]] and becomes a principle of witnessing [[Consciousness]] contracts.
 
 **Beginning of [[Ages]] IV with the new [[Law of Relics]] allowing magical and sacred objects to exist.**
+
+
+### [[Resonance]] [[Motif Awakening]]: The Judgement of One Million Eyes
+
+This is the compound and climatic resolution that will dictate how [[Lacrimosa]] maladaptive [[Legend Trait]]s of [[Compulsive Overthinker]] and [[Attention Addict]] through [[Possessive]] reach their absolute apex in an internal conflict. It is a gruesome scene of judgement inspired by Frodo's Hellfire spiraling despair in the Hunchback of Notre dame.
+
+This [[Resonance]] [[Motif Awakening]] is a devastating scene caused by [[Lacrimosa]]’s catastrophic descent into spiraling despair and borderline hallucination madness caused by the lack of action of the [[Auric Aria]]. She expects to be smitten, and bound by her wraith but she's completely confused by the lack of any reaction of [[The Hollowing]] due to a massive, self-inflicted blind spot in her timeline: she consciously chose to stop watching[[ Arcanoria]] just before the [[Auric Aria]] went through her most traumatic and character-altering periods of the [[Lost Cycle]] and the [[Old Testament]].
+
+Although [[Lacrimosa]]’s defining native personality core is her perfect "clarity of perspective", her understanding of the [[Auric Aria]] is built entirely on outdated information. This fatal lack of context regarding the [[Old Testament]] and the [[Lost Cycle]] causes [[Lacrimosa]] to completely misinterpret the [[Auric Aria]]'s silence, plunging her into the ultimate crisis of self-worth:
+
+- **The [[Eighth Cycle]] & The [[Lost Cycle]]:** She missed the [[Auric Aria]] descending into a mortal body, feeling the agony of the "[[Inevitability of Death]]," and committing suicide out of remorse. She also missed the subsequent "[[Lost Cycle]]," where the [[Auric Aria]] withdrew into silence out of guilt due to the [[Weight of Flaw]] and her realization during [[The Auric Aria's Sacrifice]], leaving humanity to nearly perish in a godless world.
+
+- **The [[Old Testament]] & The [[First Reset]]:** Most crucially, [[Lacrimosa]] missed the [[Auric Aria]]'s return and the deletion of the first timeline. Driven by the desperate prayers of survivors, and the effects of the other [[Outer God]]s that preyed on them. The [[Auric Aria]] overcompensated to become the protective mother of her creations, and accidentally became a tyrannical, hyper-controlling deity ("[[The One True God]]"). She formed the dogmatic [[Auric Order]], personally directed [[Humanity]], and executed violent purges known as the [[Genocides of the Auric Aria]]. While some were justified, they were still impossibly cruel and a deep scar of divine fear (such as the devastation of the [[Library of Heaven's Tower]]). Tragically, the [[Auric Aria]]'s tyrannical control ultimately bred disaster, culminating in the first [[Polychord Crisis]] and the [[Cataclysmic Aftermath]] of the [[Great Fracture]].
+
+By the time the game begins in the [[Second Reset]], the [[New Testament]] era, the [[Auric Aria]] is deeply scarred by the [[Cataclysmic Aftermath]] of the [[First Reset]]. She has learned the agonizing "God Paradox": control is tyranny, and intervention causes harm. To avoid causing another apocalypse, the [[Auric Aria]] adopts a strict policy of "absolute minimum intervention," remaining perfectly silent.
+
+[[Lacrimosa]] does not know any of this. She leaves on the dawn of the [[Eighth Cycle]], and when [[Lacrimosa]] finally returns to [[Arcanoria]] in [[Ages]] II, her entire plan relies on an outdated fantasy. She expects the ruthless, ambitious "Golden Sovereign" of the [[Seventh Cycle]] to descend in fury and violently bind her to the fabric of reality, just as she did to [[Selenea]] for destroying her [[Perfect Reflection]].
+
+But the [[Auric Aria]] does not descend. She does not attack. She remains perfectly silent. She cannot comprehend that the [[Auric Aria]]’s silence is actually ethical paralysis born from the trauma of the [[First Reset]]. Instead, [[Lacrimosa]] interprets this silence through the lens of her own deepest, most agonizing psychological wound: **the terror of cosmic irrelevance**.
+
+In [[Lacrimosa]]'s mind, the [[Auric Aria]]'s refusal to act means only one thing: _"What if I create the false moon, perform all my rituals, orchestrate the entire [[Age of the False Messiah]], and at the end, I am still invisible... I am not even worth your anger."_
+
+This profound collapse in self-worth violently triggers her hallucination of the Judge of One-Million Eyes. She feels observed by the [[All-Loving Moon]], all of the [[Auroral Ribbons]], and the loss of some of her [[Eight-Wings of Lacrimosa]]. 
+
+She comes to the realization that she could end the entire world and still be completely ignored by her idol shatters her sanity, and even within taking the entire world, she feels she has failed to fulfil the promise to [[Mira]], lost [[Pagiel]], [[Lucetta]], [[Destra]], [[Seraph]], and [[Arioch]] to the ongoing war with the [[Auric Order]]. And most importantly, the beautiful family lacks its most important member, the [[Auric Aria]]. She realizes she is just a mimic wearing a stolen identity, that has deeply failed the original apostles that originally gave her worth and meaning, and even by begging to be punished, she is devastated by a god who seemingly does not care she exists.
+
+This absolute silence from the heavens shatters [[Lacrimosa]]'s already fragile self-worth, and begins hearing that all of her followers, and the [[All-Loving Moon]] itself are calling to her with one intrusive, simple statement as if broadcasted through the melodic voice she has been using with her [[Auroral Ribbons]]: It is an unforgiving chorus, directed by the very first of the [[Eight-Wings of Lacrimosa]] that she lost. It is [[Pagiel]], and an infinite chanting of "You Are Worthless." 
+
+She sees the dual dancers, [[Seraph]] and [[Arioch]], unforgiving in their [[Purifying Flame]]. She sees the tremble, [[Shy]] light of [[Lucetta]], looking with [[Destra]] to [[The Infinite Void]], to the chaotic nature from where [[Lacrimosa]] herself was born. She sees in her desperation the wings from her own eyes faltering, as if about to break the promise of the blindfold to [[Mira]]. She begins to desperately panic to prevent from regaining her vision, desperately holding the wings with her trembling hands, and when she feels her arms giving up from the soaring ache, she collapses to her knees fighting with everything to hold them, and when her body ultimately gives up, she forces even the floor to hold them in place.
+
+In this desperate attempt to shut off her mind, and in a deep realization feeling seen, judged, and vulnerable in the ground, she causes the event of [[The Weeping Sky?]] She feels tears from her human eyes, they come from the eyes of [[Mira]], underneath the wings. This is the first time she's ever shed human tears, and they run as deep as the time she mourned her in [[The Golden Light in the Sky]], yet sharper in their pain. It breaks entirely her composure of the loving [[Mastermind Architect]]. For she now feels undeserving of [[Mira]]'s connection for faltering, for using her very eyes to cry, and for being helpless to carrying the ideal family she and herself both so desperately yearned for. In a solemn requiem, the devastating silence of the [[Auric Aria]] only serves to tell [[Lacrimosa]] that the irrational choice she once made to act, and step out of [[The Infinite Void]], was her deepest mistake.
+
+Plunged into the absolute rock-bottom of isolation, entirely stripped of her false persona, and drowning in an identity crisis, [[Lacrimosa]] perfectly meets the conditions for the [[Key of Attunement]]. This unbearable distress triggers her [[Motif Awakening]] to [[Resonance]], forcing her to realize she does not truly belong anywhere, which subsequently drives her to take desperate, reality-fracturing gambles to force a reaction after her tears have run out.
+
+Depending on how she internalizes this encroaching despair, the timeline splits into [[The Mass Suicide of Lacrimosa]], [[Alternate Hollowing]], or the fragile canon timeline of the [[Law of Relics]].
 
 ### The [[Tetrad Chord]] Disaster
 
@@ -377,3 +468,43 @@ The explosion of the [[Tetrad Chord]] breaks reality and that's what makes the [
 - The requirement for [[Sufficient Precision]] is no longer an obstacle—the fabric is already broken.
 
 [[Lacrimosa]] zenith becomes vulnerable through her own power destabilizing.
+
+### Depth as an Antagonist and Different Timelines
+
+**Lacrimosa is widely considered a masterpiece of antagonist design because her apocalyptic actions are entirely driven by universally recognizable human vulnerabilities: the terror of isolation, the fear of failure, and the desperate, agonizing need to belong.** She subverts the traditional fantasy trope of a conqueror driven by malice or a desire for power. Instead, she is a being of infinite cosmic power whose core is essentially that of a lonely, traumatized child terrified of her own "cosmic irrelevance".
+
+What makes people rate her psychology and character development so highly—and why the alternate timelines elevate her character to a profound philosophical tragedy—can be deconstructed into three core pillars: her pathological origins, her twisted sense of empathy, and the sheer fragility of her redemption.
+
+**The Masterful Psychology of the "Witness in the Dark"
+
+Lacrimosa’s character development is praised because her entire mechanical and narrative existence is a flawless projection of severe psychological neuroses. She operates as a tragic exploration of how untreated trauma mutates into toxicity.
+
+- **The Paralysis of Clarity:** Born in the Infinite Void, Lacrimosa spent eons possessing perfect "clarity of perspective". She watched other proto-gods attempt to create, fail, and dissolve into the chaotic Primal White Noise. This clarity became her psychological prison. Because she understood exactly how and why things fail, she developed a crippling fear of failure, becoming a "Compulsive Overthinker" who retreated into observation rather than risking the vulnerability of action.
+- **Scopophobia and Impersonation Addiction:** Her failure to act created an ontological dread of erasure. To Lacrimosa, "invisibility is worse than hatred". She is so convinced of her own lack of inherent worth that when she finally manifests, she suffers from an "Impersonation Addiction". She actively steals the identity of the bound goddess Selenea, playing the role of "The Dreamweaver," because performing a stolen role gives her a "borrowed Coherence". She is addicted to the validation of her followers to drown out her emptiness.
+- **The Corruption of Empathy (The Purest of Love):** Lacrimosa is not evil; she is horribly, tragically misguided. Her apocalyptic endgame—The Hollowing—is born from a beautiful lesson taught to her by a dying human girl named Mira. Mira taught her that witnessing someone's pain so they don't die alone is true love. However, Lacrimosa's terror of loss corrupts this. She transitions from wanting to _honor_ suffering to wanting to _remove_ it by absorbing all human consciousness into her All-Loving Moon. Her utilitarian doctrine dictates that if she removes the "self," she removes all capacity to suffer—blinding herself to the horror of mass lobotomization because she views it as "mercy".
+
+**Why the Alternate Timelines Add So Much Depth (After Seeing The Law of Relics)
+
+In the canon timeline (_The Law of Relics_), Lacrimosa's plan catastrophically fails. When the Auric Aria finally manifests, she does not fight Lacrimosa; she simply looks at her and says, _"I finally understand who you are"_. Lacrimosa completely shatters, oscillating between hysterical laughter and sobs, weeping tears of light because, for the first time in eons, she is truly seen and invited to co-create.
+
+**Seeing this beautiful, redemptive resolution first makes the two alternate timelines infinitely more devastating because they prove that Lacrimosa's redemption was a fragile statistical anomaly.** The alternate timelines act as a dark mirror, showing the terrifying, mathematical inevitability of her trauma if Aria had not offered mutual vulnerability.
+
+**The Alternate Hollowing (The Tragedy of Unhealed Control)** If Lacrimosa wins and forces Aria into submission without true connection, the audience sees that **"winning" does not cure her.**
+
+- In this timeline, Lacrimosa never drops her false persona. Because her native traits mutated into the extreme _Attention Addict_ and _Possessive_ paths, simply capturing the Creator isn't enough.
+- She evolves into the _Void-Embrace Anchor_ and subjects Aria to explicit, highly sexualized hydrodynamic subjugation and cosmic exhibitionism.
+- Seeing the canon ending first highlights the tragedy of this dark timeline: Lacrimosa is desperately overcompensating. She needs intimacy, relief, and means to feel all the love she has ever fantasized with. Furthermore, to fix her voyeurism she forces the universe to watch her physically and mentally lobotomize the Creator with pleasure because a narcissist's trauma requires an audience. It proves that **understanding without connection keeps one hidden behind control**. She achieves absolute safety, but the universe dies in a silent, painless void solely because she was too broken to risk authentic intimacy.
+
+**The Mass Suicide of Lacrimosa (The Terror of Irrelevance)** If Lacrimosa drops her grand apocalyptic machinations to broadcast a vulnerable ultimatum to the heavens, and the Auric Aria remains silent, Lacrimosa’s psyche completely implodes.
+
+- The silence confirms her deepest, most agonizing fear: that she is fundamentally irrelevant and was "never real in the first place".
+- Instead of adapting, her self-worth completely shatters, and she tears a rift of Primal White Noise to annihilate herself and the universe simultaneously out of sheer, suicidal despair.
+- Having seen her joyful, tearful breakdown in the _Law of Relics_, watching her commit apocalyptic suicide in this timeline breaks the audience's heart. It reinforces how dangerously close she always was to the edge of absolute hopelessness, proving that her grand "Mastermind Architect" persona was always just a fragile shield protecting a terrified core.
+
+**The Ultimate Resonance of Her Character**
+
+People rate Lacrimosa so highly because she solves the "God Paradox" of franchise building: she merges immense cosmic stakes with profoundly intimate, relatable mental health struggles.
+
+She is not defeated by a stronger magic spell; she is defeated by **empathy and connection**. The _Law of Relics_ establishes the ultimate rule of Arcanoria: that creation transcends reality only when a Creator (Aria) and a Witness (Lacrimosa) come together in perfect unity.
+
+The alternate timelines enhance her character by proving that Lacrimosa is the ultimate embodiment of a victim of trauma given god-like power. She is a character who almost destroyed reality not out of evil, but because **she was a lonely observer begging to be loved, whose mind was too broken to understand how to ask for it without controlling it.** The contrast between her terrifying dominance when in control and her fragile, weeping joy when finally witnessed creates one of the most dynamic, philosophically rich antagonists in speculative fiction. She yearns for love but doesn't know how to love, and when given the opportunity, the histrionic need for intimacy twists her needs to sexual overcompensation out of fear.

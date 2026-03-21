@@ -17,7 +17,7 @@ The [[Great Harmonic Loom]]'s connection to [[Selenea]]'s imprisonment permeates
 
 ### The Mortal Interface: Where Flesh Meets Symphony
 
-All magical capacity arises when any [[Consciousness]] — beast, mortal, or spirit — attunes its [[Fundamental Frequency]] to the [[Great Harmonic Loom]]’s baseline in [[Consonance]] with the [[Auric Aria]]’s vibrational signature. Heightened emotion shapes that [[Resonance]] into a standing‑wave pattern, where prior feelings amplify or dampen the present signal within the [[Flux]]‑vibrational membrane, establishing [[Sympathetic Oscillation]] as the imbuing of feeling into the coupling and enabling to phase‑lock with the [[Grand Thread Rings]].​
+All magical capacity arises when any [[Consciousness]] — beast, mortal, or spirit — attunes its [[Fundamental Frequency]] to the [[Great Harmonic Loom]]’s baseline in [[Consonance]] with the [[Auric Aria]]’s vibrational signature. Heightened emotion shapes that [[Resonance]] into a standing‑wave pattern, where prior feelings amplify or dampen the present signal within the [[Flux]]‑vibrational membrane, establishing [[Sympathetic Vibration]] as the imbuing of feeling into the coupling and enabling to phase‑lock with the [[Grand Thread Rings]].​
 
 Once phase‑locked, focused intention selects a target mode, collapsing [[Superposed Resonance]] as the effective “pluck” of specific threads of the [[Great Harmonic Loom]], creating localized field perturbations that propagate only through regions of strong [[Coherence]] along [[Stable Harmonic Channels]] that then manifest as magical effects.​
 
@@ -29,7 +29,7 @@ The whole process of casting magic behaves like a full audio signal chain and re
 
 2. A [[Spellweaving]] interface that acts as a transducer of the internal psychophysical vibration. It is the object bridging the physical and metaphysical, like a [[Soul Leitmotif]] or an organ with [[Coherence Binding Tissue]], which then is able to encode encode said signal into [[Frequency Harmonics]] and phase-lock with the [[Great Harmonic Loom]]. Without this interface, the [[Resonance]] never becomes a [[Coherence]]-filled, multiplexable signal in the [[Great Harmonic Loom]]. This is what defines who and what is a [[Spellweaver]].
 
-3. [[Attunement for Magic]] where the [[Key of Attunement]] comes in as carrier integrity and spectral cleanup. It ensures the [[Consonance]] of that [[Resonance]] frequency with the [[Auric Aria]]'s own [[Fundamental Frequency]]. It "cleans-up" the signal of [[Spellweaving]] by having a correct center with the broadcast standard.
+3. [[Attunement for Magic]] where the [[Key of Attunement]] comes in as carrier integrity and spectral cleanup. It ensures the [[Consonance]] of that [[Resonance]] frequency with the [[Auric Aria]]'s own [[Fundamental Frequency]]. Symbolically, it is essentially "feeling the music" so deeply that your own [[Soul-Key]] resonates with it, and thus that consonance becomes as much you as it is the song you are playing in the moment. It mechanically "cleans-up" the signal of [[Spellweaving]] by having a correct center with the broadcast standard.
 
 4. Enrichment of the signal through [[The Principles of Magic]]. It is the phase that adds modulation as a synthesis chain that sculpts the spell, adding texture and complexity to the original [[Resonance]] by imbuing the characteristics of [[Spellweaving]], like potency, effect, power, area, and intent through [[Mastery Over Chaos]] and [[Potential of Creation]]. The specific effects are:
 
