@@ -1,3 +1,4 @@
+![[The Hollowing.png]]
 
 A [[World Event]] directed by [[Lacrimosa]] and the [[Purest of Love]] that spans the [[Age Crisis]] of [[Ages]] II and the entirety of [[Ages]] III.
 

@@ -1,6 +1,9 @@
 #technology
 
+![[Great Harmonic Loom.png]]
+
 An enormous construct suspended between the physicality of [[Arcanoria]], the mortal realm, and the sea of cosmic void. The structure was woven by the [[Auric Aria]] during the [[Second Cycle]] as the magical framework for channeling [[Resonance]] and giving structure to [[Consciousness]]. This vast weave and [[Flux]]-vibrational membrane spreads through [[Arcanoria]]'s upper atmosphere, fifteen to twenty-five leagues above the surface, where it stratifies not by temperature or wind, but by [[Vibrational Density]] — the measure of how tightly reality's threads maintain their harmonic integrity.
+
 ### The Architecture of Harmonized Reality
 
 The [[Great Harmonic Loom]] manifests as a living lattice of the [[Auric Heptacode]]'s sevenfold golden threads, each existing in [[Superposed Resonance]] — a state where all possible notes ring simultaneously until [[Consciousness]] collapses them into a singular sound. Such creates [[Harmonic Entanglement]] that couples all of the disparate vibrations across impossible distances, binding thought to form and delimiting probability and feasibility as sympathetic musical [[Resonance]].
@@ -16,6 +19,8 @@ Threading through this spectral membrane, the [[Leylines]] function as harmonic
 The [[Great Harmonic Loom]]'s connection to [[Selenea]]'s imprisonment permeates its structure with a constant sorrow. Her bound essence leaks [[Lunehymn]] as liquid [[Coherence]] that enhances the membrane's probability stability during lunar phases when her melancholy runs strongest. [[Emberwhisper]] crystals, formed from her crystallized grief, serve as the primary [[Resonance Anchors]] within the Loom, providing stable reference points to maintain spell [[Coherence]] over distance and time.
 
 ### The Mortal Interface: Where Flesh Meets Symphony
+
+![[Great Harmonic Loom-1.png]]
 
 All magical capacity arises when any [[Consciousness]] — beast, mortal, or spirit — attunes its [[Fundamental Frequency]] to the [[Great Harmonic Loom]]’s baseline in [[Consonance]] with the [[Auric Aria]]’s vibrational signature. Heightened emotion shapes that [[Resonance]] into a standing‑wave pattern, where prior feelings amplify or dampen the present signal within the [[Flux]]‑vibrational membrane, establishing [[Sympathetic Vibration]] as the imbuing of feeling into the coupling and enabling to phase‑lock with the [[Grand Thread Rings]].​
 

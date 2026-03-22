@@ -75,7 +75,34 @@ In worldbuilding, He's not just a random serial killer. He's the proof that the 
 | [[Absolute Certainty]]                    | His unshakeable belief in his "art"         |
 | [[The First Overtone]] (life's vibration) | Your last breath as his final note          |
 | [[The Eternal Symphony]]                  | Your death as a completed movement          |
-He's not outside the system—he's a dark mirror of everything the system values. He takes the principles that make magic beautiful and turns them into instruments of horror.
+He's not outside the system—he's a dark mirror of everything the system values. He takes the principles that make magic beautiful and turns them into instruments of horror.[[Spellweaving]]
+
+### The Theatrical Song
+
+You and me in our playhouse  
+Living in a veil, we never need to go without  
+Memories bring no joy or peace  
+We are alone and all we need
+
+Tuning out of the poison  
+Every waking day intolerance to overcome  
+Fortunes won by the boys with the guns  
+We are alone, nowhere to run
+
+Bernadette, you are my liberty  
+I celebrate the day that you changed my history  
+Life and death will always lead you into love and regret  
+But you have answers, and I have the key for the door to Bernadette
+
+Winding down our emotions  
+Family and friends becoming ghosts to dream of  
+And pass on, time will erase every face, every name  
+We are alone, no one to blame
+
+Bernadette, you are my liberty  
+I celebrate the day that you changed my history  
+Life and death will always lead you into love and regret  
+But you have answers, and I have the key to Bernadette
 
 ### Quotes
 

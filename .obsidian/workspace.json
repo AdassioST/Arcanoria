@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "merged/merged-output-2026-03-21.md",
+                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "merged-output-2026-03-21"
+              "title": "Great Harmonic Loom"
             }
           }
         ]
@@ -105,12 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "merged/merged-output-2026-03-21.md",
+                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from merged-output-2026-03-21"
+              "title": "Outgoing links from Great Harmonic Loom"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "merged/merged-output-2026-03-21.md",
+                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for merged-output-2026-03-21"
+              "title": "Backlinks for Great Harmonic Loom"
             }
           },
           {
@@ -192,8 +192,26 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Clarity of Infinite Light.md",
+    "Great Harmonic Loom-1.png",
+    "Great Harmonic Loom.png",
+    "Worldbuilding/Origin of Magic/The Principles of Magic.md",
+    "The Principles of Magic.png",
+    "Worldbuilding/Origin of Magic/Spellweaving/Spellweaving.md",
+    "Spellweaving.png",
+    "Worldbuilding/Society/Characters/Ages 4/Syvanth.md",
+    "Worldbuilding/Society/Stellar Legacy/Great Spellweaver.md",
+    "Great Spellweaver.png",
+    "Worldbuilding/Origin of Magic/The One Symphony/Trinity Harmony.md",
+    "Trinity Harmony.png",
+    "Worldbuilding/Origin of Magic/Magical Resources/Lunehymn.md",
+    "Lunehymn.png",
+    "Worldbuilding/Events/World Events/The Hollowing.md",
+    "The Hollowing.png",
+    "Worldbuilding/Gateway To Genesis.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+    "Worldbuilding/Society/Auric Order/Age of Humanity.md",
     "merged/merged-output-2026-03-21.md",
+    "Clarity of Infinite Light.md",
     "Worldbuilding/Society/Characters/Ages 0/Vaelia.md",
     "Worldbuilding/Society/Characters/Ages 0",
     "Analytical.md",
@@ -202,23 +220,12 @@
     "Worldbuilding/Mythology/Deities/Auric Aria.md",
     "Worldbuilding/Origin of Magic/Root of Evil/Scorching Truth.md",
     "Worldbuilding/Society/Auric Order/Auric Order.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
-    "Worldbuilding/Gateway To Genesis.md",
-    "Worldbuilding/Society/Characters/Ages 4/Syvanth.md",
     "Worldbuilding/Mythology/Deities/Lacrimosa.md",
     "Worldbuilding/Mythology/Deities/Selenea.md",
     "Worldbuilding/Society/Characters/The White-Touched Archivist.md",
     "Worldbuilding/Society/Characters/Skarr Karmelita.md",
     "Worldbuilding/Society/Characters/Scrap.md",
     "Worldbuilding/Society/Characters/Gayviene.md",
-    "Worldbuilding/Society/Characters/Ages 6/Vanessa of Iridia.md",
-    "Worldbuilding/Society/Characters/Ages 4/Vals Jenner.md",
-    "Worldbuilding/Society/Characters/Ages 3/Seraph.md",
-    "Worldbuilding/Society/Characters/Ages 3/Selah.md",
-    "Worldbuilding/Society/Characters/Ages 3/Pagiel.md",
-    "Worldbuilding/Society/Characters/Ages 3/Lucetta.md",
-    "Worldbuilding/Society/Characters/Ages 3/Kaia.md",
-    "Worldbuilding/Society/Characters/Ages 3/Father Aldric.md",
     "Vaelia-1.png",
     "Vaelia.png",
     "Worldbuilding/Society/Characters/Ages 4",
@@ -226,17 +233,10 @@
     "All-Loving Moon.mp4",
     "merged",
     "Images/Deities/Lacrimosa/All-Loving Moon.png",
-    "Images/Auric Order/Auric Heptacode 1.png",
     "Worldbuilding/Truths, Chaos, Rituals/Old Testament",
     "Game Systems/Derivative Ideas",
     "Worldbuilding/Mythology/Deific Moodboard.canvas",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
-    "Images/Gateway To Genesis.png",
-    "Images/Biomes & Ages/Age of Humanity.png",
-    "Images/Auric Order/Auric Mythos of Creation-1.png",
-    "Images/Auric Order/Auric Mythos of Creation.png",
-    "Images/Auric Order/Auric Heptacode.png",
-    "Images/Spellweaving/Dance.png",
     "Images/Deities/Auric Aria/Auric Aria.mp4",
     "Images/Auric Order",
     "Images/Deities/Lacrimosa/Lacrimosa.mp4",

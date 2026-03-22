@@ -1,5 +1,7 @@
 #technology #spellweaving
 
+![[Trinity Harmony.png]]
+
 The [[Trinity Harmony]] is the threefold law that binds the continuum of time into order through grouping the bindings of the [[Auric Heptacode]]. It starts from the latest element in the past, [[Strand]], and builds towards the furthest in the future, [[Crystal]].
 
 By order the bindings in the [[Trinity Harmony]] are grouped by:

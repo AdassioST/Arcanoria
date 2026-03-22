@@ -118,8 +118,10 @@ W
 *"A leitmotif by itself is simple, but when it carries weight and history, it is masterful."*
 
 ### The Dynamics of [[Spellweaving]]
-
+[[Great Harmonic Loom]]
 _"The ultimate key to power let the self resonate with the universe so perfectly that chaos has no choice but to submit to your song."_
+
+![[The Principles of Magic.png]]
 
 [[Spellweaving]] requires the use of all of the seven bindings simultaneously, while they may not be fully conscious at once, the interplay between these seven characteristics increases or decreases the [[Spellweaving]] potency. There is no "mana" in any formal way, only pieces of yourself to give as fuel, and the mental overload of complexity and [[Discordant Interference]] without a proper resolution.
 

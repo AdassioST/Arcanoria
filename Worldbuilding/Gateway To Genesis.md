@@ -1,4 +1,4 @@
-
+ 
 **Dark Fantasy • 4X • Incremental Strategy • Clicker + RTS hybrid**
 _Compose the score and myth of your [[Civilization]]._
 _Weave your destiny in [[The Eternal Symphony]] of [[Arcanoria]]._
