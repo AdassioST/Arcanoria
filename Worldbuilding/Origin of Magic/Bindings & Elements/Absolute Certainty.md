@@ -1,6 +1,6 @@
 #spellweaving
-#### *Vision, Imagination and Conviction
-Sixth Auric Thread of Quantum Collapse
+#### _Vision, Imagination and Conviction
+Sixth Auric Thread of Quantum Collapse and Second Half of Quantum Physics_
 
 **Core Axis | THE FUTURE - WILL I SUCCEED?**
 

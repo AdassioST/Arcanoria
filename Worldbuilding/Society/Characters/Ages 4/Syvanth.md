@@ -45,7 +45,9 @@ Aside from generating a lot of [[Ballad]]s and [[Legend]]s that give him the nic
 
 - He is, in the end, a [[Reality Bender]] who forces the world to conform to his music. And the most terrifying part, the part that makes him such an elusive killer, is that he is erratic because no one can hear his song. It is only until you listen closely, if you follow the polyrhythms of his madness, that you can come to almost hear the [[Delusional]] song he hears. In that moment of understanding, you are already lost because you've admitted that his song could be music. And that's precisely what the beautifier wants, for someone to appreciate his art and it's so rare because it can't be done by anyone with a heart.
 
-- [[Cadmus Tacet]] became a monster because he was able to hear his melody, he did what [[Syvanth]] wanted and that's how he passed down his legacy.
+- [[Cadmus Tacet]] became a monster because he was able to hear his melody, he did what [[Syvanth]] wanted and that's how he passed down his legacy. 
+
+- Even more disturbingly, [[Syvanth]] wasn't a complete lunatic, the fixation he had with polyrhythms and his "invisible" symphony were actually a geometry pattern mirroring true [[Auric Geometry]]. He figured out the [[Resonance]] structure that was building an entire expanse. This is precisely why [[Cadmus Tacet]] was able to draw the map star, [[Syvanth]] was actually after advanced mathematics in a way that only his mind could comprehend which presses a hard question about the nature of his life: What if he was born in later [[Ages]]? Would he be an advanced mathematician that made a breakthrough by pursuing the [[Auric Geometry]] if he was given the option? Even the [[Auric Aria]] baffles at the irony of his situation, she admits that for the whole medieval [[Ages]], and up to the [[Age of Enlightenment]], [[Syvanth]] was the closest ever [[Humanity]] got to mapping a real principle of how she structured the [[Known Universe]] and [[Arcanoria]].
 
 - He possesses a unique set of [[Magical Objects]] that allows him to abuse the effect of [[Sympathetic Vibration]] to "tune" their victims to his own [[Spellweaving]], effectively sharing the cost of the [[Essence Sacrifice]] and using their own [[Emotional Authenticity]] to feelings like fear or pain. This is a deep twisted version of the original purpose of the [[Magical Objects]] he has which is a ring interlocked to sharing burdens, and a set of stasis balls that he uses to maintain the victim alive through [[Strand Pool]]s. If a victim is too overrun by emotion, he tends to try to comfort them through lullabies and soft physical touch of their cheeks as comfort to try to short circuit the emotion through the ring and attune again: _"My dear, I am here for you, please don't cry. Let's continue the melody together, I'll promise to be gentler if you stay strong for me."_
 
@@ -78,6 +80,8 @@ In worldbuilding, He's not just a random serial killer. He's the proof that the 
 He's not outside the system—he's a dark mirror of everything the system values. He takes the principles that make magic beautiful and turns them into instruments of horror.[[Spellweaving]]
 
 ### The Theatrical Song
+
+Obsessed with Fermata / Cadenza
 
 You and me in our playhouse  
 Living in a veil, we never need to go without  

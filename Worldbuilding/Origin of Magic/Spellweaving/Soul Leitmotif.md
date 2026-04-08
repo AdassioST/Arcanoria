@@ -121,6 +121,6 @@ The body becomes only a container, but if the body moves away more than 30 meter
 [[Flesh-Binding Ritual]]: A similar concept of binding oneself but instead of using the [[Soul-Key]] in a [[Soul Leitmotif]] to transfer a state of physicality into formless or [[Consciousness]] it instead does the opposite, giving flesh to anything beyond the [[Known Universe]]. It is the only method that invites [[Outer God]]s to [[Arcanoria]] by using sacrifice as the means of gaining an [[Anthropomorphic Shape]].
 
 
-[[Red Honey]]
+[[Velvet Nectar]]
 
 *Virtually the same as a vision in Genshin*

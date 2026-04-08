@@ -1,0 +1,11 @@
+#technology #religion #mechanic
+
+A core tenet of Revelation studied by the [[Auric Order]] which is sometimes referred to as "Perfect Geometry" or "Sacred Geometry." It overarchingly refers to the study of the divine architecture of reality presented primarily through the element of [[Crystal]].
+
+The study of the underlying mechanisms of [[Arcanoria]] and the [[Known Universe]] are formally defined by separate fields like mathematics, physics, logic, and philosophy. [[Auric Geometry]] however is allegedly the unifying theory of all of these fields by linking a complicated system of topology in the shapes of reality as it ascribes symbolic, spiritual, and divine meanings to specific geometric shapes and proportions, viewing them as the fundamental, harmonious patterns of the [[Known Universe]].
+
+The relationship of [[Humanity]] with [[Auric Geometry]] heavily changes between the [[Ages]] and technological / societal advancement of [[Humanity]]. Its first conception begins in the early [[Ages]] with the formalization of the field of geometry where it is revered as a contemplative path to wisdom, this so called “sacred geometry” was simply geometry understood as a revelation of deeper realities.
+
+This formally begins with the establishment of [[The Principles of Magic]] where [[Great Seer]]s saw numbers and geometric forms as the intelligible structure behind the visible world, which influenced later religious art and architecture. The [[Great Seer]]’s identification of the “[[Crystal]] solids” with the elements, and their idea that geometry reveals the order of reality, became a foundation for later sacred-geometric speculation and formally the field of study of mathematics and [[Auric Geometry]] itself. 
+
+[[Auric Geometry]] patterns become visible and tangible when found in [[Crystal]] and nature —spirals, branching, symmetry, polyhedral forms — and the [[Great Seer]]s interprets them as signs that the universe is ordered, meaningful, or divinely designed by the [[Auric Aria]]. Examples often cited include phyllotaxis in plants, shells approximating logarithmic spirals, crystalline lattices, and proportions in animal bodies and galaxies.

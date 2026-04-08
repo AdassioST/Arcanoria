@@ -92,7 +92,7 @@ Finally, when a [[World Event]] concludes the resolution of its [[Ballad]] there
 1. Final Embodiment: The [[Legend]] with the highest [[Story Affinity]] for each role is recognized as its primary embodiment and can obtain multiple [[Legend Title]]s depending on their success of the role.
 2. [[Legend Opus]]: Each primary embodiment forges a [[Magnum Opus]] for all [[Major Actor]]s, depending on which faction won the [[Ballad]] they receive a hoard of [[Lyrical Fragment]]s equal to the participation of all [[Minor Actor]]s. Some [[Legend Opus]] affect directly rewards with [[World-Bending Relics]] too. [[The Hollowing]] awards the [[Eight-Winged Viola]] for [[Purest of Love]] roles with power directly proportional to how much [[Consciousness]] was merged into it.
 3. [[World Truth]]: The primary conflict’s resolution becomes a [[World Truth]] as a permanent structural narrative flavor for the following [[Ages]].
-4. [[Age Crisis]] Transition: If the [[World Event]] was an [[Age Crisis]] the outcome can directly lead to [[Golden Age]]s, [[Dark Age]]s or [[Standard Age]]s. It can be modified through [[Era Score]] but it's one of the requirements for [[Age Transition]]s.
+4. [[Age Crisis]] Transition: If the [[World Event]] was an [[Age Crisis]] the outcome can directly lead to [[Golden Age]]s, [[Dark Age]]s or [[Classical Age]]s. It can be modified through [[Era Score]] but it's one of the requirements for [[Age Transition]]s.
 
 **Example: [[The Hollowing]] [[Fate Stage]]**
 

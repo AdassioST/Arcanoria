@@ -1,7 +1,7 @@
 #age #character #mechanic
 
-_"A profound requiem for the human condition, played on the strings of the stars."_
-
+_"A profound requiem for [[Humanity]], played on the strings of the stars as the very memory of every wish brave enough to sing into the silence."_
+1
 Everything in [[The Eternal Symphony]] given an audible score that binds all [[Legend]]s from all [[Ages]] as a powerful living mythos that modifies the structure of the world. A celestial ledger that transforms individual stories into world-altering myths. Each [[Legend]] does not merely live and die; they compose a personal symphony of actions and choices that, upon their death, are canonized into a [[Constellation]] — a permanent note in the grand score of [[The Eternal Symphony]].
 
 In this system, a [[Legend]] is an exceptional individual whose life story generates [[Resonance]]. The [[Stellar Legacy Score]] is the culmination of the resolution of [[Events]], and [[Ballad]]s, where the roles of [[Major Actor]] and [[Minor Actor]] are embodied during [[World Event]]s and [[Age Crisis]]es in the [[Fate Stage]]. It is in these crucibles of history that [[Legend]]s forge their [[Lyrical Fragment]]s into [[Legend Opus]] and [[Legend Title]]s. Thus, [[Legend]]s do not just level up; they compose their personal mythos through gameplay and create their traits based on it.
@@ -95,7 +95,7 @@ Finally, the last piece of the puzzle for [[Legend Opus]] and [[Magnum Opus]] is
 
 The [[Fate Stage]] is the dynamic theater where [[Legend]]s attain their [[Legend Title]]s by reaching the conclusion of [[Events]] [[Ballad]]s by embodying roles that are not chosen but attracted through their actions. Each role has a narrative signature, and by accumulating [[Story Affinity]] through aligned decisions, a [[Legend]] becomes the living embodiment of that role.
 
-The [[Fate Stage]] is the proving ground and growth for [[Legend]]s. Some of these may be considered [[World Event]]s which are vast [[Ballad]]s affecting the fate of many characters. They're most prominent during an [[Age Crisis]] where the actions of [[Legend]]s during critical events determine the [[World Truth]]s that will shape the next coming [[Ages]] regardless of its outcome as a [[Golden Age]], [[Dark Age]] or [[Standard Age]].
+The [[Fate Stage]] is the proving ground and growth for [[Legend]]s. Some of these may be considered [[World Event]]s which are vast [[Ballad]]s affecting the fate of many characters. They're most prominent during an [[Age Crisis]] where the actions of [[Legend]]s during critical events determine the [[World Truth]]s that will shape the next coming [[Ages]] regardless of its outcome as a [[Golden Age]], [[Dark Age]] or [[Classical Age]].
 
 Some [[World Event]]s are vast enough and present opposing forces as factions with their own dedicated agenda. These [[World Event]]s utilize the full potential of the [[Fate Stage]] to not just determine [[Ballad]]s but to encompass an overarching theme during a given age. The first time more roles are introduced is during [[Ages]] III with [[The Hollowing]] of [[Lacrimosa]], and [[Major Actor]]s and [[Minor Actor]]s appear with the cast of all involved roles that vary from protagonists to antagonists. From this point onwards, several [[Major Actor]]s will have play in every [[World Event]].
 

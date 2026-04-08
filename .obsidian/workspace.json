@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
+                "file": "Worldbuilding/Mythology/Deities/Auric Aria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Great Harmonic Loom"
+              "title": "Auric Aria"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crusades",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
+                "file": "Worldbuilding/Mythology/Deities/Auric Aria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Great Harmonic Loom"
+              "title": "Outgoing links from Auric Aria"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
+                "file": "Worldbuilding/Mythology/Deities/Auric Aria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Great Harmonic Loom"
+              "title": "Backlinks for Auric Aria"
             }
           },
           {
@@ -192,54 +192,54 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "merged/merged-output-2026-04-08.md",
+    "Worldbuilding/Society/Societal Resources/Foundation/Auric Geometry.md",
+    "Worldbuilding/Mythology/Deities/Parlor of the Moon.md",
+    "merged/merged-output-2026-04-07.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/The Truth of Arcanoria.md",
+    "Worldbuilding/Gateway To Genesis.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 13/Age of The End.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 13/Age of the Hypermage.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Forbidden Objects/Hypermage.md",
+    "Worldbuilding/Events/The Ultimate Weapon.md",
+    "Worldbuilding/Mythology/Deities/Auric Aria.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+    "Formless Father.md",
+    "Worldbuilding/Society/Stellar Legacy/Stardust.md",
+    "Silver Blood.md",
+    "Analytical.md",
+    "Clarity of Infinite Light.md",
+    "Classical Age.md",
+    "Delusional.md",
+    "README.md",
+    "Worldbuilding/Society/Tools & Inventions/Resonance Box.md",
+    "Worldbuilding/Society/Tools & Inventions/Mirrorbox Trap.md",
+    "Worldbuilding/Society/Characters/Ages 5/Cadmus Tacet.md",
+    "Worldbuilding/Mythology/Deities/Lacrimosa.md",
+    "Worldbuilding/Rise & Fall, Crisis/Crisis/A Pact of a Thousand-Eyes.md",
+    "Worldbuilding/Mythology/Deities/Outer God.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Atonalis",
+    "merged",
     "Great Harmonic Loom-1.png",
     "Great Harmonic Loom.png",
-    "Worldbuilding/Origin of Magic/The Principles of Magic.md",
     "The Principles of Magic.png",
-    "Worldbuilding/Origin of Magic/Spellweaving/Spellweaving.md",
     "Spellweaving.png",
-    "Worldbuilding/Society/Characters/Ages 4/Syvanth.md",
-    "Worldbuilding/Society/Stellar Legacy/Great Spellweaver.md",
     "Great Spellweaver.png",
-    "Worldbuilding/Origin of Magic/The One Symphony/Trinity Harmony.md",
     "Trinity Harmony.png",
-    "Worldbuilding/Origin of Magic/Magical Resources/Lunehymn.md",
     "Lunehymn.png",
-    "Worldbuilding/Events/World Events/The Hollowing.md",
     "The Hollowing.png",
-    "Worldbuilding/Gateway To Genesis.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
-    "Worldbuilding/Society/Auric Order/Age of Humanity.md",
-    "merged/merged-output-2026-03-21.md",
-    "Clarity of Infinite Light.md",
-    "Worldbuilding/Society/Characters/Ages 0/Vaelia.md",
     "Worldbuilding/Society/Characters/Ages 0",
-    "Analytical.md",
-    "Worldbuilding/Society/Characters/Ages 5/Cadmus Tacet.md",
-    "Worldbuilding/Society/Characters/Ages 3/Luminaire.md",
-    "Worldbuilding/Mythology/Deities/Auric Aria.md",
-    "Worldbuilding/Origin of Magic/Root of Evil/Scorching Truth.md",
-    "Worldbuilding/Society/Auric Order/Auric Order.md",
-    "Worldbuilding/Mythology/Deities/Lacrimosa.md",
-    "Worldbuilding/Mythology/Deities/Selenea.md",
-    "Worldbuilding/Society/Characters/The White-Touched Archivist.md",
-    "Worldbuilding/Society/Characters/Skarr Karmelita.md",
-    "Worldbuilding/Society/Characters/Scrap.md",
-    "Worldbuilding/Society/Characters/Gayviene.md",
     "Vaelia-1.png",
     "Vaelia.png",
     "Worldbuilding/Society/Characters/Ages 4",
     "Worldbuilding/Society/Characters/Ages 5",
     "All-Loving Moon.mp4",
     "merged",
-    "Images/Deities/Lacrimosa/All-Loving Moon.png",
     "Worldbuilding/Truths, Chaos, Rituals/Old Testament",
     "Game Systems/Derivative Ideas",
     "Worldbuilding/Mythology/Deific Moodboard.canvas",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
     "Images/Deities/Auric Aria/Auric Aria.mp4",
-    "Images/Auric Order",
-    "Images/Deities/Lacrimosa/Lacrimosa.mp4",
     "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas"
   ]
 }

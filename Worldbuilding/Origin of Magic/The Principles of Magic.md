@@ -54,7 +54,7 @@ To weave a flawless thread is to strike a note pure, clean, and uncaught with st
 
 #### [[Emotional Authenticity]] - Emotional Truth and Vulnerability
 
-*Third Auric Thread of Thermodynamics*
+*Third Auric Thread of Thermodynamics and First Half of Quantum Physics*
 Attuned Element [[Flux]]. (Water + Currents)
 
 To touch the fabric of reality, one must be true to the wellspring of feeling within. Emotion flows like water and wind — unseen yet shaping all that breathes. Magic is born from honest expression.
@@ -93,7 +93,7 @@ Fire is the breath that keeps the notes alive, wind is the unseen flow that hold
 
 #### [[Absolute Certainty]] - Vision, Imagination and Conviction
 
-*Sixth Auric Thread of Quantum Collapse*
+*Sixth Auric Thread of Quantum Collapse and Second Half of Quantum Physics*
 Attuned Element [[Crystal]]. (Prisms + Structure)
 
 Nothing steps into existence without first taking shape within the mind's eye. A vision unseen cannot bloom. Only if it can be visualized can it exist. What you can't imagine happening cannot come to be.
@@ -118,7 +118,7 @@ W
 *"A leitmotif by itself is simple, but when it carries weight and history, it is masterful."*
 
 ### The Dynamics of [[Spellweaving]]
-[[Great Harmonic Loom]]
+
 _"The ultimate key to power let the self resonate with the universe so perfectly that chaos has no choice but to submit to your song."_
 
 ![[The Principles of Magic.png]]

@@ -11,6 +11,6 @@ Most of the magic in this age has been lost and there's only instinctive calling
 
 [[Ornament]]s are completely unavailable in this age, and the only known rhythm tempo is staccato although most [[Spellweaver]]s are unaware of the presence of rhythmic elements for magic.
 
-The point of this era is to survive through the wasteland and find solace in fleeting communities. Most of the world became no man's land and all major empires, borders, and cultures are erased from history leaving only remnants behind. The gathering of magic elements usually comes in the shape of [[Old World Relics]] with sparse lookout towers sending explorers to the nearby areas.
+The point of this era is to survive through the wasteland and find solace in fleeting communities. Most of the world became no man's land and all major empires, borders, and cultures are erased from history leaving only remnants behind. The gathering of magic elements usually comes in the shape of [[Old World Remnants]] with sparse lookout towers sending explorers to the nearby areas.
 
 The [[Age Crisis]] is [[The Inescapable Hunger]]. It's the result from the sudden growth of population reaching unsustainable growth levels given the conditions of the era and the lack of technologies to support through magic enhanced irrigation and harvesting systems. The core concept is to survive this first famine, it always leads to the [[Age of Renewal]] regardless of the success, the only difference between handling properly or poorly the famine is the amount of people surviving through it.

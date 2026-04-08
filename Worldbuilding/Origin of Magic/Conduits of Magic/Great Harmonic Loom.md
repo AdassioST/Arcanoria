@@ -2,7 +2,7 @@
 
 ![[Great Harmonic Loom.png]]
 
-An enormous construct suspended between the physicality of [[Arcanoria]], the mortal realm, and the sea of cosmic void. The structure was woven by the [[Auric Aria]] during the [[Second Cycle]] as the magical framework for channeling [[Resonance]] and giving structure to [[Consciousness]]. This vast weave and [[Flux]]-vibrational membrane spreads through [[Arcanoria]]'s upper atmosphere, fifteen to twenty-five leagues above the surface, where it stratifies not by temperature or wind, but by [[Vibrational Density]] — the measure of how tightly reality's threads maintain their harmonic integrity.
+An enormous construct suspended between the physicality of [[Arcanoria]], the mortal realm, and the sea of cosmic void. The structure was woven by the [[Auric Aria]] during the [[Second Cycle]] as the magical framework for channeling [[Resonance]] and giving structure to [[Consciousness]]. This vast weave and [[Flux]]-vibrational membrane spreads through [[Arcanoria]]'s upper atmosphere, fifteen to twenty-five leagues above the surface, where it stratifies not by temperature or wind, but by [[Vibrational Density]] — the measure of how tightly reality's threads maintain their harmonic integrity. [[Syvanth]]
 
 ### The Architecture of Harmonized Reality
 

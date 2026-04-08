@@ -1,6 +1,6 @@
 Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 13, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]].
 
-All [[Ages]] have branching logic depending on the [[Age Crisis]] triggered from certain checks of resources, population, crisis technology, etc. Based on what the player has done during that age, their era score, the [[Age Crisis]] resolution, and certain focus missions, they will enter a [[Golden Age]], a [[Dark Age]] or a [[Standard Age]].
+All [[Ages]] have branching logic depending on the [[Age Crisis]] triggered from certain checks of resources, population, crisis technology, etc. Based on what the player has done during that age, their era score, the [[Age Crisis]] resolution, and certain focus missions, they will enter a [[Golden Age]], a [[Dark Age]] or a [[Classical Age]].
 
 The diagram of all [[Ages]] is the following:
 
@@ -11,7 +11,7 @@ Excess [[Era Score]] above the required for a [[Golden Age]] becomes points that
 Fractured [[Arcanoria]] after a [[Cataclysmic Aftermath]].
 Flickering Staccato Rhythm. Primitive [[Unison]] Spells. Mostly [[Minor Note]] magic.
 
-- [[Age of Desolation]]: ([[Age Crisis]]: [[The Inescapable Hunger]]) | Dark Fantasy
+- [[Age of Desolation]] | Not Aligned with [[Pillars]] ([[Age Crisis]]: [[The Inescapable Hunger]]) | Dark Fantasy
 
 The [[Age Crisis]] teaches that there are [[Civilization]] changing events at the end of all [[Ages]].
 
@@ -23,10 +23,10 @@ Healing from the [[Cataclysmic Aftermath]] fallout.
 Introducing Legato. First Stable [[Unison]]. Introducing [[Major Note]]s, and sparse [[Dyad Chord]]s Magic.
 
 [[Ages]]:
-- [[Age of Renewal]] ([[Age Crisis]]: [[Great Plague]] of Euphoria) | Dark Fantasy
-- [[Age of Hymns]] (Attainable after learning [[The Truth of Arcanoria]] after the [[Cataclysmic Aftermath]] of the [[Second Reset]]) | Dark Fantasy
+- [[Age of Renewal]] | Not Aligned with [[Pillars]] ([[Age Crisis]]: [[Great Plague]] of Euphoria) | Dark Fantasy
+- [[Age of Hymns]] | [[Waltz Pillar]] (Attainable after learning [[The Truth of Arcanoria]] after the [[Cataclysmic Aftermath]] of the [[Second Reset]]) | Dark Fantasy
 
-The [[Age Crisis]] teaches that [[Civilization]] can fail and the resolution of the [[Cataclysmic Aftermath]] leads to a different [[Golden Age]], [[Standard Age]], or [[Dark Age]] from the survivors.
+The [[Age Crisis]] teaches that [[Civilization]] can fail and the resolution of the [[Cataclysmic Aftermath]] leads to a different [[Golden Age]], [[Classical Age]], or [[Dark Age]] from the survivors. [[Velvet Nectar]]
 
 _You can fail an [[Age Crisis]]._
 
@@ -40,9 +40,9 @@ The [[Age Crisis]] is variations of the start of [[The Hollowing]], [[A Pact of 
 The [[Age Crisis]] teaches that there's more than one [[Age Crisis]] possible, and the paths of [[World Event]]s have variation depending on the resolution. If the [[Civilization]] loses to [[Lacrimosa]] they become the "villain" as one of the satellites supporting [[The Hollowing]] during the [[Age of the False Messiah]]. It proves [[Civilization]] is not static and there is no "correct" route to development.
 
 [[Ages]]:
-- [[Age of Behemoths]] ([[Golden Age]]) | Light Fae Fantasy
-- [[Age of Glyphs]] ([[Standard Age]]) | High Fantasy
-- [[Age of Embers]] ([[Dark Age]]) | Dark Fantasy
+- [[Age of Behemoths]] | [[Chorus Pillar]] ([[Golden Age]]) | Light Fae Fantasy
+- [[Age of Glyphs]] | [[Regalia Pillar]] ([[Classical Age]]) | High Fantasy
+- [[Age of Embers]] | [[Waltz Pillar]] ([[Dark Age]]) | Dark Fantasy
 
 The [[Age Crisis]] teaches that [[Civilization]] can trigger different types of [[Age Crisis]] based on their involvement with the triggers during the [[Ages]]. [[World Event]]s have different manifestations, they're not always the same [[Age Crisis]].
 
@@ -63,10 +63,10 @@ The [[Age Crisis]] is variations of end of [[The Hollowing]], [[Opposing the Hea
 The [[Age Crisis]] teaches that there's different roles [[Civilization]] can take in [[World Event]]s and [[Age Crisis]].
 
 [[Ages]]:
-- [[Age of Legends]] ([[Golden Age]]) | Epic Fantasy (Frieren's Flamme Mythical Mages)
-- [[Age of the Seven Threads]] ([[Standard Age]]) | Mythic Fantasy (Wuxia)
-- [[Age of Silk]] ([[Standard Age]]) | Dark Fantasy
-- [[Age of the False Messiah]] ([[Dark Age]]) | Horror Fantasy (First [[Outer God]] intrusion)
+- [[Age of Legends]] | [[Aureus Pillar]] ([[Golden Age]]) | Epic Fantasy (Frieren's Flamme Mythical Mages)
+- [[Age of the Seven Threads]] | [[Regalia Pillar]] ([[Classical Age]]) | Mythic Fantasy (Wuxia)
+- [[Age of Silk]] ([[Classical Age]]) | [[Waltz Pillar]] Dark Fantasy
+- [[Age of the False Messiah]] | [[Chorus Pillar]] + [[Waltz Pillar]] ([[Dark Age]]) | Horror Fantasy (First [[Outer God]] intrusion)
 
 The [[Age Crisis]] teaches that [[Civilization]] can participate as a [[Major Actor]] or a [[Minor Actor]] in [[World Event]]s, and that they can pick whichever side they decide on the conflict.
 
@@ -84,10 +84,10 @@ Introducing Polyrhythms. Basic [[Triad Chord]]s. [[Dyad Chord]] Primacy. [[Uniso
 Starting point of Advanced Magic.
 
 [[Ages]]:
-- [[Age of Bells]] ([[Golden Age]]) | Light Fantasy
-- [[Age of Archways]] ([[Standard Age]]) | Adventure Fantasy (Frieren & Isekai)
-- [[Age of Wayfarers]] ([[Standard Age]]) | Mythic Fantasy (Xianxia)
-- [[Age of Candles]] ([[Dark Age]]) | Dark Fantasy
+- [[Age of Bells]] | [[Aureus Pillar]] + [[Waltz Pillar]] ([[Golden Age]]) | Light Fantasy
+- [[Age of Archways]] | Not Aligned in [[Pillars]] ([[Classical Age]]) | Adventure Fantasy (Frieren & Isekai)
+- [[Age of Wayfarers]] | Not Aligned in [[Pillars]] ([[Classical Age]]) | Mythic Fantasy (Xianxia)
+- [[Age of Candles]] | [[Aureus Pillar]] ([[Dark Age]]) | Dark Fantasy
 
 _There is more than a single [[World Event]] for an [[Age Crisis]].
 
@@ -110,17 +110,21 @@ _First Diplomatic Heavy Mechanics, Starting Espionage Organisms, Border Skirmish
 Advanced Polyrhythms. Advanced [[Triad Chord]]s. [[Dyad Chord]] Mastery. [[Unison]] Mastery. Advanced [[Ornament]]al Magic Development.
 
 [[Ages]]:
-- [[Age of the Sacred Cross]] ([[Golden Age]]) | Dark Fantasy
-- [[Age of Spirit Petals]] ([[Golden Age]]) | Mythic Fantasy (Wuxia)
-- [[Age of Crowns]] ([[Standard Age]]) | High Fantasy
-- [[Age of Covens]] ([[Standard Age]]) | Dark Fantasy
-- [[Age of Horrors]] ([[Dark Age]]) | Horror Fantasy
+- [[Age of the Sacred Cross]] ([[Golden Age]]) | [[Regalia Pillar]] + [[Aureus Pillar]] | Dark Fantasy
+- [[Age of Spirit Petals]] ([[Golden Age]]) | [[Chorus Pillar]] | Mythic Fantasy (Wuxia)
+- [[Age of Crowns]] ([[Classical Age]]) | Not Aligned in [[Pillars]]  | High Fantasy
+- [[Age of Covens]] ([[Classical Age]]) | [[Regalia Pillar]] + [[Chorus Pillar]] | Dark Fantasy
+- [[Age of Horrors]] ([[Dark Age]]) | [[Chorus Pillar]] | Horror Fantasy
 
 _Even if there's multiple [[World Event]]s, they can still converge as [[Age Crisis]] with several [[Major Actor]]s. Each with their own agenda and means of survival._
 
-The [[Age Crisis]] teaches that all [[Major Actor]]s have their own agenda, and even if there's multiple [[World Event]]s they can still converge as the [[Age Crisis]] that has multiple conflicting factions fighting for their own agenda and survival.
+The [[Age Crisis]] teaches that all [[Major Actor]]s have their own agenda, and even if there's multiple [[World Event]]s they can still converge as the [[Age Crisis]] that has multiple conflicting factions fighting for their own agenda and survival. This is demonstrated by 3 different [[World Event]] [[Age Crisis]] running on parallel that will intersect and complicate during the crusades. 
 
-Development of surgery on [[Pure Light]] beings by [[Cadmus Tacet]], he's cruel but does necessary advancements, inspired by Pasteur. He coins the term Age of [[Humanity]].
+First [[Chorus Pillar]] vs [[Aureus Pillar]], then the internal divide between them will splinter factions of [[Regalia Pillar]] and [[Waltz Pillar]], having effectively at least 4 major players. One of these factions will invoke any of the 4 available [[Outer God]]s ([[Dark Forest Paradox]], [[Formless Father]], [[Subduing Hate]], or EVO) The default is [[Formless Father]], and it signals the beginning of the apocalypse with the [[World Event]] of his [[Flesh-Exalting Transcendence]] of "[[The Severing of the Union]]." Furthermore, the first [[Velvet Nectar]] will inevitable collapse the Velvet Cage into [[Atonalis Nest]]s that join the chaos and the regions under the [[Age of Horrors]] will be prime ground for becoming "no man's land." The map will be divided into many factions ongoing between the crusades, the [[Atonalis]], the increasing [[Age of Horrors]], the invoked [[Outer God]] apocalypse, and only one can survive the entire battle royale with the [[Legend]] of making a wish on the Holy Grail, [[The Ultimate Weapon]].
+
+Development of surgery on [[Pure Light]] beings by [[Cadmus Tacet]], he's cruel but does necessary advancements, inspired by Pasteur. He coins the term Age of [[Humanity]] and is a major actor during the battle royale, especially when dragons and demi dragons become involved in the chaos. It becomes a fight of both a magical, political, and technological race of superweapons and ways to counter act them.
+
+Tragically, this war for the Holy Grail is not a path to victory; it is a cosmic reset button, and the factions are fighting to the death just to pull the plug on their own existence. While they are unable to get to [[The Ultimate Weapon]], the winner will be awarded one of the [[World-Bending Relics]], and the fixation with [[The Ultimate Weapon]] becomes the end point of the next [[Ages]] that devolve into the [[Polychord Crisis]] after a final crusade begins and ends with the firing of [[Primal White Noise]].
 
 ### Age VI (High Medieval)
 
@@ -132,11 +136,11 @@ All rhythm types available. First Unstable [[Tetrad Chord]]s. [[Triad Chord]] Pr
 Starting point of Mastery of Magic.
 
 [[Ages]]:
-- [[Age of Golden Roses]] ([[Golden Age]]) | Dark Fantasy
-- [[Age of Torn Banners]] ([[Standard Age]]) | Mythic Fantasy (Sengoku)
-- [[Age of High Courts]] ([[Standard Age]]) | High Fantasy
-- [[Age of Vessels]] ([[Dark Age]]) | Horror Fantasy
-- [[Age of Auroral Ribbons]] ([[Dark Age]]) | Dark Fantasy
+- [[Age of Golden Roses]] ([[Golden Age]]) | [[Waltz Pillar]] + [[Aureus Pillar]] | Dark Fantasy
+- [[Age of Torn Banners]] ([[Classical Age]]) | [[Regalia Pillar]] | Mythic Fantasy (Sengoku)
+- [[Age of High Courts]] ([[Classical Age]]) | [[Regalia Pillar]] | High Fantasy
+- [[Age of Vessels]] ([[Dark Age]]) | [[Waltz Pillar]] | Horror Fantasy
+- [[Age of Auroral Ribbons]] ([[Dark Age]]) | [[Chorus Pillar]] | Dark Fantasy
 
 _[[Age Crisis]] can end [[Civilization]] and lead to a [[Civilization Reset]]._
 
@@ -151,51 +155,54 @@ The [[Polychord Crisis]] is going to be the AC, BC of the game. After [[Polychor
 Transition towards colonialism, mercantilism, and discovery of the world.
 
 [[Ages]]:
-- [[Age of Mirrors]] ([[Golden Age]]) | Dark Fantasy
-- [[Age of Sacred Prohibition]] ([[Standard Age]]) | Low Fantasy
-- [[Age of Alchemy]] ([[Standard Age]]) | Science Fantasy
-- [[Age of Blood]] ([[Dark Age]]) | Horror Fantasy
+- [[Age of Mirrors]] ([[Golden Age]]) | [[Aureus Pillar]] | Dark Fantasy
+- [[Age of Sacred Prohibition]] ([[Classical Age]]) | [[Chorus Pillar]] + [[Waltz Pillar]] | Low Fantasy
+- [[Age of Alchemy]] ([[Classical Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Science Fantasy
+- [[Age of Blood]] ([[Dark Age]]) | [[Regalia Pillar]] | Horror Fantasy
 
 ### Age VIII (Reformation & Revolution)
 
-- [[Age of Auric Radiance]] ([[Golden Age]]) | Light Fantasy
-- [[Age of Enlightenment]] ([[Standard Age]]) | High Fantasy
-- [[Age of Silence]] ([[Dark Age]]) | Dark Fantasy
-- [[Age of the Debt of Flesh]] ([[Dark Age]]) | Horror Fantasy
+- [[Age of Auric Radiance]] ([[Golden Age]]) | [[Aureus Pillar]] + [[Regalia Pillar]] | Light Fantasy
+- [[Age of Enlightenment]] ([[Classical Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | High Fantasy
+- [[Age of Silence]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Waltz Pillar]] | Dark Fantasy
+- [[Age of the Debt of Flesh]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Regalia Pillar]] |Horror Fantasy
 
 ### Age IX (Industrial Era)
 
 Second "Age of [[Humanity]]."
 
-- [[Age of Invention]] ([[Standard Age]]) | Early Steampunk
-- [[Age of Sealing Iron]] ([[Dark Age]]) | Dark Fae Fantasy
-- [[Age of Velvet Elegance]] ([[Dark Age]]) | Dystopian Fantasy
+- [[Age of Invention]] ([[Classical Age]]) | [[Aureus Pillar]] | Early Steampunk
+- [[Age of Sealing Iron]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Dark Fae Fantasy
+- [[Age of Velvet Elegance]] ([[Dark Age]]) | [[Regalia Pillar]] + [[Chorus Pillar]] | Dystopian Fantasy
 
 ### Age X (Machine Age)
 
-- [[Age of Clockwork]] ([[Golden Age]]) | Steampunk
-- [[Age of Chimeras]] ([[Dark Age]]) | Horror Fantasy
+- [[Age of Clockwork]] ([[Golden Age]]) | [[Waltz Pillar]] | Steampunk
+- [[Age of Chimeras]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Horror Fantasy
 
 ### Age XI (Atomic, World Wars & Information Era)
 
 Third "Age of [[Humanity]]."
 
-- [[Age of Starlight]] ([[Golden Age]]) | Magical Girls
+- [[Age of Starlight]] ([[Golden Age]]) | [[Regalia Pillar]] | Magical Girls
 
 **Second [[Civilization Reset]] with MAD
 
 ### Age XII (Near Future Era)
 
-- [[Age of Arcology]] ([[Golden Age]]) | Urban Fantasy
-- [[Age of Holography]] ([[Standard Age]]) | Space Fantasy
-- [[Age of Simulations]] ([[Dark Age]]) | Digital Fantasy
+- [[Age of Arcology]] ([[Golden Age]]) | [[Waltz Pillar]] + [[Chorus Pillar]] | Urban Fantasy
+- [[Age of Holography]] ([[Classical Age]]) | [[Aureus Pillar]] | Space Fantasy
+- [[Age of Simulations]] ([[Dark Age]]) | [[Regalia Pillar]] | Digital Fantasy
 
 ### Age XIII (Sci-Fi Era)
 
-- [[Age of the Hypermage]] ([[Dark Age]]) | Horror / Space Fantasy
-- [[Age of False Moons]] ([[Dark Age]]) | Dystopian Fantasy
-- [[Age of Singularity]] ([[Dark Age]]) | Space Fantasy
-- [[Age of The End]] (Secret Age) | Space Fantasy
+- [[Age of the Hypermage]] ([[Dark Age]]) | [[Waltz Pillar]] + [[Aureus Pillar]] | Horror / Space Fantasy
+- [[Age of False Moons]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Regalia Pillar]] | Dystopian Fantasy
+- [[Age of Singularity]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Regalia Pillar]] | Space Fantasy
+
+### Age XIV (The Terminal Age)
+
+- [[Age of The End]] (Genesis Age) | Not Aligned with [[Pillars]] | Metaphysical Fantasy
 
 | Age | Mythic Name & Crisis                                                                          | Elements Introduced                                            | Rhythms Introduced | Mechanics & Discovery                                                                     | Foreshadowing                                            | “WOW” Moment                                                      |
 | --- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------- |

@@ -1,3 +1,5 @@
+[[Soul Oscillator]] [[Auric Chimes]]
+
 [[Lacrimosa]]'s right hand, the most pious cultist, first wing of the [[Eight-Wings of Lacrimosa]] and founder of the [[Purest of Love]]. She is a core antagonist that began as a pious follower of the [[Auric Aria]] but then turned to create the movement of the pilgrims of the [[Auroral Ribbons]].
 
 Struggles with finding meaning in chaos, and societal collapse: _"There has to be a meaning for all of these deaths. For all of my suffering too, I don't know the explanation but I trust that it is plan of the divine."_

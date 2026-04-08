@@ -1,0 +1,5 @@
+#technology
+
+A type of technology similar to [[Mirrorbox Trap]], that precedes all of the invention of speakers and recorders, it is built from [[Resonance Glass]]. It is the most basic type of [[Soul-Casing]], and has a clear indicator from [[Crystal]] pink when the [[Resonance Box]] is vacant and a hue of [[Resonance]] teal green when it has a sound contained within. 
+
+It is useful for all [[Resonance]] [[Spellweaver]]s, and is a necessary tool for all [[Regalia Pillar]] soloists and [[Dance]]rs to provide additional instruments like percussion, bass, or the music itself. They require mastery of [[Crystal]] and [[Resonance]] to use properly. It is available at the very beginning of [[Ages]] 0 but the technology evolves across the [[Ages]] as they become recording devices with magical properties with the introduction of the [[Law of Relics]].

@@ -220,7 +220,7 @@ The trigger lies in the advancement of technology regarding [[Auroral Ribbons]],
 
 The storyline leads to the eventual hollowness of [[Humanity]] and climatic revelation of the presence of [[Outer God]]s despite the policy of [[Auric Aria]] of [[The One True God]]. She can be contacted as early as [[Ages]] 0 through the [[Auroral Ribbons]] but will only become an [[Age Crisis]] on the transition of [[Ages]] II.
 
-### The [[Flesh-Binding Ritual]]s, [[A Pact of a Thousand-Eyes]].
+### The [[Flesh-Exalting Transcendence]], [[A Pact of a Thousand-Eyes]].
 
 _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide isn’t ambition. It’s intimacy. Her mass hollowing isn’t hatred. It’s mercy. Her mimicry isn’t deception. It’s addiction to belonging. That's why she's so dangerous. The acts of truth and mercy are not a lie but a very seductive truth. You must be insanely careful not to thread on her path, I wouldn't dare to do so myself." - Elite Scholar_
 
@@ -301,7 +301,7 @@ After the ritual finalizes, and the first hollowed vessel of [[The Hollowing]] s
 - The loss of her identity and her fantasy awaken her [[Void]] [[Soul Leitmotif]] from the total collapse of her [[Possessive]] [[Legend Trait]].
 - **[[Betrayal of the Moon]]**: Critical turning point — envy of being treasured enough to be used. First descent into madness.
 - **Fantasy Perversion**: From "creating together" to "being bound for her to matter." From "Poor [[Selenea]], she was used" to "It should have been me the one betrayed." Deeply Intensifying obsession for the [[Auric Aria]] and her [[Possessive]] [[Legend Trait]] to her core personality.
-- **[[Eighth Cycle]] Break**: Not just retreat, but complete psychological collapse. Ironically, her only creative act is leakage, not intention from the overflow of denied emotion. Mirrors the abandonment of the [[Auric Aria]] after the [[The Auric Aria's Sacrifice]] in the [[Lost Cycle]].
+- **[[Eighth Cycle]] Break**: Not just retreat, but complete psychological collapse. Ironically, her only creative act is leakage, not intention from the overflow of denied emotion. Mirrors the abandonment of the [[Auric Aria]] after the [[The Auric Aria's Suicide]] in the [[Lost Cycle]].
 
 **Phase 5: The Accidental Link and the Reluctant Messiah (Purification of the [[Auroral Ribbons]] after Catastrophe -> Born from Need → First Recognition)**
 
@@ -402,7 +402,7 @@ This [[Resonance]] [[Motif Awakening]] is a devastating scene caused by [[Lacrim
 
 Although [[Lacrimosa]]’s defining native personality core is her perfect "clarity of perspective", her understanding of the [[Auric Aria]] is built entirely on outdated information. This fatal lack of context regarding the [[Old Testament]] and the [[Lost Cycle]] causes [[Lacrimosa]] to completely misinterpret the [[Auric Aria]]'s silence, plunging her into the ultimate crisis of self-worth:
 
-- **The [[Eighth Cycle]] & The [[Lost Cycle]]:** She missed the [[Auric Aria]] descending into a mortal body, feeling the agony of the "[[Inevitability of Death]]," and committing suicide out of remorse. She also missed the subsequent "[[Lost Cycle]]," where the [[Auric Aria]] withdrew into silence out of guilt due to the [[Weight of Flaw]] and her realization during [[The Auric Aria's Sacrifice]], leaving humanity to nearly perish in a godless world.
+- **The [[Eighth Cycle]] & The [[Lost Cycle]]:** She missed the [[Auric Aria]] descending into a mortal body, feeling the agony of the "[[Inevitability of Death]]," and committing suicide out of remorse. She also missed the subsequent "[[Lost Cycle]]," where the [[Auric Aria]] withdrew into silence out of guilt due to the [[Weight of Flaw]] and her realization during [[The Auric Aria's Suicide]], leaving humanity to nearly perish in a godless world.
 
 - **The [[Old Testament]] & The [[First Reset]]:** Most crucially, [[Lacrimosa]] missed the [[Auric Aria]]'s return and the deletion of the first timeline. Driven by the desperate prayers of survivors, and the effects of the other [[Outer God]]s that preyed on them. The [[Auric Aria]] overcompensated to become the protective mother of her creations, and accidentally became a tyrannical, hyper-controlling deity ("[[The One True God]]"). She formed the dogmatic [[Auric Order]], personally directed [[Humanity]], and executed violent purges known as the [[Genocides of the Auric Aria]]. While some were justified, they were still impossibly cruel and a deep scar of divine fear (such as the devastation of the [[Library of Heaven's Tower]]). Tragically, the [[Auric Aria]]'s tyrannical control ultimately bred disaster, culminating in the first [[Polychord Crisis]] and the [[Cataclysmic Aftermath]] of the [[Great Fracture]].
 

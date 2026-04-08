@@ -18,4 +18,4 @@ Depending on the [[Ages]] some [[Memory Field]]s appear in [[Arcanoria]] as spec
 
 - Unnamed Harbor: The ruined version of [[Lune Shallow]] after [[A Pact of a Thousand-Eyes]] has been completed and [[The Hollowing]] begins. It contains the story of [[Mira]] and the [[Ballad]] of the Girl Left Behind.
 
-- [[The Silent Expanse]] Epicenter: Atop the cliff where [[The Auric Aria's Sacrifice]] happened in the first field of [[Forsaken Flower]]s. It contains the story of the [[Eighth Cycle]] and the truth about the [[Auric Aria]] descent.
+- [[The Silent Expanse]] Epicenter: Atop the cliff where [[The Auric Aria's Suicide]] happened in the first field of [[Forsaken Flower]]s. It contains the story of the [[Eighth Cycle]] and the truth about the [[Auric Aria]] descent.

@@ -1,5 +1,6 @@
- 
+
 **Dark Fantasy • 4X • Incremental Strategy • Clicker + RTS hybrid**
+
 _Compose the score and myth of your [[Civilization]]._
 _Weave your destiny in [[The Eternal Symphony]] of [[Arcanoria]]._
 
@@ -47,7 +48,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 ### 🎭World Building
 
 - [[True Mythos of Creation]].
-- [[Auric Aria]], [[Selenea]], and [[Lacrimosa]].
+- [[Auric Aria]] _Omnipotence without Omniscience_, [[Lacrimosa]] _Omniscience without Omnipotence_, [[Selenea]] _Omnipresence without either of the other two. And the three of them have profound empathy and feelings._
 - The Realm of [[Arcanoria]], [[Civilization]] and [[Enclave]]s.
 - [[Ages]], the [[Great Fracture]], and [[Age Crisis]] [[Cataclysmic Aftermath]]s.
 - [[World Event]]s, the [[Fate Stage]], [[Story Affinity]] and [[Ballad]]s.
@@ -60,15 +61,18 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 - **Structure ([[Auric Aria]]) vs. Essence/Vitality ([[Selenea]]).** This is the duality of the [[Click Power]] [[Vital Resources]] vs [[Building Materials]]. [[Pure Light]] vs [[Auric Structure]].
 - [[Eight-Born Paths]], [[Formless Masses]], [[Atonalis]] and [[Primal Discordia]].
 - [[In-Depth Character Analysis of Divinity]].
+- [[The Truth of Arcanoria]] and [[Pillars]]. [[Age of The End]]
 
 ### Backlog Ideas
 
 - [[Franchise Potential]].
 - Spiritual traces as residual [[Pure Light]] related to [[Strand]]. (?)
-- Starting the game is the [[Original Ripple]]. The player is the "kinetic energy" required to pluck [[The Eternal Symphony]] into motion. This is visible as the open-sequence of starting a new game. We are the third actor setting the universe into motion. The reason for the "Big Bang."
+
 - Preconception the Movie as a reference for an intersex [[Outer God]] that gets pregnant with itself and its son is the god. It causes a [[Time Bubble]], a paradox where it is both the son, the mother, and the father in an infinite ouroboros cycle.
 - Brobola creature.
-
+- [[Lux Aeterna]] is what [[Lacrimosa]] uses to hollow out [[Consciousness]], it essentially hits the exact opposite wave of the part of [[Consciousness]] to neutralize it. Noise cancelling made for the soul.
+- [[Eyras]] obtains his [[Resonance]] [[Motif Awakening]] after confronting and slaying his mother while being reassured by his new found family that it's okay to let go.
+- [[Strand]] increases constructive interference because the [[Resonance]] increases as the two or more people "already know the same song of the soul."
 - A [[Dyad Chord]] of [[Flux]] and [[Resonance]] to create [[Coherence]] zones as "safety zone shields" in places of high [[Dissonance]] through the application of Faraday Waves into the [[Great Harmonic Loom]]'s [[Flux]] membrane. It could also be used to achieve temporary states of [[Superposed Resonance]] by vibrating the [[Flux]] in the [[Great Harmonic Loom]]. Also useful for decontaminating [[Vibrational Fallout]].
 
 - "If the world won't be kind, I will build my own." Character.

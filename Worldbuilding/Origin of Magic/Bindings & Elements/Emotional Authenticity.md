@@ -1,6 +1,6 @@
 #spellweaving
 #### *Emotional Truth and Vulnerability
-Third Auric Thread of Thermodynamics*
+Third Auric Thread of Thermodynamics and First Half of Quantum Physics*
 
 **Core Axis | THE FEELING - WHAT DO I FEEL?**
 

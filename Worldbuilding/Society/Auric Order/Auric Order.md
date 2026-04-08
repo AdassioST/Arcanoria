@@ -8,7 +8,7 @@ The [[Auric Order]] establishes theological virtues as tenets to faith that dire
 
 - [[Piety]]: Faith as fidelity to self and understanding of the divine through the lens of the individual, it is the theological virtue of [[Resonance]].
 
-- Revelation: Perception of reality and seeking of truth as the divine mechanisms of the cosmos and of theodicy itself, it is the theological virtue of [[Luminance]].
+- Revelation: Perception of reality and seeking of truth as the divine mechanisms of the cosmos and of theodicy itself, it is the theological virtue of [[Luminance]]. _The universe is both intelligible and beautiful, understanding and feeling are the same act, to know a thing is to resonate with it._
 
 - Contrition: Honest self-offering as means to alter reality, it is the theological virtue of [[Flux]].
 

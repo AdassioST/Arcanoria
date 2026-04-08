@@ -5,7 +5,7 @@
 
 Is Aria complicated? Not in the way most characters are complicated—not because she contains contradictions, but because **the structure of her existence makes contradictions inevitable and unresolvable.**
 
-She is so complicated that she embodies a philosophical paradox. Understanding her requires holding two truths simultaneously: she is genuinely good, and she nearly destroys the world. Both are true. Neither cancels the other. There is no resolution.
+She is so complicated that she embodies a philosophical paradox. Understanding her requires holding two truths simultaneously: she is genuinely good, and she nearly destroys the world through genocides that are both justified and a defense mechanism of her ego. Both are true. Neither cancels the other. There is no resolution and there is no clean way out even with the best of intentions.
 
 ## The Dual Truth: Goodness and Destruction Are the Same Movement
 
@@ -641,7 +641,6 @@ That is not just complicated.
   
 
 That is Aria.
-
 # Aria's Mirror: Why She Is Not Becoming Lacrimosa, And Why That Matters
 
 ## The Devastating Observation You've Made

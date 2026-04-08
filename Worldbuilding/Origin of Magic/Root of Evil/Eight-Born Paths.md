@@ -28,6 +28,8 @@ Feeds on: Fear, dread, anxious anticipation, paranoid certainty.
 
 [[Primal Discordia]]: The Shrieking Sentinel.
 
+Motto: DO NOT LET FEAR IN YOU, THEY ARE MORE SCARED THAN YOU ARE.
+
 **Path II: [[Discant]] - The Oscillating Affect (15.5%)**
 
 **Core Wound**: [[Consciousness]] emotional frequency cannot stabilize; peaks and troughs without rhythm. The [[Atonalis]] experiences mood swings by distinct episodes of elevated moods and depression in a weaponized emotional state.
@@ -41,6 +43,8 @@ Feeds on: Emotional chaos, cascading mood disturbances, despair.
 **Behavior:** Spreads despondency through communities like plague. Does not kill; corrupts. Poisons the harmonic frequencies of feeling itself.
 
 [[Primal Discordia]]: The Discord Weaver. (Ying Yang)
+
+Motto: DO NOT ENGAGE WITH ANY LINGERING WOUND THEY CAN EXPLOIT.
 
 **Path III: [[Obsessian]] - The Compulsive Prisoner (12.0%)**
 
@@ -56,6 +60,8 @@ Feeds on: Intrusive thoughts, obsessive cycles, forced repetition, recursive pat
 
 [[Primal Discordia]]: The [[Looping Paradox]], the [[Time Bubble]] prisoner.
 
+Motto: DO NOT RATIONALIZE, FEEL AND LET YOUR GUTS BYPASS ALL LOGIC.
+
 **Path IV: [[Signath]] - The Shattered Reality (11.5%)**
 
 **Core Wound**: [[Coherence]] cannot assemble; perception splinters across dimensions. The [[Atonalis]] cannot trust their senses. Reality becomes unreliable. Multiple contradictory truths exist simultaneously.
@@ -69,6 +75,8 @@ Feeds on: Reality distortion, perceptual confusion, erosion of epistemic certain
 **Behavior:** Moves across multiple realities; contradicts observer perception. Understands three versions of truth simultaneously — all equally valid. Its attack is related to info hazards as it does not consume but rather dissolves certainty.
 
 [[Primal Discordia]]: The Hollow Pilgrim.
+
+Motto: DO NOT DOUBT YOURSELF, EVEN IF REALITY DOESN'T MAKE SENSE.
 
 **Path V: [[Carnalix]] - The Devouring Body (13.5%)**
 
@@ -85,6 +93,8 @@ Feeds on: Physical suffering, bodily dysfunction, rejected nourishment.
 
 [[Primal Discordia]]: The Corpus Mortuum.
 
+Motto: DO NOT GIVE THEM A SINGLE DROP OF THE BLOOD THEY WANT.
+
 **Path VI: [[Animach]] - The Fractured Self (13.00%)**
 
 **Core Wound**: Unified self cannot cause [[Coherence]]; no stable "I" persists across moments. The [[Atonalis]] becomes fractured — multiple selves competing, no central authority, identity constantly negotiable.
@@ -98,6 +108,8 @@ Feeds on: Identity fracture, conflicting self-concepts, loss of core self
 **Behavior:** Each personality has competing goals; chaotic but effective consensus reached through internal conflict. These [[Atonalis]] often become functional through their fragmentation, leading to denial of the problem.
 
 [[Primal Discordia]]: The Morpheus Abysmal.
+
+Motto: DO NOT LET THEM SPEAK AND NEVER ACKNOWLEDGE THEIR PAIN.
 
 **Path VII: [[Violux]] - The Corrupted Will (13.3%)**
 
@@ -114,6 +126,8 @@ Feeds on: Transgression, loss of agency, the shame that follows unwanted acts.
 
 [[Primal Discordia]]: The Imperium Obsessus.
 
+Motto: DO NOT BUDGE A SINGLE INCH. STAY YOUR GROUND AGAINST THEIR WILL.
+
 **Path VIII: [[Erosyx]] - The Lustful Denied (5.2%)**
 
 **Core Wound**: Identity imposed contradicts internal truth in harm caused by external misassignment; distorted by outside expectation despite resistance. The [[Atonalis]] is forced to inhabit identity that wounds them, marked with false naming, sexuality and a reclused, deviant perversion.
@@ -128,3 +142,5 @@ Feeds on: Identity denial, sexual dysfunction, intimacy twisted by fear and sham
 **Behavior:** Infiltrates human society; performs as a collapse of self through relational distortion in false identity until the revelation moment. Operates through seduction and intimacy rather than force, through affection and longing, creating bonds of love and desire in a fatal trap.
 
 [[Primal Discordia]]: The Wrongly Named.
+
+Motto: DO NOT FACE THEM ALONE UNDER ANY CIRCUMSTANCES.

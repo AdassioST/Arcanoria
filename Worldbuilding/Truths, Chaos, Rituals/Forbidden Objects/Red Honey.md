@@ -1,2 +1,0 @@
-- Memories distilled from someone's [[Consciousness]].
-- It opens the black market for "sacrifice tokens"—memories extracted from others with [[Essence Sacrifice]].

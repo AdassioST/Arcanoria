@@ -1,0 +1,5 @@
+#religion #mechanic
+
+The residual material of liberating a [[Constellation]] into [[The Eternal Symphony]] by liberating their tether to [[Arcanoria]]. This is a core resource for [[Constellation]] [[Syncretism]], and enhancing current [[Constellation]]s. Its primary use is to have the [[Civilization]] release their [[Legend]]s to the peace of the afterlife in [[The Eternal Symphony]], after releasing them, they can't be accessed anymore.
+
+The amount of [[Stardust]] left by a [[Constellation]] on [[Syncretism]] and liberation scales proportionally with the amount of [[Resonance]] they had which is measured by both [[Constellation Renown]], their [[Myth Grade]], and their [[Constellation Worship]]. This act of liberation represents love without possession and is the primary build up to the [[Age of The End]] while simultaneously preventing [[Civilization]] from having too many concurrent [[Constellation]]s.
