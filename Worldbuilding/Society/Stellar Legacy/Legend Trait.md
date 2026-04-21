@@ -22,15 +22,15 @@ The binding score can range from 1 (Terrible) to 30+ (Master Level) and the scor
 
 This being said, it's important to distinguish that the [[Soul Leitmotif]] primary binding and the [[Ornament]]s tend to be the core of a [[Legend]]. It is possible to learn spells using other bindings, but they're much more prone to causing [[Discordant Interference]]. Since a [[Legend]]'s lifetime is limited too, a character is prone and more effective while specializing in only mastering the elements of their [[Soul Leitmotif]], with the occasional introduction of a fourth binding on situational scenarios or to achieve specific conditional spells.
 
-### 1. The Wound - Origin and Physical [[Legend Trait]]s
+### 1. The Wish - Origin and Physical [[Legend Trait]]s
 
-Every [[Legend]] begins broken. The origin [[Legend Trait]]s represent the specific wound that will define their journey. These are not yet personality choices but rather the existential facts of every character's past. It is synchronized with their [[Soul Leitmotif]] and create narrative "goals" of overcoming certain weaknesses and fears. The origin traits aren't only backstories but also conditions which the character has to adapt to, from intelligence, to beauty, to family legacy. Certain traits are beneficial while others are negative. The whole point of a [[Legend]] is to overcome and utilize these traits to drive their growth and narrative.
+Every [[Legend]] begins in the friction of their own [[Fundamental Frequency]] against the encroaching static. The origin [[Legend Trait]]s represent the specific conditions and wish that will define their journey. These origins are not yet personality choices but rather the existential facts of every character's past. It is synchronized with their [[Soul Leitmotif]] and create narrative "goals" of overcoming certain weaknesses and fears. The origin traits aren't only backstories but also conditions which the character has to adapt to, from intelligence, to beauty, to family legacy. Certain traits are beneficial while others are negative. The whole point of a [[Legend]] is to overcome and utilize these traits to drive their growth and narrative.
 
 There are three types of origin [[Legend Trait]]s which can be either advantages or disadvantages at birth, they include physical traits such as beauty, intelligence, or constitution, and also family legacies and ties to a backstory. This provides the framework of how the [[Legend]] is born and the obstacles they have to overcome, a naturally intelligent character will have an easier time learning, while a slow character will have to learn to deal with their lack of intelligence. Thus, the interplay of these [[Legend Trait]]s appears as the following framework:
 
-- [[Dissonance]] Origins: Includes traits that actively harm the character start but pose a bonus of [[Lyrical Fragment]]s when dealing with core issues such as Orphan, which receives [[Fragment of Meaning]] and [[Resonance]] bonus when finding belonging, Sickly, which receives [[Fragment of Defiance]] and [[Cindergale]] bonus when resisting frailty, Exiled, which receives [[Fragment of Rebirth]] and [[Strand]] bonus when reclaiming a place in society. Other traits like Lunatic give a negative to two random elements but it also helps for polyrhythms and chaotic spells, giving a bonus to this specific advanced magic.
+- [[Dissonance]] Origins: Includes traits that actively harm the character start but pose a bonus of [[Lyrical Fragment]]s when dealing with core issues such as Orphan, which receives [[Fragment of Meaning]] and [[Resonance]] bonus when finding belonging, [[Sickly]], which receives [[Fragment of Defiance]] and [[Cindergale]] bonus when resisting frailty, [[Exiled]], which receives [[Fragment of Rebirth]] and [[Strand]] bonus when reclaiming a place in society. Other traits like [[Lunatic]] give a negative to two random elements but it also helps for polyrhythms and chaotic spells, giving a bonus to this specific advanced magic.
 
-- Standard Origins: Includes regular traits that are mostly benign or come with a few drawbacks like Ascetic which increases [[Fragment of Acceptance]]s from [[Essence Sacrifice]] or Healer which increases [[Flux]] and [[Strand]] but it places a [[Weight of Potential]] for serving the community. Similarly, unique traits like Sold Into Service work by increasing [[Luminance]] and [[Fragment of Lucidity]] at the cost of having to learn obedience and fulfilling someone else's wishes, diminishing [[Resonance]] and [[Flux]].
+- Classical Origins: Includes regular traits that are mostly benign or come with a few drawbacks like Ascetic which increases [[Fragment of Acceptance]]s from [[Essence Sacrifice]] or Healer which increases [[Flux]] and [[Strand]] but it places a [[Weight of Potential]] for serving the community. Similarly, unique traits like Sold Into Service work by increasing [[Luminance]] and [[Fragment of Lucidity]] at the cost of having to learn obedience and fulfilling someone else's wishes, diminishing [[Resonance]] and [[Flux]].
 
 - [[Consonance]] Origins: Includes the good type of origins, which are advantages the character starts with such as Prodigy which gives a +3 bonus to all bindings, Brilliant which makes [[Luminance]] come naturally due to high intelligence or traits like aristocracy such as Born in the Purple which increases [[Strand]] and [[Resonance]] to being born into power. Most of these traits are net goods with few drawbacks but often come with a high [[Legend Trait]] cost.
 
@@ -58,7 +58,7 @@ A [[Legend]] has exactly three personality [[Legend Trait]]s. These form the co
 
 - Attracts them Towards Certain [[Motif Awakening]]s as [[Ornament]]s: All personality [[Legend Trait]]s have a strength mixture of the seven bindings in [[The Principles of Magic]]. For example, the Moody trait is a [[Luminance]], [[Flux]], [[Void]] hybrid. This means that the Moody trait is the original unevolved state, depending on how the [[Legend]] learns to deal with it and grows with their wound they will achieve these ornaments. If they began to repress Moody but there comes a point where they have to finally face their overwhelming emotions after years of emotional suppression, this [[Motif Awakening]] will be to [[Flux]]. However, if they had been searching for clarity within chaos and their lack of emotional regulation lead them to harm through the disconnect between what they think and what they feel, they will search for the truth in their emotional chaos and a [[Motif Awakening]] to [[Luminance]] instead. Thus, all personality [[Legend Trait]]s are a blend of several elements that will eventually awaken as their [[Soul Leitmotif]] [[Ornament]]s.
 
-- Guides Character Development into [[Apex Trait]]s: Most of the personality [[Legend Trait]]s begin with clear drawbacks, whether from the lack of emotional management that Moody gives or from Coward and inaction. Most of these traits are evolving traits, they are meant to appear as mutable states on the start of the journey of a [[Spellweaver]] but through their accomplishment, struggles, potential [[Motif Awakening]]s for [[Ornament]]s and by weaving [[Legend Title]]s and [[Legend Opus]]s into a better, valuable version of the original personality [[Legend Trait]]. For example, Coward is a mutable between [[Cindergale]], [[Crystal]] and [[Flux]]. Depending on the expression, it can eventually become the [[Apex Trait]] of Iron Will ([[Crystal]]), Inextinguishable Fire ([[Cindergale]]) or Unwavering Current ([[Flux]]). This signals both mechanical growth in [[Apex Trait]]s as much as it does character growth. Before becoming the [[Apex Trait]]s they tend to go in middle traits like the [[Cindergale]] path of Coward becoming first Flared Current and then evolving into its [[Apex Trait]] of Inextinguishable Fire. Thus, [[Apex Trait]]s represent the ultimate state that a [[Legend]] overcame in their journey even if the transition was coping maladaptive behavior.
+- Guides Character Development into [[Apex Trait]]s: Most of the personality [[Legend Trait]]s begin with clear drawbacks, whether from the lack of emotional management that Moody gives or from Coward and inaction. Most of these traits are evolving traits, they are meant to appear as mutable states on the start of the journey of a [[Spellweaver]] but through their accomplishment, struggles, potential [[Motif Awakening]]s for [[Ornament]]s and by weaving [[Legend Title]]s and [[Legend Opus]]s into a better, valuable version of the original personality [[Legend Trait]]. For example, [[Coward]] is a mutable between [[Cindergale]], [[Crystal]] and [[Flux]]. Depending on the expression, it can eventually become the [[Apex Trait]] of Iron Will ([[Crystal]]), [[Inextinguishable Fire]] ([[Cindergale]]) or Unwavering Current ([[Flux]]). This signals both mechanical growth in [[Apex Trait]]s as much as it does character growth. Before becoming the [[Apex Trait]]s they tend to go in middle traits like the [[Cindergale]] path of [[Coward]] becoming first Flared Current and then evolving into its [[Apex Trait]] of [[Inextinguishable Fire]]. Thus, [[Apex Trait]]s represent the ultimate state that a [[Legend]] overcame in their journey even if the transition was coping maladaptive behavior.
 
 Personality [[Legend Trait]]s are suitable for roleplaying and creating complex stories that give enough freedom through [[The Principles of Magic]] but grounded in mechanical focus. They are all aligned with a specific binding of the seven elements and start as potential multi binding traits that eventually solidify into a specific element, giving further mastery. They all come with their unique effects as well which heavily varies between [[Legend Trait]] and allow for extra decisions in the [[Fate Stage]] concerning the growth of each [[Legend]].
 
@@ -74,7 +74,7 @@ The total sum of their combined [[Triadic Virtues of Spellcraft]] determines the
 
 In essence, a [[Legend]] is a [[Consciousness]] choosing to transform their origin wound into creation, and the [[Legend Trait]] system records that choice and its consequences across three tiers:
 
-1. **The Wound** — What was done to them
+1. **The Wish** — The wound of what was done to them
 2. **The Expression** — How they chose to respond
 3. **The Mastery** — What they became through that choice
 
@@ -99,6 +99,7 @@ On the case that a [[Legend]] becomes an [[Atonalis]] midway of their story, the
 Heir to Shame
 Aphantasia
 Vivid Hallucinations
+Lunatic
 Survivors Guilt
 Attunement Madness (Can hear the whispers of suffering even in the [[Formless Masses]])
 Orphaned
@@ -106,12 +107,13 @@ Harmonic Static (Your [[Fundamental Frequency]] is a natural dampener to the [[G
 Haunted by an [[Atonalis]] (An encounter young with an [[Atonalis]] left you traumatized and scarred by the encounters with all of these creatures)
 Exile
 
+
 | [[Legend Trait]]                                                                                                        | Scaled Cost | Underdog Points | Binding Effect     | Narrative Effect                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------- | ----------- | --------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Whisper-Touched** <br> *You hear the murmurs of Formless Masses in silent moments, a chorus of collective suffering.* | –125        | +125            | –2 Resonance       | +2× Fragments of Acceptance when silencing a Dissonance chorus. Underdog: You can sense areas of lingering collective pain.            |
 | **Harmonic Static** <br> *Your presence disrupts the Great Harmonic Loom, causing spells to flicker and warp.*          | –100        | +100            | –1 to all Bindings | +2× Fragments of Lucidity when stabilizing a Leyline. Underdog: You can intentionally disrupt enemy spellcasting at close range.       |
 
-**Standard Origin [[Legend Trait]]s**
+**Classical Origin [[Legend Trait]]s**
 [[Silver Blood]] ([[Selenea]] silver albino moon blessed blood)
 Leyline Drifter (Can sense [[Leylines]] by Attunement)
 
@@ -134,18 +136,15 @@ Attunement Prodigy
 
 
 
-| Trait | Scaled Cost | Underdog Points | Binding Effect | Narrative Effect |
-|-------|-------------|-----------------|----------------|------------------|
-| **Leitmotif Heir** <br> *You inherited a fully realized Soul Leitmotif from a legendary ancestor.* | +125 | 0 | +2 to Primary Binding | Start with one Ornament already awakened. Underdog: Your lineage is recognized, granting +10 Prestige. |
-| **Harmonic Prodigy** <br> *Your soul naturally attunes to the Great Harmonic Loom without effort.* | +150 | 0 | +1 to all Bindings | Spells cost 10% less Essence Sacrifice. Underdog: You learn new spells 20% faster. |
-| **Moon-Silver Blood** <br> *Selenea’s essence flows in your veins, a legacy of stolen divinity.* | +100 | 0 | +2 Strand, +2 Void | Can channel Lunehymn for healing once per moon cycle. Underdog: Lunar-aligned Atonalis hesitate to attack you. |
-| **Auric Lineage** <br> *You are a direct descendant of the Auric Aria, however diluted.* | +175 | 0 | +3 Resonance | +20 Piety, automatically attuned to the Great Harmonic Loom. Underdog: Outer Gods notice and sometimes test you. |
-| **Weaver-Noble** <br> *You were born into a family of master Spellweavers with an ancestral loom.* | +125 | 0 | +2 Crystal, +2 Strand | +200 Gold, +15 Dynasty Prestige. Underdog: You own a portable loom that enhances weaving speed. |
-| **Dissonance-Tamer** <br> *You were trained from birth to confront and neutralize corrupted harmonics.* | +100 | 0 | +2 Cindergale, +2 Luminance | Immune to fear from Atonalis. Underdog: +20% damage to Formless Masses. |
-| **Flux-Emotion Sensate** <br> *You perceive emotional frequencies as visible auras around living beings.* | +75 | 0 | +3 Flux | Can read emotional residues in objects and places. Underdog: You can temporarily amplify or dampen emotions in others. |
-| **Strand-Walker** <br> *You can perceive the threads of time and memory woven into the world.* | +125 | 0 | +3 Strand | Can briefly perceive past echoes of locations you visit. Underdog: You can leave “memory anchors” for later recall. |
-| **Crystal-Clarity Born** <br> *Your mind is a prism of perfect focus, refracting chaos into order.* | +100 | 0 | +3 Crystal | Start with one rare Crystal-based spell known. Underdog: Your spells are 10% more resistant to interference. |
-| **Void-Whisperer** <br> *You commune with the silent spaces between notes, understanding absence as presence.* | +75 | 0 | +3 Void | Can communicate with Void-bound spirits. Underdog: You can temporarily phase through non-magical obstacles. |
+| Trait                                                                                                          | Scaled Cost | Underdog Points | Binding Effect              | Narrative Effect                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------- | ----------- | --------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Harmonic Prodigy** <br> *Your soul naturally attunes to the Great Harmonic Loom without effort.*             | +150        | 0               | +1 to all Bindings          | Spells cost 10% less Essence Sacrifice. Underdog: You learn new spells 20% faster.                                     |
+| **Weaver-Noble** <br> *You were born into a family of master Spellweavers with an ancestral loom.*             | +125        | 0               | +2 Crystal, +2 Strand       | +200 Gold, +15 Dynasty Prestige. Underdog: You own a portable loom that enhances weaving speed.                        |
+| **Dissonance-Tamer** <br> *You were trained from birth to confront and neutralize corrupted harmonics.*        | +100        | 0               | +2 Cindergale, +2 Luminance | Immune to fear from Atonalis. Underdog: +20% damage to Formless Masses.                                                |
+| **Flux-Emotion Sensate** <br> *You perceive emotional frequencies as visible auras around living beings.*      | +75         | 0               | +3 Flux                     | Can read emotional residues in objects and places. Underdog: You can temporarily amplify or dampen emotions in others. |
+| **Strand-Walker** <br> *You can perceive the threads of time and memory woven into the world.*                 | +125        | 0               | +3 Strand                   | Can briefly perceive past echoes of locations you visit. Underdog: You can leave “memory anchors” for later recall.    |
+| **Crystal-Clarity Born** <br> *Your mind is a prism of perfect focus, refracting chaos into order.*            | +100        | 0               | +3 Crystal                  | Start with one rare Crystal-based spell known. Underdog: Your spells are 10% more resistant to interference.           |
+| **Void-Whisperer** <br> *You commune with the silent spaces between notes, understanding absence as presence.* | +75         | 0               | +3 Void                     | Can communicate with Void-bound spirits. Underdog: You can temporarily phase through non-magical obstacles.            |
 
 ### All Personality [[Legend Trait]]s
 
@@ -161,7 +160,7 @@ Starting Traits
 | [[Hot-Headed]]<br><br>_"I dare you! Speak another word, and you will be cinders!"_             | [[Cindergale]]<br><br>[[Flux]]<br><br>[[Crystal]]           | [[Cindergale]]: Anger and passion erupt as impulsive action -> [[Destructive Flare]]<br><br>[[Flux]]: Learns to feel the hurt beneath the anger -> [[Unpredictable Storm]]<br><br>[[Crystal]]: Builds a rigid identity around being “the fierce one” -> [[Unyielding Will]]<br><br>                                                                                                                                                                 |
 | [[Serene]]<br><br>_"The mind only rings clear in the peace of calm and silence."_              | [[Resonance]]<br><br>[[Strand]]<br><br>[[Crystal]]          | [[Resonance]]: They cultivate inner harmony and a coherent self-tone -> [[Soul Tuner]]<br><br>[[Strand]]: Harmonizes and anchors in long-practiced loved or traditions -> [[Diplomatic Harmonist]]<br><br>[[Crystal]]: Learns to channel their inner peace as defensive will -> [[Determined Achiever]]<br><br>                                                                                                                                     |
 | [[Grief-Stricken]]<br><br>_"Every breath is a still requiem of their absence..."_              | [[Void]]<br><br>[[Flux]]<br><br>[[Strand]]                  | [[Void]]: Embraces loss, turning the shadow of grief into fuel -> [[Fatalistic Embracer]]<br><br>[[Flux]]: Lets the tears flow, turning sorrow into healing -> [[Deep Feeler]]<br><br>[[Strand]]: Becomes a memory-keeper who honors the dead -> [[Witness Memorialist]]<br><br>                                                                                                                                                                    |
-| [[Jolly]]<br><br>_"Why focus on shadow when the light invites us to dance?"_                   | [[Flux]]<br><br>[[Resonance]]<br><br>[[Cindergale]]         | [[Flux]]: Emotions used to keep themselves and others lifted -> [[Deep Feeler]]<br><br>[[Resonance]]: Becomes a charismatic beacon of unity -> [[Soul Tuner]]<br><br>[[Cindergale]]: Driving bright passion pilling into high-energy action -> [[Unpredictable Storm]]<br><br>                                                                                                                                                                      |
+| [[Jolly]]<br><br>_"Why focus on shadow when the light invites us to dance?"_                   | [[Flux]]<br><br>[[Resonance]]<br><br>[[Cindergale]]         | [[Flux]]: Emotions used to keep themselves and others lifted -> [[Deep Feeler]]<br><br>[[Resonance]]: Becomes a charismatic beacon of unity -> [[Soul Tuner]]<br><br>[[Cindergale]]: Driving bright passion pilling into high-energy action -> [[Fiery Passion]]<br><br>                                                                                                                                                                            |
 | [[Empathetic]]<br><br>_"I feel too the weight of compassion but it's also beautiful."_         | [[Flux]]<br><br>[[Resonance]]<br><br>[[Strand]]             | [[Flux]]: They learn to merge others’ currents directly into their own -> [[Nurturing Caregiver]]<br><br>[[Resonance]]: Tunes their soul to others to heal dissonance -> [[People Pleaser]]<br><br>[[Strand]]: Weaves deepened bonds of shared pain and triumph -> [[Prophetic Spark]]<br><br>                                                                                                                                                      |
 | [[Arrogant]]<br><br>_"You thrash in the dark while I'm here shinning."_                        | [[Crystal]]<br><br>[[Luminance]]<br><br>[[Void]]            | [[Crystal]]: Strong conviction in own self-image hardens into “I know / I am better” -> [[Ruthless Perfectionist]]<br><br>[[Luminance]]: Believes they see the truth clearly and others are blind -> [[Extravagant Egocentric]]<br><br> [[Void]]: Develop into hollow core where self-worth was once fragile as defense -> [[Impostor Syndrome]]<br><br>                                                                                            |
 | [[Manipulative]]<br><br>_"Everyone has strings attached. You just have to pluck them."_        | [[Luminance]]<br><br>[[Void]]<br><br>[[Strand]]<br>         | [[Luminance]]: Read motives, desires and weak points with clarity as weapon -> [[Puppet Master]]<br><br>[[Void]]: Willing to sacrifice others' well-being or parts of oneself for gain -> [[Reality Bender]]<br><br>[[Strand]]: Understanding relationships as threads to be pulled in utmost importance -> [[Legacy Obsessed]]<br><br>                                                                                                             |
@@ -315,37 +314,37 @@ _Transformation:_ Your empathy evolves into the ability to literally weave emot
 _Mechanical Effect:_ +3 Resonance | Can create temporary bonds between allies that share damage and healing | Healing spells are 40% more effective.  
 _Narrative Truth:_ "I don't just heal wounds—I weave hearts together. What I connect, time cannot sever."
 
-**Void-Embrace Anchor** [[Void]]
+[[Void-Embrace Anchor]] [[Void]]
  
 _Transformation:_ Your emotional detachment becomes a sacred emptiness—a space where pain cannot exist. You've learned that feeling nothing can be the greatest protection of all.  
 _Mechanical Effect:_ +3 Void | Immune to all emotional manipulation and fear effects | Can create zones of absolute calm that nullify hostile emotions.  
 _Narrative Truth:_ "I am the still point in the storm. Emotions break against my emptiness like waves against a cliff."
 
-**Storm-Mother/Father** [[Cindergale]]
+[[Storm-Mother]]/Father [[Cindergale]]
 
 _Transformation:_ Your volatility becomes mastery. You channel emotional storms into controlled weather patterns—your moods literally shape the climate around you.  
 _Mechanical Effect:_ +2 Flux, +2 Cindergale | Can summon localized weather effects that enhance your magic | Emotions now fuel spells without backlash risk.  
 _Narrative Truth:_ "My heart is the weather, and the world responds. When I rage, thunder answers. When I weep, rain falls."
 
-**Memory-Keeper** [[Strand]]
+**Unlimited Memory-Keeper** [[Strand]]
 
 _Transformation:_ Your grief becomes a sacred archive. You don't just remember the lost—you preserve their essence in woven memory-tapestries that others can experience.  
 _Mechanical Effect:_ +3 Strand | Can temporarily manifest echoes of the dead | Objects you create carry the emotional imprint of memories.  
 _Narrative Truth:_ "Nothing is truly lost while I remember. I weave the dead into tapestries of living memory."
 
-**Puppet-Master** [[Luminance]]
+**Throne of Puppets Master** [[Luminance]]
 
 _Transformation:_ Your deception becomes art. You see the invisible strings connecting people's desires and fears, and learn to pluck them like a master musician.  
 _Mechanical Effect:_ +3 Luminance | Can temporarily implant suggestions in susceptible minds | +5 Intrigue capacity, can unravel complex plots instinctively.  
 _Narrative Truth:_ "Everyone dances to music only I can hear. I am the composer of their choices."
 
-**Bond-Anchor** [[Strand]]
+**Golden Bond-Anchor** [[Strand]]
 
 _Transformation:_ Your loyalty becomes a metaphysical anchor. Bonds you create are unbreakable by distance, time, or even death.  
 _Mechanical Effect:_ +3 Strand | Allies connected to you cannot be turned against you by magic | Your presence grants +30% loyalty to all faction members.  
 _Narrative Truth:_ "My word is the thread that binds reality. What I vow, eternity honors."
 
-**Silent Watcher** [[Void]]
+**Barren Eternal Watcher** [[Void]]
 
 _Transformation:_ Your need for solitude becomes a supernatural ability to exist outside observation. You become a living void in the world's awareness.  
 _Mechanical Effect:_ +3 Void | Can become completely undetectable when motionless | Your magic leaves no resonance signature for tracking.  
@@ -381,19 +380,19 @@ _Transformation:_ Your drive focuses into a singularity—a point of such conce
 _Mechanical Effect:_ +3 Cindergale | +50% effectiveness toward your primary goal | Can ignore physical laws that oppose your purpose.  
 _Narrative Truth:_ "My purpose is the axis around which reality turns. All else is distraction."
 
-**Reality-Questioner** [[Luminance]]
+**Vertigo Reality-Questioner** [[Luminance]]
 
 _Transformation:_ Your questioning becomes so profound that reality begins answering. You see the underlying structures of existence as puzzles to be solved.  
 _Mechanical Effect:_ +2 Luminance, +2 Void | Can temporarily alter one fundamental "rule" in a localized area | Understand the true nature of magical phenomena.  
 _Narrative Truth:_ "I ask questions that reality must answer. Sometimes, the answers change what is possible."
 
-**Pattern-Seer** [[Luminance]]
+**Pattern-Decoding Enigma** [[Luminance]]
 
 _Transformation:_ Your analysis becomes prophetic. You see patterns in chaos that reveal future probabilities with mathematical certainty.  
 _Mechanical Effect:_ +3 Luminance | Can predict enemy spellcasting with 80% accuracy | +30% research speed on all topics.  
 _Narrative Truth:_ "Chaos is merely pattern I haven't yet quantified. Reality is an equation waiting to be solved."
 
-**Dream-Weaver** [[Flux]]
+**Dream in Bending** [[Flux]]
 
 _Transformation:_ Your intuition becomes a creative force. You don't just sense possibilities—you weave them into being from the fabric of potential.  
 _Mechanical Effect:_ +3 Flux | Can manifest minor objects and effects through will alone | Instinctively knows the right path in any situation.  

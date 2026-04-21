@@ -1,6 +1,6 @@
 #analysis
 
-_"[[Magical Objects]] are physicalized relationships amidst a world where Geology is Psychology. Petrified history is the physical residue of a shared moment of deep emotion between two or more beings."_ 
+_"[[Magical Relic]] are physicalized relationships amidst a world where Geology is Psychology. Petrified history is the physical residue of a shared moment of deep emotion between two or more beings."_ 
 
 _"The [[World-Bending Relics]] of a legendary sword weren't forged in the heart of a volcano, they were forged in the heart of a relationship."_
 

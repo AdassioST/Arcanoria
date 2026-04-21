@@ -8,7 +8,7 @@ They extend influence beyond the [[Known Universe]] and can only manifest with t
 
 However, it is possible to give an [[Anthropomorphic Shape]] to these beings to modify [[Arcanoria]], through either a [[Celestial Ensnaring Mirror]] or via a [[Flesh-Binding Ritual]]. The [[Auric Aria]] is the only celestial being able to manifest shape in the [[Known Universe]] at will but the process of weaving a vessel leaves her exhausted and powerless for three [[Cycle]]s. After they have a host body, they can reacquired their divine properties through a [[Flesh-Exalting Transcendence]] that uses [[Piety]] as [[Resonance Anchors]] to increase their own power without invoking [[Static Criticality]].
 
-Any [[Flesh-Exalting Transcendence]] usually signals the beginning of an apocalypse. The first ever of these rituals is [[A Pact of a Thousand-Eyes]] during the [[Age Crisis]] of [[Ages]] II.
+Any [[Flesh-Exalting Transcendence]] usually signals the beginning of an apocalypse. The first ever of these rituals is [[A Pact of a Thousand Eyes]] during the [[Age Crisis]] of [[Ages]] II.
 
 [[Selenea]] is a special [[Outer God]] fundamental in the [[True Mythos of Creation]] with an [[Anthropomorphic Shape]] due to the betrayal of the [[Moon]] by the [[Auric Aria]]. However, any [[Outer God]], either malignant or chaotic, willing to gain influence in [[Arcanoria]] will try to gain [[Sufficient Precision]] and an [[Anthropomorphic Shape]] by deceiving [[Humanity]] into sealing a vessel in a [[Flesh-Binding Ritual]]. The most prominent case is during [[Ages]] II and [[Ages]] III with the advent of [[Lacrimosa]] and [[The Hollowing]].
 

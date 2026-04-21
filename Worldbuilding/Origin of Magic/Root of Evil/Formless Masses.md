@@ -9,10 +9,11 @@ The original [[Formless Masses]] came to be the [[Primal Discordia]].
 ### Growth and Birth of an [[Atonalis]]
 
 ![[Formless Mass.png]]
+
 Puddles of [[Formless Masses]] on their early development
 
 ![[Formless Mass 1.png]]
-Nascent [[Formless Masses]].
+[[Nascent]] [[Formless Masses]].
 
 ![[Formless Mass 2.png]]
 Developed [[Formless Masses]] they become pulsating.

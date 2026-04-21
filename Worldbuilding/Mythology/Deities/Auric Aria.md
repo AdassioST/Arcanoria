@@ -153,7 +153,7 @@ The [[Auric Aria]]'s Journey & Character Arc
 - She returns, drawn by the desperate prayers of survivors, realizing she lacks the [[Sufficient Precision]] to weave perfect life directly.
 - She canonizes herself as [[The One True God]], starting the [[Old Testament]], and acting through mortal agency and seeding her [[Consciousness]] as [[Piety]] to guide them.
 - She personally directs [[Humanity]]'s hand, which creates a deep dependency.
-- The first clashes of corruption and demi-humans, her children but also touched by [[Pure Light]], pass as some societies develop slavery of her [[Perfect Reflection]].
+- The first clashes of [[Corruption]] and demi-humans, her children but also touched by [[Pure Light]], pass as some societies develop slavery of her [[Perfect Reflection]].
 - To liberate them she incarnates to establish divine order and will for the second time after the [[Eighth Cycle]].
 - The infidels are struck while the [[Auric Order]] actively hunts anyone who believes in anything that isn't the [[Auric Aria]] and her official texts.
 - [[Auric Angels]] appears as the strongest [[Resonance Anchors]] of [[Piety]] of the [[Auric Aria]]. Some individuals ascend as [[Auric Angels]].

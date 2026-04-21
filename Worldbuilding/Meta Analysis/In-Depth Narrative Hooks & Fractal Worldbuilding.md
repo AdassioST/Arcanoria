@@ -136,7 +136,7 @@ In a world built on Acoustic Ontology, a crime leaves a "Vibrational Fallout." W
 
 ### The Conflict: Detective Magic vs. Criminal Magic
 
-The granular hook intensifies when the detective faces a criminal using "Proximity Consensus." This is a principle of illusory magic that allows a delusion to sustain itself if the caster can deceive others into believing it is real. The criminal uses "Luminance" to alter the "Pictures of the Past" that the detective is trying to see, effectively "covering" the crime scene with fake vibrational data. The detective must then use "Sufficient Precision" to isolate the original, authentic frequency from the criminal's illusory noise. This turns a standard murder mystery into a high-stakes battle of signal processing and psychological dominance.
+The granular hook intensifies when the detective faces a criminal using "[[Consensual Anchoring]]." This is a principle of illusory magic that allows a delusion to sustain itself if the caster can deceive others into believing it is real. The criminal uses "Luminance" to alter the "Pictures of the Past" that the detective is trying to see, effectively "covering" the crime scene with fake vibrational data. The detective must then use "Sufficient Precision" to isolate the original, authentic frequency from the criminal's illusory noise. This turns a standard murder mystery into a high-stakes battle of signal processing and psychological dominance.
 
 ## Identifying the Fractal Size: Why Arcanoria Feels So Large
 
@@ -626,7 +626,7 @@ These hooks operate at the smallest scale—specific mechanics, spells, and situ
 - The Silent Expanse epicenter, containing the Aria's suicide
 - A battlefield where soldiers relive their deaths forever
 
-### 30. **Proximity Consensus: Illusions That Become Real**
+### 30. **[[Consensual Anchoring]]: Illusions That Become Real**
 
 **The Hook:** If you can convince enough people an illusion is real—through deception or consensus—it gains actual substance. "That wall is, in fact, invisible" becomes true if everyone believes it. This is the principle behind advanced illusory magic: combat is as much psychological dominance as technical mastery.
 
@@ -834,13 +834,13 @@ These hooks operate at the smallest scale—specific mechanics, spells, and situ
 
 ## Hook Density Analysis
 
-| Category | Count | Examples |
-|----------|-------|----------|
-| Cosmological/Systemic | 5 | Acoustic Ontology, Structure/Light, Dual Confluence, Seven Bindings, Law of Relics |
-| Deity-Level | 6 | Aria's Paradox, Selenea's Prison, Lacrimosa's Wound, Alternate Hollowing, Mass Suicide, Eight-Winged Viola |
-| Age-Level | 6 | Great Plague, Hollowmarch, Luminaire's Refusal, Mira's Teaching, Judgement, Eight Wings |
-| Character-Level | 9 | Elara, Gayviene, Aldric, Luminaire, Mira, Pagiel, Kael, Skarr, Vanessa |
-| Granular | 20 | Strand Detective, Time Bubbles, Memory Fields, Proximity Consensus, Signal Loss, Essence Sacrifice Economics, Soul Leitmotif States, Flesh Rituals, Atonalis Feeding, Sweet Smell, Waxed Physicians, Dissonance Blooms, Static Criticality, Emberwhisper, Soul Oscillators, Underdog Modifier, Constellation Syncretism, White-Touched Archivist, Genocides, Resets, Central Question |
+| Category              | Count | Examples                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Cosmological/Systemic | 5     | Acoustic Ontology, Structure/Light, Dual Confluence, Seven Bindings, Law of Relics                                                                                                                                                                                                                                                                                                         |
+| Deity-Level           | 6     | Aria's Paradox, Selenea's Prison, Lacrimosa's Wound, Alternate Hollowing, Mass Suicide, Eight-Winged Viola                                                                                                                                                                                                                                                                                 |
+| Age-Level             | 6     | Great Plague, Hollowmarch, Luminaire's Refusal, Mira's Teaching, Judgement, Eight Wings                                                                                                                                                                                                                                                                                                    |
+| Character-Level       | 9     | Elara, Gayviene, Aldric, Luminaire, Mira, Pagiel, Kael, Skarr, Vanessa                                                                                                                                                                                                                                                                                                                     |
+| Granular              | 20    | Strand Detective, Time Bubbles, Memory Fields, [[Consensual Anchoring]], Signal Loss, Essence Sacrifice Economics, Soul Leitmotif States, Flesh Rituals, Atonalis Feeding, Sweet Smell, Waxed Physicians, Dissonance Blooms, Static Criticality, Emberwhisper, Soul Oscillators, Underdog Modifier, Constellation Syncretism, White-Touched Archivist, Genocides, Resets, Central Question |
 
 ## Conclusion
 
@@ -999,7 +999,7 @@ Character‑hooks translate the setting’s themes—sacrifice, invisibility, us
     Stable Strand pools hold crystallized moments you can physically walk through, interact with echoes of the dead, and risk becoming part of the loop yourself.
     _Layers:_ Atomic Microcosm ↔ Individual Microcosm.
     
-30. **Proximity Consensus – Belief‑Powered Illusions**  
+30. **[[Consensual Anchoring]] – Belief‑Powered Illusions**  
     Illusions become physically real if enough minds agree on them, making social consensus and cult engineering literal tools for warping the fabric of reality.
     _Layers:_ Societal Mesocosm ↔ Atomic Microcosm.
     

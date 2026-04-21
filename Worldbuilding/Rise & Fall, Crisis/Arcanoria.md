@@ -3,6 +3,7 @@
 The magical Earth where the game takes place, its origin lies in the [[Seven-Cycle Creation]] by the [[Auric Aria]].
 
 Starting the game is the [[Original Ripple]]. The player is the "kinetic energy" required to pluck [[The Eternal Symphony]] into motion. This is visible as the open-sequence of starting a new game. The player is the Third Actor setting the [[Known Universe]] into motion. The reason for the "Big Bang."
+
 ### Map Features
 
 The map features and types are:

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "783ad38618112d7e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "972be68855c2398c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Mythology/Deities/Auric Aria.md",
+                "file": "Artus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auric Aria"
+              "title": "Artus"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crusades",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Mythology/Deities/Auric Aria.md",
-                "linksCollapsed": false,
+                "file": "Artus.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Auric Aria"
+              "title": "Outgoing links from Artus"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Mythology/Deities/Auric Aria.md",
+                "file": "Artus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Auric Aria"
+              "title": "Backlinks for Artus"
             }
           },
           {
@@ -190,47 +190,48 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "972be68855c2398c",
   "lastOpenFiles": [
-    "merged/merged-output-2026-04-08.md",
-    "Worldbuilding/Society/Societal Resources/Foundation/Auric Geometry.md",
-    "Worldbuilding/Mythology/Deities/Parlor of the Moon.md",
-    "merged/merged-output-2026-04-07.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/The Truth of Arcanoria.md",
+    "Worldbuilding/Society/Characters/Ages 2/Amadea.md",
+    "Artus.md",
+    "Worldbuilding/Society/Stellar Legacy/Legend Trait.md",
     "Worldbuilding/Gateway To Genesis.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 13/Age of The End.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 13/Age of the Hypermage.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Forbidden Objects/Hypermage.md",
-    "Worldbuilding/Events/The Ultimate Weapon.md",
-    "Worldbuilding/Mythology/Deities/Auric Aria.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
-    "Formless Father.md",
-    "Worldbuilding/Society/Stellar Legacy/Stardust.md",
-    "Silver Blood.md",
-    "Analytical.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Scorching Truth.md",
+    "Worldbuilding/Events/Age Related/Ages 0/A Burrowed Name.md",
+    "Worldbuilding/Society/Characters/Ages 2/Cordelia.md",
+    "Edgardo.md",
+    "merged/merged-output-2026-04-21.md",
+    "merged/merged-output-2026-04-20.md",
+    "Worldbuilding/Society/Societal Resources/Foundation/Civic.md",
+    "Worldbuilding/Society/Characters/Mythical Virtuoso.md",
+    "Images/Gateway To Genesis.png",
+    "Flesh-Exalting Transcendence.md",
+    "Images/Auric Order/Auric Heptacode.png",
+    "Images/Auric Order/Auric Heptacode 1.png",
+    "Images/Auric Order/Auric Mythos of Creation.png",
+    "Images/Auric Order/Auric Mythos of Creation-1.png",
+    "Worldbuilding/Society/Auric Order/Auric Order.md",
+    "merged/merged-output-2026-04-19.md",
+    "Worldbuilding/Society/Stellar Legacy/Constellation.md",
+    "Worldbuilding/Society/Stellar Legacy/Stellar Legacy Score.md",
+    "Worldbuilding/Society/Stellar Legacy/Legend.md",
+    "Worldbuilding/Society/Characters/Ages 2/Sephira.md",
+    "Worldbuilding/Society/Characters/Ages 2/Mira.md",
+    "Worldbuilding/Mythology/Deities/Selenea.md",
+    "Worldbuilding/Society/Characters/The White-Touched Archivist.md",
+    "Worldbuilding/Rise & Fall, Crisis/Crisis/Age Crisis.md",
+    "merged/merged-output-2026-04-18.md",
+    "Worldbuilding/Meta Analysis/In-Depth Analysis of Friendship is Magic.md",
     "Clarity of Infinite Light.md",
-    "Classical Age.md",
-    "Delusional.md",
-    "README.md",
-    "Worldbuilding/Society/Tools & Inventions/Resonance Box.md",
-    "Worldbuilding/Society/Tools & Inventions/Mirrorbox Trap.md",
-    "Worldbuilding/Society/Characters/Ages 5/Cadmus Tacet.md",
-    "Worldbuilding/Mythology/Deities/Lacrimosa.md",
-    "Worldbuilding/Rise & Fall, Crisis/Crisis/A Pact of a Thousand-Eyes.md",
-    "Worldbuilding/Mythology/Deities/Outer God.md",
+    "Daedalus.png",
+    "Spellweaving-1.png",
+    "Spellweaver-1.png",
+    "Spellweaver.png",
+    "watermark_removed_d1abfe33-c5d2-470b-816a-99991610abcc.mp4",
+    "Amadea-4.png",
     "Worldbuilding/Origin of Magic/Root of Evil/Atonalis",
     "merged",
-    "Great Harmonic Loom-1.png",
-    "Great Harmonic Loom.png",
-    "The Principles of Magic.png",
-    "Spellweaving.png",
-    "Great Spellweaver.png",
-    "Trinity Harmony.png",
-    "Lunehymn.png",
-    "The Hollowing.png",
     "Worldbuilding/Society/Characters/Ages 0",
-    "Vaelia-1.png",
-    "Vaelia.png",
     "Worldbuilding/Society/Characters/Ages 4",
     "Worldbuilding/Society/Characters/Ages 5",
     "All-Loving Moon.mp4",
@@ -239,7 +240,6 @@
     "Game Systems/Derivative Ideas",
     "Worldbuilding/Mythology/Deific Moodboard.canvas",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
-    "Images/Deities/Auric Aria/Auric Aria.mp4",
     "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas"
   ]
 }

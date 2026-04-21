@@ -18,3 +18,15 @@ During [[The Hollowing]] in [[Ages]] III, the octagram was also adopted by [[Lac
 
 After learning [[The Truth of Arcanoria]], Selenic religions tend to adopt and integrate the [[Moon]] into the octagram as acknowledgement to the [[Betrayal of the Moon]], mirroring the idea of [[Lacrimosa]]'s symbology but with the real [[Selenea]]'s [[Moon]].
 
+### [[Age of Alchemy]]
+
+In [[Ages]] VII, the [[Auric Heptacode]] Heptagram becomes the holy symbol for transmutation of alchemical elements of [[Resonance]]. It consists of placing the classical elemental magical [[Resources]] of [[Arcanoria]] based on their hierarchy in [[Cosmic Motion]] and distribution across the vastness of the skies, the immediate overworld, and the deep underground.
+
+The alignment mirrors [[Auric Geometry]] in order from the highest to the lowest.
+
+- [[Aetherlight]]: The firmament and the skies.
+- [[Sky Glass]]: The peaks and summits.
+- [[Glimmerfern]]: The overworld of all vegetation and life.
+- [[Rose Seed]]: The middle of [[Arcanoria]] and its soil.
+- [[Lunehymn]]: The [[Leylines]] and interior of the [[Symphonic Veins]].
+- [[Emberwhisper]]: The deep underground and the impenetrable caves.

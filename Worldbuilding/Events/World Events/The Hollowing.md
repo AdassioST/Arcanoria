@@ -3,7 +3,7 @@
 A [[World Event]] directed by [[Lacrimosa]] and the [[Purest of Love]] that spans the [[Age Crisis]] of [[Ages]] II and the entirety of [[Ages]] III.
 
 The [[Age Crisis]] of [[Ages]] II can appear as either:
-- [[A Pact of a Thousand-Eyes]]: If the [[Civilization]] has interacted enough with the [[Auroral Ribbons]] or perform the invitation of [[Lacrimosa]] in [[Mira]]'s story.
+- [[A Pact of a Thousand Eyes]]: If the [[Civilization]] has interacted enough with the [[Auroral Ribbons]] or perform the invitation of [[Lacrimosa]] in [[Mira]]'s story.
 - [[Voice of the Heavens]]: If the [[Civilization]] was not the one to trigger [[The Hollowing]] by avoiding the [[Auroral Ribbons]].
 
 The [[Age Crisis]] of [[Ages]] III appears as either:

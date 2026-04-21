@@ -1,6 +1,8 @@
 #character #story
 
-[[Legend Title]]: The Grand Ivory Princess, Crystalline Prodigy, [[Hollowmarch]]'s Jewel.
+The [[Mythical Virtuoso]] of [[Luminance]] of the Seven Virtuosi.
+
+[[Legend Title]]: The Grand Ivory Princess, Fractal Prodigy, [[Hollowmarch]]'s Jewel, Saint Patron of [[Great Seer]]s, The Hollowed Queen.
 
 [[Primary Instrument]]: [[Soul Oscillator]]
 [[Armament]]: None
@@ -14,13 +16,19 @@
 - [[Selfless]] -> [[Sacrificial Lamb]] ([[Resonance]])
 - [[Pragmatic]] -> [[Suppressed Diamond]] ([[Crystal]])
 
-[[Legend Opus]]: 
-- The Legendary [[Luminance]] [[Great Spellweaver]] ([[Magnum Opus]])
+[[Legend Opus]]:
+- The [[Luminance]] [[Mythical Virtuoso]] of the Seven Virtuosi ([[Magnum Opus]])
 - The Crown's Jewel of [[Hollowmarch]] ([[Legend Opus]])
 - The Grand Ivory [[Soul Oscillator]] ([[Legend Opus]])
+- Mother of Fractals and [[Sky Glass]] ([[Legend Opus]])
+- Inventor of [[Resonance Box]]es ([[Legend Opus]])
+- The Patron of [[Auric Geometry]], Mathematics and Logic ([[Legend Opus]])
 
+The [[Mythical Virtuoso]] of [[Luminance]] and legendary heir to [[Hollowmarch]], involved in the story of [[Father Aldric]]. She is one of the legendary founders of [[The Principles of Magic]] in the field of [[Luminance]] during [[Ages]] II, and she's inspired by the [[Legend]] of [[Aurelian]] in search of her own voice with her [[Soul Oscillator]]. 
 
-A [[Great Spellweaver]] and legendary heir to [[Hollowmarch]], involved in the story of [[Father Aldric]]. She is one of the legendary founders of [[The Principles of Magic]] in the field of [[Luminance]] during [[Ages]] II.
+She was formally trained by the [[Mythical Virtuoso]] of [[Crystal]] up to her coronation which was shortly after [[Daedalus]]' death. The training of [[Daedalus]] in craftmanship proved transcendent for [[Luminaire]] when she pioneered on the first reusable infinite recording [[Resonance Box]]es that couldn't come to be if it wasn't due to her innate intellect for [[Attunement for Magic]], and her former training in invention by [[Daedalus]].
+
+It's important to note that while [[Daedalus]] didn't have any offspring, [[Luminaire]] considered the Demi Human more of a father figure than her actual biological family. Her parentship under his tutelage was the closest [[Luminaire]] was to being treated as a person and not as an instrument.
 
 ### [[Luminaire]], the Prodigy Heir of [[Hollowmarch]]
 
@@ -32,9 +40,9 @@ Her father, wanted someone to continue his legacy. Her mother, wanted someone to
 
 And [[Luminaire]]—though no one bothered to ask her—was given to them. What no one expected was that [[Luminaire]] would be exactly what they wanted.
 
-She displays signs of [[Attunement for Magic]] before she could walk.
+She displays signs of [[Attunement for Magic]] before she could walk, and came to be the direct apprentice of [[Daedalus]].
 
-At six years old, she is able to hear the symphony of [[Emberwhisper]] crystals—an act that normally takes years of training to trigger. It seemingly appears as if she simply awakens one morning able to hear its hum, what no one had realized yet is that she's only been able to develop this gift due to the sheer negligence where she has had to grow obeying without question nor voice.
+At six years old, she is able to hear the voices of [[Emberwhisper]] crystals—an act that normally takes years of training to trigger. It seemingly appears as if she simply awakens one morning able to hear its hum, what no one had realized yet is that she's only been able to develop this gift due to the sheer negligence where she has had to grow obeying without question nor voice.
 
 By ten, she has accomplished magical feats of [[Attunement for Magic]], and establishing separate [[Resonance Anchors]] that took even the greatest wizards of the age decades to achieve. She was smart, she was a prodigy, and more importantly, she had no right to fight for her autonomy.
 

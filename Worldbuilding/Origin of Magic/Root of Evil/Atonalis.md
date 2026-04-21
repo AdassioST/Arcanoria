@@ -2,7 +2,7 @@
 
 *"Do not look away. I know it sounded like a child. I know it felt like genuine fear. I too feel pity for them, but we do not share their burden. 
 
-*You have to understand, they are only the shadow of a person who decided to stay broken. They are not the victim and that's their trap. It is the crystricallized refusal to heal, given claws.
+*You have to understand, they are only the shadow of a person who decided to stay broken. They are not the victim and that's their trap. It is the crystallized refusal to heal, given claws.
 
 *Whatever it whispered to you... that was born from honest intent. It truly believed it needed you. But it only cares that you bleed for them. And you have bled enough."
 
@@ -26,7 +26,7 @@ The anomalous properties
 
 - Individual Quirks: Each [[Atonalis]] develops unique predatory behaviors and manifestations rooted in its classification within the [[Eight-Born Paths]]. These quirks define how the entity hunts, feeds, and expresses its particular wound.
 
-- [[Dissonance Core]]: You kill this, you kill them. It is the source of static of their [[Fundamental Frequency]] that keeps them from dissolving into [[Primal White Noise]]. If they run out of [[Resonance]] or if the [[Dissonance Core]] is destroyed, they degrade into nothingness as they don't have the [[Soul-Key]] [[Coherence]] to make them survive against the encroaching [[Primal White Noise]].
+- [[Dissonance Core]]: You kill this, you kill them. It is the source of static of their [[Fundamental Frequency]] that keeps them from dissolving into [[Primal White Noise]]. If they run out of [[Resonance]] or if the [[Dissonance Core]] is destroyed, they degrade into nothingness as they don't have the [[Soul-Key]] [[Coherence]] to make them survive against the encroaching [[Primal White Noise]]. The [[Dissonance Core]] is an inverted [[Soul Leitmotif]] that was consumed by surrender.
 
 - [[Atonalis]] are able to feed on both physical matter and in emotion due to the acoustic foundation of reality. As matter is just crystallized vibration, this means that flesh, fluids, emotions, trauma, and pain are all just different frequencies of [[Resonance]], and that's the primary feeding mechanism of an [[Atonalis]] to sustain its [[Dissonance Core]]. What type of frequency they target depends entirely on what of the [[Eight-Born Paths]] they are and the specific type of [[Consciousness]] fractured they consumed to become an [[Atonalis]]. The most direct predators are almost always found in [[Carnalix]] which target the body and predate as regular animals by eating bodies. On the opposite spectrum, [[Signath]] relies entirely on vertigo and uncertainty without a single taste of anything physical. These are the two are logical extremes, one physical and one metaphysical. 
 
@@ -36,6 +36,8 @@ The anomalous properties
 
 - Some [[Atonalis]] are able to leave magical or emotionally charged byproducts, highly [[Dissonance]] [[Enclave]]s use these commodities as [[Dark Commodities]], such as [[Velvet Nectar]] which are famously created by the Velvet Cage as emotional residue from horrific acts that crystalized memories of captive sentient life. On advanced technology, this feature combined with the anomalous properties are a core principle of building a [[Hypermage]].
 
+- Defeating an [[Atonalis]] will dissolve their body back into static, however, when they disappear they leave behind a [[Rose Seed]] that is the manifestation of the [[Resonance Anchors]] their [[Dissonance Core]] had. The more powerful the [[Atonalis]] in its classification and assimilated [[Consciousness]], the more pristine state and size of the [[Rose Seed]]. This is the definitive way to determine the strength of an [[Atonalis]] after having vanquished them. If the [[Rose Seed]] is planted, it will grow a field of [[Fated Flower]]s on patterns mirroring [[Auric Geometry]] and cymatics that increase in complexity and in the amount of [[Fated Flower]]s based on the level of development of the [[Atonalis]]. Moreover, If on their development, the [[Atonalis]] was [[Fracted]] or above, they will also leave behind the item that caused their fracture. After the [[Law of Relics]] in [[Ages]] IV onward, these items tend to be [[Cursed Objects]].
+ 
 ### Birth from [[Formless Masses]] and Lingering [[Consciousness]]
 
 ![[Formless Mass 2.png]]
@@ -60,13 +62,13 @@ When the [[Dissonance]] cocoon ruptures, it releases a violent burst of [[Discor
 
 ### Stages of an [[Atonalis]]
 
-- Nascent: 
+- [[Nascent]]: 
 
-- Sectile:
+- [[Sectile]]:
 
-- Fracted:
+- [[Fracted]]:
 
-- Ascendant:
+- [[Ascendant]]:
 
 - [[Primal Discordia]]:
 

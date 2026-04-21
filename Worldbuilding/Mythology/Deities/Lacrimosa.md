@@ -220,7 +220,7 @@ The trigger lies in the advancement of technology regarding [[Auroral Ribbons]],
 
 The storyline leads to the eventual hollowness of [[Humanity]] and climatic revelation of the presence of [[Outer God]]s despite the policy of [[Auric Aria]] of [[The One True God]]. She can be contacted as early as [[Ages]] 0 through the [[Auroral Ribbons]] but will only become an [[Age Crisis]] on the transition of [[Ages]] II.
 
-### The [[Flesh-Exalting Transcendence]], [[A Pact of a Thousand-Eyes]].
+### The [[Flesh-Exalting Transcendence]], [[A Pact of a Thousand Eyes]].
 
 _"The [[Purest of Love]] theorists argue on three core concepts: Her genocide isn’t ambition. It’s intimacy. Her mass hollowing isn’t hatred. It’s mercy. Her mimicry isn’t deception. It’s addiction to belonging. That's why she's so dangerous. The acts of truth and mercy are not a lie but a very seductive truth. You must be insanely careful not to thread on her path, I wouldn't dare to do so myself." - Elite Scholar_
 

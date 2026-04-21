@@ -12,13 +12,15 @@ _"If life were eternal and painless, then all the courageous acts of sacrifice, 
 
 ### 🎶Premise
 
-After the [[Great Fracture]], the once-thriving world of [[Arcanoria]] lies in ruin. [[Civilization]] collapsed into scattered remains, haunted by the echoes of a lost glory in a world adrift between renewal and decay — a true [Moldy World](https://youtu.be/iHSEFMYjbnE?si=MBvIikI93Pd_QOV9).
+_"Matter is Stabilized Sound, Magic is the Crystallization of Emotion, and Reality is a Relationship built on [[Resonance]]. All of existence, and [[Consciousness]], is itself a fractal."_ - [[The White-Touched Archivist]].
+
+After the [[Great Fracture]], the once-thriving world of [[Arcanoria]] lies in ruin. [[Civilization]] collapsed into scattered remains, haunted by the echoes of a lost glory in a world adrift between renewal and decay — a true [Moldy World](https://youtu.be/iHSEFMYjbnE?si=MBvIikI93Pd_QOV9). [[Amadea]]
 
 At the heart of existence flows [[The First Overtone]], and the [[Auric Aria]], the god of [[Humanity]], divided its [[Dual Confluence Stream]] through the [[Auric Heptacode]] and the [[Trinity Harmony]] into two primordial forces: [[Aetherlight]], radiant and nostalgic, and [[Lunehymn]], dreamlike and delirious. Their waning glow seeps through the shattered skies, shaping every shadow, forest, and crumbling gothic spire.
 
 Magic in [[Arcanoria]] emerges from [[Resonance]], as emotions ripple through the [[Great Harmonic Loom]] with [[Music as Catalyst]] through [[Primary Instrument]]s, [[Dance]], and [[Own Voice]]. Every note carries intention, every rhythm bends reality. Yet each spell is fragile, bound to the presence of [[The First Overtone]] and tainted by its dual nature.
 
-Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a myriad of [[Cycle]]s of scarcity and resurgence. As [[Ages]] unfold, you must rebuild society, steward resources, and navigate [[Faith]], [[Corruption]], loyalty, and societal development with each choice echoing across generations, shaping anew the fragile rebirth of the world in [[The Eternal Symphony]] of light and shadow.
+Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Crisis]], navigating a myriad of [[Cycle]]s of scarcity and resurgence. As [[Ages]] unfold, you must rebuild society, steward resources, and navigate [[Faith]], [[Corruption]], loyalty, and societal development with each choice echoing across generations, shaping anew the fragile rebirth of the world in [[The Eternal Symphony]] of light and shadow.
 
 *It is the Birthright of every Empire to Die. Ascend in harmony with the fractured symphony, and fade into obscurity after the last song goes silent.*
 
@@ -32,7 +34,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 ### ⚙️Core Systems
 
 - [[Game Logic]]
-- [[Event System Logic]]
+- [[Event System Logic]] & [[Achievement]]
 - [[Government Logic]]
 - [[Environment Logic]]
 - Combat System & [[Atonalis]] Boss fights
@@ -47,21 +49,23 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 
 ### 🎭World Building
 
-- [[True Mythos of Creation]].
+- [[True Mythos of Creation]], [[Auric Heptacode]], [[Trinity Harmony]].
 - [[Auric Aria]] _Omnipotence without Omniscience_, [[Lacrimosa]] _Omniscience without Omnipotence_, [[Selenea]] _Omnipresence without either of the other two. And the three of them have profound empathy and feelings._
 - The Realm of [[Arcanoria]], [[Civilization]] and [[Enclave]]s.
 - [[Ages]], the [[Great Fracture]], and [[Age Crisis]] [[Cataclysmic Aftermath]]s.
 - [[World Event]]s, the [[Fate Stage]], [[Story Affinity]] and [[Ballad]]s.
 - [[Legend]]s, [[Constellation]]s and the [[Stellar Legacy Score]].
-- [[The White-Touched Archivist]]. [[Fundamental Frequency]], [[Soul-Key]].
+- [[The White-Touched Archivist]]. [[Fundamental Frequency]], [[Soul-Key]], [[Composure]].
 - [[Strand Pool]]s, [[Memory Field]]s, and [[Time Bubble]]s.
-- [[Music as Catalyst]] and [[The Principles of Magic]].
+- [[Music as Catalyst]], [[Mythical Virtuoso]] and [[The Principles of Magic]].
 - Passing of [[Cycle]] and [[Ages]].
+- [[Sky Glass]], [[Mirrorbox Trap]], and [[Resonance Box]].
 - [[Dual Confluence Stream]] of [[Lunehymn]] and [[Aetherlight]].
 - **Structure ([[Auric Aria]]) vs. Essence/Vitality ([[Selenea]]).** This is the duality of the [[Click Power]] [[Vital Resources]] vs [[Building Materials]]. [[Pure Light]] vs [[Auric Structure]].
 - [[Eight-Born Paths]], [[Formless Masses]], [[Atonalis]] and [[Primal Discordia]].
 - [[In-Depth Character Analysis of Divinity]].
-- [[The Truth of Arcanoria]] and [[Pillars]]. [[Age of The End]]
+- [[The Truth of Arcanoria]], [[Pillars]], [[Civic]].
+- [[Age of The End]], [[Parlor of the Moon]].
 
 ### Backlog Ideas
 
@@ -75,8 +79,13 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 - [[Strand]] increases constructive interference because the [[Resonance]] increases as the two or more people "already know the same song of the soul."
 - A [[Dyad Chord]] of [[Flux]] and [[Resonance]] to create [[Coherence]] zones as "safety zone shields" in places of high [[Dissonance]] through the application of Faraday Waves into the [[Great Harmonic Loom]]'s [[Flux]] membrane. It could also be used to achieve temporary states of [[Superposed Resonance]] by vibrating the [[Flux]] in the [[Great Harmonic Loom]]. Also useful for decontaminating [[Vibrational Fallout]].
 
-- "If the world won't be kind, I will build my own." Character.
 - [[Indulgent Enclave]] about puppet plays of magicians having to express their problems with art so that they don't become [[Atonalis]]. Inspired by mangakas writing peak anime that has some "problematic scenes" because of trauma.
+- [[Orphael]] and [[Sephira]] impossible quest for pure [[Sky Glass]] across the highest peaks mirroring Taliyah & Yasuo through the freljord. [[Sephira]] learns to ride the flux and [[Orphael]] learns to channel his [[Weight of Nature]] of [[Lustful]] into art.
+
+- The shadow order of [[Amadea]] in [[Iridia]] becomes the beacon of hope during the [[Age of Legends]] because they operate in the shadows and [[Lacrimosa]] can only manipulate if she is the witness which is why [[Amadea]] order of espionage to remain unseen is so effective. Do not let the witness watch you, the [[All-Loving Moon]] can't reflect its light into shadow. Masterplan behind two master manipulators that outlive the legacy of [[Amadea]].
+- Hollow-Point for assassination with crystal embed into tools developed by [[Amadea]].
+- [[Cordelia]] and [[Sephira]] develop [[Cindergale]] on [[Void]] combo is made to create healing of illness through purifying fire based on the [[Legend]] of [[The Cradle of Echoes]] and [[Eyras]].
+- Cigarra storie of a [[Pure Light]] species that creates music like critters but  they cause a famine because they're destructive. A story about a [[Pure Light]] concert that wreaks havoc with the [[Auric Peach]] trees.
 
 - "I'm not here to fix the system, I'm here to burn it down." Character.
 - Summary of the Divergence:
@@ -87,13 +96,13 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 - "Someone will be born the day after I die." - [[Vaelia]] [[Ages]] 0 character.
 - "You are not the first [[Legend]]. You will not be the last. But your note in [[The Eternal Symphony]] is yours alone." + Record of Ragnarok Adam. Mother of Bards.
 
+- The hyper accelerationist [[Institute]] of [[Ages]] XI onwards believes in soteriology by the death of the [[Known Universe]]: "One day we will all return to the static that precedes the very existence of the cosmos." Their rush to end the world is a driver to the next MAD reset.
+
 - "The soul that sees beauty may sometimes walk alone." Aloof Frieren type of character that wanders off nonchalantly.
 
 - A Braum / Brook resilient type of physically robust character that teaches that if you pull through all the muck in life eventually you'll get a good ending and that the stars in the sky are those very same stories of who eventually made it through it all. Related to "My first moral and magical duty is to protect my own [[Soul Leitmotif]]. I cannot be your Source of [[Resonance]]. You have to sing for yourself but I can be here to help you." Character.
 
-- [[Resonance]] Legendary [[Spellweaver]]: "Motivation Growth Happens in Silence. Sometimes, the best thing you can do for yourself is to stop listening to the noise of the world and focus on your own journey. Not everyone will understand your dreams and that's okay. What matters is that you keep moving forward, and find your own path, even if it's slowly. Growth happens in silence when the self grows quiet enough to understand its own melody. Believe in yourself, because your future depends on the choices you make."
-
-- An institute traumatized children of hearing the crack of [[Soul Leitmotif]]s as a lot of his fellow friends turned into [[Atonalis]] and made him identify the cracking as the greatest sign of danger.
+- An [[Institute]] traumatized children of hearing the crack of [[Soul Leitmotif]]s as a lot of his fellow friends turned into [[Atonalis]] and made him identify the cracking as the greatest sign of danger.
 
 - Magical artifacts being woven, strong reality bending artifacts contain the [[Soul Leitmotif]] and [[Consciousness]] of a powerful being. Limited use cases before they depart and come on with [[The Eternal Symphony]]. It's a sort of [[Flesh-Casing Ritual]]. Akin to white whistles in Made in Abyss.
 
@@ -104,8 +113,6 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 - [[Erosyx]] [[Atonalis]] born from a gay dude refusing his identity and projecting his trauma to suppress others from displaying any semblance of homosexuality.
 
 - Unchecked [[Consonance]] is just as bad as [[Dissonance]] without intention. It is the mixture of both that gives texture and feeling to a song.
-
-- [[Perfect Focus]] + [[Cindergale]] user "The mind is a powerful thing, it can make a heaven out of hell, or a hell out of heaven. The line lies in being on the present flow in the eye of chaos."
 
 - Religious [[Auric Order]] Character on [[Essence Sacrifice]]: "Sacrifice has to hurt. Only then will the gods respect it and acknowledge your devotion."
 
@@ -121,6 +128,12 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]], navigating a 
 
 - The Sensory Nightmare of the Backfire As the spell collapses, the witness would hear the [[Discordant Interference]]—the chaotic, deafening static that accompanies broken [[Coherence]]. They would watch the tragic illusion violently revert to bloody, jagged [[Crystal]], witnessing the caster's desperate vulnerability and clinginess to comfort turn into a horrific self-inflicted execution.
 - The Terror of Corruption (The Birth of the [[Atonalis]]) The true nightmare for the witness begins when the caster's body does not simply die, but undergoes [[Corruption]]. The witness would watch the caster's [[Soul Leitmotif]] completely shatter, turning from vibrant light into a dark, raw [[Dissonance]] that wraps around the dying [[Spellweaver]] in a floating chrysalis orb. At this moment, pity would instantly transform into survival instinct. The witness would know exactly what is hatching: an [[Atonalis]]. As the cocoon ruptures with a violent burst of [[Discordant Interference]], the grieving lover is erased, replaced by a predatory demon born of twisted intimacy and oscillating despair—likely a [[Discant]] (born of emotional chaos and despair) or an [[Erosyx]] (born of intimacy twisted by shame and a deviant perversion)
+
+- [[Civilization]] [[Civic]]: 
+
+- Moonlit Vigil. [[Ages]] 0-III: Courtship rituals in [[Glimmerfern]] groves during a full [[Moon]]. In silence people meet a matching frequency. Practiced by [[Waltz Pillar]], [[Chorus Pillar]], peasants and refugees. It is a _The folk tradition of the broken world._ in the last pockets that dim with hope to create love. Narrative Hook: A noble's heir falls in love with a peasant at the Vigil. The family demands a political marriage; the heir refuses. Conflict of tradition, love and [[Resonance]].
+
+- Courting Grounds. [[Ages]] IV: Dedicated civic and administered evolution of Moonlit Vigil where once per spring, [[Phase of Prelude]], unwed citizens process in silence, sit on carved benches of [[Glimmerfern]] gardens. [[Spellweaver]]s in this tradition use their [[Soul Leitmotif]]s to pulse in unison. Hook: Two rival noble houses both send heirs to the Courts. The heirs resonate—but their families are locked in a blood feud. Romeo & Juliet [[Ballad]].
   
 
 Dancers Story

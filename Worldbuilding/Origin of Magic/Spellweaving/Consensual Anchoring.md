@@ -2,7 +2,7 @@ _"That wall is, in fact, invisible" - [[Puppet Master]] [[Luminance]] [[Spellwea
 
 A delusion can sustain [[Signal Loss]] if you can exchange which [[Consciousness]] believes in the spell. This is a [[Crystal]] / [[Luminance]] / [[Flux]] interaction where [[Stable Harmonic Channels]] form if the caster can deceive or force the target to also believe the illusion is real.
 
-It is a funding principle of illusory magic that says that combat is as much of a battle of technical mastery and sheer imagination as it is of psychological dominance.
+It is a funding principle of [[Illusory Magic]] that says that combat is as much of a battle of technical mastery and sheer imagination as it is of psychological dominance.
 
 **Narrative Applications:**
 

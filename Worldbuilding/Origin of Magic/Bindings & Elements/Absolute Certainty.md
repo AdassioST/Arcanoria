@@ -12,7 +12,7 @@ Sixth Auric Thread of Quantum Collapse and Second Half of Quantum Physics_
 - *"A melody only soars when known where to resolve before playing the first note."
 
 **Related Principles:**
-- [[Consensual Authenticity]]: 
+- [[Consensual Anchoring]]: 
 
 One of the three bindings in [[Mastery Over Chaos]] of the [[Triadic Virtues of Spellcraft]]. [[Absolute Certainty]] is the sixth auric thread of the [[Auric Heptacode]] and sixth binding in [[The Principles of Magic]]. Its principle states that any [[Spellweaving]] requires vivid mental forging, an unshakeable vision of what must come to pass. Nothing steps into existence without first taking shape within the mind's eye. A vision unseen cannot bloom. Thus, [[Spellweaving]]. is bound to the rule that only if it can be visualized can it exist. What you can't imagine can't come to be.
 

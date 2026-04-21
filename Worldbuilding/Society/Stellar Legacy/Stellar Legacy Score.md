@@ -1,7 +1,7 @@
 #age #character #mechanic
 
 _"A profound requiem for [[Humanity]], played on the strings of the stars as the very memory of every wish brave enough to sing into the silence."_
-1
+
 Everything in [[The Eternal Symphony]] given an audible score that binds all [[Legend]]s from all [[Ages]] as a powerful living mythos that modifies the structure of the world. A celestial ledger that transforms individual stories into world-altering myths. Each [[Legend]] does not merely live and die; they compose a personal symphony of actions and choices that, upon their death, are canonized into a [[Constellation]] — a permanent note in the grand score of [[The Eternal Symphony]].
 
 In this system, a [[Legend]] is an exceptional individual whose life story generates [[Resonance]]. The [[Stellar Legacy Score]] is the culmination of the resolution of [[Events]], and [[Ballad]]s, where the roles of [[Major Actor]] and [[Minor Actor]] are embodied during [[World Event]]s and [[Age Crisis]]es in the [[Fate Stage]]. It is in these crucibles of history that [[Legend]]s forge their [[Lyrical Fragment]]s into [[Legend Opus]] and [[Legend Title]]s. Thus, [[Legend]]s do not just level up; they compose their personal mythos through gameplay and create their traits based on it.

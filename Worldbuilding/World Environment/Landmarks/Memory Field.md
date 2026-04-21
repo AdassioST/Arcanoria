@@ -16,6 +16,6 @@ Surprisingly, [[Memory Field]]s are sites of high [[Coherence]], even if the sur
 
 Depending on the [[Ages]] some [[Memory Field]]s appear in [[Arcanoria]] as specific spots within the map. All the list considers:
 
-- Unnamed Harbor: The ruined version of [[Lune Shallow]] after [[A Pact of a Thousand-Eyes]] has been completed and [[The Hollowing]] begins. It contains the story of [[Mira]] and the [[Ballad]] of the Girl Left Behind.
+- Unnamed Harbor: The ruined version of [[Lune Shallow]] after [[A Pact of a Thousand Eyes]] has been completed and [[The Hollowing]] begins. It contains the story of [[Mira]] and the [[Ballad]] of the Girl Left Behind.
 
 - [[The Silent Expanse]] Epicenter: Atop the cliff where [[The Auric Aria's Suicide]] happened in the first field of [[Forsaken Flower]]s. It contains the story of the [[Eighth Cycle]] and the truth about the [[Auric Aria]] descent.

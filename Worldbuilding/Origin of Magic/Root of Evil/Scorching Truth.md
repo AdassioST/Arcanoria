@@ -12,6 +12,8 @@ List of [[Scorching Truth]]s:
 - [[Spellweaving]] is parasitic and [[Lunehymn]] is [[Selenea]]'s sorrow
 - [[Emberwhisper]] is crystalized from the theft of creating [[Humanity]]
 - [[Auric Aria]] clothed herself in flesh in the [[Eighth Cycle]]
+- The meaning behind the symbol of the [[Auric Order]] is [[The Auric Aria's Suicide]] of her mortal frame in front of the vast [[Moon]] overlooking the cliff
+- Each of the [[Seven Weights]]
 
 Massive Spoilers
 

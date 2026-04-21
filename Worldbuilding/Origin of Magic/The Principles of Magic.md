@@ -1,6 +1,7 @@
 #spellweaving
 
-*[[Resonance]]. [[Luminance]], [[Flux]], [[Void]], [[Cindergale]], [[Crystal]], [[Strand]]
+_The Principles Established by the Seven [[Mythical Virtuoso]]._
+_[[Resonance]]. [[Luminance]], [[Flux]], [[Void]], [[Cindergale]], [[Crystal]], [[Strand]]_
 
 ![[The Principles of Magic-2.png]]
 
@@ -265,7 +266,7 @@ There is an array of unlimited interactions between elements that are really onl
   
 - [[Cindergale]] + [[Void]]: This is the only niche use case of [[Void]] as healing magic because [[Strand]] can't interact directly with internal wounds in healing, applying a purifying flame of [[Cindergale]] as means of creating physical touch and bending space and the resulting shadow for a proxy connection to [[Stable Harmonic Channels]]. As a result, this pairing makes it easier to reach the internal damaged tissue. Likewise, it gives a clear visual indicator that previously [[Strand]] healing would not have about the internal body decreasing the complexity of the mental image required to apply [[Sufficient Precision]] with [[Absolute Certainty]]. [[Vibrational Decay]]
   
-Finally, a popular niche for advanced [[Spellweaving]] is illusory magic and shapeshifting which can be achieved with varying degrees of success through several chord combinations. However, these are all temporary and require a constant Legato to continue functioning, true permanence or at least last-longing effects of more than a day requires the use of [[Magical Objects]] or [[World-Bending Relics]] that only exist on [[Ages]] IV onwards after the [[Law of Relics]] has been created.
+Finally, a popular niche for advanced [[Spellweaving]] is illusory magic and shapeshifting which can be achieved with varying degrees of success through several chord combinations. However, these are all temporary and require a constant Legato to continue functioning, true permanence or at least last-longing effects of more than a day requires the use of [[Magical Relic]] or [[World-Bending Relics]] that only exist on [[Ages]] IV onwards after the [[Law of Relics]] has been created.
 
 These are two examples but they aren't the only combinations:
 

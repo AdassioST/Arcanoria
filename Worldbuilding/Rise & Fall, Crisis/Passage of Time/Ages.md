@@ -32,10 +32,10 @@ _You can fail an [[Age Crisis]]._
 
 ### Age II (Iron Age)
 
-Establishment of [[The Principles of Magic]].
+Establishment of [[The Principles of Magic]]. [[Amadea]]
 Introducing Ritardando. First [[Dyad Chord]]s. [[Unison]] Primacy. Basic Magic.
 
-The [[Age Crisis]] is variations of the start of [[The Hollowing]], [[A Pact of a Thousand-Eyes]], or [[Voice of the Heavens]]. It is the first age to have more than one crisis that depends entirely on the [[Civilization]] behavior and if they were the ones that invited an [[Outer God]], [[Lacrimosa]], to [[Arcanoria]].
+The [[Age Crisis]] is variations of the start of [[The Hollowing]], [[A Pact of a Thousand Eyes]], or [[Voice of the Heavens]]. It is the first age to have more than one crisis that depends entirely on the [[Civilization]] behavior and if they were the ones that invited an [[Outer God]], [[Lacrimosa]], to [[Arcanoria]].
 
 The [[Age Crisis]] teaches that there's more than one [[Age Crisis]] possible, and the paths of [[World Event]]s have variation depending on the resolution. If the [[Civilization]] loses to [[Lacrimosa]] they become the "villain" as one of the satellites supporting [[The Hollowing]] during the [[Age of the False Messiah]]. It proves [[Civilization]] is not static and there is no "correct" route to development.
 
@@ -74,9 +74,9 @@ _There are [[Minor Actor]] and [[Major Actor]] roles for [[Age Crisis]] and stor
 
 ### Age IV (Early Medieval)
 
-**[[Ages]] IV onwards there are [[Magical Objects]], [[Cursed Objects]] and [[World-Bending Relics]].**
+**[[Ages]] IV onwards there are [[Magical Relic]], [[Cursed Objects]] and [[World-Bending Relics]].**
 
-Resolution of the [[Law of Relics]] and [[The Hollowing]] allow for [[World-Bending Relics]] to exist from now onwards, giving permanence to both [[Magical Objects]], and [[Cursed Objects]].
+Resolution of the [[Law of Relics]] and [[The Hollowing]] allow for [[World-Bending Relics]] to exist from now onwards, giving permanence to both [[Magical Relic]], and [[Cursed Objects]].
 
 Exploration and classical RPG focused with small settlements & castles.
 
@@ -91,13 +91,16 @@ Starting point of Advanced Magic.
 
 _There is more than a single [[World Event]] for an [[Age Crisis]].
 
-The [[Age Crisis]] teaches that [[Civilization]] can have multiple [[World Event]]s at the end of an era, and each is an [[Age Crisis]].
 
-A doctor ([[Vals Jenner]]) that's been studying the leftover traces of the [[Great Plague]] ([[Vals Jenner]]) becomes the first epidemiologist of creating a vaccine. She gets executed for treason and witchcraft but her obscure work eventually inspires in ORB style the future Dr [[Cadmus Tacet]].
+The [[Age Crisis]] teaches that [[Civilization]] can have multiple [[World Event]]s at the end of an era, and each is an [[Age Crisis]]. During these [[Ages]] all [[Atonalis]] and [[Primal Discordia]] are going to be much more aggressive as [[Lacrimosa]]'s [[The Hollowing]] invertedly did resolve the amount of suffering in [[Arcanoria]], for which most [[Atonalis]] that survived their "[[The Inescapable Hunger]]" period are going to be starving for [[Resonance]] and will try to get it by any means necessary.
+
+The [[World Event]]s of this [[Ages]] are going to involve the [[Primal Discordia]], for which the [[Morpheus Abysmal]] becomes the most prominent one with the [[Atonalis]] reign, conquering regions that will become subject to the [[Age of Horrors]]. 
+
+Moreover, the amount of [[Atonalis]] present during this time is going to be the source of the first [[Institute]]s and the [[Dissonance League]] of [[Enclave]]s that begin experimenting on [[Atonalis]] at the cost of [[Humanity]] suffering. Ranging from cruel experiments like the crude refinery of [[Velvet Nectar]] to other methods of understanding how a [[Soul Leitmotif]] cracks into [[Dissonance Core]]s. 
+
+The [[Morpheus Abysmal]] is the first [[Atonalis]] government type structure and it speaks on the tongues of the [[Eight-Born Paths]].
 
 The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becomes popularized. He eventually dies, but this is one of the important expeditions of [[Cadmus Tacet]].
-
-One of the 2 [[World Event]] [[Age Crisis]] is related to the lack of [[Atonalis]] during [[The Hollowing]] as the "Demon Lord" becomes the first structured [[Atonalis]] type of government.
 
 ### Age V (Middle Medieval)
 
@@ -120,7 +123,9 @@ _Even if there's multiple [[World Event]]s, they can still converge as [[Age Cri
 
 The [[Age Crisis]] teaches that all [[Major Actor]]s have their own agenda, and even if there's multiple [[World Event]]s they can still converge as the [[Age Crisis]] that has multiple conflicting factions fighting for their own agenda and survival. This is demonstrated by 3 different [[World Event]] [[Age Crisis]] running on parallel that will intersect and complicate during the crusades. 
 
-First [[Chorus Pillar]] vs [[Aureus Pillar]], then the internal divide between them will splinter factions of [[Regalia Pillar]] and [[Waltz Pillar]], having effectively at least 4 major players. One of these factions will invoke any of the 4 available [[Outer God]]s ([[Dark Forest Paradox]], [[Formless Father]], [[Subduing Hate]], or EVO) The default is [[Formless Father]], and it signals the beginning of the apocalypse with the [[World Event]] of his [[Flesh-Exalting Transcendence]] of "[[The Severing of the Union]]." Furthermore, the first [[Velvet Nectar]] will inevitable collapse the Velvet Cage into [[Atonalis Nest]]s that join the chaos and the regions under the [[Age of Horrors]] will be prime ground for becoming "no man's land." The map will be divided into many factions ongoing between the crusades, the [[Atonalis]], the increasing [[Age of Horrors]], the invoked [[Outer God]] apocalypse, and only one can survive the entire battle royale with the [[Legend]] of making a wish on the Holy Grail, [[The Ultimate Weapon]].
+First [[Chorus Pillar]] vs [[Aureus Pillar]], then the internal divide between them will splinter factions of [[Aureus Pillar]]-[[Regalia Pillar]], [[Aureus Pillar]]-[[Waltz Pillar]], [[Chorus Pillar]]-[[Regalia Pillar]], and [[Chorus Pillar]]-[[Waltz Pillar]], having effectively at minimum 4 major players. One of these factions will invoke any of the 4 available [[Outer God]]s ([[Dark Forest Paradox]], [[Formless Father]], [[Subduing Hate]], or EVO) The default is [[Formless Father]], and it signals the beginning of the apocalypse with the [[World Event]] of his [[Flesh-Exalting Transcendence]] of "[[The Severing of the Union]]." Furthermore, the [[Dissonance League]] of [[Institute]]s will inevitable collapse by a containment breach and will turn into [[Atonalis Nest]]s that join the chaos, adding more of the overrun regions of the [[Age of Horrors]]. These areas are going to be prime ground for becoming "no man's land."
+
+The map will be divided into many factions ongoing between the crusades, the [[Atonalis]], the increasing [[Age of Horrors]], the invoked [[Outer God]] apocalypse, and only one can survive the entire battle royale with the [[Legend]] of making a wish on the Holy Grail, [[The Ultimate Weapon]].
 
 Development of surgery on [[Pure Light]] beings by [[Cadmus Tacet]], he's cruel but does necessary advancements, inspired by Pasteur. He coins the term Age of [[Humanity]] and is a major actor during the battle royale, especially when dragons and demi dragons become involved in the chaos. It becomes a fight of both a magical, political, and technological race of superweapons and ways to counter act them.
 

@@ -52,6 +52,8 @@ Her element is [[Lunehymn]] with [[Glimmerfern]] being the refining material bor
 
 - Tragically, [[Selenea]]'s deepest wound on the [[Seventh Cycle]] mirrors the [[Auric Aria]]'s own [[Impostor Syndrome]], but from the inverse direction. The [[Auric Aria]] doubted her power and precision as a creator, twisting her self-doubt into control and jealousy. [[Selenea]] doubts her intellectual worth and capacity for connection, twisting her self-doubt into an endless internal indictment. Both goddesses look at the same event — the [[Sixth Cycle]]'s creative partnership — and conclude that they, personally, were the deficient one. Resolving this tension is the core purpose of the sonata of [[Arcanoria]] by translating the [[Law of Relics]] into the fabric of the [[Known Universe]] itself. [[Lacrimosa]]'s [[The Hollowing]] is ironically the apocalyptic [[World Event]] that allows loss to become transformation.
 
+- [[Elemental Sprite]]s are the only thing [[Selenea]] is able to create in the [[Moon]], they are ephemeral, named "light motes" by her, and possess a primitive [[Consciousness]]. The [[Parlor of the Moon]] is filled with them as the only temporary company and reminder that she's still a creator.
+
 ### Media References:
 - [Characterization & Singing](https://vt.tiktok.com/ZSDXFsWaU/ "https://vt.tiktok.com/ZSDXFsWaU/")
 - [Character Edit: Observer and Witness of Life](https://vt.tiktok.com/ZSDXYJY9w/ "https://vt.tiktok.com/ZSDXYJY9w/")

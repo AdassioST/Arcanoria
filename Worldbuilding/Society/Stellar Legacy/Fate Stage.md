@@ -36,7 +36,7 @@ _Example:_ [[The Hollowing]]:
 	- The [[All-Loving Moon]]: [[Lacrimosa]].
 	- The [[Eight-Wings of Lacrimosa]]: [[Selah]], [[Adel]], [[Kaia]], [[Erastus]], [[Seraph]], [[Arioch]], [[Destra]], [[Lucetta]], [[Pagiel]].
 	- The [[Purest of Love]] Zealot: Can be [[Civilization]].
-	- [[A Pact of a Thousand-Eyes]] Recipient: Can be [[Civilization]].
+	- [[A Pact of a Thousand Eyes]] Recipient: Can be [[Civilization]].
 	- The Hollowed Crown: [[Hollowmarch]], [[Luminaire]].
 	
 - The Unbroken Will (Anti-Lacrimosa) Roles:
@@ -96,7 +96,7 @@ Finally, when a [[World Event]] concludes the resolution of its [[Ballad]] there
 
 **Example: [[The Hollowing]] [[Fate Stage]]**
 
-**Act I:** The Calling after [[A Pact of a Thousand-Eyes]]
+**Act I:** The Calling after [[A Pact of a Thousand Eyes]]
 
 - _Available Roles:_ [[All-Loving Moon]], [[Eight-Wings of Lacrimosa]], [[Opposing the Heavens]].
 - _A cultist performs a miracle_ → +3 [[Purest of Love]] [[Story Affinity]].

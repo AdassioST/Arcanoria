@@ -1,14 +1,14 @@
 #spellweaving
 
-_"The size of a loss is always proportional to the size of the care; to lose greatly is to have loved greatly"_
+_"The size of a loss is always proportional to the size of the care. To lose greatly is to have loved greatly" - [[Amadea]], the [[Mythical Virtuoso]] of [[Void]]._
 #### *Self-Worth, Loss, and Commitment
 Fourth Auric Thread of Conservation of Energy.*
 
 **Core Axis | AM I WORTH?**
 
 **Aligned Note:** A | La
-**Attuned Element:** [[Void]] (Shadow + Space)
-
+**Attuned Element:** [[Void]] (Shadow + Space) 
+[[Moon]]
 **Invocation:**
 - You understand the strength required to apply dynamics and play it (4). [[The Principles of Magic]].
 - *"Masterful dynamics require strength, and it has a cost both physically and mentally for the performer."*
