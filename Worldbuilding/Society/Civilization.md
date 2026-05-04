@@ -1,1 +1,1 @@
-The player
+The player, also referred to as the Third Actor

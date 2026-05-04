@@ -14,7 +14,7 @@ _"If life were eternal and painless, then all the courageous acts of sacrifice, 
 
 _"Matter is Stabilized Sound, Magic is the Crystallization of Emotion, and Reality is a Relationship built on [[Resonance]]. All of existence, and [[Consciousness]], is itself a fractal."_ - [[The White-Touched Archivist]].
 
-After the [[Great Fracture]], the once-thriving world of [[Arcanoria]] lies in ruin. [[Civilization]] collapsed into scattered remains, haunted by the echoes of a lost glory in a world adrift between renewal and decay — a true [Moldy World](https://youtu.be/iHSEFMYjbnE?si=MBvIikI93Pd_QOV9). [[Amadea]]
+After the [[Great Fracture]], the once-thriving world of [[Arcanoria]] lies in ruin. [[Civilization]] collapsed into scattered remains, haunted by the echoes of a lost glory in a world adrift between renewal and decay — a true [Moldy World](https://youtu.be/iHSEFMYjbnE?si=MBvIikI93Pd_QOV9).
 
 At the heart of existence flows [[The First Overtone]], and the [[Auric Aria]], the god of [[Humanity]], divided its [[Dual Confluence Stream]] through the [[Auric Heptacode]] and the [[Trinity Harmony]] into two primordial forces: [[Aetherlight]], radiant and nostalgic, and [[Lunehymn]], dreamlike and delirious. Their waning glow seeps through the shattered skies, shaping every shadow, forest, and crumbling gothic spire.
 
@@ -56,9 +56,10 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - [[World Event]]s, the [[Fate Stage]], [[Story Affinity]] and [[Ballad]]s.
 - [[Legend]]s, [[Constellation]]s and the [[Stellar Legacy Score]].
 - [[The White-Touched Archivist]]. [[Fundamental Frequency]], [[Soul-Key]], [[Composure]].
-- [[Strand Pool]]s, [[Memory Field]]s, and [[Time Bubble]]s.
+- [[Strand Pool]]s, [[Memory Field]]s, and [[Time Bubble]]s, [[Soliton]].
 - [[Music as Catalyst]], [[Mythical Virtuoso]] and [[The Principles of Magic]].
 - Passing of [[Cycle]] and [[Ages]].
+- [[Whistling Fans]], [[Auric Bells]].
 - [[Sky Glass]], [[Mirrorbox Trap]], and [[Resonance Box]].
 - [[Dual Confluence Stream]] of [[Lunehymn]] and [[Aetherlight]].
 - **Structure ([[Auric Aria]]) vs. Essence/Vitality ([[Selenea]]).** This is the duality of the [[Click Power]] [[Vital Resources]] vs [[Building Materials]]. [[Pure Light]] vs [[Auric Structure]].
@@ -66,6 +67,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - [[In-Depth Character Analysis of Divinity]].
 - [[The Truth of Arcanoria]], [[Pillars]], [[Civic]].
 - [[Age of The End]], [[Parlor of the Moon]].
+- [[Notas Diplomado]]. 
 
 ### Backlog Ideas
 
@@ -74,7 +76,17 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 
 - Preconception the Movie as a reference for an intersex [[Outer God]] that gets pregnant with itself and its son is the god. It causes a [[Time Bubble]], a paradox where it is both the son, the mother, and the father in an infinite ouroboros cycle.
 - Brobola creature.
-- [[Lux Aeterna]] is what [[Lacrimosa]] uses to hollow out [[Consciousness]], it essentially hits the exact opposite wave of the part of [[Consciousness]] to neutralize it. Noise cancelling made for the soul.
+- [[Atonalis]] Parasitic [[Resonance]]: Spooky agony at a distance.
+- The player is [[Cosmic Motion]] on the equation of 3 x 4 x 7. the variations on the Choice of the End are different operations, multiplying 7 by the power of -3 is the Reset of [[Arcanoria]], changing [[A True Sine Wave]] is multiplying by 0, removing the 4 to have 3 at the power of 3 with 7 at the power of 3 is 21 at 3 which is the start of the universe without [[Cosmic Motion]] (the Third Actor) for them to interact with one another.
+
+- The [[Cycle]]s and [[Ages]] have the palindrome of the [[Seventh]] defined, the gap between how many [[Cycle]]s does it take for [[Civilization]] to progress depends on the tether of the Third Actor, they are gazing at [[Arcanoria]] from a place even beyond [[The Infinite Void]], this explains the difference in how they perceive the passage of time. They are beyond time and normal [[Coherence]] that rules [[Arcanoria]]. The [[Auric Aria]] notices this after finishing the Sonata of [[Arcanoria]] and figuring out that the Third Actor is [[Consciousness]] without [[The First Overtone]] from somewhere even further than [[The Infinite Void]]. They are peering and interacting with the veil from somewhere before the [[Original Ripple]] which is why they are the [[Cosmic Motion]] that put the [[Original Ripple]] and all of existence in motion.
+
+- Conflicts in the [[Old Testament]] with [[Original Eight]], cutting several of them apart and preventing the [[Atonalis]] Reign of the [[Morpheus Abysmal]], no motivation to conquer the world because no [[Lacrimosa]] or [[The Hollowing]] happened. [[Violux]] interaction with the [[Auric Aria]].
+
+- [[Arcanoria]]'s counterpart to the great classics are Amadeus Mozart as [[Amadea]]. Beethoven is the Deaf Girl that falls in love with the [[Morpheus Abysmal]] during the [[Atonalis]] [[Age Crisis]] of [[Ages]] IV that makes all of the personalities have [[Coherence]] for a moment before dying. "Fur Elise" becomes "Fur Morpheus." in the story inspired by Meruem.
+
+- [[The White-Touched Archivist]] cloths on the [[Ballad]] of the white cloths are something like a hyrax, a pootis bird /harpy eagle hybrid, and a sea dragon slug. They represent the sea, the earth, and the sky.
+
 - [[Eyras]] obtains his [[Resonance]] [[Motif Awakening]] after confronting and slaying his mother while being reassured by his new found family that it's okay to let go.
 - [[Strand]] increases constructive interference because the [[Resonance]] increases as the two or more people "already know the same song of the soul."
 - A [[Dyad Chord]] of [[Flux]] and [[Resonance]] to create [[Coherence]] zones as "safety zone shields" in places of high [[Dissonance]] through the application of Faraday Waves into the [[Great Harmonic Loom]]'s [[Flux]] membrane. It could also be used to achieve temporary states of [[Superposed Resonance]] by vibrating the [[Flux]] in the [[Great Harmonic Loom]]. Also useful for decontaminating [[Vibrational Fallout]].
@@ -85,7 +97,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - The shadow order of [[Amadea]] in [[Iridia]] becomes the beacon of hope during the [[Age of Legends]] because they operate in the shadows and [[Lacrimosa]] can only manipulate if she is the witness which is why [[Amadea]] order of espionage to remain unseen is so effective. Do not let the witness watch you, the [[All-Loving Moon]] can't reflect its light into shadow. Masterplan behind two master manipulators that outlive the legacy of [[Amadea]].
 - Hollow-Point for assassination with crystal embed into tools developed by [[Amadea]].
 - [[Cordelia]] and [[Sephira]] develop [[Cindergale]] on [[Void]] combo is made to create healing of illness through purifying fire based on the [[Legend]] of [[The Cradle of Echoes]] and [[Eyras]].
-- Cigarra storie of a [[Pure Light]] species that creates music like critters but  they cause a famine because they're destructive. A story about a [[Pure Light]] concert that wreaks havoc with the [[Auric Peach]] trees.
+- Cigarra story of a [[Pure Light]] species that creates music like critters but  they cause a famine because they're destructive. A story about a [[Pure Light]] concert that wreaks havoc with the [[Auric Peach]] trees.
 
 - "I'm not here to fix the system, I'm here to burn it down." Character.
 - Summary of the Divergence:
@@ -96,13 +108,29 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - "Someone will be born the day after I die." - [[Vaelia]] [[Ages]] 0 character.
 - "You are not the first [[Legend]]. You will not be the last. But your note in [[The Eternal Symphony]] is yours alone." + Record of Ragnarok Adam. Mother of Bards.
 
-- The hyper accelerationist [[Institute]] of [[Ages]] XI onwards believes in soteriology by the death of the [[Known Universe]]: "One day we will all return to the static that precedes the very existence of the cosmos." Their rush to end the world is a driver to the next MAD reset.
+- The hyper accelerationist [[Institute]] of [[Ages]] XI onwards believes in soteriology by the death of the [[Known Universe]]: "One day we will all return to the static that precedes the very existence of the cosmos." Their rush to end the world is a driver to the next MAD reset. "The stars fall from the sky, the world is reborn."
 
 - "The soul that sees beauty may sometimes walk alone." Aloof Frieren type of character that wanders off nonchalantly.
+
+- "You're not old enough because the universe can't hear you yet." - [[Resonance]] theologian on [[Cycle]]s and [[Motif Awakening]]s at 16 [[Lunar Cycle]]s.
+
+- Grief Cathedral Thesis: "Understanding is not consent to be consumed."
+
+- Character on [[Atonalis]] Hunting: "Healing is possible. But it is not easy. It requires the terrifying risk of connection. It requires someone to see you at your worst and not look away. And it requires you to choose—over and over, moment by moment—not to surrender. The universe does not guarantee that anyone will witness you. It does not guarantee that witnessing will be enough. It does not protect you from becoming the thing that hurt you. The only guarantee is that if you stop trying, the wound will consume you. And then you will consume others."
+
+- Grief Garden [[Enclave]] on [[Rose Seed]]s of [[Atonalis]]: "Those good qualities were not deceptions. They were the [[Resonance Anchors]] of a soul that could have grown into something beautiful. But their spiraling desperation hijacked them. The same intensity that could have become deep empathy became manipulation. The same sensitivity that could have become art became emotional weaponry. You cannot access the beauty while the predator is still active. The monster must be stopped—sometimes destroyed—before the pattern of what they could have been can be seen clearly." [[In-Depth Analysis of Atonalis]]
+
+- Grief Cathedral on [[Atonalis]]: "The idea that healing isn't possible is itself the most dangerous lie. If you tell yourself you're beyond repair, you will build a life that proves it — and that life will consume other people in the exact same way that made you a victim in the first place. There is always another option, and it is connection, deciding that there isn't any exit and reducing every other option to only one tunnel of endless pain is what creates monsters that surrender." 
+
+- Grief Cathedral on [[Potential of Creation]]: "Magic does not draw from an external reservoir. It draws from the self — from memory, from grief, from physical and emotional stamina. The deeper what you have felt, in the entirety of your history, the more you have processed into your Leitmotif, the more material you have to spend. This is why it's called [[Potential of Creation]], of it is the person who has suffered most that has, paradoxically, the most to give."
 
 - A Braum / Brook resilient type of physically robust character that teaches that if you pull through all the muck in life eventually you'll get a good ending and that the stars in the sky are those very same stories of who eventually made it through it all. Related to "My first moral and magical duty is to protect my own [[Soul Leitmotif]]. I cannot be your Source of [[Resonance]]. You have to sing for yourself but I can be here to help you." Character.
 
 - An [[Institute]] traumatized children of hearing the crack of [[Soul Leitmotif]]s as a lot of his fellow friends turned into [[Atonalis]] and made him identify the cracking as the greatest sign of danger.
+
+- [[Legend Relationship]]s between [[Legend]]s up to 7 important characters, can be friends, lovers, soulmates, mentors, etc. It is bidirectional and it changes based on the [[Legend]]. For the falling in love meter, [[Legend]]s have different love meters, and they change their crush type (Yanderes, Tsunderes, Love Types) based on their personality [[Legend Trait]]s.
+
+- Starting with Ironman mode, no manual saves, makes the SLS tether harden giving a permanent 50% increase in [[Lyrical Fragment]]s but makes every decision be permanent to avoid save scumming.
 
 - Magical artifacts being woven, strong reality bending artifacts contain the [[Soul Leitmotif]] and [[Consciousness]] of a powerful being. Limited use cases before they depart and come on with [[The Eternal Symphony]]. It's a sort of [[Flesh-Casing Ritual]]. Akin to white whistles in Made in Abyss.
 

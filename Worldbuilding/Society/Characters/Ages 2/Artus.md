@@ -34,3 +34,5 @@ The first of the [[Saber-Knight]]s and a key figure for [[Amadea]].
 - Dies before he fully develops his secondary [[Ornament]] to [[Cindergale]] or [[Strand]]. His death in battle against an [[Ascendant]] is the [[Motif Awakening]] to [[Void]] of [[Amadea]].
 
 - He is one of the youngest [[Legend]]s to have slain an [[Ascendant]] [[Atonalis]] without a squad of [[Spellweaver]]s. He was a prodigy with the sword that would've likely became a saber master virtuoso if he would have lived for longer.
+
+- [[Artus]] saber becomes the mythical parallel to excalibur for [[Arcanoria]], [[Amadea]] states on the [[Artusian Knight]] ceremonies: "Not because the blade was special, but because the man who wielded it was."

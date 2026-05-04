@@ -128,7 +128,7 @@ Feeds on: Transgression, loss of agency, the shame that follows unwanted acts.
 
 [[Original Eight]] [[Primal Discordia]]: The Imperium Obsessus.
 
-**Path VIII: [[Erosyx]] - The Lustful Denied (5.2%)**
+**Path VIII: [[Erosyx]] - The Intimacy Denied (5.2%)**
 
 Motto: DO NOT FACE THEM ALONE UNDER ANY CIRCUMSTANCES.
 
@@ -143,4 +143,4 @@ Feeds on: Identity denial, sexual dysfunction, intimacy twisted by fear and sham
 
 **Behavior:** Infiltrates human society; performs as a collapse of self through relational distortion in false identity until the revelation moment. Operates through seduction and intimacy rather than force, through affection and longing, creating bonds of love and desire in a fatal trap.
 
-[[Original Eight]] [[Primal Discordia]]: The Wrongly Named.
+[[Original Eight]] [[Primal Discordia]]: [[The Amber Wonderland]].

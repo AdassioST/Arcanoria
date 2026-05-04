@@ -20,3 +20,6 @@ The [[Mythical Virtuoso]] of [[Flux]] of the Seven Virtuosi.
 - The [[Flux]] [[Mythical Virtuoso]] of the Seven Virtuosi ([[Magnum Opus]])
 - The Patron of Art, [[Indulgent Enclave]]s and [[Weaver Enclave]]s ([[Legend Opus]])
 - An Expedition Through the Impossible ([[Legend Opus]])
+
+
+_"I'm not a [[Lustful]] guy." I said Knowing deep down that I've been since I have memory. I am so disgusting._

@@ -4,7 +4,7 @@ Completing the climax of the [[Ballad]] of the Burrowed Well awards 7 [[Fragment
 
 The [[Events]] of [[A Burrowed Name]] are available from [[Ages]] 0 to VI, done once per lifetime of a [[Legend]], and can be done only every other age during a [[Ritual Seventh]].
 
-When looking at the inside of the Burrowed Well, the name on the story changes based on the [[Legend]] that gazes into it, and changes pronouns accordingly. 
+When looking at the inside of the Burrowed Well, the name on the story changes based on the [[Legend]] that gazes into it, and changes pronouns accordingly.
 
 For clarity and readability's sake the name here will be [[Cordelia]] addressed as She.
 
@@ -140,7 +140,7 @@ Un [[Edgardo]] chiquito que no tenía nombre.
 
 Había un pequeño [[Edgardo]] que vivía solo en la paciencia enroscada en la costura entre el latido del corazón y el silencio.
 
-Un pequeño [[Edgardo]] esperando a aquellos que lo escucharan sin romperse, sin huir, sin mentir sobre la verdad de estar viva, de ser pequeña y de seguir aquí.
+Un pequeño [[Edgardo]] esperando a aquellos que lo escucharan sin romperse, sin huir, sin mentir sobre la verdad de estar vivo, de ser pequeño y de seguir aquí.
 
 Sigue esperando ahí el [[Edgardo]] chiquita.
 

@@ -36,6 +36,9 @@ _"Goodbye, Mother: Vanquish [[The Cradle of Echoes]] and liberate [[Eyras]]."_
 Liberate a [[Constellation]] into [[The Eternal Symphony]]
 _"Released into [[Stardust]]: Sever the tether anchoring a [[Constellation]] to [[Arcanoria]]."_
 
+Develop a [[Legend]] that has Three Maladaptive Middle [[Legend Trait]]s
+_"Bundle of Joy: Make a [[Legend]] that is a delight to be around with."_
+
 ### [[Legend]]s & [[Civilization]]
 
 Have a fully [[Ornament]]al [[Major Settlement]]

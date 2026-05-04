@@ -10,15 +10,15 @@ All [[Legend]]s have access to all magic types: [[Resonance]], [[Luminance]], [[
 
 The binding score can range from 1 (Terrible) to 30+ (Master Level) and the score ranges in the following scale:
 
-| **Score** | **Proficiency** | **[[Spellweaving]] Capability**                                                                                                                      |
-| --------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1–4       | Terrible        | Struggles to cast even [[Minor Note]] spells of that element; The binding is largely dormant.                                                        |
-| 5–12      | Apprentice      | Basic magic, can cast [[Minor Note]]s of various rhythms and [[Major Note]]s of staccato spells ([[Unison]])                                         |
-| 13–19     | Average         | Reliably casts [[Major Note]] of [[Unison]] spells and can create simple combinations of rhythms ([[Dyad]]s)                                         |
-| 20–27     | Skilled         | Reliably creating [[Dyad]]s on certain rhythms, can start doing [[Triad Chord]]s with a [[Major Note]] of this binding.                              |
-| 28-32     | Advanced        | Reliable advanced spells and expert combinations of [[Triad Chord]]s. Complete mastery of regular rhythms.                                           |
-| 33–41     | Expert          | Master-level magic which introduced polyrhythms, yet proves hard to maintain [[Tetrad Chord]]s in sync.                                              |
-| 42+       | Master          | Legendary spells with complete mastery of the binding, where reality begins to bends to their will. Only limited by the nature of [[Tetrad Chord]]s. |
+| **Score** | **Proficiency** | **[[Spellweaving]] Capability**                                                                                                                                        |
+| --------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1–4       | Terrible        | Struggles to cast even [[Minor Note]] spells of that element; The binding is largely dormant.                                                                          |
+| 5–12      | Apprentice      | Basic magic, can cast [[Minor Note]]s of various rhythms and [[Major Note]]s of staccato spells ([[Unison]])                                                           |
+| 13–20     | Average         | Reliably casts [[Major Note]] of [[Unison]] spells and can create simple combinations of rhythms ([[Dyad]]s)                                                           |
+| 21–27     | Skilled         | Reliably creating [[Dyad]]s on certain rhythms, can start doing [[Triad Chord]]s with a [[Major Note]] of this binding.                                                |
+| 28-32     | Advanced        | Reliable advanced spells and expert combinations of [[Triad Chord]]s. Complete mastery of regular rhythms.                                                             |
+| 33–41     | Expert          | Master-level magic which introduced polyrhythms, yet proves hard to maintain [[Tetrad Chord]]s in sync.                                                                |
+| 42+       | Master          | Legendary spells with complete mastery of the binding, where reality begins to bends to their will. Being able to unleash [[Hyper Chord]]s only limited by its nature. |
 
 This being said, it's important to distinguish that the [[Soul Leitmotif]] primary binding and the [[Ornament]]s tend to be the core of a [[Legend]]. It is possible to learn spells using other bindings, but they're much more prone to causing [[Discordant Interference]]. Since a [[Legend]]'s lifetime is limited too, a character is prone and more effective while specializing in only mastering the elements of their [[Soul Leitmotif]], with the occasional introduction of a fourth binding on situational scenarios or to achieve specific conditional spells.
 
@@ -132,8 +132,8 @@ Leyline Drifter (Can sense [[Leylines]] by Attunement)
 
 **[[Consonance]] Origin [[Legend Trait]]s**
 hyperphantasia
-Attunement Prodigy
-
+Attunement Prodigy ([[Luminaire]], [[Aurelian]])
+Perfect Ear ([[Sephira]], [[Luminaire]])
 
 
 | Trait                                                                                                          | Scaled Cost | Underdog Points | Binding Effect              | Narrative Effect                                                                                                       |
@@ -261,7 +261,7 @@ Principled -> Condemned Idealist / Tragic Hypocrite -> The Bleeding Architect
 | [[Ruthless Perfectionist]] | [[Luminance]]<br><br>[[Crystal]]<br><br>     | **Why & How:** They combine an unshakeable vision of how things should be (Crystal) with a piercing, often cruel clarity that exposes every single flaw (Luminance).                                                                                      |
 | [[Extravagant Egocentric]] | [[Resonance]]<br><br>[[Luminance]]<br><br>   | **Why & How:** They project their unique Soul-Key so loudly (Resonance) and with such blinding truth (Luminance) that they drown out all other frequencies in the Loom.                                                                                   |
 | [[Sly Fox]]                | [[Luminance]]<br><br>[[Flux]]<br><br>        | **Why & How:** They possess incredible situational clarity (Luminance) and use it to effortlessly read and manipulate the emotional currents of others (Flux).                                                                                            |
-| Unyielding Will            | [[Crystal]]<br><br>[[Cindergale]]<br><br>    | **Why & How:** They transform a stagnant defensive conviction (Crystal) into an unstoppable, forward-moving flow state that cannot be broken (Cindergale).                                                                                                |
+| Unyielding Will            | [[Crystal]]<br><br>[[Resonance]]<br><br>     | **Why & How:** They transform a stagnant defensive conviction (Crystal) into an unstoppable, forward-moving state that reflects themselves (Resonance).                                                                                                   |
 | [[Compulsive Overthinker]] | [[Luminance]]<br><br>[[Resonance]]<br><br>   | **Why & How:** They analyze the truth so deeply (Luminance) that they become paralyzed by the infinite ways a situation could fail, requiring connection to stop their delusion (Resonance).                                                              |
 | Prophetic Spark            | [[Luminance]]<br><br>[[Strand]]<br><br>      | **Why & How:** They use their piercing clarity (Luminance) to read the temporal threads of the Great Harmonic Loom, seeing the future by understanding the echoes of the past (Strand).                                                                   |
 | Nurturing Caregiver        | [[Flux]]<br><br>[[Strand]]<br><br>           | **Why & How:** They channel raw, authentic emotional warmth (Flux) into forging deep, lasting bonds of loyalty and protection across time (Strand).                                                                                                       |
@@ -296,11 +296,6 @@ Principled -> Condemned Idealist / Tragic Hypocrite -> The Bleeding Architect
 |                            |                                              |                                                                                                                                                                                                                                                           |
 
 Deep Feeler, Rekindling Fire, Clarity Seeker, Sacrificial Lamb, [[Savior Complex]], Broken Optimist, Self-Indulgent Slave, Daydreaming Escapist, Destructive Flare, Ruthless Perfectionist, [[Extravagant Egocentric]], Sly Fox, Unwavering Will, Compulsive Overthinker, Prophetic Spark, Nurturing Caregiver, Fatalistic Embracer, Diplomatic Harmonist, Unpredictable Storm, Silent Watcher, [[Void]] Anchor, Honorable Memorialist, Cunning Edge, Flared Current, Disciplined Orthodox, Pattern Seer, Luminous Idealist, Loyal Thread, Searing Light, Stage Performer, Haunted Empiricist, Soul Tuner, Puppet Master, Legacy Obsessed, Purifying Flame, Consuming Gale, Eccentric Maniac, Reality Bender, Determined Achiever, Fatalistic Absurdist, Self-Fulfilling Prophet, Romantic Hedonist, Utilitarian Stoic, Auspicious Zephyr, Compulsive Liar (Flux/Luminance), Impostor Syndrome (Void/Resonance), Suppressed Diamond (Flux/ Crystal), Desperate Rumination (Void/Flux), Auric Proselytizer, People Pleaser, Attention Addict, Witness Memorialist, Bitter Grudge (Void/Strand), Over-giving Devout, Loss-Beauty Lunatic, [[Risk Lover]] (Cindergale / Void), [[Threat Cartographer]], [[Invisible Color]] ([[Crystal]] + [[Strand]])
-
-[[Personal Pathways and Interconnected Awakenings]]
-
-
-
 
 ### All Personality [[Apex Trait]]s
 
@@ -406,6 +401,8 @@ _Narrative Truth:_ "Flawlessness is not an achievement—it is my nature. What 
 
 
 ### All [[Spellweaver]] [[Legend Trait]]s
+
+Score Reader evolution tree (Can see the enemy music [[Sephira]]), Score Master
 
 **[[Mastery Over Chaos]] [[Legend Trait]]s**
 

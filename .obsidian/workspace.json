@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "783ad38618112d7e",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "972be68855c2398c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artus.md",
+                "file": "Worldbuilding/Gateway To Genesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artus"
+              "title": "Gateway To Genesis"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314
   },
   "right": {
     "id": "c527bee07c2268a4",
@@ -105,12 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artus.md",
+                "file": "Worldbuilding/Gateway To Genesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Artus"
+              "title": "Enlaces salientes de Gateway To Genesis"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artus.md",
+                "file": "Worldbuilding/Gateway To Genesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Artus"
+              "title": "Enlaces entrantes de Gateway To Genesis"
             }
           },
           {
@@ -177,67 +177,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-stille:Toggle Stille": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "iconic:Open rulebook": false
+      "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "972be68855c2398c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Worldbuilding/Society/Characters/Ages 2/Amadea.md",
-    "Artus.md",
-    "Worldbuilding/Society/Stellar Legacy/Legend Trait.md",
+    "Worldbuilding/Mythology/Deities/Selenea.md",
+    "Worldbuilding/Mythology/Deities/Lacrimosa.md",
     "Worldbuilding/Gateway To Genesis.md",
-    "Worldbuilding/Origin of Magic/Root of Evil/Scorching Truth.md",
-    "Worldbuilding/Events/Age Related/Ages 0/A Burrowed Name.md",
-    "Worldbuilding/Society/Characters/Ages 2/Cordelia.md",
-    "Edgardo.md",
-    "merged/merged-output-2026-04-21.md",
-    "merged/merged-output-2026-04-20.md",
-    "Worldbuilding/Society/Societal Resources/Foundation/Civic.md",
+    "The Echo In the Light.md",
     "Worldbuilding/Society/Characters/Mythical Virtuoso.md",
+    "Worldbuilding/Society/Characters/Ages 2/Amadea.md",
+    "Worldbuilding/Meta Analysis/In-Depth Analysis of Syvanth.md",
+    "merged/merged-output-2026-05-04.md",
+    "Worldbuilding/Mythology/Deities/Parlor of the Moon.md",
+    "Worldbuilding/Origin of Magic/The Principles of Magic.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/Tetrad Chord.md",
+    "Worldbuilding/Mythology/Deities/Auric Aria.md",
+    "Worldbuilding/Society/Characters/Ages 3/Selah.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 6/Polychord Crisis.md",
+    "Game Systems/Derivative Ideas/Franchise Potential.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Soliton.md",
+    "Worldbuilding/Society/Stellar Legacy/Legend Trait.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Forbidden Objects/Hypermage.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Old Testament/Uriel.md",
+    "Worldbuilding/Society/Auric Order/Auric Order.md",
+    "merged/merged-output-2026-05-03.md",
+    "Worldbuilding/Society/Weapons, Instruments & Relics/Primary Instruments/Auric Bells.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Outer God Rituals/Purest of Love.md",
+    "Worldbuilding/Society/Characters/Ages 5/Cadmus Tacet.md",
+    "Worldbuilding/Society/Characters/Ages 1/Daedalus.md",
+    "Worldbuilding/Society/Weapons, Instruments & Relics/Primary Instruments",
+    "Worldbuilding/Society/Tools & Inventions/Instruments",
+    "watermark_removed_d1abfe33-c5d2-470b-816a-99991610abcc.mp4",
+    "Sin nombre",
+    "Pasted image 20260430145435.png",
+    "Uriel.png",
+    "Pasted image 20260430142514.png",
+    "Auric Heptacode.png",
+    "Amadea-5.png",
     "Images/Gateway To Genesis.png",
-    "Flesh-Exalting Transcendence.md",
     "Images/Auric Order/Auric Heptacode.png",
     "Images/Auric Order/Auric Heptacode 1.png",
     "Images/Auric Order/Auric Mythos of Creation.png",
     "Images/Auric Order/Auric Mythos of Creation-1.png",
-    "Worldbuilding/Society/Auric Order/Auric Order.md",
-    "merged/merged-output-2026-04-19.md",
-    "Worldbuilding/Society/Stellar Legacy/Constellation.md",
-    "Worldbuilding/Society/Stellar Legacy/Stellar Legacy Score.md",
-    "Worldbuilding/Society/Stellar Legacy/Legend.md",
-    "Worldbuilding/Society/Characters/Ages 2/Sephira.md",
-    "Worldbuilding/Society/Characters/Ages 2/Mira.md",
-    "Worldbuilding/Mythology/Deities/Selenea.md",
-    "Worldbuilding/Society/Characters/The White-Touched Archivist.md",
-    "Worldbuilding/Rise & Fall, Crisis/Crisis/Age Crisis.md",
-    "merged/merged-output-2026-04-18.md",
-    "Worldbuilding/Meta Analysis/In-Depth Analysis of Friendship is Magic.md",
-    "Clarity of Infinite Light.md",
-    "Daedalus.png",
-    "Spellweaving-1.png",
-    "Spellweaver-1.png",
-    "Spellweaver.png",
-    "watermark_removed_d1abfe33-c5d2-470b-816a-99991610abcc.mp4",
-    "Amadea-4.png",
     "Worldbuilding/Origin of Magic/Root of Evil/Atonalis",
     "merged",
     "Worldbuilding/Society/Characters/Ages 0",
     "Worldbuilding/Society/Characters/Ages 4",
     "Worldbuilding/Society/Characters/Ages 5",
     "All-Loving Moon.mp4",
-    "merged",
-    "Worldbuilding/Truths, Chaos, Rituals/Old Testament",
-    "Game Systems/Derivative Ideas",
     "Worldbuilding/Mythology/Deific Moodboard.canvas",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
     "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas"

@@ -1,7 +1,9 @@
-The second canon [[Civilization Reset]] and start of the game.
+The second canon [[Divine Reset]] and start of the game.
 
 The start of the game is hidden within the timeline as it is after the [[First Reset]] and the [[Cataclysmic Aftermath]] of the [[Great Fracture]]. It begins with the [[Age of Desolation]] and is characterized by the minimum intervention of the [[Auric Aria]].
 
-The climax of the second reset always leads to a [[Cataclysmic Aftermath]] bad ending, but it comes with realizing [[The Truth of Arcanoria]], and the revealing cinematic of the [[True Mythos of Creation]].
+This starting canon timeline is vastly different from the timeline of the [[First Reset]], primarily due to the life that each of her [[Seven Archangels]] and all the [[Auric Angels]] took now that the [[Auric Aria]] never manifested nor established herself in the silent [[Auric Order]]. A few came to become incredibly powerful figures regardless like [[Aurelian]] or [[Selah]], while some other characters came to live much simpler lives like [[Uriel]] who became a baker renowned for her ability to maintain a perfect dough or [[Elizabeth]] who became an artisan instead.
+
+Moreover, the climax of the second reset always leads to a [[Cataclysmic Aftermath]] as the bad ending that ends in firing [[The Ultimate Weapon]], proving to the [[Auric Aria]] that her intervention during the [[First Reset]] and her non intervention during the [[Second Reset]] lead to the exact same place, it is an inescapable situation regardless of her action or involvement, but she realizes there's one [[Civilization]] with potential on which she recognizes something different, what she will later name the Third Actor, and so she speaks to the player [[The Truth of Arcanoria]], and the revealing cinematic of the [[True Mythos of Creation]].
 
 The merge of realities allows [[Crisis Wonders]] to appear as "historical anomalies" where massive constructions appear of no historical period that matches its design. They're like the pyramids being instead beacons to signal. No one can explain these constructions as they're not from the original timeline and they accumulate on each reset.

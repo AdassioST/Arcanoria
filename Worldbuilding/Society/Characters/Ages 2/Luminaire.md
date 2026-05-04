@@ -24,7 +24,7 @@ The [[Mythical Virtuoso]] of [[Luminance]] of the Seven Virtuosi.
 - Inventor of [[Resonance Box]]es ([[Legend Opus]])
 - The Patron of [[Auric Geometry]], Mathematics and Logic ([[Legend Opus]])
 
-The [[Mythical Virtuoso]] of [[Luminance]] and legendary heir to [[Hollowmarch]], involved in the story of [[Father Aldric]]. She is one of the legendary founders of [[The Principles of Magic]] in the field of [[Luminance]] during [[Ages]] II, and she's inspired by the [[Legend]] of [[Aurelian]] in search of her own voice with her [[Soul Oscillator]]. 
+The [[Mythical Virtuoso]] of [[Luminance]] and legendary heir to [[Hollowmarch]], involved in the story of [[Father Raphael]]. She is one of the legendary founders of [[The Principles of Magic]] in the field of [[Luminance]] during [[Ages]] II, and she's inspired by the [[Legend]] of [[Aurelian]] in search of her own voice with her [[Soul Oscillator]]. 
 
 She was formally trained by the [[Mythical Virtuoso]] of [[Crystal]] up to her coronation which was shortly after [[Daedalus]]' death. The training of [[Daedalus]] in craftmanship proved transcendent for [[Luminaire]] when she pioneered on the first reusable infinite recording [[Resonance Box]]es that couldn't come to be if it wasn't due to her innate intellect for [[Attunement for Magic]], and her former training in invention by [[Daedalus]].
 

@@ -32,18 +32,14 @@ The [[Mythical Virtuoso]] of [[Void]] of the Seven Virtuosi.
 
 ![[watermark_removed_d1abfe33-c5d2-470b-816a-99991610abcc.mp4]]
 
-
-
-![[Amadea-4.png]]
-
-
 ![[Amadea.png]]
 
 ![[Amadea-1.png]]
 
 ![[Amadea-2.png]]
 
-![[Amadea-3.png]]
+![[Amadea-5.png]]
+
 
 ### Chapter 1. A [[Ballad]] Before [[Iridia]]
 
@@ -559,15 +555,21 @@ He looked at the circlet. Then at her. Something moved across his face — a sor
 
 The caravan went wrong slowly.
 
-That was the one thing she hadn't expected. 
+Not at in a flash at once but over the next three [[Moon]]s, with the one thing neither [[Artus]] or her could've expected.
 
-She had learned every kind of wrong that arrived fast — the sweetness before the static, the tremors before the dread, the breathless quiet of dusk when something at the edges was already full and feeding. Those she had learned through survival before she had formed any question. wrong had a shape, and the shape announced itself.
+[[Amadea]] had learned every kind of wrong that arrived fast, whether the sweetness before the static, the tremors before the dread, or the breathless quiet of dusk when something at the edges was already full and feeding. Those she had learned through survival before anything could even beg a question, but they had a pattern: wrong had a shape, and the shape announced itself.
 
 She had organized her entire understanding of threat around that legibility.
 
 Around the decency of warning.
 
-This had neither. Which was, in its own way, the most frightening thing about it. It was brutally effective at deceiving, and it all began with the caravan fires or rather, the lack of them.
+But of course, this had neither. Which was, in its own way, the most frightening thing about despair. It is brutally effective at deceiving, and despondency, too, spreads like a plague.
+
+It all began with the caravan gathering fires, or rather, the lack of them.
+
+
+
+
 
 Whenever the caravan stopped to rest, the gathering fires always followed. [[Amadea]] thought of them as background static, but they were unique in the sense that each of them had its orbit, its people, and a set of unspoken rules about what terms were even approached to discuss new locations. Nothing of that had changed. What changed was the volume between those gatherings. The last three days were only silence. It seemed as if laughter, the shared complaints or the voice of any kind, had itself drowned.
 

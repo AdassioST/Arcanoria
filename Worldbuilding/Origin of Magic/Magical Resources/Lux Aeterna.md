@@ -1,0 +1,19 @@
+#resource #chaos #technology
+
+A type of advanced [[Resonance Anchors]] that function as both tether and link to [[Lacrimosa]] through an ethereal conduit of the [[Auroral Ribbons]]. It's one of the [[Vital Resources]] for the hollowed as it maintains their link with the [[All-Loving Moon]]
+
+[[Lux Aeterna]] has several uses, first it's the link between [[Lacrimosa]] and anyone who has been affected by her numbing [[Consciousness]]. Functionally, it essentially hits the exact opposite wave of the part of [[Consciousness]] to neutralize it and maintain [[Stable Harmonic Channels]] to her. 
+
+Depending on her stage as either the Dreamweaver or the [[All-Loving Moon]] is has different effects but in both applications it is a highly potent anesthetic, either for the body or the soul. The two manifestations are the following:
+
+- **Manifestation I:** The conduit extends bodily functions, grants extended lifespan, and reduces bodily pain. This is the first manifestation of the miracles during [[The Call of the Dreamweaver]]. [[Lacrimosa]] first uses it on [[Pagiel]] to numb the pain he has over his own body, and then extends it to every of the [[Eight-Wings of Lacrimosa]] to extend their lifespan, and grant enhanced resistance to illnesses. Moreover, this tether guarantees that whenever they die, instead of joining [[The First Overtone]] into [[The Eternal Symphony]], they join [[Lacrimosa]]'s [[Consciousness]] through the [[Auroral Ribbons]]. When the apostles that aren't hollowed die, they join [[Lacrimosa]]'s [[Consciousness]].
+
+- **Manifestation II:** The potent manifestation of [[Lux Aeterna]] when [[Lacrimosa]] has performed the [[Flesh-Exalting Transcendence]] of [[A Pact of a Thousand Eyes]]. It is the regular tether that she uses to hollow out [[Consciousness]] and "removing the self" by applying the same noise cancelling to the [[Soul-Key]]. It is able to numb memories, induce bliss, and grant physical immortality as it is the first type of [[Flesh-Casing Ritual]] but it requires more [[Lux Aeterna]] to sustain the [[Stable Harmonic Channels]] between them, if this [[Vital Resources]] is depleted, the [[Consciousness]] snaps back into [[Lacrimosa]]'s [[All-Loving Moon]], making them bodily dissolve into her [[Auroral Ribbons]], this is the "death" of the hollowed.
+
+During the incarnation of [[Lacrimosa]], she used the tether first in the [[Eight-Wings of Lacrimosa]] to grant them increased bodily immortality, extended lifespan, and to maintain a combination of [[Resonance Anchors]] and communication to each of them as long as they're within range of an [[All-Loving Anchor]].
+
+[[Pagiel]] is the first to receive a Manifestation II of [[Lux Aeterna]] while the rest of the apostles have only Manifestation I. Thus, only [[Pagiel]] is the only true hollowed [[Consciousness]] of her apostles, they made the promise and vow before [[A Pact of a Thousand Eyes]] precisely to deal with this mission before they can join the numbing peace of [[Lacrimosa]]. _"We will be the last to join her [[Purest of Love]] as we have to first extend the act of mercy to the rest of [[Humanity]]. It is a sacrifice for now but if not us, then who will save [[Arcanoria]] from the eyes of cruelty."_
+
+After the [[Law of Relics]], the interaction between the [[Auric Aria]] and [[Lacrimosa]] become a potent emotional discharge that creates the [[Eight-Winged Viola]], and [[Luceatfilum]] from all the remnants of [[Lux Aeterna]].
+
+[[Luceatfilum]] becomes the essential and final [[Seventh]] element of the classical [[Auric Heptacode]] [[Resources]] alongside [[Aetherlight]], [[Emberwhisper]], [[Lunehymn]], [[Glimmerfern]], [[Sky Glass]], and [[Rose Seed]]s. It is the primary resource of transmutation during the [[Age of Alchemy]], and it's a component for enhancing [[Magical Relic]]s. 

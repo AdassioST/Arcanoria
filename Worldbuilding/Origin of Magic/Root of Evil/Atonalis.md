@@ -48,7 +48,7 @@ When they have fed enough on [[Consciousness]], they begin their metamorphosis i
 
 ### Birth from [[Corruption]] of a [[Spellweaver]]'s [[Soul Leitmotif]]
 
-_If you see a monster, kill it. If you wait enough to hear their story, you might start loving them. And empathy is the most dangerous weapon you're willfully giving._
+_If you see a monster, kill it. If you wait enough to hear their story, you might start feeling [[Affection]] for them. And empathy is the most dangerous weapon you're willfully giving._
 
 ![[Atonalis 1.png]]
 

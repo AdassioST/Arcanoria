@@ -1,6 +1,6 @@
 #mechanic #spellweaving 
 
-The level of stress and meter of the internal [[Coherence]] of any [[Spellweaver]].
+The level of stress, sanity, and meter of the internal [[Coherence]] of any [[Spellweaver]].
 
 To lose [[Composure]] is to lose oneself, if all [[Composure]] is lost at the level of surrender, the [[Soul Leitmotif]] fractures, enveloping the [[Spellweaver]] in pure [[Dissonance]]. 
 

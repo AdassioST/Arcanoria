@@ -4,23 +4,23 @@ In the classical orthodoxy, it also poses the [[Auric Aria]] as [[The One True G
 
 Everything has meaning and purpose within the [[Auric Aria]]'s divine plan: _"To suffer is to endure faithfully where suffering is the price of meaning."_
 
-The [[Auric Order]] establishes theological virtues as tenets to faith that directly map the [[Auric Heptacode]]:
+The [[Auric Order]] establishes [[Theological Virtue]]s as tenets to faith that directly map the [[Auric Heptacode]]:
 
-- [[Piety]]: Faith as fidelity to self and understanding of the divine through the lens of the individual, it is the theological virtue of [[Resonance]].
+- [[Piety]]: Faith as fidelity to self and understanding of the divine through the lens of the individual, it is the [[Theological Virtue]] of [[Resonance]].
 
-- Revelation: Perception of reality and seeking of truth as the divine mechanisms of the cosmos and of theodicy itself, it is the theological virtue of [[Luminance]]. _The universe is both intelligible and beautiful, understanding and feeling are the same act, to know a thing is to resonate with it._
+- Revelation: Perception of reality and seeking of truth as the divine mechanisms of the cosmos and of theodicy itself, it is the [[Theological Virtue]] of [[Luminance]]. _The universe is both intelligible and beautiful, understanding and feeling are the same act, to know a thing is to resonate with it._
 
-- Contrition: Honest self-offering as means to alter reality, it is the theological virtue of [[Flux]].
+- Contrition: Honest self-offering as means to alter reality, it is the [[Theological Virtue]] of [[Flux]].
 
-- Sacrifice: The giving of self to moral and spiritual duty, to use the acceptance of maintenance in the meaning of struggle to weave meaning. it is the theological virtue of [[Void]].
+- Sacrifice: The giving of self to moral and spiritual duty, to use the acceptance of maintenance in the meaning of struggle to weave meaning. it is the [[Theological Virtue]] of [[Void]].
 
-- Contemplation: Undivided presence in the moment of truth, of act, of will, and duty, it is the theological virtue of [[Cindergale]].
+- Contemplation: Undivided presence in the moment of truth, of act, of will, and duty, it is the [[Theological Virtue]] of [[Cindergale]].
 
-- Hope: Confidence in the unseen and will of divine purpose, structure, and obligation through the convergence of the self as pinnacle of action, it is the theological virtue of [[Crystal]].
+- Hope: Confidence in the unseen and will of divine purpose, structure, and obligation through the convergence of the self as pinnacle of action, it is the [[Theological Virtue]] of [[Crystal]].
 
-- Communion: Relationship as memory to create value in legacy and standing across time while harmonizing from [[Consonance]] of the self to others, it is the theological virtue of [[Strand]].
+- Communion: Relationship as memory to create value in legacy and standing across time while harmonizing from [[Consonance]] of the self to others, it is the [[Theological Virtue]] of [[Strand]].
 
-These theological virtues argue that the [[Triadic Virtues of Spellcraft]] comes from achieving an state of being. It is the interior life, faith, hope, love, contrition, contemplation, not solely as a private matter but also the very substance of order and power. To grow in virtue is to grow in magical potency. To fall into sin is to lose access to reality's fundamental forces and to invite chaos, evil, demons and [[Dissonance]]. The ultimate sins are known as the [[Seven Weights]], and invite to rigorous reflection of the divine geometry of the cosmos and the [[Piety]] in oneself to leave the burden of these and achieve transcendence through [[Lyrical Fragment]]s.
+These [[Theological Virtue]]s argue that the [[Triadic Virtues of Spellcraft]] comes from achieving an state of being. It is the interior life, faith, hope, love, contrition, contemplation, not solely as a private matter but also the very substance of order and power. To grow in virtue is to grow in magical potency. To fall into sin is to lose access to reality's fundamental forces and to invite chaos, evil, demons and [[Dissonance]]. The ultimate sins are known as the [[Seven Weights]], and invite to rigorous reflection of the divine geometry of the cosmos and the [[Piety]] in oneself to leave the burden of these and achieve transcendence through [[Lyrical Fragment]]s.
 
 The interpretations of the [[Auric Order]] depend on the tenets of each individual religion practicing the adoration of the [[Auric Aria]]. However, most of them share the [[Auric Mythos of Creation]], and propose an unbearable nature of revelation. This is primarily due to the existence of [[Scorching Truth]]s which are theological crises as much as they are memetic hazards to order itself.
 

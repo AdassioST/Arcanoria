@@ -18,6 +18,7 @@
 - The Twisted Beautifier ([[Magnum Opus]])
 - A Delusional Surgeon ([[Lesser Opus]])
 - Horror of [[Mastery Over Chaos]] ([[Lesser Opus]])
+- Map of the Human Anatomy ([[Legend Opus]])
 
 - _"I could make you so beautiful, much much more beautiful. Wouldn't you like that, to be ethereal? It'd only hurt for a moment but I promise I'll even hold your hand during the process."_
 
@@ -25,11 +26,11 @@ A serial killer who believes he's beautifying victims through polyrhythmic vivis
 
 He is one of the most feared figures of all of the Medieval [[Ages]], and has the ability of using Polyrhythms by combining several techniques of precision cutting through [[Cindergale]] / [[Luminance]] jets focused through his signature Stainless Scalpel. It's a very twisted figure that tends to use whistling to attract his victims and has a charming personality to make sure no one ever makes it out alive.
 
-Aside from generating a lot of [[Ballad]]s and [[Legend]]s that give him the nickname of the Killer of the Great Expanse, his abilities and works on spellcraft become a very prized treasure by [[Cadmus Tacet]] who on his search of finding means to extract the [[Coherence Binding Tissue]] of [[Pure Light]] beings comes to name with the [[Legend]] after he has passed away but finds his "treasure trove of beauty sculptures." He develops the idea of _"There's even something to learn from monsters"_ as both appraisal and disgust of what [[Syvanth]] was doing.
+Aside from generating a lot of [[Ballad]]s and [[Legend]]s that give him the nickname of the Killer of the Great Expanse, his abilities and works on spellcraft become a very prized treasure by [[Cadmus Tacet]] who on his search of finding means to extract the [[Coherence Binding Tissue]] of [[Pure Light]] beings comes to name with the [[Legend]] after he has passed away but finds his "treasure trove of beauty sculptures." He develops the idea of _"There's even something to learn from monsters"_ as both appraisal and disgust of what [[Syvanth]] was doing. [[Lacrimosa]]
 
 ### Character Details
 
-- His logs are all filled with a theatrical gruesome interpretation of the actions. [[Cadmus Tacet]] had to be very precise about narrowing on what he was referring to as most of his work was characterized by his own sadistic prose and "beauty" on detailing how organs moved and work. He used to detail three particular acts for most of the details. Act I on his luring and "falling in love" process. Act II being the actual performance of his "duet" and where he details the way in which organs function. Act III as the closure and sometimes the critique which represent the aftermath documentation of the final quality of the sculptures, he has a label for "withered away" to express frustration at this stage of his records.
+- His logs are all filled with a theatrical gruesome interpretation of the actions. [[Cadmus Tacet]] had to be very precise about narrowing on what he was referring to as most of his work was characterized by his own sadistic prose and "beauty" on detailing how organs moved and work. He used to detail three particular acts for most of the details. Act I on his luring and "falling in love" process. Act II being the actual performance of his "duet" and where he details the way in which organs function. Act III as the closure and sometimes the critique which represent the aftermath documentation of the final quality of the sculptures, he has a label for "withered away" to express frustration at this stage of his records. Most of the details are inspired by Da Vinci's real anatomy logs in Windsor Castle but with a theatrical depth.
 
 - Most of his work relied on a ritual of dancing, he used the very beats and pulses of the open organs during the beautification vivisection he was conduction to provide the structure he would match with polyrhythms. Due to this, he saw most of the "dances" as intimacy, as the victim was providing the lead on which he worked. This is the very reason he is obsessed with organs, they are keys to understanding the "symphony only he can hear" with the polyrhythm layering.
 

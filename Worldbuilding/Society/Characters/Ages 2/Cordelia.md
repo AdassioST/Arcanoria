@@ -22,6 +22,9 @@ The [[Mythical Virtuoso]] of [[Strand]] of the Seven Virtuosi.
 - The First Medic of [[Strand Pool]]s ([[Legend Opus]])
 - The Patron of Medicine, Doctors, and Reliquaries ([[Legend Opus]])
 
+**Characterization:**
+
+_"Magic is nothing more—and nothing less—than the courage to heal"_
 
 
 

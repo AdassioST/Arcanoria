@@ -106,7 +106,7 @@ If Lacrimosa restrains her hunger and stops The Hollowing _just_ as Father Aldri
 
 In this shifted timeline, Aria is completely trapped. She cannot fight without destroying the universe. She cannot stay in the Infinite Void without after watching Aldric and her creations suffer. However, if she still doesn't manifest it will trigger [[The Mass Suicide of Lacrimosa]] instead as [[Lacrimosa]] deepest fear makes her act first. If the [[Auric Aria]] is compelled because of the loss of Aldric to [[Lacrimosa]], then her only viable option is to unspool her own divine structure, walk safely through Lacrimosa's carefully opened door, and willingly accept the `Purest of Love`.
 
-By simply withholding her hunger for seducing Father Aldric, and postpone the Tetrad Chord by instead opting for the broadcast gamble. Lacrimosa would ensure her flawless, eternal victory if she seduced [[Father Aldric]].
+By simply withholding her hunger for seducing Father Aldric, and postpone the Tetrad Chord by instead opting for the broadcast gamble. Lacrimosa would ensure her flawless, eternal victory if she seduced [[Father Raphael]].
 ### The Gamble Broadcast and the Invitation of the False Moon 
 
 **Broadcast across the Great Harmonic Loom**

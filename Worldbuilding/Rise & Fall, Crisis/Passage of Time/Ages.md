@@ -1,4 +1,6 @@
-Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 13, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]].
+Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 14, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]].
+
+Furthermore, [[Ages]] are defined by [[Act of Fate]]s which are one third of the [[Ages]] duration, separating the Early, Middle, and Late version of these [[Ages]], moreover, every 3 [[Ages]] the third will always have 4 [[Act of Fate]]s signaling the "long [[Ages]]." They are intrinsically tied to [[Cosmic Motion]]. Usually the division of an [[Act of Fate]] is a minor version of a [[World Event]] or minor [[Age Crisis]] which can be natural disasters, political conflicts, and other related major significant paradigm shifts for the age.
 
 All [[Ages]] have branching logic depending on the [[Age Crisis]] triggered from certain checks of resources, population, crisis technology, etc. Based on what the player has done during that age, their era score, the [[Age Crisis]] resolution, and certain focus missions, they will enter a [[Golden Age]], a [[Dark Age]] or a [[Classical Age]].
 
@@ -7,6 +9,8 @@ The diagram of all [[Ages]] is the following:
 Excess [[Era Score]] above the required for a [[Golden Age]] becomes points that can redeem failed [[Age Crisis]] checks. Even if [[Civilization]] performs poorly during an [[Age Crisis]], it can be saved by the excess [[Era Score]] to go back into a [[Golden Age]] or resist a [[Dark Age]]. Additional [[Era Score]] is a saving grace buffer for [[Ages]] transitions.
 
 ### Age 0 (Stone Age)
+
+3 [[Act of Fate]].
 
 Fractured [[Arcanoria]] after a [[Cataclysmic Aftermath]].
 Flickering Staccato Rhythm. Primitive [[Unison]] Spells. Mostly [[Minor Note]] magic.
@@ -19,6 +23,8 @@ _[[Age Crisis]] exist._
 
 ### Age I (Bronze Age)
 
+3 [[Act of Fate]].
+
 Healing from the [[Cataclysmic Aftermath]] fallout.
 Introducing Legato. First Stable [[Unison]]. Introducing [[Major Note]]s, and sparse [[Dyad Chord]]s Magic.
 
@@ -26,11 +32,13 @@ Introducing Legato. First Stable [[Unison]]. Introducing [[Major Note]]s, and sp
 - [[Age of Renewal]] | Not Aligned with [[Pillars]] ([[Age Crisis]]: [[Great Plague]] of Euphoria) | Dark Fantasy
 - [[Age of Hymns]] | [[Waltz Pillar]] (Attainable after learning [[The Truth of Arcanoria]] after the [[Cataclysmic Aftermath]] of the [[Second Reset]]) | Dark Fantasy
 
-The [[Age Crisis]] teaches that [[Civilization]] can fail and the resolution of the [[Cataclysmic Aftermath]] leads to a different [[Golden Age]], [[Classical Age]], or [[Dark Age]] from the survivors. [[Velvet Nectar]]
+The [[Age Crisis]] teaches that [[Civilization]] can fail and the resolution of the [[Cataclysmic Aftermath]] leads to a different [[Golden Age]], [[Classical Age]], or [[Dark Age]] from the survivors.
 
 _You can fail an [[Age Crisis]]._
 
 ### Age II (Iron Age)
+
+4 [[Act of Fate]].
 
 Establishment of [[The Principles of Magic]]. [[Amadea]]
 Introducing Ritardando. First [[Dyad Chord]]s. [[Unison]] Primacy. Basic Magic.
@@ -50,7 +58,9 @@ _There is more than one possible [[Age Crisis]] depending on your actions._
 
 ### Age III (Classical Antiquity)
 
-**Cause of [[The Birth of the Tetrad Chord]] accident with whomever is on the side of [[Lacrimosa]]. Teasing to the [[Polychord Crisis]] and the eventual [[Civilization Reset]].**
+3 [[Act of Fate]].
+
+**Cause of [[The Birth of the Tetrad Chord]] accident with whomever is on the side of [[Lacrimosa]]. Teasing to the [[Polychord Crisis]] and the eventual [[Divine Reset]]. This causes the manifestation of [[The Ultimate Weapon]] next [[Ages]].**
 
 Mastery of the [[The Principles of Magic]].
 Starting point of proper [[Ornament]]al Magic. Full resolution of the [[World Event]] of [[The Hollowing]] and [[Lacrimosa]] brewing through the whole age.
@@ -74,6 +84,8 @@ _There are [[Minor Actor]] and [[Major Actor]] roles for [[Age Crisis]] and stor
 
 ### Age IV (Early Medieval)
 
+3 [[Act of Fate]].
+
 **[[Ages]] IV onwards there are [[Magical Relic]], [[Cursed Objects]] and [[World-Bending Relics]].**
 
 Resolution of the [[Law of Relics]] and [[The Hollowing]] allow for [[World-Bending Relics]] to exist from now onwards, giving permanence to both [[Magical Relic]], and [[Cursed Objects]].
@@ -91,7 +103,6 @@ Starting point of Advanced Magic.
 
 _There is more than a single [[World Event]] for an [[Age Crisis]].
 
-
 The [[Age Crisis]] teaches that [[Civilization]] can have multiple [[World Event]]s at the end of an era, and each is an [[Age Crisis]]. During these [[Ages]] all [[Atonalis]] and [[Primal Discordia]] are going to be much more aggressive as [[Lacrimosa]]'s [[The Hollowing]] invertedly did resolve the amount of suffering in [[Arcanoria]], for which most [[Atonalis]] that survived their "[[The Inescapable Hunger]]" period are going to be starving for [[Resonance]] and will try to get it by any means necessary.
 
 The [[World Event]]s of this [[Ages]] are going to involve the [[Primal Discordia]], for which the [[Morpheus Abysmal]] becomes the most prominent one with the [[Atonalis]] reign, conquering regions that will become subject to the [[Age of Horrors]]. 
@@ -102,7 +113,11 @@ The [[Morpheus Abysmal]] is the first [[Atonalis]] government type structure and
 
 The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becomes popularized. He eventually dies, but this is one of the important expeditions of [[Cadmus Tacet]].
 
+[[The Ultimate Weapon]] appears as a legendary [[Crisis Wonders]] as it "detects" the [[Primal White Noise]] that [[Lacrimosa]] unleashed when she performed the [[Hyper Chord]]. It remains active during this era but disappears the next. This is why the Crusades are after the [[Holy War]]. It did exist for a while.
+
 ### Age V (Middle Medieval)
+
+4 [[Act of Fate]].
 
 First "[[Age of Humanity]]"
 
@@ -133,6 +148,8 @@ Tragically, this war for the Holy Grail is not a path to victory; it is a cosmic
 
 ### Age VI (High Medieval)
 
+3 [[Act of Fate]].
+
 Focus on Kingdom to Empire, established civilizations, culture, courts, secrets.
 
 _First Cultural Conflicts, Advanced Espionage, Owls of Minerva, Assassins, Betrayals, Courtship, Political Drama & Diplomatic Scandals._
@@ -153,9 +170,11 @@ The [[Age Crisis]] teaches that all [[Civilization]]s have an end, and that ever
 
 The [[Polychord Crisis]] is going to be the AC, BC of the game. After [[Polychord Crisis]] (APC), Before [[Polychord Crisis]] (BPC).
 
-**First [[Civilization Reset]] with the Tetrad [[Polychord Crisis]]. Teasing of building the "ultimate weapon" which is previously one of the [[Crisis Wonders]].**
+**First [[Divine Reset]] with the [[Hyper Chord]] [[Polychord Crisis]] of [[The Ultimate Weapon]] which is previously one of the [[Crisis Wonders]].**
 
 ### Age VII (Renaissance & Discovery)
+
+3 [[Act of Fate]].
 
 Transition towards colonialism, mercantilism, and discovery of the world.
 
@@ -167,12 +186,16 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 
 ### Age VIII (Reformation & Revolution)
 
+4 [[Act of Fate]].
+
 - [[Age of Auric Radiance]] ([[Golden Age]]) | [[Aureus Pillar]] + [[Regalia Pillar]] | Light Fantasy
 - [[Age of Enlightenment]] ([[Classical Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | High Fantasy
 - [[Age of Silence]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Waltz Pillar]] | Dark Fantasy
 - [[Age of the Debt of Flesh]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Regalia Pillar]] |Horror Fantasy
 
 ### Age IX (Industrial Era)
+
+3 [[Act of Fate]].
 
 Second "Age of [[Humanity]]."
 
@@ -182,10 +205,14 @@ Second "Age of [[Humanity]]."
 
 ### Age X (Machine Age)
 
+3 [[Act of Fate]].
+
 - [[Age of Clockwork]] ([[Golden Age]]) | [[Waltz Pillar]] | Steampunk
 - [[Age of Chimeras]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Horror Fantasy
 
 ### Age XI (Atomic, World Wars & Information Era)
+
+4 [[Act of Fate]].
 
 Third "Age of [[Humanity]]."
 
@@ -195,17 +222,23 @@ Third "Age of [[Humanity]]."
 
 ### Age XII (Near Future Era)
 
+3 [[Act of Fate]].
+
 - [[Age of Arcology]] ([[Golden Age]]) | [[Waltz Pillar]] + [[Chorus Pillar]] | Urban Fantasy
 - [[Age of Holography]] ([[Classical Age]]) | [[Aureus Pillar]] | Space Fantasy
 - [[Age of Simulations]] ([[Dark Age]]) | [[Regalia Pillar]] | Digital Fantasy
 
 ### Age XIII (Sci-Fi Era)
 
+3 [[Act of Fate]].
+
 - [[Age of the Hypermage]] ([[Dark Age]]) | [[Waltz Pillar]] + [[Aureus Pillar]] | Horror / Space Fantasy
 - [[Age of False Moons]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Regalia Pillar]] | Dystopian Fantasy
 - [[Age of Singularity]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Regalia Pillar]] | Space Fantasy
 
 ### Age XIV (The Terminal Age)
+
+4 [[Act of Fate]].
 
 - [[Age of The End]] (Genesis Age) | Not Aligned with [[Pillars]] | Metaphysical Fantasy
 

@@ -2,9 +2,7 @@ Status:
 - [x] Tracking Implemented
 - [ ] Game Effects Implemented
 
-Description: *The passage of many lifetimes.*
-
-A [[Phase]] are what Months would respectively be in our world. They are 12 per [[Cycle]] with 3 per each [[Echo]] due to the [[Trinity Harmony]]. In total they are 12 each with their unique effect and representing a stage of world tuning. All the game phases are:
+A [[Phase]] consists of 12 per [[Cycle]] with 3 per each [[Echo]] due to the [[Trinity Harmony]]. In total they are 12 each with their unique effect and representing a stage of world tuning. All the game phases are:
 
 - [[Phase of Prelude]]
 - [[Phase of Harmonics]]

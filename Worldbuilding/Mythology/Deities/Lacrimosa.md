@@ -364,14 +364,14 @@ After the ritual finalizes, and the first hollowed vessel of [[The Hollowing]] s
 - **Metaphysical Violation**: She doesn’t just replace [[Selenea]]; she imprisons the imprisoned in is cosmic identity theft: stealing the role of a stolen goddess.
 - **Addiction Escalation**: From being needed → being worshipped → consuming worshipers. [[The Hollowing]] reaches its zenith.
 
-**Phase 8: Impersonating even the [[Auric Aria]], First [[Tetrad Chord]], Manifestation of the Real [[Auric Aria]], Birth of [[World-Bending Relics]]. (Consuming Skies of Insatiable Hunger -> [[The Hollowing]] of [[Father Aldric]] -> [[Auric Aria]] forced to appear)
+**Phase 8: Impersonating even the [[Auric Aria]], First [[Hyper Chord]], Manifestation of the Real [[Auric Aria]], Birth of [[World-Bending Relics]]. (Consuming Skies of Insatiable Hunger -> [[The Hollowing]] of [[Father Raphael]] -> [[Auric Aria]] forced to appear)
 
 **Late [[Ages]] III -> [[Ages]] III [[Age Crisis]] -> Transition to [[Ages]] IV.**
 
 - Collapse of most ancient systems due to her undeniable influence.
 - The lack of the [[Auric Aria]]'s appearance makes [[Lacrimosa]] insanely distressed and redirects all of her insecurities to question the entire effort. This is the first profound crack in her self-worth that desperately looks to weaponize anything to get a reaction of the [[Auric Aria]] and find belonging. 
-- [[Lacrimosa]] begins to target the most pious resistance. She deceives as the [[Auric Aria]] in [[Father Aldric]]'s visions to force him to submit as he is one of the last remaining strongholds of [[Piety]].
-- The real [[Auric Aria]] forgives [[Father Aldric]] in a dream too. Depending on [[Father Aldric]] actions, the timeline changes, if he finally submits to [[Lacrimosa]] then [[Auric Aria]] is compelled to intervene becoming the [[Law of Relics]] or [[Alternate Hollowing]]. If he pushes stubbornly and dies of natural causes the timeline is either [[Alternate Hollowing]] (if the [[Auric Aria]] is compelled to manifest by either [[Father Aldric]] or the loss of many other priests to [[Lacrimosa]]) or [[The Mass Suicide of Lacrimosa]].
+- [[Lacrimosa]] begins to target the most pious resistance. She deceives as the [[Auric Aria]] in [[Father Raphael]]'s visions to force him to submit as he is one of the last remaining strongholds of [[Piety]].
+- The real [[Auric Aria]] forgives [[Father Raphael]] in a dream too. Depending on [[Father Raphael]] actions, the timeline changes, if he finally submits to [[Lacrimosa]] then [[Auric Aria]] is compelled to intervene becoming the [[Law of Relics]] or [[Alternate Hollowing]]. If he pushes stubbornly and dies of natural causes the timeline is either [[Alternate Hollowing]] (if the [[Auric Aria]] is compelled to manifest by either [[Father Raphael]] or the loss of many other priests to [[Lacrimosa]]) or [[The Mass Suicide of Lacrimosa]].
 - The profound despairing spiral of the losses of half of her [[Eight-Wings of Lacrimosa]] trigger the sequence of the Judgement of One-Million Eyes, which is her [[Resonance]] [[Motif Awakening]] and final [[Ornament]]. It is the result of the deep insurrection of the [[Compulsive Overthinker]] [[Legend Trait]] she has been painfully suppressing since her promise with [[Mira]].
 - [[Lacrimosa]] decides she has to act more desperately and starts envisioning plans of how to resolve [[The Hollowing]]. If [[Possessive]] trait prioritizes the [[Auric Aria]] she will take the broadcasting gamble and is on the path of the [[Alternate Hollowing]] or [[The Mass Suicide of Lacrimosa]]. If [[Attention Addict]] becomes unbearable to overcompensate for the fact that she isn't reacting, she is on the path of the [[Law of Relics]] by consuming even more [[Humanity]].
 - As the [[Auric Aria]] isn't manifesting, [[Lacrimosa]] finally develops her gamble to control the hunger clawing at her and twisting the plan of the [[Alternate Hollowing]]. If she goes for the gamble of submission and broadcast in a last ditch effort to convince the [[Auric Aria]] to manifest and surrender it's either [[Alternate Hollowing]] or [[The Mass Suicide of Lacrimosa]]. If her [[Compulsive Overthinker]] [[Legend Trait]] takes over, she goes a more abrupt route by using [[The Birth of the Tetrad Chord]] to compensate for the lack of attention.
@@ -428,23 +428,23 @@ Plunged into the absolute rock-bottom of isolation, entirely stripped of her fal
 
 Depending on how she internalizes this encroaching despair, the timeline splits into [[The Mass Suicide of Lacrimosa]], [[Alternate Hollowing]], or the fragile canon timeline of the [[Law of Relics]].
 
-### The [[Tetrad Chord]] Disaster
+### The [[Hyper Chord]] Disaster
 
-The [[Tetrad Chord]] isn't a random catastrophe — it's the inevitable result of [[Lacrimosa]]'s system reaching critical mass. Here's the structural logic:​
+The [[Tetrad Chord]]s turning into a [[Hyper Chord]] nightmare isn't a random catastrophe — it's the inevitable result of [[Lacrimosa]]'s system reaching critical mass. Here's the structural logic:​
 
 1. **[[Lacrimosa]] merges [[Consciousness]] with her followers** to make herself undeniable, to matter.​
     
 2. **As more people merge with her, she gains power** but also reaches a point of diminishing returns — too much [[Consciousness]] trying to route through a single flesh-sealed god.​
     
-3. **To solve this problem, she attempts to use [[Tetrad Chord]]s (reality-bending magic)** to power the connection and manage the load.​
+3. **To solve this problem, she attempts to use [[Tetrad Chord]]s in several layers to become a [[Hyper Chord]] of reality-bending magic** to power the connection and manage the load.​
     
 4. **But here's the critical flaw: she's trying to do this unilaterally.** She's forcing [[Consciousness]] into her through [[The Hollowing]], then using [[Tetrad Chord]]s to maintain control, but the weight of all those consciousnesses _plus_ the reality-warping magic creates **an unstable feedback loop she cannot sustain alone**.​
 
-**[[Lacrimosa]] cannot solve the [[Tetrad Chord]] problem through force or dominion alone**
+**[[Lacrimosa]] cannot solve the [[Hyper Chord]] problem through force or dominion alone**
 
 - **She can't dismiss the hollowed [[Consciousness]]es** because they're the foundation of her power—proof she matters.
     
-- **She can't contain the [[Tetrad Chord]] through sheer willpower of her flesh-bound [[Anthropomorphic Shape]]** because [[Tetrad Chord]]s require at least two beings of equal level of [[Consciousness]] in perfect unity to stabilize under sustained stress (which is literally what the [[Law of Relics]] will become). She was just thinning her power as an extension of herself.
+- **She can't contain the [[Hyper Chord]] through sheer willpower of her flesh-bound [[Anthropomorphic Shape]]** because [[Hyper Chord]] layering require at least two beings of equal level of [[Consciousness]] in perfect unity to stabilize under sustained stress (which is literally what the [[Law of Relics]] will become). She was just thinning her power as an extension of herself.
     
 - **She can't accept continued instability** because reality-bending magic at that scale will destroy [[Arcanoria]], defeating her purpose of being essential to it.
     
@@ -454,14 +454,14 @@ So when the [[Auric Aria ]]appears, [[Lacrimosa]] faces a genuine structural cho
 
 **Option 2:** Accept the [[Auric Aria]]'s offer of collaboration, which is the _only mechanism_ that can stabilize the [[Tetrad Chord]] and preserve both her existence and the world.
 
-The explosion of the [[Tetrad Chord]] breaks reality and that's what makes the [[Auric Aria]] able to reach [[Lacrimosa]] immediately. The [[Auric Aria]] isn't suffering from [[Sufficient Precision]] anymore to intervene and manifest.
+The explosion of the [[Hyper Chord]] breaks reality and that's what makes the [[Auric Aria]] able to reach [[Lacrimosa]] immediately. The [[Auric Aria]] isn't suffering from [[Sufficient Precision]] anymore to intervene and manifest.
 
-**Before the Tetrad Chord explosion:**
+**Before the [[Hyper Chord]] explosion:**
 
 - Aria is paralyzed by her own wisdom (she's learned that intervention causes problems)
 - Even if she wanted to intervene, she lacks the [[Sufficient Precision]] to reach [[Lacrimosa]] because she can't manifest without causing catastrophic damage in her universal god-form, especially when [[The Hollowing]] and [[Auroral Ribbons]] create a woven barrier of deeply knit [[Consciousness]] on a single instance of space. Her penetration of reality would create a rift of [[Primal White Noise]].
 
-**After the Tetrad Chord explosion:**
+**After the [[Hyper Chord]] explosion:**
 
 - Reality itself is fractured/destabilized and feeding [[Primal White Noise]].
 - The [[All-Loving Moon]]'s structural integrity of [[Consciousness]] is compromised.

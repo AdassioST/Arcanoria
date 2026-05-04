@@ -31,22 +31,22 @@ This is not victim-blaming. [[Selenea]] was wronged. But her response to being w
 This is seen as well in her [[Motif Awakening]] Wish: "I wish I could create again, with her, with my children." Not "I wish I could understand finally the [[Auric Geometry]] the [[Auric Aria]] wants to teach me." She wanted the result of the understanding—collaboration, creation, connection—without the painful process of acquiring the understanding itself that the [[Auric Aria]] desperately craved from [[Selenea]] to see her as a true peer and not merely a shadow that would follow her aimlessly whenever she led somewhere. And the worst part is that [[Selenea]] premise on the test was right, but she gave up halfway waiting for the [[Auric Aria]] to rescue her.
 
 ### The Inscriptions of Purpose
-_"I hope that you can find the exit to the garden I built for us."_
+_"I hope that you can find the exit to the garden I built for us." - The [[Auric Aria]]_
 
 The mirrored palace was never to be used a prison, the [[Parlor of the Moon]] was designed to be the test that sustained [[Arcanoria]], and these inscriptions are the [[Auric Aria]]'s own words that have been forgotten to guilt and time, they are progressively revealed within the movements of Memory, Rage, and Forgiveness, with the very final inscription in the Garden of Paradise before the [[Law of Relics]] can be used in the fabric of the [[Known Universe]].
 
-**First Reveal. At the beginning of Memory when the Crescent Court unfolds**  
+**First Reveal. At the beginning of the movement of Memory in the Sonata of [[Arcanoria]] when the Crescent Court unfolds**  
 The [[Celestial Ensnaring Mirror]] does not extract vitality—it is a massive [[Resonance]] engine supposed to be fueled with emotional authenticity. The [[Auric Aria]] chose [[Selenea]] not to punish her, but because [[Selenea]] was the most emotionally authentic being she knew, even more than the [[Auric Aria]] herself. The tragedy was not merely malice that built due to envy, but rather silence that came from the [[Auric Aria]]'s [[Impostor Syndrome]] festering at the lowest, weaponizing her feelings for her, and never explained, and [[Selenea]] assumed the worst while giving up.
 
 *The walls pulse with deep blue, wet with emotion. The text is written in the [[Auric Aria]]'s earliest hand—more hopeful, less burdened.*
 
 > *"The [[Parlor of the Moon]] is a massive [[Resonance Box]] built on feeling.*
 >
-> *The first chamber, attuned to Flux, is the key. Emotion is not the byproduct of the palace. It is the fuel. And it must be real.*
+> *"The first chamber, attuned to [[Flux]], is the key. Emotion is not the byproduct of the palace. It is the fuel. And it must be real. I have chosen this as the start location because I know it's the easiest for you to understand before any math because you see everything in feelings."" - First Inscription of the [[Auric Aria]]
 >
 > *I have chosen [[Selenea]] for this role. She is the most emotionally authentic being I know. She feels truly. She will not need to perform. Her natural state will sustain the world. And I believe she will have the easiest lesson by feeling instead of learning [[Mastery Over Chaos]]. I hope you can learn to read by connection.*
 >
-> *I do not tell her this because I am afraid she will say no. I am afraid she will not want to be here. But she is the only one who can do this. I can't leave anything else to chance or [[Arcanoria]] will never be complete.*
+> *I do not tell her this because I am afraid she will say no. I am afraid she will not want to be here. But she is the only one who can do this. I can't leave anything else to chance or [[Arcanoria]] will never be complete. I tried it already, and the [[Sixth Cycle]] proved it alone would never work.*
 >
 > *I am sorry. I will be sorry forever. But the world needs her feelings, and her feelings are real, and that is enough. I hope you can realize what I meant for you."*
 

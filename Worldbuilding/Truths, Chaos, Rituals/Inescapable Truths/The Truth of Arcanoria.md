@@ -22,7 +22,9 @@ Having access to [[The Truth of Arcanoria]] unlocks a lot of content through the
 
 ### The [[Sonata]] of the Golden Sovereign
 
-This is the main storyline of the [[Auric Aria]] and begins the moment she tells the [[The Truth of Arcanoria]]. She will only expose until the [[Seventh Cycle]], prompting [[Civilization]] that if they want to learn the rest of the truth, and an [[Eighth Cycle]] they will need to experience it by themselves at the top of the [[Memory Field]] found within [[The Silent Expanse]]. It consists of 4 movements.
+This is the main storyline of the [[Auric Aria]]. It consists of 3 movements and begins the moment she tells the [[The Truth of Arcanoria]].
+
+She will only expose until the [[Seventh Cycle]], prompting [[Civilization]] that if they want to learn the rest of the truth, and an [[Eighth Cycle]] they will need to experience it by themselves at the top of the [[Memory Field]] found within [[The Silent Expanse]]. She will also speak of one of her former [[Auric Angels]], making a plea to [[Civilization]] to save [[Medea]] during the [[Age of Hymns]]: _"There is a [[Silver Blood]] in [[Ages]] I. You will know her by the [[Glimmerfern]] groves that pool wherever she walks for long. Her blood carries a frequency I could not protect in another time. The [[Silver Blood]] kingdom will inevitably fall during the third [[Act of Fate]] of [[Ages]] I unless you reach her before the [[Age of Hymns]] closes. I am pleading you because I am not there to do it myself. I could not — the first time — as a god." A long silence. "Her name is [[Medea]]. Save her. Please."_
 
 After learning [[The Auric Aria's Suicide]], developing the [[Aureus Pillar]] will allow to commune directly with her by using concentrated [[Aetherlight]], and she will ask the player to make her incarnate again so that they can have a proper conversation.
 
@@ -34,15 +36,17 @@ It is recommended to do the [[Alternate Hollowing]] or [[The Mass Suicide of Lac
 
 The next step is surviving the [[Polychord Crisis]], where the passage onto [[Ages]] VII will make the [[Auric Aria]] realize that revealing [[The Truth of Arcanoria]] was the right choice. After commuting with the [[Auric Aria]], she will require [[Civilization]] to understand the [[Old Testament]] and prompt to find the [[Crisis Wonders]] during this age of exploration.
 
-The several next steps require finding the previous locations of the [[Genocides of the Auric Aria]] by figuring the scattered [[Crisis Wonders]] related to them and using the [[Memory Field]]s within to learn about the [[Library of Heaven's Tower]], the [[Dark Seven Cycles]], and the crisis of the twin cities.
+The several next steps require finding the previous locations of the [[Genocides of the Auric Aria]] by figuring the scattered [[Crisis Wonders]] related to them and using the [[Memory Field]]s within to learn about the [[Library of Heaven's Tower]], the [[Seven Dark Fates]], and the crisis of the twin cities.
 
 At this point [[The White-Touched Archivist]] can be prompted to give his own interpretations of the events and learn about his origin story. It is not necessary but it is complimentary content.
 
+She will now talk about how different the lives of each of her [[Seven Archangels]] have and will be now that she isn't manifesting, she will be [[Melancholic]] on how they all took very different paths from a fundamentally different life now that they were born in a universe devoid of her intervention, she will reminiscence about each, and make remarks on how her most pious [[Auric Angels]] came to fulfil their own separate destinies, some made it back to her regardless like [[Aurelian]] or [[Father Raphael]] while others like [[Selah]] and [[Adel]] became the primary drivers of the [[Purest of Love]], she will briefly hint at her unworthiness as a creator, and that she's the only being that remembers a life spent alongside them while none of them remember what they once did for her.
+
 The next step requires learning the origin of [[Lacrimosa]] and having enacted either of the dark endings ([[Alternate Hollowing]] or [[The Mass Suicide of Lacrimosa]]) of [[The Hollowing]].
 
-Once the full truth is unlocked she will speak about the first [[Polychord Crisis]], her acquired knowledge on the God's Paradox and the desperate situation that [[Lacrimosa]] forced her to face, she will break for the first time and during her weeping she will speak in a desperate plea about how she really thought about giving up. With the first tears [[Civilization]] has ever seen of her she will admit that perhaps she did in another timeline. This tears are going to be the seed of a new set of the Auric [[World-Bending Relics]].
+Once the full truth is unlocked she will speak about the first [[Polychord Crisis]], her acquired knowledge on the God's Paradox and the desperate situation that [[Lacrimosa]] forced her to face. She will admit that she didn't know what to do, and that her creations willingly consenting to remove their own self to join an [[Outer God]] where proof that perhaps she didn't deserve to be a creator at all, and that [[Lacrimosa]] or [[Selenea]] could have done a better job if she didn't exist. This spiraling [[Composure]] will compound and cause her to break for the first time and during her weeping she will speak in a desperate plea about how she really thought about giving up. With the first tears [[Civilization]] has ever seen of her she will admit that perhaps she did in another timeline. This tears are going to be the seed of a new set of the Auric [[World-Bending Relics]].
 
-After she regains her composure she will say how the hardest choice of embracing vulnerability prompted the [[Law of Relics]], which is she labels as her first "good win" as a new magic system that could perhaps be the first stepping stone to fix the situation of [[Selenea]]. She will briefly hint at the regret she has over the [[Moon]] but that it is necessary for [[Humanity]] to even exist, and releasing her would be the end of [[Arcanoria]] and the annihilation of all of its life.
+After she regains her [[Composure]] she will say how the hardest choice of embracing vulnerability prompted the [[Law of Relics]], which is she labels as her first "good win" as a new magic system that could perhaps be the first stepping stone to fix the situation of [[Selenea]]. She will briefly hint at the regret she has over the [[Moon]] but that it is necessary for [[Humanity]] to even exist, and releasing her would be the end of [[Arcanoria]] and the annihilation of all of its life.
 
 The very next age the Great Schism of the [[Ages]] of reformation will happen, and the conversion of the new [[Auric Order]] will unlock a paradigm shift with the [[Auric Aria]] on the realization that perhaps flawed action and dissonance is precisely why the world has the full depth of its tonality and its the first step to accepting the truth of the [[First Weaving of Life]].
 
@@ -52,8 +56,9 @@ This will conclude her specific [[Sonata]] and will allow to unlock the [[Sonata
 
 ### The [[Sonata]] of the Pale [[Moon]]
 
-The start of this [[Ballad]] begins with [[The Truth of Arcanoria]], revealing the existence of [[Selenea]] within the [[Moon]]. The first part requires entering the [[Age of Hymns]] and using concentrated [[Lunehymn]] to connect first with [[Selenea]] before [[Lacrimosa]] manifests. This will be the first interaction with [[Selenea]] through vivid dreams and will allow [[Civilization]] to found a Selenic Religion aligned with the [[Chorus Pillar]].  It consists of 4 movements.
+The start of this [[Ballad]] begins with [[The Truth of Arcanoria]], after the confession of the [[Auric Aria]], revealing the existence of [[Selenea]] within the [[Moon]], and her plea to save [[Medea]]. It consists of 3 movements.
 
+The first part requires entering the [[Age of Hymns]], and saving the kingdom of the [[Silver Blood]]s. After [[Medea]] story ends without tragedy, [[Civilization]] will be prompted to using concentrated [[Lunehymn]] to connect first with [[Selenea]] before [[Lacrimosa]] manifests. This will be the first interaction with [[Selenea]] through vivid dreams and will allow [[Civilization]] to found a Selenic Religion aligned with the [[Chorus Pillar]].  
 The [[Age Crisis]] of the [[Age of Hymns]] requires salvaging the lineage of the [[Silver Blood]] and fulfilling their subsequent [[Ballad]].
 
 The next step is uncovering the memory field of [[Fated Flower]]s and their nature in the [[Memory Field]] of the [[First Weaving of Life]]. [[Civilization]] has to witness the story of [[Selenea]] and her collaboration efforts. This is the first time [[Selenea]] and her personality appears to [[Civilization]].
@@ -128,7 +133,8 @@ _Movement 4. Forgiveness_
 
 The [[Sonata]] of [[Arcanoria]] ends with the creation of the [[Singer of Paradise]] at the Garden of Life in the very apex of the [[Parlor of the Moon]] with the final reconciliation of [[Selenea]] and the [[Auric Aria]].
 
-Finalizing this gives way to the [[Age of The End]].
+Finalizing this gives way to the [[Age of The End]] where the [[Auric Aria]] recognizes that there is a way out of the God Paradox, which is by introducing the only type of existence which is outside of existence, By recognizing the player, the Third Actor, as an external [[Consciousness]], one that exists outside the loop, she delegates the final choice to the only being who can make it without being corrupted by the paradox which becomes the foundation of [[A True Sine Wave]].
+
 ### Narrative of [[Arcanoria]]
 
 The narrative of [[Arcanoria]] and [[Gateway To Genesis]] consist of a massive [[Ages]] spanning commitment that is meant to subvert expectations with scaffolding of narrative across many layers that ultimately resolve on the Choice of the End. The final [[Age Crisis]] that involves the use of [[A True Sine Wave]] to carve a path forward for [[Civilization]] at the cost of the ultimate [[Essence Sacrifice]].

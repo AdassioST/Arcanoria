@@ -177,6 +177,8 @@ Finally, the true artistry of [[The Principles of Magic]] lies in weaving multip
 	- **[[Triad Chord]] Spells (Root + Third + Fifth):** The most common chord, expert-level magic combining three bindings in consonant harmony. These create powerful, balanced effects through the interplay of the [[Major Note]] Root, the third [[Minor Note]], and the fifth [[Minor Note]].
 	
 	- **[[Tetrad Chord]] Spells (Root + Third + Fifth + Seventh):** Master-level impossible compositions weaving four bindings into a reality bending tense chord of a [[Major Note]] and three [[Minor Note]]s. To cast, they demand profound sacrifice and require perfect focus and precise resolution to prevent catastrophic [[Dissonance]].
+	
+	- **[[Hyper Chord]]s (Several [[Tetrad Chord]]s at once):** These are the stress test theoretical limit which function when several [[Tetrad Chord]]s are layered together, creating a feedback loop of [[Dissonance]] that begs for a resolution of unimaginable tension of layered spells that almost always guarantee catastrophe. It can be done by laying several times the same [[Tetrad Chord]] or by merging many to create a cluster of potential energy.
 
 As complexity grows, so does unpredictability, demanding ever-greater [[Absolute Certainty]] to guide each chord through chaos into harmony and preventing [[Discordant Interference]]. The interplay of [[Major Note]]s and [[Minor Note]]s, varied tempos, and intervallic richness yields near-infinite spell variations, with creativity being the sole limitation.
 
@@ -202,11 +204,11 @@ Tempo: Accelerando
 
 - **Ember Rain ([[Dyad Chord]])**  
 
-Root: [[Cindergale]], [[Major Note]] - A focused column of fire-wind.
-Harmony: [[Flux]], [[Minor Note]], Third - Raw emotion fuels the flame.
-Tempo: Staccato
+Root: [[Cindergale]], [[Major Note]] - A focused column as a cloud of fire-wind.
+Harmony: [[Flux]], [[Minor Note]], Third - [[Flux]] directs the wind to become hot droplets beginning as a torrential downpour and then clearing.
+Tempo: Ritardando
 
-**Effect:** Piercing fire whirl darts that burn with the [[Spellweaver]]'s passionate intensity.
+**Effect:** A cloud of fire whirl darts that manifest as droplets of currents that create an immediate devastation of focused energy of raining cinders.
 
 - **Prismatic Spray ([[Triad Chord]])**
 
@@ -216,13 +218,13 @@ Tempo: Legato
 
 **Effect:** A prismatic rainbow-like spray that, on contact, creates pyramids of crystals. These structures then emit resonating light that interacts with each other, bouncing in waves between them and amplifying the spell's light the more crystals there are.
 
-- **Memory Weaving Field ([[Tetrad Chord]])**
+- **Dancing Waltz Field ([[Tetrad Chord]])**
 
 Root: [[Strand]], [[Major Note]] - Several time strings with deep ancestral connection.  
 Harmony: [[Flux]], [[Minor Note]], Third + [[Void]], [[Minor Note]], Fifth + [[Resonance]], [[Minor Note]], Seventh.
 Tempo: Polyrhythm
 
-**Effect:** An immense field of sporadic chaotic waves that reconstruct lost memories and recreate visions of the state of the land in the past. However, some of the chaotic waves cause immediate amnesia. Casting this spell would require a heavy [[Essence Sacrifice]] for fuel and require mastery of [[Sufficient Precision]] to avoid psychological fragmentation.
+**Effect:** An immense field of sporadic chaotic waves that reconstruct lost memories and recreate visions of the state of the land in the past having ghosts dancing with each other. However, some of the chaotic waves cause immediate amnesia. Casting this spell would require a heavy [[Essence Sacrifice]] for fuel and require mastery of [[Sufficient Precision]] to predict the unstable outcome.
 
 ### Utility: Medical & Healing Spells
 
