@@ -2,7 +2,7 @@
 
 The first of the [[Saber-Knight]]s and a key figure for [[Amadea]].
 
-[[Legend Title]]: The [[Saber-Knight]], The First [[Artusian Knight]], The Greatest Knight.
+[[Legend Title]]: The [[Saber-Knight]], The First [[Artusian Knight]], The Greatest Knight That Ever Lived.
 
 [[Primary Instrument]]: Refined Oak Cello, [[Dance]]
 [[Armament]]: Wide Saber
@@ -17,9 +17,10 @@ The first of the [[Saber-Knight]]s and a key figure for [[Amadea]].
 - [[Charismatic]] -> [[Auspicious Zephyr]] ([[Cindergale]])
 
 [[Legend Opus]]:
-- Knight of the Violet Grove ([[Magnum Opus]])
-- Founder of the [[Artusian Knight]]s ([[Legend Opus]])
-- First [[Saber-Knight]] of [[Iridia]] ([[Legend Opus]])
+- Sir [[Artus]], "The Greatest Knight" of [[Iridia]] ([[Magnum Opus]])
+- Keeper of the Violet Dream ([[Legend Opus]])
+- Father of the [[Artusian Knight]]s ([[Legend Opus]])
+- First [[Saber-Knight]] and Master Duelist ([[Legend Opus]])
 - The Certain Vanquisher of [[Signath]]s ([[Legend Opus]])
 - Slayer of an [[Ascendant]] [[Anxithor]] ([[Slayer Magnum Opus]])
 
@@ -33,6 +34,8 @@ The first of the [[Saber-Knight]]s and a key figure for [[Amadea]].
 
 - Dies before he fully develops his secondary [[Ornament]] to [[Cindergale]] or [[Strand]]. His death in battle against an [[Ascendant]] is the [[Motif Awakening]] to [[Void]] of [[Amadea]].
 
-- He is one of the youngest [[Legend]]s to have slain an [[Ascendant]] [[Atonalis]] without a squad of [[Spellweaver]]s. He was a prodigy with the sword that would've likely became a saber master virtuoso if he would have lived for longer.
+- He is one of the youngest [[Legend]]s to have slain an [[Ascendant]] [[Atonalis]] without a squad of [[Spellweaver]]s. He was a prodigy with the sword that would've likely became a saber master virtuoso if he would have lived for longer. He was already a master duelist at a very young age.
 
-- [[Artus]] saber becomes the mythical parallel to excalibur for [[Arcanoria]], [[Amadea]] states on the [[Artusian Knight]] ceremonies: "Not because the blade was special, but because the man who wielded it was."
+- Through his [[Selfless]] sacrifice, he is the knight that all honorable knights strive to be. He served [[Amadea]] long before former knighthood was even developed.
+
+- [[Artus]] saber becomes the mythical parallel to Excalibur for [[Arcanoria]], [[Amadea]] states on the [[Artusian Knight]] ceremonies: "Not because the blade was special, but because the man who wielded it was."

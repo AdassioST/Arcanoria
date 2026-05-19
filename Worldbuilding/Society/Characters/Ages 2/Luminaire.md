@@ -28,7 +28,7 @@ The [[Mythical Virtuoso]] of [[Luminance]] and legendary heir to [[Hollowmarch]]
 
 She was formally trained by the [[Mythical Virtuoso]] of [[Crystal]] up to her coronation which was shortly after [[Daedalus]]' death. The training of [[Daedalus]] in craftmanship proved transcendent for [[Luminaire]] when she pioneered on the first reusable infinite recording [[Resonance Box]]es that couldn't come to be if it wasn't due to her innate intellect for [[Attunement for Magic]], and her former training in invention by [[Daedalus]].
 
-It's important to note that while [[Daedalus]] didn't have any offspring, [[Luminaire]] considered the Demi Human more of a father figure than her actual biological family. Her parentship under his tutelage was the closest [[Luminaire]] was to being treated as a person and not as an instrument.
+It's important to note that while [[Daedalus]] didn't have any offspring, [[Luminaire]] considered the [[Demi-Human]] more of a father figure than her actual biological family. Her parentship under his tutelage was the closest [[Luminaire]] was to being treated as a person and not as an instrument.
 
 ### [[Luminaire]], the Prodigy Heir of [[Hollowmarch]]
 
@@ -138,15 +138,15 @@ A [[Spellweaver]] at such young age, and let alone one with a [[Soul Oscillator]
 
 For [[Hollowmarch]], she was the ultimate miracle. For herself, it was the final chains of not knowing where her voice even was.
 
-In the years that follow, she grew to the age of 27, and became a legendary master that would be unrivalled and whose [[Soul Oscillator]] was the very first of the [[Resonance Anchors]] that sustained the whole infrastructure of the [[Golden Age]] of [[Hollowmarch]].
+In the years that follow, she grew to develop bonds with the rest of the [[Mythical Virtuoso]], particularly with [[Amadea]] and [[Cordelia]], and became a legendary master that would be unrivalled, figuring out the nature of [[Sky Glass]], achieving her [[Apex Trait]] as [[Clarity of Infinite Light]] and whose [[Soul Oscillator]] was the very first of the [[Resonance Anchors]] that sustained the whole infrastructure of the [[Golden Age]] of [[Hollowmarch]]. She was one of the most important and influential figures in all of classical [[Arcanoria]] with an unrivalled intellect, not even by the rest of the other [[Mythical Virtuoso]].
 
 **Part IV: The Arrival Of [[Lacrimosa]]**
 
-A few years after, when [[Luminaire]] was 32, [[Lacrimosa]]'s [[Auroral Ribbons]] change in the sky, and the [[All-Loving Moon]] appears, the kingdom of [[Hollowmarch]] treats them as an invasion.
+A few years after, when [[Luminaire]] came back from the abyss with [[Amadea]], [[Lacrimosa]]'s [[Auroral Ribbons]] transformed the sky as [[The Hollowing]] was initiating, and as the [[All-Loving Moon]] appears, the kingdom of [[Hollowmarch]] treats them as an invasion.
 
 The priesthood condemns them. The military prepares defenses. The royal family issues proclamations declaring the [[Auroral Ribbons]] a corruption that must be stopped.
 
-And [[Luminaire]]—who is now the empire's most powerful [[Spellweaver]], crown jewel, and ultimate regal card—is called to the front lines.
+And [[Luminaire]]—who is now the empire's most powerful [[Spellweaver]], crown jewel, and ultimate regal card—is called to the front lines now that she's back in the kingdom.
 
 She is told: _"You will defend us. You will use your unrivalled gift to protect the kingdom from this abomination."_
 
@@ -293,7 +293,7 @@ And when [[Lacrimosa]] offers them the chance to stop using that language, to si
 [[Hollowmarch]]'s greatest defender has become its greatest threat.
 
 Not through rebellion. Not through fighting.
-
+W
 But simply by choosing to stop.
 
 To be embraced in the [[Purest of Love]].

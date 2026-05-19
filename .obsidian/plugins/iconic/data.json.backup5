@@ -132,6 +132,19 @@
     "README.md": {
       "icon": "🤔"
     },
+    "Sonata of the Violet Empress": {
+      "icon": "📖",
+      "unsynced": [
+        "01eed68794367206"
+      ]
+    },
+    "Sonata of the Violet Empress/Meta Analysis": {
+      "icon": "sidebar-toggle-button-icon",
+      "unsynced": [
+        "d48e64e7bb66fb41",
+        "01eed68794367206"
+      ]
+    },
     "Worldbuilding": {
       "icon": "🗺️",
       "unsynced": [
@@ -165,13 +178,6 @@
     },
     "Worldbuilding/Gateway To Genesis.md": {
       "icon": "⚓"
-    },
-    "Worldbuilding/Meta Analysis": {
-      "icon": "sidebar-toggle-button-icon",
-      "unsynced": [
-        "d48e64e7bb66fb41",
-        "01eed68794367206"
-      ]
     },
     "Worldbuilding/Mythology": {
       "icon": "lucide-snowflake",
@@ -338,7 +344,7 @@
         "01eed68794367206"
       ]
     },
-    "Worldbuilding/Society/Weapons & Relics": {
+    "Worldbuilding/Society/Weapons, Instruments & Relics": {
       "icon": "lucide-swords",
       "unsynced": [
         "d48e64e7bb66fb41",

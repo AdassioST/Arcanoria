@@ -2,7 +2,7 @@
 
 [[Outer God]] | [[Deific Moodboard.canvas|Deific Moodboard]]
 
-[[Legend Title]]s: The Pale [[Moon]], The Echo in the Light, The Bleeding Battery.
+[[Legend Title]]s: The Pale [[Moon]], The Echo in the Light, The Bleeding Battery, The Reverberation Tail.
 
 [[Primary Instrument]]: [[Pale Moonlit Violin]], [[Dance]]
 [[Armament]]: None
@@ -39,6 +39,10 @@ Her element is [[Lunehymn]] with [[Glimmerfern]] being the refining material bor
 
 ### Character Details
 
+
+![[Selenea 5.png]]
+
+
 - [[Selenea]] is a naturally extroverted being that crystalized her [[Soul Leitmotif]] due to the crime of the [[Betrayal of the Moon]]. However, this didn't manifest as remorse, rather it created within her a desire to regain back the ability to continue creation because it is one of the characteristics she liked most of being a deity. She liked the fact of connection, of stabilizing the frequency of the beings the [[Auric Aria]] made, and felt belonging in the fact that they were creating together.
 
 - [[Selenea]] is also the most expressive and joyful of the trio, the [[Auric Aria]], and [[Lacrimosa]]. However, she is completely isolated in the [[Moon]] which made her evolve her [[Legend Trait]] of [[Naive]] and [[Jolly]] into unhealthy states by being deprived of connection which eventually made her turn into [[Melancholic]] because of the longing of the past she wishes to return to as being with the [[Auric Aria]] gave her meaning, she is a mirror to the wound of [[Lacrimosa]]'s [[Weight of Purpose]] but taken by the other side of the equation, both have desire to collaborate because the [[Auric Aria]] creation made them find meaning.
@@ -64,11 +68,12 @@ Her element is [[Lunehymn]] with [[Glimmerfern]] being the refining material bor
 - [Character Edit: Observer and Witness of Life](https://vt.tiktok.com/ZSDXYJY9w/ "https://vt.tiktok.com/ZSDXYJY9w/")
 - [Character Edit: The Stars were Made for Falling](https://vt.tiktok.com/ZSDXF79wF/ "https://vt.tiktok.com/ZSDXF79wF/")
 
-![[Selenea 5.png]]![[Selenea 2 1.png]]
+### Origin Story: The Echo in the Light
 
-### The Echo in the Light
+![[Selenea 2 1.png]]
 
-#### I. Reverberation Tail
+
+#### I. The Reverberation Tail
 
 This flickering light did not awaken into silence. 
 

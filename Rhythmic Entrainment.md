@@ -1,0 +1,1 @@
+A core principle of [[Cindergale]] and [[Perfect Focus]].

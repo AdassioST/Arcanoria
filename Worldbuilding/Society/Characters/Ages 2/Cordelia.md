@@ -4,7 +4,7 @@ The [[Mythical Virtuoso]] of [[Strand]] of the Seven Virtuosi.
 
 [[Legend Title]]: The Panacea, Mother of All Healers, The Time Bender, Saint Patron of [[Great Chronicler]]s.
 
-[[Primary Instrument]]: 
+[[Primary Instrument]]: [[Own Voice]], Threaded Lyre Harp
 [[Armament]]: 
 [[Soul Leitmotif]]: [[Strand]]
 [[Ornament]]s: [[Flux]], [[Cindergale]]
@@ -13,7 +13,7 @@ The [[Mythical Virtuoso]] of [[Strand]] of the Seven Virtuosi.
 
 [[Legend Trait]]s:
 
-- [[Submissive]] -> [[Sacrificial Lamb]] -> [[Guardian Angel]] ([[Strand]])
+- [[Submissive]] -> [[Over-giving Devout]] -> [[Guardian Angel]] ([[Strand]])
 - [[Imaginative]] -> ([[Flux]])
 - [[Jolly]] -> [[Fiery Passion]] ([[Cindergale]])
 

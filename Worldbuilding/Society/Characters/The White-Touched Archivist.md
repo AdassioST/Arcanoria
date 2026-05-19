@@ -244,6 +244,10 @@ They didn't remember setting it down.
 > _"A shard of something pale and translucent. It hums near gaps in things. He said: for when you're ready."_
 
 
+[[The White-Touched Archivist]] clots on the [[Ballad]] of the white clots are something like a hyrax, a pootis bird /harpy eagle hybrid, and a sea dragon slug. They represent the sea, the earth, and the sky.
+
+On the second half of the [[Ballad]] of the white clots, the [[Legend]] tasked to find the entrance of [[The White-Haven Library]] is killing a massive amount of [[Anxithor]] [[Nascent]] [[Atonalis]] and a [[Sectile]] [[Atonalis]] leader. The battle is going to fall even if they do kill the [[Sectile]] [[Atonalis]] as the horde of [[Atonalis]] closes in on them. [[The White-Touched Archivist]] appears to save them, and he throws [[Primal White Noise]] from the clots to the [[Atonalis]]. The panic of the [[Atonalis]] and the flashbang is going to cause them to "[[Dance]]" as they are burning. [[The White-Touched Archivist]] uses this entrance to [[Dance]] alongside the screaming [[Atonalis]] which makes it a bizarre scene of a rescue and makes the relationship he has with them. He saves the [[Legend]] parting the seas of monsters like Moses but with the dancing crowd of demons, and invites the [[Legend]] to [[The White-Haven Library]]. This gives permanent access through the [[White-Key]] to the game's wiki. _"These demons always know how to hit those moves after being hit with the Boogie Bomb."_
+
 ### The [[Legend]] of Nowhere and the King of Madness
 
 Due to his enigmatic nature and sometimes hazardous knowledge, [[The White-Haven Library]] is feared by some as a [[Primal Discordia]] [[Atonalis]], despite him being not one. This is due to three distinct primary reasons:

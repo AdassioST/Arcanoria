@@ -10,7 +10,7 @@ The strongest of all [[Atonalis]] is the original [[Violux]] who killed the gent
 
 - [[Signath]]: Saturn Storm. The Hollow Pilgrim. Scarlet King. Memetic Hazards that do damage to you for knowing or for others from you knowing.
 
-- [[Carnalix]]: The Corpus Mortuum
+- [[Carnalix]]: The Corpus Mortuum, Inspired by Lady Ethereal from Nine Sols
 
 - [[Animach]]: [[Morpheus Abysmal]] combination of Zalgo speaking in the 8-tongues of the [[Atonalis]], combination of Meruem + Atonalis Demon Lord. Gains almost [[Humanity]] for a brief moment before ending itself during [[Ages]] IV.
 

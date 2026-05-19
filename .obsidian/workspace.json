@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Gateway To Genesis.md",
+                "file": "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gateway To Genesis"
+              "title": "Ages"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314
+    "width": 354
   },
   "right": {
     "id": "c527bee07c2268a4",
@@ -105,12 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Gateway To Genesis.md",
+                "file": "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Gateway To Genesis"
+              "title": "Enlaces salientes de Ages"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Gateway To Genesis.md",
+                "file": "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Gateway To Genesis"
+              "title": "Enlaces entrantes de Ages"
             }
           },
           {
@@ -192,52 +192,52 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Worldbuilding/Mythology/Deities/Selenea.md",
-    "Worldbuilding/Mythology/Deities/Lacrimosa.md",
     "Worldbuilding/Gateway To Genesis.md",
-    "The Echo In the Light.md",
-    "Worldbuilding/Society/Characters/Mythical Virtuoso.md",
-    "Worldbuilding/Society/Characters/Ages 2/Amadea.md",
-    "Worldbuilding/Meta Analysis/In-Depth Analysis of Syvanth.md",
-    "merged/merged-output-2026-05-04.md",
-    "Worldbuilding/Mythology/Deities/Parlor of the Moon.md",
-    "Worldbuilding/Origin of Magic/The Principles of Magic.md",
-    "Worldbuilding/Origin of Magic/Spellweaving/Tetrad Chord.md",
-    "Worldbuilding/Mythology/Deities/Auric Aria.md",
-    "Worldbuilding/Society/Characters/Ages 3/Selah.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 6/Polychord Crisis.md",
-    "Game Systems/Derivative Ideas/Franchise Potential.md",
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Soliton.md",
-    "Worldbuilding/Society/Stellar Legacy/Legend Trait.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Forbidden Objects/Hypermage.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Old Testament/Uriel.md",
-    "Worldbuilding/Society/Auric Order/Auric Order.md",
-    "merged/merged-output-2026-05-03.md",
-    "Worldbuilding/Society/Weapons, Instruments & Relics/Primary Instruments/Auric Bells.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Outer God Rituals/Purest of Love.md",
-    "Worldbuilding/Society/Characters/Ages 5/Cadmus Tacet.md",
-    "Worldbuilding/Society/Characters/Ages 1/Daedalus.md",
+    "Worldbuilding/World Environment/Atonalis/Original Eight/Original Eight.md",
+    "Sonata of the Violet Empress/Amadea.md",
+    "Worldbuilding/World Environment/Landmarks/Crescent Mist Peaks.md",
+    "Waltz of Wandering Love.md",
+    "merged/merged-output-2026-05-18.md",
+    "Worldbuilding/Society/Characters/Ages 2/Artus.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/Spellweaving.md",
+    "Worldbuilding/Origin of Magic/The Principles of Magic.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/Spellweaver.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Vibrational Fallout.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Vibrational Decay.md",
+    "Hollow-Point.md",
+    "Illusory Magic.md",
+    "Amadea Traducción Español.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Consciousness.md",
+    "Worldbuilding/Society/Characters/Ages 2/Mira.md",
+    "Game Systems/Derivative Ideas/Notas Diplomado.md",
+    "merged/merged-output-2026-05-16.md",
+    "Worldbuilding/Origin of Magic/The One Symphony/The Eternal Symphony.md",
+    "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
+    "Worldbuilding/Origin of Magic/Bindings & Elements/Crystal.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/Soul Leitmotif.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/Primary Instrument.md",
+    "World Shaping Maverick.md",
+    "Amadea-6.png",
+    "Amadea Traducción Español.png",
+    "Sonata of the Violet Empress",
+    "The Stars Are Alive-1.png",
+    "The Stars Are Alive.png",
+    "Images/Gateway To Genesis.png",
+    "Gateway To Genesis.png",
+    "Worldbuilding/World Environment/Atonalis/Primal Discordia",
+    "Worldbuilding/World Environment/Atonalis/Ascendant",
+    "Worldbuilding/World Environment/Atonalis/Fracted",
+    "Worldbuilding/World Environment/Atonalis/Sectile",
+    "Worldbuilding/World Environment/Atonalis/Nascent",
+    "Worldbuilding/World Environment/Atonalis/Original Eight",
     "Worldbuilding/Society/Weapons, Instruments & Relics/Primary Instruments",
     "Worldbuilding/Society/Tools & Inventions/Instruments",
     "watermark_removed_d1abfe33-c5d2-470b-816a-99991610abcc.mp4",
-    "Sin nombre",
     "Pasted image 20260430145435.png",
     "Uriel.png",
     "Pasted image 20260430142514.png",
     "Auric Heptacode.png",
-    "Amadea-5.png",
-    "Images/Gateway To Genesis.png",
-    "Images/Auric Order/Auric Heptacode.png",
-    "Images/Auric Order/Auric Heptacode 1.png",
-    "Images/Auric Order/Auric Mythos of Creation.png",
-    "Images/Auric Order/Auric Mythos of Creation-1.png",
-    "Worldbuilding/Origin of Magic/Root of Evil/Atonalis",
-    "merged",
-    "Worldbuilding/Society/Characters/Ages 0",
-    "Worldbuilding/Society/Characters/Ages 4",
-    "Worldbuilding/Society/Characters/Ages 5",
-    "All-Loving Moon.mp4",
     "Worldbuilding/Mythology/Deific Moodboard.canvas",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
     "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas"

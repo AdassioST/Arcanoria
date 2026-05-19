@@ -1,10 +1,10 @@
 #chaos #creature
 
-*"Do not look away. I know it sounded like a child. I know it felt like genuine fear. I too feel pity for them, but we do not share their burden. 
+_"[[Amadea]]. Look at me. I know it sounded desperate. I know it felt like genuine fear and desire. I too feel pity for them, but we do not share their burden. 
 
-*You have to understand, they are only the shadow of a person who decided to stay broken. They are not the victim and that's their trap. It is the crystallized refusal to heal, given claws.
+_Understanding is not consent to be consumed, they are only the shadow of a person who decided to stay broken. They are not the victim and that's their trap. It is the crystallized refusal to heal, given claws._
 
-*Whatever it whispered to you... that was born from honest intent. It truly believed it needed you. But it only cares that you bleed for them. And you have bled enough."
+_Whatever it whispered to you... that was born from honest intent. It truly believed it needed you, and that you were the only thing wounded enough to resonate. But it only cares that you bleed for them. And you have bled enough. Remember?" —[[Cordelia]], the [[Mythical Virtuoso]] of [[Strand]]_
 
 ![[Images/Chaos, Atonalis, Monsters/Atonalis.png]]
 

@@ -139,7 +139,7 @@ Moreover, old [[Constellation]]s offer massive power but come with restrictions 
 
 This creates a new original [[Stellar Covenant]] and [[Inspiration Stigma]] of the hybrid kit. This ensures the "New" always adds something unique to the "Old" library.
 
-Likewise, [[Syncretism]] can also come from mythic drift, as [[Constellation]]s are not static statues; they are echoes of [[Resonance]] that change based on how [[Civilization]] incarnates them. [[Arcanoria]] tracks contextual usage, and this allows organic evolution of the pantheon based on what's currently vital for society.
+Likewise, [[Syncretism]] can also come from [[Mythic Drift]], as [[Constellation]]s are not static statues; they are echoes of [[Resonance]] that change based on how [[Civilization]] incarnates them. [[Arcanoria]] tracks contextual usage, and this allows organic evolution of the pantheon based on what's currently vital for society.
 
 - _Scenario:_ You have the [[Constellation]] "Syvea, Mother of the Lost." A legendary healer that devoted their life to saving orphaned children.
 - _Player Action:_ You keep using Syvea's healing miracles to keep soldiers alive in during war rather than saving orphans.
@@ -152,6 +152,8 @@ Likewise, [[Syncretism]] can also come from mythic drift, as [[Constellation]]s 
 - _Result:_ Her passive bonuses shift from "Population Growth" to "Army Recovery Rate." The player shaped the [[Constellation]] to fit their playstyle. This feels organic because they became what the [[Civilization]] needed by how and by whom she's remembered.
 
 Your pantheon evolves based on how you play. If you abuse a Healing [[Constellation]] for military gain, the game mechanically twists that [[Constellation]] into a War [[Constellation]]. [[Arcanoria]] reacts to the [[Civilization]]'s hypocrisy and ingenuity, creating a "Living" religion.
+
+It's possible to cleanse [[Mythic Drift]] through [[Myth Purification]] to get back the [[Constellation]] to its original state and its canon [[Legend]] before any [[Mythic Drift]]. However, this [[Myth Purification]] requires a heavy expenditure of [[Stardust]], and has a cooldown similar to [[Reincarnation]]. As such, managing a [[Constellation]] and its tether to [[Arcanoria]] is a symphony of ebb and flow in [[Consonance]], tension and [[Dissonance]]. Equally dictated by the actions of [[Civilization]], their sacrifices for preserving their original myths, and the [[Resonance]] they build with their [[Constellation]]s.
 
 **Example "Rags to Myth" Playthrough**
 

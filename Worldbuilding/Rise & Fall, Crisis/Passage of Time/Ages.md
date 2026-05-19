@@ -1,4 +1,4 @@
-Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 14, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]].
+Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 14, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]]. [[Constellation]]
 
 Furthermore, [[Ages]] are defined by [[Act of Fate]]s which are one third of the [[Ages]] duration, separating the Early, Middle, and Late version of these [[Ages]], moreover, every 3 [[Ages]] the third will always have 4 [[Act of Fate]]s signaling the "long [[Ages]]." They are intrinsically tied to [[Cosmic Motion]]. Usually the division of an [[Act of Fate]] is a minor version of a [[World Event]] or minor [[Age Crisis]] which can be natural disasters, political conflicts, and other related major significant paradigm shifts for the age.
 
@@ -13,9 +13,10 @@ Excess [[Era Score]] above the required for a [[Golden Age]] becomes points that
 3 [[Act of Fate]].
 
 Fractured [[Arcanoria]] after a [[Cataclysmic Aftermath]].
-Flickering Staccato Rhythm. Primitive [[Unison]] Spells. Mostly [[Minor Note]] magic.
+Flickering Staccato Rhythm. Unreliable [[Unison]] and [[Dyad]] Spells. Mostly [[Minor Note]] magic.
 
 - [[Age of Desolation]] | Not Aligned with [[Pillars]] ([[Age Crisis]]: [[The Inescapable Hunger]]) | Dark Fantasy
+- [[Age of the Wolf Tone Winter]] | [[Waltz Pillar]] (Attainable after the Second [[Cataclysmic Aftermath]])
 
 The [[Age Crisis]] teaches that there are [[Civilization]] changing events at the end of all [[Ages]].
 
@@ -41,7 +42,7 @@ _You can fail an [[Age Crisis]]._
 4 [[Act of Fate]].
 
 Establishment of [[The Principles of Magic]]. [[Amadea]]
-Introducing Ritardando. First [[Dyad Chord]]s. [[Unison]] Primacy. Basic Magic.
+Introducing Ritardando. Stable [[Dyad Chord]]s. [[Unison]] Primacy. Rare [[Triad Chord]]s. Basic Magic.
 
 The [[Age Crisis]] is variations of the start of [[The Hollowing]], [[A Pact of a Thousand Eyes]], or [[Voice of the Heavens]]. It is the first age to have more than one crisis that depends entirely on the [[Civilization]] behavior and if they were the ones that invited an [[Outer God]], [[Lacrimosa]], to [[Arcanoria]].
 
@@ -66,7 +67,7 @@ Mastery of the [[The Principles of Magic]].
 Starting point of proper [[Ornament]]al Magic. Full resolution of the [[World Event]] of [[The Hollowing]] and [[Lacrimosa]] brewing through the whole age.
 
 First classical civilizations.
-Introducing Accelerando. First [[Triad Chord]]s. [[Dyad Chord]] Primacy. [[Unison]] Mastery.
+Introducing Accelerando. First Reliable [[Triad Chord]]s. [[Dyad Chord]] Primacy. [[Unison]] Mastery.
 
 The [[Age Crisis]] is variations of end of [[The Hollowing]], [[Opposing the Heavens]], [[The Undeniable Moon]], [[The Birth of the Tetrad Chord]], depending on their relationship with her and the stance they take as either a [[Major Actor]] or [[Minor Actor]].
 
@@ -86,13 +87,15 @@ _There are [[Minor Actor]] and [[Major Actor]] roles for [[Age Crisis]] and stor
 
 3 [[Act of Fate]].
 
-**[[Ages]] IV onwards there are [[Magical Relic]], [[Cursed Objects]] and [[World-Bending Relics]].**
+**[[Ages]] IV onwards there are [[Magical Relic]], [[Cursed Objects]] and [[World-Bending Relics]]. Also the [[Original Eight]] become empowered, each primordial demon becoming a reckoning force during a specific set of [[Ages]].**
+
+It starts with the [[Morpheus Abysmal]] and the [[Atonalis]] Reign but extends all the way to the second [[Cataclysmic Aftermath]]. In empowered [[Ages]] the specific [[Original Eight]] will revive instantly if they were killed, ignoring the normal cooldown of resurrection, and they will have special interactions, dialogue, and [[World Event]]s tied to them as core antagonists.
 
 Resolution of the [[Law of Relics]] and [[The Hollowing]] allow for [[World-Bending Relics]] to exist from now onwards, giving permanence to both [[Magical Relic]], and [[Cursed Objects]].
 
 Exploration and classical RPG focused with small settlements & castles.
 
-Introducing Polyrhythms. Basic [[Triad Chord]]s. [[Dyad Chord]] Primacy. [[Unison]] Mastery.
+Introducing Polyrhythms. Reliable Basic [[Triad Chord]]s. [[Dyad Chord]] Primacy. [[Unison]] Mastery.
 Starting point of Advanced Magic.
 
 [[Ages]]:
@@ -115,6 +118,8 @@ The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becom
 
 [[The Ultimate Weapon]] appears as a legendary [[Crisis Wonders]] as it "detects" the [[Primal White Noise]] that [[Lacrimosa]] unleashed when she performed the [[Hyper Chord]]. It remains active during this era but disappears the next. This is why the Crusades are after the [[Holy War]]. It did exist for a while.
 
+**[[Original Eight]] Empowered: [[Morpheus Abysmal]]. [[Animach]]**
+
 ### Age V (Middle Medieval)
 
 4 [[Act of Fate]].
@@ -125,7 +130,7 @@ Focus on Duchy to Kingdom building, rags to riches stories, religion primacy, cr
 
 _First Diplomatic Heavy Mechanics, Starting Espionage Organisms, Border Skirmishes, Ideology / Theology, Rivals, Conflicts and Political Interests._
 
-Advanced Polyrhythms. Advanced [[Triad Chord]]s. [[Dyad Chord]] Mastery. [[Unison]] Mastery. Advanced [[Ornament]]al Magic Development.
+Advanced Polyrhythms. Advanced [[Triad Chord]]s. [[Dyad Chord]] Mastery. [[Unison]] Mastery. Advanced [[Ornament]]al Magic Development. Unreliable [[Tetrad Chord]]s. First [[Hyper Chord]].
 
 [[Ages]]:
 - [[Age of the Sacred Cross]] ([[Golden Age]]) | [[Regalia Pillar]] + [[Aureus Pillar]] | Dark Fantasy
@@ -146,6 +151,8 @@ Development of surgery on [[Pure Light]] beings by [[Cadmus Tacet]], he's cruel 
 
 Tragically, this war for the Holy Grail is not a path to victory; it is a cosmic reset button, and the factions are fighting to the death just to pull the plug on their own existence. While they are unable to get to [[The Ultimate Weapon]], the winner will be awarded one of the [[World-Bending Relics]], and the fixation with [[The Ultimate Weapon]] becomes the end point of the next [[Ages]] that devolve into the [[Polychord Crisis]] after a final crusade begins and ends with the firing of [[Primal White Noise]].
 
+**[[Original Eight]] Empowered: The Imperium Obsessus. [[Violux]]**
+
 ### Age VI (High Medieval)
 
 3 [[Act of Fate]].
@@ -154,7 +161,8 @@ Focus on Kingdom to Empire, established civilizations, culture, courts, secrets.
 
 _First Cultural Conflicts, Advanced Espionage, Owls of Minerva, Assassins, Betrayals, Courtship, Political Drama & Diplomatic Scandals._
 
-All rhythm types available. First Unstable [[Tetrad Chord]]s. [[Triad Chord]] Primacy. [[Dyad Chord]] Mastery. [[Unison]] Mastery.
+All rhythm types available. First Semi Stable [[Tetrad Chord]]s. [[Triad Chord]] Primacy. [[Dyad Chord]] Mastery. [[Unison]] Mastery. Critical [[Hyper Chord]]s.
+
 Starting point of Mastery of Magic.
 
 [[Ages]]:
@@ -170,7 +178,9 @@ The [[Age Crisis]] teaches that all [[Civilization]]s have an end, and that ever
 
 The [[Polychord Crisis]] is going to be the AC, BC of the game. After [[Polychord Crisis]] (APC), Before [[Polychord Crisis]] (BPC).
 
-**First [[Divine Reset]] with the [[Hyper Chord]] [[Polychord Crisis]] of [[The Ultimate Weapon]] which is previously one of the [[Crisis Wonders]].**
+**[[Original Eight]] Empowered: The Hollow Pilgrim. [[Signath]]**
+
+**🌀 First [[Cataclysmic Aftermath]] with the [[Hyper Chord]] [[Polychord Crisis]] of [[The Ultimate Weapon]]. Leads back to the [[Age of Desolation]].**
 
 ### Age VII (Renaissance & Discovery)
 
@@ -184,6 +194,8 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 - [[Age of Alchemy]] ([[Classical Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Science Fantasy
 - [[Age of Blood]] ([[Dark Age]]) | [[Regalia Pillar]] | Horror Fantasy
 
+**[[Original Eight]] Empowered: [[The Amber Wonderland]]. [[Erosyx]]**
+
 ### Age VIII (Reformation & Revolution)
 
 4 [[Act of Fate]].
@@ -192,6 +204,8 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 - [[Age of Enlightenment]] ([[Classical Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | High Fantasy
 - [[Age of Silence]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Waltz Pillar]] | Dark Fantasy
 - [[Age of the Debt of Flesh]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Regalia Pillar]] |Horror Fantasy
+
+**[[Original Eight]] Empowered: Shrieking Sentinel. [[Anxithor]]**
 
 ### Age IX (Industrial Era)
 
@@ -203,12 +217,16 @@ Second "Age of [[Humanity]]."
 - [[Age of Sealing Iron]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Dark Fae Fantasy
 - [[Age of Velvet Elegance]] ([[Dark Age]]) | [[Regalia Pillar]] + [[Chorus Pillar]] | Dystopian Fantasy
 
+**[[Original Eight]] Empowered: The Discord Weaver. [[Discant]]**
+
 ### Age X (Machine Age)
 
 3 [[Act of Fate]].
 
 - [[Age of Clockwork]] ([[Golden Age]]) | [[Waltz Pillar]] | Steampunk
 - [[Age of Chimeras]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Horror Fantasy
+
+**[[Original Eight]] Empowered: The Corpus Mortuum. [[Carnalix]]**
 
 ### Age XI (Atomic, World Wars & Information Era)
 
@@ -218,8 +236,10 @@ Third "Age of [[Humanity]]."
 
 - [[Age of Starlight]] ([[Golden Age]]) | [[Regalia Pillar]] | Magical Girls
 
-**Second [[Civilization Reset]] with MAD
+**[[Original Eight]] Empowered: [[Looping Paradox]]. [[Obsessian]]**
 
+**🌀 Second [[Cataclysmic Aftermath]] with [[Wolf Bomb]] MAD Annihilation. Leads to the [[Age of the Wolf Tone Winter]].**
+ 
 ### Age XII (Near Future Era)
 
 3 [[Act of Fate]].
@@ -228,6 +248,9 @@ Third "Age of [[Humanity]]."
 - [[Age of Holography]] ([[Classical Age]]) | [[Aureus Pillar]] | Space Fantasy
 - [[Age of Simulations]] ([[Dark Age]]) | [[Regalia Pillar]] | Digital Fantasy
 
+[[Ages]] XII is about colonizing the planet system and becoming Tier 1 [[Civilization]] by harnessing the power of the planet, [[Arcanoria]], and spreading the [[Great Harmonic Loom]] to the nearby planets in the same solar system.
+
+Terraforming magically and ecologically planets environments, turning sterile planets into [[Arcanoria]] like with the help of seeding the [[Great Harmonic Loom]].
 ### Age XIII (Sci-Fi Era)
 
 3 [[Act of Fate]].
@@ -236,26 +259,27 @@ Third "Age of [[Humanity]]."
 - [[Age of False Moons]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Regalia Pillar]] | Dystopian Fantasy
 - [[Age of Singularity]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Regalia Pillar]] | Space Fantasy
 
+[[Ages]] XIII is about expanding the network as Tier 2 [[Civilization]] by creating a web of solar system relay network of the [[Great Harmonic Loom]] as hyperspace lanes for FTL travel that function by first launching one [[Void]] warp drive anchor. It functions just like climbing, launching first the rope anchor to establish the tether you can then use to climb. Functional networks for space travel as gateways.
+
+**🌀 Third [[Cataclysmic Aftermath]] with True [[Primal White Noise]]**
+
 ### Age XIV (The Terminal Age)
 
 4 [[Act of Fate]].
 
 - [[Age of The End]] (Genesis Age) | Not Aligned with [[Pillars]] | Metaphysical Fantasy
+### [[Act of Fate]] Minor Crisis:
 
-| Age | Mythic Name & Crisis                                                                          | Elements Introduced                                            | Rhythms Introduced | Mechanics & Discovery                                                                     | Foreshadowing                                            | “WOW” Moment                                                      |
-| --- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------------- |
-| 1   | Age of Silence  <br>Crisis: Famine cults choke the wild plains.                               | Resonance                                                      | —                  | Unison Melody (Attunement/Resonance); basic healing hum.                                  | Tremors hint at deeper echoes beneath the plains.        | Discover hidden Resonance echoes in stone circles.                |
-| 2   | Age of Emberforge  <br>Crisis: Lava floods threaten settlements.                              | Cindergale, Flux                                               | Staccato           | Rhythm puzzles (fire-smithing); accidental Flux conduit spells.                           | Molten veins pulse with dual-tone resonance in ruins.    | Forge molten conduit to reshape terrain.                          |
-| 3   | Age of Harmonic Loom  <br>Crisis: Plague glyphs ravage rivers.                                | Void alongside Resonance & Flux                                | Legato             | Dyad Harmony with Resonance+Flux; glyphcraft healing spells.                              | Glyph fragments depict three-note motifs.                | Cast a precise Dyad cure halting the plague.                      |
-| 4   | Age of Ruinfall  <br>Crisis: Symphony of Ruin fractures realms.                               | Triads (Resonance, Flux, Void)                                 | Ritard             | Triad unlocks emotional & Void mechanics; hidden Tetrad shards fracture landscapes.       | Fractured monoliths resonate with forbidden chords.      | Worldscape fracturing with permanent map scars.                   |
-| 5   | Age of Flourishing Threads  <br>(Low Middle Ages) Crisis: Noble Polyrhythm Revolt.            | Crystal, Luminance, Strand complete the set of seven elements. | Accel              | Master Triads with all seven elements; accelerated rune trials.                           | Whispered legends of seven-note “chorus” linger.         | Dawn Plaza Mini-Tetrad accident; containment laws enacted.        |
-| 6   | Age of Resonant Courts  <br>(Mid Middle Ages) Crisis: Polychord cult wars. **RESET**          | All seven elements available                                   | Polyrhythm         | Polychords combining Dyad+Triad+Sacrifice; cult siege dynamics.                           | Sacrificial altars bear chaotic multi-thread engravings. | Polychord siege on fortress with dynamic crowd mechanics.         |
-| 🌀  | **Lost Cycle II**—Rebuild from ashes; survivors retune Resonance in hidden sanctums.          | —                                                              | —                  | —                                                                                         | Echoes of Embervine overture in rebuilt halls.           | —                                                                 |
-| 7   | Age of Guild Concord  <br>(High Middle Ages) Crisis: Magitech uprisings.                      | —                                                              | —                  | Focus binding; all five rhythms mastered; Trial of Four reconstructs Tetrad fragments.    | Guild banners depict four-shard sigils.                  | Guild-wide adaptive music system averts catastrophe.              |
-| 8   | Age of Shattered Visions  <br>(Renaissance–Early Industrial) Crisis: Laboratory Exodus.       | —                                                              | —                  | Quantum collapse puzzles; refinement of element interactions; complex polyrhythms.        | Laboratory records hint at quantum-weave symphonies.     | Quantum-rift puzzle with procedural spell collapse.               |
-| 9   | Age of Chronomantic Consortiums  <br>(Early 20th C.) Crisis: Chronowave storms.               | —                                                              | —                  | Ensemble polyrhythm co-op; time-node stabilization events.                                | Clockwork ruins echo ancient chants.                     | Multiplayer raid to stabilize temporal rifts.                     |
-| 10  | Age of United Resonance  <br>(Modern Era) Crisis: Auric Grid Blackouts. **RESET**             | —                                                              | —                  | Civic Auric Grids; symphonic architecture; real-time load balancing.                      | City overpasses hum with containment sigils.             | City-wide orchestration averts blackout with dynamic simulation.  |
-| 🌀  | **Lost Cycle III**—Hidden academies preserve primal chants under cold-warning skies.          | —                                                              | —                  | —                                                                                         | Frosted amphitheaters resonate with silent hymns.        | —                                                                 |
-| 11  | Age of Celestial Synthesis  <br>(Near-Future Sci-Fi) Crisis: Star-City Chorus Collapse.       | —                                                              | —                  | Planetary terraform sandbox; Auric Engines weave climates; ultimate polyrhythmic Tetrads. | Starlight layers mirror chord charts.                    | Planetary terraforming finale with living chord-network.          |
-| 12  | Age of Silent Legacy  <br>(Post-Transcendent Legend) Crisis: Outer Gods’ intrusion. **RESET** | —                                                              | —                  | Meta-myth introspection; legacy quests; rewrite creation lore.                            | Faint winds carry fragments of the First Chorus.         | Endgame lore revelation: lost “First Chorus” origins—True Ending. |
+The list of the minor crisis that separate the [[Ages]] by Act of Fate can be many varied [[Events]] that include but aren't exclusively:
 
+- Famine cults choke the wild plains.
+- Lava floods threaten settlements.
+- Plague glyphs ravage rivers.
+- Symphony of Ruin fractures realms.
+- Noble Polyrhythm Revolt.
+- Any [[Outer God]] intrusion.
+- Magitech uprisings.
+- Laboratory [[Dissonance]] [[Institute]] Exodus.
+- Chronowave [[Strand]] storms.
+- Auric Grid Blackouts.
+- City Chorus Collapse.

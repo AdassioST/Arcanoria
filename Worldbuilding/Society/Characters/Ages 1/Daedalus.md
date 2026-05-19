@@ -2,7 +2,7 @@
 
 The [[Mythical Virtuoso]] of [[Crystal]] of the Seven Virtuosi.
 
-[[Legend Title]]: The Demi Human Architect, The Auric Inventor, The Father of Demi Humans, Saint Patron of [[Great Architect]]s.
+[[Legend Title]]: The [[Demi-Human]] Architect, The Auric Inventor, The Father of [[Demi-Human]]s, Saint Patron of [[Great Architect]]s.
 
 [[Primary Instrument]]: [[Auric Bell Staff]]
 [[Armament]]: Golden Arched Khopesh
@@ -42,6 +42,8 @@ _"Why chase something when you can just choose it? Be the law of assumption, [[A
 _"You have to expect great things from yourself before you can achieve them. Use your impossibly large intellect to see what no one else can. I once learned that the only way to prove the world wrong by building something it cannot deny." - [[Daedalus]] to the young [[Luminaire]] when she was crying due to failing expectations.
 
 _"I've come to realize through impossible hardship that no one is separate from the reality they want. You're the reason it exists in the first place."_
+
+
 
 
 ![[Daedalus-1.png]]

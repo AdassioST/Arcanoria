@@ -1,3 +1,5 @@
+#landmark #spellweaving #chaos
+
 An advanced type of a [[Strand Pool]] mirroring as an archeomagical [[Strand]] field that contain the weight of history for a strong event. It's the result of [[Echoing Bonds]] imprinted on the place of occurrence.
 
 It exhibits similar properties to that of a [[Strand Pool]]:

@@ -4,7 +4,7 @@ The [[Mythical Virtuoso]] of [[Flux]] of the Seven Virtuosi.
 
 [[Legend Title]]: The Tide Singer, Saint Patron of [[Great Concertist]]s, The Voice of the Storm.
 
-[[Primary Instrument]]: Three-Flow Khaen
+[[Primary Instrument]]: Three-Flow Khaen, [[Own Voice]]
 [[Armament]]: None
 [[Soul Leitmotif]]: [[Flux]]
 [[Ornament]]s: [[Resonance]], [[Luminance]]

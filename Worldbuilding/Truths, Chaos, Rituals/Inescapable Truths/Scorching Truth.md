@@ -22,4 +22,6 @@ Massive Spoilers
 - [[The Ultimate Weapon]] is the hope that one [[Civilization]] will eventually pass through the great filters, it resets to a specific point anchored
 - Not even god knows how many times [[Civilization]] was reset during the [[Lost Cycle]] but the anchor to resetting the universe is linked to [[The Ultimate Weapon]]
 - [[The Ultimate Weapon]] is a [[Hypermage]]
+- [[The Stars Are Alive]], [[The Auric Aria is a Type G Star]]
+
 - [[The Ultimate Weapon]] has as its last looping wish and directive: _"I wish for you to turn back the clock of fate, to reverse time to a gentler past before [[Civilization]] even began, to save [[Humanity]] and give it a future beyond the [[Ages]] that doomed this timeline if the encroaching static ever destroys reality again. No matter the cost. No matter how many attempts or lives it takes."_

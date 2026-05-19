@@ -20,11 +20,17 @@ _"Throne of [[Atonalis]]: Have a society still standing after the [[Atonalis]] r
 Survive through [[Ages]] V
 _"A World Broken by a [[Holy War]]: Reach the end of the crusades of the Holy Grail."_
 
-Fail in [[Ages]] VI
-_"End of the [[Second Reset]]: Fire [[The Ultimate Weapon]]."_
-
 Survive through [[Ages]] VI
-_"We Really Made it!: Create a [[Civilization]] that survived the [[Polychord Crisis]]."_
+_"Behold The Master-Key!: Create a [[Civilization]] that survived the [[Polychord Crisis]]."_
+
+Fail in the [[Cataclysmic Aftermath]] of [[Ages]] VI
+_"0 x 4 x 7: Fire [[The Ultimate Weapon]]..."_
+
+Fail in the [[Cataclysmic Aftermath]] of [[Ages]] XI
+_"3 x 4 x 0: No tyrant will become the head of the snake ever again..."_
+
+Fail in the [[Cataclysmic Aftermath]] of [[Ages]] XIII
+_"3 x 0 x 7: I wish for you to turn back the clock of fate..."_
 
 ### [[Ballad]]s
 

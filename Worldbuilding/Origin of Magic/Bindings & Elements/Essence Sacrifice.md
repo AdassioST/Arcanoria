@@ -249,7 +249,9 @@ Overpowering is the least used method among skilled [[Spellweaver]]s precisely b
 
 #### Mode 2: Adapting — Song Hijacking  
 
-The [[Spellweaver]] listens to the enemy's song and adapts to it — becoming another instrument in their harmony, then gradually shifting the [[Resonance]] to establish dominance. This is the art of hijacking the **carrier wave**: the dominant voice that the harmonic system orbits.
+The [[Spellweaver]] listens to the enemy's song and adapts to it — becoming another instrument in their harmony, then gradually shifting the [[Resonance]] to establish dominance. This is the art of hijacking the **carrier wave**: the dominant voice that the harmonic system orbits. It is the most effective method to reduce the amount of [[Essence Sacrifice]] while being able to remain on top of the battle choreography.
+
+This is the method preferred by the [[Regalia Pillar]] for [[Spellweaving]] combat.
 
 - **Advantage:** Energy-efficient; creates [[Consonance]] rather than [[Dissonance]]; the opponent's song, designed to fuel their own spells, begins feeding the hijacker's intentions instead.
 
@@ -263,7 +265,9 @@ Adapting is the mark of a real [[Spellweaving]] Master. To hijack the opponent's
   
 The most sophisticated method and the gold standard of master duelists: the [[Spellweaver]] finds or forces harmonic compatibility between two songs, either by matching tempo and BPM, overlaying complementary keys, or weaving melodic counterpoints that allow both harmonic fields to coexist and reinforce one another.
 
-When achieved, both songs amplify each other rather than cancel — creating multiple [[Stable Harmonic Channels]] simultaneously. This is usually what battle orchestras tend to do when facing one another, and it's primarily the [[Waltz Pillar]] method of [[Spellweaving]].
+When achieved, both songs amplify each other rather than cancel — creating multiple [[Stable Harmonic Channels]] simultaneously. This is usually what battle orchestras tend to do when facing one another.
+
+This is the method preferred by the [[Waltz Pillar]] for [[Spellweaving]] combat.
 
 - **Advantage:** Most energy-efficient; creates ambient [[Stable Harmonic Channels]] that dramatically reduce [[Essence Sacrifice]] cost while massively increasing raw output available to the more skilled manipulator without changing the essence of their own composed [[Spellweaving]].
 
