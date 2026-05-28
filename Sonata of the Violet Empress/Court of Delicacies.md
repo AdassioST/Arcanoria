@@ -1,5 +1,7 @@
 #chaos #society 
 
+![[Court of Delicacies.png]]
+
 The main antagonist organization of [[Humanity]] in the [[Ages]] II against the [[Mythical Virtuoso]], and [[Amadea]]. They are the first version of a [[Dissonance League]], and they are the direct predecessors of the [[Age of Velvet Elegance]].
 
 The [[Court of Delicacies]] uses the images of a [[Pure Light]] Fox as the liminal animal that transitions between the light of life and death.

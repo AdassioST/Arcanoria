@@ -106,7 +106,11 @@ Attunement Madness (Can hear the whispers of suffering even in the [[Formless Ma
 Harmonic Static (Your [[Fundamental Frequency]] is a natural dampener to the [[Great Harmonic Loom]] frequency)
 Haunted by an [[Atonalis]] (An encounter young with an [[Atonalis]] left you traumatized and scarred by the encounters with all of these creatures)
 Exile
+Born Deaf: _Born deaf in a universe made of sound? Oh! The tragedy..._
+Blind
 
+Plain, Unattractive, Hideous
+Dumb, Idiot, Imbecile
 
 | [[Legend Trait]]                                                                                                        | Scaled Cost | Underdog Points | Binding Effect     | Narrative Effect                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------- | ----------- | --------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -134,6 +138,12 @@ Leyline Drifter (Can sense [[Leylines]] by Attunement)
 hyperphantasia
 Attunement Prodigy ([[Luminaire]], [[Aurelian]])
 Perfect Ear ([[Sephira]], [[Luminaire]])
+
+Sharp, Cunning (Quick-witted)
+
+Clever, Brilliant, Genius
+Pleasant, Attractive, Beautiful
+
 
 
 | Trait                                                                                                          | Scaled Cost | Underdog Points | Binding Effect              | Narrative Effect                                                                                                       |

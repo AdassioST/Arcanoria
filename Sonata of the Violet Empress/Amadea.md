@@ -4,13 +4,13 @@
 
 The [[Mythical Virtuoso]] of [[Void]] of the Seven Virtuosi.
 
-[[Legend Title]]: The Violet Empress, The North Star of [[Iridia]], The Great Owl, The Shadow of Justice, Saint Patron of [[Great Justiciar]]s.
+[[Legend Title]]: The Violet Empress, The Obsidian Empress, The North Star of [[Iridia]], The Great Owl of the Obsidian Feathers, The Shadow of Justice, Saint Patron of [[Great Justiciar]]s.
 
-[[Primary Instrument]]: Elderwood Threaded Violin, [[Dance]]
+[[Primary Instrument]]: Featherwood Threaded Violin, [[Dance]]
 [[Armament]]: [[Hollow-Point]] Saber
 [[Soul Leitmotif]]: [[Void]]
 [[Ornament]]s: [[Crystal]], [[Luminance]]
-
+[[Spellweaving]]
 [[Motif Awakening]] Wish: _"I wish I had the power to transform all of this agonizing loss into anything that would, one day, make real the title of my greatest knight."_
 
 [[Legend Trait]]s:
@@ -20,15 +20,17 @@ The [[Mythical Virtuoso]] of [[Void]] of the Seven Virtuosi.
 
 [[Legend Opus]]:
 - The [[Void]] [[Mythical Virtuoso]] of the Seven Virtuosi ([[Magnum Opus]])
-- The Great Owl of the Seven ([[Legend Opus]])
+- The Great Owl of the War of Ink and Feathers ([[Legend Opus]])
 - A Conquest for the Greatest Knight ([[Legend Opus]])
 - Savior of the Vulnerable in the Dark ([[Legend Opus]])
-- Creator of the [[Hollow-Point]] ([[Legend Opus]])
+- Founder of [[Illusory Magic]], [[Shadow Magic]] ([[Legend Opus]])
+- Creator of the [[Hollow-Point]], and [[Dancing Blade Arts]] ([[Legend Opus]])
+- Volley of the Obsidian Empress ([[Legend Opus]])
 - The Patron of Justice, Espionage and the Undercover ([[Legend Opus]])
 
-- _“No matter if hypocrites call me tyrant. Let the shameless few even name me monster. But when the history is written, let them also say this: I lost. I loved. And I built a world where fewer children weep in the shadows — on the very land of those who abandoned them. That is not nothing. That is everything. I vow to die in the dark, so that my children may live in the light.”_
+- _“No matter if hypocrites call me tyrant. Let the shameless few even name me monster. But when the history is written, let them also say this: I lost. I loved. And I built a world where fewer children weep in the shadows — on the very land of those who abandoned them. That is not nothing. That is everything. I vow to die in the silence, so that my children may sing of tomorrow; singers remember, when the living cannot.”_
 
-- _"Someone must watch the shadows so that dawn can come for those who cannot watch themselves."_
+- _"Someone must watch the shadows so that dawn can come for those who cannot watch themselves"_
 
 - _"The size of a loss is always proportional to the size of the care. To lose greatly is to have loved greatly. He gave his life to protect me, and I give mine to a world without meaningless loss of hope dying in the dark."_
 
@@ -107,7 +109,7 @@ Evolved [[Reverent]]
 --- 
 [[Pollux]]
 
-[[Legend Title]]: The Second Leader of the [[Court of Delicacies]], The Concertist of [[Dissonance]], The Heir to the [[Rose Seed]] Collector, The Macabre Puppeteer.
+[[Legend Title]]: The Second Leader of the [[Court of Delicacies]], The Concertist of [[Dissonance]], The Heir to the [[Rose Seed]] Collector, The Macabre Puppeteer. The Ink Artist of the Loss Sheet.
 
 [[Primary Instrument]]: [[Soul Oscillator]]
 [[Armament]]: None
@@ -121,7 +123,7 @@ Evolved [[Reverent]]
 - [[Numb]] -> [[Loss Anchor]] ([[Void]])
 - [[Delusional]] -> [[Over-giving Devout]] ([[Strand]])
 
-- _"Trying to heal the world only creates more beautiful monsters."_
+- _"Trying to heal the world only creates more beautiful monsters. Healing is an insult to the dead."_
 ---
 [[Kastor]]
 
@@ -161,6 +163,29 @@ Evolved [[Reverent]]
 ---
 The [[Luminance]] Armored Singer that beats [[Sephira]] with a prismatic polearm by riding the wave of her [[Flux]].
 
+---
+
+##### Companions
+
+[[Dear Fugue]]
+
+This construct is [[Amadea]]'s signature attack and the apex of her control of the [[Void]] and her Obsidian Feathers made from [[Crystallization Magic]]. She achieved this construct by learning to ride the wave of [[Flux]] from [[Orphael]] and incorporating it into her own [[Dance]] combat style paired with the waltz of her violin in [[Crystal]] and [[Void]].
+
+It's shape and capabilities evolve through the entire Movement 3: The Shattering. The earliest version begins with the foundation of [[Iridia]] shortly after [[Amadea]]'s [[Luminance]] [[Motif Awakening]] but only gains its great manifestation when [[Amadea]] awakens her [[Crystal]] [[Apex Trait]] of [[World Shaping Maverick]] after realizing the truth about [[Corvin]]. [[Medea]], and the [[Waltz of Wandering Love]] and refusing to let the past dictate who she is, the moment she's able to become the North Star of her own [[Celestial Astrolabe]] is the moment she can command the flock of feathers of [[Dear Fugue]] with the [[Artus]] [[Sky Glass]] [[Resonance Box]].
+
+On its signature and most potent manifestation, [[Dear Fugue]] is a construct that mirrors a "living creature" that appears, shapeshifts, and changes in shape based on [[Amadea]]'s control of [[Flux]] magic. Its core is the [[Soul-Binding]] of [[Artus]] [[Sky Glass]] which acts as the [[Resonance Anchors]] holding the entire flock of Obsidian Feathers together. The construct is entirely made out of [[Crystallization Magic]] with imposing presence, affectionally, she calls it [[Dear Fugue]] or "My Black Wing" to channel her emotions into it, while it comes naturally due to having significant attachment given that its core is [[Artus]] [[Sky Glass]] properly refined into a [[Resonance Box]] in the shape of a sphere.
+
+[[Dear Fugue]] evolves through the later half of the [[Sonata]] of the Violet Empress, beginning when [[Amadea]] plants the seed of [[Iridia]], and earns her [[Luminance]] [[Motif Awakening]]. It begins as a much smaller version that she learns to control as the combination of her entire journey as a mixture of [[Feather Fall Arts]], [[Topological Arts]], [[Shadow Magic]], [[Illusory Magic]], and [[Crystallization Magic]] while having the object that she has the most [[Echoing Bonds]] as it ties her not just to [[Artus]] but also to [[Cordelia]] as it was the catalyst for her rescue mission during the estate infiltration.
+
+It also uses the distributed properties of [[Resonance Anchors]] to sustain the entire momentum of all the coordinated Obsidian Feathers she commands. It earns its entire development arc during the [[Shadow Order]] war with [[Pollux]] and the [[Court of Delicacies]], by the end of it, it has earned her the title of "Obsidian Empress" and it is commonly referred to as the Feathered Wyrm given its imposing reputation. The construct is also the formal creation of the [[Dancing Blade Arts]] and a revolutionary advancement for [[Feather Fall Arts]] and [[Combat Displacement Arts]].
+
+She uses [[Dear Fugue]] for both travel as she uses it for dynamic combat as her upmost mastery of [[Combat Displacement Arts]] which is shown by altering the structure of [[Dear Fugue]], being able to cast it on and off at will, while being able to reposition it through [[Gateway Arts]] to change the attack and direction of the dancing serpent of Obsidian Feathers by teleporting through the warp properties of [[Void]]. The mastery of this level of [[Void]], in its three disciplines: [[Spatial Magic]], [[Shadow Magic]], and [[Gravity Magic]] is what earns [[Amadea]] the formal title of the [[Mythical Virtuoso]] alongside the codification of [[The Principles of Magic]] and [[The Registers of Magic]]. Moreover, she's able to use [[Illusory Magic]] on it to continue changing the shape, and create shadow afterimages of itself through [[Silhouette Arts]] that make [[Dear Fugue]] much more elusive and effective.
+
+This is one of the early [[Triad Chord]]s suspended by [[Resonance]] that acts as a type of [[Tetrad Chord]] much before they're properly mastered, and [[Dear Fugue]] is a [[Legend]] that many [[Spellweaver]]s try to replicate although most of them fail until [[Ornament]]al [[Spellweaving]] has reached the mastery of [[Ages]] V. [[Amadea]] was 3 [[Ages]] ahead of the entire curve as a [[Mythical Virtuoso]].
+
+![[Amadea-8.png]]
+
+![[Amadea-9.png]]
 ### [[Amadea]]: [[Sonata]] of the Violet Empress
 **Dark Fantasy + Female Lead + Psychological + Progression + Magic + Tragedy**
 
@@ -181,7 +206,7 @@ The Entire Novel of [[Amadea]] is a [[Sonata]] built on 4 Movements, each contai
 > 
 >_All of existence, and [[Consciousness]], is itself a fractal that predates matter.
 >
->Physics are poetry in a world where music is magic._
+>Physics are poetry in a world where music is magic. No Atoms. No Mana. Only a [[Fundamental Frequency]] vibrating the song of its [[Soul-Key]]._
 >
 
 - **Movement 1. The Dream (Chapters 1-2)**
@@ -264,13 +289,13 @@ The Entire Novel of [[Amadea]] is a [[Sonata]] built on 4 Movements, each contai
 		Chapter 38 — (Score VII | Act 38)
 		Chapter 39 — (Score VII | Act 39)
 		Chapter 40 — (Score VII | Act 40)
-		Chapter 41 — (Score VII | Act 41)
+		Chapter 41 — The [[Rose Seed]] collector was never alive!? (Score VII | Act 41) 
 		Chapter 42 — (Score VII | Act 42)
 		
 		**End of the [[Auric Heptacode]] | Start of the [[Seven Weights]]**
 		
-	- **Score VIII: Birth of The Court of Owls & The Masked Court**
-			
+	- **Score VIII: Ink Written in Obsidian Feathers & The Masked Court
+		
 		_[[Weight of Purpose]] | [[Fragment of Meaning]]_
 		
 		Chapter 43 — (Score VIII | Act 43)
@@ -278,7 +303,7 @@ The Entire Novel of [[Amadea]] is a [[Sonata]] built on 4 Movements, each contai
 		Chapter 45 — The Liminal Fox Against the Great Owl (Score VIII | Act 45)
 		Chapter 46 — (Score VIII | Act 46)
 		Chapter 47 — (Score VIII | Act 47)
-		Chapter 48 — (Score VIII | Act 48)
+		Chapter 48 — The Second Death of [[Artus]] (Score VIII | Act 48)
 		
 	- **Score IX: The Light in [[Mythical Virtuoso]] and [[The Principles of Magic]]**
 			
@@ -288,8 +313,8 @@ The Entire Novel of [[Amadea]] is a [[Sonata]] built on 4 Movements, each contai
 		Chapter 50 — (Score IX | Act 50)
 		Chapter 51 — (Score IX | Act 51)
 		Chapter 52 — (Score IX | Act 52)
-		Chapter 53 — (Score IX | Act 53)
-		Chapter 54 — (Score IX | Act 54)
+		Chapter 53 — The [[Magnum Opus]] of Obsidian & Shadow Ink (Score IX | Act 53)
+		Chapter 54 — [[Potential of Creation]], [[Key of Attunement]], [[Mastery Over Chaos]] (Score IX | Act 54)
 		
 - **Movement 4. The Resistance (Chapters 10-14)**
 		
@@ -346,7 +371,7 @@ The Entire Novel of [[Amadea]] is a [[Sonata]] built on 4 Movements, each contai
 		Chapter 81 — (Score XIV | Act 81)
 		Chapter 82 — (Score XIV | Act 82)
 		Chapter 83 — (Score XIV | Act 83)
-		Chapter 84 — The [[Legend]] of the Violet Crown of [[Iridia]] (Score XIV | Act 84)
+		Chapter 84 — The [[Legend]] of the [[Crown of Feathered Obsidian]] in the Violet Grove of [[Iridia]] (Score XIV | Act 84)
 
 Add soft worldbuilding details of food, [[Auric Peach]], celebrations, [[Civic]]s, and communal rites of [[Spellweaving]] as celebration.
 
@@ -355,6 +380,8 @@ Add soft worldbuilding details of food, [[Auric Peach]], celebrations, [[Civic]]
 [[Cordelia]]'s Libretto, also known as the [[Wandering Libretto]], or by the formal name [[Cordelia]] gave it "A Rhapsody for the Unfinished Waltz" is the diary of [[Cordelia]], which is the record log where she tracks her emotions and her journey alongside [[Amadea]]. This libretto is the record of their travels and contains notes on many things, from the early version of [[The Principles of Magic]], to the [[Hollow-Point]], [[Detective Magic]], [[Illusory Magic]], the other [[Mythical Virtuoso]], and most, notably the Sheet Music and the lyrics of the [[Waltz of Wandering Love]].  The name itself is an interaction between the characters, [[Amadea]] is the one that calls it the [[Wandering Libretto]] but [[Cordelia]] insists its real name is what she named it as the "Rhapsody for the Unfinished Waltz." Only after it becomes a sacred text in [[Iridia]] does [[Amadea]] call it by the name [[Cordelia]] gave it as its official title.
 
 The [[Wandering Libretto]] is one of the "[[Magical Relic]]s" that precede the [[Law of Relics]]despite its lack of actual tangible magical properties due to the amount of [[Echoing Bonds]] infused in it. Furthermore, within the lore, it is one of the foundational books for [[Ballad]]s for [[Iridia]], and after [[Cordelia]]'s hollowing, the libretto becomes one of the sacred objects of [[Iridia]], being the infallible evidence of [[Cordelia]]'s ability as a [[Great Chronicler]], and as a reminder that her friend was once [[Jolly]] which makes the emotions of [[Humanity]] worth fighting for. After [[The Hollowing]] ends, in [[Ages]] IV onwards, the [[Wandering Libretto]] does shift from being a sacred book into one of the first [[World-Bending Relics]] due to the amount of [[Consensual Anchoring]] and the roots it has to [[Amadea]] and [[Cordelia]]. This transition in [[Ages]] IV formally makes it a [[Magical Relic]] and [[Magical Catalyst]] that lasted for much longer than the lives of either [[Cordelia]] or [[Amadea]].
+
+[[Iridia]]'s [[World-Bending Relics]] are the [[Wandering Libretto]] and the [[Crown of Feathered Obsidian]] which are both tied to [[Amadea]]'s journey and her identity as the founder of the Violet Grove. One contains the entire passage with [[Cordelia]], the second is the crown of [[Iridia]] that has the [[Sky Glass]] [[Resonance Box]] of [[Artus]] as the core jewel in its center. The [[Crown of Feathered Obsidian]] is also imbued with the essence of [[Dear Fugue]], as they're essentially the same construct.
 
 Outside of [[Arcanoria]], the diary of the [[Wandering Libretto]] is accessible through the Patreon as the artbook of [[Amadea]] in [[The White-Haven Library]].
 
@@ -374,24 +401,15 @@ When [[Luminaire]] goes back to [[Hollowmarch]], her family and the state is rel
 
 Talk more about the environments during [[Amadea]]'s travels pointing at the gothic aesthetic and the legendary beasts of the places in the [[Age of Behemoths]] and the [[Age of Glyphs]]. Primarily through more types of [[Enclave]]s.
 
-[[Cordelia]]'s aristocratic family has direct ties of the fragmentation of the [[Silver Blood]] kingdom that fell apart from the death of [[Medea]]. This ties back in to the [[Amadea]] / [[Medea]] dynamic on [[Artus]] [[Mythic Drift]].
 
-The [[Waltz of Wandering Love]] is a song composed originally by [[Medea]] when she founded the [[Silver Blood]] kingdom, this later realization will hit very hard [[Cordelia]] and [[Amadea]] on the chapters of the courts of delicacies and owls opposing each other, this is one of the Spiraling moments for [[Cordelia]]. It makes [[Amadea]] realize that the Violet Empress never existed and who came before her ended in tragedy.
 
-The [[Court of Delicacies]] is the [[Loss-Beauty Lunatic]] evolution of those who followed [[Junius]] after [[Medea]] was killed. [[Pollux]] is one of the most prominent figures that eventually becomes the leader by assassinating the ruling master, and his own mentor, [[Lazarus]].
-
-[[Kastor]], the fox-masked pugilist that gets killed early is the younger brother of [[Pollux]], the core  [[Loss-Beauty Lunatic]] antagonist that appears during score VIII on the war of the shadow courts, where he provokes [[Amadea]] and reveals that the [[Anxithor]] that killed [[Artus]] was their mentor, and that it is a shame that [[Artus]] himself died as he would've been a prodigy of the sword if it wasn't because [[Amadea]] killed him, taunting her that [[Artus]] would've been a better ruler. He mourns his brother but says he is grateful that [[Amadea]] gave him such a beautiful wound to carry so that [[Artus]] [[Sky Glass]] alongside her [[Rose Seed]] would be even a better pair for his collection.
-
-The [[Anxithor]] [[Amadea]] and [[Artus]] fought had that many hands because it represents how many hands [[Corvin]], the leader of the caravan, had to grab of all the children that he had to grab to take them from the cold of the dying world like he grabbed [[Amadea]]. The reason it looks like that and has that many twitching is his trauma of rescuing children as a [[Threat Cartographer]]. The massive scythe it wields comes from the idea that he is saving people and himself from death.
-
-[[Pollux]] thanks [[Amadea]] for the gift she gave her, his own [[Void]] [[Motif Awakening]] due to the loss of his brother. He will say that without her he wouldn't become the [[Loss Anchor]]. She gave back the favor that the [[Anxithor]] first gave her purpose when it killed [[Artus]] on her lap.
 #### Medea, the Silver Blood, and the Haunting of the Violet Empress
 
 **The Unseen Architecture: How Medea Prefigures Amadea
 
 The revelation that Cordelia's aristocratic family descends from the fragmentation of the Silver Blood kingdom—and that Medea's death precipitated that fragmentation—is not mere background lore. It is **structural prophecy**. Medea's story is Amadea's story, played in a minor key, ended in tragedy. The Waltz of Wandering Love, composed by Medea at the founding of her kingdom, is the *ghost note* that has been playing beneath Amadea and Cordelia's relationship from the beginning, unrecognized, unfelt, but acoustically present.
 
-When the revelation finally lands—in the chapters of the courts of delicacies and owls opposing each other—it does not merely inform. It **shatters**. For Cordelia, it is a spiraling moment because she realizes that the family that betrayed her, the family whose blood runs in her veins, is *complicit* in the destruction of the very lineage that produced the song she has been playing. For Amadea, it is a devastating recognition: the Violet Empress—the legendary figure she has been unconsciously modeling herself after, the archetype of the sovereign who rose from loss—*never existed*. Or rather, she existed, but not as the legend tells it. Medea was not a triumphant empress. She was a woman who was betrayed, stabbed thirty-three times, left to die on the steps of her own throne, crawling toward a silver tree that could not save her.
+When the revelation finally lands—in the chapters of the courts of delicacies and the obsidian feathers opposing each other—it does not merely inform. It **shatters**. For Cordelia, it is a spiraling moment because she realizes that the family that betrayed her, the family whose blood runs in her veins, is *complicit* in the destruction of the very lineage that produced the song she has been playing. For Amadea, it is a devastating recognition: the Violet Empress—the legendary figure she has been unconsciously modeling herself after, the archetype of the sovereign who rose from loss—*never existed*. Or rather, she existed, but not as the legend tells it. Medea was not a triumphant empress. She was a woman who was betrayed, stabbed thirty-three times, left to die on the steps of her own throne, crawling toward a silver tree that could not save her.
 
 The name "Amadea" itself—the name Artus heard in a ballad and gave to her—is a **mythic drift** of Medea's story, filtered through generations of retelling, stripped of its tragedy, polished into a fantasy of untroubled sovereignty. Amadea has been chasing a ghost who never was.
 
@@ -437,7 +455,7 @@ The Waltz of Wandering Love was composed by Medea at the founding of the Silver 
 
 **The Spiraling Moment: When the Truth Lands
 
-In the chapters of the courts of delicacies and owls opposing each other—when the [[Court of Delicacies]] (the Loss-Beauty Lunatics who followed [[Junius]] after Medea's death) confront the Court of Owls (Amadea's shadow order)—the truth of the Waltz's origin will be revealed.
+In the chapters of the courts of delicacies and the obsidian feathers opposing each other—when the [[Court of Delicacies]] (the Loss-Beauty Lunatics who followed [[Junius]] after Medea's death) confront the [[Obsidian Feather Society]] (Amadea's shadow order)—the truth of the Waltz's origin will be revealed.
 
 **For Cordelia:** This is a spiraling moment. She has been playing a song composed by the woman her family betrayed. The song that has been her comfort, her identity, her connection to Amadea—was written by the *victim* of her own bloodline. She has been carrying Medea's grief without knowing it, playing Medea's longing as if it were her own, and in a sense it *is* her own—because the family that betrayed Medea also betrayed Cordelia. The pattern is the same. The song is the witness.
 
@@ -455,20 +473,20 @@ In the chapters of the courts of delicacies and owls opposing each other—when 
 
 **The [[Court of Delicacies]]:** This is the organization that has been haunting Cordelia and Amadea since the pugilist attack. [[Kastor]], the fox-masked pugilist is one of them. They are not merely assassins; they are *theologians of loss*. They believe that beauty is only real when it is destroyed, that love is only pure when it ends in betrayal, that the highest form of devotion is to *preserve the moment of breaking*.
 
-**The contrast with the Court of Owls:** Amadea's shadow order operates on the opposite principle: "We die in the dark so that you may live in the light." The Court of Owls does not aestheticize loss; they *transform* it. They do not worship the moment of breaking; they use it as fuel to protect others from breaking. The [[Court of Delicacies]] preserves the wound; the Court of Owls heals the wound—or at least, prevents it from being inflicted on others.
+**The contrast with the [[Obsidian Feather Society]]:** Amadea's shadow order operates on the opposite principle: "We die in the silence so that you may sing of tomorrow." The [[Obsidian Feather Society]] does not aestheticize loss; they *transform* it. They do not worship the moment of breaking; they use it as fuel to protect others from breaking. The [[Court of Delicacies]] preserves the wound; the [[Obsidian Feather Society]] heals the wound—or at least, prevents it from being inflicted on others.
 
 **The Mirror Between Courts
 
-| [[Court of Delicacies]]                 | Court of Owls                                                           |
+| [[Court of Delicacies]]                 | [[Obsidian Feather Society]]                                            |
 | --------------------------------------- | ----------------------------------------------------------------------- |
 | Founded by [[Junius]] (the betrayer)    | Founded by Amadea (the betrayed)                                        |
 | Loss-Beauty Lunatic: loss as aesthetic  | Loss as transformation: "To have lost greatly is to have loved greatly" |
 | Preserves the moment of breaking        | Prevents breaking from happening to others                              |
 | Worships Medea's death                  | Honors Medea's life (eventually, after the revelation)                  |
-| Masks as identity (perform the tragedy) | Shadows as protection (die in the dark)                                 |
+| Masks as identity (perform the tragedy) | Shadows as protection (die in the silence)                              |
 | The past as eternal wound               | The past as foundation for the future                                   |
 
-The [[Court of Delicacies]] is what happens when grief is not witnessed, when betrayal is not healed, when the only response to loss is to *enshrine* it. The Court of Owls is what happens when grief is transformed into service, when the witness refuses to look away, when the only response to loss is to *prevent* it from happening to someone else.
+The [[Court of Delicacies]] is what happens when grief is not witnessed, when betrayal is not healed, when the only response to loss is to *enshrine* it. The [[Obsidian Feather Society]] is what happens when grief is transformed into service, when the witness refuses to look away, when the only response to loss is to *prevent* it from happening to someone else.
 
 **Amadea's Shattering on the [[Weight of Purpose]] and Rebuilding
 
@@ -532,9 +550,9 @@ The Waltz of Wandering Love is not just a song. It is a **Strand anchor**—a me
 
 **The [[Court of Delicacies]] as Dark Mirror of Iridia
 
-The [[Court of Delicacies]] is what Iridia could have become if Amadea had surrendered to loss rather than transforming it. They worship the moment of Medea's death; Amadea builds a city in the name of preventing such deaths. They wear masks to become the tragedy; Amadea's owls work in the shadows to ensure others do not have to carry the same weight.
+The [[Court of Delicacies]] is what Iridia could have become if Amadea had surrendered to loss rather than transforming it. They worship the moment of Medea's death; Amadea builds a city in the name of preventing such deaths. They wear masks to become the tragedy; Amadea's obsidian feathers work in the shadows to ensure others do not have to carry the same weight.
 
-**The final contrast:** The [[Court of Delicacies]] preserves the wound. The Court of Owls *heals*—not by erasing the wound, but by turning it into a *shield* for others. The Loss-Beauty Lunatics say: "Loss is beautiful. We will keep it forever." Amadea says: "Loss is transformation. We will build something from it."
+**The final contrast:** The [[Court of Delicacies]] preserves the wound. The [[Obsidian Feather Society]] *heals*—not by erasing the wound, but by turning it into a *shield* for others. The Loss-Beauty Lunatics say: "Loss is beautiful. We will keep it forever." Amadea says: "Loss is transformation. We will build something from it."
 
 **Conclusion — The Haunted Song and the Honest City
 
@@ -1011,9 +1029,9 @@ The three of them have an exchange and [[Cordelia]] expresses her deepest proble
 
 The pov changes to [[Sephira]] after a collapsing avalanche and she is left alone and she's hunted by the [[Auric Order]]. This is how she gains her [[Flux]] [[Ornament]] and her famous fight of the [[Whistling Fans]] by music to where the music isn't given the expertise of [[Orphael]] on riding the wave of [[Flux]].
 
-After she wins, the pov shifts to [[Amadea]] as the respective [[Mythical Virtuoso]] grow their mutual [[Apex Trait]]s of hardship forced to become collaboration to survive the abyss, After narrowly making it through a behemot and deep into the [[Lunar Abyss]].
+After she wins, the pov shifts to [[Amadea]] as the respective [[Mythical Virtuoso]] grow their mutual [[Apex Trait]]s of hardship forced to become collaboration to survive the abyss, After narrowly making it through a behemoth and deep into the [[Lunar Abyss]].
 
-The change of tension, rivalry into intimate experience begin on one occasion where both are driven to a near death experience, after the experience [[Luminaire]] takes the [[Sky Glass]] of [[Artus]] memory and in realization moment for earning the [[Clarity of Infinite Light]] "Wait, it's all fractals? It always has been fractals!" She realizes the patterns in nature of snowflakes, the mirrored pools beneath, diatoms, koch curve, mandelbrot in [[Sky Glass]], the shape of foliage, sierpinski triangle, harmonic solids as isometric standing wave projections, coins [[Sky Glass]] with "A fractal is a way of seeing infinity." [[Amadea]] replies, "Great, I don't care, give that back immediately if you don't want me to kill you." This downgrades into a physical clash of will and force of what first begins as blaming each other escalates when [[Amadea]] is developing curiosity for [[Luminaire]], where each of them are struggling with one another, and the struggle becomes a [[Dance]] for power over one another, the interplay of tension is what causes the physical fight to escalate into another type of touch. Their bond is forged through rivalry and [[Cindergale]] which becomes the basis of [[Amadea]] struggling against the [[Weight of Nature]], the memory of [[Artus]], realizing she can feel again and [[Luminaire]] in the [[Weight of Indulgence]] after experiencing a reality where she is a person and not an instrument and [[Amadea]] is desiring her as the person she is underneath the [[Crystal]]. The provocation of [[Amadea]] is what causes [[Luminaire]] to begin experiencing [[Emotional Authenticity]] to drop the mask of her [[Suppressed Diamond]] [[Legend Trait]].
+The change of tension, rivalry into intimate experience begin on one occasion where both are driven to a near death experience, after the experience [[Luminaire]] takes the [[Sky Glass]] of [[Artus]] memory and in realization moment for earning the [[Clarity of Infinite Light]] "Wait, it's all fractals? It always has been fractals!" She realizes the patterns in nature of the snowflakes falling on the shoulders of [[Amadea]], the mirrored pools beneath both, the diatoms, koch curve, the mandelbrot in the [[Sky Glass]] she is holding, the shape of foliage, sierpinski triangle, harmonic solids as isometric standing wave projections, coins [[Sky Glass]] with "A fractal is a way of seeing infinity." [[Amadea]] replies, "Great, I don't care, give that back immediately if you don't want me to kill you." This downgrades into a physical clash of will and force of what first begins as blaming each other escalates when [[Amadea]] is developing curiosity for [[Luminaire]], where each of them are struggling with one another, and the struggle becomes a [[Dance]] for power over one another, the interplay of tension is what causes the physical fight to escalate into another type of touch. Their bond is forged through rivalry and [[Cindergale]] which becomes the basis of [[Amadea]] struggling against the [[Weight of Nature]], the memory of [[Artus]], realizing she can feel again and [[Luminaire]] in the [[Weight of Indulgence]] after experiencing a reality where she is a person and not an instrument and [[Amadea]] is desiring her as the person she is underneath the [[Crystal]]. The provocation of [[Amadea]] is what causes [[Luminaire]] to begin experiencing [[Emotional Authenticity]] to drop the mask of her [[Suppressed Diamond]] [[Legend Trait]].
 
 This becomes the founding principle of [[Luminance]] and the realization of [[Luminaire]] on how everything is a fractal understanding the nature of [[Sky Glass]] thanks to her [[Forged Rivalry]] with [[Amadea]]. The entire situation mirrors the song of "I kissed a girl. _"This was never the way I planned. Not my intention. I got so brave, drink in hand. Lost my discretion. It's not what I'm used to. Just wanna try you on. I'm curious for you. Caught my attention. I kissed a girl and I liked it. The taste of her cherry chap stick. I kissed a girl just to try it. I hope my boyfriend don't mind it. It felt so wrong. It felt so right. Don't mean I'm in love tonight. I kissed a girl and I liked it. I liked it. No, I don't even know your name. It doesn't matter. You're my experimental game. Just human nature" - Sang by [[Amadea]] from her perspective._ This is the only time [[Amadea]] struggles to fight with her [[Weight of Nature]] given the romantic exchange between former rivals which fuels even more the tragedy when [[Luminaire]] decides to submit to [[The Hollowing]]. One of the canonical [[Deep Mirrored Bond]]s of founding [[Legend]]s. 
 
@@ -1109,7 +1127,7 @@ The entire chapter tracks her desperation figuring out how to do advanced [[Dete
 
 The fact that she has to run through the [[Lunehymn]] Mist induces for her narcosis several times where she's forced to witness the deaths of everyone who came before, yet forces herself through even if _"Everything is a Nightmare."_
 
-Even with the warning of _"Breathing the mist too long induces [[Lunehymn]] Narcosis that induce the vivid hallucinations of past pilgrims' deaths, forcing you to relive their final moments regardless of where these occurred."_ She is focused to do for [[Amadea]] what she once did for her in the estate, no matter her condition as an aristocrat, the clawing of deaths at her empathy, and her lack of format combat training plus the narcosis she's inhaling due to the concentrated [[Lunehymn]] mist that is the most unforgiving natural hazard. 
+Even with the warning of _"Breathing the mist too long induces [[Lunehymn]] Narcosis that induce the vivid hallucinations of past pilgrims' deaths, forcing you to relive their final moments regardless of where these occurred."_ She is focused to do for [[Amadea]] what she once did for her in the estate, no matter her condition as an aristocrat, the clawing of deaths at her empathy, and her lack of format combat training plus the narcosis she's inhaling due to the concentrated [[Lunehymn]] mist that is the most unforgiving natural hazard.
 
 She struggles in defiance against all odds, trying to focus all her magic no matter what she feels, what she sees, or what she hallucinates.
 
@@ -1159,11 +1177,26 @@ The memory and promise is finally a reality.
 
 [[Iridia]] begins with the [[Civic]] of Poetry, [[Ballad]]s, and Stories for guilds that replicate the idea of what [[Artus]] had done for her to transform grief into something meaningful. it is also a teaching lesson for [[Amadea]] to realize how loss has become something beautiful, and is now inspiring generations of new children.
 
-[[Motif Awakening]] to [[Luminance]] when she realizes the tree wasn't a violet legendary tree at all, it was an [[Auric Peach]] tree.
+[[Motif Awakening]] to [[Luminance]] when she realizes the tree wasn't a violet legendary tree at all, it was an [[Auric Peach]] tree. She later creates her singature Obsidian Empress construct named "[[Dear Fugue]]." that sometimes she refers to as Blackwing.
 
 First conflicts with [[Lazarus]] on the [[Court of Delicacies]] until word spreads that [[Lazarus]] isn't alive anymore and it's [[Pollux]] who has been puppeteering his cadaver which sparks the transition into the war of the courts of [[Iridia]] and its owls against the foxes of the [[Court of Delicacies]].
 
-#### Chapter VIII: Birth of The Court of Owls & The Masked Court
+
+[[Cordelia]]'s aristocratic family has direct ties of the fragmentation of the [[Silver Blood]] kingdom that fell apart from the death of [[Medea]]. This ties back in to the [[Amadea]] / [[Medea]] dynamic on [[Artus]] [[Mythic Drift]].
+
+The [[Waltz of Wandering Love]] is a song composed originally by [[Medea]] when she founded the [[Silver Blood]] kingdom, this later realization will hit very hard [[Cordelia]] and [[Amadea]] on the chapters of the [[Court of Delicacies]] and the [[Obsidian Feather Society]] opposing each other, this is one of the Spiraling moments for [[Cordelia]]. It makes [[Amadea]] realize that the Violet Empress never existed and who came before her ended in tragedy.
+
+The [[Court of Delicacies]] is the [[Loss-Beauty Lunatic]] evolution of those who followed [[Junius]] after [[Medea]] was killed. [[Pollux]] is one of the most prominent figures that eventually becomes the leader by assassinating the ruling master, and his own mentor, [[Lazarus]].
+
+In the end, they figure out that [[Pollux]] is the one behind [[Lazarus]] pulling the strings, and it reveals that [[Kastor]], the fox-masked pugilist that gets killed early is the younger brother of [[Pollux]], the core  [[Loss-Beauty Lunatic]] antagonist that appears during score VIII on the war of the shadow courts, where he provokes [[Amadea]] and reveals that the [[Anxithor]] that killed [[Artus]] was their mentor, and that it is a shame that [[Artus]] himself died as he would've been a prodigy of the sword if it wasn't because [[Amadea]] killed him, taunting her that [[Artus]] would've been a better ruler. He mourns his brother but says he is grateful that [[Amadea]] gave him such a beautiful wound to carry so that [[Artus]] [[Sky Glass]] alongside her [[Rose Seed]] would be even a better pair for his collection.
+
+The [[Anxithor]] [[Amadea]] and [[Artus]] fought had that many hands because it represents how many hands [[Corvin]], the leader of the caravan, had to grab of all the children that he had to grab to take them from the cold of the dying world like he grabbed [[Amadea]]. The reason it looks like that and has that many twitching is his trauma of rescuing children as a [[Threat Cartographer]]. The massive scythe it wields comes from the idea that he is saving people and himself from death. [[Kay]] and [[Elaine]] both died in the dawn that drowned in fire, but [[Corvin]] survived, and from there he became a monster.
+
+[[Pollux]] thanks [[Amadea]] for the gift she gave her, his own [[Void]] [[Motif Awakening]] due to the loss of his brother. He will say that without her he wouldn't become the [[Loss Anchor]]. She gave back the favor that the [[Anxithor]] first gave her purpose when it killed [[Artus]] on her lap. [[The Registers of Magic]]
+
+[[Pollux]] is one of the most prominent users of [[Ink Arts]] which makes him also obsessed with the idea of using the Obsidian Feather of [[Amadea]] as the quill to write in ink the music sheet of all his compositions for his [[Soul Oscillator]]. His trait of being a [[Over-giving Devout]] manifests profoundly on the idea of subduing the [[Obsidian Feather Society]] and using [[Amadea]] as the instrument to write his musical compositions. This delusion is metaphorical as Obsidian Feathers are the signature attack of [[Amadea]] using a volley of [[Crystallization Magic]] imbued of [[Crystal]] and [[Void]], and they don't exist as physical objects beyond her attacks. He views her as the obsidian feather, masterpiece quill, and crown jewel from a purely aesthetic perspective given her [[Hollow-Point]] combination, and the [[Shadow Order]] she made of the same name, the [[Obsidian Feather Society]].
+
+#### Chapter VIII: Ink Written in Obsidian Feathers & The Masked Court
 
 [[Weight of Purpose]] | [[Fragment of Meaning]]
 
@@ -1188,17 +1221,17 @@ The [[Pollux]] / [[Amadea]] [[Legend Relationship]] is the stress test of the sy
 
 The antagonist reveals this information specifically to induce a catastrophic psychological spiral in [[Amadea]]. As a member of the [[Court of Delicacies]], his goal is to make [[Amadea]] surrender to her wound, just as he did when she killed his brother [[Kastor]].
 
-By proving that [[Corvin]]’s intense desire to protect others turned him into a monster, the antagonist holds up a terrifying mirror to [[Amadea]]'s current path. [[Amadea]] has built the Court of Owls on the premise of absolute protection, vowing to "die in the dark" so others can live. The antagonist is trying to show her that her noble crusade is the exact same path that shattered [[Corvin]]'s humanity. 
+By proving that [[Corvin]]’s intense desire to protect others turned him into a monster, the antagonist holds up a terrifying mirror to [[Amadea]]'s current path. [[Amadea]] has built the [[Obsidian Feather Society]] on the premise of absolute protection, vowing to "die in the silence" so others can live. The antagonist is trying to show her that her noble crusade is the exact same path that shattered [[Corvin]]'s humanity. 
 
 [[Pollux]] wants her to break, aestheticize her loss, and realize that trying to heal the world only creates more beautiful monsters.
 
 His objetive is an ultimatum to [[Amadea]]:
 
-_"Wear the fox-mask. Aestheticize loss as I do. Let the feeling wear you the way you've been wearing that pathetic memory. Stand beside me as my queen and legacy—with your intoxicating grief displayed in the blooming garden besides [[Lazarus]], and my brother's death."_
+_"Wear the fox-mask. Aestheticize loss as I do. Let the feeling wear you the way you've been wearing that pathetic memory. Stand beside me as my queen, muse and legacy—with your intoxicating grief displayed in the blooming garden besides [[Lazarus]], and my brother's death."_
 
 _He tilts his head. The mask he is offering catches the torchlight._
 
-_"Or I will take your wound myself. Make it beautiful without your clinging, hopeless stubbornness. And when despair finally crushes you—when you surrender to the exhausting shape of your own overwhelming decay—I will harvest that beautiful [[Rose Seed]] from your [[Atonalis]] form and set it in the crown of my collection."_
+_"Or I will take your wound myself. Make it beautiful without your clinging, hopeless stubbornness. And when despair finally crushes you—when you surrender to the exhausting shape of your own overwhelming decay—I will harvest that beautiful [[Rose Seed]] from your [[Atonalis]] form and set it in the crown of my collection. That obsidian feather is the one I will use to write the music sheet of my [[Magnum Opus]]."_
 
 _A pause._
 
@@ -1279,7 +1312,7 @@ _And all that time, he was becoming the thing that would take Artus from her. No
 
 _The same thing could happen to her._
 
-_She sees it now—the path she is walking. The Court of Owls. The protection that never stops. The refusal to let anyone else die for her. That is [[Corvin]]'s path. That is the path that ends with seven hands and a scythe and no memory of the girl you once saved._
+_She sees it now—the path she is walking. [[Obsidian Feather Society]]. The protection that never stops. The refusal to let anyone else die for her. That is [[Corvin]]'s path. That is the path that ends with seven hands and a scythe and no memory of the girl you once saved._
 
 _She does not flinch from the vision._
 
@@ -1301,7 +1334,7 @@ _"Fine, if you haven't stopped fighting long enough to notice. I'll wait. I'm ve
 
 Amadea is already in the streets before Cordelia catches up to her — not running, but moving with that particular quality she has when she doesn't want to be followed: tight turns, low shoulders, her hand resting at the hilt of the [[Hollow-Point]] saber not in threat but in readiness, the way she always holds herself when she is expecting the world to hit her somewhere new.
 
-The Court of Owls is not a parade. It is a geometry. Three agents at the north end of the canal district, two at the bridge, one on the roof, and Amadea moving between them like the notation between measures of music — the silence that holds the structure together. Cordelia has been watching this long enough to recognize the pattern. She times her approach for the gap between the north agents and the bridge, and she arrives at Amadea's shoulder without announcing herself, because she has learned that announcing herself gives Amadea the full second she needs to find a reason to send her away.
+The [[Obsidian Feather Society]] is not a parade. It is a geometry. Three agents at the north end of the canal district, two at the bridge, one on the roof, and Amadea moving between them like the notation between measures of music — the silence that holds the structure together. Cordelia has been watching this long enough to recognize the pattern. She times her approach for the gap between the north agents and the bridge, and she arrives at Amadea's shoulder without announcing herself, because she has learned that announcing herself gives Amadea the full second she needs to find a reason to send her away.
 
 _"You changed the formation at the south canal,"_ Cordelia says.
 
@@ -1317,7 +1350,7 @@ She does not know Cordelia is not asleep.
 
 Cordelia does not tell her.
 
-The first masked operative the Court of Owls detains in this chapter is not a fighter. He is a chronicler — a small man in a pewter fox half-mask, carrying a leather satchel full of folded paper, maps of sound: transcriptions of performances, ballads, Spellweaver compositions, all marked in the margin with the same annotation system, the same notation of emotional frequency as if music were being catalogued not for pleasure but for preservation. The fox mask is different from the pugilist's. Thinner. Older. The kind worn not for combat but for ceremony.
+The first masked operative the [[Obsidian Feather Society]] detains in this chapter is not a fighter. He is a chronicler — a small man in a pewter fox half-mask, carrying a leather satchel full of folded paper, maps of sound: transcriptions of performances, ballads, Spellweaver compositions, all marked in the margin with the same annotation system, the same notation of emotional frequency as if music were being catalogued not for pleasure but for preservation. The fox mask is different from the pugilist's. Thinner. Older. The kind worn not for combat but for ceremony.
 
 He does not resist. He sits when Amadea places him in the chair in the back room of the Enclave safe-house, and he folds his hands in his lap, and he looks at her with the particular patience of someone who has been waiting a long time for this conversation.
 
@@ -1471,11 +1504,11 @@ _"We follow it wherever it goes. It is the last thing she made freely. Before th
 
 The chronicler is not a threat. He is a mirror.
 
-The [[Court of Delicacies]] and the Court of Owls were built from the same founding grief. Medea's death is the origin event for both. The [[Court of Delicacies]] preserves the wound because preservation is all [[Junius]] knew how to do with loss. The Court of Owls was founded on Amadea's crystal-compressed wish to _transform_ loss into something that would make the title of her greatest knight real — to take the Sky Glass-weight of every person who died in the dark and build something that prevented it from happening to someone else.
+The [[Court of Delicacies]] and the [[Obsidian Feather Society]] were built from the same founding grief. Medea's death is the origin event for both. The [[Court of Delicacies]] preserves the wound because preservation is all [[Junius]] knew how to do with loss. [[Obsidian Feather Society]] was founded on Amadea's crystal-compressed wish to _transform_ loss into something that would make the title of her greatest knight real — to take the Sky Glass-weight of every person who died in the dark and build something that prevented it from happening to someone else.
 
-_"We die in the dark so that you may live in the light,"_ Amadea says, not to the chronicler but to the room.
+_"We die in the silence so that you may sing of tomorrow,"_ Amadea says, not to the chronicler but to the room.
 
-The chronicler nods. _"We live in the dark so that the light is preserved exactly as it was."_
+The chronicler nods. _"We live in the silence so that the song is preserved exactly as it was."_
 
 _"That's not living."_
 
@@ -1566,7 +1599,7 @@ That is the _answer_.
 
 Cordelia plays it that night.
 
-Not as healing. Not as texture of companionship. Not as the private resistance she has practiced in back corridors since childhood. She plays the full version — with the unresolved cadence in the fourth bar, which she now understands is not a mistake but a statement, the sound of something that didn't get to finish — and she plays it in the open, at the edge of the Court of Owls' canal-district safe house, in the dark, where anyone listening can hear.
+Not as healing. Not as texture of companionship. Not as the private resistance she has practiced in back corridors since childhood. She plays the full version — with the unresolved cadence in the fourth bar, which she now understands is not a mistake but a statement, the sound of something that didn't get to finish — and she plays it in the open, at the edge of the [[Obsidian Feather Society]] canal-district safe house, in the dark, where anyone listening can hear.
 
 Amadea does not tell her to stop.
 
@@ -1596,13 +1629,141 @@ She learns the limitations of [[Spellweaving]] and the hardship of coding princi
 
 _"You are right [[Pollux]], we are similar. I know because for the longest time I ran from love because I knew it would destroy me. But that [[Amadea]] died with an [[Erosyx]] atop the [[Crescent Mist Peaks]]. That is the difference between me and you. Now I run into love because I needed it to destroy who I used to be. That's why I am the north star of my own [[Celestial Astrolabe]]."_
 
-_"You, [[Pollux]], are still running from love. You didn't grieve [[Kastor]]. You taxidermized him. You made his death so beautiful that you never had to feel it. And now you're doing the same thing to me — making my wound part of your collection so you never have to feel yours. I am not your crown jewel. I am not your answer. I am the thing you're using to run away from [[Kastor]]."_
+_"You, [[Pollux]], are still running from love. You didn't grieve [[Kastor]]. You taxidermized him. You made his death so beautiful that you never had to feel it. And now you're doing the same thing to me — making my wound part of your collection so you never have to feel yours. I am not your crown jewel. I am not your answer and I've never have been your quill. I am the fantasy you're using to run away from [[Kastor]]."_
+
+On the aftermath, their fight becomes physical, and it turns into the climax of the wars of the [[Shadow Order]]s on the aerial fight amidst the cliffs of a ravine when he's engaging atop of [[Dear Fugue]] with [[Amadea]]. As they're both fighting, when nearing a crushing death, [[Pollux]] realizes what is about to happen with the falling debris of [[Dear Fugue]]. He begins to thank [[Amadea]] as he realizes both are about to be crushed by the falling construct, he delivers the last of his speech in which she uses the ink strings beneath to wrap her arms. _"Thank you, Violet Empress [[Amadea]]. For making me rencounter with my beloved little brother."_ He then strikes a conductors pose with both arms upward mirroring the pose he has forced [[Amadea]] into with her wrapped forearms of the conductors V she is making. Then, as the last act of his [[Magnum Opus]], [[Pollux]] uses all of the strength of the strings to pull [[Amadea]] before [[Dear Fugue]] collapses into both. [[Amadea]] is flung upward, and before he dies in a similar death like [[Kastor]] as [[Dear Fugue]] strikes at him on the wall of the ravine that then falls into the abyss below, he delivers his final gift to [[Amadea]] etched in the words he intonates as he strikes the vowing pose of the show ending right before [[Dear Fugue]] collapses into both: _"Live."_
+
+##### [[Pollux]] Climax Death Scene
+
+I can't maintain the shape. [[Dear Fugue]] is falling.
+
+I hear the notes of all the performance that are beginning to mute my own, until I can't feel the motion of the bow of the violin.
+
+The strings bite into my forearms as I tear against them, and for one impossible heartbeat I think I can still wrest the movement back into my own hands. But Dear Fugue is already falling apart above us, the structure shuddering as the harmonics begin to break one after another, and I can feel the whole construct losing itself beneath the weight of the collapse.
+
+I can't play the violin.
+
+I try to stabilize it, to hold it together long enough to matter, but the damage is already too far gone. The failure keeps spreading. The air itself feels like it is descending.
+
+"Please, [[Artus]]..." I say as a plea to the [[Void]] as a few tears run through my cheek.
+
+Only then does Pollux move.
+
+The ink strings rise finally catching to me beneath the ruin and wrap my arms before I can break away, coiling tight around my forearms until my resistance is trapped inside the bind. It hurts. He pulls hard, finally stopping me and the violin. The motion drags my body into his reach just as Dear Fugue dissolves completely.
+
+The construct is no longer falling in pieces — it is unmaking itself overhead, collapsing into a crushing death that is now only moments away from taking both of us.
+
+Pollux looks at me, and for the first time I see something like relief in him?
+
+Not fear. Not hesitation. Relief, as if the end has finally arrived in the exact shape he was waiting for.
+
+He turns back to me and speaks.
+
+“Thank you, Violet Empress Amadea.”
+
+"What?" 
+
+I go still.
+
+This is the first time he's ever said Violet Empress, and not another mockery of the title. What do I do? I can't discern. I cannot tell, in that instant, whether he is mocking me or naming something I was never meant to carry. Violet Empress.
+
+The title lands wrong and sharp, like a blade turned sideways in the throat of a song. I have heard many names in my life, but that one feels as if it was waiting for me before I was ever born.
+
+Then he uses all the strength in the bindings to drive me upward.
+
+It stiffens, I can feel the pain bite into my arms. The motion is sudden and violent, and I feel myself wrenched into the air as Dear Fugue fully gives way above us. The construct is gone now, dissolving into ruin around the space where we should have died together, and the force of the collapse becomes one last catastrophic surge. Pollux forces my arms higher, dragging me into the conductor’s V, and then mirrors it with his own body, rising into the same terrible shape as if we have become the two halves of a final measure neither of us has the right to finish.
+
+I can still pull through. I fight him harder.
+
+The ink strings drag across my skin. Pain flashes white along my forearms, hot and humiliating, and I wrench again, trying to break the pose, trying to keep some part of myself unclaimed in the last seconds before the collapse. But the wreckage is already closing in, and Pollux only smiles through the strain, his breath uneven, his eyes bright with that same strange relief — as if the end has finally arrived in the only shape he can bear.
+
+“I finally hear how to run into love.”
+
+It all suddenly clicks. 
+
+He is conducting our mutual death.
+
+He then asks. "Do you hear it?"
+
+I do. That's the confirmation.
+
+Not the words. The notes of the crescendo he's been playing.
+
+The repeating pattern in the strings, each key repeating in itself. The pulse of his obsession. The final movement of something he has been building toward since before I understood he had chosen me as the page for his madness. Dear Fugue groans one last time, folding inward above us
+
+Why the relief?
+
+My confusion sharpens into fury. I pull against the bindings again, harder this time, and for a moment I think I might break free. Then he speaks over the collapse, soft as if we are alone in a concert hall instead of standing beneath a falling monstrosity.
+
+“Thank you,” he says again, and there is something almost reverent in it now. “For making me rencounter with my beloved little brother.”
+
+Why is he thanking me, has he finally gone insane on the last moments?
+
+I do not know what to do with that.
+
+The words hit me like a fracture. Not because they are kind — they are not kind — but because they sound like a truth told by the wrong mouth. Pollux is looking at me as if I have opened something in him that even he cannot bear to name directly, and for one disorienting instant I cannot decide whether I am his enemy, his duet, or the wound he has decided to cherish forever.
+
+That is when he takes the same pose I am trapped in.
+
+The conductor’s V.
+
+His arms rise with mine, mirroring me exactly, his expression tightening into something solemn and final. The air around us feels suddenly charged, as if the whole ravine is holding its breath before the last downbeat. He is no longer just binding me. He is finishing the performance with me inside it.
+
+"My final gift, My [[Magnum Opus]]." he rises as the last of the notes loop back.
+
+I prepare myself for the end. Perhaps this is the end of the story.
+
+I hate him for how perfect it is.
+
+I hate him for how much it looks like fate.
+
+I hate—
+
+“Live.”
+
+Then he says it, and before I can make any sense of the words of confusion, salvation or damnation he just declared, the pain turns sharper than ever.
+
+The moment he did the vowing pose, all the strings attached to my forearms pulled upward with the same motion that makes him pull downward for the end of the performance.
+
+The sting of the burning strings makes my entire body arch. The sharpest pain I've ever felt clawing at every layer of my arms, sending the same tension that is pulling me upward as I hear that word before it all devolves into a distant scream.
+
+For a moment the word is quiet.
+
+Until it breaks open in the howling of splintering crystal, quieter than the roar of the last collapse as Dear Fugue strikes the ravine wall where both of us should have died together. Quieter than the sound my mouth utters at the sheer clawing pressure embedded into my forearms.
+
+But it reaches me anyway, and I feel something in my chest seize as the construct breaks apart in a burst of sound so violent it might be applause.
+
+That is what it is, somehow.
+
+Not praise. Not celebration.
+
+Applause.
+
+The end of a performance no one survives in the same shape they entered it.
+
+The impact hurls me upward with brutal force, ripping me out of the binding as Dear Fugue collapses beneath us. For a split second I rise above the ruin, suspended in the same air that seconds before had promised my death, while Pollux falls with the wreckage, pulled down into the abyss below as though he has chosen to bow to the very end he orchestrated.
+
+I cannot tell whether he saved me or condemned me.
+
+Perhaps both.
+
+Perhaps that is what he meant to leave me with.
+
+"Why?" I don't understand. "Is this the signature he meant to immortalize in me?"
+
+[[Amadea]]'s forearms are bleeding from the pull as the strings etch into her skin but this last movement saves what would've been a double death. This action leaves [[Amadea]] wondering about the entire situation and it's one of the catalysts, albeit twisted, that helps her push through [[The Hollowing]] during the real fight of ideology with [[Lacrimosa]] in the [[Age Crisis]]. In the aftermath of her survival, she decides to heal the bruises in her right arm, the one where she has her [[Soul Leitmotif]], but she keeps all of the scars [[Pollux]] made on her left arm when he saved her by pulling [[Amadea]] upwards. 
+
+This distinction is a reminder of her past and her future, the left arm is The Violet Empress, the arm that holds her instrument steady, and the one threading the notes of the neck of the violin, with all of the [[Potential of Creation]] of her entire story and the arm that is imbued with all her suffering, sacrifices and tragedy while her right arm is the Obsidian Empress, the arm that directs the bow, establishes dynamics, agency, and makes the actual sound of the violin, it is her [[Mastery Over Chaos]], her commanding arm of [[Iridia]] and its [[Shadow Order]]. 
+
+Her heart in the middle is the [[Key of Attunement]] of who she is in the present state, having the ability to look for agency with her right arm while maintaining a tether to her past, legacy, sacrifices, and memory in her left arm. This distinction is the formal birth of The Obsidian Empress of [[Iridia]], and it evolves her [[Reverent]] [[Legend Trait]] to its utmost [[Luminance]] [[Apex Trait]] as she internalizes the practice even in her performance on the violin.
+
+When [[Cordelia]] reaches to her to cure her after meeting with her atop the meadow overlooking the ravine where she was fighting [[Pollux]], [[Amadea]] repeatedly dismiss her attempts to cure her, saying: "No. These scars are mine, and it's the signature of the triumph of the [[Obsidian Feather Society]]. They're what anchors the future to the past."
 
 After triumphing over the [[Court of Delicacies]], she says the famous phrase when she realizes some hardships and seeming as a "tyrant" for chasing justice. She determines that as a [[Great Justiciar]] is up to her to determine how to protect those who can't fend for themselves while being ruthless and precise as a shadow:
 
-- _“No matter if hypocrites call me tyrant. Let the shameless few even name me monster. But when the history is written, let them also say this: I lost. I loved. And I built a world where fewer children weep in the shadows — on the very land of those who abandoned them. That is not nothing. That is everything. I vow to die in the dark, so that my children may live in the light.”_
+- _“No matter if hypocrites call me tyrant. Let the shameless few even name me monster. But when the history is written, let them also say this: I lost. I loved. And I built a world where fewer children weep in the shadows — on the very land of those who abandoned them. That is not nothing. That is everything. I vow to die in the silence, so that my children may sing of tomorrow; singers remember when the living cannot.”_
 
-- _"The court of owls is that someone who must watch the shadows so that dawn can come for those who cannot watch themselves."_
+- _"The [[Obsidian Feather Society]] is that someone who must watch the shadows so that dawn can come for those who cannot watch themselves."_
 
 After the chaos settles, the [[Mythical Virtuoso]] meet again to encode [[The Principles of Magic]] cementing their status permanently as [[Mythical Virtuoso]] when the word spreads out about the founders of magic. This is where she develops too her famous phrase for [[Essence Sacrifice]]: _"To lose greatly, is to have loved greatly."_
 

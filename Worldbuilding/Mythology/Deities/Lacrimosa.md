@@ -8,7 +8,7 @@
 [[Armament]]: None
 [[Soul Leitmotif]]: [[Void]]
 [[Ornament]]s: [[Crystal]], [[Resonance]]
-
+[[Erosyx]]
 [[Motif Awakening]] Wish: _"I wish I was seen, and that I mattered."_
 
 [[Legend Trait]]s:

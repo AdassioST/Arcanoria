@@ -10,7 +10,7 @@
 [[Ornament]]s: [[Void]], [[Flux]]
 
 [[Motif Awakening]] Wish: _"I wish I could create again, with her, with my children."_
-
+[[Personal Pathways and Interconnected Awakenings]]}
 [[Legend Trait]]s: 
 - [[Melancholic]] -> [[Daydreaming Escapist]] ([[Strand]])
 - [[Naive]] -> [[Broken Optimist]] ([[Void]])

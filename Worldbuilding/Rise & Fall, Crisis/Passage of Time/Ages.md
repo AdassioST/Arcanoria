@@ -114,7 +114,7 @@ Moreover, the amount of [[Atonalis]] present during this time is going to be the
 
 The [[Morpheus Abysmal]] is the first [[Atonalis]] government type structure and it speaks on the tongues of the [[Eight-Born Paths]].
 
-The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becomes popularized. He eventually dies, but this is one of the important expeditions of [[Cadmus Tacet]].
+The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becomes popularized. He eventually dies, but this is one of the important expeditions of [[Cadmus Tacet]]. [[Vals Jenner]] is the second key figure and the first epidemiologist which is a main character in the era although she dies executed for publishing the word of the first vaccine on the [[Great Plague]] inspired by Secrets of the Silent Witch 
 
 [[The Ultimate Weapon]] appears as a legendary [[Crisis Wonders]] as it "detects" the [[Primal White Noise]] that [[Lacrimosa]] unleashed when she performed the [[Hyper Chord]]. It remains active during this era but disappears the next. This is why the Crusades are after the [[Holy War]]. It did exist for a while.
 

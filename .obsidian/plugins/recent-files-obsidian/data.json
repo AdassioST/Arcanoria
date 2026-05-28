@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Ages",
-      "path": "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md"
-    },
-    {
       "basename": "Gateway To Genesis",
       "path": "Worldbuilding/Gateway To Genesis.md"
+    },
+    {
+      "basename": "Soul-Key",
+      "path": "Worldbuilding/Origin of Magic/Spellweaving/Soul-Key.md"
+    },
+    {
+      "basename": "Old Testament",
+      "path": "Old Testament.md"
+    },
+    {
+      "basename": "Seven Dark Fates",
+      "path": "Worldbuilding/Truths, Chaos, Rituals/Old Testament/Seven Dark Fates.md"
+    },
+    {
+      "basename": "The White-Touched Archivist",
+      "path": "Worldbuilding/Society/Characters/The White-Touched Archivist.md"
+    },
+    {
+      "basename": "Auric Aria",
+      "path": "Worldbuilding/Mythology/Deities/Auric Aria.md"
+    },
+    {
+      "basename": "The Truth of Arcanoria",
+      "path": "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/The Truth of Arcanoria.md"
+    },
+    {
+      "basename": "Legend Trait",
+      "path": "Worldbuilding/Society/Stellar Legacy/Legend Trait.md"
+    },
+    {
+      "basename": "Legend",
+      "path": "Worldbuilding/Society/Stellar Legacy/Legend.md"
     },
     {
       "basename": "Original Eight",
@@ -17,188 +45,160 @@
       "path": "Sonata of the Violet Empress/Amadea.md"
     },
     {
-      "basename": "Crescent Mist Peaks",
-      "path": "Worldbuilding/World Environment/Landmarks/Crescent Mist Peaks.md"
+      "basename": "The Registers of Magic",
+      "path": "Worldbuilding/Origin of Magic/Spellweaving/The Registers of Magic.md"
     },
     {
-      "basename": "Waltz of Wandering Love",
-      "path": "Waltz of Wandering Love.md"
+      "basename": "Lyd, The First Beloved",
+      "path": "Worldbuilding/World Environment/Atonalis/Original Eight/Lyd, The First Beloved.md"
     },
     {
-      "basename": "Artus",
-      "path": "Worldbuilding/Society/Characters/Ages 2/Artus.md"
+      "basename": "Eight-Born Paths",
+      "path": "Worldbuilding/Origin of Magic/Root of Evil/Eight-Born Paths.md"
     },
     {
-      "basename": "Spellweaving",
-      "path": "Worldbuilding/Origin of Magic/Spellweaving/Spellweaving.md"
-    },
-    {
-      "basename": "The Principles of Magic",
-      "path": "Worldbuilding/Origin of Magic/The Principles of Magic.md"
-    },
-    {
-      "basename": "Spellweaver",
-      "path": "Worldbuilding/Origin of Magic/Spellweaving/Spellweaver.md"
-    },
-    {
-      "basename": "Vibrational Fallout",
-      "path": "Worldbuilding/Origin of Magic/Conduits of Magic/Vibrational Fallout.md"
-    },
-    {
-      "basename": "Vibrational Decay",
-      "path": "Worldbuilding/Origin of Magic/Conduits of Magic/Vibrational Decay.md"
-    },
-    {
-      "basename": "Hollow-Point",
-      "path": "Hollow-Point.md"
-    },
-    {
-      "basename": "Illusory Magic",
-      "path": "Illusory Magic.md"
-    },
-    {
-      "basename": "Amadea Traducción Español",
-      "path": "Amadea Traducción Español.md"
-    },
-    {
-      "basename": "Consciousness",
-      "path": "Worldbuilding/Origin of Magic/Conduits of Magic/Consciousness.md"
-    },
-    {
-      "basename": "Mira",
-      "path": "Worldbuilding/Society/Characters/Ages 2/Mira.md"
-    },
-    {
-      "basename": "Notas Diplomado",
-      "path": "Game Systems/Derivative Ideas/Notas Diplomado.md"
-    },
-    {
-      "basename": "The Eternal Symphony",
-      "path": "Worldbuilding/Origin of Magic/The One Symphony/The Eternal Symphony.md"
-    },
-    {
-      "basename": "Great Harmonic Loom",
-      "path": "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md"
-    },
-    {
-      "basename": "Crystal",
-      "path": "Worldbuilding/Origin of Magic/Bindings & Elements/Crystal.md"
-    },
-    {
-      "basename": "Soul Leitmotif",
-      "path": "Worldbuilding/Origin of Magic/Spellweaving/Soul Leitmotif.md"
-    },
-    {
-      "basename": "Primary Instrument",
-      "path": "Worldbuilding/Origin of Magic/Spellweaving/Primary Instrument.md"
-    },
-    {
-      "basename": "World Shaping Maverick",
-      "path": "World Shaping Maverick.md"
+      "basename": "The Amber Wonderland",
+      "path": "Worldbuilding/World Environment/Atonalis/Original Eight/The Amber Wonderland.md"
     },
     {
       "basename": "Atonalis",
       "path": "Worldbuilding/Origin of Magic/Root of Evil/Atonalis.md"
     },
     {
-      "basename": "Cordelia",
-      "path": "Worldbuilding/Society/Characters/Ages 2/Cordelia.md"
+      "basename": "Strand",
+      "path": "Worldbuilding/Origin of Magic/Bindings & Elements/Strand.md"
     },
     {
-      "basename": "Legend Trait",
-      "path": "Worldbuilding/Society/Stellar Legacy/Legend Trait.md"
+      "basename": "Stellar Legacy Score",
+      "path": "Worldbuilding/Society/Stellar Legacy/Stellar Legacy Score.md"
     },
     {
-      "basename": "Enclave",
-      "path": "Worldbuilding/World Environment/Enclaves/Enclave.md"
+      "basename": "Void",
+      "path": "Worldbuilding/Origin of Magic/Bindings & Elements/Void.md"
     },
     {
-      "basename": "Junius",
-      "path": "Junius.md"
+      "basename": "Sympathetic Magic",
+      "path": "Sympathetic Magic.md"
     },
     {
-      "basename": "Auric Aria",
-      "path": "Worldbuilding/Mythology/Deities/Auric Aria.md"
+      "basename": "Orphael",
+      "path": "Worldbuilding/Society/Characters/Ages 2/Orphael.md"
     },
     {
-      "basename": "Kay",
-      "path": "Kay.md"
+      "basename": "Sephira",
+      "path": "Worldbuilding/Society/Characters/Ages 2/Sephira.md"
     },
     {
-      "basename": "Elaine",
-      "path": "Elaine.md"
+      "basename": "Court of Delicacies",
+      "path": "Sonata of the Violet Empress/Court of Delicacies.md"
     },
     {
-      "basename": "Selenea",
-      "path": "Worldbuilding/Mythology/Deities/Selenea.md"
+      "basename": "Arcanoria Flowchart",
+      "path": "Worldbuilding/Mythology/Arcanoria Flowchart.canvas"
+    },
+    {
+      "basename": "True Mythos of Creation",
+      "path": "Worldbuilding/Mythology/True Mythos of Creation.md"
+    },
+    {
+      "basename": "The Principles of Magic",
+      "path": "Worldbuilding/Origin of Magic/The Principles of Magic.md"
     },
     {
       "basename": "Achievement",
       "path": "Worldbuilding/Events/Achievement.md"
     },
     {
-      "basename": "Cataclysmic Aftermath",
-      "path": "Worldbuilding/Rise & Fall, Crisis/Crisis/Cataclysmic Aftermath.md"
+      "basename": "Spellweaver",
+      "path": "Worldbuilding/Origin of Magic/Spellweaving/Spellweaver.md"
     },
     {
-      "basename": "The Ultimate Weapon",
-      "path": "Worldbuilding/Events/The Ultimate Weapon.md"
+      "basename": "Augusitus",
+      "path": "Augusitus.md"
     },
     {
-      "basename": "Scorching Truth",
-      "path": "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/Scorching Truth.md"
+      "basename": "Cordelia",
+      "path": "Worldbuilding/Society/Characters/Ages 2/Cordelia.md"
     },
     {
-      "basename": "The Truth of Arcanoria",
-      "path": "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/The Truth of Arcanoria.md"
+      "basename": "Cindergale",
+      "path": "Worldbuilding/Origin of Magic/Bindings & Elements/Cindergale.md"
     },
     {
-      "basename": "Hypermage",
-      "path": "Worldbuilding/Truths, Chaos, Rituals/Forbidden Objects/Hypermage.md"
+      "basename": "Indulgent Enclave",
+      "path": "Worldbuilding/World Environment/Enclaves/Indulgent/Indulgent Enclave.md"
     },
     {
-      "basename": "Key of Attunement",
-      "path": "Worldbuilding/Origin of Magic/Bindings & Elements/Key of Attunement.md"
+      "basename": "Personal Pathways and Interconnected Awakenings",
+      "path": "Worldbuilding/Origin of Magic/Spellweaving/Personal Pathways and Interconnected Awakenings.md"
     },
     {
-      "basename": "Court of Delicacies",
-      "path": "Court of Delicacies.md"
+      "basename": "Selenea",
+      "path": "Worldbuilding/Mythology/Deities/Selenea.md"
     },
     {
-      "basename": "Pollux",
-      "path": "Sonata of the Violet Empress/Pollux.md"
+      "basename": "Lacrimosa",
+      "path": "Worldbuilding/Mythology/Deities/Lacrimosa.md"
     },
     {
-      "basename": "Lazarus",
-      "path": "Sonata of the Violet Empress/Lazarus.md"
+      "basename": "Elygia",
+      "path": "Worldbuilding/Society/Characters/Ages 5/Elygia.md"
     },
     {
-      "basename": "Kastor",
-      "path": "Sonata of the Violet Empress/Kastor.md"
+      "basename": "Cadmus Tacet",
+      "path": "Worldbuilding/Society/Characters/Ages 5/Cadmus Tacet.md"
     },
     {
-      "basename": "Legend Relationship",
-      "path": "Worldbuilding/Society/Stellar Legacy/Legend Relationship.md"
+      "basename": "Vals Jenner",
+      "path": "Worldbuilding/Society/Characters/Ages 4/Vals Jenner.md"
     },
     {
-      "basename": "Armament",
-      "path": "Worldbuilding/Society/Weapons, Instruments & Relics/Armament.md"
+      "basename": "Syvanth",
+      "path": "Worldbuilding/Society/Characters/Ages 4/Syvanth.md"
     },
     {
-      "basename": "The White-Touched Archivist",
-      "path": "Worldbuilding/Society/Characters/The White-Touched Archivist.md"
+      "basename": "Selah",
+      "path": "Worldbuilding/Society/Characters/Ages 3/Selah.md"
     },
     {
-      "basename": "Legend Title",
-      "path": "Worldbuilding/Society/Stellar Legacy/Legend Title.md"
+      "basename": "Pagiel",
+      "path": "Worldbuilding/Society/Characters/Ages 3/Pagiel.md"
     },
     {
-      "basename": "Soul Sheet Music",
-      "path": "Soul Sheet Music.md"
+      "basename": "Lucetta",
+      "path": "Worldbuilding/Society/Characters/Ages 3/Lucetta.md"
     },
     {
-      "basename": "Legend",
-      "path": "Worldbuilding/Society/Stellar Legacy/Legend.md"
+      "basename": "Kaia",
+      "path": "Worldbuilding/Society/Characters/Ages 3/Kaia.md"
+    },
+    {
+      "basename": "Father Raphael",
+      "path": "Worldbuilding/Society/Characters/Ages 3/Father Raphael.md"
+    },
+    {
+      "basename": "Erastus",
+      "path": "Worldbuilding/Society/Characters/Ages 3/Erastus.md"
+    },
+    {
+      "basename": "Destra",
+      "path": "Worldbuilding/Society/Characters/Ages 3/Destra.md"
+    },
+    {
+      "basename": "Arioch",
+      "path": "Worldbuilding/Society/Characters/Ages 3/Arioch.md"
+    },
+    {
+      "basename": "Adel",
+      "path": "Worldbuilding/Society/Characters/Ages 3/Adel.md"
+    },
+    {
+      "basename": "Sedrick",
+      "path": "Worldbuilding/Society/Characters/Ages 2/Sedrick.md"
+    },
+    {
+      "basename": "Mira",
+      "path": "Worldbuilding/Society/Characters/Ages 2/Mira.md"
     }
   ],
   "omittedPaths": [],

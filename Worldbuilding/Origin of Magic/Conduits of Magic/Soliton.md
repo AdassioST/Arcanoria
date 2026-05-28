@@ -37,6 +37,7 @@ The governing equation of all [[Soliton]] behavior in [[Arcanoria]] is the **Dri
 $$i\hbar_A \frac{\partial \psi}{\partial t} = -\frac{\hbar_A^2}{2m_S}\nabla^2\psi - g_1|\psi|^2\psi + g_2|\psi|^4\psi + i(\gamma_A - \gamma_L)\psi$$
 
 Where:
+
 - $\psi$ is the [[Soliton]] field amplitude
 - $\hbar_A$ is [[Arcanoria]]'s reduced action quantum, set by the [[Auric Aria]]'s fundamental tone
 - $m_S$ is the effective [[Soliton]] "mass" determined by the [[Auric Heptacode]] geometry

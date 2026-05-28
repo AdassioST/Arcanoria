@@ -2,7 +2,7 @@
 
 ![[Spellweaving.png]]
 
-Magic come true according to [[The Principles of Magic]]. it's called [[Spellweaving]] because it involves weaving the threads of reality into a composition that then manifests into the divinity of the stars.
+Magic come true according to [[The Principles of Magic]]. it's called [[Spellweaving]] because it involves weaving the threads of reality into a composition that then manifests into the divinity of the stars. [[The Registers of Magic]]
 
 Thus [[Spellweaving]] is the willful, deliberate manipulation of the world's inherent [[Resonance]] In the art of being heard, maintaining an ordered relationship against the encroaching entropy of [[Primal White Noise]].
 
@@ -26,51 +26,15 @@ This entire principle of transaction for fuel as energy, memories, emotions, lif
 
 However, paying prices of [[Miracle Magic]] requires a heavy cost to rewrite fate itself. There are many means to decrease the prices from practice, to understanding [[The Principles of Magic]], to feeling the music of your soul through the [[Key of Attunement]], to offloading the power of the spell through [[Emotional Authenticity]]. However, the act of singing against the [[Void]] costs in the dynamics and energy of your existence.
 
-#### 2. Certain [[Spellweaving]] is Forbidden or Taboo
+#### 2. Certain [[Spellweaving]] is [[Forbidden Magic]] or Taboo
 
 _The [[Great Harmonic Loom]] doesn't have a [[Consciousness]], only the caster does._
 
 [[Civic]]s and acceptance of [[Spellweaving]] depends on an axis of [[Consonance]] and [[Dissonance]]. There are many practices that are considered forbidden or taboo by most [[Civilization]]s which tend to filter anything that is overly dangerous, destructive, indiscriminate, unpredictable, gruesome, cruel, or otherwise unsustainable.
 
-The entire lists of [[Forbidden Magic]] is vast given the flexibility of [[Spellweaving]] but it primarily considers anything that is heavily dissonant and amoral, including:
+The entire lists of [[Forbidden Magic]] is vast given the flexibility of [[Spellweaving]] but it primarily considers anything that is heavily dissonant and amoral. [[The Registers of Magic]] contains all types of magic divided by Tessituras and the [[Dissonance]] application of various types of magic. There is no "evil element" there only is the harmful application of intent of any branch of magic. All types of magic can be [[Forbidden Magic]] under the right conditions and with the intent of subjugation.
 
-- [[Velvet Nectar]] and [[Velvet Ambrosia]] which is outlawed almost everywhere.
-
-- Overuse of concentrated [[Lunehymn]] or radiant [[Aetherlight]] to cause addiction and induce states of narcosis and dependency as magical drugs.
-
-- Weaponized pleasure for [[Drowning in Flux]] or other similar sorts of addictions that involve the [[Weight of Indulgence]] for coercion and subjugation.
-
-- Almost all technologies related to the [[Dissonance League]] and [[Atonalis]], such as [[Atonalis]] bombs, using deliberate suffering for experimentation in [[Institute]]s, etc.
-
-- Certain aspects of [[Illusory Magic]] and Shapeshifting that require transforming objects by applying a [[Flux]] [[Crystal]] combo with the intent to have a trojan horse that seems harmless and impales the target when the [[Flux]] property is removed.
-	
-	- Assassination techniques involving [[Flux]] and [[Crystal]] to create "drinkable water" that then stops the [[Flux]] property once inside the body, its own [[Signal Loss]] causes them to become jagged [[Crystal]] dealing damage from the inside.
-	
-	- Other similar impalement techniques of creating devices that seem harmless but become jagged when in contact with the body, the worst applications of [[Drowning in Flux]] executions are heavily frowned upon due to its gruesome and degrading nature. They turn pleasure into execution through the manipulation of shapeshifting that become lacerations.
-	
-	- Invoking any element of [[The Principles of Magic]] right on top or inside of the body with the purpose of gruesome assassination. It usually is ineffective given [[Signal Loss]] and the interference of the [[Soul-Key]], but for those who try to brute force their [[Spellweaving]] inside anyone is intensely amoral.
-	
-	- Certain practices of the [[Hollow-Point]] that involve [[Crystal]] assassination.
-
-- All types of [[Spellweaving]] that use some sort of disfiguration or self mutilation for fuel conversion:
-	
-	- This is primarily seen with the [[Flesh-Casing Ritual]] which is the most widespread but still taboo as it is seen as abandoning the body to become a carcass of a person inside their [[Soul Leitmotif]].
-	
-	- All the practices of hemomancy of the [[Age of Blood]] and onwards for empowering [[Spellweaving]] through bodily sacrifice.
-	
-	- Any magic considering sacrificing limbs, particularly seen with the Chimera Grafting of [[Spellweaver]]s during the [[Age of Chimeras]] which were using [[Flux]] [[Crystal]] [[Luminance]] flesh cables as glue to grafting limbs and then using them as fuel. It is the advanced version of the hemomancy loophole. However, this does lead the gruesome states of necrosis that are only survivable if the [[Spellweaver]] has undergone a [[Flesh-Casing Ritual]]. However, even with the physical decay the practitioners are incredibly likely to become a [[Carnalix]] [[Atonalis]] due to the sheer amount of physical suffering and emotional trauma of amputation and grafting.
-
-- [[Illusory Magic]] used for forgery, mimicry, or otherwise deviant behavior involving deceased people and coercion. This is treated heavily as a [[Dissonance]] magic almost mirroring the [[Atonalis]] behavior of an [[Erosyx]], an [[Animach]] or a [[Violux]].
-
-- Treating any [[Time Bubble]]s or [[Strand Pool]]s as means to create prisons which act effectively as time torture chambers.
-
-- Hijacking someone's [[Emotional Authenticity]] in emotions like terror to make them complicit in their own destruction through parasitic [[Sympathetic Vibration]] as [[Stable Harmonic Channels]] for bypassing [[Signal Loss]] as seen with [[Syvanth]].
-
-- [[Hyper Chord]]s of indiscriminate destruction as seen with [[The Grand Fusillade]]. While not [[Spellweaving]], [[Wolf Bomb]]s are largely considered in the same category given their genocidal nature.
-
-- [[Flux]], [[Crystal]], [[Luminance]] flesh cables or anything using the connecting of artificial tissue to mirror biological horror, as seen with the [[Age of Chimeras]]. This is further used in its most advanced version through [[Hypermage]]s.
-
-- Almost any type of powerful [[Outer Magic]], as it is inherently unpredictable, and they involve channeling power from an [[Outer God]], inviting an apocalypse into [[Arcanoria]], and increasing the scale of the consuming horror through its [[Flesh-Binding Ritual]] and [[Flesh-Exalting Transcendence]].
+Consent is usually the dividing line between [[Dissonance]] and [[Consonance]], for a vaccine, the difference between a poison and a cure is dosage and what is contained within the needle to what purpose, not the needle itself.
 
 #### 3. Magic Cannot Create Something from Nothing
 
@@ -212,14 +176,4 @@ Moreover, there are several theological debates on this subject of what classifi
 
 - Particularly on the case of [[Selenea]], the moments she meets [[Civilization]] through the Selenic Set of [[World-Bending Relics]], she unleashes the Daydreaming Sky from her overwhelming joy. She may be lonely, but she is still an [[Outer God]] with unpredictable consequences that become entropy, chaos and loss of [[Coherence]], which is one of the main issues to solve during the [[Sonata]] of the Pale [[Moon]].
 
-On the subject of the [[Auric Aria]], calling the [[Auric Aria]]'s power "[[Outer Magic]]" is considered a profound insult and blasphemy because it fundamentally contradicts the orthodox doctrine of the [[Auric Order]], which elevates her as [[The One True God]] and the singular creator of the [[Known Universe]] and [[Arcanoria]]. Traditionally, instead of being grouped with the powers of [[Outer God]]s, her abilities are exclusively revered as [[Auric Magic]] or Divine [[Spellweaving]].
-
-The distinction between her power and [[Outer Magic]] is both deeply theological and mechanical, driven by several core reasons:
-
-- **The Paradigm of Order vs. Chaos:** The [[Auric Aria]]'s influence constitutes the foundational physics of reality itself, structured through the [[Auric Heptacode]] and the [[Trinity Harmony]]. Her followers view her power as the ultimate expression of [[Mastery Over Chaos]] and absolute order which is provable by the existence of Primordial Stars. By contrast, [[Outer God]]s are entities born in [[The Infinite Void]], and their magic introduces unpredictable, reality-warping cosmic horrors and existential threats. Equating the structured architecture of the Creator with the chaotic entropy of [[Primal White Noise]] is deeply insulting to her faith, particularly because the [[Auric Aria]] heavily despises all other deities born in [[The Infinite Void]].
-
-- **Mechanical Superiority of Manifestation:** There is an undeniable cosmological difference in how the [[Auric Aria]] wields her divinity. [[Outer God]]s lack the [[Sufficient Precision]] to directly modify [[Arcanoria]] and to even pierce the [[Stellar Veil]]. They are too vast and incompatible with physical reality, if they ever come through they instantly get forced to become [[Alien Star]]s. As such, to interact with the world, they have a host performing a [[Flesh-Binding Ritual]] to occupy an [[Anthropomorphic Shape]], which often culminates in a catastrophic [[Flesh-Exalting Transcendence]] that unleashes an apocalypse. In this regard, the [[Auric Aria]] is undeniably distinct because she possesses the unique capability to manifest and incarnate her own form at will with only the requirement that she takes three [[Seventh]]s to incarnate. She can create and modify her own [[Anthropomorphic Shape]] at will without needing a mortal vessel or triggering an apocalypse-inducing scenario.
-
-- **The [[Aureus Pillar]] / [[Chorus Pillar]] Divide:** The classification of her magic is a central point of ideological warfare within [[Civilization]]. The [[Aureus Pillar]] zealously defends her status as the supreme sovereign, believing power is found in the [[Auric Aria]] and the indomitable human spirit which is provable due to Primordial Stars and her might in [[Mastery Over Chaos]]. However, the opposing [[Chorus Pillar]] rejects this anthropocentric view as hubris, favoring the esoteric and arguing that true power lies with the [[Outer God]]s of the infinite unknown. Labeling her power as [[Outer Magic]] effectively aligns with the heretical views of the Chorus Pillar, directly challenging her divine supremacy. In essence, calling her power [[Outer Magic]] is a heresy that undermines her role as the sovereign architect of existence, reducing her from the author of reality to just another of the parasitic deities from [[The Infinite Void]]. This is further pushed on the [[Scorching Truth]] that [[The Auric Aria is a Type G Star]], showing her limitations as a deity in contrast to the rest of the cosmos of the [[Lunar Abyss]].
-
-However, her manifestation of power through [[Piety]] does have physical effects in the body of those who are her chosen and become [[Auric Angels]], particularly due to the divine [[Resonance]] they carry in their wings as their tether to the [[Auric Aria]].
+Traditionally, the [[Auric Aria]]'s power instead of being grouped with the powers cosmic horrors of [[Outer God]]s, her abilities are exclusively revered as [[Auric Magic]] or Divine [[Spellweaving]]. Stating otherwise is profoundly insulting to the [[Auric Order]].

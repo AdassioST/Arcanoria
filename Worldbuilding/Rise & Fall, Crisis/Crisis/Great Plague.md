@@ -592,7 +592,7 @@ Sulfur fumigation doesn't just displace moths—it destroys both protection syst
 - Aromatics seem to help (by accident, through social isolation of suspected cases)
 - Authorities gain false confidence they understand the disease
 - [[Luminant Moths]] populations are growing but not yet obviously problematic
-- No [[Dissonance bloom]] effects (low saturation)
+- No [[Dissonance Bloom]] effects (low saturation)
 - No [[Static Criticality]] cascades (saturation too low)
 
 **Authority response**:

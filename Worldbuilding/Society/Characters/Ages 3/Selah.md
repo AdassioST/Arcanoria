@@ -1,4 +1,4 @@
-#character 
+#character #religion
 
 [[Legend Title]]s: The Great Priestess, The Entrepreneur of Meaning, [[Lacrimosa]]'s Right Hand, The Preacher of the [[Purest of Love]]. The Faithful of the [[Auric Aria]]. The [[Theological Virtue]] of Contrition. The [[Luminous Idealist]] of the [[Seven Archangels]].
 

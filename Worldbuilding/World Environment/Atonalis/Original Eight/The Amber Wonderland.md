@@ -1,7 +1,8 @@
 #chaos #creature #society 
 
+[[Legend Title]]: The Devouring Paradise.
+
 _"I DIDN'T ASK TO BE CREATED."_ 
-_El país del ámbar y de las maravillas._
 
 The [[Erosyx]] [[Primal Discordia]] of the [[Original Eight]] of the [[Eight-Born Paths]]. The last of the [[Formless Masses]] during the [[Fifth Cycle]].
 

@@ -93,7 +93,7 @@ Feeds on: Physical suffering, bodily dysfunction, rejected nourishment.
 
 **Behavior:** Spreads specific bodily rupture — this type of [[Atonalis]] targets decay and hostility based on their instinct and feeling reaction, it works primarily on strong emotions and cannot be satiated because satisfaction is contrary to its nature.
 
-[[Original Eight]] [[Primal Discordia]]: The Corpus Mortuum.
+[[Original Eight]] [[Primal Discordia]]: [[Lyd, The First Beloved]], the [[Corpus Mortuum]].
 
 **Path VI: [[Animach]] - The Fractured Self (13.00%)**
 
@@ -109,7 +109,7 @@ Feeds on: Identity fracture, conflicting self-concepts, loss of core self
 
 **Behavior:** Each personality has competing goals; chaotic but effective consensus reached through internal conflict. These [[Atonalis]] often become functional through their fragmentation, leading to denial of the problem.
 
-[[Original Eight]] [[Primal Discordia]]: The Morpheus Abysmal.
+[[Original Eight]] [[Primal Discordia]]: [[The Eight-Tongued King]], the [[Morpheus Abysmal]].
 
 **Path VII: [[Violux]] - The Corrupted Will (13.3%)**
 
@@ -143,4 +143,4 @@ Feeds on: Identity denial, sexual dysfunction, intimacy twisted by fear and sham
 
 **Behavior:** Infiltrates human society; performs as a collapse of self through relational distortion in false identity until the revelation moment. Operates through seduction and intimacy rather than force, through affection and longing, creating bonds of love and desire in a fatal trap.
 
-[[Original Eight]] [[Primal Discordia]]: [[The Amber Wonderland]].
+[[Original Eight]] [[Primal Discordia]]: [[The Amber Wonderland]], the Devouring Paradise.

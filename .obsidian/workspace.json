@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+                "file": "Worldbuilding/Gateway To Genesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ages"
+              "title": "Gateway To Genesis"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 340.00418853759766
   },
   "right": {
     "id": "c527bee07c2268a4",
@@ -105,12 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+                "file": "Worldbuilding/Gateway To Genesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Ages"
+              "title": "Enlaces salientes de Gateway To Genesis"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+                "file": "Worldbuilding/Gateway To Genesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Ages"
+              "title": "Enlaces entrantes de Gateway To Genesis"
             }
           },
           {
@@ -192,39 +192,45 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Worldbuilding/Origin of Magic/Spellweaving/Soul-Key.md",
     "Worldbuilding/Gateway To Genesis.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages.md",
+    "Old Testament.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Old Testament/Seven Dark Fates.md",
+    "merged/Worldbuilding.md",
+    "Worldbuilding/Society/Characters/The White-Touched Archivist.md",
+    "Worldbuilding/Mythology/Deities/Auric Aria.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/The Truth of Arcanoria.md",
+    "Worldbuilding/Society/Stellar Legacy/Legend Trait.md",
+    "Worldbuilding/Society/Stellar Legacy/Legend.md",
     "Worldbuilding/World Environment/Atonalis/Original Eight/Original Eight.md",
     "Sonata of the Violet Empress/Amadea.md",
-    "Worldbuilding/World Environment/Landmarks/Crescent Mist Peaks.md",
-    "Waltz of Wandering Love.md",
-    "merged/merged-output-2026-05-18.md",
-    "Worldbuilding/Society/Characters/Ages 2/Artus.md",
-    "Worldbuilding/Origin of Magic/Spellweaving/Spellweaving.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/The Registers of Magic.md",
+    "Worldbuilding/World Environment/Atonalis/Original Eight/Lyd, The First Beloved.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Eight-Born Paths.md",
+    "Worldbuilding/World Environment/Atonalis/Original Eight/The Amber Wonderland.md",
+    "Worldbuilding/Origin of Magic/Root of Evil/Atonalis.md",
+    "Worldbuilding/Origin of Magic/Bindings & Elements/Strand.md",
+    "Worldbuilding/Society/Stellar Legacy/Stellar Legacy Score.md",
+    "Worldbuilding/Origin of Magic/Bindings & Elements/Void.md",
+    "Sympathetic Magic.md",
+    "Worldbuilding/Society/Characters/Ages 2/Orphael.md",
+    "Worldbuilding/Society/Characters/Ages 2/Sephira.md",
+    "Sonata of the Violet Empress/Court of Delicacies.md",
+    "Court of Delicacies.png",
+    "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
+    "Worldbuilding/Mythology/True Mythos of Creation.md",
     "Worldbuilding/Origin of Magic/The Principles of Magic.md",
-    "Worldbuilding/Origin of Magic/Spellweaving/Spellweaver.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Vibrational Fallout.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Vibrational Decay.md",
-    "Hollow-Point.md",
-    "Illusory Magic.md",
-    "Amadea Traducción Español.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Consciousness.md",
-    "Worldbuilding/Society/Characters/Ages 2/Mira.md",
-    "Game Systems/Derivative Ideas/Notas Diplomado.md",
-    "merged/merged-output-2026-05-16.md",
-    "Worldbuilding/Origin of Magic/The One Symphony/The Eternal Symphony.md",
-    "Worldbuilding/Origin of Magic/Conduits of Magic/Great Harmonic Loom.md",
-    "Worldbuilding/Origin of Magic/Bindings & Elements/Crystal.md",
-    "Worldbuilding/Origin of Magic/Spellweaving/Soul Leitmotif.md",
-    "Worldbuilding/Origin of Magic/Spellweaving/Primary Instrument.md",
-    "World Shaping Maverick.md",
+    "Amadea-9.png",
+    "Amadea-8.png",
+    "Amadea-7.png",
+    "Sonata of the Violet Empress/R Stories",
+    "Institute.png",
+    "Images/Gateway To Genesis.png",
     "Amadea-6.png",
     "Amadea Traducción Español.png",
     "Sonata of the Violet Empress",
     "The Stars Are Alive-1.png",
     "The Stars Are Alive.png",
-    "Images/Gateway To Genesis.png",
-    "Gateway To Genesis.png",
     "Worldbuilding/World Environment/Atonalis/Primal Discordia",
     "Worldbuilding/World Environment/Atonalis/Ascendant",
     "Worldbuilding/World Environment/Atonalis/Fracted",
@@ -233,13 +239,7 @@
     "Worldbuilding/World Environment/Atonalis/Original Eight",
     "Worldbuilding/Society/Weapons, Instruments & Relics/Primary Instruments",
     "Worldbuilding/Society/Tools & Inventions/Instruments",
-    "watermark_removed_d1abfe33-c5d2-470b-816a-99991610abcc.mp4",
-    "Pasted image 20260430145435.png",
-    "Uriel.png",
-    "Pasted image 20260430142514.png",
-    "Auric Heptacode.png",
     "Worldbuilding/Mythology/Deific Moodboard.canvas",
-    "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
     "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas"
   ]
 }

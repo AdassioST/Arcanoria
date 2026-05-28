@@ -45,7 +45,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - Combat Troop Templates / Compositions
 - [[Religion]], Laws System
 - Story Builder + User Generated Content (Including [[Enclave]]s and [[Ballad]]s)
-- Community Story Ratings + Mod Interface
+- Community Story Ratings + Mod Interface [[Amadea]]
 
 ### 🎭World Building
 
@@ -57,27 +57,63 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - [[Legend]]s, [[Constellation]]s and the [[Stellar Legacy Score]].
 - [[The White-Touched Archivist]]. [[Fundamental Frequency]], [[Soul-Key]], [[Composure]].
 - [[Strand Pool]]s, [[Memory Field]]s, and [[Time Bubble]]s, [[Soliton]].
-- [[Music as Catalyst]], [[Mythical Virtuoso]] and [[The Principles of Magic]].
+- [[Music as Catalyst]], [[Mythical Virtuoso]], [[The Registers of Magic]], and [[The Principles of Magic]].
 - Passing of [[Cycle]] and [[Ages]].
 - [[Whistling Fans]], [[Auric Bells]].
 - [[Sky Glass]], [[Mirrorbox Trap]], and [[Resonance Box]].
 - [[Dual Confluence Stream]] of [[Lunehymn]] and [[Aetherlight]].
 - **Structure ([[Auric Aria]]) vs. Essence/Vitality ([[Selenea]]).** This is the duality of the [[Click Power]] [[Vital Resources]] vs [[Building Materials]]. [[Pure Light]] vs [[Auric Structure]].
 - [[Eight-Born Paths]], [[Formless Masses]], [[Atonalis]] and [[Primal Discordia]].
+- [[Institute]]s and the [[Dissonance League]].
 - [[Original Eight]], [[Scorching Truth]].
 - [[The Truth of Arcanoria]], [[Pillars]], [[Civic]].
 - [[Age of The End]], [[Parlor of the Moon]].
-- [[Notas Diplomado]]. [[Amadea]], [[Amadea Traducción Español]]
+- [[Notas Diplomado]]. [[Amadea]], [[Amadea Traducción Español]].
+
+**AMADEA TO DO**
+
+- Determine the major spells of [[Mythical Virtuoso]] aside from [[Amadea]]'s. (First [[Time Bubble Arts]] with [[Cordelia]]) [[Eleos Arts]] founded by [[Orphael]].
+- Finish first chapters, add culture and map of where they are travelling. During  the [[The Golden Light in the Sky]] act put [[Mythical Virtuoso]] of [[Resonance]] as the legend of [[Hollowmarch]].
+- Establish which disciplines of the tessituras of [[Spellweaving]] they revolutionize.
+- Finish the mechanics of the [[Age of Glyphs]] and how the glyph circle of fifths uses the pentagram to write songs.
+- Detail the [[Domestication Enclave]]s of the [[Age of Behemoths]].
+- Determine the mechanics of the [[Celestial Astrolabe]].
+- Finish the [[Legend Trait]]s.
+- Create all the specific rules like the law of assumption and visualization for [[The Principles of Magic]], and the importance of the order of creation on spell chords.
+- [[Spellweaving]] Layering created by [[Luminaire]], using two triads instead of trying to bind 5 elements in a nonsense [[Tetrad Chord]]+.
+- Detail the places that [[Amadea]] visits, from [[Sprite-Light Conclave]] to other [[Enclave]]s and towns of [[Civilization]]s.
+- Detail the food of the caravan and of [[Amadea]]'s journey, the importance of cooking for their [[Cycle]] birthdays.
+- Detail the entire personality of the [[Eight-Wings of Lacrimosa]]
 
 ### Development Ideas
 
 - [[Franchise Potential]].
 - Spiritual traces as residual [[Pure Light]] related to [[Strand]]. (?)
 - Deepen [[Cosmic Motion]] and [[The Stars Are Alive]] cosmology to be full astro for [[Ages]] XI onwards. Bio seeding planet and magic with the [[Great Harmonic Loom]] as seeds for establishing [[Spellweaving]] in other planets.
+- Combat system inspired by Patapon + [[Spellweaving]] Chord Layering to create a stack of attacks that combines several [[Magic Arts]], real chords, and combinations of card rogue-like deckbuilding but with real-time components. Inspired by the effects of Brave Frontier with critical, bursts + HOI4 troop combat formations, and leader shock, burst, awe formations for rock paper scissors with Chaos Nightmare aesthetic on boss fights + Conductor as the [[Legend]] leading the fight. [[Soul-Key]] rhythm based music depending on whether it's staccato, legato, polyrhythm, ritardando or accelerando. Focus on creating strategy and the management of all your [[Magic Arts]] and resources. Gathering resources for stronger cards or channeling stronger [[Magic Arts]] by having a tempo fever that becomes the flow state. Securing higher score on the final chord stack. 6 hexes of zones of the map to direct terrain. Prep time over direct attacks, but the moment the prep unleashes is the climax.
+
+- Division of the combat system between Macro Level and Micro Level, macro level is team building, deck building, acquiring [[Magic Arts]], pinpointing the strategy of the conductor. Micro level is the conductor, the rhythm, chord layering stacks, the "Slay the spire" part of the game and where combat actually runs. It is possible to let fights auto resolve from the macro level, but some battles that are thought to be "Doomed" can be actually an epic victory if the player manages to win against all odds in the micro level.
+- The micro level combat consists of hitting rhythm combos based on the stack of [[Spellweaving]] chord layers, and for defense, the [[Abjuration Arts]] mostly rely on using the inverse frequency for which defending from the rhythm of the enemy stack deflects damage. Attacking and using the rhythm increases damage, defense is the inverse, hitting perfect can imbue up to a 25% damage and decrease damage by 45%. Some stack attacks can't be parried and require prep time to defend before like [[Lacrimosa]]'s [[The Call of the Dreamweaver]]. There are 6 positions of hexes 3 in front and 3 in back, they change based on the terrain and provide bonuses and unique interactions with the terrain's elements. 
+
+- "An [[Atonalis]] is a wound that outgrew its [[Humanity]]."
+- A [[Magical Catalyst]]
+- DLC of Gateway to Genesis of having mundane minigames of [[Civic]]s on how the [[Ages]] actually feel like, it's an optional inspired by Moonlighter, the Isekai Tavern Cooking Guilds, etc. They allow to go deeper into the life of a [[Legend]] by engaging in mundane minigames that help solidify the worldbuilding through flavor tasks that deepen the immersion and relationship to certain [[Legend]]s besides mythical fantasy.
+
+- Circular polarization for [[Time Bubble]]s and [[Probability Amplitudes]] folding upon themselves.
+
+- A slave to meaning holds a whip just so he can acts like he owns a slave bought by meaning. The truth is we all are slaves to something, and who he isn't is crushed by the [[Weight of Purpose]] by those who have enslaved themselves to one. Truly a tragedy where only the one free of nothing is the one most indebted.
+
+- [[Aurelian]]'s blind [[Resonance]] mentor invented the niche of [[Field Sensing Arts]].
 
 - Collapsing stars, neutron stars, super giants growing, and blackholes are the result of the [[Alien Star]]s trying to escape their prison, when a star grows it's the process of [[Outer God]] [[Consciousness]] trying to escape and then falling their [[Coherence]] being pulled by its own gravitational pull of [[Consciousness]], it either becomes a super prison as a neutron star, or a blackhole due to [[Auric Geometry]]. Blackholes are the [[Known Universe]] and the [[Stellar Veil]] trying to forcefully expulse out presence, a "Cosmic Sneeze" which is a one way conduit out into [[The Infinite Void]]. the "white holes" that we lack in the [[Known Universe]] is because the conduit leads to [[The Infinite Void]] past the event horizon, it uses the same principle as a [[Siphon Wolf Bomb]] which gives the sucking properties to a blackhole until it collapses by running out of [[Soliton]]s and matter, the hawking's radiation is the universe trying to heal and seal the [[Void]] it opened to expulse the [[Outer God]]. Supernovas exist in two types, as collapse of the [[Alien Star]]s or as the [[Auric Aria]] synapses depending on the type, stars "die" when they are released into [[Stardust]] if [[Constellation]], behave like neurons if primordial stars, and the explosions of the alien stars are different.
 
-- The [[Divine Reset]] mechanic tied to [[The Ultimate Weapon]] master key, has a prestige level based on the [[Achievement]]s collected. Instead of relying in mechanics like amount of population or otherwise numerical stats, each [[Achievement]] has a level of prestige tied to it that can be collected on [[Divine Reset]] as they serve as the [[Resonance Anchors]] that [[The Ultimate Weapon]] uses to increase permanent enhancement runs after the [[Third Reset]].
+- [[Domestication Enclave]] Alexander on a quest for cataloguing all [[Pure Light]] beings while doing an expedition with [[Augusitus]] for early navigation using domesticated animals as a water chariot. The selling of exotic animals as pets is what brings a moral dilema just liie [[Augusitus]] with the Velvet Cage.
+- Visualization as a tenet of [[Absolute Certainty]] and [[Crystal]].
+- Law of Assumption as a tenet of [[Crystal]].
+- Clarity of Action as a tenet of [[Sufficient Precision]] and [[Luminance]].
+- Riding the Wave of [[Flux]] of [[Emotional Authenticity]].
+
+- The [[Divine Reset]] mechanic tied to [[The Ultimate Weapon]] master key, has a prestige level based on the [[Achievement]]s collected. Instead of relying in mechanics like amount of population or otherwise numerical stats, each [[Achievement]] has a level of prestige tied to it that can be collected on [[Divine Reset]] as they serve as the [[Resonance Anchors]] that [[The Ultimate Weapon]] uses to increase permanent enhancement runs after the [[Third Reset]] that increases the potency of the tether between the save file and [[Arcanoria]]. The higher percentage of completion, the higher the tether.
  
 - Preconception the Movie as a reference for an intersex [[Outer God]] that gets pregnant with itself and its son is the god. It causes a [[Time Bubble]], a paradox where it is both the son, the mother, and the father in an infinite ouroboros [[Cycle]].
 - Brobola creature.
@@ -85,13 +121,26 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - [[Atonalis]] Parasitic [[Resonance]]: Spooky agony at a distance.
 - The player is [[Cosmic Motion]] on the equation of 3 x 4 x 7. the variations on the Choice of the End are different operations, multiplying 7 by the power of -3 is the Reset of [[Arcanoria]], changing [[A True Sine Wave]] is multiplying by 0, removing the 4 to have 3 at the power of 3 with 7 at the power of 3 is 21 at 3 which is the start of the universe without [[Cosmic Motion]] (the Third Actor) for them to interact with one another.
 
+- Gayvian: [[The Registers of Magic]]
+
+- [[Flux]] -> [[Crystal]] -> [[Resonance]] -> [[Void]] -> [[Strand]] -> [[Luminance]] -> [[Cindergale]]
+
+-> [[Liminal Magic]] 
+	-> [[Transmutation Arts]]
+
+-> 
+
+- [[Healing Magic]]
+
+- [[Resonance]] -> [[Crystal]] -> [[Flux]] -> [[Luminance]] -> [[Void]] -> [[Cindergale]] -> [[Strand]]
+
 - The [[Cycle]]s and [[Ages]] have the palindrome of the [[Seventh]] defined, the gap between how many [[Cycle]]s does it take for [[Civilization]] to progress depends on the tether of the Third Actor, they are gazing at [[Arcanoria]] from a place even beyond [[The Infinite Void]], this explains the difference in how they perceive the passage of time. They are beyond time and normal [[Coherence]] that rules [[Arcanoria]]. The [[Auric Aria]] notices this after finishing the Sonata of [[Arcanoria]] and figuring out that the Third Actor is [[Consciousness]] without [[The First Overtone]] from somewhere even further than [[The Infinite Void]]. They are peering and interacting with the veil from somewhere before the [[Original Ripple]] which is why they are the [[Cosmic Motion]] that put the [[Original Ripple]] and all of existence in motion.
 
 - The Aztec Calendar [[Cycle]] of the Fifth Sun refers that the world will end by earthquakes and tremors but the seismic activity is not natural, it refers to the seismic activity of the denotation of nuclear bombs. This idea will be the same cycles having the [[Cataclysmic Aftermath]]s and they refer to the great filters. The "tremors" of [[Arcanoria]] refer to the [[Wolf Bomb]], the prophecy speaks about a tone, but it doesn't make sense until the [[Siphon Wolf Bomb]] appears which explains retroactively that the prophecy wasn't a magical imagination idea, it was in fact describing [[Soliton]]s and complex physics that no one in that age could even fathom existing.
  
 - Conflicts in the [[Old Testament]] with [[Original Eight]], cutting several of them apart and preventing the [[Atonalis]] Reign of the [[Morpheus Abysmal]], no motivation to conquer the world because no [[Lacrimosa]] or [[The Hollowing]] happened. [[Violux]] interaction with the [[Auric Aria]].
 
-- [[Arcanoria]]'s counterpart to the great classics are Amadeus Mozart as [[Amadea]]. Beethoven is the Deaf Girl that falls in love with the [[Morpheus Abysmal]] during the [[Atonalis]] [[Age Crisis]] of [[Ages]] IV that makes all of the personalities have [[Coherence]] for a moment before dying. "Fur Elise" becomes "Fur Morpheus." in the story inspired by Meruem.
+- [[Arcanoria]]'s counterpart to the great classics are Amadeus Mozart as [[Amadea]]. Beethoven is [[Ludwine]], the deaf girl that falls in love with [[The Eight-Tongued King]] during the [[Atonalis]] [[Age Crisis]] of [[Ages]] IV that makes all of the personalities of the [[Morpheus Abysmal]] have [[Coherence]] for a moment before dying. "Fur Elise" becomes "Fur Morpheus."
 
 - [[Burning Flagellant]] [[Rekindling Fire]] stoic character on the early [[Ages]] using [[Cindergale]] and [[Crystal]] teaching how discipline beats motivation. Inspired by the vagabond manga.
 
