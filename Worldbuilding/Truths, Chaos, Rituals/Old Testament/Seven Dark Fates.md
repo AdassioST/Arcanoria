@@ -12,11 +12,17 @@ The [[Seven Dark Fates]] did not begin as an immediate act of divine wrath. Thei
 
 After cycles of proliferating [[Holy War]]s, the [[Auric Aria]] had shifted from direct intervention to a diplomatic approach, proposing a formal covenant in her most sacred grounds, a structured meeting intended to establish a binding end to all ongoing wars. The [[Chorus Pillar]] arrived to the audit armed.
 
-![[Pasted image 20260430145435.png]]
+![[Auric Aria Seven Dark Fates.png]]
 
-Initially baffled, the [[Auric Aria]] establishes her authority confused of the threats, saying _"What is the meaning of this? You dare raise a blade against me?"_ warning against the insolence and the grave crime they were about to commit that violates violently Article VIII of the [[Auric Codex]]. However, rather than negotiate, they moved to kill her incarnation. While she was speaking, a blade aimed at her throat grazed her cheek instead, she dodged instinctively the fatal strike, but she was wounded. The first drop of [[Golden Ichor]] fell to the soil of her holy grounds.
+Initially baffled, the [[Auric Aria]] establishes her authority confused of the threats, saying _"What is the meaning of this? You dare raise a blade against me?"_ warning against the insolence and the grave crime they were about to commit that violates violently Article VIII of the [[Auric Codex]].
 
-She froze, touching her cheek to process what had just happened. Realizing that the blow was specifically aimed to silence her capacity to speak, she did not immediately retaliate. Instead, she began laughing, and then the laughter broke. She entered a spiraling [[Composure]], cataloguing her every sacrifice before the assembled court:
+However, rather than negotiate, they moved to kill her incarnation. While she was speaking, a blade aimed at her throat grazed her cheek instead, she dodged instinctively the fatal strike, but she was wounded. The first drop of [[Golden Ichor]] fell to the soil of her holy grounds.
+
+She froze, touching her cheek to process what had just happened. Realizing that the blow was specifically aimed to silence her capacity to speak, she did not immediately retaliate. Instead, she began laughing, and then the laughter broke.
+
+![[Auric Aria Seven Dark Fates 1.png]]
+
+She entered a spiraling [[Composure]], cataloguing her every sacrifice before the assembled court:
 
 - Her voluntary mortal incarnation during the [[Eighth Cycle]] and the suffering it entailed.
 - Her death by the moonlit cliff, which seeded [[Aetherlight]] and [[Spellweaving]] into the world.

@@ -1,7 +1,7 @@
 #chaos #creature
 
 *The Perpetual Fear (16.00%)
-"Safety without freedom is just another form of violence."*
+"Safety without freedom is just another form of violence." - [[Pollux]]*
 
 ![[Anxithor.png]]
 

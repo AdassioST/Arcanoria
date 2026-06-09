@@ -1,6 +1,6 @@
 
-**4X Dark Fantasy •  Incremental Strategy Clicker • Text-Driven [[Civilization]] Builder + Mythological RTS Hybrid**
-
+**4X Dark Fantasy •  Incremental Strategy Clicker • Narrative Driven [[Civilization]] Builder + Mythological RTS Hybrid**
+[[Purest of Love]]
 _Compose the score and myth of your [[Civilization]]._
 _Weave your destiny in [[The Eternal Symphony]] of [[Arcanoria]]._
 
@@ -28,7 +28,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 
 - **Title:** [[Gateway To Genesis]]
 - **World Name:** [[Arcanoria]]
-- **Genre:** 4X Dark Fantasy •  Incremental Strategy Clicker • Text-Driven [[Civilization]] Builder + Mythological RTS Hybrid
+- **Genre:** 4X Dark Fantasy • Incremental Strategy Clicker • Narrative Driven [[Civilization]] Builder + Mythological RTS Hybrid
 - **Core Fantasy:** Rebuild a shattered [[Civilization]] where music is magic born from emotion, intent, and mastery of the self
 
 ### ⚙️Core Systems
@@ -37,7 +37,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - [[Event System Logic]] & [[Achievement]]
 - [[Government Logic]]
 - [[Environment Logic]]
-- Combat System & [[Atonalis]] Boss fights
+- [[Combat System]] & [[Atonalis]] Boss fights
 - [[Legend]]s, [[Legend Title]]s and the [[Stellar Legacy Score]]
 - [[World Event]]s, [[Minor Actor]]s, [[Major Actor]]s
 - World Exploration, [[Landmark]]s, [[Religious Haven]]s
@@ -68,7 +68,9 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - [[Original Eight]], [[Scorching Truth]].
 - [[The Truth of Arcanoria]], [[Pillars]], [[Civic]].
 - [[Age of The End]], [[Parlor of the Moon]].
+- [[Drowning in Flux]], [[Crystalized in Delusion]], [[Surrendering to the Void]], [[Runway in Cindergale]]. [[Blighted by Luminance]], [[Derealization in Resonance]].
 - [[Notas Diplomado]]. [[Amadea]], [[Amadea Traducción Español]].
+- [[Amadea Analysis]]
 
 **AMADEA TO DO**
 
@@ -78,36 +80,62 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - Finish the mechanics of the [[Age of Glyphs]] and how the glyph circle of fifths uses the pentagram to write songs.
 - Detail the [[Domestication Enclave]]s of the [[Age of Behemoths]].
 - Determine the mechanics of the [[Celestial Astrolabe]].
-- Finish the [[Legend Trait]]s.
+- Finish the [[Legend Trait]]s. [[Atonalis]]
 - Create all the specific rules like the law of assumption and visualization for [[The Principles of Magic]], and the importance of the order of creation on spell chords.
-- [[Spellweaving]] Layering created by [[Luminaire]], using two triads instead of trying to bind 5 elements in a nonsense [[Tetrad Chord]]+.
+- [[Spellweaving]] Layering created by [[Luminaire]], using two triads instead of trying to bind 5 elements in a nonsense [[Tetrad Chord]]+ and inventing [[Beam Arts]].
 - Detail the places that [[Amadea]] visits, from [[Sprite-Light Conclave]] to other [[Enclave]]s and towns of [[Civilization]]s.
 - Detail the food of the caravan and of [[Amadea]]'s journey, the importance of cooking for their [[Cycle]] birthdays.
 - Detail the entire personality of the [[Eight-Wings of Lacrimosa]]
+- [[Demi-Human]] giant friend of [[Orphael]] who is a drummer that has a healthy relationship with his father and is the primary acoustics for [[Sephira]]'s fire dancing techniques. It has [[Void]] access to [[Reverberation Arts]] to make breakcore following [[Sephira]]'s super fast music. Despite all the musculature he is quite sensitive and loves [[Amadea]]'s violin sound and wants her to teach how to play despite being massive. Outside of combat, he helps in [[Iridia]] new [[Dance]]rs and the [[Civic]] fantasy plays. [[Ages]]
 
 ### Development Ideas
 
 - [[Franchise Potential]].
 - Spiritual traces as residual [[Pure Light]] related to [[Strand]]. (?)
 - Deepen [[Cosmic Motion]] and [[The Stars Are Alive]] cosmology to be full astro for [[Ages]] XI onwards. Bio seeding planet and magic with the [[Great Harmonic Loom]] as seeds for establishing [[Spellweaving]] in other planets.
-- Combat system inspired by Patapon + [[Spellweaving]] Chord Layering to create a stack of attacks that combines several [[Magic Arts]], real chords, and combinations of card rogue-like deckbuilding but with real-time components. Inspired by the effects of Brave Frontier with critical, bursts + HOI4 troop combat formations, and leader shock, burst, awe formations for rock paper scissors with Chaos Nightmare aesthetic on boss fights + Conductor as the [[Legend]] leading the fight. [[Soul-Key]] rhythm based music depending on whether it's staccato, legato, polyrhythm, ritardando or accelerando. Focus on creating strategy and the management of all your [[Magic Arts]] and resources. Gathering resources for stronger cards or channeling stronger [[Magic Arts]] by having a tempo fever that becomes the flow state. Securing higher score on the final chord stack. 6 hexes of zones of the map to direct terrain. Prep time over direct attacks, but the moment the prep unleashes is the climax.
-
-- Division of the combat system between Macro Level and Micro Level, macro level is team building, deck building, acquiring [[Magic Arts]], pinpointing the strategy of the conductor. Micro level is the conductor, the rhythm, chord layering stacks, the "Slay the spire" part of the game and where combat actually runs. It is possible to let fights auto resolve from the macro level, but some battles that are thought to be "Doomed" can be actually an epic victory if the player manages to win against all odds in the micro level.
-- The micro level combat consists of hitting rhythm combos based on the stack of [[Spellweaving]] chord layers, and for defense, the [[Abjuration Arts]] mostly rely on using the inverse frequency for which defending from the rhythm of the enemy stack deflects damage. Attacking and using the rhythm increases damage, defense is the inverse, hitting perfect can imbue up to a 25% damage and decrease damage by 45%. Some stack attacks can't be parried and require prep time to defend before like [[Lacrimosa]]'s [[The Call of the Dreamweaver]]. There are 6 positions of hexes 3 in front and 3 in back, they change based on the terrain and provide bonuses and unique interactions with the terrain's elements. 
 
 - "An [[Atonalis]] is a wound that outgrew its [[Humanity]]."
-- A [[Magical Catalyst]]
+
+- There are severe [[Legend Trait]]s that can be acquired by subjugation [[Events]] for each element, the most prominent are [[Drowning in Flux]] for neurological addition and| [[Crystalized in Delusion]] through conditioning for being [[Delusional]]. [[Drowning in Flux]] was first developed by the Velvet Cage in [[Ages]] IV, and [[Crystalized in Delusion]] by [[Miss Nyctilia]] in [[Ages]] V with the rise of the [[Dissonance League]] and her "Lucky Coin" which is a [[Hyperphantasia Arts]] and the first practitioner of the [[Butterfly Web Arts]].
+
+- [[Miss Nyctilia]]'s Lucky Coin is the [[Spellweaver]] she adopted and grew for essentially bend the ultimate luck to prevent herself from being murdered by the [[Exogenesis Threat]] and similar [[Atonalis]] by being in proximity with this young [[Spellweaver]] that she has in a [[Time Bubble]] [[Void]] Pocket within her hat as [[Dimensional Arts]]. This [[Spellweaver]] is conditioned to be her adopted children that she raised specifically for the indirect use of the [[Butterfly Web Arts]] without this children's exact ability to pinpoint how the magic works, and unconsciously burns their own memories to fuel the Luck spell that allows [[Miss Nyctilia]] to develop "plot armor" so long as she's shielded by the [[Resonance Field]] of the [[Crystalized in Delusion]] [[Spellweaver]]. _A demon can't ever harm you, if it can't ever hit you. And the best way to evade everything is bending every single domino that would pull you away from harm's way. All my immortality lies in my single, beloved Lucky Coin on the locket of my beautiful hat._
+
+- The Lucky Coin is a kid she desperately tried to rescue after the first [[Exogenesis Threat]] killed everyone but her, she adopted her as her son like Kiritsugu with Emiya. This kid is a powerful reality bender under the influence of [[Miss Nyctilia]] that wished to forget the horrors and go back to a different family even if it was a fabricated reality. When he awakens the powers of [[Crystal]] the first thing [[Miss Nyctilia]] teaches them is to create a shapeshifting magical twin joined to a [[Magical Catalyst]], then they forget the details and this creates a "twin" where in essentially is the same kid with delusions so potent they lie to themselves, and [[Miss Nyctilia]] plays house with them as the foster mother inside the time bubble, the reason he is trapped.
+
+- The time in time bubbles biologically can freeze if the time flows slower, but this doesn't mean immortality, what manages aging and death by age is the [[Soul-Key]]. not the physical body, which means if you have spent 80 years in a [[Time Bubble]] but leave, you will die immediately when joining normal flow of time given that the [[Soul-Key]] will register a shift for all of the time spent in the [[Time Bubble]]. This is the reason why [[Miss Nyctilia]] can't free the lucky coin without them dying as the kid essentially died a bunch of time ago but they're preserved only because of the existence of the [[Time Bubble]].
+
+- Add later to the clicker aspect rhythm of a song by matching the tempo with the clicks on when the notes fall, similar to how taiko no tatsujin functions, it yields much better results than merely clicking a lot, preventing auto clickers from being fully functional and adding an upgraded layer of rhythm, performance, and strategy to it. It ties directly to [[Click Power]].
+
+- Option of choosing the founding story at the beginning of [[Civilization]] on what built the cradle that began the entire story of [[Gateway To Genesis]], gives different parameters of [[Civilization]] [[Pillars]].
+
+- Piranesi [[Landmark]] to escape from horrors of knowledge and anything that is hunting someone, it requires surrendering the identity of oneself. Name + Voice + Face, to become nameless, voiceless, and faceless to continue surviving. It pushes the concept of what even is identity and a [[Fundamental Frequency]]. Tied to the [[Events]] of [[A Burrowed Name]].
+
+- [[Ages]] and [[Reincarnation]] tied to saving some stories after learning [[The Truth of Arcanoria]]. Can change the course of tragedies by intervening like saving [[Medea]], [[Vals Jenner]], [[Miss Nyctilia]], etc.
+
+- Division of the combat system between Macro Level and Micro Level, macro level is team building, deck building, acquiring [[Magic Arts]], pinpointing the strategy of the conductor. Micro level is the conductor, the rhythm, chord layering stacks, the "Slay the spire" part of the game and where combat actually runs. It is possible to let fights auto resolve from the macro level, but some battles that are thought to be "Doomed" can be actually an epic victory if the player manages to win against all odds in the micro level. Macro level can be auto resolved like total war systems but if [[Civilization]] manually conducts the battle a doomed one can become a legendary victory, mirroring how in real life Hannibal and Napoleon or other legends won fights they shouldn't have won. 
+
+- Combat system inspired by Patapon + [[Spellweaving]] Chord Layering to create a stack of attacks that combines several [[Magic Arts]], real chords, and combinations of card rogue-like deckbuilding but with real-time components. Inspired by the effects of Brave Frontier with critical, bursts + HOI4 troop combat formations, and leader shock, burst, awe formations for rock paper scissors with Chaos Nightmare aesthetic on boss fights + Conductor as the [[Legend]] leading the fight. [[Soul-Key]] rhythm based music depending on whether it's staccato, legato, polyrhythm, ritardando or accelerando. Focus on creating strategy and the management of all your [[Magic Arts]] and resources. Gathering resources for stronger cards or channeling stronger [[Magic Arts]] by having a tempo fever that becomes the flow state. Securing higher score on the final chord stack. 6 hexes of zones of the map to direct terrain. Prep time over direct attacks, but the moment the prep unleashes is the climax. [[Ages]]
+
+- The micro level combat consists of hitting rhythm combos based on the stack of [[Spellweaving]] chord layers, and for defense, the [[Abjuration Arts]] mostly rely on using the inverse frequency for which defending from the rhythm of the enemy stack deflects damage. Attacking and using the rhythm increases damage, defense is the inverse, hitting perfect can imbue up to a 25% damage and decrease damage by 45%. Some stack attacks can't be parried and require prep time to defend before like [[Lacrimosa]]'s [[The Call of the Dreamweaver]]. There are 6 positions of hexes 3 in front and 3 in back, they change based on the terrain and provide bonuses and unique interactions with the terrain's elements. Using the stack of cards is the phenomenon of "Visualization" of [[Crystal]] and [[Absolute Certainty]], that's why the player can see what will happen by selecting the cards before committing to them by performing the rhythm. This bridges the issue of not seeing what would happen like in slay the spire while making the final stack the real commit, the difference is the Visualization principle of [[Crystal]].
+- [[Divination Arts]] and [[The Registers of Magic]]
+
+- A [[Magical Catalyst]] can be either any of the classical alchemical elements on a distilled canalizable version, like [[Resonance Box]]es but they do require activity to begin vibrating, like [[Dear Fugue]]. The most common is [[Music as Catalyst]] or a [[Magical Relic]] after the [[Law of Relics]] is established.
+
+- Alyna like character from Madoka Magica + Homelander for [[Ages]] XI mirroring the [[Auric Aria]] and acting as her incarnation while being an antagonist of deeply delusional god [[Savior Complex]]. Poses like the statues of the [[Auric Aria]] trying to mirror her divinity as the one god in the sky. [[Ages]]
+
 - DLC of Gateway to Genesis of having mundane minigames of [[Civic]]s on how the [[Ages]] actually feel like, it's an optional inspired by Moonlighter, the Isekai Tavern Cooking Guilds, etc. They allow to go deeper into the life of a [[Legend]] by engaging in mundane minigames that help solidify the worldbuilding through flavor tasks that deepen the immersion and relationship to certain [[Legend]]s besides mythical fantasy.
 
 - Circular polarization for [[Time Bubble]]s and [[Probability Amplitudes]] folding upon themselves.
+
+- [[Leaf]] as a fairy on the [[Ages]] I as a core character inspired from Black souls. core character for the [[Age of Hymns]] for saving [[Medea]] and the [[Silver Blood]]s.
 
 - A slave to meaning holds a whip just so he can acts like he owns a slave bought by meaning. The truth is we all are slaves to something, and who he isn't is crushed by the [[Weight of Purpose]] by those who have enslaved themselves to one. Truly a tragedy where only the one free of nothing is the one most indebted.
 
 - [[Aurelian]]'s blind [[Resonance]] mentor invented the niche of [[Field Sensing Arts]].
 
-- Collapsing stars, neutron stars, super giants growing, and blackholes are the result of the [[Alien Star]]s trying to escape their prison, when a star grows it's the process of [[Outer God]] [[Consciousness]] trying to escape and then falling their [[Coherence]] being pulled by its own gravitational pull of [[Consciousness]], it either becomes a super prison as a neutron star, or a blackhole due to [[Auric Geometry]]. Blackholes are the [[Known Universe]] and the [[Stellar Veil]] trying to forcefully expulse out presence, a "Cosmic Sneeze" which is a one way conduit out into [[The Infinite Void]]. the "white holes" that we lack in the [[Known Universe]] is because the conduit leads to [[The Infinite Void]] past the event horizon, it uses the same principle as a [[Siphon Wolf Bomb]] which gives the sucking properties to a blackhole until it collapses by running out of [[Soliton]]s and matter, the hawking's radiation is the universe trying to heal and seal the [[Void]] it opened to expulse the [[Outer God]]. Supernovas exist in two types, as collapse of the [[Alien Star]]s or as the [[Auric Aria]] synapses depending on the type, stars "die" when they are released into [[Stardust]] if [[Constellation]], behave like neurons if primordial stars, and the explosions of the alien stars are different.
+- Collapsing stars, neutron stars, super giants growing, and blackholes are the result of the [[Alien Star]]s trying to escape their prison, when a star grows it's the process of [[Outer God]] [[Consciousness]] trying to escape and then falling their [[Coherence]] being pulled by its own gravitational pull of [[Consciousness]], it either becomes a super prison as a neutron star, or a blackhole due to [[Auric Geometry]]. Blackholes are the [[Known Universe]] and the [[Stellar Veil]] trying to forcefully expulse out presence, a "Cosmic Sneeze" which is a one way conduit out into [[The Infinite Void]]. the "white holes" that we lack in the [[Known Universe]] is because the conduit leads to [[The Infinite Void]] past the event horizon, it uses the same principle as a [[Siphon-Type Wolf Bomb]] which gives the sucking properties to a blackhole until it collapses by running out of [[Soliton]]s and matter, the hawking's radiation is the universe trying to heal and seal the [[Void]] it opened to expulse the [[Outer God]]. Supernovas exist in two types, as collapse of the [[Alien Star]]s or as the [[Auric Aria]] synapses depending on the type, stars "die" when they are released into [[Stardust]] if [[Constellation]], behave like neurons if primordial stars, and the explosions of the alien stars are different.
 
-- [[Domestication Enclave]] Alexander on a quest for cataloguing all [[Pure Light]] beings while doing an expedition with [[Augusitus]] for early navigation using domesticated animals as a water chariot. The selling of exotic animals as pets is what brings a moral dilema just liie [[Augusitus]] with the Velvet Cage.
+- [[Domestication Enclave]] Alexander on a quest for cataloguing all [[Pure Light]] beings while doing an expedition with [[Augusitus]] for early navigation using domesticated animals as a water chariot. The selling of exotic animals as pets is what brings a moral dilemma just like [[Augusitus]] with the Velvet Cage.
 - Visualization as a tenet of [[Absolute Certainty]] and [[Crystal]].
 - Law of Assumption as a tenet of [[Crystal]].
 - Clarity of Action as a tenet of [[Sufficient Precision]] and [[Luminance]].
@@ -136,9 +164,22 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 
 - The [[Cycle]]s and [[Ages]] have the palindrome of the [[Seventh]] defined, the gap between how many [[Cycle]]s does it take for [[Civilization]] to progress depends on the tether of the Third Actor, they are gazing at [[Arcanoria]] from a place even beyond [[The Infinite Void]], this explains the difference in how they perceive the passage of time. They are beyond time and normal [[Coherence]] that rules [[Arcanoria]]. The [[Auric Aria]] notices this after finishing the Sonata of [[Arcanoria]] and figuring out that the Third Actor is [[Consciousness]] without [[The First Overtone]] from somewhere even further than [[The Infinite Void]]. They are peering and interacting with the veil from somewhere before the [[Original Ripple]] which is why they are the [[Cosmic Motion]] that put the [[Original Ripple]] and all of existence in motion.
 
-- The Aztec Calendar [[Cycle]] of the Fifth Sun refers that the world will end by earthquakes and tremors but the seismic activity is not natural, it refers to the seismic activity of the denotation of nuclear bombs. This idea will be the same cycles having the [[Cataclysmic Aftermath]]s and they refer to the great filters. The "tremors" of [[Arcanoria]] refer to the [[Wolf Bomb]], the prophecy speaks about a tone, but it doesn't make sense until the [[Siphon Wolf Bomb]] appears which explains retroactively that the prophecy wasn't a magical imagination idea, it was in fact describing [[Soliton]]s and complex physics that no one in that age could even fathom existing.
- 
+- The Aztec Calendar [[Cycle]] of the Fifth Sun refers that the world will end by earthquakes and tremors but the seismic activity is not natural, it refers to the seismic activity of the denotation of nuclear bombs. This idea will be the same cycles having the [[Cataclysmic Aftermath]]s and they refer to the great filters. The "tremors" of [[Arcanoria]] refer to the [[Wolf Bomb]], the prophecy speaks about a tone, but it doesn't make sense until the [[Siphon-Type Wolf Bomb]] appears which explains retroactively that the prophecy wasn't a magical imagination idea, it was in fact describing [[Soliton]]s and complex physics that no one in that age could even fathom existing.
+
+- [[Weight of Value]] Guru: 
+  "The highest form of love for your child is to never bring them into existence. Whether you're the richest most good looking person or a deformed god forsaken vagrant you will experience suffering anyway because suffering in life is inevitable."
+- "Pain is inevitable, suffering is a choice."
+- "No, you don't see that not existing guarantees no suffering, and you won't be missing in the joys of life because you don't exist to desire them. Thinking on anything else is selfish."
+- "That's why existence is so precious, a universe without [[Consciousness]] is or life is one completely devoid of meaning."
+- "We don't have meaning."
+- "Yes, we don't. That's the [[Weight of Purpose]], but we are the source of the meaning. The universe is meaningless dark silence and static until someone is there to observe it. That's how anything gains value, one that wouldn't be proven without conscious existence. You are the reason even your argument has some semblance of value."
+
 - Conflicts in the [[Old Testament]] with [[Original Eight]], cutting several of them apart and preventing the [[Atonalis]] Reign of the [[Morpheus Abysmal]], no motivation to conquer the world because no [[Lacrimosa]] or [[The Hollowing]] happened. [[Violux]] interaction with the [[Auric Aria]].
+
+- On the nature of suffering:
+- "But what's the point of life if there's no suffering, if everything was perfect it would be insanely, consonantly boring."
+- "If the world was perfect, it would be very happy. In a perfect world boredom doesn't exist and neither does [[Dissonance]]."
+- "No, you don't understand a thing. A perfect world would have no substance, you wouldn't understand what happiness means, and boredom would definitely exist. Suffering is literally what makes we feel things even more deeply, and what gives any meaning to love, sacrifice, courage, or anything of what you value as [[Consonance]]. Contrast is everything!"
 
 - [[Arcanoria]]'s counterpart to the great classics are Amadeus Mozart as [[Amadea]]. Beethoven is [[Ludwine]], the deaf girl that falls in love with [[The Eight-Tongued King]] during the [[Atonalis]] [[Age Crisis]] of [[Ages]] IV that makes all of the personalities of the [[Morpheus Abysmal]] have [[Coherence]] for a moment before dying. "Fur Elise" becomes "Fur Morpheus."
 
@@ -189,7 +230,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 
 - A Braum / Brook resilient type of physically robust character that teaches that if you pull through all the muck in life eventually you'll get a good ending and that the stars in the sky are those very same stories of who eventually made it through it all. Related to "My first moral and magical duty is to protect my own [[Soul Leitmotif]]. I cannot be your Source of [[Resonance]]. You have to sing for yourself but I can be here to help you." Character.
 
-- An [[Institute]] traumatized children of hearing the crack of [[Soul Leitmotif]]s as a lot of his fellow friends turned into [[Atonalis]] and made him identify the cracking as the greatest sign of danger.
+- An [[Institute]] traumatized children of hearing the crack of [[Soul Leitmotif]]s as a lot of his fellow friends turned into [[Atonalis]] and made him identify the cracking as the greatest sign of danger during [[Ages]] V. Resurfaces on the [[Age of Hyperphantasia]].
 
 - [[Legend Relationship]]s between [[Legend]]s up to 7 important characters, can be friends, lovers, soulmates, mentors, etc. It is bidirectional and it changes based on the [[Legend]]. For the falling in love meter, [[Legend]]s have different love meters, and they change their crush type (Yanderes, Tsunderes, Love Types) based on their personality [[Legend Trait]]s.
 
@@ -197,11 +238,13 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 
 - Magical artifacts being woven, strong reality bending artifacts contain the [[Soul Leitmotif]] and [[Consciousness]] of a powerful being. Limited use cases before they depart and come on with [[The Eternal Symphony]]. It's a sort of [[Flesh-Casing Ritual]]. Akin to white whistles in Made in Abyss.
 
-- [[Legend Title]]s: "Tamer of Terrors", "White Lightning", "The Black Assassin", "The Unconquerable", "The Golden Tyrant.", "The Throneless Sovereign.", "The Fool of Existence.", "Nihilistic Thinking Machine.", "Apostle of Chaos.", "The Masks of Suffering.", "The 'Kindest'."
+- [[Legend Title]]s: "Tamer of Terrors", "White Lightning", "The Black Assassin", "The Unconquerable", "The Golden Tyrant.", "The Throneless Sovereign.", "The Fool of Existence.", "Nihilistic Thinking Machine.", "Apostle of Chaos.", "The Masks of Suffering.", "The 'Kindest'." [[Original Eight]]
 
 - Bridal Conquest [[Civic]] story inspired by the Mullan defection after being thrown out for being a woman, she now fights on the opposite side with the barbarians after being spared her life in combat and given a chance to avenger her own name against the nation that left her to die. Fanfic of Desertores.
 
 - "Conflict and tragedy create friction, and friction creates [[Ballad]]s." [[Auric Order]].
+
+- [[Telemetry Arts]] somewhere with [[Luminance]] + [[Flux]]
 
 - [[Erosyx]] [[Atonalis]] born from a gay dude refusing his identity and projecting his trauma to suppress others from displaying any semblance of homosexuality.
 

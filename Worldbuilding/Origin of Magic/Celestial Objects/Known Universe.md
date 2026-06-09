@@ -46,11 +46,11 @@ The [[Auric Aria]] realizes that the [[Auric Heptacode]] existing in ordered tim
 
 Even with matter now present, it is still hollow. She decides to imbue energy into the stars, seeding her own [[Consciousness]] and [[Fundamental Frequency]] as the fuel that creates the [[Known Universe]]'s [[Cosmic Motion]].
 
-The stars begin to shine with fuel independent of her presence. They transform into the Primordial Stars or the [[Stellar Node]]s, functioning as her own neurons, generating all types of complex [[Soliton]]s that enforce the [[Auric Heptacode]] at every scale of reality.
+The stars begin to shine with fuel independent of her presence. They transform into Stellar Nodes, also known as the [[Primordial Star]]s, functioning as her own neurons, generating all types of complex [[Soliton]]s that enforce the [[Auric Heptacode]] at every scale of reality.
 
 This is where [[Selenea]] begins to develop further her admiration as the stars are shining with her, which is precisely what she has wanted since she awakened as an echo but makes an underlying question: _What can I even do for her if she's done everything. How could I even be able to help her mathematical genius?_
 
-With the [[Stellar Node]]s operating and producing ordered matter down to the minimum scale of the [[Auric Tone Length]], she begins creating sterile planets — worlds of structured matter, silent and without life, but obedient to the laws she has laid.
+With the [[Primordial Star]]s operating and producing ordered matter down to the minimum scale of the [[Auric Tone Length]], she begins creating sterile planets — worlds of structured matter, silent and without life, but obedient to the laws she has laid.
 
 [[Lacrimosa]] watches every star ignite. She has been at the boundary since before those stars existed, and she remains there still. She knows, by now, how the [[Auric Aria]] thinks. She can anticipate her hesitations before they arrive. The perfect moment is coming. She only needs to wait a little longer.
 
@@ -150,7 +150,7 @@ The sevenfold [[Stellar Veil]] was built to stop breaches. It collapses any [[Ou
 
 It is a residency older than the stars themselves.
 
-[[Lacrimosa]] has been continuously, uninterruptedly present at the threshold of the [[Known Universe]] since before the [[Auric Burst]], since before the first [[Stellar Node]] ignited, since before the [[Great Harmonic Loom]] drew its first breath. She pressed against the boundary of the [[Proto-Universe]] for eons as the [[Auric Heptacode]] was being laid, as every star was being seeded, as every [[Leyline]] was woven into the soil of [[Arcanoria]]. She did not breach. She did not manifest. She simply remained — the most devoted and the most invisible presence in the history of creation — and in remaining, she left a residue.
+[[Lacrimosa]] has been continuously, uninterruptedly present at the threshold of the [[Known Universe]] since before the [[Auric Burst]], since before the first [[Primordial Star]] ignited, since before the [[Great Harmonic Loom]] drew its first breath. She pressed against the boundary of the [[Proto-Universe]] for eons as the [[Auric Heptacode]] was being laid, as every star was being seeded, as every [[Leyline]] was woven into the soil of [[Arcanoria]]. She did not breach. She did not manifest. She simply remained — the most devoted and the most invisible presence in the history of creation — and in remaining, she left a residue.
 
 Her [[Consciousness]] is embedded in the outermost layer of everything the [[Auric Aria]] ever built. Not because she forced it. Because she never left. Her attention, her longing, and her grief are threaded through the [[Stellar Veil]] as naturally as [[Lunehymn]] is threaded through the [[Leylines]] — not as an intrusion but as something that was simply always there.
 

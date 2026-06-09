@@ -20,7 +20,6 @@
   "uncolorDrag": false,
   "uncolorSelect": false,
   "uncolorQuick": false,
-  "rememberDeletedItems": false,
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
@@ -34,7 +33,8 @@
       "icon": "⚙️",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Game Systems/Environment Logic.md": {
@@ -53,56 +53,64 @@
       "icon": "📸",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Auric Order": {
       "icon": "lucide-clock-plus",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Bestiary": {
       "icon": "lucide-paw-print",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Biomes & Ages": {
       "icon": "lucide-tree-pine",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Chaos, Atonalis, Monsters": {
       "icon": "lucide-cloud-moon-rain",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Characters": {
       "icon": "lucide-users",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Cosmic Objects": {
       "icon": "lucide-moon-star",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Deities": {
       "icon": "lucide-sun-snow",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Gateway To Genesis.png": {
@@ -112,21 +120,24 @@
       "icon": "lucide-wand-sparkles",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Tools & Inventions": {
       "icon": "lucide-cog",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Images/Weapons & Relics": {
       "icon": "lucide-swords",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "README.md": {
@@ -135,28 +146,32 @@
     "Sonata of the Violet Empress": {
       "icon": "📖",
       "unsynced": [
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Sonata of the Violet Empress/Meta Analysis": {
       "icon": "sidebar-toggle-button-icon",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding": {
       "icon": "🗺️",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Events": {
       "icon": "⭐",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Events/Achievement.md": {
@@ -166,14 +181,16 @@
       "icon": "lucide-clock-plus",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Events/World Events": {
       "icon": "lucide-globe-2",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Gateway To Genesis.md": {
@@ -183,7 +200,8 @@
       "icon": "lucide-snowflake",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas": {
@@ -196,14 +214,16 @@
       "icon": "lucide-sun-snow",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Mythology/Mythos": {
       "icon": "lucide-wallpaper",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Mythology/True Mythos of Creation.md": {
@@ -213,56 +233,64 @@
       "icon": "lucide-orbit",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Origin of Magic/Bindings & Elements": {
       "icon": "lucide-align-vertical-justify-end",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Origin of Magic/Celestial Objects": {
       "icon": "moon",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Origin of Magic/Conduits of Magic": {
       "icon": "lucide-arrow-up-left-from-circle",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Origin of Magic/Magical Resources": {
       "icon": "lucide-kanban-square-dashed",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Origin of Magic/Root of Evil": {
       "icon": "lucide-cloud-moon-rain",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Origin of Magic/Spellweaving": {
       "icon": "lucide-wand-sparkles",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Origin of Magic/The One Symphony": {
       "icon": "🇮🇴",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Origin of Magic/The Principles of Magic.md": {
@@ -272,7 +300,8 @@
       "icon": "lucide-droplets",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Rise & Fall, Crisis/Arcanoria.md": {
@@ -282,42 +311,48 @@
       "icon": "lucide-pocket-knife",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time": {
       "icon": "lucide-timer-reset",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic": {
       "icon": "lucide-timer",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Society": {
       "icon": "lucide-message-circle-heart",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Society/Auric Order": {
       "icon": "lucide-sunrise",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Society/Characters": {
       "icon": "lucide-users",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Society/Civilization.md": {
@@ -327,91 +362,104 @@
       "icon": "lucide-person-standing",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Society/Stellar Legacy": {
       "icon": "lucide-stars",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Society/Tools & Inventions": {
       "icon": "lucide-cog",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Society/Weapons, Instruments & Relics": {
       "icon": "lucide-swords",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Truths, Chaos, Rituals": {
       "icon": "distribute-space-horizontal",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Truths, Chaos, Rituals/Forbidden Objects": {
       "icon": "lucide-bookmark",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths": {
       "icon": "lucide-search-code",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Truths, Chaos, Rituals/Old Testament": {
       "icon": "lucide-book-x",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Truths, Chaos, Rituals/Outer God Rituals": {
       "icon": "lucide-scan-eye",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/Truths, Chaos, Rituals/Spellweaving Rituals": {
       "icon": "lucide-leafy-green",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/World Environment": {
       "icon": "lucide-trees",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/World Environment/Atonalis": {
       "icon": "lucide-cloud-moon",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/World Environment/Bestiary": {
       "icon": "lucide-dog",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas": {
@@ -421,28 +469,32 @@
       "icon": "lucide-tent-tree",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/World Environment/Civilizations": {
       "icon": "lucide-flag",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/World Environment/Enclaves": {
       "icon": "lucide-shield-question",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     },
     "Worldbuilding/World Environment/Landmarks": {
       "icon": "lucide-land-plot",
       "unsynced": [
         "d48e64e7bb66fb41",
-        "01eed68794367206"
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
       ]
     }
   },
@@ -451,5 +503,6 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [],
-  "folderRules": []
+  "folderRules": [],
+  "rememberDeletedItems": false
 }

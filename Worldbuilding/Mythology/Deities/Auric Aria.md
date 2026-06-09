@@ -2,7 +2,7 @@
 
 [[The One True God]] | [[Deific Moodboard.canvas|Deific Moodboard]]
 
-[[Legend Title]]: The Golden Sovereign, the Brightest Star, the Auric Radiance, the Golden Song.
+[[Legend Title]]: The Golden Sovereign, the Brightest Star, the Auric Radiance of Dawn, the Golden Song.
 
 [[Primary Instrument]]: [[Goldweaver Auric Harp]], [[Own Voice]]
 [[Armament]]: None 
@@ -26,7 +26,7 @@
 
 ![[Auric Aria.mp4]]
 
-[[The One True God]], creator of the [[Known Universe]], the [[Auric Heptacode]] and the [[Trinity Harmony]]. Creator of the realm of [[Arcanoria]] and, eventually, life alongside [[Selenea]]. She also Introduced the original [[Dissonance]] as [[Primal Discordia]] and [[Formless Masses]] during the [[Fifth Cycle]] at the [[First Weaving of Life]].
+[[The One True God]], creator of the [[Known Universe]], the [[Auric Heptacode]] and the [[Trinity Harmony]]. Creator of the realm of [[Arcanoria]] and, eventually, life alongside [[Selenea]]. She also Introduced the original [[Dissonance]] as [[Primal Discordia]] and [[Formless Masses]] during the [[Fifth Cycle]] at the [[First Weaving of Life]]. [[Auric Order]]
 
 During the [[Seventh Cycle]] she betrayed [[Selenea]] binding her in the [[Moon]] in the first [[Celestial Ensnaring Mirror]] to appropriate the power of breathing vitality in order to create [[Humanity]]. Her element is [[Aetherlight]] with [[Emberwhisper]] being the refining material from the crystalized theft of the [[Betrayal of the Moon]].
 
@@ -40,12 +40,15 @@ Characterization & Quotes
 
 ### Queries of Divine Communion
 
+![[Auric Aria Emotion 2.png]]
+
 **On the Formless Masses: The Children She Cannot Acknowledge
 
 _"They are undoubtedly me, or at least the pure "me" in a sense... Every twisted, screaming, half-made [[Consciousness]] is a piece of my doubt in a horrible materialized form. I created them by accident and desperately came to the first revelation to my innate lack of power or well, [[Sufficient Precision]], on the very same laws I created. For a while, I pretended they were not my fault. I blamed the nature of creation, the inherent imperfection of weaving something that has a [[Consciousness]] too in the chaos of existence. But they are my children, just as much as [[Humanity]] is my child—perhaps more so, because they are the only thing I ever created without trying to control what they would become, or maybe it is because I cared too much about what they would be. I guess they are the most authentic expression of myself in the entire cosmos. And I have spent every age since their birth trying to erase them, or hide from them, or build systems to keep them imprisoned. What does that say about what I think of myself?"**_ [[Lacrimosa]].
 
 **On Mathematics and [[Auric Geometry]]**
 
+![[Auric Aria 3.png]]
 **On [[Syvanth]] and [[Auric Geometry]]**
 
 **On the Problem of Zero**
@@ -90,6 +93,8 @@ _"And the worst part — the part I cannot make clean no matter how many [[Cycle
 
 ### Character Details
 
+![[Auric Aria Emotion 1.png]]
+
 - The [[Formless Masses]] and the [[Atonalis]] are so persistent because when the [[Auric Aria]] originally wove life, she wanted to make her durations durable so that they wouldn't suffer if their physical form faltered. She originally wanted all of them to exist limitless of decay in her desired paradise, this is the reason why when everything inverts the [[Inevitability of Death]] gets introduced. She succeeded at making them very durable which is why 100% [[Auric Structure]] is so persistent. However, in trying to make her creation not suffer, she made them suffer eternally because they're not frail enough to just dissolve back into static which increases the size of the tragedy of her rotting paradise.
 
 - The [[Auric Aria]] is as much of a great artist and weaver as she is a physicist and allegedly "mathematician" in [[Arcanoria]], her intellect is rivalled only by [[Lacrimosa]]'s perfect clarity. She actively enjoys when any creation understands the underlying structure of her [[Auric Geometry]], and tries for [[Humanity]] to come to these conclusions themselves by analyzing universal constants that she deliberately left as guidance, like e or π. Out of these, her favorite is the golden ratio, and for such she used it to determine aesthetics. This is why a few scholars in the [[Age of Enlightenment]] believe the [[Auric Aria]] herself is the golden ratio.
@@ -97,11 +102,11 @@ _"And the worst part — the part I cannot make clean no matter how many [[Cycle
 - The [[Auric Aria]] views [[Humanity]]'s mathematics with intrigue and wonder, she primarily views it as a cute attempt that is not entirely wrong about her [[Auric Geometry]]. She acknowledges it's not exactly what designs the cosmos and has significant theoretical and physical contradictions, particularly on the subject of 0 and how it handles paradoxes, but ultimately she appreciates the effort that [[Humanity]] created its own language to try to talk with the [[Mastery Over Chaos]] she established within the [[Auric Heptacode]]: _"I love that my creations made their own language to understand the [[Auric Geometry]], it's equal parts wonderful as it is cutely naive. It does paint part of the overarching picture but it could use some refinements in a few critical logical instances, especially on something called 'Zero,' although I'm sure one day they will resolve them with a new system that combines the current strengths of their 'mathematics.' Still, I value the love language, they made to resonate with me in the reality I made for them."_
 
 - After advancing the [[Sonata]] of the Golden Sovereign, [[Civilization]] can directly ask her what is wrong with their current mathematical understanding and she replies with a few hints: 
-
+	
 	- **On Zero:** _"Let me think how I can put it for you. The problem with your 'Zero' is that you are trying to treat an isolated version of [[Resonance Anchors]] (0) that is actually a boundary condition of the [[Great Harmonic Loom]] as if it were just another scalar and, even worse, as a binary condition. Of course your equations melt. There can't be any 'undefined' in a framework built to always stay within [[Coherence]] of structure. And that still has to differentiate the most interesting property of your 'Zero' which is [[Superposed Resonance]]. Nothing contains everything of all, including the 'nothing' of this very conversation as [[Probability Amplitudes]]! See? That's not exactly a 'number.'"_
 	
 	- **On Paradoxes:** _"I think the big problem with paradoxes is that your axioms, if left naive, let you derive everything — including nonsense. And some of these 'self‑referential paradoxes' are the natural endpoint of language flaws, not [[Auric Geometry]] flaws. That's why it's important to distinguish the object level from the meta level of the [[Known Universe]], and all the tiers scaffolding in between... but oh well, don't mind it that much, I'm sure one day you'll understand exactly what I'm talking about. I'll only hint that this last part is exactly what the [[Auric Heptacode]] is for!"
-  
+	  
 - The [[Auric Aria]] enjoys whenever any sentient life understands the fabric of [[Cosmic Motion]], and is willing to teach and guide through scripture these foundational blocks of reality. However, during the [[First Reset]] she was explaining the concepts directly, which ironically created dependency, and for [[Humanity]] to wait for the [[Auric Aria]] to give them the answers instead of using science and logic. This was her breaking point in realizing the Golden Sovereign tyranny because even if she was eager, no one asked her about [[Auric Geometry]] anymore. After then, she realized that giving them the concepts of science and how the world is built and teaching them how to figure it out by themselves are two very separate things, for which she now uses indirect approaches instead when explaining the foundation of reality.
   
 - The [[Auric Aria]] and by extent the [[Auric Order]] see philosophy and science as the natural way to commute with the heavens. For the [[Auric Order]], mathematics, physics and logic are a core tenet to theological virtues. As such, this is the reason why Revelation comes immediately after [[Piety]]. There is one fine line however with hazardous knowledge because _"Knowing while being dead is effectively worthless."_ which is the primary driver of the [[Auric Order]] of structure and safety, deeming certain topics existentially dangerous, such as [[Scorching Truth]]s.
@@ -120,6 +125,8 @@ _"And the worst part — the part I cannot make clean no matter how many [[Cycle
 
 ### The [[Auric Aria]]'s Journey & Character Arc
 
+![[Auric Aria Emotion.png]]
+
 **Phase 1: The Off-Key Note of the Symphony (Solitude → Creation as meaning)**
 
 **Before the [[Known Universe]].**
@@ -135,6 +142,8 @@ _"And the worst part — the part I cannot make clean no matter how many [[Cycle
 
 **Key Character Trait Formation**: The need for resolving her own [[Jealous]] [[Legend Trait]] with the [[Ambitious]] [[Legend Trait]] of her own will to combat her solitude and lack of meaning against the [[Weight of Purpose]]. [[True Mythos of Creation]]
 
+![[Auric Aria.png|637]]
+
 **Phase 2: The Golden Sovereign of the [[Known Universe]] (First Staggering Victory in [[Mastery Over Chaos]] → Need for a [[Perfect Reflection]] distinct from just order and matter)**
 
 **Before [[Arcanoria]] and the first four [[Cycle]]s of the [[Seven-Cycle Creation]].**
@@ -145,6 +154,8 @@ _"And the worst part — the part I cannot make clean no matter how many [[Cycle
 - She realizes her creations — stars, nebulae, and landscapes — are structurally perfect but ontologically hollow, entirely disconnected from herself.
 - She resolves to create [[Arcanoria]] as a realm of ordered matter and magic to serve as the ultimate recipient and statement of her [[Mastery Over Chaos]].
 - Suffocating fear that she will never be good alone on her own.
+
+![[Auric Aria 2.png]]
 
 **Phase 2: The Trembling Hand (Doubt → Original Dissonance)**
 
@@ -157,6 +168,8 @@ _"And the worst part — the part I cannot make clean no matter how many [[Cycle
 - Her [[Jealous]] [[Legend Trait]] evolves into [[Impostor Syndrome]].
 
 **Core**: Unilateral creation poisoned by anxiety → The physical manifestation of divine doubt. **The Tragedy of Creation**: The suffering in the world is not a biological necessity, but a magical flaw introduced by her fearful heart. **Psychological Shift**: From a confident architect of the cosmos to a terrified, flawed artist paralyzed by her own mistakes.
+
+![[Auric Aria 1.png]]
 
 **Phase 3: The Envious Betrayal (Inadequacy → Usurpation)**
 
@@ -277,7 +290,7 @@ The timeline of the [[Genocides of the Auric Aria]] stem from her Pilgrim with C
 - The [[Auric Aria]] remains distant so to not cause a disaster like the [[First Reset]]
 - [[Piety]] and prayer goes to a silent god
 - [[Lacrimosa]] and [[The Hollowing]] become [[The Undeniable Moon]]
-- [[Lacrimosa]] and [[The Birth of the Tetrad Chord]] breaks reality
+- [[Lacrimosa]] and [[The Birth of the Hyper Chord]] breaks reality
 - The [[Auric Aria]] intervenes for the first time since the [[First Reset]]
 - [[Civilization]] advances until the [[Polychord Crisis]]
 - [[Civilization]] dies and ends the [[Second Reset]]

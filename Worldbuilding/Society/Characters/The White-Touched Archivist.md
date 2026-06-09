@@ -258,15 +258,39 @@ Due to his enigmatic nature and sometimes hazardous knowledge, [[The White-Haven
 
 - **The More Permanent Tethers are Filled with [[Atonalis]]:** This is a very paradoxical property because the strongest [[Resonance Anchors]] linking the impossible entrances of [[The White-Haven Library]] tend to be filled with [[Atonalis]] nests which makes a lot of regular people think he is the [[Atonalis]] King. This, however, could not be further from the truth. The [[Atonalis]] that appear nearby, particularly [[Anxithor]], do this because the demons themselves fear [[The White-Touched Archivist]]. The [[Atonalis]] are scared of him, and that's why they group in his [[Resonance Anchors]] because they want to wipe them out but since they are too dangerous to dismantle, they instead tend to group around in a permanent preemptive strike before [[The White-Touched Archivist]] appears or before anyone attempts to make contact with him. _"If there's a leader for all the demons, it has to be him and the [[Atonalis]] army that defends the doors of that forsaken palace."_
 
-
-
-### Quotes On Characters
+### Quotes On Characters and [[Events]]
 
 **About The [[Void]] [[Mythical Virtuoso]]:** _"[[Amadea]]. Lover of God. And what does God give to those who love her? I do respect that her music never stopped to silence. It only transformed — from his manuscript to [[Iridia]]'s circlet, from a forgotten page by the riverside to the undeniable star of [[Amadea]]."_
 
 **Why is there no [[Great Plague]] nor [[The Inescapable Hunger]] in the [[Old Testament]]?** _"Even if the [[Auric Codex]] was cruel, it never was wrong. All of the tenets of the [[Auric Aria]] did serve a functional purpose. The real misfortune is that its very nature became the tool of purification, injustice, and eradication, all as the moral engine of tyranny. She did prevent the catastrophic imbalances of the [[Dual Confluence Stream]], gave early [[Humanity]] the tools they needed to not starve each other, grow her [[Auric Peach]]es to perfection. yet her intervention caused another set of [[Age Crisis]]. Who is to judge the executioner who acts a savior until the very day of judgement? [[Humanity]]'s hubris — albeit in a timeline free of her grip, for better or for worse."_
 
 **Why did the [[Seven Archangels]] live such different lives in the [[Old Testament]] and the [[New Testament]]?** _"There are some that would have never been born in the [[New Testament]]. I am the living example, for my caregivers can't exist either in any ensuing [[Divine Reset]]. Some souls, however, were young enough to rise during the early [[Ages]], destiny, perhaps? But to be born anew in a world devoid of the qualities that made one life of grandeur can only lead to an entire distinct [[Magnum Opus]]. [[Selah]] never changed, only her god did, [[Uriel]] never lost her flame, it only turned to bread. [[Aurelian]] remade an empire that found his way back to her as the new [[Auric Order]]. The true beauty of the [[Weight of Potential]] are how the [[Probability Amplitudes]] of fate contain all the possible endings of what a life could be, before it decides to sign in [[The Eternal Symphony]], all equally valid, all equally haunting."_
+
+**[[Old Testament]] vs [[New Testament]] [[Silver Blood]]s:**
+
+_"The paradox of the [[Silver Blood]]s that you have identified is a central, tragic irony within the [[Auric Aria]]'s God Paradox. While it seems logical that the [[Silver Blood]]s (the lineage biologically attuned to [[Selenea]] and [[Lunehymn]] magic) would thrive in the [[New Testament]] without the [[Auric Aria]]'s tyrannical rule, the exact opposite is true."_
+
+_"How? You may ask, well, the reason for this discrepancy lies in how the [[Auric Aria]]'s profound guilt manifested in each timeline, and the brutal reality of what happens to [[Humanity]] when left entirely to its own devices."_
+
+_"**In the[[ Old Testament]]: Tyranny originated as Protective Atonement:** During the [[Old Testament]] (the [[First Reset]]), the [[Auric Aria]] intervened directly in [[Civilization]]. Although her rule eventually escalated into severe tyranny and inquisitions, her specific actions toward the [[Silver Blood]]s were driven by deep, unresolved remorse over her original cosmic sin that gave life to all in [[Arcanoria]], and the [[Leylines]]: the [[Betrayal of the Moon]]."_
+
+_"However, on her return, and to atone for imprisoning her co-creator [[Selenea]], the [[Auric Aria]] exhibited deliberate benevolence toward [[Selenea]]'s children. It would make no sense if you didn't know her, but she's a complex tragic case of [[Impostor Syndrome]]. She actively protected the [[Silver Blood]]s, taking care of them as a vital part of [[Humanity]] and integrating them into the [[Aureus Pillar]]. Under her direct governance:"_
+
+- _"**[[Medea]]**, a prominent [[Silver Blood]], was elevated to the highest ranks of divine authority, serving as the second of the [[Auric Aria]]'s elite [[Seven Archangels]]."_
+- _"When the puritanical factions of the [[Auric Order]] attempted to formally enforce the doctrine of "[[Perfect Reflection]]"—a law that would demote [[Lunehymn]]-dependent beings to secondary citizens—**the [[Auric Aria]] immediately rejected the idea specifically to protect the [[Silver Blood]] lineage**. The only reason this passed was due to the [[Massacre of Phoebe]] taking almost the life of [[Medea]] and [[Selah]]."_
+- _"Even when political tensions caused the [[Silver Blood]]s to be targeted by assassins, the [[Auric Aria]] granted [[Medea]] exceptional status protection and hid her away to keep her safe after the law had passed."_
+
+_"Thus, under the [[Auric Aria]]'s heavy-handed, guilt-driven protection, the [[Silver Blood]]s thrived. Paradoxically, it was her absolute refusal to let the [[Auric Order]] purge a [[Silver Blood]] community that eventually ignited the apocalyptic civil war of the heavens known as "[[Paradise Lost]]". This would have been resolved much easier if she was a ruthless tyrant who didn't care for anything but her [[Perfect Reflection]], or at least she wouldn't have suffered nearly as much due to her empathy."_
+
+_"**The [[New Testament]]: We are driven by delegation at best, and non-intervention at worst, with Internal Human Betrayal** In the [[New Testament]] (the [[Second Reset]] onwards), the [[Auric Aria]] was heavily traumatized by the catastrophes of the [[First Reset]]. Believing that her direct intervention only caused tyranny and harm, she withdrew into absolute silence and non-intervention."_
+
+_"However, without the [[Auric Aria]]'s protective divine hand, [[Medea]]'s [[Silver Blood]] kingdom was left vulnerable to human greed, ambition, and internal fracture. In this timeline, the [[Silver Blood]]s were not destroyed by an [[Outer God]] or by divine wrath; **they were destroyed by their own people**."_
+
+_"Acting as the founder and sovereign of the kingdom, [[Medea]] was betrayed by her own closest confidants, most notably on the legend of her adopted son named [[Junius]]. She was brutally stabbed thirty-three times and left to die alone in a pool of her own silver blood on the steps of her throne."_
+
+_"Following [[Medea]]'s assassination, the kingdom completely collapsed from the inside out. The noble families who survived—including the ancestors of characters like [[Cordelia]]—rebuilt their power on the ruins of [[Medea]]'s dream. Because the survivors were either complicit in the assassination or stood by while it happened, the remaining Silver Blood descendants became a fractured, marginalized people carrying the psychological residue of that original betrayal."_
+
+_"**That is the Core Irony!** The [[Silver Blood]]s thrived more in the [[Old Testament]] because the [[Auric Aria]]'s tyranny included a fiercely protective mandate to keep [[Selenea]]'s lineage safe as a form of personal penance. In the [[New Testament]], her non-intervention proved that without a god forcing humanity to tolerate them, human political corruption and betrayal were perfectly capable of destroying the [[Silver Blood]] kingdom all on their own."_
 
 
 

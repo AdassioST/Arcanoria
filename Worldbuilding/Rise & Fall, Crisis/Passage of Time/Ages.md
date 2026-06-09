@@ -8,7 +8,10 @@ The diagram of all [[Ages]] is the following:
 
 Excess [[Era Score]] above the required for a [[Golden Age]] becomes points that can redeem failed [[Age Crisis]] checks. Even if [[Civilization]] performs poorly during an [[Age Crisis]], it can be saved by the excess [[Era Score]] to go back into a [[Golden Age]] or resist a [[Dark Age]]. Additional [[Era Score]] is a saving grace buffer for [[Ages]] transitions.
 
-### Age 0 (Stone Age)
+## The 14 [[Ages]] of [[Arcanoria]]
+
+### Tier 1: Foundational [[Ages]]
+#### Age 0 ([[Ages]] of [[Cataclysmic Aftermath]] | Stone Age)
 
 3 [[Act of Fate]].
 
@@ -18,11 +21,11 @@ Flickering Staccato Rhythm. Unreliable [[Unison]] and [[Dyad]] Spells. Mostly [[
 - [[Age of Desolation]] | Not Aligned with [[Pillars]] ([[Age Crisis]]: [[The Inescapable Hunger]]) | Dark Fantasy
 - [[Age of the Wolf Tone Winter]] | [[Waltz Pillar]] (Attainable after the Second [[Cataclysmic Aftermath]])
 
-The [[Age Crisis]] teaches that there are [[Civilization]] changing events at the end of all [[Ages]].
+The [[Age Crisis]] teaches that there are [[Civilization]] changing events at the end of all [[Ages]]. [[Amadea]]
 
 _[[Age Crisis]] exist._
 
-### Age I (Bronze Age)
+#### Age I ([[Ages]] of Ecological Rebirth | Bronze to Iron Age)
 
 3 [[Act of Fate]].
 
@@ -37,11 +40,11 @@ The [[Age Crisis]] teaches that [[Civilization]] can fail and the resolution of 
 
 _You can fail an [[Age Crisis]]._
 
-### Age II (Iron Age)
+#### Age II ([[Ages]] of the Rise of Magic | Early Classical Antiquity)
 
 4 [[Act of Fate]].
 
-Establishment of [[The Principles of Magic]]. [[Amadea]]
+Establishment of [[The Principles of Magic]]. Rise of the [[Mythical Virtuoso]]
 Introducing Ritardando. Stable [[Dyad Chord]]s. [[Unison]] Primacy. Rare [[Triad Chord]]s. Basic Magic.
 
 The [[Age Crisis]] is variations of the start of [[The Hollowing]], [[A Pact of a Thousand Eyes]], or [[Voice of the Heavens]]. It is the first age to have more than one crisis that depends entirely on the [[Civilization]] behavior and if they were the ones that invited an [[Outer God]], [[Lacrimosa]], to [[Arcanoria]].
@@ -49,19 +52,20 @@ The [[Age Crisis]] is variations of the start of [[The Hollowing]], [[A Pact of 
 The [[Age Crisis]] teaches that there's more than one [[Age Crisis]] possible, and the paths of [[World Event]]s have variation depending on the resolution. If the [[Civilization]] loses to [[Lacrimosa]] they become the "villain" as one of the satellites supporting [[The Hollowing]] during the [[Age of the False Messiah]]. It proves [[Civilization]] is not static and there is no "correct" route to development.
 
 [[Ages]]:
-- [[Age of Behemoths]] | [[Chorus Pillar]] ([[Golden Age]]) | Light Fae Fantasy
+- [[Age of Behemoths]] | [[Chorus Pillar]] / [[Aureus Pillar]] ([[Golden Age]]) | Light Fantasy
 - [[Age of Glyphs]] | [[Regalia Pillar]] ([[Classical Age]]) | High Fantasy
+- [[Age of Silk]] | [[Waltz Pillar]] ([[Classical Age]]) | Dark Fantasy
 - [[Age of Embers]] | [[Waltz Pillar]] ([[Dark Age]]) | Dark Fantasy
 
 The [[Age Crisis]] teaches that [[Civilization]] can trigger different types of [[Age Crisis]] based on their involvement with the triggers during the [[Ages]]. [[World Event]]s have different manifestations, they're not always the same [[Age Crisis]].
 
 _There is more than one possible [[Age Crisis]] depending on your actions._
 
-### Age III (Classical Antiquity)
+#### Age III ([[Ages]] of [[Lacrimosa]] | Late Classical Antiquity)
 
 3 [[Act of Fate]].
 
-**Cause of [[The Birth of the Tetrad Chord]] accident with whomever is on the side of [[Lacrimosa]]. Teasing to the [[Polychord Crisis]] and the eventual [[Divine Reset]]. This causes the manifestation of [[The Ultimate Weapon]] next [[Ages]].**
+**Cause of [[The Birth of the Hyper Chord]] accident with whomever is on the side of [[Lacrimosa]]. Teasing to the [[Polychord Crisis]] and the eventual [[Divine Reset]]. This causes the manifestation of [[The Ultimate Weapon]] next [[Ages]].**
 
 Mastery of the [[The Principles of Magic]].
 Starting point of proper [[Ornament]]al Magic. Full resolution of the [[World Event]] of [[The Hollowing]] and [[Lacrimosa]] brewing through the whole age.
@@ -69,21 +73,21 @@ Starting point of proper [[Ornament]]al Magic. Full resolution of the [[World Ev
 First classical civilizations.
 Introducing Accelerando. First Reliable [[Triad Chord]]s. [[Dyad Chord]] Primacy. [[Unison]] Mastery.
 
-The [[Age Crisis]] is variations of end of [[The Hollowing]], [[Opposing the Heavens]], [[The Undeniable Moon]], [[The Birth of the Tetrad Chord]], depending on their relationship with her and the stance they take as either a [[Major Actor]] or [[Minor Actor]].
+The [[Age Crisis]] is variations of end of [[The Hollowing]], [[Opposing the Heavens]], [[The Undeniable Moon]], [[The Birth of the Hyper Chord]], depending on their relationship with her and the stance they take as either a [[Major Actor]] or [[Minor Actor]].
 
 The [[Age Crisis]] teaches that there's different roles [[Civilization]] can take in [[World Event]]s and [[Age Crisis]].
 
 [[Ages]]:
 - [[Age of Legends]] | [[Aureus Pillar]] ([[Golden Age]]) | Epic Fantasy (Frieren's Flamme Mythical Mages)
 - [[Age of the Seven Threads]] | [[Regalia Pillar]] ([[Classical Age]]) | Mythic Fantasy (Wuxia)
-- [[Age of Silk]] ([[Classical Age]]) | [[Waltz Pillar]] Dark Fantasy
 - [[Age of the False Messiah]] | [[Chorus Pillar]] + [[Waltz Pillar]] ([[Dark Age]]) | Horror Fantasy (First [[Outer God]] intrusion)
 
 The [[Age Crisis]] teaches that [[Civilization]] can participate as a [[Major Actor]] or a [[Minor Actor]] in [[World Event]]s, and that they can pick whichever side they decide on the conflict.
 
 _There are [[Minor Actor]] and [[Major Actor]] roles for [[Age Crisis]] and stories._
 
-### Age IV (Early Medieval)
+### Tier 2: Medieval [[Ages]]
+#### Age IV ([[Ages]] of the Early Medieval)
 
 3 [[Act of Fate]].
 
@@ -120,7 +124,7 @@ The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becom
 
 **[[Original Eight]] Empowered: [[Morpheus Abysmal]]. [[Animach]]**
 
-### Age V (Middle Medieval)
+#### Age V ([[Ages]] of the Middle Medieval)
 
 4 [[Act of Fate]].
 
@@ -134,7 +138,7 @@ Advanced Polyrhythms. Advanced [[Triad Chord]]s. [[Dyad Chord]] Mastery. [[Uniso
 
 [[Ages]]:
 - [[Age of the Sacred Cross]] ([[Golden Age]]) | [[Regalia Pillar]] + [[Aureus Pillar]] | Dark Fantasy
-- [[Age of Spirit Petals]] ([[Golden Age]]) | [[Chorus Pillar]] | Mythic Fantasy (Wuxia)
+- [[Age of Spirit Petals]] ([[Golden Age]]) | [[Chorus Pillar]] + [[Waltz Pillar]] | Mythic Fantasy (Wuxia)
 - [[Age of Crowns]] ([[Classical Age]]) | Not Aligned in [[Pillars]]  | High Fantasy
 - [[Age of Covens]] ([[Classical Age]]) | [[Regalia Pillar]] + [[Chorus Pillar]] | Dark Fantasy
 - [[Age of Horrors]] ([[Dark Age]]) | [[Chorus Pillar]] | Horror Fantasy
@@ -153,7 +157,7 @@ Tragically, this war for the Holy Grail is not a path to victory; it is a cosmic
 
 **[[Original Eight]] Empowered: The Imperium Obsessus. [[Violux]]**
 
-### Age VI (High Medieval)
+#### Age VI ([[Ages]] of the High Medieval)
 
 3 [[Act of Fate]].
 
@@ -182,7 +186,8 @@ The [[Polychord Crisis]] is going to be the AC, BC of the game. After [[Polychor
 
 **🌀 First [[Cataclysmic Aftermath]] with the [[Hyper Chord]] [[Polychord Crisis]] of [[The Ultimate Weapon]]. Leads back to the [[Age of Desolation]].**
 
-### Age VII (Renaissance & Discovery)
+### Tier 3: Industrialization [[Ages]]
+#### Age VII ([[Ages]] of Renaissance & Discovery)
 
 3 [[Act of Fate]].
 
@@ -196,7 +201,7 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 
 **[[Original Eight]] Empowered: [[The Amber Wonderland]]. [[Erosyx]]**
 
-### Age VIII (Reformation & Revolution)
+#### Age VIII ([[Ages]] of Reformation & Revolution)
 
 4 [[Act of Fate]].
 
@@ -207,7 +212,7 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 
 **[[Original Eight]] Empowered: Shrieking Sentinel. [[Anxithor]]**
 
-### Age IX (Industrial Era)
+#### Age IX ([[Ages]] of Industrialization)
 
 3 [[Act of Fate]].
 
@@ -215,32 +220,35 @@ Second "Age of [[Humanity]]."
 
 - [[Age of Invention]] ([[Classical Age]]) | [[Aureus Pillar]] | Early Steampunk
 - [[Age of Sealing Iron]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Dark Fae Fantasy
-- [[Age of Velvet Elegance]] ([[Dark Age]]) | [[Regalia Pillar]] + [[Chorus Pillar]] | Dystopian Fantasy
+- [[Age of Velvet Elegance]] ([[Dark Age]]) | [[Regalia Pillar]] + [[Chorus Pillar]] | Dystopian Fantasy. Weaponizes [[Drowning in Flux]]
 
 **[[Original Eight]] Empowered: The Discord Weaver. [[Discant]]**
 
-### Age X (Machine Age)
+#### Age X ([[Ages]] of Machines)
 
 3 [[Act of Fate]].
 
 - [[Age of Clockwork]] ([[Golden Age]]) | [[Waltz Pillar]] | Steampunk
+- [[Age of Divine Machinery]] ([[Dark Age]])| [[Chorus Pillar]] | Machine Cult Horror Fantasy
 - [[Age of Chimeras]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Horror Fantasy
 
 **[[Original Eight]] Empowered: The Corpus Mortuum. [[Carnalix]]**
 
-### Age XI (Atomic, World Wars & Information Era)
+### Tier 4: Unification [[Ages]]
+#### Age XI ([[Ages]] of Global Conflicts & World Wars)
 
 4 [[Act of Fate]].
 
-Third "Age of [[Humanity]]."
+Third "Age of [[Humanity]]." that considers the span of the Atomic Era to the Information Era.
 
-- [[Age of Starlight]] ([[Golden Age]]) | [[Regalia Pillar]] | Magical Girls
+- [[Age of Starlight]] ([[Golden Age]]) | [[Aureus Pillar]] | Magical Girls using [[Primordial Star]]s for [[Consonance]]
+- [[Age of Hyperphantasia]] ([[Dark Age]]) | [[Regalia Pillar]] | Powerful [[Delusional]] Conditioned Individuals (Dark Type Magical Girls) by [[Institute]]s to reach the apex of [[Hyperphantasia Arts]] without relying on [[Consonance]]. Weaponizes [[Crystalized in Delusion]].
 
 **[[Original Eight]] Empowered: [[Looping Paradox]]. [[Obsessian]]**
 
 **🌀 Second [[Cataclysmic Aftermath]] with [[Wolf Bomb]] MAD Annihilation. Leads to the [[Age of the Wolf Tone Winter]].**
  
-### Age XII (Near Future Era)
+#### Age XII ([[Ages]] of the Near Future)
 
 3 [[Act of Fate]].
 
@@ -251,7 +259,7 @@ Third "Age of [[Humanity]]."
 [[Ages]] XII is about colonizing the planet system and becoming Tier 1 [[Civilization]] by harnessing the power of the planet, [[Arcanoria]], and spreading the [[Great Harmonic Loom]] to the nearby planets in the same solar system.
 
 Terraforming magically and ecologically planets environments, turning sterile planets into [[Arcanoria]] like with the help of seeding the [[Great Harmonic Loom]].
-### Age XIII (Sci-Fi Era)
+#### Age XIII ([[Ages]] of the Sci-Fi Era)
 
 3 [[Act of Fate]].
 
@@ -263,12 +271,15 @@ Terraforming magically and ecologically planets environments, turning sterile pl
 
 **🌀 Third [[Cataclysmic Aftermath]] with True [[Primal White Noise]]**
 
-### Age XIV (The Terminal Age)
+#### Age XIV (The Age of Terminus)
 
 4 [[Act of Fate]].
 
 - [[Age of The End]] (Genesis Age) | Not Aligned with [[Pillars]] | Metaphysical Fantasy
-### [[Act of Fate]] Minor Crisis:
+
+
+## Additional Mechanics of [[Ages]]
+### Minor Crisis [[Events]] of an [[Act of Fate]]:
 
 The list of the minor crisis that separate the [[Ages]] by Act of Fate can be many varied [[Events]] that include but aren't exclusively:
 
@@ -283,3 +294,14 @@ The list of the minor crisis that separate the [[Ages]] by Act of Fate can be ma
 - Chronowave [[Strand]] storms.
 - Auric Grid Blackouts.
 - City Chorus Collapse.
+
+### [[Ages]] and [[Reincarnation]] of Canonical [[Constellation]]s
+
+All canonical [[Constellation]]s, meaning the historical characters of [[Arcanoria]] that aren't made through emergent storytelling or by the [[Third Actor]], have strong [[Resonance Anchors]] to the world of [[Arcanoria]]. 
+
+This means two things:
+
+- A canonical [[Constellation]] can't be liberated into [[Stardust]] until the concept of time itself ends in the [[Age of The End]].
+- They are tied to special stories that [[Civilization]] can use to alter the course of history after learning [[The Truth of Arcanoria]] which includes changing [[Events]] that would otherwise end in tragedy by intervening. These include saving [[Medea]], [[Vals Jenner]], [[Elygia]], [[Miss Nyctilia]], [[Cadmus Tacet]], etc.
+
+However, beyond canonical [[Constellation]]s becoming available in the [[Third Reset]] onwards after [[Civilization]] learns [[The Truth of Arcanoria]]. It also comes with the [[Reincarnation]] mechanic of specific [[Legend]]s being especially relevant when they are born in different [[Ages]] based on the Tier group they are while being separated from one another.

@@ -39,9 +39,13 @@ He was the main warden, inventor, and architect of [[Hollowmarch]], the Auric Fo
 
 _"Why chase something when you can just choose it? Be the law of assumption, [[Aurelian]]. The amount of good things in your life depends on your ability to notice them." - [[Daedalus]] on [[Aurelian]]'s theological crisis._
 
+_"You are your own limiting factor, if you don't think it is possible, then you're never going to get it. It doesn't matter who thinks it is possible, your mentors, your friends, your fathers, even your own bloodline. What only matters is: Do you think it is possible? Because only you know your potential and you know what it will take if you're willing to perform. So I repeat, [[Aurelian]]. IS IT POSSIBLE?"_
+
 _"You have to expect great things from yourself before you can achieve them. Use your impossibly large intellect to see what no one else can. I once learned that the only way to prove the world wrong by building something it cannot deny." - [[Daedalus]] to the young [[Luminaire]] when she was crying due to failing expectations.
 
 _"I've come to realize through impossible hardship that no one is separate from the reality they want. You're the reason it exists in the first place."_
+
+
 
 
 

@@ -32,7 +32,7 @@ In [[Arcanoria]], this is not merely an analogy. It is the literal ontological m
 
 #### The [[Harmonic Equilibrium]] Condition
 
-The governing equation of all [[Soliton]] behavior in [[Arcanoria]] is the **Driven-Dissipative Cubic-Quintic Complex Ginzburg-Landau Equation (CGLE)**, which describes the [[Dual Confluence Stream]] field as an open system continuously sustained by the [[Great Harmonic Loom]]:
+The governing equation of all [[Soliton]] behavior in [[Arcanoria]] is the **Driven-Dissipative Cubic-Quintic Complex Ginzburg-Landau Equation (CQCGLE)**, which describes the [[Dual Confluence Stream]] field as an open system continuously sustained by the [[Great Harmonic Loom]]:
 
 $$i\hbar_A \frac{\partial \psi}{\partial t} = -\frac{\hbar_A^2}{2m_S}\nabla^2\psi - g_1|\psi|^2\psi + g_2|\psi|^4\psi + i(\gamma_A - \gamma_L)\psi$$
 
@@ -301,7 +301,7 @@ This is the **[[Wolf Tone]]** — the eerie, slowly pulsing acoustic signature o
 
 _The fission [[Wolf Tone]] chatters. It is many detuned ghosts speaking at once._
 
-#### The [[Coherence Repulsion]] Barrier that creates the [[Siphon Wolf Bomb]] (Fusion)
+#### The [[Coherence Repulsion]] Barrier that creates the [[Siphon-Type Wolf Bomb]] (Fusion)
 
 In nuclear physics, fusion requires overcoming the **Coulomb barrier** — the electrostatic repulsion between positively charged nuclei. In [[Arcanoria]], [[Soliton]]s have a direct analogue: **[[Coherence Repulsion]]**. Two stable [[Soliton]]s resist merger because their phase-locked geometries (their [[Auric Heptacode]] eigenmodes) destructively interfere at the boundary when forced into contact.
 
@@ -313,7 +313,7 @@ Where $\alpha > 0$ is the [[Coherence Repulsion]] constant. This is why [[Solito
 
 #### The Forced Sympathetic Merger
 
-The [[Siphon Wolf Bomb]] works by achieving a **Forced Sympathetic Merger** — using an external [[Resonance]] field of extraordinary precision to synchronize the phase of two or more high-amplitude [[Soliton]] clusters before triggering the blowup. The synchronization condition requires:
+The [[Siphon-Type Wolf Bomb]] works by achieving a **Forced Sympathetic Merger** — using an external [[Resonance]] field of extraordinary precision to synchronize the phase of two or more high-amplitude [[Soliton]] clusters before triggering the blowup. The synchronization condition requires:
 
 $$\Delta\phi_{12} = \phi_1 - \phi_2 = 0 \pmod{2\pi}$$
 
@@ -337,13 +337,13 @@ The merged [[Soliton]] is now far above the blowup threshold $\kappa \gg 1$, and
 
 $$T_{\text{Blow}}^{\text{Fusion}} \sim \frac{1}{\sqrt{\kappa_{\text{Merged}} - 1}} \ll T_{\text{Blow}}^{\text{Fission}}$$
 
-The energy release scales as the square of the combined amplitude. The [[Siphon Wolf Bomb]] is geometrically more destructive than the Fission [[Null-Type Wolf Bomb]] not merely because it merges two targets but because it **conscripts the environment as a third fuel source**. 
+The energy release scales as the square of the combined amplitude. The [[Siphon-Type Wolf Bomb]] is geometrically more destructive than the Fission [[Null-Type Wolf Bomb]] not merely because it merges two targets but because it **conscripts the environment as a third fuel source**. 
 
 A Fusion detonation above sufficient [[Leylines]]' density does not just destroy what is there. It weakens the capacity of the land to sustain [[Coherence]] for generations afterward. The blast radius measured in destroyed matter is the short-term consequence. The [[Leylines]] scar left in the [[Great Harmonic Loom]] is the long-term one which explains the devastating [[Vibrational Fallout]]. This is why the once living [[Symphonic Veins]] become the "necrotic tissue" of [[Arcanoria]].
 
-"_The [[Siphon Wolf Bomb]] is the only destructive weapon as equally horrifying as it is cosmologically reckless. This atrocity is not simply an instrument of mass destruction. It is a wound inflicted directly on the [[Harmonic Equilibrium]] of [[Arcanoria]] itself." - [[The White-Touched Archivist]]._
+"_The [[Siphon-Type Wolf Bomb]] is the only destructive weapon as equally horrifying as it is cosmologically reckless. This atrocity is not simply an instrument of mass destruction. It is a wound inflicted directly on the [[Harmonic Equilibrium]] of [[Arcanoria]] itself." - [[The White-Touched Archivist]]._
 
-#### The [[Siphon Wolf Bomb]] Is Hauntingly Different
+#### The [[Siphon-Type Wolf Bomb]] Is Hauntingly Different
 
 The post-fusion detonation produces a different [[Wolf Tone]] signature. Because the merged [[Soliton]] was phase-synchronized before detonation, its ghost partial solitons share a common residual phase base. Rather than many detuned ghost [[Soliton]]s, there is one dominant ghost frequency with very small perturbations. The beat tone $\nu_{\text{wolf}} = |\nu_1 - \nu_2|$ is far smaller — lower in pitch, more sustained, more coherent.
 
@@ -353,11 +353,11 @@ _The fusion [[Wolf Tone]] holds a single dying note. The universe does not chatt
 
 #### The Fission → Fusion Evolution of the [[Wolf Bomb]] in [[Ages]] XI
 
-The technological leap from Fission to Fusion mirrors the Manhattan Project to H-Bomb progression: Fission requires knowing how to break the [[Harmonic Equilibrium]]; Fusion requires the additional mastery of _first achieving perfect [[Coherence]] between two systems before destroying them_. The [[Siphon Wolf Bomb]] is only possible once [[Civilization]]s have mastered [[Strand]]-based phase synchronization to the degree required for advanced [[Strand Pool]] architecture.
+The technological leap from Fission to Fusion mirrors the Manhattan Project to H-Bomb progression: Fission requires knowing how to break the [[Harmonic Equilibrium]]; Fusion requires the additional mastery of _first achieving perfect [[Coherence]] between two systems before destroying them_. The [[Siphon-Type Wolf Bomb]] is only possible once [[Civilization]]s have mastered [[Strand]]-based phase synchronization to the degree required for advanced [[Strand Pool]] architecture.
 
 **This is the darkest thematic inversion of [[Ages]] XI:** the same knowledge used to create life-preserving closed [[Time Bubble]]s or healing [[Strand Pool]]s is repurposed to create weapons of absolute annihilation. The technology of infinite [[Consciousness]] preservation and the technology of continent-destroying weapons share the same equation.
 
-| Feature                   | [[Null-Type Wolf Bomb]] (Fission)                                                                                     | [[Siphon Wolf Bomb]] (Fusion)                                                                                                                   |
+| Feature                   | [[Null-Type Wolf Bomb]] (Fission)                                                                                     | [[Siphon-Type Wolf Bomb]] (Fusion)                                                                                                                   |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Core mechanism            | [[Phase Singularity]] injection, topological defect shatters [[Chern Number]], $g_2$ collapses, cubic blowup proceeds | [[Resonance Siphon]], [[Strand Pool]] unifies [[Chern Number]]s, topological vacuum draws ambient [[Leylines]] energy, squared amplitude blowup |
 | Attack layer              | Topological — fractures the [[Heptagonal Brillouin Zone]] from within                                                 | Topological + thermodynamic — rewrites topology, then siphons the [[Great Harmonic Loom]]                                                       |
@@ -388,7 +388,7 @@ The [[Wolf Bomb]] is categorically different. It does not speak to matter from t
 
 The [[Null-Type Wolf Bomb]] does not overpower the [[Heptagonal Brillouin Zone]]. It injects an irresolvable contradiction into it — a [[Phase Singularity]] whose fractional winding number the [[Great Harmonic Loom]] is architecturally incapable of assigning to any band. The universe's own mathematical rules, the same constraints that hold every stone and every living body in stable [[Coherence]], then enforce the destruction. That is the truly malicious difference: the weapon does not kill the target. The target is made to kill itself.
 
-The [[Siphon Wolf Bomb]] takes this to a darker place still. It does not source its destructive energy from an external payload. It achieves a forced sympathetic merger and conscripts the ambient [[Leylines]] network of the surrounding land as its fuel. The environment itself becomes the detonation charge. Energy is conserved. It is the land that pays the price for the violence.
+The [[Siphon-Type Wolf Bomb]] takes this to a darker place still. It does not source its destructive energy from an external payload. It achieves a forced sympathetic merger and conscripts the ambient [[Leylines]] network of the surrounding land as its fuel. The environment itself becomes the detonation charge. Energy is conserved. It is the land that pays the price for the violence.
 
 #### The Trauma Embedded in Geometry
 
@@ -406,7 +406,7 @@ In the [[Null-Type Wolf Bomb]] variant, the [[Phase Singularity]] injected into 
 
 Thus, the resulting [[Topological Null]] is proportionally deeper, there is simply more certainty to erase. The collapse does not stop at matter. It shatters collective reality. The [[Vibrational Fallout]] zone left behind echoes not only with ghost partial [[Soliton]]s of unmade stone, but with the unresolved [[Frequency Harmonics]] of silenced minds of millions of intersecting lives whose patterns the [[Great Harmonic Loom]] still holds, and cannot assign to either presence or [[Void]]. The [[Wolf Tone]] that follows a populated detonation is not the chaotic stutter of broken geology. It is polyphonic in [[Superposed Resonance]] of bygone existential signatures.
 
-The [[Siphon Wolf Bomb]] variant is geometrically more dangerous still at a [[Leylines]] convergence — and [[Leylines]] convergences are, by the logic of [[Civilization]], precisely where [[Sacred Site]]s, [[Trade Nexus]], and densest populations form. The more sacred and prettier the place, the more powerful the [[Resonance Siphon]] of the [[Wolf Bomb]].
+The [[Siphon-Type Wolf Bomb]] variant is geometrically more dangerous still at a [[Leylines]] convergence — and [[Leylines]] convergences are, by the logic of [[Civilization]], precisely where [[Sacred Site]]s, [[Trade Nexus]], and densest populations form. The more sacred and prettier the place, the more powerful the [[Resonance Siphon]] of the [[Wolf Bomb]].
 
 The [[Resonance Stabilizer]]s become weaponized as means to equilibrates to whatever supply the environment can furnish, especially as they're used to redirect [[Leylines]]. 
 
@@ -551,5 +551,5 @@ The complete [[Soliton]] framework is internally consistent across every layer o
 | Time distortion          | Self-folding [[Soliton]]; all path amplitudes constructively interfere within bounded region                                         | [[Time Bubble]], nonlinearity enables self-collision                                                           |
 | Civilizational overreach | Regional $\gamma_A > \gamma_L$ cascade, matter slowly un-becomes before cascade                                                      | [[Static Criticality]], thermodynamic MAD condition                                                            |
 | Weapon — Fission         | [[Phase Singularity]] injection → $\mathcal{C} \notin \mathbb{Z}$ → HBZ collapse → $g_2 \to 0$ → cubic blowup                        | [[Null-Type Wolf Bomb]] — hum, [[Topological Null]], explosion, chattering [[Wolf Tone]]                       |
-| Weapon — Fusion          | Topological unification + [[Resonance Siphon]] → $\Delta N_{\text{Siphon}}$ from [[Leylines]] → $\kappa \gg 1$ → near-instant blowup | [[Siphon Wolf Bomb]] — hum, merger tone, explosion, single dying note; [[Vibrational Fallout]] ecological scar |
+| Weapon — Fusion          | Topological unification + [[Resonance Siphon]] → $\Delta N_{\text{Siphon}}$ from [[Leylines]] → $\kappa \gg 1$ → near-instant blowup | [[Siphon-Type Wolf Bomb]] — hum, merger tone, explosion, single dying note; [[Vibrational Fallout]] ecological scar |
 

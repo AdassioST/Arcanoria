@@ -232,7 +232,7 @@ Anything modifying [[Void]] and its repulsion, warping, and attraction propertie
 	- Siphon Arts
 		- Blackhole Arts
 		
-	- Gravity Well Sensing Arts (Similar to [[Resonance]] sensing)
+	- Gravity Sensing Arts (Similar to [[Resonance]] sensing)
 	
 	- [[Feather Fall Arts]]
 	
@@ -241,7 +241,7 @@ Anything modifying [[Void]] and its repulsion, warping, and attraction propertie
 	- Nightmare Arts
 		- Malediction Arts (Study and Dispelling of [[Dissonance Curse]]s)
 		
-	- Prophetical Arts (Similar to [[Luminance]] Divination Arts)
+	- [[Prophetical Arts]] (Similar to [[Luminance]] Divination Arts)
 		- Entropic Scrying Arts (Experiencing What Didn't Happen)
 		
 #### Tessitura of [[Cindergale]] [[Magic Arts]]
@@ -251,13 +251,14 @@ Anything modifying [[Cindergale]] through momentum, passion, and focus.
 - [[Fire Magic]]: The Classical Elemental Magic of Fire
 	
 	- Combustion Arts
-		- Fire Funnel Magic (Fire Whirls, Combined Vortex of Runway energy)
-		- Flash Explosion Magic
+		- Fire Funnel Arts (Fire Whirls, Combined Vortex of Runway energy)
+		- Flash Explosion Arts
 		
-	- [[Thermal Arts]]
+	- [[Thermal Arts]] ([[Cindergale]] + [[Flux]])
 		- Heating Arts
 		- [[Freezing Arts]]
-		- Superconductivity
+		- Equilibrium Arts ([[Cindergale]] + [[Flux]] + [[Resonance]]): Forcing a system into equilibrium of a thermal gradient instantly, fire dies immediately, a hot body becomes cold, a cold body warms within a [[Resonance Field]]
+		- Superconductivity Arts
 		
 	- Forge Arts
 	
@@ -265,36 +266,51 @@ Anything modifying [[Cindergale]] through momentum, passion, and focus.
 	
 - [[Kinetic Magic]]: Modifying the Momentum of [[Soliton]] Clusters with [[Cindergale]] [[Void]]
 	
-	- Friction Arts
+	- Friction Arts: Removing friction, weapon slips, things slide or the increase in friction makes something stop movement and create heat burns.
 		- Velocity Arts
-		- Braking & Resistance Arts
+		- Braking Arts: The [[Cindergale]] version of [[Restraining Arts]]
 		
 	- Propulsion Arts
 	
-- [[Eros Magic]]: Also known as Love Magic, it Changes Any Properties Tied to the [[Weight of Nature]], [[Sympathetic Vibration]] and Heat
+	- Inertia Redirection Arts: Don't stop motion, reroute it where a punch aimed at them transfers its force sideways or back into the attacker, bullets can curve as their inertia is "redesigned."
+	
+	- Precision Cutting Arts ([[Cindergale]] + [[Luminance]] + [[Crystal]])
+		- Vivisection Arts ([[Cindergale]] + [[Luminance]] + [[Crystal]] + [[Strand]])
+		
+- [[Eros Magic]] ([[Cindergale]] + [[Flux]]): Also known as Love Magic, it Changes Any Properties Tied to the [[Weight of Nature]], [[Sympathetic Vibration]] and Heat
 	
 	- Pleasure Arts
-	
+		- Addiction Arts
+		
 	- Courtship Arts
 	
 #### Tessitura of [[Crystal]] [[Magic Arts]]
 
 Anything modifying [[Crystal]] through will, imagination, and [[Probability Amplitudes]].
 
-- [[Crystallization Magic]]: The Classical Element of [[Crystal]] and Stabilized Sound.
+- [[Crystallization Magic]] ([[Crystal]]): The Classical Element of [[Crystal]] and Stabilized Sound.
 	
 	- [[Abjuration Arts]]
 		- Soundproofing Arts
 		- Barrier Arts
-		- 
 		
 	- Conjuration Arts
-		- [[Magical Relic]] Animation Arts (Golems, Constructs with Living Cores)
+		- [[Animation Arts]] ([[Magical Relic]] Golems, Constructs with Living Cores)
 		- [[Dancing Blade Arts]]
 		
-	- Restraining Arts
+	- [[Restraining Arts]]
 		
-	- Hyperphantasia Arts "[[Invisible Color]]"
+	- [[Hyperphantasia Arts]] "[[Invisible Color]]" ([[Crystal]] + [[Resonance]] + [[Strand]]) (Any miscellaneous [[Resonance Field]] magic that requires an incredibly vivid imagination to understand and see things that aren't actually visible. Highly specialized and impossible magic without being [[Delusional]]. All of these arts are as incredibly potent as they are highly dangerous as the backfiring of [[Discordant Interference]] is massive and hard to stabilize between [[Sufficient Precision]] and [[Absolute Certainty]]. _"To know what rule to break, you first have to understand the entire depth of that rule."_
+		
+		- [[Phase Disruption Arts]]: A niche of selectively forcing [[Soliton]]s to change phase. Solid to liquid without limits, turning the ground beneath enemies into sinking fluid, flash boil someone's weapon mid swing, and walk through walls by liquifying them. Sometimes the reality bending allows even to make the weapon collapse into a bunch of butterflies that are harmless or dissolve into bubbles. It uses almost [[Signath]]-like properties to alter reality through sheer willpower and [[Absolute Certainty]] while understanding the truth beneath the functioning of the object.
+		
+		- [[Hyperprotection Arts]]: [[Abjuration Arts]] on steroids where the [[Spellweaver]] is delusional enough.
+		
+		- Null Zone Arts. Fate Francois.
+		
+		- [[Midas Touch Arts]]: A niche of using [[Transmutation Arts]] without the physical connection of matter, they modify directly the [[Soliton]] structure and its layer of [[Chern Number]]s to make Silver turn into Gold, while the philosopher stone doesn't exist, the closest is [[Spellweaver]]s who can use [[Midas Touch Arts]] but it requires an incredibly high understanding of chemistry, objective reality, and [[Luminance]], which makes it a paradox because it requires the user to still be [[Delusional]] enough to bend reality to their will with the upmost understanding of how it is supposed to function. [[Midas Touch Arts]] require links of Synesthesia to understand that each "atom" is a different color, and merging colors, like the internal contents of their [[Frequency Harmonics]], (modifying how many quarks, protons, electrons etc. in real life the nucleus has) to convert from one element to another. The first user of this type was [[Ludwine]] who was driven by necessity as she was born deaf in a universe built on sound. The second apocalypse when [[Crystal]] collapsed in the [[Seven Dark Fates]] is essentially [[Midas Touch Arts]] weaponized by the failing laws of physics when the [[Auric Aria]] unwove the physical and [[Coherence]] of [[Arcanoria]].
+		
+		- [[Butterfly Web Arts]]: A niche of driving [[Divination Arts]] and [[Prophetical Arts]] to their extreme by using the butterfly effect to grant a "wish" of a forced prophecy by combining a [[Strand Pool]] Web of layered connections into possible futures by doing the domino effect. It is highly unpredictable, it merges [[Dissonance Curse]]s as counter measure to combine a degree of [[Mind Control Arts]] so that there is some semblance of control in the future. They're called Butterfly Web because they use the Butterfly effect to alter the timeline, and they are a [[Strand]] web of many relationships. Despite being insanely powerful, they're easy to turn into [[Discordant Interference]] that backfires in the most unpredictable and dangerous ways imaginable that can even collapse into [[Time Bubble]]s if paradoxes arise: _"To kill the king you need to drop this set of coins at exactly 21 pulses with 2 beats at bar 8 of dawn. You do it one second later and you will instead kill your wife because those coins are going to be grabbed by a madman that will lose the pouch, which will cause another man to use those coins to buy a rifle, and the rifle will fire when he is eating a sandwich, and the bullet will ricochet off the counter of the table he also bought with those coins that will be a loose bullet that will get the king when he goes for the morning stroll after shaving his beard for exactly 2 pulses."_
 		
 - [[Compression Magic]]: Acquiring Hyper Resistance Mirroring Metals
 	
@@ -334,9 +350,6 @@ Anything modifying [[Strand]] and the link between the [[Trinity Harmony]] and t
 - [[Healing Magic]]: Merging a Previous State of the Body with Current Self
 	
 	- [[Field Medicine Arts]]
-	
-	- Precision Surgery Arts
-		- Vivisection Arts
 		
 	- Hurting Arts
 	
@@ -347,6 +360,7 @@ Anything modifying [[Strand]] and the link between the [[Trinity Harmony]] and t
 		
 	- Memory Arts
 		- Amnesiac Arts
+		- [[Textile Arts]]: Cloths imbued with memory like what [[Elara]] was doing.
 		
 	- [[Elegy Arts]] (Reliquary, Necromancy Adjacent)
 		- [[Soul Arts]] (Affecting [[Emotional Residue]] as the residue of a leftover [[Soul-Key]]. It uses [[Pure Light]] although it doesn't deal with any living or actually dead soul, it uses its remnants as particles instead)

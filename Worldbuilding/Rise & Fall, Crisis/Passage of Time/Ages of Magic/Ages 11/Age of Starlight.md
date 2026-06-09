@@ -1,1 +1,3 @@
-Madoka Magica (Secret) Age
+#society #age
+
+Age that primarily focuses on powering a [[Spellweaver]]s through the [[Primordial Star]]s, and using the light of those [[Consonance]] fueled stars to combat chaos. Stands in direct opposition of the [[Age of Hyperphantasia]] where the dark [[Spellweaver]]s are conditioned [[Crystal]] members to effectively mirror the same power of [[Primordial Star]]s through [[Hyperphantasia Arts]].

@@ -6,6 +6,8 @@ _"If you could end all suffering by ending the capacity to suffer, would you? An
 
 [[Lacrimosa]]'s Requiem is the "archive of the dead, in memory eternal."
 
+The [[Purest of Love]] begins as [[The Call of the Dreamweaver]] parades that is an [[Indulgent Enclave]] and moving circus for the broken that uses miracles of healing through numbing with a powerful anesthetic and the [[Dream Magic]] of [[Lacrimosa]]. They are very surreal parades that use [[Mind Control Arts]] and [[Spectacle Arts]] to have a found family with the [[Moon]] imagery with singers, costumes, stilts, animals, etc. It represents the whimsical nature of dreams for comfort to the broken.
+
 [[Mira]] teaches Lacrimosa a genuinely beautiful concept: **"A love so pure it doesn't require love."** What this means in its pure form is selfless merger—the girl wants to become part of something greater than herself, not for reciprocation, but for _transcendence_. She wants her death to matter by merging with the divine.
 
 "All life is suffering, all suffering arises from the self and its attachments, but if this self is removed, then all of this burden is extinguished, all of the meaningless suffering will cease, this is the [[Purest of Love]]. The highest state of [[Consciousness]]. Open to all mankind, men or women, of high caste or low."
@@ -60,9 +62,9 @@ _Merge with me, and you will never be alone, never be invisible, never be meanin
 
 ##  The "Pilgrims of the [[Purest of Love]]" as a Found Family
 
-You have a cult ([[Selah]], the nine bishops and the others). Usually, cults are creepy. But this one was a wholesome relief for the broken in its inception.
+Usually, cults are creepy. However, the [[Purest of Love]] began as parades of found family with a extravagant dream-like circus that developed across all of [[Ages]] II. In a sense, the [[Purest of Love]] was a wholesome relief for the broken in its inception.
 
-- **The Vibe:** They aren't chanting in robes. They are a support group for lonely people.
+- **The Vibe:** They aren't chanting in robes. They are a support group for lonely people that joined together as a circus to celebrate their joined identity.
     
 - **The Light:** They tend to have communal dinner. Laughing about how weird the Auroral Ribbons look tonight. Living in shared understanding despite the plague.
     

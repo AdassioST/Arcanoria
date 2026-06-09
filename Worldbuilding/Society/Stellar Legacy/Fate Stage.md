@@ -112,7 +112,7 @@ Finally, when a [[World Event]] concludes the resolution of its [[Ballad]] there
 
 - _[[Transient Actor]]s appear:_ The Sacrifice, The Judge.
 - _Final confrontation_ → [[Major Actor]]s make their defining choices.
-- _Resolution:_ The Unbroken Will sacrifices themselves, becoming The Martyr. The [[All-Loving Moon]] is debilitated, delaying [[The Birth of the Tetrad Chord]].
+- _Resolution:_ The Unbroken Will sacrifices themselves, becoming The Martyr. The [[All-Loving Moon]] is debilitated, delaying [[The Birth of the Hyper Chord]].
 - _World Truth:_ “The Martyr’s Seal” – one of the possible martyrs to assign when changing religions has a canonized name.
 
 The [[Fate Stage]] ensures that there is replayability for [[World Event]]s while adding narrative texture as the living mythos is unfolding upon the player. [[Legend]]s are not passengers in a story — they are its authors, and every choice etches a new verse into [[The Eternal Symphony]].
