@@ -129,7 +129,7 @@ The Vanguard is the master of **Cindergale** (Fire + Wind) and **Perfect Focus**
 
 - **Mechanics:** Vanguards earn **Fragments of Defiance**. Their magic requires an "uninterrupted flow state".1 In combat, this translates to bonuses that scale with the duration of the engagement.
     
-- **The Unafraid:** By slaying a **Primal Discordia** (such as the Shrieking Sentinel), a Vanguard earns the "Unafraid" Fable, granting the entire army immunity to "Fear" status effects.1 This effectively hard-counters enemies relying on morale shocks or terror tactics.
+- **The Unafraid:** By slaying a **Primal Discordia** (such as the [[Shrieking Terror]]), a Vanguard earns the "Unafraid" Fable, granting the entire army immunity to "Fear" status effects.1 This effectively hard-counters enemies relying on morale shocks or terror tactics.
     
 
 ### 3.6 Great Architect (Crystal)
@@ -288,7 +288,7 @@ The ultimate achievement of the Stellar Legacy Score is the synthesis of Rolepla
 
 To solve the "Power Creep" problem, Arcanoria introduces **Narrative Scarcity**.
 
-- **The Rule:** The _first_ Legend to slay a Primal Discordia (e.g., "The Shrieking Sentinel") gets the **Slayer Great Fable** "First to Slay Fear".1
+- **The Rule:** The _first_ Legend to slay a Primal Discordia (e.g., "The [[Shrieking Terror]]") gets the **Slayer Great Fable** "First to Slay Fear".1
     
 - **The Consequence:** Future Legends killing the same beast only get "The Sorrow-Eater" (a weaker title).
     

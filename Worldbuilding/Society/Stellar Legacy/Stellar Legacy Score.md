@@ -80,16 +80,16 @@ Another type of unique [[Legend Opus]] are [[Slayer Magnum Opus]]. These are un
 
 This creates permanent narrative scarcity. [[Civilization]] is incentivized to hunt a powerful [[Atonalis]] early, knowing the first kill is the most valuable.
 
-| [[Atonalis]] Path | [[Primal Discordia]]   | [[Legend Opus]]  | Mechanical Bonus                                               |
-| ----------------- | ---------------------- | ----------------- | -------------------------------------------------------------- |
-| [[Anxithor]]      | The Shrieking Sentinel | The Unafraid      | Legend and their armies are immune to "Fear" status.           |
-| [[Discant]]       | The Discord Weaver     | The Sorrow-Eater  | Can convert realm "Unrest" into "[[Piety]]" resource.          |
-| [[Obsessian]]     | The Looped Revenant    | Breaker of Cycles | Immune to "Curse" debuffs; can break enemy siege loops.        |
-| [[Signath]]       | The Hollow Pilgrim     | The Certain       | Immune to enemy "Schemes" and info-hazards.                    |
-| [[Carnalix]]      | The Corpus Mortuum     | The Scar-Hewn     | [[Legend]] cannot die from wounds; only from age or sacrifice. |
-| [[Animach]]       | The Morpheus Abysmal   | The Whole         | [[Legend]] cannot be "charmed" or have loyalty manipulated.    |
-| [[Violux]]        | The Imperium Obsessus  | The Unbroken      | [[Legend]]'s armies never rout; fight to the last.             |
-| [[Erosyx]]        | The Wrongly Named      | The True-Named    | [[Legend]]'s "Status" cannot be falsified or stolen.           |
+| [[Atonalis]] Path | [[Primal Discordia]]       | [[Legend Opus]]         | Mechanical Bonus                                                                                      |
+| ----------------- | -------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
+| [[Anxithor]]      | [[Shrieking Terror]]     | The Unafraid            | Legend and their armies are immune to "Fear" status.                                                  |
+| [[Discant]]       | The Discord Weaver         | The Sorrow-Eater        | Can convert realm "Unrest" into "[[Piety]]" resource.                                                 |
+| [[Obsessian]]     | [[Looping Paradox]]        | Breaker of Cycles       | Immune to "Curse" debuffs; can break enemy siege loops.                                               |
+| [[Signath]]       | The Hollow Pilgrim         | The Certain             | Immune to enemy "Schemes" and info-hazards.                                                           |
+| [[Carnalix]]      | [[Lyd, The First Beloved]] | The Scar-Hewn           | [[Legend]] cannot die from wounds; only from age or sacrifice.                                        |
+| [[Animach]]       | [[The Eight-Tongued King]] | The Whole               | [[Legend]] cannot be "charmed" or have loyalty manipulated.                                           |
+| [[Violux]]        | [[The Imperium Obsessus]]  | The Unbroken God-Slayer | [[Legend]]'s armies never rout; and the [[Legend]] is immune to all world altering magic and effects. |
+| [[Erosyx]]        | [[The Amber Wonderland]]   | The True-Named          | [[Legend]]'s "Status" cannot be falsified or stolen.                                                  |
 
 Finally, the last piece of the puzzle for [[Legend Opus]] and [[Magnum Opus]] is the [[Fate Stage]], where [[Legend]]s embody the roles of [[Major Actor]]s, [[Minor Actor]]s. The world is a theatrical composition, and [[Legend]]s grow into their roles through the choices they make during [[Ballad]]s, [[World Event]]s and [[Age Crisis]]es.
 
@@ -125,7 +125,7 @@ $$\text{Constellation Resonance} = (\text{Legend Opus} + \text{Accumulated Worsh
 
 This means:
 
-- You had a first [[Legend]], who killed "The Shrieking Sentinel" [[Primal Discordia]] in [[Ages]] I, obtains the [[Slayer Magnum Opus]] of "First to Slay Fear."
+- You had a first [[Legend]], who killed "The [[Shrieking Terror]]" [[Primal Discordia]] in [[Ages]] I, obtains the [[Slayer Magnum Opus]] of "First to Slay Fear."
 - By Age V, they have been worshipped for four [[Ages]]. Their [[Resonance]] is massive.
 - A new [[Legend]] in [[Ages]] V is born, and they too kill the reincarnation of that [[Atonalis]], but only gets Slayer of [[Anxithor]] — a weaker [[Legend Title]].
 - The [[Ages]] V [[Legend]] might be a better fighter in their lifetime, and a more versatile [[Legend]] overall, but when they die and become a [[Constellation]], they will always be less powerful than "First to Slay Fear" because they started later.

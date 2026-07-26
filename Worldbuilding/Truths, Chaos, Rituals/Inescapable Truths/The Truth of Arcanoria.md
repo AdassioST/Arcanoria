@@ -1,3 +1,5 @@
+_"Before the world you knew, there was another." [[Auric Aria]] before narrating the [[True Mythos of Creation]]._
+
 The [[Auric Aria]] narrates the [[True Mythos of Creation]] after the end of the [[Second Reset]] when the [[Cataclysmic Aftermath]] of the [[Great Fracture]] ends [[Civilization]].
 
 Having access to [[The Truth of Arcanoria]] unlocks a lot of content through the game, akin to entering Hard mode in Terraria. Knowing the [[The Truth of Arcanoria]] unlocks:
@@ -7,12 +9,14 @@ Having access to [[The Truth of Arcanoria]] unlocks a lot of content through the
  - The [[Sonata]] of the Pale [[Moon]], which is the entire storyline and resolution of [[Selenea]], and the origin story of [[Lacrimosa]].
  - Many interactions with [[Lacrimosa]] during [[The Hollowing]] and the ability to change the endings of [[The Hollowing]] through the [[Alternate Hollowing]] or [[The Mass Suicide of Lacrimosa]] instead of the [[Law of Relics]].
  - Several storylines previously unknown that require content of the [[True Mythos of Creation]].
+ - It becomes possible to slay any of the [[Original Eight]] awarding their [[Slayer Magnum Opus]] for vanquishing the primordial demons of [[Arcanoria]].
  - Access to [[Fanatical]] government types.
  - Access to creating [[Crisis Wonders]], not just inheriting them.
  - Learning the origin of [[Crisis Wonders]] and having their own [[Mega Construction Wonders]] turn into [[Crisis Wonders]] for the next [[Civilization Reset]].
  - Interacting with the [[Auric Aria]] and determining her involvement in [[Civilization]]. Also unlocks the [[Sonata]] of the Golden Sovereign which teaches the [[Old Testament]] and the [[First Reset]].
  - The full potential of the [[Waltz Pillar]] and [[Regalia Pillar]]s for traditions, and societal revolutions, empires, and colonization. These are particularly important during all of the three [[Age of Humanity]].
  - The full potential of the [[Aureus Pillar]] through the interface of the [[Auric Aria]] and even allows for her incarnation into flesh like the [[Eighth Cycle]] to provide miracles and [[Auric Angels]].
+ - Unlocks all of the R-Rated stories if the story patch is installed and enabled, with the unvarnished gruesome, and sometimes cruel, truth of history in [[Ballad]]s.
  - The full potential of the [[Chorus Pillar]] communion and invoking [[Outer God]]s in [[Flesh-Binding Ritual]]s after [[The Hollowing]]. Having an alternative to the incarnation of [[Outer God]]s instead of the [[Auric Aria]].
  - The [[Divine Reset]] menu for restarting civilization and the upgrade tree.
  - Interactions as a major [[Civilization]] for the first [[Ages]].
@@ -58,7 +62,7 @@ This will conclude her specific [[Sonata]] and will allow to unlock the [[Sonata
 
 The start of this [[Ballad]] begins with [[The Truth of Arcanoria]], after the confession of the [[Auric Aria]], revealing the existence of [[Selenea]] within the [[Moon]], and her plea to save [[Medea]]. It consists of 3 movements.
 
-The first part requires entering the [[Age of Hymns]], and saving the kingdom of the [[Silver Blood]]s. After [[Medea]] story ends without tragedy, [[Civilization]] will be prompted to using concentrated [[Lunehymn]] to connect first with [[Selenea]] before [[Lacrimosa]] manifests. This will be the first interaction with [[Selenea]] through vivid dreams and will allow [[Civilization]] to found a Selenic Religion aligned with the [[Chorus Pillar]].  
+The first part requires entering the [[Age of Hymns]], and saving the kingdom of the [[Silver Blood]]s. After [[Medea]] story ends without tragedy, [[Civilization]] will be prompted to using concentrated [[Lunehymn]] to connect first with [[Selenea]] before [[Lacrimosa]] manifests. This will be the first interaction with [[Selenea]] through vivid dreams and will allow [[Civilization]] to found a Selenic [[Religion]] aligned with the [[Chorus Pillar]].  
 The [[Age Crisis]] of the [[Age of Hymns]] requires salvaging the lineage of the [[Silver Blood]] and fulfilling their subsequent [[Ballad]].
 
 The next step is uncovering the memory field of [[Fated Flower]]s and their nature in the [[Memory Field]] of the [[First Weaving of Life]]. [[Civilization]] has to witness the story of [[Selenea]] and her collaboration efforts. This is the first time [[Selenea]] and her personality appears to [[Civilization]].

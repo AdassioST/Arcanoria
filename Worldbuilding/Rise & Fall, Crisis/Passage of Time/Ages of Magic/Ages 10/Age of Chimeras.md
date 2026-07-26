@@ -1,1 +1,3 @@
-Fairy teratoma and bad thing going on. Pseudo [[Corruption]] through biotech. No weight just bad. [[Weight of Potential]] related.
+_"Our future will require such violence that our ancestors will cry out in horror."_
+
+Fairy teratomas, pseudo [[Corruption]] through biotech. Chimera Grafting for [[Essence Sacrifice]] and ruthless experimentation with flesh flux luminance cables. Deals with the [[Weight of Potential]] by making a chimera containing everything simultaneously born from the merging of many [[Pure Light]] beings by exploiting the hybridization of [[Pure Light]] against [[Auric Structure]].

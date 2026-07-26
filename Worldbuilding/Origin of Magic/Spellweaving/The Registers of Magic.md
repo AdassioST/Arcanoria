@@ -60,7 +60,9 @@ Anything modifying [[Resonance]] primarily using [[Resonance Field]]s.
 		
 		- [[Voice Projection Arts]] ([[Resonance]] + [[Luminance]] + [[Crystal]]) — Niche of [[Own Voice]] amplification or modulation through [[Sky Glass]] [[Resonance]]; the singer's frequency is captured by a [[Sky Glass]] resonator, then broadcast as a coherent beam of sound that can be heard at impossible distances without degradation.
 		
-		- [[Silence Arts]] ([[Resonance]] + [[Void]]) — Niche of nullifying sound for stealth through destructive interference; the practitioner creates an anti-phase [[Resonance]] that cancels all sound waves within a radius, producing absolute silence on a localized cuasi [[Topological Null]] field.
+		- [[Silence Arts]] ([[Resonance]] + [[Void]]) — Niche of nullifying sound for stealth through destructive interference; the practitioner creates an anti-phase [[Resonance]] that cancels all sound waves within a radius, producing absolute silence on a localized cuasi [[Topological Null]] field
+		
+		- [[Distortion Arts]] ([[Resonance]] + [[Void]] + [[Flux]]) — Niche of modifying and distortion the soundwaves similar to [[Silence Arts]] but meant to add noise, [[Dissonance]], and other similar effects to make the sounds jagged over a [[Resonance Field]] mirroring distortion pedals of electrical guitars to achieve [[Dissonance]] charged spells through tension.
 		
 	- [[Dimensional Arts]] ([[Resonance]] + [[Flux]] + [[Crystal]] + [[Void]] + [[Strand]]) — Subset of highly complex [[Soliton]] colapse in reality warping dimensions or expansion of pocket domains through temporal-resonant folding; the [[Spellweaver]]'s [[Resonance Field]] creates a bounded [[Time Bubble]] where its behavior flows independently of the outside world.
 		
@@ -92,7 +94,7 @@ Anything modifying [[Luminance]] through revealing or canceling information.
 		
 		- [[Advanced Lensing Arts]] ([[Luminance]] + [[Crystal]] + [[Flux]]) — Niche of creating temporary lenses from crystallized light; the caster solidifies a beam into a transparent [[Crystal]] structure that focuses additional light with perfect precision, then dissolves when no longer needed.
 		
-	- [[Prismatic Arts]] ([[Luminance]] + [[Crystal]]) — Subset of rays, lasers, and color manipulation through frequency splitting; the practitioner separates white light into its component frequencies, then uses [[Crystal]] structures to isolate and amplify individual wavelengths.
+	- [[Prismatic Arts]] ([[Luminance]] + [[Crystal]]) — Subset of rays, lasers, and color manipulation through frequency splitting; the practitioner separates white light into its component frequencies, then uses [[Crystal]] structures to isolate and amplify individual wavelengths as physical matter based on the structure of the [[Luminance]] pattern.
 		
 		- [[Beam Arts]] ([[Luminance]] + [[Cindergale]] + [[Crystal]]) — Niche of concentrated light beams with a degree of kinetic impact; the [[Spellweaver]]'s trail of light carries momentum, creating beams that not only illuminate but have physical effects that incinerate, dispel, push, cut, or pierce targets through sustained focus.
 		

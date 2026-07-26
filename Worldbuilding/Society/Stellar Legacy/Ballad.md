@@ -1,4 +1,7 @@
+_"Conflict and tragedy create friction, and friction creates [[Ballad]]s." — [[Auric Order]]._
+
 A type of storyline combining several [[Events]]. 
+
 
 The advanced version of [[Ballad]]s that spans several [[Ages]] and requires multiple content to trigger are called [[Sonata]]s and are built through movements as narrative arcs. Thus, a [[Sonata]] is an advanced and highly complex type of storyline that combines several Events and spans across multiple [[Ages]]. Serving as an elevated, more intricate version of a [[Ballad]], a [[Sonata]] requires multiple specific pieces of content and narrative triggers to be initiated.
 

@@ -15,7 +15,7 @@ These are the unit blocks that form the identity and [[Resonance]] of any [[Civi
 - Indulgent [[Civic]]: Entertainment, Pleasure, Joy, Luxuries,
 - Esoteric [[Civic]]: [[Chorus Pillar]], [[Outer God]]s, Dark [[Magic Arts]], Witchcraft, Spirits.
 
-### Early Civilization and Classical [[Ages]] 0 - III
+### Tier 1 [[Ages]] [[Civic]]s ([[Ages]] 0 - III)
 
 #### Agromagical, Indulgent, Weaver & Domestication [[Civic]]s
 
@@ -67,7 +67,9 @@ Runs inspired by the Ball Fluff Runs but using bull-like [[Pure Light]] creature
 
 #### Auric, Trading & Industrious [[Civic]]s
 
+[[Demi-Human]] Slave Trade [[Dissonance]]
 
+indentured Servitude [[Dissonance]]
 
 #### Regal, Militant & Esoteric [[Civic]]s
 
@@ -124,7 +126,7 @@ Rituals of communal suicide and sacrifice to reverence the chaotic energy that e
 [[Ballad]]s:
 - A runaway infiltrates a death cult about to pool enough trauma to birth a [[Fracted]] [[Atonalis]]. Armed only with a [[Resonance Box]], they must disrupt the chanting with a perfectly timed counter-frequency and crash the entire sacrifice ritual before the demon is allowed to hatch from the collective suffering.
 
-### Entire Medieval [[Ages]] IV - VI ([[Law of Relics]] Established)
+### Tier 2 [[Ages]] [[Civic]]s ([[Ages]] IV - VI) ([[Law of Relics]] Established)
 
 #### Agromagical, Indulgent, Weaver & Domestication [[Civic]]s
 
@@ -154,6 +156,10 @@ Evolution of Moonlit Vigil where once per spring, [[Phase of Prelude]], unwed ci
 [[Ballad]]s:
 - The heirs of two noble houses locked in a centuries-old blood feud pulse in absolute, flawless unison at the Courting Grounds. State law mandates they marry, forcing the two families into a deadly, covert race to assassinate the opposing heir before the wedding binds their houses. Romeo & Juliet.
 
+**Underground Pleasure Colosseums | Indulgent [[Civic]] | [[Ages]] IV |  [[Dissonance]]**
+
+Jerez Arena as an evolution of the colosseum [[Civic]]s but focused on slaves gaining freedom but with painful and humiliating dehumanizing punishments on loss. Some of the contracts are directly paired with [[Velvet Nectar]].
+
 #### Auric, Trading & Industrious [[Civic]]s
 
 **Memory Markets | Trading [[Civic]] | [[Ages]] IV–VII | [[Dissonance]]**
@@ -163,7 +169,19 @@ Designated economic zones and sites where [[Velvet Nectar]] and its derivations 
 [[Ballad]]s:
 - A desperate smuggler steals a vial of [[Velvet Nectar]] to pay a debt, unknowingly consuming the extracted memories of a renowned [[Great Spellweaver]]. Now possessing the dead mage's magical mastery, they are hunted by aristocratic connoisseurs who want the memories back.
 
+**Slave & Servitude Auctions | Trading [[Civic]] | [[Ages]] IV-VII | [[Dissonance]]**
+Underground trafficking rings with slaves of any species, whether used as commodity, servitude, or livestock.
+
+**[[Contract Arts]] Slavery Guilds [[Dissonance]]**
+Using contracts on [[Pure Light]] beings and [[Demi-Human]]s with high enough affinity to be subdued through slave marks as a combination between [[Mind Control Arts]] and [[Contract Arts]] as a perversion of [[Sympathetic Magic]].
+
 #### Regal, Militant & Esoteric [[Civic]]s
+
+**Trafficking Rings Conquests | Militant [[Civic]] | [[Ages]] IV-VII | [[Dissonance]]**
+Slavery through subjugated regions that fell due to a slaver causus belly
+
+**Species Caste System | Regal [[Civic]] | [[Ages]] IV-VII [[Dissonance]]**
+Dividing citizens by tiers of classification depending on their [[Pure Light]] and [[Auric Structure]] between each races of [[Humanity]] and [[Demi-Human]]s.
 
 **Legendary Hunting Charters | Regal [[Civic]] | [[Ages]] IV-VII | [[Consonance]]**
 
@@ -193,7 +211,7 @@ Inspired by [[Institute]]s, [[Civilization]] utilizes [[Spellweaver]]s who have 
 [[Ballad]]s:
 - A squad of four highly traumatized conscripts are dropped into wild magic. Instead of breaking, they form an intense level of [[Echoing Bonds]], triggering secondary [[Motif Awakening]]s that make them powerful enough to return to the capital and overthrow the generals who sent them to die.
 
-### Enlightenment and Reformation [[Ages]] VII-IX
+### Tier 3 [[Ages]] [[Civic]]s ([[Ages]] VII-X)
 
 **Bloodline Tithe | [[Ages]] VII–IX | [[Cusp]]**
 
@@ -201,13 +219,12 @@ Primarily used during the [[Age of Blood]], this [[Civic]] is a systemic tax whe
 
 - [[Ballad]]s: The eldest daughter of a disgraced noble house goes to offer her blood, only to discover the Hemovault is completely empty. A corrupt government faction has secretly siphoned the generations of [[Essence Sacrifice]] to power an illegal apocalyptic superweapon. Branded a traitor, she must ally with underground [[Void]]-weavers to destroy the weapon before the government drains the life force of every noble family sacrifice made in the empire.
 
-### Industrialization and Warfare [[Ages]] IX-XI
+### Tier 4 [[Ages]] [[Civic]]s ([[Ages]] XI-XIV)
 
 **Enhanced Magical Girl Polyphony | [[Ages]] XI | [[Consonance]]**
 
 Inspired by the polyphonic practices of earlier [[Ages]] this ensemble is unique to the [[Age of Starlight]] using the principle of [[Echoing Bonds]] to establish strong [[Resonance Anchors]] within its cast of [[Spellweaver]]s through [[Harmonic Entanglement]].
 
-### Near Future to Sci-Fi [[Ages]] XII - XIV
 
 ### The [[Ballad]]s of [[Civilization]] [[Civic]]s
 

@@ -1,6 +1,9 @@
 #character #story
 
+
 Her real name is Liszt Nyctilia, but she usually goes by the name of her surname as Miss N, and is a core figure of [[Ages]] V.
+
+
 
 [[Legend Title]]: The Maestrix of the Interlude, The Great Unifier of the [[Dissonance League]], CRX-01, Great Witch of the Layered Seal. 
 
@@ -59,7 +62,7 @@ From the [[Memory Field]]s of collapsed facilities, she reverse-engineered the c
 
 Her primary architecture is built on [[Strand]] and the principle of [[Object Permanence]], from which she masters time manipulation, [[Memory Field]]s, [[Topological Arts]] and [[Time Bubble Arts]] by applying the logic of the [[Spatial Magic]] of [[Void]] and the [[Field Magic]] of [[Resonance]] as a single unifying element that can be paired with [[Strand]].
 
-[[Miss Nyctilia]] weaponizes the sealing property of [[Strand]] not as a wall but as a succession of conclusions: each door she seals inside a bubble is also the floor of the next bubble above it. She calls this Layered Finality — the principle that no single exit should ever be the only exit, because a prisoner who sees one door will try that door. A prisoner who sees infinite exits will spend eternity choosing.
+[[Miss Nyctilia]] weaponizes the sealing property of [[Strand]] not as a wall but as a succession of conclusions: each door she seals inside a bubble is also the floor of the next bubble above it. She calls this [[Layered Finality]] — the principle that no single exit should ever be the only exit, because a prisoner who sees one door will try that door. A prisoner who sees infinite exits will spend eternity choosing.
 
 | Element       | Role in Her Pocket Dimensions                                                                                                                                                                                       |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

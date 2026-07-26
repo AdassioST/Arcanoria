@@ -125,24 +125,19 @@ Moreover, to establish the type of bond on a significant level there has to be a
 
 ### The [[Romantic Interest]] System
 
-The Romantic Interest System is a **conditional subsystem nested inside the Affection System**. It activates only when the system determines a romantic pairing is acoustically possible between two specific Legends. A bond can reach Stage III Consecrated Witness — the deepest relational state in the system — and the Romantic Interest System may never have initialized once. That bond is not lesser for it.
+The [[Romantic Interest]] System is a **conditional subsystem nested inside the Affection System**. It activates only when the system determines a romantic pairing is acoustically possible between two specific Legends. It doesn't require to be reciprocal, and it can become consensual, but it's possibly for a character to fall in love with one that doesn't know they exist, such as [[Lacrimosa]] and the [[Auric Aria]], and similarly, it's rare that a situation where love is asymmetrical ends well. 
 
-Arcanoria's foundational conviction is that platonic devotion, familial love, and sworn enmity carry **identical acoustic weight** in the Eternal Symphony to romantic love. The Romantic Interest System does not crown a hierarchy. It adds a specific, volatile, psychologically distinct layer when conditions warrant — and one of its unique outputs, unavailable to the Affection System alone, is the capacity to create **offspring** of Legends, extending the Echoing Bonds of families forward into new Ages.
+Arcanoria's foundational conviction is that platonic devotion, familial love, and sworn enmity carry **identical acoustic weight** in the Eternal Symphony to romantic love. The Romantic Interest System does not crown a hierarchy. It adds a specific, volatile, psychologically distinct layer when conditions warrant — and one of its unique outputs, unavailable to the Affection System alone, is the capacity to create **offspring** of Legends, extending the Echoing Bonds of families forward into new Ages, and generating drama for asymmetrical love, and love triangles.
 
+The Romantic Interest System's first action is silent and depends on the [[Legend]] origin traits regarding their sexual orientation:
 
-The Romantic Interest System's first action is silent and invisible. It checks whether Romantic Interest is acoustically _possible_ whenever two Legends establish a Stage I bond. Sexual Orientation is a Legend Trait — not a player toggle. It emerges from the Legend's full profile through probability resolution at character creation, weighted by Origin Traits, Personality Legend Traits, and early Motif Awakening history. It is part of who the Legend _is_.
+| Orientation      | Romantic Interest Activation                                                                   |
+| ---------------- | ---------------------------------------------------------------------------------------------- |
+| **Heterosexual** | Protocol activates only for opposite-gender-expression pairings                                |
+| **Homosexual**   | Protocol activates only for same-gender-expression pairings                                    |
+| **Bisexual**     | Protocol activates for any pairing where the other Legend passes the [[Affection]] threshhold. |
 
-|Orientation|Romantic Interest Activation|
-|---|---|
-|**Heterosexual**|Protocol activates only for opposite-gender-expression pairings|
-|**Homosexual**|Protocol activates only for same-gender-expression pairings|
-|**Bisexual**|Protocol activates for any pairing where the other Legend passes the Gate|
-
-**If the Gate fails** — the Romantic Interest System never activates for this pair. The Affection System continues at full operation indefinitely. The bond can reach Stage III, generate Shared Legend Opuses, produce Ghost Bonds, and become the defining relationship of both Legends' Constellations — entirely without the Romantic Interest System.
-
-**If the Gate passes** — Mutual Possibility is confirmed — the Romantic Interest System initializes and begins tracking two fully independent **Romantic Interest Meters**, one per Legend, invisible to both characters within the fiction.
-
-Once Mutual Possibility is confirmed, two independent meters initialize — invisible to both characters, readable only by Civilization at **Contrapuntal Harmony** level for the meter's existence and direction, and at **Symphonic Resonance** level for the full meter reading including Thread Romantic Interference Pattern:
+The system itself functions through the following levels of Romantic Interest that behave as equally asymmetrical as the rest of [[Legend Relationship]]s.
 
 | Threshold   | Stage           | Behavioral Expression                                                                                                                                                                                  | Mechanical Effect                                                                                       |
 | ----------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |

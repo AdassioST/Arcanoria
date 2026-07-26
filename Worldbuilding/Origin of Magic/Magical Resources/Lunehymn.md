@@ -1,5 +1,7 @@
 #resource #chaos
 
+_The Force of Repose and Vitality._
+
 ![[Lunehymn.png]]
 
 A pale silvery liquid reflecting the echoing moonlit ocean that mirrored the heavens in the founding scene [[The Silent Expanse]]. It is paired with [[Aetherlight]] in the [[Dual Confluence Stream]], reflecting the relationship between [[Selenea]] and the [[Auric Aria]] as creators of [[Arcanoria]].

@@ -4,7 +4,7 @@ The [[Mythical Virtuoso]] of [[Resonance]] of the Seven Virtuosi.
 
 For his life during the [[Old Testament]] as one of the [[Seven Archangels]], his true name is [[Mikael]], [[Aurelian]] is the name that [[Daedalus]] gave him when he didn't know his own name due to having been orphaned.
 
-[[Legend Title]]: The Aurean Wind, The Great Father of [[Hollowmarch]], Opus Aureus, Saint Patron of [[Great Sovereign]]s, The First Voice of the [[Auric Aria]].
+[[Legend Title]]: The Aurean Wind, The Great Father of [[Hollowmarch]], Opus Aureus, Saint Patron of [[Great Sovereign]]s, The First Voice of the [[Auric Order]].
 
 [[Primary Instrument]]: [[Soul Oscillator]]
 [[Armament]]: Golden Arched Gladius

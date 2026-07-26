@@ -1,1 +1,3 @@
-Age of High Dark Fantasy with golden gardens of [[Forsaken Flower]] and [[Fated Flower]]s
+#age
+
+Age of High Dark Fantasy with golden gardens of [[Forsaken Flower]] and [[Fated Flower]]s, it's called like that due to the result of many [[Rose Seed]]s being planted after the sheer amount of [[Atonalis]] and people who died during the [[Holy War]]. It's an age filled with the light of the [[Auroral Ribbons]] due to everyone who perished in the past [[Age Crisis]], from [[Atonalis Nest]]s becoming a tomb of [[Fated Flower]]s to the [[Emotional Residue]] left on the areas ravaged by the [[Holy War]] the hardest.

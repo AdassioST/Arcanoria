@@ -6,15 +6,37 @@ _"If you could end all suffering by ending the capacity to suffer, would you? An
 
 [[Lacrimosa]]'s Requiem is the "archive of the dead, in memory eternal."
 
-The [[Purest of Love]] begins as [[The Call of the Dreamweaver]] parades that is an [[Indulgent Enclave]] and moving circus for the broken that uses miracles of healing through numbing with a powerful anesthetic and the [[Dream Magic]] of [[Lacrimosa]]. They are very surreal parades that use [[Mind Control Arts]] and [[Spectacle Arts]] to have a found family with the [[Moon]] imagery with singers, costumes, stilts, animals, etc. It represents the whimsical nature of dreams for comfort to the broken.
+The [[Purest of Love]] begins as [[The Call of the Dreamweaver]] parades that is an [[Indulgent Enclave]] and moving circus for the broken that uses miracles of healing through numbing with a powerful anesthetic and the [[Dream Magic]] of [[Lacrimosa]]. They are very surreal parades that use [[Mind Control Arts]] and [[Spectacle Arts]] to have a found family with the [[Moon]] imagery with singers, costumes, stilts, animals, etc. It represents the whimsical nature of dreams for comfort to the broken. 
 
-[[Mira]] teaches Lacrimosa a genuinely beautiful concept: **"A love so pure it doesn't require love."** What this means in its pure form is selfless merger—the girl wants to become part of something greater than herself, not for reciprocation, but for _transcendence_. She wants her death to matter by merging with the divine.
+Originally, this is a benevolent faction that is a sanctuary for the marginalized built on egalitarianism as a [[Chorus Pillar]] movement offering an alternative to the [[Auric Order]] while having [[Lacrimosa]] as the center of the movement as a reply to the heavens that aren't silent. The [[Auric Aria]] in the [[New Testament]] doesn't intervene no matter how bad society gets which prompts the issue of theodicy, and that's why [[Selah]] looked for an alternative to suffering which created the [[Purest of Love]].
+
+The corruption of the [[Purest of Love]] comes from two places:
+
+- The futility of healing: [[Lacrimosa]] does do the numbing miracles on the early stages of [[Lux Aeterna]]. The circus functions as a safe haven for the broken, offering an alternative without demanding anything but belonging to the family. While it is not enforced yet that "no one can leave" it plants the seed of [[Possessive]] and [[Attention Addict]] that the family [[Mira]] wanted is growing. Despite the efforts of [[Lacrimosa]], however, she comes to the realization that even in doing miracles, and healing people while building her own family. It is not enough, war still exists, dying still exists, [[Corruption]] at all levels of [[Civilization]] still continue even if she is healing the broken. [[Lacrimosa]] and the [[Purest of Love]] primary vector for radicalization is [[Lacrimosa]] acknowledging that this doesn't work for removing suffering, she tried the entire span of [[Ages]] II and [[Arcanoria]] is exactly the same as if she wasn't there. Suffering does not end through benevolent mercy, it is merely a pain-killer.
+
+- [[Mira]] teaches [[Lacrimosa]] a genuinely beautiful concept: **"A love so pure it doesn't require love."** What this means in its pure form is selfless merger—the girl wants to become part of something greater than herself, not for reciprocation, but for _transcendence_. She wants her death to matter by merging with the divine. The own loss of [[Mira]] is one of the major catalysts for [[Lacrimosa]] to view death and suffering as something meaningless and actively harmful for the experience of existing. With her time in [[Arcanoria]] during [[Ages]] II this idea only gets planted further as she sees even the people she healed with [[Lux Aeterna]] inevitably die in combat, even bodily immortality is not enough to fix the violence of the [[Atonalis]], of humans against fellow humans, and the cruelty of phenomenon like [[Static Criticality]]. As [[Lunar Cycle]]s pass, [[Lacrimosa]] begins developing even more potent versions of [[Lux Aeterna]] to combat this, which is what ultimately leads to [[A Pact of a Thousand Eyes]] with the point of no return, and the manifestation of [[Lux Aeterna]] so potent it becomes [[The Hollowing]].
+
+### Evolution into the [[All-Loving Moon]] and [[The Hollowing]]
+
+Phrases that radicalized [[Lacrimosa]]:
+
+- "First your dreams die, then your hope, only then you. What's fair about that?"
+- "I always wore my hat. Why am i so sick now?" A dying orphan under [[Destra]]'s care before [[Lacrimosa]] developed [[Lux Aeterna]].
+- "My dad used to get annoyed when I asked him if he wanted to play. Now he gets mad when I say I don't have time to go outside. Why did I need to be so sick for my dad to want to spend time with me?" Another dying child under [[Destra]]'s care in the [[Great Plague]].
+
+After the [[Flesh-Exalting Transcendence]] of [[Lacrimosa]] the [[Purest of Love]] radicalizes following the tenet of ultimate utilitarianism mercy:
 
 "All life is suffering, all suffering arises from the self and its attachments, but if this self is removed, then all of this burden is extinguished, all of the meaningless suffering will cease, this is the [[Purest of Love]]. The highest state of [[Consciousness]]. Open to all mankind, men or women, of high caste or low."
 
+The singing chorus in unison during [[A Pact of a Thousand Eyes]], and conducted by [[Pagiel]] later reads in the layering of many voices as an ethereal requiem mass bathed in [[Dream Magic]]:
+
+_"Children born of one emotion. Our devotion's deepest ocean. No division, reasoned we'll be freed."_
+
+_"Joy mirage's kingdom come. No one left at stake now that existence is on the wake. A part is wholly ending. A line in any final song. So long. So far. We will be atoning. At last eternal through the past, above a blinding, loving star."_
+
 Critique: 
 
-Between [[Mira]]'s teaching and [[Lacrimosa]]'s practice, something shifted—not through conscious deception, but through the substitution of two single words:
+Between [[Mira]]'s teaching and [[Lacrimosa]]'s practice, something rotted—not through conscious deception, but through the substitution of two single words across the entire [[Ages]] II of [[Lacrimosa]] witnessing suffering, trying to heal bodies, and realizing in the end it is ultimately meaningless.
 
 **[[Mira]]:** "Be the presence that teaches how to reach others, to _honor_ the meaning of their suffering by *continuing* them."
 
@@ -176,7 +198,7 @@ _The Autonomy Philosophers. The Revolutionaries. The Purging Fire.
 
 _The Witness, The Widow's Argument. The Healer._
 
-[[Destra]] was a [[Great Plague]] doctor after the passing of her husband. She desperately turned to heal him, but to no avail. And then she became one of the main corps that held the many hands of dying plague victims, speaking their names into the darkness, while desperately trying to find a cure. Even when most always died. She knows intimately what happens in the frontlines of the clinics, the despair of the wounded that becomes meaningless. She watched the Auric Church claim to witness while leaving people to die alone. She watched the plague reveal that the gods' witness was inadequate.
+[[Destra]] was a [[Great Plague]] doctor after the passing of her husband. She desperately turned to heal him, but to no avail. And then she became one of the main corps that held the many hands of dying plague victims, speaking their names into the darkness, while desperately trying to find a cure. Even when most always died. She knows intimately what happens in the frontlines of the clinics, the despair of the wounded that becomes meaningless. She watched the Auric Church claim to witness while leaving people to die alone. She watched the plague reveal that the gods' witness was inadequate. _"If you ever walk through the corridor of a sick ward full of children, you will realize there is no god."_
 
 **[[Destra]]'s thesis:** "The Hollowed are witnessed. They are not forgotten. They are loved in the way the Auric Church claimed to love but never did. Lacrimosa does not demand piety—she offers recognition. That is a gift the Auric Church never kept. You will never die alone. You will never be unseen. Your suffering will matter because it will be held within something infinite."
 

@@ -1,7 +1,9 @@
+_"God's Last Wish"_
+
 It requires the presence of [[Primal White Noise]] to manifest in reality and "activate" in something akin to a DEFCON level. It uses a master-key to trigger a feedback loop before the actual [[Divine Reset]]. This is the "reset" button that causes the [[First Reset]], the [[Second Reset]], and the Third Reset afterwards the master-key belongs to [[Civilization]] which is why the player can use [[Divine Reset]]s. [[Scorching Truth]]
 
 
-The phrasing of the wish is not a mistake—it is a **desperate, deliberate act of engineering** by petitioners who understood that no single, static fix could save humanity from recurring cosmic threats. By crafting the wish as an open‑ended command addressed *to* the Ultimate Weapon (the Hypermage), they built a self‑sustaining failsafe capable of iterating across infinite timelines. The “for you” construction transfers both agency and responsibility to the weapon, making it the perpetual guardian of a cycle that can reset whenever reality teeters on the brink.
+The phrasing of the wish is not a mistake—it is a **desperate, deliberate act of engineering** by petitioners who understood that no single, static fix could save humanity from recurring cosmic threats. By crafting the wish as an open‑ended command addressed *to* the Ultimate Weapon (the [[Hypermage]]), they built a self‑sustaining failsafe capable of iterating across infinite timelines. The “for you” construction transfers both agency and responsibility to the weapon, making it the perpetual guardian of a cycle that can reset whenever reality teeters on the brink.
 
 Below, I break down why this phrasing was necessary and how it solves the problem of “non‑omnipotent wishes.” It also offloads the amount of essence sacrifice it would take for 1 perfect timeline by instead distributing to give "one more chance" and instead of making the hypermage find the solution it just needs the hypermage to give one more chance across infinite potential attempts dividing the essence sacrifice by infinity so that it's doable despite being muddy.
  

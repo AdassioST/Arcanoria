@@ -29,26 +29,6 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Game Systems": {
-      "icon": "⚙️",
-      "unsynced": [
-        "d48e64e7bb66fb41",
-        "01eed68794367206",
-        "f8df02be78b7f2d8"
-      ]
-    },
-    "Game Systems/Environment Logic.md": {
-      "icon": "lucide-cloud-moon"
-    },
-    "Game Systems/Event System Logic.md": {
-      "icon": "lucide-stars"
-    },
-    "Game Systems/Game Logic.md": {
-      "icon": "lucide-box"
-    },
-    "Game Systems/Government Logic.md": {
-      "icon": "lucide-crown"
-    },
     "Images": {
       "icon": "📸",
       "unsynced": [
@@ -195,6 +175,26 @@
         "01eed68794367206",
         "f8df02be78b7f2d8"
       ]
+    },
+    "Worldbuilding/Game Systems": {
+      "icon": "⚙️",
+      "unsynced": [
+        "d48e64e7bb66fb41",
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
+      ]
+    },
+    "Worldbuilding/Game Systems/Environment Logic.md": {
+      "icon": "lucide-cloud-moon"
+    },
+    "Worldbuilding/Game Systems/Event System Logic.md": {
+      "icon": "lucide-stars"
+    },
+    "Worldbuilding/Game Systems/Game Logic.md": {
+      "icon": "lucide-box"
+    },
+    "Worldbuilding/Game Systems/Government Logic.md": {
+      "icon": "lucide-crown"
     },
     "Worldbuilding/Gateway To Genesis.md": {
       "icon": "⚓"

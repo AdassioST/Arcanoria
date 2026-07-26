@@ -1,0 +1,3 @@
+_No single exit should ever be the only exit, because a prisoner who sees one door will try that door. A prisoner who sees infinite exits will spend eternity choosing." — [[Miss Nyctilia]]_
+
+The hardest magical principle of [[Dimensional Arts]] and [[Absolute Certainty]] using [[Crystal]] and sets of stabilizing [[Resonance Anchors]] to create layer upon layer of [[Soliton]]s as spatial dimensions nested and folded upon themselves. It is meant to seal doors within sealed doors of [[Time Bubble]]s.

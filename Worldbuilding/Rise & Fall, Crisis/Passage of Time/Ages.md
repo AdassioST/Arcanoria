@@ -1,4 +1,4 @@
-Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 14, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]]. [[Constellation]]
+Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 14, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]].
 
 Furthermore, [[Ages]] are defined by [[Act of Fate]]s which are one third of the [[Ages]] duration, separating the Early, Middle, and Late version of these [[Ages]], moreover, every 3 [[Ages]] the third will always have 4 [[Act of Fate]]s signaling the "long [[Ages]]." They are intrinsically tied to [[Cosmic Motion]]. Usually the division of an [[Act of Fate]] is a minor version of a [[World Event]] or minor [[Age Crisis]] which can be natural disasters, political conflicts, and other related major significant paradigm shifts for the age.
 
@@ -8,9 +8,16 @@ The diagram of all [[Ages]] is the following:
 
 Excess [[Era Score]] above the required for a [[Golden Age]] becomes points that can redeem failed [[Age Crisis]] checks. Even if [[Civilization]] performs poorly during an [[Age Crisis]], it can be saved by the excess [[Era Score]] to go back into a [[Golden Age]] or resist a [[Dark Age]]. Additional [[Era Score]] is a saving grace buffer for [[Ages]] transitions.
 
+It's possible to change age type every end of an [[Act of Fate]], these changes are called [[Triadic Pivot]]s, but it can only go up or down one stage, such as [[Age of Embers]] ([[Dark Age]]) turning first to [[Age of Glyphs]] ([[Classical Age]]) and then into [[Age of Behemoths]] ([[Golden Age]]) across the entirety of [[Ages]] II.
+
+The final age type that history will remember is classified based on the division of two weighted variables:
+
+- 50% based on which [[Act of Fate]] generated the most [[Era Score]].
+- 50% based on which [[Act of Fate]] generated the most [[Lyrical Fragment]]s.
+
 ## The 14 [[Ages]] of [[Arcanoria]]
 
-### Tier 1: Foundational [[Ages]]
+### Tier 1: [[Ages]] of Foundations & Early Magic
 #### Age 0 ([[Ages]] of [[Cataclysmic Aftermath]] | Stone Age)
 
 3 [[Act of Fate]].
@@ -86,7 +93,7 @@ The [[Age Crisis]] teaches that [[Civilization]] can participate as a [[Major Ac
 
 _There are [[Minor Actor]] and [[Major Actor]] roles for [[Age Crisis]] and stories._
 
-### Tier 2: Medieval [[Ages]]
+### Tier 2: [[Ages]] of The Medieval Period
 #### Age IV ([[Ages]] of the Early Medieval)
 
 3 [[Act of Fate]].
@@ -121,6 +128,8 @@ The [[Morpheus Abysmal]] is the first [[Atonalis]] government type structure and
 The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becomes popularized. He eventually dies, but this is one of the important expeditions of [[Cadmus Tacet]]. [[Vals Jenner]] is the second key figure and the first epidemiologist which is a main character in the era although she dies executed for publishing the word of the first vaccine on the [[Great Plague]] inspired by Secrets of the Silent Witch 
 
 [[The Ultimate Weapon]] appears as a legendary [[Crisis Wonders]] as it "detects" the [[Primal White Noise]] that [[Lacrimosa]] unleashed when she performed the [[Hyper Chord]]. It remains active during this era but disappears the next. This is why the Crusades are after the [[Holy War]]. It did exist for a while.
+
+The [[Obsessian]] [[Looping Paradox]] [[Primal Discordia]] appears at the time as a massive dungeon meshi style backroom, it is one of the possible manifestations of other [[Original Eight]] that isn't the [[Morpheus Abysmal]]. The dungeon has [[Cursed Objects]] and sometimes [[World-Bending Relics]] because of the relationships that form inside it as more adventurers go in and perish, the misremembering of the relationships inside it become tangible objects with all the [[Emotional Residue]] of everyone who previously stayed inside. This is why there's powerful loot in the [[Obsessian]] [[Original Eight]] dungeon. Misremembered dream stuff.
 
 **[[Original Eight]] Empowered: [[Morpheus Abysmal]]. [[Animach]]**
 
@@ -166,15 +175,15 @@ Focus on Kingdom to Empire, established civilizations, culture, courts, secrets.
 _First Cultural Conflicts, Advanced Espionage, Owls of Minerva, Assassins, Betrayals, Courtship, Political Drama & Diplomatic Scandals._
 
 All rhythm types available. First Semi Stable [[Tetrad Chord]]s. [[Triad Chord]] Primacy. [[Dyad Chord]] Mastery. [[Unison]] Mastery. Critical [[Hyper Chord]]s.
-
+[[Hollowmarch]]
 Starting point of Mastery of Magic.
 
 [[Ages]]:
-- [[Age of Golden Roses]] ([[Golden Age]]) | [[Waltz Pillar]] + [[Aureus Pillar]] | Dark Fantasy
+- [[Age of Polyphony]] ([[Golden Age]]) | [[Waltz Pillar]] | Light Fantasy
 - [[Age of Torn Banners]] ([[Classical Age]]) | [[Regalia Pillar]] | Mythic Fantasy (Sengoku)
-- [[Age of High Courts]] ([[Classical Age]]) | [[Regalia Pillar]] | High Fantasy
-- [[Age of Vessels]] ([[Dark Age]]) | [[Waltz Pillar]] | Horror Fantasy
-- [[Age of Auroral Ribbons]] ([[Dark Age]]) | [[Chorus Pillar]] | Dark Fantasy
+- [[Age of High Courts]] ([[Classical Age]]) | [[Regalia Pillar]] + [[Aureus Pillar]] | High Fantasy
+- [[Age of Vessels]] ([[Dark Age]]) | [[Chorus Pillar]] | Horror Fantasy
+- [[Age of Golden Roses]] ([[Dark Age]]) | [[Waltz Pillar]] | Dark Fantasy
 
 _[[Age Crisis]] can end [[Civilization]] and lead to a [[Civilization Reset]]._
 
@@ -186,7 +195,7 @@ The [[Polychord Crisis]] is going to be the AC, BC of the game. After [[Polychor
 
 **🌀 First [[Cataclysmic Aftermath]] with the [[Hyper Chord]] [[Polychord Crisis]] of [[The Ultimate Weapon]]. Leads back to the [[Age of Desolation]].**
 
-### Tier 3: Industrialization [[Ages]]
+### Tier 3: [[Ages]] of Empires & Industrialization
 #### Age VII ([[Ages]] of Renaissance & Discovery)
 
 3 [[Act of Fate]].
@@ -210,7 +219,7 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 - [[Age of Silence]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Waltz Pillar]] | Dark Fantasy
 - [[Age of the Debt of Flesh]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Regalia Pillar]] |Horror Fantasy
 
-**[[Original Eight]] Empowered: Shrieking Sentinel. [[Anxithor]]**
+**[[Original Eight]] Empowered: [[Eirenesis Anakriach]]. [[Anxithor]]**
 
 #### Age IX ([[Ages]] of Industrialization)
 
@@ -234,14 +243,15 @@ Second "Age of [[Humanity]]."
 
 **[[Original Eight]] Empowered: The Corpus Mortuum. [[Carnalix]]**
 
-### Tier 4: Unification [[Ages]]
+### Tier 4: [[Ages]] of Unification
 #### Age XI ([[Ages]] of Global Conflicts & World Wars)
 
 4 [[Act of Fate]].
 
 Third "Age of [[Humanity]]." that considers the span of the Atomic Era to the Information Era.
 
-- [[Age of Starlight]] ([[Golden Age]]) | [[Aureus Pillar]] | Magical Girls using [[Primordial Star]]s for [[Consonance]]
+- [[Age of Starlight]] ([[Golden Age]]) | [[Aureus Pillar]] | Magical Girls using [[Primordial Star]]s for [[Consonance]].
+- [[Age of the Soliton]] ([[Classical Age]]) | [[Aureus Pillar]] | Scientific advancements on the [[Soliton]] and on [[Frequency Harmonics]] for long range communication.
 - [[Age of Hyperphantasia]] ([[Dark Age]]) | [[Regalia Pillar]] | Powerful [[Delusional]] Conditioned Individuals (Dark Type Magical Girls) by [[Institute]]s to reach the apex of [[Hyperphantasia Arts]] without relying on [[Consonance]]. Weaponizes [[Crystalized in Delusion]].
 
 **[[Original Eight]] Empowered: [[Looping Paradox]]. [[Obsessian]]**

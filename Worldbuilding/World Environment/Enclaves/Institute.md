@@ -250,13 +250,13 @@ The code list and priority of the [[Emergency Breach Color Codex]] is the follow
 | [[Code Crimson]] | [[Cindergale]] Crimson | Hostile attack or active [[Atonalis]] breach                         | Immediate deterrence and path response by [[CRL]] |
 | [[Code White]]   | [[Luminance]] White    | Information hazard, epistemic contamination                          | Information blackout, no new acquisition          |
 | [[Code Pink]]    | [[Crystal]] Pink       | Active distress signal, network intervention required                | Endure, stall, preserve, await reinforcement      |
-| [[Code Black]]   | [[Dissonance]] Black   | [[Exogenesis Threat]], under the watch of the [[Shrieking Sentinel]] | Nomenclature blackout, Exogenesis sub-protocol    |
+| [[Code Black]]   | [[Dissonance]] Black   | [[Exogenesis Threat]], under the watch of the [[Shrieking Terror]] | Nomenclature blackout, Exogenesis sub-protocol    |
 
 Each color response is not only a hazard marker, but also a behavioral command. All personnel are trained to react to the color first and ask questions only after the situation is stable. In active breach conditions, specificity is often more dangerous than silence.
 
 The codex can stack when multiple failures occur simultaneously, but the highest-priority code always governs the response order. In most cases, environmental codes outrank administrative concern, while epistemic threats outrank all ordinary evacuation logic. Any [[Code Black]] on an [[Exogenesis Threat]] is the single highest priority of all the codex that overrides all previous notices.
 
-This code system was created by [[Miss Nyctilia]] and it uses her voice as the broadcasting system through her advanced mastery of [[Field Magic]], and [[Voice Projection Arts]]. It began with the first seven colors that introduced [[Code Black]] after the first major breach of the [[Dissonance League]] with the [[Shrieking Sentinel]] that she barely survived by singing the song of her homeland.
+This code system was created by [[Miss Nyctilia]] and it uses her voice as the broadcasting system through her advanced mastery of [[Field Magic]], and [[Voice Projection Arts]]. It began with the first seven colors that introduced [[Code Black]] after the first major breach of the [[Dissonance League]] with the [[Shrieking Terror]] that she barely survived by singing the song of her homeland.
 
 #### [[Code Gold]] — The Signal of Relief
 
@@ -399,15 +399,15 @@ A [[Code Pink]] usually transitions on the failure of a [[Code Crimson]] if the 
 
 #### [[Code Black]] — [[Exogenesis Threat]]
 
-[[Code Black]] is the highest priority order of the entire [[Emergency Breach Color Codex]]. It means that the [[Scorching Truth]]s of the facility have alerted the [[Shrieking Sentinel]], and the first of the [[Original Eight]] is hunting within or adjacent to the facility. All personnel must immediately reduce their information profile to the minimum necessary for survival and follow Exogenesis sub-protocols.
+[[Code Black]] is the highest priority order of the entire [[Emergency Breach Color Codex]]. It means that the [[Scorching Truth]]s of the facility have alerted the [[Shrieking Terror]], and the first of the [[Original Eight]] is hunting within or adjacent to the facility. All personnel must immediately reduce their information profile to the minimum necessary for survival and follow Exogenesis sub-protocols.
 
-[[Code Black]] is the only emergency code in the [[DCP]] that does not name its threat directly in broadcast or documentation. This is not bureaucratic caution. It is the mechanism of survival itself. The [[Shrieking Sentinel]] is the [[Primal Discordia]] of the [[Anxithor]] path whose predatory logic is rooted in the presence of fear-saturated knowledge: it hunts by tracking [[Resonance]] signatures dense with terror, certainty about [[Scorching Truth]]s, and awareness of the specific nature of what is coming for it. The more a person knows about it — its name, its nature, how it kills, how it moves — the louder their [[Resonance]] signature burns to it, and the faster it arrives as a preemptive strike to erase its name from history.
+[[Code Black]] is the only emergency code in the [[DCP]] that does not name its threat directly in broadcast or documentation. This is not bureaucratic caution. It is the mechanism of survival itself. The [[Shrieking Terror]] is the [[Primal Discordia]] of the [[Anxithor]] path whose predatory logic is rooted in the presence of fear-saturated knowledge: it hunts by tracking [[Resonance]] signatures dense with terror, certainty about [[Scorching Truth]]s, and awareness of the specific nature of what is coming for it. The more a person knows about it — its name, its nature, how it kills, how it moves — the louder their [[Resonance]] signature burns to it, and the faster it arrives as a preemptive strike to erase its name from history.
 
-The [[Exogenesis Threat]] protocol is therefore a system of deliberate informational self-reduction. Even the name itself is meant to be a loophole so that it doesn't alert the [[Shrieking Sentinel]]. It does not eliminate danger. It reduces the signal each individual emits by collapsing the volume of specific knowledge they actively hold.
+The [[Exogenesis Threat]] protocol is therefore a system of deliberate informational self-reduction. Even the name itself is meant to be a loophole so that it doesn't alert the [[Shrieking Terror]]. It does not eliminate danger. It reduces the signal each individual emits by collapsing the volume of specific knowledge they actively hold.
 
 Personnel are instructed to maintain one thought: _movement, not understanding._ 
 
-The moment a person stops to think about what is hunting them, they have given it a louder signal. They have to repeat a simple lullaby to cloud their mind and prevent other thoughts while offering comfort and deceiving the [[Shrieking Sentinel]] into believing they no longer think or know about it.
+The moment a person stops to think about what is hunting them, they have given it a louder signal. They have to repeat a simple lullaby to cloud their mind and prevent other thoughts while offering comfort and deceiving the [[Shrieking Terror]] into believing they no longer think or know about it.
 
 _"Light above me, [[Moon]] beside me,  
 Thread beneath me, song inside me.  
@@ -426,7 +426,7 @@ This song is the [[Soul Leitmotif]] of [[Miss Nyctilia]].
 
 - **Exogenesis-2 | EXO 2 — Active Suppression:** Triggered when the threat has entered the facility perimeter. All personnel shift to need-only communication. The facility moves to acoustic dampening protocols where voices are suppressed, [[Silence Arts]] and [[Resonance]] shielding is reinforced to reduce the emotional broadcast of terror emanating from frightened staff. Personnel move in pairs, without verbal confirmation of what they are doing, following only color-coded physical floor markers and pre-memorized movement routes.
 
-- **Exogenesis-3 | EXO 3 — Total Nomenclature Blackout:** Full communications lockdown. No entity is named in any broadcast. No event is described in specific terms. Incident reports during active Code Black use approved substitution language. Death caused by the [[Shrieking Sentinel]] is logged as spontaneous decoherence event or [[Instant Combustion Syndrome]]. A missing colleague is logged as "unscheduled relocation" and "indefinite vacations." A destroyed wing is an "atmospheric expansion" event. The substitution language is not designed to deceive investigators after the fact. It is designed to ensure that no one reading a live update during the event accumulates enough specific knowledge to become a high priority target for the [[Shrieking Sentinel]].
+- **Exogenesis-3 | EXO 3 — Total Nomenclature Blackout:** Full communications lockdown. No entity is named in any broadcast. No event is described in specific terms. Incident reports during active Code Black use approved substitution language. Death caused by the [[Shrieking Terror]] is logged as spontaneous decoherence event or [[Instant Combustion Syndrome]]. A missing colleague is logged as "unscheduled relocation" and "indefinite vacations." A destroyed wing is an "atmospheric expansion" event. The substitution language is not designed to deceive investigators after the fact. It is designed to ensure that no one reading a live update during the event accumulates enough specific knowledge to become a high priority target for the [[Shrieking Terror]].
 
 **Standing maxim: SING THE GOLDEN SONG.**
 
@@ -434,13 +434,13 @@ The approved broadcast phrase for [[Code Black]] during Exogenesis-3 is:
 
 _"Something is in the building. Move to where the lights are golden. Do not ask why. Sing the golden song."_
 
-This phrase is carefully constructed: it confirms a threat exists without naming it, it directs movement without describing the path, and it does not provoke the question of what specifically is hunting them. Asking what is hunting them is the last mistake many personnel make, and it offers comfort and a deception to the [[Shrieking Sentinel]] disguised as both a story and a prayer.
+This phrase is carefully constructed: it confirms a threat exists without naming it, it directs movement without describing the path, and it does not provoke the question of what specifically is hunting them. Asking what is hunting them is the last mistake many personnel make, and it offers comfort and a deception to the [[Shrieking Terror]] disguised as both a story and a prayer.
 
 Personnel who survive Code Black events without injury are placed under a mandatory 72-hour information quarantine, during which they are not permitted to receive debriefs, read incident reports, or discuss the event with colleagues, because the instinct to understand what just happened is itself a post-event vulnerability to [[Resonance]] residue from the predator's passage.
 
 The first recorded [[Code Black]] was filed as follows. Cause of death: spontaneous decoherence event, [[Instant Combustion Syndrome]] of three personnel. Estimated time of event: between the third and fourth [[Bar]]. Contributing factors: unknown. Facility status: all remaining personnel relocated under Exogenesis-3. Event duration: until something else drew the attention of the cause of the spontaneous decoherence event elsewhere.
 
-The [[Shrieking Sentinel]]'s name does not appear in the report. It never does, as hoarding too much information of [[Scorching Truth]]s will make you the next target.
+The [[Shrieking Terror]]'s name does not appear in the report. It never does, as hoarding too much information of [[Scorching Truth]]s will make you the next target.
 
 #### Legacy
 

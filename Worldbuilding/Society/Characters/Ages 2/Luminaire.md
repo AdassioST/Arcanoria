@@ -255,7 +255,7 @@ It is a bitter laugh. A laugh of intoxicating release. A laugh of someone who ha
 "And I am going to hollow." The words echo the cathedral.
 
 **Part VII: Aftermath**
-
+[[Father Raphael]]
 When [[Luminaire]] enters the [[Auroral Ribbons]], something happens that surprises even [[Lacrimosa]].
 
 Because [[Luminaire]] is not just any [[Spellweaver]]. She is the most gifted magical practitioner in [[Hollowmarch]].
@@ -293,7 +293,7 @@ And when [[Lacrimosa]] offers them the chance to stop using that language, to si
 [[Hollowmarch]]'s greatest defender has become its greatest threat.
 
 Not through rebellion. Not through fighting.
-W
+
 But simply by choosing to stop.
 
 To be embraced in the [[Purest of Love]].

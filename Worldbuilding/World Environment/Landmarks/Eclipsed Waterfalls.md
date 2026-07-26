@@ -1,0 +1,3 @@
+#biome 
+
+A type of [[Landmark]] prevalent through all of [[Arcanoria]] that consists of thermal twin mirror waterfalls overlooking cliffs, they are vibrant in [[Aetherlight]] at their peaks, and have deposits of [[Sky Glass]]. They are rare oasis that sometimes have special properties, they always run on [[Leylines]] converging, empower ambient magic, and usually have presence of [[Pure Light]] beings of low [[Auric Structure]] during any [[Ritual Seventh]]. These are usually revered for most of the [[Auric Order]] and considered a [[Sacred Site]] whenever there is high enough convergence of [[Leylines]]. They exist most uniquely in the [[Crescent Mist Peaks]] having instead [[Lunehymn]] mist.

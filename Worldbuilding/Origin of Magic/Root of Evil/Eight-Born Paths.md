@@ -28,7 +28,7 @@ Feeds on: Fear, dread, anxious anticipation, paranoid certainty.
 
 **Behavior:** Usually behaves by preemptive hostility, it is both protective of their territory yet paranoid; secludes and guards victims while feeding on their terror.
 
-[[Original Eight]] [[Primal Discordia]]: The Shrieking Sentinel.
+[[Original Eight]] [[Primal Discordia]]: [[Eirenesis Anakriach]], the Anacrusis of Creation.
 
 **Path II: [[Discant]] - The Oscillating Affect (15.5%)**
 

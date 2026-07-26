@@ -175,6 +175,141 @@
 		Capítulo 83 — (Partitura XIV | Acto 83)
 		Capítulo 84 — La leyenda de la emperatriz violeta de [[Iridia]] (Partitura XIV | Acto 84)
 
+
+_Acto 0_
+
+La última cosa que le dejó su madre fue peso.
+
+No calor. El calor se había desvanecido desde hacía dos días.
+
+Descansaba en su mano como una piedra que aún recordaba el fuego.
+
+No, nunca algo gentil. Lo que ella tenía era la luz que se drena después de que la última vela de un hogar que huye finalmente se apaga. No el calor de la llama, sino lo que permanece cuando todos han escapado. Era el peso afinado, sacrificial y absoluto de la sombra que dejó.
+
+Recuerda el tercer cruce de río —o al menos un fragmento de él.
+
+Un Latido.
+
+Una silueta espectral que danzaba en el espacio que había detrás de ellas.
+
+Una se volvió tres, tres se volvieron muchas. Las sombras se imprimían en los muros, cerrándose sobre ella. Su risa se torció en alaridos.
+
+Su madre la alzó de un solo movimiento, alejándola de la muchedumbre que no hacía sino crecer en éxtasis bajo el sonido de sus pasos.
+
+Un segundo latido.
+
+Su madre dejó de cargarla.
+
+Corrieron juntas por las calles olvidadas que la muerte había marcado a fuego. Sus labios rozaban el cabello plateado de ella murmurando algo —desesperado, seguido por el sonido sombrío de la euforia que esos mismos labios contenían a fuerza de morderlos.
+
+Después llegaron las lágrimas. Estaba agotada. Intentó llamarla, pero la mano que la arrastraba no se detuvo.
+
+Era la única herencia que le quedaba: el vacío de una mano que había dejado de responder, sin importar con cuánta fuerza la apretaran sus pequeños dedos.
+
+Un tercer latido.
+
+Torcieron bruscamente hacia un río.
+
+Una canción comenzó en medio del caos: al principio resonante, serena. Luego se fue deshilachando en aullidos y un zumbido estático bajo. Luego un leve susurro de interferencia. Luego nada.
+
+Luego un chirrido ensordecedor.
+
+Un destello los arrojó fuera del camino en ruinas.
+
+Su madre volvió a cargarla. Saltó hacia el paso inferior en dirección al puente, su cabello plateado esquivando apenas un puño de fuego lanzado contra ellas.
+
+El silencio rompió la quietud del aire en una explosión súbita que evaporó la calle a sus espaldas.
+
+Falló. Cayeron en el paso inferior. Algo crujió.
+
+Chispas brotaron sobre sus cabezas.
+
+Su madre la depositó en el adoquín mojado. Volvían a correr, valiéndose de cuanta fuerza pudiese dar un solo pie sano, a través de brasas que pintaban las paredes de arriba.
+
+El murmullo regresó. Su madre apretó los labios con tanta fuerza que se hizo sangre, hasta que volvió a tragarse el sonido hacia su garganta.
+
+Entonces se arrojaron al río. El agua ahogó lo que quedaba de la voz de su madre.
+
+La corriente la golpeó primero en las piernas.
+
+Un cuarto latido, más fuerte ahora.
+
+El agua negra. El frío llegándole hasta la cintura. Los brazos de su madre —deliberados ahora de una manera en que nunca antes lo habían sido. Cada uno era un paso de desafío.
+
+La fuerza de su madre se convirtió en una danza precisa mientras avanzaba con cuidado bajo el puente, su cuerpo temblando contra la corriente.
+
+En enfoque perfecto, su madre siguió adelante.
+
+En la orilla lejana sobre ellas, una caravana aguardaba en el horizonte, señalando con luces prismáticas que ella no sabía leer y voces que no lograba entender.
+
+Desde la carreta, unas manos descendieron a través de la luz oscurecida por la lluvia.
+
+Su madre se detuvo justo bajo el arco de piedra.
+
+El abrazo sobre su mano se tensó. Luego destellos de gente en movimiento —un brazo, voces, manos desconocidas que bajaban hacia ella.
+
+Su madre no la soltó.
+
+Un quinto pulso, cargado de Disonancia.
+
+En ese instante, el peso aún era calor. La respiración de su madre llegaba fuerte, entrecortada —el último ancla contra la estática invasiva que volvía a iniciar su zumbido eléctrico.
+
+Esos brazos la estrecharon contra sí una última vez.
+
+Todo en ese abrazo estaba mal. Demasiado fuerte. Demasiado breve. El último.
+
+Entonces su madre se apartó. Solo lo justo para mirarla. Ese rostro estaba desfigurado por la sangre, la fiebre, la travesía —y por algo peor que todo eso. Algo que le erizó cada vello de sus frágiles brazos.
+
+Y la levantó hacia la luz.
+
+Sus ojos, vibrantes en resonancia, no se cerraron. Resistieron —resistieron— hasta que los brazos de la carreta recorrieron la distancia que quedaba.
+
+La mirada de su madre se convirtió en el último punto fijo en un mundo que se caía a pedazos. Ella no recuerda haberla soltado. Ni siquiera ahora.
+
+Pero entonces ya estaba sobre el camino del puente, cargada por desconocidos que huían frenéticamente de su madre.
+
+Intentó alcanzarla. No importó.
+
+La Gran Plaga no tuvo piedad con los huérfanos.
+
+Las manos extrañas la arrastraron a la carreta. Las ruedas siguieron moviéndose y, muy abajo, el agua oscura se tragó la orilla.
+
+Tuvo una última visión de su madre en el sonido creciente de la estática.
+
+Un sexto Latido, agonizante.
+
+Le llamó, pronunciando una sola palabra.
+
+Su boca ya cedía al destello violento y ensordecedor cuando lo dijo.
+
+No fue un adiós. No fue una instrucción. Ni siquiera una plegaria. Solo una palabra que llevaba el peso de las tres.
+
+La miró una vez. Solo una vez. Y dijo—
+
+![[Amadea-11.png]]
+
+—«[[Amadea]]», había dicho su madre.
+
+El nombre que se convertiría en una corona que ella pasaría el resto de su vida intentando merecer.
+
+Cuatro sílabas y una broma cruel abandonada a un mundo de estática moribunda —fuera mandato o esperanza, no importaba. El silencio se abrió antes de que cupiera cualquiera de los dos.
+
+Una cascada repentina de explosiones brotó justo donde su madre debía haber estado.
+
+Las brasas sacudieron la cola de la carreta. Luego luz —demasiada luz— y el recuerdo se detuvo de golpe en el sonido que le zumbaba en los oídos.
+
+¿Acaso aún quedaban [Pulsos](https://www.perplexity.ai/search/Pulso)?
+
+No podía responder.
+
+Debería haber habido un [Séptimo](https://www.perplexity.ai/search/S%C3%A9ptimo), pero ya no podía contar. La [Disonancia](https://www.perplexity.ai/search/Disonancia) aún le colmaba los oídos, distorsionando los bordes de todo en ruido blanco mientras apretaba las rodillas contra su cuerpo.
+
+El último vestigio del calor de la mano de su madre se había vuelto frío entre las suyas en algún lugar del espacio entre el instante en que ella se convirtió en luz y las [Lunas](https://www.perplexity.ai/search/Luna) que vinieron después y que ella no logra reconstruir.
+
+Solo sentía madera vieja y agrietada, hasta que incluso sus dedos se entumecieron. El destello violento seguía deformando todos sus sentidos. Lo consumía todo —todo menos un olor tenue y persistente.
+
+Dulzura: tenue, intoxicante, obscena.
+
 ## Movimiento 1: El Sueño
 
 ### Partitura I. Una Balada Antes de [[Iridia]]

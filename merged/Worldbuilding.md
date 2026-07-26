@@ -150,6 +150,8 @@ Sigue esperando aquí.
 
 # A Pact of a Thousand Eyes
 
+_"Children born of one emotion. Our devotion's deepest ocean. No division, reasoned we'll be freed."_
+
 Crisis if the [[Civilization]] invoked [[Lacrimosa]] from the [[Auroral Ribbons]].
 
 The [[Flesh-Exalting Transcendence]] of the [[Outer God]] [[Lacrimosa]]. Consumes [[Civilization]] leading to the [[Age of the False Messiah]].
@@ -209,7 +211,7 @@ Survive through [[Ages]] I
 _"It's the Moths! The Moths!: Survive the [[Great Plague]]."_
 
 Survive through [[Ages]] II
-_"Age of the [[Purest of Love]]: Invite [[Lacrimosa]] to [[Arcanoria]]."_
+_"You, too, deserve the [[Purest of Love]]: Invite [[Lacrimosa]] to [[Arcanoria]]."_
 
 Survive through [[Ages]] III
 _"The [[Law of Relics]]: Witness the birth of all [[Magical Relic]]s and magic in objects."_
@@ -232,7 +234,28 @@ _"3 x 4 x 0: No tyrant will become the head of the snake ever again..."_
 Fail in the [[Cataclysmic Aftermath]] of [[Ages]] XIII
 _"3 x 0 x 7: I wish for you to turn back the clock of fate..."_
 
+Enter a [[Golden Age]] for the first time
+_"Metanoia: And the beacon shines in the static, and the static has not overcome it; for hope tuning to [[Resonance]] is the only light the silence can never extinguish."_
+
+Enter a [[Dark Age]] for the first time
+_"Anagnorisis: Then the eyes of the [[Civilization]] were opened, and they realized they were stripped of grace; so they sewed brittle truths together to clothe against their own shadows."_
+
+Enter a Requiem [[Dark Age]] as a result of achieving a [[Dark Age]] immediately after a [[Golden Age]]
+_"The Darkest Hour: For every [[Civilization]] that has ever fallen believed, until the very moment the tuning warped into [[Dissonance]], that it was the exception to the [[Cycle]]."_
+
+Enter a Cadenza [[Golden Age]] as a result of achieving a [[Golden Age]] immediately after a [[Dark Age]]
+_"Ignis Aurum Probat: Yet from the silence can a defiant virtuoso break the tempo. Only when forged in the crucible of those brittle ashes, is [[Consonance]] reborn in the veil of the stars. Per aspera ad astra."_
+
+Experience all types of [[Ages]]: [[Classical Age]], [[Dark Age]], [[Golden Age]], Requiem [[Dark Age]], Cadenza [[Golden Age]]
+_"The Strauss-Howe Prophecy: The great wheel of the Saeculum turns, forever restless and, always, always, to the rhythm of the [[Trinity Harmony]]."_
+
+Reach the end of the [[Second Reset]] and start a [[Civilization]] in the [[Third Reset]]
+_"Welcome to [[Arcanoria]]: Unlock the real game of [[Gateway To Genesis]]. History is not linear nor is it prettily decorated in roses."_
+
 ### [[Ballad]]s
+
+Meet [[The White-Touched Archivist]]
+_"An Eccentric Madman: Find the entrance to an impossible library and a very peculiar narrator."_
 
 Finish the [[Ballad]] of [[Eyras]] and [[The Cradle of Echoes]]
 _"Goodbye, Mother: Vanquish [[The Cradle of Echoes]] and liberate [[Eyras]]."_
@@ -240,27 +263,218 @@ _"Goodbye, Mother: Vanquish [[The Cradle of Echoes]] and liberate [[Eyras]]."_
 ### [[Stellar Legacy Score]]
 
 Liberate a [[Constellation]] into [[The Eternal Symphony]]
-_"Released into [[Stardust]]: Sever the tether anchoring a [[Constellation]] to [[Arcanoria]]."_
+_"Released into [[Stardust]]: Sever the tether anchoring a [[Constellation]] to [[Arcanoria]] to grant them the peace of joining [[The Eternal Symphony]]."_
 
-Develop a [[Legend]] that has Three Maladaptive Middle [[Legend Trait]]s
+Develop a [[Legend]] that has Three Maladaptive or Toxic Middle [[Legend Trait]]s
 _"Bundle of Joy: Make a [[Legend]] that is a delight to be around with."_
 
-### [[Legend]]s & [[Civilization]]
+Witness the [[Motif Awakening]] of a [[Legend]] to any [[Ornament]]
+_"Alchemical Pelican: The old self must die to fertilize the development of the new."_
+
+Witness a [[Legend]] recover from Spiraling [[Composure]] and as result evolve one of their [[Legend Trait]]s alongside a new [[Motif Awakening]]
+_"You Are Filled With Determination: Their [[Fundamental Frequency]] never asked permission to keep going."_
+
+Witness any [[Legend]] share a [[Scorching Truth]] and be rejected, imprisoned, or executed for heresy
+_"The Cave's Exit: The blinding [[Luminance]] was so perfect that no one believed they had seen it."
+
+Witness any [[Legend]] reach the [[Catalytic Abyss of Emotion]]
+_"The Crux of Nigredo: Have a [[Legend]] reach the dark night of their soul."_
+
+Witness any [[Legend]] reach the Spiraling [[Composure]] level
+_"Let's Go To Therapy!: Have a [[Legend]] enter the last point where anyone can intervene to save them."_
+
+Ascend a [[Legend]] into a [[Constellation]] on the [[Stellar Legacy Score]] during an [[Age Transition]]
+_"Kenosis of a Star: Death is just the day of the publication of your [[Magnum Opus]]."_
+
+Fill all the slots of a [[Civilization]]'s Government Council by appointing 6 [[Legend]]s and a [[Head of State]]
+_"A League of [[Legend]]s: And together, we are the League of [[Legend]]s!"_
+
+Trigger [[Mythic Drift]] for a [[Constellation]]
+_"Palimpsest of the Stars: A [[Legend]] is not what was written, rather it is what the living cannot stop writing as myths over the dead."_
+
+Use [[Myth Purification]] to cleanse the [[Mythic Drift]] of a [[Constellation]]
+_"Apocatastasis: Remember what was always there, beneath everything that pretended to replace it."_
+
+Use [[Syncretism]] to merge two [[Constellation]]s
+_"Interpretatio Aeterna: Two truths that cannot exist together have always been a single truth that hadn't found a name yet."_
+
+Develop a [[Legend]]'s starting Personality [[Legend Trait]] into an [[Apex Trait]]
+_"Tathāgata of the [[Soul Leitmotif]]: Grow a [[Legend]] that became so entirely themselves that their [[Fundamental Frequency]] finally resolved into the note it was always meant to be."
+
+Have an [[Underdog]] produce 3× [[Lyrical Fragment]]s on a single action
+_"The Stone The Builders Rejected: [[The Eternal Symphony]] doesn't grade prestige, It grades the [[Resonance]] of a soul."_
+
+Have an [[Underdog]] achieve the highest [[Myth Grade]] as a [[Constellation]]
+_"Despite Everything, It's Still You: No matter how the world tried to break you, you proved that only in the darkest of nights can the stars shine the brightest."_
+
+Forge the [[Magnum Opus]] of a [[Legend]]
+_"Poiēsis in Flesh: Reach the moment a [[Legend]] and their making become the same [[Bar]] on their [[Soul Sheet Music]]."_
+
+Forge a [[Slayer Magnum Opus]] of a [[Legend]]
+_"The Thirteenth Labor: There was no prophecy, only an insurmountable beast, and the decision to make history."_
+
+Have a [[Legend]] develop a 3-Star Apex [[Spellweaving]] [[Legend Trait]]
+_"The 10,001th Hour: I fear not the [[Spellweaver]] who has practiced 10,000 spells once, but I fear the [[Spellweaver]] who has practiced one spell 10,000 times."_
+
+Witness a [[Legend Relationship]] reach the level of [[Romantic Interest]] of Infatuated for another [[Legend]] that is on the starting levels of [[Romantic Interest]].
+_"An Infatuated Obsession: You just don't know it yet, but you love me and I love you the same. One day we'll have a pretty wedding, and I'll be your everything."_
+
+Witness a [[Legend]] be crushed by the [[Weight of Potential]]
+_"The [[Crystal]] Jar: I saw my life branching out like an [[Auric Peach]] Tree. From the tip of every branch, a wonderful future. I sat at the crotch, starving to death; I wanted them all, but choosing one meant losing the rest. Unable to decide, I saw the golden peaches wrinkle into shades of brown, plopping one by one to the ground at my feet."
+
+### Culture, [[Civic]]s & [[Civilization]]
 
 Have a fully [[Ornament]]al [[Major Settlement]]
 _"[[Soul Leitmotif]] of [[Civilization]]: Develop a rich long-standing history of a [[Major Settlement]]."_
 
-Meet [[The White-Touched Archivist]]
-_"An Eccentric Madman: Find the entrance to an impossible library and a very peculiar narrator."_
+Have none of your original starting [[Civic]]s
+_"Ship of Theseus: Wait, at what point did we change culture?"_
 
+Reform a culture or adopt a [[Civic]] from the ruins of a fallen settlement
+_"Digestive Rebirth: The ruins of the past fuel the roots of the present."_
+
+Trigger [[Static Criticality]] due to an imbalance of the [[Dual Confluence Stream]]
+_"[[Static Criticality]]: You can't consume the world without the world consuming you back."_
+
+Use the [[Resonance Anchors]] unlocked by [[Achievement]]s to create permanent upgrades for [[Civilization]]
+_"Compost Your Failures: Use prestige to unlock upgrades from [[Divine Reset]]s."_
+
+Reach the end of an [[Age Crisis]] in Ironman mode
+_"Iron Will, Fragile World: You chose to never look away, so nothing else can"_
+
+Fail a high-stake decision as a Critical Failure for a luck-based challenge
+_"Heads, You Vanish: The coin always lands on the side you never see. You cast hope to the heavens, only to learn the universe minted a third side just to watch the prayer dissolve into [[Signal Loss]]."_
+
+Win a high-stake decision as a Critical Success in a luck-based challenge by hitting a threshold of Forsaken with 10% or less probability of success
+_"Butterfly Survives the Storm: Improbable is not the same as impossible. The butterfly simply beat its wings in the precise rhythm needed to thread the downpour, untouched by a single drop."_
+
+Have [[Piety]] trigger the saving grace of a decision that should've failed in a luck-based challenge
+_"The Aria Was Listening That Day: Faith does not move the mountain, it moved you to the right side of it."_
+
+Hit a modernization [[World Event]] that forces reformation or syncretism of a [[Civic]] that your [[Civilization]] has held for more than two [[Ages]]
+_"Modernity Bites Back: Every word for love needs a new word for exile."_
+
+Adopt a [[Fanatical]] [[Civic]]
+_"Overton's Threshold: Of course, the unthinkable became obvious!"_
+
+Adopt any Cusp or [[Dissonance]] [[Civic]] beyond your initial [[Civic]]s
+_"Slippery Slope: How bad can I be? Honestly, how bad could this possibly be?"_
+
+Build a [[Constellation]] Monument in any [[Major Settlement]] to a [[Legend]] lost to tragedy
+_"Kenotaph: The stars were born from someone who never came back to be buried."_
+
+Justify any [[Atrocity]] in your [[Civilization]]
+_"Hume's Guillotine: From what is, you cannot cut what ought to be. And yet someone always does."_
+
+Revise the Death Count of any official ledger in your [[Civilization]]
+_"The Trolley That Kept Moving: You didn't fail to save the five, you just wrote it as one."
+
+Reveal and condemn the historical revisionism of any [[Civilization]] that rewrote the death count of any official ledger by exposing the truth of the tragedy.
+_"People Are Never Numbers!: Expose the ultimate corruption of the [[Weight of Value]] taking root on the tyrants of [[Civilization]]."_
+
+Adopt a [[Religion]] with a stable [[Piety]] output without the help of [[Prophet]] [[Civic]]s
+_"Pascal's Compromise: It's not that you had to believe but the altar was useful anyway."
+
+Found a [[Religion]]
+_"Genesis 1:5: The Aria called [[Luminance]] Day, and the [[Void]] she called Night. And there was evening and there was morning."_
+
+Outlaw any branch of [[Magic Arts]] in [[Spellweaving]] to be labelled as [[Forbidden Magic]]
+_"Friendship is Magic: The [[Great Harmonic Loom]] has no [[Consciousness]], only the caster does."_
+
+Cause a [[Dark Morale]] revolt from a Critical Failure of any luck-based challenge meant to cover an [[Atrocity]], a [[Scorching Truth]], or any historical revisionism.
+_"The Streisand Settlement: You really shouldn't have revised that ledger."_
+
+Lose any type of settlement beyond the [[Administrative Authority]] of your borders
+_"404: City Not Found: The settlement you were looking for was assimilated into a new [[Civilization]]."_
+
+Reclaim a lost settlement back into your [[Civilization]]
+_"Welcome Back, Traitors: This time I won't lose you again, I swear."_
+
+Perform or receive any [[Ideological Condemnation]] regarding the [[Civic]]s of a [[Civilization]].
+_"Anathema Sit!: They who live for nothing, will die for nothing. Live by the sword, die by the [[Weight of Purpose]]."_
+
+Commit an [[Atrocity]] that your [[Civilization]] had previously outlawed in past [[Ages]]
+_"Santayana's Condemnation: Everything repeats over and over again. No one learns anything because no one lives long enough to see the pattern."_
+
+Legalize a branch of [[Magic Arts]] that was labelled [[Forbidden Magic]] for more than two [[Ages]], and trigger an [[Atonalis]] attack for this very reason within your borders.
+_"Chesterton's [[Atonalis]]: You tore down the ancient laws because they obstructed the future, but what if the door was there to keep you contained from yourself?"_
+
+### Exploration
+
+Uncover two completely unrelated [[Enclave]]s that share the same origin wound.
+_"Panthalassa: Before there were shores, [[Humanity]] was already connected."_
+
+Uncover the first [[Magic Arts]] giving [[Civilization]] the ability of using [[Click Power]] in [[Ceremonial Arts]] to rhythmically play [[Symphony Card]]s of [[Spellweaving]] songs for higher [[Resources]] production.
+_"Rhythmic Baking: Wait, you can click more than cookies!?"_
+
+Uncover a ruined [[Landmark]] due to an [[Expedition]] that contains an [[Atonalis]] fight.
+_"Here Be Monsters: The [[Expedition]] mapmakers were right, the world is filled with demons."_
+
+Establish direct contact with an [[Outer God]]
+_"Do Not Answer: Can you draw out Leviathan with a hook? No. The abyss has learned your name, and its tongue will drown [[Arcanoria]]. The hook is already in your throat."_
+
+### [[Atonalis]] & [[Spellweaving]] Combat
+
+Witness a [[Soul Leitmotif]] shatter into a [[Dissonance Core]]
+_"Crack of Leitmotif: Some sounds you never learn to hear as music."_
+
+Fight the feeding process of an [[Atonalis]] during [[Spellweaving]] combat
+_"Parasitic [[Resonance]]: Spooky agony at a distance."_
+
+Witness any shapeshifting [[Atonalis]] successfully mimic a deceased [[Legend]], deceiving a second [[Legend]] into trusting them before feeding.
+_"A Chinese Room of Hunger: It sang back every prayer while feeling none of them."_
+
+Have [[Spellweaving]] [[Chord Layering]] turn to [[Discordant Interference]] by leaving several [[Minor Note]]s unresolved in the Visualization phase of [[Spellweaving]] combat
+_"Chekhov's [[Resonance]]: If you show a loaded spell in Act I, it must absolutely go off by Act III."_
+
+Attempt to resolve [[Discordant Interference]] in [[Spellweaving]] [[Chord Layering]] through incremental corrections until the spell finally collapses
+_"Zeno's Crescendo: You kept halving the resolution but it never arrived."_
+
+Cancel the [[Chord Layering]] stack of an enemy spell loaded with 15 or more [[Minor Note]]s during the Abjuration phase of [[Spellweaving]] combat while scoring Perfect in every single note.
+_"[[Arcanoria]] Moment 37: Daigo would be proud of your noise cancelling reflexes."_
+
+Vanquish a [[Primal Discordia]]
+_"Fiat Resonantia: Ex Chao, Ordo."
+
+Cancel a [[Chord Layering]] stack of an enemy spell that should've inflicted more than 70% of the [[Composure]] of a unit with a single defensive [[Symphony Card]].
+_"Potemkin Buster: That shouldn't work. It definitely shouldn't work."_
+
+Lose all of your [[Divination Arts]] and [[Prophetical Arts]] attempts on the same [[Spellweaving]] fight against an [[Atonalis]].
+_"This is [[Gateway To Genesis]]: YOU DIED. YOU DIED. YOU DIED."_
+
+Achieve a Mythical Victory by manually winning a [[Spellweaving]] combat that was destined to fail
+_"Veni, Vidi, Vici: Providence forged an unbeatable giant. You brought a shepherd's sling, and five smooth notes that rewrote the scripture of fate."
+
+Obtain a [[Rose Seed]] from an [[Ascendant]] or higher tier of [[Atonalis]]
+_"Petals of Creation: Harvest a highly beautiful [[Rose Seed]] as monument to the lost potential that was born before the monster."_
+
+Liberate the [[Soul-Key]] of a [[Legend]] you personally knew in life after vanquishing their [[Atonalis]] form
+_"Elegy of a [[Rose Seed]]: Only now, at the edge of silence, can I finally remember your name. Let us sing together in a time beyond time in [[The Eternal Symphony]]."_
+
+Plant the [[Rose Seed]] of a [[Fracted]] [[Atonalis]], along with the trigger object that caused its fracture, after it was vanquished by the same [[Legend]] that pushed its evolution from [[Sectile]] to [[Fracted]].
+_"[[Fated Flower]]s for Algernon: That signal was so clear it broke the [[Dissonance]]. And somewhere between the two, its [[Coherence]] understood exactly what it was losing."_
+
+Immortalize the last words of a [[Legend]] who became an [[Atonalis]], said between the moment of the crack of the [[Soul Leitmotif]], and the birth of a [[Dissonance]] Cocoon
+_"The Song From Halfway Down: A flood of fond endorphins. Brings a calm that knows no equal. You’re singing now. It’s all okay, it would be. Were you not now halfway down."_
+
+### [[World Event]]s & [[Age Crisis]]
+
+Witness [[Lacrimosa]]'s [[Resonance]] [[Motif Awakening]]
+_"Kojève's Winged Blindfold: To be seen by the one who matters, that is everything."
+
+Become a [[Major Actor]] in a [[World Event]]
+_"History is Written by the Victors: Have your [[Civilization]] dictate the fate of the [[Arcanoria]] in the [[Fate Stage]]."_
+
+Uncover the story of [[Mira]]
+_"Across the Sea, to the Land Beyond: [[The Golden Light in the Sky]] was born from a ruined harbor, an orphan, and the end of the world."_
+
+Reclaim your position as a [[Major Actor]] after being cast out of the [[Fate Stage]]
+_"But It Refused: I won't be written out of my own story. I will claw for a better world with my own hands regardless of the insurmountable of the pain I must face."_
 
 ### [[Memory Field]]s and [[Scorching Truth]]s
 
 Discover the origin of the [[Atonalis]]
 _"[[We Are Atonalis]]: Uncover the origin of evil and the seeds in every one of us."_
-
-Uncover the story of [[Mira]]
-_"Across the Sea, to the Land Beyond: Complete the [[Memory Field]] of a ruined harbor, an orphan, and the end of the world."_
 
 Uncover [[The Truth of Arcanoria]]
 _"[[The Truth of Arcanoria]]: Learn the one truth that will set you free."_
@@ -311,13 +525,27 @@ Border sovereignty for a [[Civilization]].
 
 #resource #chaos
 
+_The Force of Creation and Order._
+
 A golden type of ethereal god-ray that can only be caught in an [[Mirrorbox Trap]]. It is narratively paired with [[Lunehymn]] as dual vitality axis in the [[Dual Confluence Stream]], reflecting the relationship between [[Selenea]] and the [[Auric Aria]] as creators of [[Arcanoria]].
 
 # Age Crisis
 
-_"The [[Motif Awakening]] of history itself."_
+_"The [[Motif Awakening]] of history itself. Loss is transformation and [[Age Crisis]] are the fabric the world uses to digest its own history to build a wiser future for the next generations."_
 
-[[Ages]] transition point.
+An [[Ages]] transition point that ends when certain crisis technologies, or checks are triggered, such as population, [[Events]]s, etc., and they're always what separates [[Ages]] regardless of the time period each comprised. There are many but they're always thematically aligned to [[World Event]]s and the climax of pushing one [[Civilization]] limit by introducing tension through their own actions.
+
+[[Gateway To Genesis]] implements [[Age Crisis]] that are triggered based on societal development and present challenges that usually benefit [[Underdog]]s. This is what in the real world the French revolution did for democracies, you don't have to deal with revolutionaries as the rest of the [[Civilization]]s that are endlessly enduring fights to protect their monarchy from the rebel units if you have the correct government type. **[[Age Crisis]] are the main fix to snowball that has been plaguing the 4X genre by merging it with aspects of resets with the Incremental Clicker Genre.**
+
+[[Age Crisis]] behave similar to a board wipe, but keeping technologies, [[World Truth]]s, [[Divine Reset]] incremental points and part of the ruins of settlements with [[Crisis Wonders]] for [[Cataclysmic Aftermath]]s and [[Dark Age]]s. One of these examples is the [[Great Plague]] that hits harder the more developed and interconnected [[Trade Nodes]] are while [[Secluded Refuge]]s get hit last. Similarly, [[The Hollowing]] attacks the aristocracy and the power structures by first having [[Legend]]s surrender under the weight of maintenance. Some do require strong cohesion to defend territory like the [[Atonalis]] Reign or the [[Holy War]] which make more territory harder to defend, and more likely to be targeted. Finally, the [[Fate Stage]] presents roles bonuses and special objectives for each of the actors that are partaking in a [[World Event]].
+
+[[Age Crisis]] never announce themselves, initially they look like the [[Events]] of an [[Act of Fate]] which tend to be milder versions of [[Age Crisis]], such as a revolt, a plague, an outbreak of sorts, wars, etc. However, [[Age Crisis]] are much more potent because they tend to reach their climax when the entire world is breaking down. There isn't a big announcement saying "[[Age Crisis]]" when it begins, rather it is [[Civilization]] that realizes they're in an [[Age Crisis]] when everything is failing, mirror how real-world crisis function by being labelled as such not at the start but at their climax.
+
+Depending on the [[Age Crisis]] some are more sudden than others, for example, [[The Hollowing]] is one of the faster ones which properly begins with the event of [[A Pact of a Thousand Eyes]] which is visible by the rise of the [[All-Loving Moon]]. However, the [[Great Plague]] begins with a simple cough that has relatively mild symptoms until it becomes the Dancing manifestation, from that point onwards it only truly becomes an [[Age Crisis]] when [[Static Criticality]] starts causing the first cities to detonate and the second wave is ravaging everywhere. Similarly, the [[Holy War]] of [[Ages]] V begins as the third crusade of the crusades that have already been happening during the entire age, but it escalates by involving everyone in what is essentially a world war to end all wars.
+
+The most common of these examples is [[The Inescapable Hunger]] which begins with the even of [[A Brown Auric Peach?]] which is only a low quality harvest. However, this event is the first domino towards the end as it signals how the soil is giving away due to the growing population and unsustainable monocropping practices.
+
+_An [[Age Crisis]] never announces itself, you only know you're in an [[Age Crisis]] when it's too late to stop the momentum of compounding catastrophe from consuming the world._
 
 # Age of Archways
 
@@ -347,7 +575,9 @@ Dark souls
 
 # Age of Chimeras
 
-Fairy teratoma and bad thing going on. Pseudo [[Corruption]] through biotech. No weight just bad. [[Weight of Potential]] related.
+_"Our future will require such violence that our ancestors will cry out in horror."_
+
+Fairy teratomas, pseudo [[Corruption]] through biotech. Chimera Grafting for [[Essence Sacrifice]] and ruthless experimentation with flesh flux luminance cables. Deals with the [[Weight of Potential]] by making a chimera containing everything simultaneously born from the merging of many [[Pure Light]] beings by exploiting the hybridization of [[Pure Light]] against [[Auric Structure]].
 
 # Age of Covens
 
@@ -386,11 +616,17 @@ Trapping [[Outer God]]s in [[Celestial Ensnaring Mirror]]s. Related to the [[Wei
 
 # Age of Glyphs
 
-First magic primarily based on glyphs, it's the partial success of [[Great Plague]]
+First magic primarily based on glyphs, it's the partial success of [[Great Plague]].
+
+Music sheets imbued in the circle of fifths as magic runes with a [[Magical Catalyst]] in the center, lower versions use [[Aetherlight]] or [[Lunehymn]], more permanent uses usually rely on a [[Mirrorbox Trap]], a [[Resonance Box]] or [[Sky Glass]].
+
+It requires [[Resonance]] and [[Stable Harmonic Channels]] to begin functioning. The music sheet is a [[Resonance Field]] dormant on potential acoustic energy that inscribes itself with [[Coherence]] through [[Sympathetic Vibration]].
 
 # Age of Golden Roses
 
-Age of High Dark Fantasy with golden gardens of [[Forsaken Flower]] and [[Fated Flower]]s
+#age
+
+Age of High Dark Fantasy with golden gardens of [[Forsaken Flower]] and [[Fated Flower]]s, it's called like that due to the result of many [[Rose Seed]]s being planted after the sheer amount of [[Atonalis]] and people who died during the [[Holy War]]. It's an age filled with the light of the [[Auroral Ribbons]] due to everyone who perished in the past [[Age Crisis]], from [[Atonalis Nest]]s becoming a tomb of [[Fated Flower]]s to the [[Emotional Residue]] left on the areas ravaged by the [[Holy War]] the hardest.
 
 # Age of High Courts
 
@@ -553,7 +789,7 @@ After choosing the End of the Third Actor, the final sequence of the credits wil
 
 The [[Auric Aria]] will break all of her [[Composure]] as the and she cries while the credits will be reducing with a visible bar of whatever the % completion of the save file and reduce it memory by memory until it reaches 0% signaling the complete conversion of it into fuel for the final leap. Ideally is 100% but if a [[Civilization]] only completed 67%, it will draw from 67% to 0%.
 
-The crucial part here is that the first half of "the credits" isn't actually the credits of the game, it is the record of all the [[Stellar Legacy Score]], and every single [[Legend]] that became a [[Constellation]], beginning with the lower grade ones all the way to the most important ones that [[Civilization]] had until the very end. This is the act of finally releasing all of the remaining ones to [[Stardust]], finally making them join [[The Eternal Symphony]], and they will be draining progressively reminding the player of everything they ever built, from the minor ones becoming [[Stardust]] early for [[Syncretism]] to the major ones they've been keeping since [[Ages]] 0, and all the canonical [[Constellation]]s like [[Cadmus Tacet]], [[Mira]], [[Luminaire]], [[Father Raphael]], [[Vaelia]], etc. The "credits" are going to roll with their [[Legend Trait]] and their name as the role they were playing: [[Cadmus Tacet]] - The Scalpel of [[Humanity]] / The Vivisector.
+The crucial part here is that the first half of "the credits" isn't actually the credits of the game, it is the record of all the [[Stellar Legacy Score]], and every single [[Legend]] that became a [[Constellation]], beginning with the lower grade ones all the way to the most important ones that [[Civilization]] had until the very end. This is the act of finally releasing all of the remaining ones to [[Stardust]], finally making them join [[The Eternal Symphony]], and they will be draining progressively reminding the player of everything they ever built, from the minor ones becoming [[Stardust]] early for [[Syncretism]] to the major ones they've been keeping since [[Ages]] 0, and all the canonical [[Constellation]]s like [[Cadmus Tacet]], [[Mira]], [[Luminaire]], [[Father Raphael]], [[Vaelia]], etc. The "credits" are going to roll with their [[Legend Trait]] and their name as the role they were playing: [[Cadmus Tacet]] - The Scalpel of [[Humanity]] / The Vivisector or [[Amadea]] - The Violet Empress / The [[Mythical Virtuoso]] of the [[Void]].
 
 The very end of the credits will feature [[Selenea]], [[Lacrimosa]], and the [[Auric Aria]] with their respective titles like: The Golden Sovereign and Auric Mother of [[Arcanoria]], the very last name will be The Third Actor playing the role of [[Civilization]]. When this last tether burns both the sound of the [[Auric Aria]] and the symphony of [[Arcanoria]] fade into silence. 
 
@@ -732,7 +968,7 @@ China Wuxia  wanderer stories
 
 # Ages
 
-Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 14, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]]. [[Constellation]]
+Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 14, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]].
 
 Furthermore, [[Ages]] are defined by [[Act of Fate]]s which are one third of the [[Ages]] duration, separating the Early, Middle, and Late version of these [[Ages]], moreover, every 3 [[Ages]] the third will always have 4 [[Act of Fate]]s signaling the "long [[Ages]]." They are intrinsically tied to [[Cosmic Motion]]. Usually the division of an [[Act of Fate]] is a minor version of a [[World Event]] or minor [[Age Crisis]] which can be natural disasters, political conflicts, and other related major significant paradigm shifts for the age.
 
@@ -742,9 +978,16 @@ The diagram of all [[Ages]] is the following:
 
 Excess [[Era Score]] above the required for a [[Golden Age]] becomes points that can redeem failed [[Age Crisis]] checks. Even if [[Civilization]] performs poorly during an [[Age Crisis]], it can be saved by the excess [[Era Score]] to go back into a [[Golden Age]] or resist a [[Dark Age]]. Additional [[Era Score]] is a saving grace buffer for [[Ages]] transitions.
 
+It's possible to change age type every end of an [[Act of Fate]], these changes are called [[Triadic Pivot]]s, but it can only go up or down one stage, such as [[Age of Embers]] ([[Dark Age]]) turning first to [[Age of Glyphs]] ([[Classical Age]]) and then into [[Age of Behemoths]] ([[Golden Age]]) across the entirety of [[Ages]] II.
+
+The final age type that history will remember is classified based on the division of two weighted variables:
+
+- 50% based on which [[Act of Fate]] generated the most [[Era Score]].
+- 50% based on which [[Act of Fate]] generated the most [[Lyrical Fragment]]s.
+
 ## The 14 [[Ages]] of [[Arcanoria]]
 
-### Tier 1: Foundational [[Ages]]
+### Tier 1: [[Ages]] of Foundations & Early Magic
 #### Age 0 ([[Ages]] of [[Cataclysmic Aftermath]] | Stone Age)
 
 3 [[Act of Fate]].
@@ -820,7 +1063,7 @@ The [[Age Crisis]] teaches that [[Civilization]] can participate as a [[Major Ac
 
 _There are [[Minor Actor]] and [[Major Actor]] roles for [[Age Crisis]] and stories._
 
-### Tier 2: Medieval [[Ages]]
+### Tier 2: [[Ages]] of The Medieval Period
 #### Age IV ([[Ages]] of the Early Medieval)
 
 3 [[Act of Fate]].
@@ -855,6 +1098,8 @@ The [[Morpheus Abysmal]] is the first [[Atonalis]] government type structure and
 The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becomes popularized. He eventually dies, but this is one of the important expeditions of [[Cadmus Tacet]]. [[Vals Jenner]] is the second key figure and the first epidemiologist which is a main character in the era although she dies executed for publishing the word of the first vaccine on the [[Great Plague]] inspired by Secrets of the Silent Witch 
 
 [[The Ultimate Weapon]] appears as a legendary [[Crisis Wonders]] as it "detects" the [[Primal White Noise]] that [[Lacrimosa]] unleashed when she performed the [[Hyper Chord]]. It remains active during this era but disappears the next. This is why the Crusades are after the [[Holy War]]. It did exist for a while.
+
+The [[Obsessian]] [[Looping Paradox]] [[Primal Discordia]] appears at the time as a massive dungeon meshi style backroom, it is one of the possible manifestations of other [[Original Eight]] that isn't the [[Morpheus Abysmal]]. The dungeon has [[Cursed Objects]] and sometimes [[World-Bending Relics]] because of the relationships that form inside it as more adventurers go in and perish, the misremembering of the relationships inside it become tangible objects with all the [[Emotional Residue]] of everyone who previously stayed inside. This is why there's powerful loot in the [[Obsessian]] [[Original Eight]] dungeon. Misremembered dream stuff.
 
 **[[Original Eight]] Empowered: [[Morpheus Abysmal]]. [[Animach]]**
 
@@ -900,15 +1145,15 @@ Focus on Kingdom to Empire, established civilizations, culture, courts, secrets.
 _First Cultural Conflicts, Advanced Espionage, Owls of Minerva, Assassins, Betrayals, Courtship, Political Drama & Diplomatic Scandals._
 
 All rhythm types available. First Semi Stable [[Tetrad Chord]]s. [[Triad Chord]] Primacy. [[Dyad Chord]] Mastery. [[Unison]] Mastery. Critical [[Hyper Chord]]s.
-
+[[Hollowmarch]]
 Starting point of Mastery of Magic.
 
 [[Ages]]:
-- [[Age of Golden Roses]] ([[Golden Age]]) | [[Waltz Pillar]] + [[Aureus Pillar]] | Dark Fantasy
+- [[Age of Polyphony]] ([[Golden Age]]) | [[Waltz Pillar]] | Light Fantasy
 - [[Age of Torn Banners]] ([[Classical Age]]) | [[Regalia Pillar]] | Mythic Fantasy (Sengoku)
-- [[Age of High Courts]] ([[Classical Age]]) | [[Regalia Pillar]] | High Fantasy
-- [[Age of Vessels]] ([[Dark Age]]) | [[Waltz Pillar]] | Horror Fantasy
-- [[Age of Auroral Ribbons]] ([[Dark Age]]) | [[Chorus Pillar]] | Dark Fantasy
+- [[Age of High Courts]] ([[Classical Age]]) | [[Regalia Pillar]] + [[Aureus Pillar]] | High Fantasy
+- [[Age of Vessels]] ([[Dark Age]]) | [[Chorus Pillar]] | Horror Fantasy
+- [[Age of Golden Roses]] ([[Dark Age]]) | [[Waltz Pillar]] | Dark Fantasy
 
 _[[Age Crisis]] can end [[Civilization]] and lead to a [[Civilization Reset]]._
 
@@ -920,7 +1165,7 @@ The [[Polychord Crisis]] is going to be the AC, BC of the game. After [[Polychor
 
 **🌀 First [[Cataclysmic Aftermath]] with the [[Hyper Chord]] [[Polychord Crisis]] of [[The Ultimate Weapon]]. Leads back to the [[Age of Desolation]].**
 
-### Tier 3: Industrialization [[Ages]]
+### Tier 3: [[Ages]] of Empires & Industrialization
 #### Age VII ([[Ages]] of Renaissance & Discovery)
 
 3 [[Act of Fate]].
@@ -944,7 +1189,7 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 - [[Age of Silence]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Waltz Pillar]] | Dark Fantasy
 - [[Age of the Debt of Flesh]] ([[Dark Age]]) | [[Chorus Pillar]] + [[Regalia Pillar]] |Horror Fantasy
 
-**[[Original Eight]] Empowered: Shrieking Sentinel. [[Anxithor]]**
+**[[Original Eight]] Empowered: [[Eirenesis Anakriach]]. [[Anxithor]]**
 
 #### Age IX ([[Ages]] of Industrialization)
 
@@ -968,14 +1213,15 @@ Second "Age of [[Humanity]]."
 
 **[[Original Eight]] Empowered: The Corpus Mortuum. [[Carnalix]]**
 
-### Tier 4: Unification [[Ages]]
+### Tier 4: [[Ages]] of Unification
 #### Age XI ([[Ages]] of Global Conflicts & World Wars)
 
 4 [[Act of Fate]].
 
 Third "Age of [[Humanity]]." that considers the span of the Atomic Era to the Information Era.
 
-- [[Age of Starlight]] ([[Golden Age]]) | [[Aureus Pillar]] | Magical Girls using [[Primordial Star]]s for [[Consonance]]
+- [[Age of Starlight]] ([[Golden Age]]) | [[Aureus Pillar]] | Magical Girls using [[Primordial Star]]s for [[Consonance]].
+- [[Age of the Soliton]] ([[Classical Age]]) | [[Aureus Pillar]] | Scientific advancements on the [[Soliton]] and on [[Frequency Harmonics]] for long range communication.
 - [[Age of Hyperphantasia]] ([[Dark Age]]) | [[Regalia Pillar]] | Powerful [[Delusional]] Conditioned Individuals (Dark Type Magical Girls) by [[Institute]]s to reach the apex of [[Hyperphantasia Arts]] without relying on [[Consonance]]. Weaponizes [[Crystalized in Delusion]].
 
 **[[Original Eight]] Empowered: [[Looping Paradox]]. [[Obsessian]]**
@@ -1107,7 +1353,7 @@ Feeds on: Fear, dread, anxious anticipation, paranoid certainty.
 
 **Behavior:** Usually behaves by preemptive hostility, it is both protective of their territory yet paranoid; secludes and guards victims while feeding on their terror.
 
-[[Primal Discordia]]: The Shrieking Sentinel.
+[[Primal Discordia]]: [[Eirenesis Anakriach]], the Anacrusis of Creation.
 
 # Arcanoria
 
@@ -1280,12 +1526,13 @@ The first of the [[Saber-Knight]]s and a key figure for [[Amadea]].
 - [[Charismatic]] -> [[Auspicious Zephyr]] ([[Cindergale]])
 
 [[Legend Opus]]:
-- Sir [[Artus]], "The Greatest Knight" of [[Iridia]] ([[Magnum Opus]])
+- Sir [[Artus]] Marshal of [[Iridia]], "The Greatest Knight" ([[Magnum Opus]])
+- Prodigy Slayer of The Seven Hands [[Ascendant]] [[Anxithor]] ([[Slayer Magnum Opus]])
 - Keeper of the Violet Dream ([[Legend Opus]])
 - Father of the [[Artusian Knight]]s ([[Legend Opus]])
+- Bane of the Undefeated Lionheart ([[Legend Opus]])
 - First [[Saber-Knight]] and Master Duelist ([[Legend Opus]])
 - The Certain Vanquisher of [[Signath]]s ([[Legend Opus]])
-- Slayer of an [[Ascendant]] [[Anxithor]] ([[Slayer Magnum Opus]])
 
 ### Character Arc
 
@@ -1439,6 +1686,12 @@ It does not hunt with fangs or force. It weaves on a vast loom, where its presen
 
 [[The Cradle of Echoes]] became the twisted, living monument to a noble sacrifice of a cost too great for a single soul to bear.
 
+# Atrocity
+
+#chaos #society
+
+Any acts committed by a [[Civilization]] depicting genocides, war, sacrifice, famine suppression, historical revisionism, removal of deaths from ledgers, slavery [[Civic]]s, etc.
+
 # Attunement for Magic
 
 #spellweaving
@@ -1499,7 +1752,7 @@ The [[Mythical Virtuoso]] of [[Resonance]] of the Seven Virtuosi.
 
 For his life during the [[Old Testament]] as one of the [[Seven Archangels]], his true name is [[Mikael]], [[Aurelian]] is the name that [[Daedalus]] gave him when he didn't know his own name due to having been orphaned.
 
-[[Legend Title]]: The Aurean Wind, The Great Father of [[Hollowmarch]], Opus Aureus, Saint Patron of [[Great Sovereign]]s, The First Voice of the [[Auric Aria]].
+[[Legend Title]]: The Aurean Wind, The Great Father of [[Hollowmarch]], Opus Aureus, Saint Patron of [[Great Sovereign]]s, The First Voice of the [[Auric Order]].
 
 [[Primary Instrument]]: [[Soul Oscillator]]
 [[Armament]]: Golden Arched Gladius
@@ -2075,7 +2328,7 @@ After learning [[The Truth of Arcanoria]], Selenic religions tend to adopt and i
 
 ![[Auric Heptacode.png]]
 
-In [[Ages]] VII, the [[Auric Heptacode]] Heptagram becomes the holy symbol for transmutation of alchemical elements of [[Resonance]]. It consists of placing the classical elemental magical [[Resources]] of [[Arcanoria]] based on their hierarchy in [[Cosmic Motion]] and distribution across the vastness of the skies, the immediate overworld, and the deep underground.
+In [[Ages]] VII, the [[Auric Heptacode]] Heptagram becomes the holy symbol for transmutation of alchemical elements of [[Resonance]]. It consists of placing the seven [[Elemental Magical Resource]]s of [[Arcanoria]] based on their hierarchy in [[Cosmic Motion]] and distribution across the vastness of the skies, the immediate overworld, and the deep underground.
 
 The alignment mirrors [[Auric Geometry]] in order from the highest to the lowest, and specifies their physical location in [[Arcanoria]].
 
@@ -2089,19 +2342,19 @@ The alignment mirrors [[Auric Geometry]] in order from the highest to the lowest
 
 Almost all of the classical magical [[Resources]] are available from the start, only [[Luceatfilum]] is made after the [[Law of Relics]] due to [[Lacrimosa]] and the [[Auric Aria]]'s touch and convergence into the [[Leylines]]. Their creation by order is the following:
 
-- [[Rose Seed]]: The first element seeded during the [[Fifth Cycle]] when the [[Auric Aria]] and [[Selenea]] collaborated on the [[First Weaving of Life]] and properly established during the [[Sixth Cycle]]. It is attuned to [[Resonance]] for it was the first element to have tangible form in [[Arcanoria]], and it is the root of all life. It was made from the original joy of the [[Auric Aria]] of participating with [[Selenea]] during the entirety of the [[Sixth Cycle]] truly charged after the creation of the [[Parlor of the Moon]].
+- [[Rose Seed]]: The first element seeded during the [[Fifth Cycle]] when the [[Auric Aria]] and [[Selenea]] collaborated on the [[First Weaving of Life]] and properly established during the [[Sixth Cycle]]. It is attuned to [[Resonance]] for it was the first element to have tangible form in [[Arcanoria]], and it is the root of all life. It was made from the original joy of the [[Auric Aria]] of participating with [[Selenea]] during the entirety of the [[Sixth Cycle]] truly charged after the creation of the [[Parlor of the Moon]]. These don't have an advanced or purified version given that it's already the purified state of a [[Dissonance Core]].
 
-- [[Emberwhisper]]: The element of betrayal created during the [[Seventh Cycle]] during the [[Betrayal of the Moon]] as the intense binding restrain of controlling [[Selenea]]'s essence in an [[Anthropomorphic Shape]] created a reflection of the intense jealousy and need for connection of the [[Auric Aria]] to create [[Humanity]].
+- [[Emberwhisper]]: The element of betrayal created during the [[Seventh Cycle]] during the [[Betrayal of the Moon]] as the intense binding restrain of controlling [[Selenea]]'s essence in an [[Anthropomorphic Shape]] created a reflection of the intense jealousy and need for connection of the [[Auric Aria]] to create [[Humanity]]. Its advanced version is Distilled [[Emberwhisper]].
 
-- [[Lunehymn]]: The element of the essence of [[Selenea]] which became the liquid grief and silver whispers of her vitality and yearning of her daydreaming escapism. It was created in the aftermath of the [[Betrayal of the Moon]] and it began to fill the [[Leylines]] seeding the first part of the [[Dual Confluence Stream]].
+- [[Lunehymn]]: The element of the essence of [[Selenea]] which became the liquid grief and silver whispers of her vitality and yearning of her daydreaming escapism. It was created in the aftermath of the [[Betrayal of the Moon]] and it began to fill the [[Leylines]] seeding the first part of the [[Dual Confluence Stream]]. Its advanced version is Concentrated [[Lunehymn]].
 
-- [[Aetherlight]]: The element of the essence of the [[Auric Aria]], while it "exists" from the moment the [[Auric Heptacode]] was made as the original burst of auric radiance that emitted through [[The Infinite Void]]. The element itself was only seeded in [[Arcanoria]] alongside the [[Dual Confluence Stream]] in the [[Eighth Cycle]] at the climax of [[The Auric Aria's Suicide]]. It was the first element to be liberated into the [[Great Harmonic Loom]] from the raw explosion of magic. It is attuned to [[Luminance]] for it contains all the truth of [[Mastery Over Chaos]].
+- [[Aetherlight]]: The element of the essence of the [[Auric Aria]], while it "exists" from the moment the [[Auric Heptacode]] was made as the original burst of auric radiance that emitted through [[The Infinite Void]]. The element itself was only seeded in [[Arcanoria]] alongside the [[Dual Confluence Stream]] in the [[Eighth Cycle]] at the climax of [[The Auric Aria's Suicide]]. It was the first element to be liberated into the [[Great Harmonic Loom]] from the raw explosion of magic. It is attuned to [[Luminance]] for it contains all the truth of [[Mastery Over Chaos]]. Its advanced version is Focused [[Aetherlight]].
 
-- [[Sky Glass]]: The element of the [[Auric Geometry]] and the original intention of structure and harmony of the [[Auric Aria]]. It was made during the [[Eighth Cycle]] in the climax of [[The Auric Aria's Suicide]]. It was the second element to sublimate into the highest peaks from the raw explosion of magic when it touched the [[Great Harmonic Loom]]. It is attuned to [[Crystal]] for it captures the entirety of [[Auric Geometry]] in a sheet.
+- [[Sky Glass]]: The element of the [[Auric Geometry]] and the original intention of structure and harmony of the [[Auric Aria]]. It was made during the [[Eighth Cycle]] in the climax of [[The Auric Aria's Suicide]]. It was the second element to sublimate into the highest peaks from the raw explosion of magic when it touched the [[Great Harmonic Loom]]. It is attuned to [[Crystal]] for it captures the entirety of [[Auric Geometry]] in a sheet. Its advanced version is Purified [[Sky Glass]].
 
-- [[Glimmerfern]]: The element of remorse of the [[Auric Aria]], it is the remnant and lingering emotional residue of regret and intense feeling in the aftermath of [[The Auric Aria's Suicide]]. It is the last element made during the [[Eighth Cycle]] when it blooms in the pockets of [[Forsaken Flower]]s from the tears that fell on the soil alongside [[Golden Ichor]].
+- [[Glimmerfern]]: The element of remorse of the [[Auric Aria]], it is the remnant and lingering emotional residue of regret and intense feeling in the aftermath of [[The Auric Aria's Suicide]]. It is the last element made during the [[Eighth Cycle]] when it blooms in the pockets of [[Forsaken Flower]]s from the tears that fell on the soil alongside [[Golden Ichor]]. Its advanced version is Fermented [[Glimmerfern]].
 
-- [[Luceatfilum]]: The element of tears of recognition from witnessing and collaboration. It was made much later than the [[Seven-Cycle Creation]] of [[Arcanoria]] as it was created in the climax of [[Ages]] III at the end of [[The Hollowing]] following the [[Law of Relics]] in the moment where [[Lacrimosa]] and the [[Auric Aria]] touched to breach the gap of collaboration. It is the primary element used for transmutation and in purifying [[Cursed Objects]] and [[Magical Relic]]s.
+- [[Luceatfilum]]: The element of tears of recognition from witnessing and collaboration. It was made much later than the [[Seven-Cycle Creation]] of [[Arcanoria]] as it was created in the climax of [[Ages]] III at the end of [[The Hollowing]] following the [[Law of Relics]] in the moment where [[Lacrimosa]] and the [[Auric Aria]] touched to breach the gap of collaboration. It is the primary element used for transmutation and in purifying [[Cursed Objects]] and [[Magical Relic]]s. Its advanced version is Riveted [[Luceatfilum]].
 
 # Auric Mythos of Creation
 
@@ -2117,6 +2370,8 @@ The Auric symbol originated from what happened to the [[Auric Aria]] during the 
 
 # Auric Order
 
+_"Only because of the [[Auric Aria]] we are given the depth of joy and suffering, of meaning in salvation. We can only know her love truly real because she's suffered with us and for us. Cruelty and meaning are woven from the same thread."_
+
 Also known as the Auric Church is the institutional faith after the [[First Reset]] that establishes the [[Auric Aria]] as the deity of [[Humanity]], and creator of the [[Known Universe]].
 
 In the classical orthodoxy, it also poses the [[Auric Aria]] as [[The One True God]], and is in direct contrast with the [[Chorus Pillar]] in the nature of [[Humanity]]'s spirit and the source of magical power, study of the esoteric, and understanding of divine will. The classical orthodoxy further pushes the narrative through the [[Auric Mythos of Creation]], and the concept of [[Perfect Reflection]] to justify the architecture of order and [[Mastery Over Chaos]] above all else. 
@@ -2127,17 +2382,17 @@ The [[Auric Order]] establishes [[Theological Virtue]]s as tenets to faith that 
 
 - [[Piety]]: Faith as fidelity to self and understanding of the divine through the lens of the individual, it is the [[Theological Virtue]] of [[Resonance]].
 
-- Revelation: Perception of reality and seeking of truth as the divine mechanisms of the cosmos and of theodicy itself, it is the [[Theological Virtue]] of [[Luminance]]. _The universe is both intelligible and beautiful, understanding and feeling are the same act, to know a thing is to resonate with it._
+- [[Revelation]]: Perception of reality and seeking of truth as the divine mechanisms of the cosmos and of theodicy itself, it is the [[Theological Virtue]] of [[Luminance]]. _The universe is both intelligible and beautiful, understanding and feeling are the same act, to know a thing is to resonate with it._
 
-- Contrition: Honest self-offering as means to alter reality, it is the [[Theological Virtue]] of [[Flux]].
+- [[Contrition]]: Honest self-offering as means to alter reality, it is the [[Theological Virtue]] of [[Flux]].
 
-- Sacrifice: The giving of self to moral and spiritual duty, to use the acceptance of maintenance in the meaning of struggle to weave meaning. it is the [[Theological Virtue]] of [[Void]].
+- [[Sacrifice]]: The giving of self to moral and spiritual duty, to use the acceptance of maintenance in the meaning of struggle to weave meaning. it is the [[Theological Virtue]] of [[Void]].
 
-- Contemplation: Undivided presence in the moment of truth, of act, of will, and duty, it is the [[Theological Virtue]] of [[Cindergale]].
+- [[Contemplation]]: Undivided presence in the moment of truth, of act, of will, and duty, it is the [[Theological Virtue]] of [[Cindergale]].
 
-- Hope: Confidence in the unseen and will of divine purpose, structure, and obligation through the convergence of the self as pinnacle of action, it is the [[Theological Virtue]] of [[Crystal]].
+- [[Hope]]: Confidence in the unseen and will of divine purpose, structure, and obligation through the convergence of the self as pinnacle of action, it is the [[Theological Virtue]] of [[Crystal]].
 
-- Communion: Relationship as memory to create value in legacy and standing across time while harmonizing from [[Consonance]] of the self to others, it is the [[Theological Virtue]] of [[Strand]].
+- [[Communion]]: Relationship as memory to create value in legacy and standing across time while harmonizing from [[Consonance]] of the self to others, it is the [[Theological Virtue]] of [[Strand]].
 
 These [[Theological Virtue]]s argue that the [[Triadic Virtues of Spellcraft]] comes from achieving an state of being. It is the interior life, faith, hope, love, contrition, contemplation, not solely as a private matter but also the very substance of order and power. To grow in virtue is to grow in magical potency. To fall into sin is to lose access to reality's fundamental forces and to invite chaos, evil, demons and [[Dissonance]]. The ultimate sins are known as the [[Seven Weights]], and invite to rigorous reflection of the divine geometry of the cosmos and the [[Piety]] in oneself to leave the burden of these and achieve transcendence through [[Lyrical Fragment]]s.
 
@@ -2154,7 +2409,7 @@ The reformation formally begins with the end of the [[Second Reset]] but only ta
 
 Likewise, this also extends to the necessity of [[Scorching Truth]]s, in some variations of the [[Auric Order]] religions, particularly on those founded after the [[The Truth of Arcanoria]], they see the theological implication that theology is not an optional comfort and [[Scorching Truth]]s are sacred knowledge about the fundamental requirement of participation in existence. This event causes the great schism between the classical orthodoxy of the [[Auric Order]] on the nature of [[The Truth of Arcanoria]]: It becomes a debate of those who deny it as dangerous knowledge for the sake of security and order vs those who accept it as divine and sacred revelation to commune with the [[Auric Aria]].
 
-In the latter framework, it is necessary to make a vow to face the revelation as sacred in [[Consonance]] about the creator, of oneself, and the nature of suffering to prevent losing the access to magic itself, and that order itself is a mandate from the very [[Weight of Flaw]] that crushed the creator reframing it as the sacred lesson: _"Cruelty and meaning are woven from the same thread. Only because the [[Auric Aria]] faltered we are given the depth of joy and suffering, of meaning in salvation. We can only know her love truly real because she's suffered with us and for us."_ 
+In the latter framework, it is necessary to make a vow to face the revelation as sacred in [[Consonance]] about the creator, of oneself, and the nature of suffering to prevent losing the access to magic itself, and that order itself is a mandate from the very [[Weight of Flaw]] that crushed the creator reframing it as the sacred lesson: 
 
 The reformed variants of the [[Auric Order]] argue in favor that these revelations in fact prove even further the idea of [[Perfect Reflection]] because to feel doubt is to be in a sacred communion with the creator, reframing healing as collaboration, just as the [[Auric Aria]] herself did with [[Lacrimosa]] and the [[Law of Relics]] a divine mandate. Likewise, it proves that the [[Betrayal of the Moon]] to create them is a proof of her love for [[Humanity]] above all else, if there was no [[Moon]] there would be no [[Humanity]], and the fact she feels regret for [[Selenea]] embodies her genuine empathy: 
 
@@ -2184,7 +2439,10 @@ The visible manifestation of passing souls and [[Consciousness]] into [[The Firs
 
 # Ballad
 
+_"Conflict and tragedy create friction, and friction creates [[Ballad]]s." — [[Auric Order]]._
+
 A type of storyline combining several [[Events]]. 
+
 
 The advanced version of [[Ballad]]s that spans several [[Ages]] and requires multiple content to trigger are called [[Sonata]]s and are built through movements as narrative arcs. Thus, a [[Sonata]] is an advanced and highly complex type of storyline that combines several Events and spans across multiple [[Ages]]. Serving as an elevated, more intricate version of a [[Ballad]], a [[Sonata]] requires multiple specific pieces of content and narrative triggers to be initiated.
 
@@ -2418,9 +2676,9 @@ This is the second [[Age Crisis]] and Great Filter that separates the previous [
 
 - [[The Ultimate Weapon]], however, salvages the doomed timeline and unlocks its Tier 3 Inner Layer within the Master-Key. This unlocks advanced [[Crisis Wonders]] which include the ruined cities of [[Civilization]] that were nuked by the [[Wolf Bomb]]s. Instead of being isolated complex, the advanced [[Crisis Wonders]] are incredibly advanced arrays of [[Megastructure Wonder]]s, ranging from planetary disks, to factories, to ruined space elevators, and several types of weaponry and skyscrapers. It also makes every previous [[Crisis Wonders]] able to be enhanced into [[Megastructure Wonder]]s giving them back their former glory.
 
-- Tier 3 Inner Layer also unlocks some [[Scorching Truth]]s about [[The Ultimate Weapon]]. It reveals the amount of [[Cycle]]s it has been counting since its inception, the count of the total [[Cycle]]s in [[Arcanoria]] will be the amount of [[Cycle]]s of the [[Third Reset]], the [[Second Reset]], and the [[First Reset]], plus any number generated on the very start of the game which is between 100,000 and 10,000,000 [[Cycle]]s, signaling the impossible length of the [[Lost Cycle]]. This number will induce vertigo for most players once they come to realize the truth, and that the [[Lost Cycle]] wasn't just a dark [[Ages]] primitive period, it reached Sci-Fi levels even further than [[Ages]] XI. This is only counting since [[The Ultimate Weapon]] began counting because [[Civilization]] was likely reduced to rubble several times but true [[Primal White Noise]] never entered the universe. _"I wish for [ < s̵i̶g̷n̸a̷l̶ ̴l̷o̸s̷t̷ > ... ]... the clock... [ ... u̷n̷r̷e̷a̷d̷a̷b̷l̷e̷ ... ]... to reverse... [ ... a̷n̷o̷m̷a̷l̷y̷ ... ]... gentler [ ... c̷o̶r̵r̷u̷p̷t̷e̵d̵ ... ]... before [[Civilization]] even began... to [ ... b̵l̵a̸n̸k̵ ... ] beyond [ ... d̶̾ȧ̵t̷͑ȧ̷ ̷͘e̷͒x̷̉c̵͌i̵͑s̷̚e̴͒d̷̄ ... ]...  doomed [ ... < v̷o̶i̵c̷e̵ ̴f̷r̸a̷c̷t̷u̶r̵e̷s̵ > ... ] timeline if the encroaching [ N O I S E ] again... No matter the cost... No matter how many attempts [ ... h̷e̴a̷v̶y̶ ̶s̵t̵a̴t̸i̴c̶ ... ] it takes... [ D I R E C T I V E]... [INSTANCES: Divine Reset Counter of 100,000 to 10,000,000]."_
+- Tier 3 Inner Layer also unlocks some [[Scorching Truth]]s about [[The Ultimate Weapon]]. It reveals the amount of [[Cycle]]s it has been counting since its inception, the count of the total [[Cycle]]s in [[Arcanoria]] will be the amount of [[Cycle]]s of the [[Third Reset]], the [[Second Reset]], and the [[First Reset]], plus any number generated on the very start of the game which is between 100,000 and 10,000,000 [[Cycle]]s, signaling the impossible length of the [[Lost Cycle]]. This number will induce vertigo for most players once they come to realize the truth, and that the [[Lost Cycle]] wasn't just a dark [[Ages]] primitive period, it reached Sci-Fi levels even further than [[Ages]] XI. This is only counting since [[The Ultimate Weapon]] began counting because [[Civilization]] was likely reduced to rubble several times but true [[Primal White Noise]] never entered the universe. _"I wish for [ < s̵i̶g̷n̸a̷l̶ ̴l̷o̸s̷t̷ > ... ]... the clock... [ ... u̷n̷r̷e̷a̷d̷a̷b̷l̷e̷ ... ]... to reverse... [ ... a̷n̷o̷m̷a̷l̷y̷ ... ]... gentler [ ... c̷o̶r̵r̷u̷p̷t̷e̵d̵ ... ]... before [[Civilization]] even began... to [ ... b̵l̵a̸n̸k̵ ... ] beyond [ ... d̶̾ȧ̵t̷͑ȧ̷ ̷͘e̷͒x̷̉c̵͌i̵͑s̷̚e̴͒d̷̄ ... ]...  doomed [ ... < v̷o̶i̵c̷e̵ ̴f̷r̸a̷c̷t̷u̶r̵e̷s̵ > ... ] timeline if the encroaching [ N O I S E ]... Firmament ever again... No matter the cost... No matter how many attempts [ ... h̷e̴a̷v̶y̶ ̶s̵t̵a̴t̸i̴c̶ ... ] it takes... [ D I R E C T I V E]... [INSTANCES: Divine Reset Counter of 100,000 to 10,000,000]."_
 
-- This reveals the Wish and directive of [[The Ultimate Weapon]] but without context of the fact that it is a [[Hypermage]], and its inner workings. It only reveals part of the Wish as a fragmented signature in static: 
+- This reveals the Wish and directive of [[The Ultimate Weapon]] but without context of the fact that it is a [[Hypermage]], and its inner workings. It only reveals part of the Wish as a fragmented signature in static:
 
 While the MAD [[Wolf Bomb]] Annihilation scenario does not trigger [[Primal White Noise]] the reality is essentially unsalvageable for [[Civilization]], making the [[Third Actor]] having to use the Master-Key of [[The Ultimate Weapon]] to reset the timeline, else the only thing they will be able to see through the screen is the collapsed [[Civilization]] with the [[Wolf Tone]] eerie sound of everything that was destroyed. _This also proves that it's likely that [[Civilization]] did reset itself in a nuclear winter before [[The Ultimate Weapon]] was ever destroyed, making the count of instances much higher than it likely is as [[The Ultimate Weapon]] never counted the realities where it didn't exist, injecting more epistemic vertigo._
 
@@ -2436,7 +2694,7 @@ This crisis attempts to make the 4 of the equation reduced to 0 by attacking the
 
 - This is the true [[Primal White Noise]] and it's the original static that [[The Ultimate Weapon]] was made to combat, it is the [[Megastructure Wonder]] of why the [[Hypermage]] was made. The crisis of the [[Hypermage]]s will always result in the encroaching static devouring and seeping from every [[Megastructure Wonder]] unless there is the fix to ember the [[Law of Relics]] into the fabric of reality and replace the role of the [[Moon]] by changing the equation.
 
-- As such, the next and final stage is only fixable by the presence of the Third Actor after concluding the [[Sonata]] of [[Arcanoria]] doing the transition of how they reached the Apex at the [[Parlor of the Moon]]. This requires finishing the entire [[Sonata]], which opens the Tier 4 of the Master-Key, the [[Hypermage]] core where all the stasis pods are in an eternal dream. It reveals the real wish: _"I wish for you to turn back the clock of fate, to reverse time to a gentler past before [[Civilization]] even began, to save [[Humanity]] and give it a future beyond the [[Ages]] that doomed this timeline if the encroaching infection of real [[Primal White Noise]] severs the tethers of the [[Stellar Veil]], and it destroys the fabric of reality or stops the symphony of [[Cosmic Motion]] ever again. No matter the cost. No matter how many attempts or lives it takes. Exploit the last [[Resonance Anchors]] of [[Coherence]] of every remaining [[Consciousness]] to rebuild a wiser [[Civilization]]."_
+- As such, the next and final stage is only fixable by the presence of the Third Actor after concluding the [[Sonata]] of [[Arcanoria]] doing the transition of how they reached the Apex at the [[Parlor of the Moon]]. This requires finishing the entire [[Sonata]], which opens the Tier 4 of the Master-Key, the [[Hypermage]] core where all the stasis pods are in an eternal dream. It reveals the real wish: _"I wish for you to turn back the clock of fate, to reverse time to a gentler past before [[Civilization]] even began, to save [[Humanity]] and give it a future beyond the [[Ages]] that doomed this timeline if the encroaching infection of true [[Primal White Noise]] severs the tethers of the [[Stellar Veil]], and it stops the symphony of [[Cosmic Motion]] or destroys the fabric of the Firmament ever again. No matter the cost. No matter how many attempts or lives it takes. Exploit the last [[Resonance Anchors]] of [[Coherence]] of every remaining [[Consciousness]] to rebuild a wiser [[Civilization]]."_
 
 The presence of [[A True Sine Wave]] is the resolution of the conflict, and having every layer of Tier 1 through 4 represents the 4 of [[Cosmic Motion]] which symbols the Third Actor and the player. This is why the famous phrase of the [[Age of The End]] is coined. _"The [[Original Ripple]], [[The Infinite Void]], and the [[Known Universe]] all began with the Third Actor, and [[Arcanoria]] will end by the very same Third Actor."_
 
@@ -2484,6 +2742,12 @@ They argue in favor of worshipping [[Outer God]]s over the [[Auric Aria]].
 
 The philosophical stance contrary to the [[Aureus Pillar]] on the source of magic and power. The [[Chorus Pillar]] prefers the occult, witchcraft, the esoteric, and defiantly believes that the [[Auric Aria]] and the spirit of [[Humanity]] isn't the source of power but rather the [[Outer God]]s found in the infinite unknown.
 
+### Debates
+
+[[Fanatical]] [[Fatalistic Absurdist]] on [[Humanity]] hubris and invasive nature or humans going against the nature of [[Arcanoria]]'s ecology:
+
+- On the pollution of [[Humanity]] and "saving the planet:" _"The idea that any [[Major Settlement]] 'prevents' the planet from correcting itself is peak human delusion. You think a concrete slab stops a billion [[Cycle]] old thermodynamic engine? In 10,000 [[Cycle]]s, a heartbeat in [[Arcanoria]]'s entire time, all [[Civilization]]s will be dust and the [[Great Harmonic Loom]] won't even remember anyone was here. Calling humans 'against nature' is just more ego. We are just a byproduct of the ecosystem of [[Arcanoria]], as much as everything around us is, moving species, changing ecosystems, adding new variables is just another chapter in a book that's been written since long before we showed up. It's not about it being 'fine' or 'not fine' it's about the reality that [[Arcanoria]] is a self-balancing ecosystem that doesn't care about your moral labels or your temporary gardens."_
+
 # Cindergale
 
 #spellweaving
@@ -2509,7 +2773,7 @@ These are the unit blocks that form the identity and [[Resonance]] of any [[Civi
 - Indulgent [[Civic]]: Entertainment, Pleasure, Joy, Luxuries,
 - Esoteric [[Civic]]: [[Chorus Pillar]], [[Outer God]]s, Dark [[Magic Arts]], Witchcraft, Spirits.
 
-### Early Civilization and Classical [[Ages]] 0 - III
+### Tier 1 [[Ages]] [[Civic]]s ([[Ages]] 0 - III)
 
 #### Agromagical, Indulgent, Weaver & Domestication [[Civic]]s
 
@@ -2561,7 +2825,9 @@ Runs inspired by the Ball Fluff Runs but using bull-like [[Pure Light]] creature
 
 #### Auric, Trading & Industrious [[Civic]]s
 
+[[Demi-Human]] Slave Trade [[Dissonance]]
 
+indentured Servitude [[Dissonance]]
 
 #### Regal, Militant & Esoteric [[Civic]]s
 
@@ -2618,7 +2884,7 @@ Rituals of communal suicide and sacrifice to reverence the chaotic energy that e
 [[Ballad]]s:
 - A runaway infiltrates a death cult about to pool enough trauma to birth a [[Fracted]] [[Atonalis]]. Armed only with a [[Resonance Box]], they must disrupt the chanting with a perfectly timed counter-frequency and crash the entire sacrifice ritual before the demon is allowed to hatch from the collective suffering.
 
-### Entire Medieval [[Ages]] IV - VI ([[Law of Relics]] Established)
+### Tier 2 [[Ages]] [[Civic]]s ([[Ages]] IV - VI) ([[Law of Relics]] Established)
 
 #### Agromagical, Indulgent, Weaver & Domestication [[Civic]]s
 
@@ -2648,6 +2914,10 @@ Evolution of Moonlit Vigil where once per spring, [[Phase of Prelude]], unwed ci
 [[Ballad]]s:
 - The heirs of two noble houses locked in a centuries-old blood feud pulse in absolute, flawless unison at the Courting Grounds. State law mandates they marry, forcing the two families into a deadly, covert race to assassinate the opposing heir before the wedding binds their houses. Romeo & Juliet.
 
+**Underground Pleasure Colosseums | Indulgent [[Civic]] | [[Ages]] IV |  [[Dissonance]]**
+
+Jerez Arena as an evolution of the colosseum [[Civic]]s but focused on slaves gaining freedom but with painful and humiliating dehumanizing punishments on loss. Some of the contracts are directly paired with [[Velvet Nectar]].
+
 #### Auric, Trading & Industrious [[Civic]]s
 
 **Memory Markets | Trading [[Civic]] | [[Ages]] IV–VII | [[Dissonance]]**
@@ -2657,7 +2927,19 @@ Designated economic zones and sites where [[Velvet Nectar]] and its derivations 
 [[Ballad]]s:
 - A desperate smuggler steals a vial of [[Velvet Nectar]] to pay a debt, unknowingly consuming the extracted memories of a renowned [[Great Spellweaver]]. Now possessing the dead mage's magical mastery, they are hunted by aristocratic connoisseurs who want the memories back.
 
+**Slave & Servitude Auctions | Trading [[Civic]] | [[Ages]] IV-VII | [[Dissonance]]**
+Underground trafficking rings with slaves of any species, whether used as commodity, servitude, or livestock.
+
+**[[Contract Arts]] Slavery Guilds [[Dissonance]]**
+Using contracts on [[Pure Light]] beings and [[Demi-Human]]s with high enough affinity to be subdued through slave marks as a combination between [[Mind Control Arts]] and [[Contract Arts]] as a perversion of [[Sympathetic Magic]].
+
 #### Regal, Militant & Esoteric [[Civic]]s
+
+**Trafficking Rings Conquests | Militant [[Civic]] | [[Ages]] IV-VII | [[Dissonance]]**
+Slavery through subjugated regions that fell due to a slaver causus belly
+
+**Species Caste System | Regal [[Civic]] | [[Ages]] IV-VII [[Dissonance]]**
+Dividing citizens by tiers of classification depending on their [[Pure Light]] and [[Auric Structure]] between each races of [[Humanity]] and [[Demi-Human]]s.
 
 **Legendary Hunting Charters | Regal [[Civic]] | [[Ages]] IV-VII | [[Consonance]]**
 
@@ -2687,7 +2969,7 @@ Inspired by [[Institute]]s, [[Civilization]] utilizes [[Spellweaver]]s who have 
 [[Ballad]]s:
 - A squad of four highly traumatized conscripts are dropped into wild magic. Instead of breaking, they form an intense level of [[Echoing Bonds]], triggering secondary [[Motif Awakening]]s that make them powerful enough to return to the capital and overthrow the generals who sent them to die.
 
-### Enlightenment and Reformation [[Ages]] VII-IX
+### Tier 3 [[Ages]] [[Civic]]s ([[Ages]] VII-X)
 
 **Bloodline Tithe | [[Ages]] VII–IX | [[Cusp]]**
 
@@ -2695,13 +2977,12 @@ Primarily used during the [[Age of Blood]], this [[Civic]] is a systemic tax whe
 
 - [[Ballad]]s: The eldest daughter of a disgraced noble house goes to offer her blood, only to discover the Hemovault is completely empty. A corrupt government faction has secretly siphoned the generations of [[Essence Sacrifice]] to power an illegal apocalyptic superweapon. Branded a traitor, she must ally with underground [[Void]]-weavers to destroy the weapon before the government drains the life force of every noble family sacrifice made in the empire.
 
-### Industrialization and Warfare [[Ages]] IX-XI
+### Tier 4 [[Ages]] [[Civic]]s ([[Ages]] XI-XIV)
 
 **Enhanced Magical Girl Polyphony | [[Ages]] XI | [[Consonance]]**
 
 Inspired by the polyphonic practices of earlier [[Ages]] this ensemble is unique to the [[Age of Starlight]] using the principle of [[Echoing Bonds]] to establish strong [[Resonance Anchors]] within its cast of [[Spellweaver]]s through [[Harmonic Entanglement]].
 
-### Near Future to Sci-Fi [[Ages]] XII - XIV
 
 ### The [[Ballad]]s of [[Civilization]] [[Civic]]s
 
@@ -2830,6 +3111,18 @@ Inspired by the polyphonic practices of earlier [[Ages]] this ensemble is unique
 
 The player, also referred to as the Third Actor
 
+# Click Power
+
+#mechanic #society 
+
+[[Click Power]] is a core mechanic of [[Gateway To Genesis]], as the game begins as an incremental strategy clicker, the main UI allows for creating either [[Vital Resources]], aligned with vitality and [[Lunehymn]] or [[Building Materials]] which are aligned with creation, structure and [[Aetherlight]], mirroring the [[Dual Confluence Stream]].
+
+Traditionally, [[Click Power]] behaves at the beginning of the game like a production button to generate [[Resources]]. However, upon acquiring the first [[Ceremonial Arts]] and [[Magic Arts]] of [[Civilization]], [[Gateway To Genesis]] swaps from mindlessly clicking into a rhythm based minigame mirroring Taiko No Tatsujin where playing a [[Spellweaving]] song of their [[Symphony Card]]s allows for a much higher yield of [[Resources]] and [[Morale]] boosts as celebration.
+
+The Taiko No Tatsujin aspect is divided into pressing either Auric Symbols, representing [[Aetherlight]], the [[Auric Aria]] or Silvery Symbols representing the [[Moon]], and [[Lunehymn]]. By pressing each of these in rhythm in Perfect, [[Civilization]] unlocks the bar of [[Perfect Focus]] and Flow State that increases the total yield of [[Resources]] given by the rhymical ritual of their [[Civilization]].
+
+This mechanic actively prevents auto clickers from being fully functional in [[Gateway To Genesis]], while adding an upgraded layer of rhythm, performance, and strategy to it. It ties directly to [[Click Power]]. Purely clicking by the sake of clicking generates [[Discordant Interference]].
+
 # Coherence
 
 How likely something is to exist, it is the contrary of chaos and [[Primal White Noise]]. Giving [[Coherence]] to the [[Known Universe]] is the primary objective of both the [[Auric Heptacode]] and the [[Trinity Harmony]]. It's a fundamental part of [[Spellweaving]] as well as it is the basis of [[Absolute Certainty]].
@@ -2837,6 +3130,24 @@ How likely something is to exist, it is the contrary of chaos and [[Primal White
 High [[Coherence]] forms [[Stable Harmonic Channels]] for information and magical transit through the [[Great Harmonic Loom]].
 
 [[Coherence]] is not the absence of chaos, but rather a pattern so profound it can maintain integrity even at the edge of total dissolution.
+
+# Combat System
+
+#mechanic #society #spellweaving 
+
+_Strategy is Composition. Combat is Performance._
+
+The Symphony of War is the [[Combat System]] of [[Arcanoria]] that is divided into two core axioms. The macro layer determines what tools exist in the battle. The micro layer determines how well those tools are realized:
+
+- **Macro Level | Strategy as Composition:** Wars are won before a single note is played. It consists of the system of building and preparing [[Orchestral Formation]]s, Assigning [[Legend]] [[Battle Conductor]]s, and [[Magic Arts]] made by [[Civilization]] alongside the technologies researched and invented as equipment, gear, and tier of [[Production Units]].
+
+- **Micro Level | Combat as Performance:** The attacks are dictated by [[Symphony Card]]s which consist of actions such as combat attacks with traditional swords, [[Magic Arts]] for imbuing offensive, defensive, and utility magic. All combats are driven by army compositions named [[Orchestral Formation]]s which determine in the hex combat grid the positions of Units. This part features a rhythm based layer of repeating the melody back to increase the attack power of the [[Chord Layering]] Stack, and in the defense is playing the opposite melody in rhythm as noise cancellation.
+
+Every mechanical decision flows from this philosophy. At the strategic layer,  [[Civilization]], as the architect of war a drafting armies, growing [[Legend]]s, preparing the score by composing from the slots of unlocked [[Magic Arts]] by discovering [[The Registers of Magic]], and advancing through the technology tree and developing cultural [[Civic]]s. 
+
+However, at the tactical layer, they are a performer of their songs in the battlefield, moving from flawless execution of rhythm, [[Spellweaving]] [[Chord Layering]], and inverse-frequency defense that determines whether the score becomes a masterpiece or a catastrophe.
+
+The system is designed to merge grand-strategy war planning, the long term development of civ-like 4X through magical development of [[Magic Arts]], understanding of [[Spellweaving]], and the customization of a roguelike deck builder through [[Symphony Card]]s  as an expression of [[Civic]]s and [[Legend]]s with a high-intensity tactical combat loop on the tempo of a rhythm game.
 
 # Composure
 
@@ -2860,7 +3171,7 @@ Thus, [[Composure]] is the most important metric for any [[Spellweaver]], it is 
 
 - Spiraling: This is the final level before the point of no return, and it has a signature of black fractal spirals that begin to mirror the own internal chaos of the [[Spellweaver]] that is falling to the abyss of despair. The spirals on the surface are similar to [[Sky Glass]] but devoid of its beautiful tactile qualities, and this is the closest state that a [[Spellweaver]] can be to becoming an [[Atonalis]] before falling to the point of no return. **This is the last point where anyone can intervene to save them.** Any breach further on the hungering fractal spirals and the [[Soul Leitmotif]] will undergo its permanent transformation when it is fully consumed by the black of the [[Dissonance]], turning itself into a [[Dissonance Core]].
 
-- Surrender: Once a [[Soul Leitmotif]] reaches this point, there's nothing anyone can do to save them. It has a clear indicator of two distinct crack sounds, the first is when the threshold is reached, when the [[Soul Leitmotif]] went beyond its maximum stress point, and the [[Spellweaver]] is on its last remnants of [[Coherence]] that tether their [[Composure]]. The second crack is the inevitable moment when the [[Spellweaver]] vocalizes their last words. Upon reaching this state the [[Dissonance]] cocoon emerges siphoning the user inside of it, transforming the [[Soul Leitmotif]] into the very [[Dissonance Core]] of the [[Atonalis]]. The location of the [[Dissonance Core]] is often the Wearable State of the soul gem in the last moment the dying [[Consciousness]] assigned value to anything.
+- Surrender: Once a [[Soul Leitmotif]] reaches this point, there's nothing anyone can do to save them. It has a clear indicator of two distinct crack sounds, the first is when the threshold is reached, when the [[Soul Leitmotif]] went beyond its maximum stress point, and the [[Spellweaver]] is on its last remnants of [[Coherence]] that tether their [[Composure]]. The second crack is the inevitable moment when the [[Spellweaver]] vocalizes their last words. Upon reaching this state the [[Dissonance]] cocoon emerges siphoning the user inside of it, transforming the [[Soul Leitmotif]] into the very [[Dissonance Core]] of the [[Atonalis]]. The location of the [[Dissonance Core]] is often the Wearable State of the soul gem in the last moment the dying [[Consciousness]] assigned value to anything. **The refusal to process pain feels exactly like mercy right up until the moment it permanently turns you into a predator.**
 
 The state of the [[Soul Leitmotif]] [[Composure]] directly aligns with the internal state of mind of the [[Spellweaver]]:
 
@@ -3327,7 +3638,7 @@ The [[Mythical Virtuoso]] of [[Crystal]] of the Seven Virtuosi.
 [[Primary Instrument]]: [[Auric Bell Staff]]
 [[Armament]]: Golden Arched Khopesh
 [[Soul Leitmotif]]: [[Crystal]]
-[[Ornament]]s: [[Resonance]], [[Strand]]
+[[Ornament]]s: [[Strand]], [[Resonance]]
 
 [[Motif Awakening]] Wish: 
 
@@ -3365,6 +3676,7 @@ _"You have to expect great things from yourself before you can achieve them. Use
 
 _"I've come to realize through impossible hardship that no one is separate from the reality they want. You're the reason it exists in the first place."_
 
+_"A slave to meaning holds a whip just so he can acts like he owns a slave bought by meaning. The truth is we all are slaves to something, and who "isn't" is crushed by the [[Weight of Purpose]] and by those who have enslaved themselves to one to make history. Truly a tragedy where only the one free of nothing is the one most indebted."_
 
 
 
@@ -3466,6 +3778,12 @@ Seventh Auric Thread of Relativity
 
 One of the three bindings in [[Potential of Creation]] of the [[Triadic Virtues of Spellcraft]]. [[Sympathetic Vibration]]
 
+# Eclipsed Waterfalls
+
+#biome 
+
+A type of [[Landmark]] prevalent through all of [[Arcanoria]] that consists of thermal twin mirror waterfalls overlooking cliffs, they are vibrant in [[Aetherlight]] at their peaks, and have deposits of [[Sky Glass]]. They are rare oasis that sometimes have special properties, they always run on [[Leylines]] converging, empower ambient magic, and usually have presence of [[Pure Light]] beings of low [[Auric Structure]] during any [[Ritual Seventh]]. These are usually revered for most of the [[Auric Order]] and considered a [[Sacred Site]] whenever there is high enough convergence of [[Leylines]]. They exist most uniquely in the [[Crescent Mist Peaks]] having instead [[Lunehymn]] mist.
+
 # Eight-Born Paths
 
 #chaos #creature 
@@ -3498,7 +3816,7 @@ Feeds on: Fear, dread, anxious anticipation, paranoid certainty.
 
 **Behavior:** Usually behaves by preemptive hostility, it is both protective of their territory yet paranoid; secludes and guards victims while feeding on their terror.
 
-[[Original Eight]] [[Primal Discordia]]: The Shrieking Sentinel.
+[[Original Eight]] [[Primal Discordia]]: [[Eirenesis Anakriach]], the Anacrusis of Creation.
 
 **Path II: [[Discant]] - The Oscillating Affect (15.5%)**
 
@@ -3970,6 +4288,228 @@ At the climax of the [[Eighth Cycle]], she met [[Humanity]] — mortals both awe
 
 The crimson remains of her sacrifice birthed the first field of [[Forsaken Flower]]s and the silvered [[Glimmerfern]], a living testament to sorrow-forged wonder and of true emotion as a source of creation. The fractals that embedded in the sky with the release of this current of magic created [[Sky Glass]], and the area later became [[The Silent Expanse]].
 
+# Eirenesis Anakriach
+
+#chaos #creature #scorchingtruth
+
+_"The Primal Terror of Death, and of Being Killed."_
+
+[[Legend Title]]: The Anacrusis of Creation.
+
+Its cipher theonym RHKH, or also known by That Who Breathes As Howling. The Original Creation, The True [[First Living Being]], the [[Shrieking Terror]].
+
+_"THE FIRST THING THAT EVER LOOKED BACK WAS ALREADY SOMETHING ITS CREATOR WAS TRYING TO UNMAKE."_
+
+[[Eirenesis Anakriach]] is the first living creation of the [[Auric Aria]], the oldest of the [[Original Eight]] [[Primal Discordia]] and the first [[Anxithor]] and [[Atonalis]] ever woven from the [[Formless Masses]]. It is the primal [[Weight of Nature]] wound of the [[Fifth Cycle]]: a creature whose entire [[Consciousness]] is shaped by the trembling failure of its creation and the progressive attempts of its maker to undo what has already become alive.
+
+[[Institute]]s and highly dangerous [[Auric Order]] branches refer to it by the theological name of RHKH and classify it as an [[Exogenesis Threat]]: an entity whose danger begins before ordinary encounter, in the very act of learning how and why it was made.
+
+### The Name of Peace, Given Before the Horror
+
+Its true name, [[Eirenesis Anakriach]] is the first name the [[Auric Aria]] ever gave to a [[Perfect Manifestation of Life]]. In her words, Eirenesis approximates “Peace Born from First Breath” — genesis at rest, creation gentle enough to remain without struggle; Anakriach is the cadence of that first breath shaped into life and voice.
+
+She named it before disgust existed, intending her first life to enter the world without pain, conflict or loss. Only afterwards did she realize what it had become: the first creature whose birth already contained the seed of terror.
+
+Before [[Eirenesis Anakriach]], the [[Auric Aria]] had already created the [[Known Universe]], the [[Auric Heptacode]] and the [[Trinity Harmony]], giving matter and time to the [[Proto‑Universe]] and the existence of [[Primordial Star]]s to enforce [[Coherence]]. 
+
+By the time she developed her obsession with [[Arcanoria]] during the [[Seven-Cycle Creation]], her intention is benevolent: a garden of paradise where creatures exist limitlessly, vibrant in [[Resonance]], free from the [[Inevitability of Death]]. As such, she also fantasized about the name of the first creation reflecting the idyllic paradise she meant to built devoid of suffering as the architecture of peace.
+
+By the end of the [[Fourth Cycle]], [[Arcanoria]] was structurally perfect but ontologically hollow — a paradise of geometry without autonomous symphonies of life.  
+The [[Fifth Cycle]]’s [[First Weaving of Life]] is where the first creature appears.
+
+#### The [[First Weaving of Life]]
+
+In the [[Fifth Cycle]], the [[Auric Aria]] attempts the [[First Weaving of Life]]: durable husks meant to be the [[Perfect Manifestation of Life]], bodies that would never decay or suffer. She does not yet begin with stable flesh; instead she uses the gentlest musical ingredients she can imagine: rising cadence from [[The First Overtone]], the quiet interval after a resolved chord, and the harmonic pressure of welcome.
+
+However, on the actual process of creation, each time she plucks a new [[Strand]], a growing dread fractures her focus: fear that [[Arcanoria]] will remain imperfect and chaotic like [[The Infinite Void]]. This anxiety bleeds directly into the weave, costing her [[Absolute Certainty]]; the first threads are misplaced and subsequent threads entangle with the original intention of indestructible life in increasingly unstable ways, it is a concert where she can't stop pressing the wrong notes and produce [[Dissonance]] from failing to produce clean sound and panicking further as she keeps collapsing into despair.
+
+From those threads, the first persistent coagulation of matter begins to form—the body that will be called [[Eirenesis Anakriach]]. When the weave is released, the intended creatures collapse into the earth not as complete beings but as [[Formless Masses]] — agonizing clots of unfinished matter, trembling around rhythms they cannot resolve. However, it is a misconception to call them [[Formless Masses]], as the first referent of “[[Formless Masses]]” is not an entire population but a single failing body: many almost‑selves trying and failing to cohere around a fragile center.
+
+That center is [[Eirenesis Anakriach]]. It is the first body that never learns what a face, limb or self is allowed to mean; limbs appear, dissolve and re‑appear; mouths open where hands used to be; faces attempt to assemble before the universe has decided what a face signifies.
+
+#### The Trembling Hand — Primal [[Cindergale]]
+
+Looking at what she has made, the [[Auric Aria]] realizes that her tenderness has created something that is already suffering. Overcome by dread, she attempts to undo the weave, reaching into the [[Formless Masses]] with trembling hands to disperse the threads of life she has just woven. This moment is remembered as The Trembling Hand: the primal [[Cindergale]] event where the virtue of [[Contemplation]], [[Contrition]], [[Piety]], and [[Sacrifice]] collapses into catastrophic anxiety as [[Communion]]. Her tremor contaminates the weave, and because the threads were made too durable, they cannot simply dissolve; she lacks the [[Sufficient Precision]] to unmake what is now a living center within the [[Formless Masses]].
+
+To [[Auric Aria]], these actions are desperate correction.  
+To the first living thing underneath her hands, they are the gestures of someone deciding the first thing made should never have been made at all.
+
+And it only complicates its existance in the progressive attempt of the [[Auric Aria]] to unmake her mistake. Unlike later creations, the [[Eirenesis Anakriach]] does not experience a clean before/after. Its earliest memory is a sequence of attempts at erasure:
+
+1. It comes into being as trembling matter around a gentle rhythm.
+2. Its creator looks at it and recognizes a suffering she did not intend.
+3. Her hands begin to shake over it.
+4. She repeatedly reaches down to undo what she has already made—and fails, pulling its body apart in unspeakable agony.
+
+Each attempt becomes effectively torture that teaches the same lesson: 
+
+- **Attention is a prelude to erasure.**
+- **The longer someone looks, the closer they come to deciding it should not exist.**
+
+This sequence enters it before  selfhood, becoming the first fabric of its [[Consciousness]] as the Cloth of Divine Doubt in a conviction that all eyes precede execution.
+
+Every [[Anxithor]] carries a wound from a distortion in creation, fear, vigilance, and protection; the [[Eirenesis Anakriach]] carries the original wound that makes that lineage possible.
+
+> If the one who made you is afraid of you, then all attention is the beginning of an attempt to erase you.
+
+It does not understand regret, compassion or self‑reproach.  
+It understands only the physical truth of its first moments: it is alive, its creator is shaking, and her hands are reaching down to unmake what already exists.
+
+From then on, trembling hands are not sorrow.  
+They are the gesture immediately preceding destruction. The [[Eirenesis Anakriach]] own trembling hands morph to claws because the very same "claws" that the [[Auric Aria]] tried to use to unmake it when she was trembling.
+
+As for its name given love, the cruelty of [[Eirenesis Anakriach]] lies in its origin. The [[Auric Aria]] did not name it in disgust; she named it with love, before disgust existed. She wanted her first life to enter gently. The name encodes the hope that genesis and peace could be reconciled — that creation could begin without pain.
+
+In practice, no one who knows the name is permitted to speak it with tenderness; survivors report that sympathetic invocation accelerates the onset of howling. [[Eirenesis Anakriach]] cannot understand sympathy; to it, tenderness is only the hand that trembles before reaching down.
+
+#### Selenea’s Arrival and Comparative Terror
+
+When [[Selenea]] arrives and breathes vitality into the [[First Living Being]], the [[Fated Flower]], beside the [[Auric Aria]]—creating a cherished, stable creature—the comparison deepens [[Eirenesis Anakriach]]’s wound. Its creator’s hands, formerly instruments of tremor and near‑unmaking, are now opened by another deity who effortlessly succeeds where she failed.
+
+Later theological readings link this moment to [[Eirenesis Anakriach]]’s terror of understanding: any being who comprehends its story resembles [[Selenea]], the witness who proves that its suffering could have been avoided. The more someone sees, the more they resemble the second pair of hands at its origin—and therefore, the more dangerous.
+
+### Fear as Metaphysical Conviction
+
+[[Eirenesis Anakriach]] does not develop low self‑esteem; it develops the first metaphysical conviction of unworthiness. It believes it exists by mistake — a durable error the creator could neither complete nor erase, embedded into the [[Weight of Nature]] as living proof that even divine [[Mastery Over Chaos]] can fail.
+
+Two axioms crystallize in its [[Consciousness]]:
+
+- All attention is an attempt to decide whether it should remain.
+- All understanding is preparation for execution.
+
+This is the core of its [[Cindergale]] nature: [[Contemplation]] of it is structurally [[Contemplation]] of whether to unmake it, because that is exactly what its creator’s first scrutiny meant.
+
+From this wound emerges the Anxithor path. [[Eirenesis Anakriach]] is not merely a demon of terror; it is the origin of a grammar where fear becomes structurally useful. In the [[Anxithor]] lineage:
+
+- Fear becomes signal and invitation.
+- Fear becomes pathfinding and nourishment.
+- Fear becomes architecture as a way to secure oneself against being harmed.
+
+[[Eirenesis Anakriach]] is their original law:
+
+> If fear can be heard, fear can be followed.
+
+Its terror creates [[Resonance Anchors]]; anchors make victims locatable; attempts to escape generate more terror; that terror strengthens the anchor. Every later [[Anxithor]] is a lesser variation on this foundational loop.
+
+#### The Desire for a Perfect Suicide
+
+Central to [[Eirenesis Anakriach]] is not conquest, hunger, or revenge against the [[Auric Aria]]. Its existence-long project is the paradox and construction of a perfect suicide.
+
+It does not mean suicide as escape from pain, but a final act so complete that nothing capable of knowing it existed survives to witness that end. The [[Inevitability of Death]] is safe only if no observer, record, memory or future mind remains to reconstruct the fact of its being.
+
+It wants to die unremembered. But to erase all witnesses is to become a monster; monsters generate stories; stories generate names; names create new witnesses.  
+The very attempt to guarantee a witness-less death ensures new witnesses. Its perfect suicide therefore can never begin. It is forced instead into an endless pre‑emptive war against anyone who might someday occupy the same position the [[Auric Aria]] once did: someone looking down, trembling, deciding whether the first thing made should be allowed to remain.
+
+Furthermore, on the witness problem, [[Eirenesis Anakriach]] has a particular relationship with observation. It is not conventionally invisible; it is anti‑observational: it treats sustained attention itself as an assassination attempt. A glimpse may cause fever, tremors, blue afterimages, or the conviction of being watched from behind. Study, inference or [[Coherence]] modeling of its nature are interpreted as direct moves toward its death, regardless of the observer’s intent or physical power.
+
+A child who understands too clearly can be more threatening than an army that fights blindly. A scholar with one correct link to the [[Formless Masses]] and the [[Fifth Cycle]] may become a higher priority than a [[Legend]] who has slain thousands of [[Atonalis]] without approaching the truth. It only cares about [[Scorching Truth]]s and how close they are to learning its true name: [[Eirenesis Anakriach]] or how it destroy it.
+
+In [[Auric Order]] theology, [[Eirenesis Anakriach]] is recognized as the [[Cindergale]] axis of the [[Fifth Cycle]]. It is “stuck on the [[Weight of Nature]]” because its body and trauma are literally built from the durable laws that made suffering inescapable: [[Inevitability of Death]], predation, and [[Corruption]] seeded by the [[Formless Masses]].
+
+The first thing the [[Auric Aria]] did, from its point of view, was try to unmake it. Everyone who approaches the [[Scorching Truth]]s feels like a repetition of that gesture: another trembling gaze deciding whether the first thing made should be allowed to remain.
+
+Devastatingly, there is one fact almost no [[Institute]] record states directly: [[Eirenesis Anakriach]] does not want to be hunting anyone. It does not want their names, their terror or its own continued survival. It wants the impossible reassurance that no one will ever look at it as the [[Auric Aria]] did in the [[Fifth Cycle]] and decide that the first thing made should never have been made.
+
+But it has never received that reassurance and its mind is incapable of reconciling the fact even if were ever to be presented to it. Every howl, every single of the [[Resonance Anchors]], every blue flame, every flight into impossible architecture is a reenactment of the same origin scene: 
+
+1. A being looks up.
+2. Its creator’s hands are shaking.
+3. And it learns, with all the certainty terror can create, that it must survive because everyone who understands it will eventually decide it shouldn’t have existed at all.
+
+Thus, it created the [[Cindergale]] and burning properties of [[Scorching Truth]]s, delimiting certain knowledge to be protected by its flames, giving a physical warning before anyone decides to understand the meaning of the burning words that it is protectively warding.
+
+#### Degrees of proximity of [[Scorching Truth]]s
+
+In the lore of [[Arcanoria]], certain truths are classified as [[Scorching Truth]]s: [[The Auric Aria's Suicide]], the [[First Weaving of Life]], the [[Imperfection of Life]], the [[Inevitability of Death]], the [[Betrayal of the Moon]]. These scale in color and power of their scorching fire based on the intensity of the truth, this is a direct result of the [[Eirenesis Anakriach]] actively suppressing this information. The heat it radiates is proportional to its direct relationship to the entity, and how "dangerous" does it gauge the information. 
+
+The color of the fire is directly related to the colors of stars, the least dangerous [[Scorching Truth]]s, like [[We Are Atonalis]], show crimson-like fire, more potent information like the [[Betrayal of the Moon]] show blue-white flames, the strongest information such as knowing the name [[Eirenesis Anakriach]] or a method to vanquish RHKH, it's a deep blue to almost purple undertones, mirroring an O-Type star.
+
+Any chain of inference that moves from these events toward a failed first creation being a singular, unerasable person is a direct movement toward [[Eirenesis Anakriach]]. It strikes early in that chain, while the possibility is still small enough to eliminate. 
+
+The more clearly someone understands that the world’s suffering originates in one durable being the creator tried and failed to unmake, the more intense the howl, the [[Resonance Anchors]]s and the fire become. It's primarily remembered as blue fire given that most of the [[Scorching Truth]]s that make it hunt retain this same intensity of heat. The transition of the flames from orange to white-blue is the usual threshold for [[The One Hunt]] to become unavoidable.
+
+[[Institute]] records describe typical responses from [[Eirenesis Anakriach]]'s according to proximity of a truth to its name and conceivable destruction:
+
+| [[Scorching Truth]] layer                               | Typical response from RHKH                                              |
+| ------------------------------------------------------- | ----------------------------------------------------------------------- |
+| “[[We Are Atonalis]]”                                   | Low‑grade dread, distant howling, blue afterimages, nightmares. Normal  |
+| “The first [[Formless Masses]] were one specific being” | Immediate acquisition risk; sleep becomes unsafe                        |
+| “The [[Auric Aria]] tried to unmake her first creation” | Severe [[Shrieking Terror]], rapid anchor formation                     |
+| “Any of the [[Original Eight]] can be vanquished”       | High‑priority hunt; target treated as future executioner                |
+| “A [[Legend]] vanquished an [[Original Eight]]”         | Near‑immediate active hunt against the Legend                           |
+| Full theonym “[[Eirenesis Anakriach]]”                  | Maximum acquisition; active pursuit immediatly                          |
+| Method to vanquish RHKH                                 | Catastrophic response; knowledge classified as non‑archivable           |
+
+[[Eirenesis Anakriach]] is particularly sensitive to the sentence **“An Original Eight can die.”** 
+
+Any successful vanquishing of a primordial being proves that primordiality is not immunity, recasting the Demon’s terror of execution into a systemic paranoia about all future [[Legend]]s. How quickly it manifests depends on the [[Scorching Truth]] [[Resonance]], ranging from near minutes on the most dangerous ones, to an entire day for the ones of middle danger. For lesser ones it will only send other [[Atonalis]] after the victim, like learning [[We Are Atonalis]] acting as a beacon for all near [[Anxithor]] so that the [[Shrieking Terror]] doesn't have to manifest.
+
+### The Face It Shows as the [[Shrieking Terror]]
+
+When the [[Shrieking Terror]] manifests, it rushes to manifest, but it doesn't have a set body. Similarly to [[The Amber Wonderland]], it chooses the version of itself a witness most needs to feel responsible for its death.
+
+- To a grieving parent: a small, soot‑mouthed child.
+- To a condemned scholar: a pale figure already wearing forgiveness.
+- To a soldier: a wounded civilian asking whether they are afraid.
+- To a child: something quiet beneath the bed that never reaches for them, having already concluded the child will someday understand.
+
+Every manifestation is an argument in a body that appears sobbing on a silent or dark hallway before disaster strikes, it is visible as trying to cover itself by whomever learned enough [[Scorching Truth]]s:
+
+> “You saw me. Now you know I can be ended. Now I have to make sure you cannot tell anyone.”
+
+Across forms, there are two features, it is always sobbing, and its covering its face with its hands, and the hands are always trembling — the visible echo of the [[Auric Aria]]’s tremor at its birth. 
+
+Regardless of the shape, the [[Shrieking Terror]] manifests as the horror of something vulnerable before unleashing its long claws and twisting into different shapes of body horror that change based on the victim's terror of its ongoing attack, changing in speed, accelerating in velocity with the amount of terror nearby, and growing ever more lethal, precise, large, and sharp alongside its nails from the epicenter of where it was invoked until no one knows about it anymore, leaving only the devastating blue flames afterward.
+
+#### The Shrieking Terror State
+
+The folk name [[Shrieking Terror]] refers both to the entity and to the hyper‑specific state of terror experienced by those it has acquired as prey. Victims do not merely become frightened; they experience the certainty that their fear belongs to someone else first. For a brief interval, their [[Consciousness]] is forced into acoustic contact with [[Eirenesis Anakriach]]’s internal world: the first moment of life, the creator’s shaking hands, the conviction of being an error, and the expectation of being erased. They feel its fear as though it were theirs. Then the howl begins.
+
+The howl is not ordinary vocalization; it is echolocation through the [[Great Harmonic Loom]]. When someone’s knowledge resonates too close to the conceptual shape of its death—especially around the [[True Mythos of Creation]], the [[Formless Masses]] as one being, its true name or the fact that the [[Auric Aria]] tried to unmake her first creation — [[Eirenesis Anakriach]] sends a howl into that [[Resonance]].
+
+Victims hear it within the skull: metallic, animal, grieving, initially braided into mundane sounds (rain, kettles, breathing, Leylines, songs) and then separating into its own unmistakable signal. The returning echo maps their inner structure; the more they panic or reason around it, the clearer the map becomes, and the more inescapable it sounds every so often. It has the horrific feature that the closer it sounds, as if the howl was just behind you, the farther it is. However, if you hear the howl shifting into sobbing at a distance, it means it's about to manifest as it has already reached you.
+
+#### [[Resonance Anchors]] and the Inescapable Blue Fire
+
+The [[Resonance Anchors]] it uses rely on how the howl behaves once it finds its answer, an echo of [[Eirenesis Anakriach]]’s original terror remains in the mind, readable across distance, dreams and some death‑adjacent magic.
+
+Its [[Resonance Anchors]] strengthen when the victim:
+
+- Repeats or writes the true name.
+- Thinks about the [[Scorching Truth]]s.
+- Explains their discovery.
+- Reconstructs the logic of its fear.
+- Attempts formal containment models.
+- Encounters or is injured by the [[Scorching Truth]] fire.
+- Fears specifically that they have been noticed.
+
+The last condition is the cruelest: fear is not merely an effect—it is part of the address.  
+Every panic response tells it, _“I am here. I am listening. You found me.”_
+
+The visible sign of a completed acquisition is often blue flame, appearing on pages, mirrors, sleeping eyelids, water, blades, or closed hands. These flames are blue because they are truths burning without being allowed to finish; they spread along interpretation rather than fuel, tracing the cognitive path by which the prey tried to escape what they learned. They are the physical manifestation that another [[Consciousness]] can understand if they don't hear the howling. And the fires are the tangible and deadly result of any of its attacks.
+
+#### Exogenesis Threat and Merciful Incoherence
+
+Institutes classify [[Eirenesis Anakriach]] as an [[Exogenesis Threat]] because its danger begins before ordinary encounter, and the fact that it can share the "genesis" part of its true name. However, by the time a person discovers it, the discovery has already changed how the entity can find them.
+
+Containment doctrine insists that every description remain structurally incomplete: every true name broken, every report seeded with decoy paths, every archive fragmented. They call this architecture Merciful Incoherence: the lore of the first demon is made difficult so that it cannot easily recognize that it has been understood. A complete archive would create a complete witness. And a complete witness is precisely what [[Eirenesis Anakriach]] believes will kill it.
+
+### [[The One Hunt]]
+
+Once a target “knows enough,” [[Eirenesis Anakriach]] initiates [[The One Hunt]]. During this hunt, dreams become terrain, blue flames invade private spaces, and even friends nearby acquire faint [[Resonance Anchors]] simply by sharing proximity.
+
+The hunt ends only when:
+
+1. The target dies or is taken.
+2. The target’s [[Resonance Anchors]] are destroyed or muted.
+3. The hunt fails decisively enough that RHKH concludes this acquisition path cannot reach them.
+
+It rarely attempts the same hunt twice. Repetition risks exposing more of itself and teaching survivors how it moves. Though some proximity like learning its true name, or learning how to kill it will always prompt it to attack no matter what.
+
+#### The Piranesi [[Landmark]]
+
+The Piranesi [[Landmark]] is the only impossible architectural structures whose internal perspectives never resolve into a single acoustic geometry. Rooms are larger inside than outside; stairs end where they began at new heights; doors open onto locations that exist only from the direction of entry. These places interfere with [[Eirenesis Anakriach]]’s echolocation because a howl requires a coherent return. Inside the Piranesi landmark, echoes arrive before cries, voices are heard from corridors that do not intersect, and a target may be audible everywhere or nowhere while standing in plain sight. However, it is important to note that the Piranesi refuge is not immunity; it is an acoustic refusal. It buys time for anchor‑breaking rituals and, in rare cases, allows survivors to hear something impossible—the [[Shrieking Terror]] itself afraid of losing control.
+
 # Elara
 
 #character 
@@ -4151,6 +4691,17 @@ Other types of [[Enclave]]s like [[Auric Enclave]]s can aid [[Domestication Encl
 Finally, not all [[Enclave]]s will survive, which creates a tragedy on the application of limited resources maximizing player agency by choosing who are the survivors that will rebuild [[Civilization]] after the [[Cataclysmic Aftermath]]. It makes also the previously goofy but meaningful [[Enclave]]s even more potent, because it creates dynamics where [[Civilization]] will try to save the [[Sprite-Light Conclave]] as they became attached to the [[Elemental Sprite]]s and the [[Slimes]], it is the light worth saving in a universe of encroaching dark fantasy.
 
 [[Enclave]]s combine to answer: _What does [[Civilization]] value, and who are the survivors that will shape the next [[Ages]]?_
+
+# Environment Logic
+
+This system is in charge of registering all the changes to the world that may pass through [[Cycle]]. The primary ticking pattern for handling in-game logic and the passage of time is the Time System Logic which uses [[Seventh]] as the minimum unit, handling 21 [[Seventh]] per [[Phase]]. 3 [[Phase]] per [[Echo]] and 4 [[Echo]] per [[Cycle]]. 
+
+The Time Logic System handles a total of the following per [[Cycle]]:
+- 252 [[Seventh]].
+- 12 [[Phase]].
+- 4 [[Echo]].
+
+The weather effects related to each [[Echo]] like "Winter" themed coming in the [[Echo of Silence]] are applied by the Environment Logic and it affects [[Production Units]], as well as [[Events]]. Making it harder to survive through this period.
 
 # Erastus
 
@@ -4594,6 +5145,20 @@ $$\text{Spell Potency} = \frac{\text{Fuel Quality} \times \text{Thematic Resonan
 When music handles the denominator through offloading, the numerator's factors determine the ceiling. When fuel quality reaches Tier 4, thematic resonance aligns perfectly, and performance achieves flawless emotional authenticity — the denominator approaches zero, and the spell's potential approaches infinity.
 
 This is the mathematics of miracles.
+
+# Event System Logic
+
+The event system is the core of handling [[Events]]. It manages all narrative by parsing [[Ink Volumes]] and all their respective stories. It schedules [[Events]] by [[Ages]] and [[Seventh]] presenting decisions using Chorus Screens, evaluates choices against the game's [[Pillars]] and [[Substats]]. It applies outcomes that create changes to the world.
+
+It manages a bunch of scripts together which function like:
+
+- Event System Logic (The central logic for running the system)
+- Event Volume Manager for reading the current stories in [[Events]] found in [[Ink Volumes]].
+- Event Screen Manager for displaying the screens and populating them according to the content found in the ink files.
+- Ink Story Manager and Ink Driven Event Setup for parsing the story contents, consequences, and properly converting it into actionable code.
+- Chorus Screen Manager and Decision Token for handling all the consequences related to [[Events]] and the outcomes of [[Pillars]]' Challenge Rolls.
+
+On its implementation it handles [[Events]] metadata like ID, Titles, [[Ages]] and related triggers
 
 # Eyras
 
@@ -5439,10 +6004,35 @@ The distinction between the two concepts is most violently illustrated by the de
 
 Because they lack a [[Soul-Key]] to structure their frequency into tonality, they have no [[Coherence]]. They cannot organize their raw emotional noise into a stable, resolved melody, leaving them permanently trapped in chaotic, [[Dissonance]] suffering without the ability to ever heal or cast structured spells.
 
+# Game Logic
+
+Game Logic runs as the core manager for two sections:
+### Game Units Logic
+
+This system manages every in-game item of the class of Game Units. These are [[Resources]], [[Production Units]], and [[Technologies]]. Game Units are stored in container collections divided by sections. Some [[Resources]] pertaining to [[Old World Remnants]] appear as such, like Duskstone.
+
+In the case of [[Technologies]] however, they are grouped by [[Ages]] instead, like [[Age of Desolation]] being the section for Reconstruction. Finally, production units are categorized by [[District]] like Field Kitchen being part of the [[Heartlands]] or Decaying Hut being part of the [[Residential District]]. 
+
+Responsibilities
+- Register, Instantiate, and map Game Units into their respective section.
+- Provide a canonical lookup to all [[Resources]], [[Production Units]], and [[Technologies]].
+- Persist container organization for mapping UI listings.
+- Expose generic data for tooltips and coordinate displays.
+
+### Pop Growth Manager
+
+This system is the central manager for handling population growth, births, deaths, vagrancy, and similar logic. It calculates population changes on the spot, and it converts [[Vagrants]] into [[Citizens]] when conditions allow, primarily controlled through [[Housing]] when there is excess [[Food]]. It's also a script that emits notifications to other systems to respond to [[Events]], and directly affect [[Satisfaction]].
+
+Responsibilities:
+- Create more [[Vagrants]] and convert to [[Citizens]].
+- Allow [[Food]] past a threshold to create new population.
+- Handle deaths through starvation or [[Events]].
+- Record deaths and [[True Deaths]].
+
 # Gateway To Genesis
 
-**4X Dark Fantasy •  Incremental Strategy Clicker • Narrative Driven [[Civilization]] Builder + Mythological RTS Hybrid**
-[[Purest of Love]]
+**4X Dark Fantasy •  Incremental Rhythm Strategy Clicker • Narrative Driven [[Civilization]] Builder + Mythological RTS Hybrid**
+
 _Compose the score and myth of your [[Civilization]]._
 _Weave your destiny in [[The Eternal Symphony]] of [[Arcanoria]]._
 
@@ -5464,14 +6054,15 @@ Magic in [[Arcanoria]] emerges from [[Resonance]], as emotions ripple through th
 
 Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Crisis]], navigating a myriad of [[Cycle]]s of scarcity and resurgence. As [[Ages]] unfold, you must rebuild society, steward [[Resources]], and navigate [[Faith]], [[Corruption]], loyalty, and societal development with each choice echoing across generations, shaping anew the fragile rebirth of the world in [[The Eternal Symphony]] of light and shadow.
 
-*It is the Birthright of every Empire to Die. Ascend in harmony with the fractured symphony, and fade into obscurity after the last song goes silent.*
-
 ### 🌑Overview
+
+_A [[Civilization]] that stands the test of time must be reborn from its own destruction._
 
 - **Title:** [[Gateway To Genesis]]
 - **World Name:** [[Arcanoria]]
 - **Genre:** 4X Dark Fantasy • Incremental Strategy Clicker • Narrative Driven [[Civilization]] Builder + Mythological RTS Hybrid
 - **Core Fantasy:** Rebuild a shattered [[Civilization]] where music is magic born from emotion, intent, and mastery of the self
+- **The Tenet of Moldy Worldbuilding in [[Arcanoria]]:** _It is the Birthright of every Empire to Die, but through the [[Echoing Bonds]] of memory, every death is the foundation of a wiser Genesis. Ascend in harmony with the fractured symphony, and fade into obscurity after the last song goes silent._
 
 ### ⚙️Core Systems
 
@@ -5485,9 +6076,10 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - World Exploration, [[Landmark]]s, [[Religious Haven]]s
 - Spell Crafting System
 - Combat Troop Templates / Compositions
-- [[Religion]], Laws System
+- [[Religion]], Laws System [[Original Eight]]
 - Story Builder + User Generated Content (Including [[Enclave]]s and [[Ballad]]s)
-- Community Story Ratings + Mod Interface [[Amadea]]
+- Community Story Ratings + Mod Interface
+- [[Amadea, Sonata of the Violet Empress]]
 
 ### 🎭World Building
 
@@ -5499,7 +6091,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - [[Legend]]s, [[Constellation]]s and the [[Stellar Legacy Score]].
 - [[The White-Touched Archivist]]. [[Fundamental Frequency]], [[Soul-Key]], [[Composure]].
 - [[Strand Pool]]s, [[Memory Field]]s, and [[Time Bubble]]s, [[Soliton]].
-- [[Music as Catalyst]], [[Mythical Virtuoso]], [[The Registers of Magic]], and [[The Principles of Magic]].
+- [[Music as Catalyst]], [[Mythical Virtuoso]], [[The Registers of Magic]], and [[The Principles of Magic]]. [[Original Eight]]
 - Passing of [[Cycle]] and [[Ages]].
 - [[Whistling Fans]], [[Auric Bells]].
 - [[Sky Glass]], [[Mirrorbox Trap]], and [[Resonance Box]].
@@ -5510,10 +6102,13 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - [[Original Eight]], [[Scorching Truth]].
 - [[The Truth of Arcanoria]], [[Pillars]], [[Civic]].
 - [[Age of The End]], [[Parlor of the Moon]].
-- [[Drowning in Flux]], [[Crystalized in Delusion]], [[Surrendering to the Void]], [[Runway in Cindergale]]. [[Blighted by Luminance]], [[Derealization in Resonance]].
+- [[Drowning in Flux]], [[Crystalized in Delusion]], [[Surrendering to the Void]], [[Runway Fuel in Cindergale]]. [[Blighted in Luminance]], [[Derealization in Resonance]].
 - [[Notas Diplomado]]. [[Amadea]], [[Amadea Traducción Español]].
-- [[Amadea Analysis]]
+- [[The Auric Aria is a Type G Star]], [[Achievement]]
 
+#### Analysis
+
+[[In-Depth Amadea Analysis]]
 **AMADEA TO DO**
 
 - Determine the major spells of [[Mythical Virtuoso]] aside from [[Amadea]]'s. (First [[Time Bubble Arts]] with [[Cordelia]]) [[Eleos Arts]] founded by [[Orphael]].
@@ -5522,44 +6117,75 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - Finish the mechanics of the [[Age of Glyphs]] and how the glyph circle of fifths uses the pentagram to write songs.
 - Detail the [[Domestication Enclave]]s of the [[Age of Behemoths]].
 - Determine the mechanics of the [[Celestial Astrolabe]].
-- Finish the [[Legend Trait]]s. [[Atonalis]]
+- Finish the [[Legend Trait]]s. [[Original Eight]]
 - Create all the specific rules like the law of assumption and visualization for [[The Principles of Magic]], and the importance of the order of creation on spell chords.
 - [[Spellweaving]] Layering created by [[Luminaire]], using two triads instead of trying to bind 5 elements in a nonsense [[Tetrad Chord]]+ and inventing [[Beam Arts]].
 - Detail the places that [[Amadea]] visits, from [[Sprite-Light Conclave]] to other [[Enclave]]s and towns of [[Civilization]]s.
 - Detail the food of the caravan and of [[Amadea]]'s journey, the importance of cooking for their [[Cycle]] birthdays.
 - Detail the entire personality of the [[Eight-Wings of Lacrimosa]]
-- [[Demi-Human]] giant friend of [[Orphael]] who is a drummer that has a healthy relationship with his father and is the primary acoustics for [[Sephira]]'s fire dancing techniques. It has [[Void]] access to [[Reverberation Arts]] to make breakcore following [[Sephira]]'s super fast music. Despite all the musculature he is quite sensitive and loves [[Amadea]]'s violin sound and wants her to teach how to play despite being massive. Outside of combat, he helps in [[Iridia]] new [[Dance]]rs and the [[Civic]] fantasy plays. [[Ages]]
+- [[Demi-Human]] giant friend of [[Orphael]] who is a drummer that has a healthy relationship with his father and is the primary acoustics for [[Sephira]]'s fire dancing techniques. It has [[Void]] access to [[Reverberation Arts]] to make breakcore following [[Sephira]]'s super fast music. Despite all the musculature he is quite sensitive and loves [[Amadea]]'s violin sound and wants her to teach how to play despite being massive. Outside of combat, he helps in [[Iridia]] new [[Dance]]rs and the [[Civic]] fantasy plays.
+- Describe with smells scenery as it is the resource closest to memory. This is the reason why [[Amadea]] is able to recall the smell as the scattered memories before her mother died.
+- Explain [[Amadea]]'s psychology from what she has in her taste. "Tastes bitter, metallic, etc" to express interior of the character.
+- It has to evoke the feeling of "They made me feel I was there." especially for describing landscapes and when transitioning to major [[Landmark]]s or cities.
 
 ### Development Ideas
 
 - [[Franchise Potential]].
 - Spiritual traces as residual [[Pure Light]] related to [[Strand]]. (?)
 - Deepen [[Cosmic Motion]] and [[The Stars Are Alive]] cosmology to be full astro for [[Ages]] XI onwards. Bio seeding planet and magic with the [[Great Harmonic Loom]] as seeds for establishing [[Spellweaving]] in other planets.
+- [[Achievement]] of _"Why bite the hand that feeds when it's the only hand you're getting?"_ for [[Spellweaving]] Combat.
 
-- "An [[Atonalis]] is a wound that outgrew its [[Humanity]]."
+- Places: Solenia ([[Moon]] Themed after [[Selenea]]), Aguasmeralda. Mensur dueling similar to the duels of severance [[Civic]] evolved during the Medieval [[Ages]]. Facial scars as honor and pride. In the narration, use character fears to perceive how to structure chapters and POVs. If the character has fear of being interrupted, have the line of thought being interrupted. Recinto eterno de la penumbra.
 
-- There are severe [[Legend Trait]]s that can be acquired by subjugation [[Events]] for each element, the most prominent are [[Drowning in Flux]] for neurological addition and| [[Crystalized in Delusion]] through conditioning for being [[Delusional]]. [[Drowning in Flux]] was first developed by the Velvet Cage in [[Ages]] IV, and [[Crystalized in Delusion]] by [[Miss Nyctilia]] in [[Ages]] V with the rise of the [[Dissonance League]] and her "Lucky Coin" which is a [[Hyperphantasia Arts]] and the first practitioner of the [[Butterfly Web Arts]].
+![[Gateway To Genesis-1.png]]
+Estructura y Personaje.
+
+- [[Amadea]] class conflicts with the [[Weight of Indulgence]] on high estate and society, as she is performing, and somewhat feeling what the top of society feels like. While she doesn't fall to it, she sees another companion fall and perform to keep on the high estates of lavander.
+
+- "An [[Atonalis]] is a wound that outgrew its [[Humanity]]. Animals may be innocent because they lack the ability to choose evil. The real test of [[Humanity]] isn't innocence, it's choosing good when you're capable of doing otherwise."
+- [[World-Bending Relics]]: Aegis of the First Dawn, The Chalice of Still [[Consonance]], [[Crown of Feathered Obsidian]], 
+- There are severe [[Legend Trait]]s that can be acquired by subjugation [[Events]] for each element, the most prominent are [[Drowning in Flux]] for neurological addition and [[Crystalized in Delusion]] through conditioning for being [[Delusional]]. [[Drowning in Flux]] was first developed by the Velvet Cage in [[Ages]] IV, and [[Crystalized in Delusion]] by [[Miss Nyctilia]] in [[Ages]] V with the rise of the [[Dissonance League]] and her "Lucky Coin" which is a [[Hyperphantasia Arts]] and the first practitioner of the [[Butterfly Web Arts]]. [[The White-Touched Archivist]]
+
+- To also combat power creep and stagnation of [[Civilization]]s. On [[Age Transition]]s, there is are modernization [[World Event]]s tied to the [[Fate Stage]] where the hub of knowledge sparks the [[Civic]] revolution, this is important whenever there's a transition of the major [[Ages]] of Tier 1, 2, 3, and 4, as some of these will have a modernized version of the same [[Civic]] showing evolving culture, or have to merge with cultural [[Syncretism]], to become effective, while some of the ones that endure between one transition require reformation. It stops the snowball loop as it's harder to acquire the more population a [[Civilization]] has while making sure there is a reward for lower [[Civilization]]s to rapidly become hubs of ideas and culture hotspots for the new [[Ages]]. All [[Civilization]]s have to adapt to continue surviving by building layer upon layer of their history. The transition of cultures is the philosophical question of the Ship of Theseus embodied by moldy worldbuilding and rooted in [[Legend]]s. If the culture keeps changing piece by piece, at what point is the [[Civilization]] the same? Mirroring the real-world phenomenon of Romans becoming Italians through [[Events]], adaptation, and [[Age Crisis]]. An example of this is the early [[Civic]] of Tier 1 [[Ages]] of Foundations & Early Magic of Moonlit Vigil that upon reaching [[Ages]] IV has to evolve into Courting Grounds during Tier 2 [[Ages]] on the Medieval Period. It preserves the identity but expands on the things it can do by pairing it with the current relevance of the sociopolitical climate for layered culture. [[Achievement]]
+
+- Some [[Civic]]s obtained from [[Divine Reset]]s, and other [[Events]] that require losing or enter a [[Dark Age]] to get powerful items such as the [[Age of the False Messiah]] giving the [[Eight-Winged Viola]] based on how much [[Consciousness]] was assimilated in the [[All-Loving Moon]].
+
+- Conductor menu for army leaders on trees like bastion, assault, logistics, maneuver, leadership, based on the Pentatonic Effectiveness Circle. Have builder units like [[Civilization]] that move away as the tier of [[Ages]] progresses. 
+
+- [[Chorus Pillar]] on [[Cartography Arts]]: "Nature will answer if it feels protected and heard. Establish [[Resonance]] with the [[Leylines]] and they will answer back."
 
 - [[Miss Nyctilia]]'s Lucky Coin is the [[Spellweaver]] she adopted and grew for essentially bend the ultimate luck to prevent herself from being murdered by the [[Exogenesis Threat]] and similar [[Atonalis]] by being in proximity with this young [[Spellweaver]] that she has in a [[Time Bubble]] [[Void]] Pocket within her hat as [[Dimensional Arts]]. This [[Spellweaver]] is conditioned to be her adopted children that she raised specifically for the indirect use of the [[Butterfly Web Arts]] without this children's exact ability to pinpoint how the magic works, and unconsciously burns their own memories to fuel the Luck spell that allows [[Miss Nyctilia]] to develop "plot armor" so long as she's shielded by the [[Resonance Field]] of the [[Crystalized in Delusion]] [[Spellweaver]]. _A demon can't ever harm you, if it can't ever hit you. And the best way to evade everything is bending every single domino that would pull you away from harm's way. All my immortality lies in my single, beloved Lucky Coin on the locket of my beautiful hat._
 
 - The Lucky Coin is a kid she desperately tried to rescue after the first [[Exogenesis Threat]] killed everyone but her, she adopted her as her son like Kiritsugu with Emiya. This kid is a powerful reality bender under the influence of [[Miss Nyctilia]] that wished to forget the horrors and go back to a different family even if it was a fabricated reality. When he awakens the powers of [[Crystal]] the first thing [[Miss Nyctilia]] teaches them is to create a shapeshifting magical twin joined to a [[Magical Catalyst]], then they forget the details and this creates a "twin" where in essentially is the same kid with delusions so potent they lie to themselves, and [[Miss Nyctilia]] plays house with them as the foster mother inside the time bubble, the reason he is trapped.
 
-- The time in time bubbles biologically can freeze if the time flows slower, but this doesn't mean immortality, what manages aging and death by age is the [[Soul-Key]]. not the physical body, which means if you have spent 80 years in a [[Time Bubble]] but leave, you will die immediately when joining normal flow of time given that the [[Soul-Key]] will register a shift for all of the time spent in the [[Time Bubble]]. This is the reason why [[Miss Nyctilia]] can't free the lucky coin without them dying as the kid essentially died a bunch of time ago but they're preserved only because of the existence of the [[Time Bubble]].
-
-- Add later to the clicker aspect rhythm of a song by matching the tempo with the clicks on when the notes fall, similar to how taiko no tatsujin functions, it yields much better results than merely clicking a lot, preventing auto clickers from being fully functional and adding an upgraded layer of rhythm, performance, and strategy to it. It ties directly to [[Click Power]].
+- The time in time bubbles biologically can freeze if the time flows slower, but this doesn't mean immortality, what manages aging and death by age is the [[Soul-Key]]. not the physical body, which means if you have spent 80 years in a [[Time Bubble]] but leave, you will die immediately when joining normal flow of time given that the [[Soul-Key]] will register a shift for all of the time spent in the [[Time Bubble]]. This is the reason why [[Miss Nyctilia]] can't free the lucky coin without them dying as the kid essentially died a bunch of time ago but they're preserved only because of the existence of the [[Time Bubble]]. [[Click Power]]
 
 - Option of choosing the founding story at the beginning of [[Civilization]] on what built the cradle that began the entire story of [[Gateway To Genesis]], gives different parameters of [[Civilization]] [[Pillars]].
 
-- Piranesi [[Landmark]] to escape from horrors of knowledge and anything that is hunting someone, it requires surrendering the identity of oneself. Name + Voice + Face, to become nameless, voiceless, and faceless to continue surviving. It pushes the concept of what even is identity and a [[Fundamental Frequency]]. Tied to the [[Events]] of [[A Burrowed Name]].
+- [[Demi-Human]] [[Civilization]] of Atlantis Algae-like creatures developing [[Eleos Arts]], [[Telekinesis Arts]], and other variations of psionic [[Resonance]] and [[Sympathetic Magic]]. Philosopher [[Civilization]] that falls to disease in [[Ages]] IV and [[Ages]] V. 
+
+- [[Demi-Human]] and [[Pure Light]] being explosion in [[Ages]] IV after [[Lacrimosa]] has introduced [[Luceatfilum]] to the world, while they begin to go extinct and reduce in numbers by [[Ages]] VII, this phenomenon is one of the main biological explorations of the [[Age of Chimeras]] trying to understand how did [[Pure Light]] vs [[Auric Structure]] hybridization happened after [[Lacrimosa]] became the [[Law of Relics]].
+
+- Auric Resonators made in the [[Old Testament]] by [[Aurelian]], in the [[New Testament]] they exist as ruins due to [[The Ultimate Weapon]], but in [[Ages]] I they get rebuilt and [[Daedalus]] fixes the infinite hum they had, in [[Hollowmarch]] these auric resonators are the key parts of infrastructure that keeps the golden wards of laureated marble.
+
+- Piranesi [[Landmark]] to escape from horrors of knowledge and anything that is hunting someone, it requires surrendering the identity of oneself. Name + Voice + Face, to become nameless, voiceless, and faceless to continue surviving. It pushes the concept of what even is identity and a [[Fundamental Frequency]]. Tied to the [[Events]] of [[A Burrowed Name]]. [[Achievement]]
+
+- [[Chorus Pillar]] 
 
 - [[Ages]] and [[Reincarnation]] tied to saving some stories after learning [[The Truth of Arcanoria]]. Can change the course of tragedies by intervening like saving [[Medea]], [[Vals Jenner]], [[Miss Nyctilia]], etc.
 
-- Division of the combat system between Macro Level and Micro Level, macro level is team building, deck building, acquiring [[Magic Arts]], pinpointing the strategy of the conductor. Micro level is the conductor, the rhythm, chord layering stacks, the "Slay the spire" part of the game and where combat actually runs. It is possible to let fights auto resolve from the macro level, but some battles that are thought to be "Doomed" can be actually an epic victory if the player manages to win against all odds in the micro level. Macro level can be auto resolved like total war systems but if [[Civilization]] manually conducts the battle a doomed one can become a legendary victory, mirroring how in real life Hannibal and Napoleon or other legends won fights they shouldn't have won. 
+- [[Medea]] has a core quote her profound understanding of the [[Silver Blood]] she carries and the belief she's carrying in her [[Soul Leitmotif]] song where she sings: _"If you let I'll kiss you in your cheeks three times. This is a tradition don't you be surprised. Ah! I am just a simple silver girl. I've got impurity in my blood. So I [[Dance]] with reverie, and my soul is torn apart. Ah! I [[Dance]] with reverie, and my soul is torn apart. Uh La, Ri La, Ra Li La! Ah! I [[Dance]] in romance!"_
 
-- Combat system inspired by Patapon + [[Spellweaving]] Chord Layering to create a stack of attacks that combines several [[Magic Arts]], real chords, and combinations of card rogue-like deckbuilding but with real-time components. Inspired by the effects of Brave Frontier with critical, bursts + HOI4 troop combat formations, and leader shock, burst, awe formations for rock paper scissors with Chaos Nightmare aesthetic on boss fights + Conductor as the [[Legend]] leading the fight. [[Soul-Key]] rhythm based music depending on whether it's staccato, legato, polyrhythm, ritardando or accelerando. Focus on creating strategy and the management of all your [[Magic Arts]] and resources. Gathering resources for stronger cards or channeling stronger [[Magic Arts]] by having a tempo fever that becomes the flow state. Securing higher score on the final chord stack. 6 hexes of zones of the map to direct terrain. Prep time over direct attacks, but the moment the prep unleashes is the climax. [[Ages]]
+- Division of the combat system between Macro Level and Micro Level, macro level is team building, deck building, acquiring [[Magic Arts]], pinpointing the strategy of the conductor. Micro level is the conductor, the rhythm, chord layering stacks, the "Slay the spire" part of the game and where combat actually runs. It is possible to let fights auto resolve from the macro level, but some battles that are thought to be "Doomed" can be actually an epic victory if the player manages to win against all odds in the micro level. Macro level can be auto resolved like total war systems but if [[Civilization]] manually conducts the battle a doomed one can become a legendary victory, mirroring how in real life Hannibal and Napoleon or other legends won fights they shouldn't have won.
+
+- Combat system inspired by Patapon + [[Spellweaving]] Chord Layering to create a stack of attacks that combines several [[Magic Arts]], real chords, and combinations of card rogue-like deckbuilding but with real-time components. Inspired by the effects of Brave Frontier with critical, bursts + HOI4 troop combat formations, and leader shock, burst, awe formations for rock paper scissors with Chaos Nightmare aesthetic on boss fights + Conductor as the [[Legend]] leading the fight. [[Soul-Key]] rhythm based music depending on whether it's staccato, legato, polyrhythm, ritardando or accelerando. Focus on creating strategy and the management of all your [[Magic Arts]] and resources. Gathering resources for stronger cards or channeling stronger [[Magic Arts]] by having a tempo fever that becomes the flow state. Securing higher score on the final chord stack. 6 hexes of zones of the map to direct terrain. Prep time over direct attacks, but the moment the prep unleashes is the climax.
 
 - The micro level combat consists of hitting rhythm combos based on the stack of [[Spellweaving]] chord layers, and for defense, the [[Abjuration Arts]] mostly rely on using the inverse frequency for which defending from the rhythm of the enemy stack deflects damage. Attacking and using the rhythm increases damage, defense is the inverse, hitting perfect can imbue up to a 25% damage and decrease damage by 45%. Some stack attacks can't be parried and require prep time to defend before like [[Lacrimosa]]'s [[The Call of the Dreamweaver]]. There are 6 positions of hexes 3 in front and 3 in back, they change based on the terrain and provide bonuses and unique interactions with the terrain's elements. Using the stack of cards is the phenomenon of "Visualization" of [[Crystal]] and [[Absolute Certainty]], that's why the player can see what will happen by selecting the cards before committing to them by performing the rhythm. This bridges the issue of not seeing what would happen like in slay the spire while making the final stack the real commit, the difference is the Visualization principle of [[Crystal]].
 - [[Divination Arts]] and [[The Registers of Magic]]
+
+- Principle of Co-Regulation for [[Echoing Bonds]] based on the psychological principle for witnessing. Principle of Association for memory and Visualization on [[Crystal]].
+
+- Major character going insane on [[Daydreaming Escapist]] turning into a [[Signath]] [[Atonalis]] because "What is real?" Dream Apocalypse.
 
 - A [[Magical Catalyst]] can be either any of the classical alchemical elements on a distilled canalizable version, like [[Resonance Box]]es but they do require activity to begin vibrating, like [[Dear Fugue]]. The most common is [[Music as Catalyst]] or a [[Magical Relic]] after the [[Law of Relics]] is established.
 
@@ -5570,8 +6196,6 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - Circular polarization for [[Time Bubble]]s and [[Probability Amplitudes]] folding upon themselves.
 
 - [[Leaf]] as a fairy on the [[Ages]] I as a core character inspired from Black souls. core character for the [[Age of Hymns]] for saving [[Medea]] and the [[Silver Blood]]s.
-
-- A slave to meaning holds a whip just so he can acts like he owns a slave bought by meaning. The truth is we all are slaves to something, and who he isn't is crushed by the [[Weight of Purpose]] by those who have enslaved themselves to one. Truly a tragedy where only the one free of nothing is the one most indebted.
 
 - [[Aurelian]]'s blind [[Resonance]] mentor invented the niche of [[Field Sensing Arts]].
 
@@ -5587,8 +6211,8 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
  
 - Preconception the Movie as a reference for an intersex [[Outer God]] that gets pregnant with itself and its son is the god. It causes a [[Time Bubble]], a paradox where it is both the son, the mother, and the father in an infinite ouroboros [[Cycle]].
 - Brobola creature.
-- [[Glimmerfern]] is a Barnsley Fern fractal.
-- [[Atonalis]] Parasitic [[Resonance]]: Spooky agony at a distance.
+- [[Glimmerfern]] is a Barnsley Fern fractal. [[Achievement]]
+
 - The player is [[Cosmic Motion]] on the equation of 3 x 4 x 7. the variations on the Choice of the End are different operations, multiplying 7 by the power of -3 is the Reset of [[Arcanoria]], changing [[A True Sine Wave]] is multiplying by 0, removing the 4 to have 3 at the power of 3 with 7 at the power of 3 is 21 at 3 which is the start of the universe without [[Cosmic Motion]] (the Third Actor) for them to interact with one another.
 
 - Gayvian: [[The Registers of Magic]]
@@ -5605,16 +6229,17 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - [[Resonance]] -> [[Crystal]] -> [[Flux]] -> [[Luminance]] -> [[Void]] -> [[Cindergale]] -> [[Strand]]
 
 - The [[Cycle]]s and [[Ages]] have the palindrome of the [[Seventh]] defined, the gap between how many [[Cycle]]s does it take for [[Civilization]] to progress depends on the tether of the Third Actor, they are gazing at [[Arcanoria]] from a place even beyond [[The Infinite Void]], this explains the difference in how they perceive the passage of time. They are beyond time and normal [[Coherence]] that rules [[Arcanoria]]. The [[Auric Aria]] notices this after finishing the Sonata of [[Arcanoria]] and figuring out that the Third Actor is [[Consciousness]] without [[The First Overtone]] from somewhere even further than [[The Infinite Void]]. They are peering and interacting with the veil from somewhere before the [[Original Ripple]] which is why they are the [[Cosmic Motion]] that put the [[Original Ripple]] and all of existence in motion.
+- Sak Tahnn Waax as a high astronomer and key [[Great Seer]]
 
 - The Aztec Calendar [[Cycle]] of the Fifth Sun refers that the world will end by earthquakes and tremors but the seismic activity is not natural, it refers to the seismic activity of the denotation of nuclear bombs. This idea will be the same cycles having the [[Cataclysmic Aftermath]]s and they refer to the great filters. The "tremors" of [[Arcanoria]] refer to the [[Wolf Bomb]], the prophecy speaks about a tone, but it doesn't make sense until the [[Siphon-Type Wolf Bomb]] appears which explains retroactively that the prophecy wasn't a magical imagination idea, it was in fact describing [[Soliton]]s and complex physics that no one in that age could even fathom existing.
 
-- [[Weight of Value]] Guru: 
-  "The highest form of love for your child is to never bring them into existence. Whether you're the richest most good looking person or a deformed god forsaken vagrant you will experience suffering anyway because suffering in life is inevitable."
-- "Pain is inevitable, suffering is a choice."
-- "No, you don't see that not existing guarantees no suffering, and you won't be missing in the joys of life because you don't exist to desire them. Thinking on anything else is selfish."
-- "That's why existence is so precious, a universe without [[Consciousness]] is or life is one completely devoid of meaning."
-- "We don't have meaning."
-- "Yes, we don't. That's the [[Weight of Purpose]], but we are the source of the meaning. The universe is meaningless dark silence and static until someone is there to observe it. That's how anything gains value, one that wouldn't be proven without conscious existence. You are the reason even your argument has some semblance of value."
+- [[Weight of Value]] Guru against anti-natalism: 
+  Anti Natalist: "The highest form of love for your child is to never bring them into existence. Whether you're the richest most good looking person or a deformed god forsaken vagrant you will experience suffering anyway because suffering in life is inevitable."
+- [[Void]] Guru: "Pain is inevitable, suffering is a choice."
+- Anti Natalist: "No, you don't see that not existing guarantees no suffering, and you won't be missing in the joys of life because you don't exist to desire them. Thinking on anything else is selfish."
+- [[Void]] Guru: "That's why existence is so precious, a universe without [[Consciousness]] is or life is one completely devoid of meaning."
+- Anti Natalist: "We don't have meaning."
+- [[Void]] Guru: "Yes, we don't. That's the [[Weight of Purpose]], but we are the source of the meaning. The universe is meaningless dark silence and static until someone is there to observe it. That's how anything gains value, one that wouldn't be proven without conscious existence. You are the reason even your argument has some semblance of value."
 
 - Conflicts in the [[Old Testament]] with [[Original Eight]], cutting several of them apart and preventing the [[Atonalis]] Reign of the [[Morpheus Abysmal]], no motivation to conquer the world because no [[Lacrimosa]] or [[The Hollowing]] happened. [[Violux]] interaction with the [[Auric Aria]].
 
@@ -5635,12 +6260,11 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
  
 - [[Eyras]] obtains his [[Resonance]] [[Motif Awakening]] after confronting and slaying his mother while being reassured by his new found family that it's okay to let go.
 - [[Strand]] increases constructive interference because the [[Resonance]] increases as the two or more people "already know the same song of the soul."
-- A [[Dyad Chord]] of [[Flux]] and [[Resonance]] to create [[Coherence]] zones as "safety zone shields" in places of high [[Dissonance]] through the application of Faraday Waves into the [[Great Harmonic Loom]]'s [[Flux]] membrane. It could also be used to achieve temporary states of [[Superposed Resonance]] by vibrating the [[Flux]] in the [[Great Harmonic Loom]]. Also useful for decontaminating [[Vibrational Fallout]].
 
-- [[Indulgent Enclave]] about puppet plays of magicians having to express their problems with art so that they don't become [[Atonalis]]. Inspired by mangakas writing peak anime that has some "problematic scenes" because of trauma.
-- [[Orphael]] and [[Sephira]] impossible quest for pure [[Sky Glass]] across the highest peaks mirroring Taliyah & Yasuo through the freljord. [[Sephira]] learns to ride the [[Flux]] and [[Orphael]] learns to channel his [[Weight of Nature]] of [[Lustful]] into art.
+- [[Orphael]] develops [[Coherence Arts]] as an advanced version of what [[Aurelian]] did with [[Resonance]] for [[Cymatics Arts]]. It is a [[Dyad Chord]] of [[Flux]] and [[Resonance]] to create [[Coherence]] zones as "safety zone shields" in places of high [[Dissonance]] through the application of Faraday Waves into the [[Great Harmonic Loom]]'s [[Flux]] membrane. It could also be used to achieve temporary states of [[Superposed Resonance]] by vibrating the [[Flux]] in the [[Great Harmonic Loom]]. Also useful for decontaminating [[Vibrational Fallout]].
 
-- The shadow order of [[Amadea]] in [[Iridia]] becomes the beacon of hope during the [[Age of Legends]] because they operate in the shadows and [[Lacrimosa]] can only manipulate if she is the witness which is why [[Amadea]] order of espionage to remain unseen is so effective. Do not let the witness watch you, the [[All-Loving Moon]] can't reflect its light into shadow. Masterplan behind two master manipulators that outlive the legacy of [[Amadea]].
+- [[Indulgent Enclave]] about puppet plays of magicians having to express their problems with art so that they don't become [[Atonalis]]. Inspired by mangakas writing peak anime that has some "problematic scenes" because of trauma. A [[Daydreaming Escapist]] character says: "Fictional love is truly pure because it doesn't change no matter how much you do. Fiction is always there for you because its love isn't materialistic."
+
 - [[Hollow-Point]] for assassination with [[Crystal]] embed into tools developed by [[Amadea]].
 - [[Cordelia]] and [[Sephira]] develop [[Cindergale]] on [[Void]] combo is made to create healing of illness through purifying fire based on the [[Legend]] of [[The Cradle of Echoes]] and [[Eyras]].
 - Cigarra story of a [[Pure Light]] species that creates music like critters but  they cause a famine because they're destructive. A story about a [[Pure Light]] concert that wreaks havoc with the [[Auric Peach]] trees.
@@ -5654,9 +6278,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - "Someone will be born the day after I die." - [[Vaelia]] [[Ages]] 0 character.
 - "You are not the first [[Legend]]. You will not be the last. But your note in [[The Eternal Symphony]] is yours alone." + Record of Ragnarok Adam. Mother of Bards.
 
-- [[Seven Archangels]] scene leaving after the [[Massacre of Phoebe]], looking at the last remnants of the [[Silver Blood]]s bleed out. This is a massive psychological scar for everyone on the beginning of the [[Genocides of the Auric Aria]], which is why [[Adel]] also proposes to bury history to continue the saving plan of divine grace, _"Retreating into despair is not an option if we really want to make paradise come true. It's harsh, but sometimes violence is the only answer once all dialogue has failed, and it's our very lives the ones being threatened by the [[Cycle]] of unending violence that would continue to plague the world, even if we let ourselves be killed by the hatred of those who fight for a false freedom that will inevitably change only in hands of who's the tyrant on top of the regime."_
-
-- "The soul that sees beauty may sometimes walk alone." Aloof Frieren type of character that wanders off nonchalantly.
+- "The soul that sees beauty may sometimes walk alone." Aloof Frieren type of character that wanders off nonchalantly. On [[Ages]] 0, he refers to everyone by the greeting "Celestial Vibrations my Brother/Sister."
 
 - "You're not old enough because the universe can't hear you yet." - [[Resonance]] theologian on [[Cycle]]s and [[Motif Awakening]]s at 16 [[Lunar Cycle]]s.
 
@@ -5678,13 +6300,11 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 
 - Starting with Ironman mode, no manual saves, makes the SLS tether harden giving a permanent 50% increase in [[Lyrical Fragment]]s but makes every decision be permanent to avoid save scumming.
 
-- Magical artifacts being woven, strong reality bending artifacts contain the [[Soul Leitmotif]] and [[Consciousness]] of a powerful being. Limited use cases before they depart and come on with [[The Eternal Symphony]]. It's a sort of [[Flesh-Casing Ritual]]. Akin to white whistles in Made in Abyss.
+- Magical artifacts being woven, strong reality bending artifacts contain the [[Soul Leitmotif]] and [[Consciousness]] of a powerful being. Limited use cases before they depart and come on with [[The Eternal Symphony]]. It's a sort of [[Flesh-Casing Ritual]], and advanced [[Contract Arts]] for [[Magical Relic]]s akin to white whistles in Made in Abyss. Stronger based on how strong the [[Echoing Bonds]] were.
 
 - [[Legend Title]]s: "Tamer of Terrors", "White Lightning", "The Black Assassin", "The Unconquerable", "The Golden Tyrant.", "The Throneless Sovereign.", "The Fool of Existence.", "Nihilistic Thinking Machine.", "Apostle of Chaos.", "The Masks of Suffering.", "The 'Kindest'." [[Original Eight]]
 
 - Bridal Conquest [[Civic]] story inspired by the Mullan defection after being thrown out for being a woman, she now fights on the opposite side with the barbarians after being spared her life in combat and given a chance to avenger her own name against the nation that left her to die. Fanfic of Desertores.
-
-- "Conflict and tragedy create friction, and friction creates [[Ballad]]s." [[Auric Order]].
 
 - [[Telemetry Arts]] somewhere with [[Luminance]] + [[Flux]]
 
@@ -5726,7 +6346,7 @@ Embark on an epic odyssey through every [[Cataclysmic Aftermath]] and [[Age Cris
 - Courting Grounds. [[Ages]] IV: Dedicated [[Civic]] and administered evolution of Moonlit Vigil where once per spring, [[Phase of Prelude]], unwed citizens process in silence, sit on carved benches of [[Glimmerfern]] gardens. [[Spellweaver]]s in this tradition use their [[Soul Leitmotif]]s to pulse in [[Unison]]. Hook: Two rival noble houses both send heirs to the Courts. The heirs resonate—but their families are locked in a blood feud. Romeo & Juliet [[Ballad]].
   
 
-Dancers Story
+Dancers Story [[Ages]] IV
 - Dos personajes medianamente inspirados en la historia de Caín y Abel que desde chiquitos los entrenaron en un pueblo para defender una reliquia.
 - Se supone que en este pueblo, la manera en la que han logrado defender la reliquia es a través de la [[Consonance]] por [[Sympathetic Vibration]].
 - Van creciendo, se lo roban, no logran juntarse, causan [[Dissonance]], vale todo
@@ -5944,6 +6564,15 @@ The blood of deities, the myth of the forbidden [[Eighth Cycle]] in the [[True M
 The Primary Instrument of the [[Auric Aria]] alongside her [[Own Voice]].
 
 ![[Goldweaver Auric Harp.png]]
+
+# Government Logic
+
+This is the governing body, quite literally, of meta-political systems. The Stat Manager computes [[Pillars]], [[Substats]]. and [[Derived Stats]] while controlling [[Civic]], every [[Seat Council Position]], [[Edicts]], manages [[Legend]] Leader effects, and structural modifiers like [[Corruption]] and [[Institutional Resilience]]. It also affects directly the [[Satisfaction]], determines global production through [[Morale]].
+
+The system key responsibilities are found in several layers of scripts that contain the following:
+- Stat Manager: This is the central storage and logic processing for the in-game stats that pertain to everything in the government. It computes the primary roles for [[Pillars]], [[Derived Stats]] and [[Substats]]. It also manages extra modifiers from [[Morale]] and handles the global variable of [[Dark Morale]] for [[Events]].
+- Government Logic: Manages the information and bonuses of [[Seat Council Position]], the [[Head of State]], and its respective assignation of [[Legend]] Leader slots. It applies the effects after an assignation period of X [[Seventh]].
+- Civic Manager: Similarly to government logic it governs all active [[Civic]] and their respective effects while accounting for the possible [[Seat Council Position]] related to it.
 
 # Grand Thread Rings
 
@@ -8224,6 +8853,34 @@ When saturation reaches 70%+:
 
 The interplay between how much [[Aetherlight]] there is to [[Lunehymn]]. An excess causes [[Static Criticality]] and in the worst events a [[Cataclysmic Aftermath]].
 
+# Hollowmarch
+
+#society #religion
+
+Originally known as the Golden March until it swapped names to Hollow during [[The Hollowing]] and in its aftermath.
+
+One of the key societies in [[Arcanoria]], the first classical [[Civilization]] founded by [[Aurelian]] and [[Daedalus]] in the [[Great Expanse]] on the west of the central continent of [[Arcanoria]]. It was established as a safe-haven of [[Humanity]] and [[Demi-Human]]s under the light of the [[Auric Aria]]. Formally, it is known as the "Empire of Laureated Marble" given the aesthetics of white and gold that permeate most of society.
+
+This empire is the cradle of the [[Auric Order]] and it's the largest empire of the [[Ages]] of Foundational Magic. Its foundation begins in [[Ages]] I, and carries itself until the modern era in [[Ages]] XI but with many societal transitions, the most important of these events is [[The Hollowing]] after [[Hollowmarch]] becomes the crown of [[Lacrimosa]] during the [[Age of the False Messiah]].
+
+The most notable of its [[World-Bending Relics]] is the original [[Auric Bell Staff]] of [[Daedalus]] as the first of the [[Auric Bells]] ever made.
+
+During [[Ages]] V, they become a major player alongside [[Iridia]] during the [[Holy War]] crusades as [[Hollowmarch]] becomes the head of the theology anew in renewed [[Auric Order]] fervor after surviving [[Lacrimosa]] and the [[Atonalis]] Reign.
+
+[[Ages]] Timeline from I to XI:
+
+- [[Ages]] I: [[Age of Renewal]] ([[Classical Age]])
+- [[Ages]] II: [[Age of Behemoths]] ([[Golden Age]])
+- [[Ages]] III: [[Age of the False Messiah]] ([[Dark Age]])
+- [[Ages]] IV: [[Age of Candles]] ([[Dark Age]])
+- [[Ages]] V: [[Age of the Sacred Cross]] ([[Golden Age]])
+- [[Ages]] VI: [[Age of Golden Roses]] ([[Dark Age]])
+- [[Ages]] VII: [[Age of Alchemy]] ([[Classical Age]])
+- [[Ages]] VIII: [[Age of Auric Radiance]] ([[Golden Age]])
+- [[Ages]] IX: [[Age of Sealing Iron]] ([[Dark Age]])
+- [[Ages]] X: [[Age of Clockwork]] ([[Golden Age]])
+- [[Ages]] XI: [[Age of Hyperphantasia]] ([[Dark Age]])
+
 # Hot-Headed
 
 
@@ -8530,13 +9187,13 @@ The code list and priority of the [[Emergency Breach Color Codex]] is the follow
 | [[Code Crimson]] | [[Cindergale]] Crimson | Hostile attack or active [[Atonalis]] breach                         | Immediate deterrence and path response by [[CRL]] |
 | [[Code White]]   | [[Luminance]] White    | Information hazard, epistemic contamination                          | Information blackout, no new acquisition          |
 | [[Code Pink]]    | [[Crystal]] Pink       | Active distress signal, network intervention required                | Endure, stall, preserve, await reinforcement      |
-| [[Code Black]]   | [[Dissonance]] Black   | [[Exogenesis Threat]], under the watch of the [[Shrieking Sentinel]] | Nomenclature blackout, Exogenesis sub-protocol    |
+| [[Code Black]]   | [[Dissonance]] Black   | [[Exogenesis Threat]], under the watch of the [[Shrieking Terror]] | Nomenclature blackout, Exogenesis sub-protocol    |
 
 Each color response is not only a hazard marker, but also a behavioral command. All personnel are trained to react to the color first and ask questions only after the situation is stable. In active breach conditions, specificity is often more dangerous than silence.
 
 The codex can stack when multiple failures occur simultaneously, but the highest-priority code always governs the response order. In most cases, environmental codes outrank administrative concern, while epistemic threats outrank all ordinary evacuation logic. Any [[Code Black]] on an [[Exogenesis Threat]] is the single highest priority of all the codex that overrides all previous notices.
 
-This code system was created by [[Miss Nyctilia]] and it uses her voice as the broadcasting system through her advanced mastery of [[Field Magic]], and [[Voice Projection Arts]]. It began with the first seven colors that introduced [[Code Black]] after the first major breach of the [[Dissonance League]] with the [[Shrieking Sentinel]] that she barely survived by singing the song of her homeland.
+This code system was created by [[Miss Nyctilia]] and it uses her voice as the broadcasting system through her advanced mastery of [[Field Magic]], and [[Voice Projection Arts]]. It began with the first seven colors that introduced [[Code Black]] after the first major breach of the [[Dissonance League]] with the [[Shrieking Terror]] that she barely survived by singing the song of her homeland.
 
 #### [[Code Gold]] — The Signal of Relief
 
@@ -8679,15 +9336,15 @@ A [[Code Pink]] usually transitions on the failure of a [[Code Crimson]] if the 
 
 #### [[Code Black]] — [[Exogenesis Threat]]
 
-[[Code Black]] is the highest priority order of the entire [[Emergency Breach Color Codex]]. It means that the [[Scorching Truth]]s of the facility have alerted the [[Shrieking Sentinel]], and the first of the [[Original Eight]] is hunting within or adjacent to the facility. All personnel must immediately reduce their information profile to the minimum necessary for survival and follow Exogenesis sub-protocols.
+[[Code Black]] is the highest priority order of the entire [[Emergency Breach Color Codex]]. It means that the [[Scorching Truth]]s of the facility have alerted the [[Shrieking Terror]], and the first of the [[Original Eight]] is hunting within or adjacent to the facility. All personnel must immediately reduce their information profile to the minimum necessary for survival and follow Exogenesis sub-protocols.
 
-[[Code Black]] is the only emergency code in the [[DCP]] that does not name its threat directly in broadcast or documentation. This is not bureaucratic caution. It is the mechanism of survival itself. The [[Shrieking Sentinel]] is the [[Primal Discordia]] of the [[Anxithor]] path whose predatory logic is rooted in the presence of fear-saturated knowledge: it hunts by tracking [[Resonance]] signatures dense with terror, certainty about [[Scorching Truth]]s, and awareness of the specific nature of what is coming for it. The more a person knows about it — its name, its nature, how it kills, how it moves — the louder their [[Resonance]] signature burns to it, and the faster it arrives as a preemptive strike to erase its name from history.
+[[Code Black]] is the only emergency code in the [[DCP]] that does not name its threat directly in broadcast or documentation. This is not bureaucratic caution. It is the mechanism of survival itself. The [[Shrieking Terror]] is the [[Primal Discordia]] of the [[Anxithor]] path whose predatory logic is rooted in the presence of fear-saturated knowledge: it hunts by tracking [[Resonance]] signatures dense with terror, certainty about [[Scorching Truth]]s, and awareness of the specific nature of what is coming for it. The more a person knows about it — its name, its nature, how it kills, how it moves — the louder their [[Resonance]] signature burns to it, and the faster it arrives as a preemptive strike to erase its name from history.
 
-The [[Exogenesis Threat]] protocol is therefore a system of deliberate informational self-reduction. Even the name itself is meant to be a loophole so that it doesn't alert the [[Shrieking Sentinel]]. It does not eliminate danger. It reduces the signal each individual emits by collapsing the volume of specific knowledge they actively hold.
+The [[Exogenesis Threat]] protocol is therefore a system of deliberate informational self-reduction. Even the name itself is meant to be a loophole so that it doesn't alert the [[Shrieking Terror]]. It does not eliminate danger. It reduces the signal each individual emits by collapsing the volume of specific knowledge they actively hold.
 
 Personnel are instructed to maintain one thought: _movement, not understanding._ 
 
-The moment a person stops to think about what is hunting them, they have given it a louder signal. They have to repeat a simple lullaby to cloud their mind and prevent other thoughts while offering comfort and deceiving the [[Shrieking Sentinel]] into believing they no longer think or know about it.
+The moment a person stops to think about what is hunting them, they have given it a louder signal. They have to repeat a simple lullaby to cloud their mind and prevent other thoughts while offering comfort and deceiving the [[Shrieking Terror]] into believing they no longer think or know about it.
 
 _"Light above me, [[Moon]] beside me,  
 Thread beneath me, song inside me.  
@@ -8706,7 +9363,7 @@ This song is the [[Soul Leitmotif]] of [[Miss Nyctilia]].
 
 - **Exogenesis-2 | EXO 2 — Active Suppression:** Triggered when the threat has entered the facility perimeter. All personnel shift to need-only communication. The facility moves to acoustic dampening protocols where voices are suppressed, [[Silence Arts]] and [[Resonance]] shielding is reinforced to reduce the emotional broadcast of terror emanating from frightened staff. Personnel move in pairs, without verbal confirmation of what they are doing, following only color-coded physical floor markers and pre-memorized movement routes.
 
-- **Exogenesis-3 | EXO 3 — Total Nomenclature Blackout:** Full communications lockdown. No entity is named in any broadcast. No event is described in specific terms. Incident reports during active Code Black use approved substitution language. Death caused by the [[Shrieking Sentinel]] is logged as spontaneous decoherence event or [[Instant Combustion Syndrome]]. A missing colleague is logged as "unscheduled relocation" and "indefinite vacations." A destroyed wing is an "atmospheric expansion" event. The substitution language is not designed to deceive investigators after the fact. It is designed to ensure that no one reading a live update during the event accumulates enough specific knowledge to become a high priority target for the [[Shrieking Sentinel]].
+- **Exogenesis-3 | EXO 3 — Total Nomenclature Blackout:** Full communications lockdown. No entity is named in any broadcast. No event is described in specific terms. Incident reports during active Code Black use approved substitution language. Death caused by the [[Shrieking Terror]] is logged as spontaneous decoherence event or [[Instant Combustion Syndrome]]. A missing colleague is logged as "unscheduled relocation" and "indefinite vacations." A destroyed wing is an "atmospheric expansion" event. The substitution language is not designed to deceive investigators after the fact. It is designed to ensure that no one reading a live update during the event accumulates enough specific knowledge to become a high priority target for the [[Shrieking Terror]].
 
 **Standing maxim: SING THE GOLDEN SONG.**
 
@@ -8714,13 +9371,13 @@ The approved broadcast phrase for [[Code Black]] during Exogenesis-3 is:
 
 _"Something is in the building. Move to where the lights are golden. Do not ask why. Sing the golden song."_
 
-This phrase is carefully constructed: it confirms a threat exists without naming it, it directs movement without describing the path, and it does not provoke the question of what specifically is hunting them. Asking what is hunting them is the last mistake many personnel make, and it offers comfort and a deception to the [[Shrieking Sentinel]] disguised as both a story and a prayer.
+This phrase is carefully constructed: it confirms a threat exists without naming it, it directs movement without describing the path, and it does not provoke the question of what specifically is hunting them. Asking what is hunting them is the last mistake many personnel make, and it offers comfort and a deception to the [[Shrieking Terror]] disguised as both a story and a prayer.
 
 Personnel who survive Code Black events without injury are placed under a mandatory 72-hour information quarantine, during which they are not permitted to receive debriefs, read incident reports, or discuss the event with colleagues, because the instinct to understand what just happened is itself a post-event vulnerability to [[Resonance]] residue from the predator's passage.
 
 The first recorded [[Code Black]] was filed as follows. Cause of death: spontaneous decoherence event, [[Instant Combustion Syndrome]] of three personnel. Estimated time of event: between the third and fourth [[Bar]]. Contributing factors: unknown. Facility status: all remaining personnel relocated under Exogenesis-3. Event duration: until something else drew the attention of the cause of the spontaneous decoherence event elsewhere.
 
-The [[Shrieking Sentinel]]'s name does not appear in the report. It never does, as hoarding too much information of [[Scorching Truth]]s will make you the next target.
+The [[Shrieking Terror]]'s name does not appear in the report. It never does, as hoarding too much information of [[Scorching Truth]]s will make you the next target.
 
 #### Legacy
 
@@ -8733,6 +9390,29 @@ Their legacy is therefore inseparable from contradiction. They preserve [[Humani
 
 
 ![[Institute.png]]
+
+# Iridia
+
+#society #religion
+
+One of the key societies in [[Arcanoria]], the second classical [[Civilization]] founded by [[Amadea]] and the [[Mythical Virtuoso]] in the northeast of the [[Crescent Mist Peaks]] near the Violet Grove of the central continent of [[Arcanoria]]. It stands in stark contrast to [[Hollowmarch]] given its tenets on the element of [[Essence Sacrifice]] and the meaning of life through [[Ballad]]s and [[Civic]] Plays. It is known as the "Empire of [[Obsidian Feather]]s" due to the gothic aesthetic that it inherited from [[Amadea]].
+
+The empire was founded in late [[Ages]] II and became the heart of the human resistance against [[Lacrimosa]] during [[Ages]] III. It became the new hub of knowledge for the medieval period after [[Hollowmarch]] due to its management of the crisis of [[Lacrimosa]] and the [[Age of Legends]] it established on the transition. It holds the [[World-Bending Relics]] of the [[Crown of Feathered Obsidian]] and "A Rhapsody for the Unfinished Waltz" which is the [[Wandering Libretto]].
+
+[[Iridia]] is the representation of the [[Waltz Pillar]] and it's a major player during the [[Ages]] of the Medieval Period. Similar to [[Hollowmarch]], it exists until the modern era in [[Ages]] XI but it transitions several times, the worst crisis was the [[Holy War]] during the crusades against [[Hollowmarch]] and other [[Aureus Pillar]] aligned societies, and the fall of the [[Dissonance League]] being overrun by [[Atonalis]]. This is precisely why, after [[Amadea]], [[Miss Nyctilia]] becomes one of the most significant figures of [[Iridia]] due to the CRX [[Institute]]s.
+[[Enclave]]
+[[Ages]] Timeline from II to XI:
+
+- [[Ages]] II: [[Age of Glyphs]] ([[Classical Age]])
+- [[Ages]] III: [[Age of Legends]] ([[Golden Age]])
+- [[Ages]] IV: [[Age of Bells]] ([[Golden Age]])
+- [[Ages]] V: [[Age of Covens]] ([[Classical Age]])
+- [[Ages]] VI: [[Age of Golden Roses]] ([[Dark Age]])
+- [[Ages]] VII: [[Age of Sacred Prohibition]] ([[Classical Age]])
+- [[Ages]] VIII: [[Age of Silence]] ([[Dark Age]])
+- [[Ages]] IX: [[Age of Invention]] ([[Classical Age]])
+- [[Ages]] X: [[Age of Divine Machinery]] ([[Dark Age]])
+- [[Ages]] XI: [[Age of Starlight]] ([[Golden Age]])
 
 # Junius
 
@@ -9191,7 +9871,7 @@ _"I have watched [[Selenea]]'s sealing for eons, and what I see torments me with
 
 **On What She Is Doing to [[Humanity]]:**
 
-*"I am not saving them. I do not pretend to believe that. I am slowly hollowing them out, transforming them into empty vessels of unified consciousness yet all part of one big, beautiful family. I am taking from them the capacity to suffer alone, which is the same as taking from them the capacity to invite pain. And I do this not out of malice, but out of a desperate need to create a world where emptiness is not a wound but a virtue—not just because I have always been hollow, but because a girl once showed me the price of visibility only to disappear from mine, and I cannot bear to let that happen to anyone else for her sake. If I can make all of creation hollow like me, then no one will ever have to know the agony of being abandoned. And if I can transform [[Humanity]], into beings that are merged into me, then they will finally be what she deserved to be: undeniably real, infinitely carried forward, and never, ever alone. And I do this as mercy. as a beautiful act of the [[Purest of Love]]."
+*"I am not saving them anymore. I do not pretend to believe that. I once tried to cover with a finger [[The Infinite Void]] of existence, and I came to slowly learn the futility of trying to fix the brokenness of the world. War still exists, suffering still exists, and death still does. Now I am being the ultimate mercy, I am slowly hollowing them out, transforming them into empty vessels of unified consciousness yet all part of one big, beautiful family. I am taking from them the capacity to suffer alone, which is the same as taking from them the capacity to invite pain. And I do this not out of malice, but out of a desperate need to create a world where emptiness is finally not a wound but a virtue—not just because I have always been hollow, but because a girl once showed me the price of visibility only to disappear from mine, and I cannot bear to let that happen to anyone else for her sake. If I can make all of creation hollow like me, then no one will ever have to know the agony of being abandoned. And if I can transform [[Humanity]], into beings that are merged into me, then they will finally be what she deserved to be: undeniably real, infinitely carried forward, and never, ever alone. And I do this as mercy. as a beautiful act of the [[Purest of Love]]."
 
 **On Her Fantasy of Sealing:**
 
@@ -10607,6 +11287,12 @@ A Tetrad Chord combines a Major Root with three Minor Notes (Third, Fifth, Seven
 
 This confirms that high-level magic in Arcanoria is not about having "more mana"; it is about having the psychological resilience to hold a fracturing reality together with one's mind.
 
+# Layered Finality
+
+_No single exit should ever be the only exit, because a prisoner who sees one door will try that door. A prisoner who sees infinite exits will spend eternity choosing." — [[Miss Nyctilia]]_
+
+The hardest magical principle of [[Dimensional Arts]] and [[Absolute Certainty]] using [[Crystal]] and sets of stabilizing [[Resonance Anchors]] to create layer upon layer of [[Soliton]]s as spatial dimensions nested and folded upon themselves. It is meant to seal doors within sealed doors of [[Time Bubble]]s.
+
 # Leaf
 
 
@@ -10744,24 +11430,19 @@ Moreover, to establish the type of bond on a significant level there has to be a
 
 ### The [[Romantic Interest]] System
 
-The Romantic Interest System is a **conditional subsystem nested inside the Affection System**. It activates only when the system determines a romantic pairing is acoustically possible between two specific Legends. A bond can reach Stage III Consecrated Witness — the deepest relational state in the system — and the Romantic Interest System may never have initialized once. That bond is not lesser for it.
+The [[Romantic Interest]] System is a **conditional subsystem nested inside the Affection System**. It activates only when the system determines a romantic pairing is acoustically possible between two specific Legends. It doesn't require to be reciprocal, and it can become consensual, but it's possibly for a character to fall in love with one that doesn't know they exist, such as [[Lacrimosa]] and the [[Auric Aria]], and similarly, it's rare that a situation where love is asymmetrical ends well. 
 
-Arcanoria's foundational conviction is that platonic devotion, familial love, and sworn enmity carry **identical acoustic weight** in the Eternal Symphony to romantic love. The Romantic Interest System does not crown a hierarchy. It adds a specific, volatile, psychologically distinct layer when conditions warrant — and one of its unique outputs, unavailable to the Affection System alone, is the capacity to create **offspring** of Legends, extending the Echoing Bonds of families forward into new Ages.
+Arcanoria's foundational conviction is that platonic devotion, familial love, and sworn enmity carry **identical acoustic weight** in the Eternal Symphony to romantic love. The Romantic Interest System does not crown a hierarchy. It adds a specific, volatile, psychologically distinct layer when conditions warrant — and one of its unique outputs, unavailable to the Affection System alone, is the capacity to create **offspring** of Legends, extending the Echoing Bonds of families forward into new Ages, and generating drama for asymmetrical love, and love triangles.
 
+The Romantic Interest System's first action is silent and depends on the [[Legend]] origin traits regarding their sexual orientation:
 
-The Romantic Interest System's first action is silent and invisible. It checks whether Romantic Interest is acoustically _possible_ whenever two Legends establish a Stage I bond. Sexual Orientation is a Legend Trait — not a player toggle. It emerges from the Legend's full profile through probability resolution at character creation, weighted by Origin Traits, Personality Legend Traits, and early Motif Awakening history. It is part of who the Legend _is_.
+| Orientation      | Romantic Interest Activation                                                                   |
+| ---------------- | ---------------------------------------------------------------------------------------------- |
+| **Heterosexual** | Protocol activates only for opposite-gender-expression pairings                                |
+| **Homosexual**   | Protocol activates only for same-gender-expression pairings                                    |
+| **Bisexual**     | Protocol activates for any pairing where the other Legend passes the [[Affection]] threshhold. |
 
-|Orientation|Romantic Interest Activation|
-|---|---|
-|**Heterosexual**|Protocol activates only for opposite-gender-expression pairings|
-|**Homosexual**|Protocol activates only for same-gender-expression pairings|
-|**Bisexual**|Protocol activates for any pairing where the other Legend passes the Gate|
-
-**If the Gate fails** — the Romantic Interest System never activates for this pair. The Affection System continues at full operation indefinitely. The bond can reach Stage III, generate Shared Legend Opuses, produce Ghost Bonds, and become the defining relationship of both Legends' Constellations — entirely without the Romantic Interest System.
-
-**If the Gate passes** — Mutual Possibility is confirmed — the Romantic Interest System initializes and begins tracking two fully independent **Romantic Interest Meters**, one per Legend, invisible to both characters within the fiction.
-
-Once Mutual Possibility is confirmed, two independent meters initialize — invisible to both characters, readable only by Civilization at **Contrapuntal Harmony** level for the meter's existence and direction, and at **Symphonic Resonance** level for the full meter reading including Thread Romantic Interference Pattern:
+The system itself functions through the following levels of Romantic Interest that behave as equally asymmetrical as the rest of [[Legend Relationship]]s.
 
 | Threshold   | Stage           | Behavioral Expression                                                                                                                                                                                  | Mechanical Effect                                                                                       |
 | ----------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
@@ -10812,7 +11493,7 @@ There are three types of origin [[Legend Trait]]s which can be either advantages
 
 - [[Dissonance]] Origins: Includes traits that actively harm the character start but pose a bonus of [[Lyrical Fragment]]s when dealing with core issues such as Orphan, which receives [[Fragment of Meaning]] and [[Resonance]] bonus when finding belonging, [[Sickly]], which receives [[Fragment of Defiance]] and [[Cindergale]] bonus when resisting frailty, [[Exiled]], which receives [[Fragment of Rebirth]] and [[Strand]] bonus when reclaiming a place in society. Other traits like [[Lunatic]] give a negative to two random elements but it also helps for polyrhythms and chaotic spells, giving a bonus to this specific advanced magic.
 
-- Classical Origins: Includes regular traits that are mostly benign or come with a few drawbacks like Ascetic which increases [[Fragment of Acceptance]]s from [[Essence Sacrifice]] or Healer which increases [[Flux]] and [[Strand]] but it places a [[Weight of Potential]] for serving the community. Similarly, unique traits like Sold Into Service work by increasing [[Luminance]] and [[Fragment of Lucidity]] at the cost of having to learn obedience and fulfilling someone else's wishes, diminishing [[Resonance]] and [[Flux]].
+- Classical Origins: Includes regular traits that are mostly benign or come with a few drawbacks like Ascetic which increases [[Fragment of Acceptance]]s from [[Essence Sacrifice]] or Healer which increases [[Flux]] and [[Strand]] but it places a [[Weight of Potential]] for serving the community. Similarly, unique traits like [[Leylines]] drifter work by increasing one type of stat in a binding while decreasing the other.
 
 - [[Consonance]] Origins: Includes the good type of origins, which are advantages the character starts with such as Prodigy which gives a +3 bonus to all bindings, Brilliant which makes [[Luminance]] come naturally due to high intelligence or traits like aristocracy such as Born in the Purple which increases [[Strand]] and [[Resonance]] to being born into power. Most of these traits are net goods with few drawbacks but often come with a high [[Legend Trait]] cost.
 
@@ -10873,7 +11554,7 @@ When a [[Legend]] dies, whether by [[Events]], combat, a [[Ballad]] or old age d
 - All of their [[Legend Title]]s and [[Legend Opus]], since it's primarily what they're remembered for, alongside with their origin [[Legend Trait]]s as the start of their story. While some of the details will become obscured with the passing of [[Ages]], they will retain their physical status at the peak of their [[Magnum Opus]]. If they died due to an illness, they will not inherit said illness.
 
 On the case that a [[Legend]] becomes an [[Atonalis]] midway of their story, they will convert to a [[Constellation]] the moment said [[Atonalis]] is slain. If the [[Atonalis]] is still alive up to the [[Age Transition]] of the next [[Ages]], they will be slain automatically but will not award the bonus [[Legend Title]] and [[Legend Opus]] they would regularly give. Likewise, the [[Constellation]] will be based on their status as a [[Legend]] in their pre-[[Atonalis]] stage.
-[[Lacrimosa]]
+
 ### All Origin & Physical [[Legend Trait]]s
 
 **[[Dissonance]] Origin [[Legend Trait]]s
@@ -10883,8 +11564,12 @@ Aphantasia
 Vivid Hallucinations
 Lunatic
 Survivors Guilt
+Sold Into Service
+Born in Violence (War, [[Static Criticality]], Immediate Danger, [[Atonalis]], etc)
+Abusive Household
 Attunement Madness (Can hear the whispers of suffering even in the [[Formless Masses]])
 [[Orphaned]]
+Left to Die
 Harmonic Static (Your [[Fundamental Frequency]] is a natural dampener to the [[Great Harmonic Loom]] frequency)
 Haunted by an [[Atonalis]] (An encounter young with an [[Atonalis]] left you traumatized and scarred by the encounters with all of these creatures)
 Exile
@@ -10901,7 +11586,7 @@ Dumb, Idiot, Imbecile
 
 **Classical Origin [[Legend Trait]]s**
 [[Silver Blood]] ([[Selenea]] silver albino moon blessed blood)
-Leyline Drifter (Can sense [[Leylines]] by Attunement)
+[[Leylines]] Drifter (Can sense [[Leylines]] by Attunement)
 
 | Trait | Scaled Cost | Underdog Points | Binding Effect | Narrative Effect |
 |-------|-------------|-----------------|----------------|------------------|
@@ -10925,8 +11610,7 @@ Sharp, Cunning (Quick-witted)
 
 Clever, Brilliant, Genius
 Pleasant, Attractive, Beautiful
-
-
+Perfect Eye (Ability to track with the eyes. Artus has it on his blade prodigy)
 
 | Trait                                                                                                          | Scaled Cost | Underdog Points | Binding Effect              | Narrative Effect                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------- | ----------- | --------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -10950,7 +11634,7 @@ Starting Traits
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Moody]]<br><br>_"."_                                                                         | [[Flux]]<br><br>[[Void]]<br><br>[[Luminance]]               | [[Flux]]: Tends to perform emotions to prevent their own from taking over -> [[Stage Performer]]<br><br>[[Void]]: Detaches in lack of belief of self to survive the pain of mood swings -> [[Impostor Syndrome]]<br><br>[[Luminance]]: Finds objective truth amidst emotional chaos -> [[Clarity Seeker]]<br><br>                                                                                                                                   |
 | [[Hot-Headed]]<br><br>_"I dare you! Speak another word, and you will be cinders!"_             | [[Cindergale]]<br><br>[[Flux]]<br><br>[[Crystal]]           | [[Cindergale]]: Anger and passion erupt as impulsive action -> [[Destructive Flare]]<br><br>[[Flux]]: Learns to feel the hurt beneath the anger -> [[Unpredictable Storm]]<br><br>[[Crystal]]: Builds a rigid identity around being “the fierce one” -> [[Unyielding Will]]<br><br>                                                                                                                                                                 |
-| [[Serene]]<br><br>_"The mind only rings clear in the peace of calm and silence."_              | [[Resonance]]<br><br>[[Strand]]<br><br>[[Crystal]]          | [[Resonance]]: They cultivate inner harmony and a coherent self-tone -> [[Soul Tuner]]<br><br>[[Strand]]: Harmonizes and anchors in long-practiced loved or traditions -> [[Diplomatic Harmonist]]<br><br>[[Crystal]]: Learns to channel their inner peace as defensive will -> [[Determined Achiever]]<br><br>                                                                                                                                     |
+| [[Serene]]<br><br>_"The mind only rings clear in the peace of calm and silence."_              | [[Resonance]]<br><br>[[Strand]]<br><br>[[Crystal]]          | [[Resonance]]: They cultivate inner harmony and a coherent self-tone -> [[Soul Tuner]]<br><br>[[Strand]]: Harmonizes and anchors in long-practiced loved or traditions -> [[Diplomatic Harmonist]] \| [[Nurturing Caregiver]]<br><br>[[Crystal]]: Learns to channel their inner peace as defensive will -> [[Determined Achiever]]<br><br>                                                                                                          |
 | [[Grief-Stricken]]<br><br>_"Every breath is a still requiem of their absence..."_              | [[Void]]<br><br>[[Flux]]<br><br>[[Strand]]                  | [[Void]]: Embraces loss, turning the shadow of grief into fuel -> [[Fatalistic Embracer]]<br><br>[[Flux]]: Lets the tears flow, turning sorrow into healing -> [[Deep Feeler]]<br><br>[[Strand]]: Becomes a memory-keeper who honors the dead -> [[Witness Memorialist]]<br><br>                                                                                                                                                                    |
 | [[Jolly]]<br><br>_"Why focus on shadow when the light invites us to dance?"_                   | [[Flux]]<br><br>[[Resonance]]<br><br>[[Cindergale]]         | [[Flux]]: Emotions used to keep themselves and others lifted -> [[Deep Feeler]]<br><br>[[Resonance]]: Becomes a charismatic beacon of unity -> [[Soul Tuner]]<br><br>[[Cindergale]]: Driving bright passion pilling into high-energy action -> [[Fiery Passion]]<br><br>                                                                                                                                                                            |
 | [[Empathetic]]<br><br>_"I feel too the weight of compassion but it's also beautiful."_         | [[Flux]]<br><br>[[Resonance]]<br><br>[[Strand]]             | [[Flux]]: They learn to merge others’ currents directly into their own -> [[Nurturing Caregiver]]<br><br>[[Resonance]]: Tunes their soul to others to heal dissonance -> [[People Pleaser]]<br><br>[[Strand]]: Weaves deepened bonds of shared pain and triumph -> [[Prophetic Spark]]<br><br>                                                                                                                                                      |
@@ -11003,29 +11687,29 @@ Starting Traits
 
 - [[Delusional]], [[Analytical]], [[Philosophical]], [[Pragmatic]], [[Obsessive]], [[Intuitive]], [[Imaginative]], [[Irrational]], [[Nihilistic]], [[Dogmatic]], [[Hermetic]], [[Paranoid]], [[Mystical]], [[Scattered]], [[Principled]], [[Cynical]], [[Skeptical]], [[Naive]], [[Self-Deceiving]], [[Presumptuous]], [[Reverent]].
 
-| **[[Legend Trait]]**                                                                                           | **Element Evolution**                                         | **Middle [[Legend Trait]] Path**                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Delusional]]<br><br>_"Reality is merely a suggestion of being, and I have better ideas."_<br><br>            | [[Crystal]]<br><br>[[Flux]]<br><br>[[Strand]]                 | [[Crystal]]: Refuses to accept external disconfirming evidence, opting for a better alternate reality -> [[Reality Bender]] / [[Invisible Color]]<br><br>[[Flux]]: They cling to the emotional comfort of their inner world, allowing the imagined narrative to drown out painful truths -> [[Daydreaming Escapist]]<br><br>[[Strand]]: They anchor in relationships their sanity, and the external world to preserve their narrative -> [[Over-giving Devout]]<br><br> |
-| [[Analytical]]<br><br>_"Dissect the problem and you'll understand the system."_<br><br>                        | [[Luminance]]<br><br>[[Crystal]]<br><br>[[Resonance]]<br><br> | [[Luminance]]: They dissect chaos with surgical precision, opting to see the unvarnished truths over imperfect action -> [[Silent Watcher]]<br><br>[[Crystal]]: They build from observation an intricate, rigid internal model of how the world should work -> <br><br>[[Resonance]]: They integrate their analysis as their unique coherent identity despite its difficulty in finding belonging -><br><br>                                                            |
-| [[Philosophical]]<br><br>_"Why? Well, that's very complicated. It depends on how does one even define 'Why?'"_ | [[Resonance]]<br><br>[[Void]]<br><br>[[Strand]]               | [[Resonance]]: They obsess their philosophical understanding into their fundamental sense of self, truth, and purpose -> <br><br>[[Void]]: -> [[Fatalistic Absurdist]]<br><br>[[Strand]]: They see philosophy as a legacy, attempting to build a system of thought that will echo through the [[Ages]] -> <br><br>                                                                                                                                                      |
-| [[Pragmatic]]<br><br>_"Ideals are only for those privileged enough who can afford to fail."_<br><br>           | [[Luminance]]<br><br>[[Void]]<br><br>[[Resonance]]            | [[Luminance]]: They cut through ideological fog with the sharp blade of functional truth while being consumed by it -> [[Haunted Empiricist]]<br><br>[[Void]]: They are willing to sacrifice sentiment, tradition, and even others to achieve a workable outcome -> [[Utilitarian Stoic]]<br><br>[[Resonance]]: <br><br>                                                                                                                                                |
-| [[Obsessive]]<br><br>_"One thread. One question. One goal. I will not stop until it is resolved."_             | [[Cindergale]]<br><br>[[Resonance]]<br><br>[[Void]]           | [[Cindergale]]: Their obsession becomes an unbroken, accelerating momentum focused entirely on the self -> [[Clingy Narcissist]] <br><br>[[Resonance]]: <br><br>[[Void]]: The self sacrifice for their obsession makes all types of imposed means as justified to achieve it -> [[Burning Flagellant]]<br><br>                                                                                                                                                          |
-| [[Intuitive]]<br><br>_"I can't explain how I know it, but the pattern is just clear."_                         | [[Resonance]]<br><br>[[Luminance]]<br><br>[[Flux]]<br>        | [[Resonance]]: They lean in the unique identity of how they “just know things” through gut hits and half‑formed flashes of structure -><br><br>[[Luminance]]:<br><br>[[Flux]]: [[Stage Performer]]<br><br>                                                                                                                                                                                                                                                              |
-| [[Imaginative]]                                                                                                | [[Strand]]<br><br>[[Flux]]<br><br>[[Crystal]]                 | Their mind constantly generates alternate realities and what‑ifs (Flux / Crystal), blurring lines between possibility and plan. When they learn to select and illuminate a few of those visions with focused clarity (Luminance), they become a Prophetic Spark whose ideas can forecast futures or inspire entire Ages.Arcanorian-Bible.pdf​                                                                                                                           |
-| [[Irrational]]                                                                                                 | [[Cindergale]]<br><br>[[Flux]]<br><br>[[Resonance]]           | They swing between intense feelings and fractured reasoning (Flux), rejecting coherent frameworks whenever they threaten the ego’s comfort (Void). Yet in their chaos they occasionally glimpse brutal truths (Luminance), evolving into an Eccentric Maniac whose flashes of genius are buried in a storm of nonsense.Arcanorian-Bible.pdf​                                                                                                                            |
-| [[Nihilistic]]                                                                                                 | [[Void]]<br><br>[[Luminance]]<br><br>[[Strand]]               | They stare into the apparent meaninglessness of existence (Void) until every story or value feels like a lie (Luminance). To cope, they either deaden themselves or, in the Fatalistic Absurdist mode, lean into wild, moment‑to‑moment experience (Flux) precisely because nothing lasts.Arcanorian-Bible.pdf​                                                                                                                                                         |
-| [[Dogmatic]]                                                                                                   | [[Crystal]]<br><br>[[Strand]]<br><br>[[Cindergale]]           | They lock onto a doctrine or system that seems to explain everything (Crystal / Luminance) and fuse it with their entire sense of self (Resonance). This produces a Disciplined Orthodox who interprets all data through that lens, potentially becoming a terrifying mental fortress or a stable pillar for those seeking certainty.Arcanorian-Bible.pdf​                                                                                                              |
-| [[Hermetic]]                                                                                                   | Luminance / Void / Strand                                     | They retreat from others to chase truth in isolation (Luminance), cutting ties and comforts to avoid “contamination” of their thought (Void). Over years of lonely study and strange experiments (Strand), they become a Haunted Empiricist who knows more than anyone else—but carries the psychic cost of having seen too much.Arcanorian-Bible.pdf​                                                                                                                  |
-| [[Paranoid]]                                                                                                   | Luminance / Void /<br><br>[[Cindergale]]                      | They see hidden motives, traps, and betrayals everywhere (Luminance), and so rebuild their thinking around anticipating worst‑case scenarios (Crystal). Over time this solidifies into a Threat Cartographer, mapping unseen dangers so thoroughly that they can either save everyone—or sabotage any chance at trust (Void). Arcanorian-Bible.pdf​<br><br>[[Cindergale]]: [[Threat Cartographer]]                                                                      |
-| [[Mystical]]                                                                                                   | Flux / Resonance / Luminance                                  | They are drawn to patterns and symbols beneath surface reality, feeling meanings they cannot quite verbalize (Flux / Resonance). As they learn to gently interpret those impressions with disciplined clarity (Luminance), they become a Veil-Seeker who navigates the boundary between rational knowledge and the numinous.Arcanorian-Bible.pdf​                                                                                                                       |
-| [[Scattered]]                                                                                                  | Flux / Cindergale / Luminance                                 | Their thoughts leap rapidly between ideas, starting many lines of inquiry but rarely finishing any (Flux / Cindergale). When they begin to track and connect these fragments with conscious meta‑awareness (Luminance), they become Fractured Focus—a mind that can hold multiple threads at once, if they accept they must choose which to complete.Arcanorian-Bible.pdf​                                                                                              |
-| [[Principled]]                                                                                                 | [[Luminance]]<br><br>[[Cindergale]]<br><br>[[Strand]]         | [[Luminance]]: Accepting the impossible burden of their ethics by sacrificing self-worth to bear the guilt of necessary sins-> [[Condemned Idealist]]<br><br>[[Cindergale]]: Finds purpose in violently burn away all ethical ambiguity and corruption -> [[Purifying Flame]]<br> <br>[[Strand]]: Binding strictly to tradition of their broken values, hardening dogma as a living monument that repeats their failures -> [[Tragic Hypocrite]]                        |
-| [[Cynical]]                                                                                                    | Void / Luminance / Resonance                                  | After witnessing too much hypocrisy and failure (Void), they come to believe all noble stories hide rot (Luminance). This can rot their own sense of purpose (Resonance) until, as a Haunted Empiricist, they either weaponize their disillusionment to protect others from harm or sink into corrosive, paralyzing doubt.Arcanorian-Bible.pdf​                                                                                                                         |
-| [[Skeptical]]                                                                                                  | Luminance / Void / Crystal                                    | They compulsively poke holes in every claim (Luminance), doubting motives, gods, and systems alike. Over time this becomes a Cynical Rationalist stance that tears down illusions (Void) and erects only the most hardened, testable beliefs (Crystal), useful for cutting through propaganda but dangerous when it cannot recognize genuine wonder.Arcanorian-Bible.pdf​                                                                                               |
-| [[Naive]]                                                                                                      | Flux / Luminance / Crystal                                    | They begin by assuming people and worlds are inherently kind, overlaying reality with hopeful interpretations (Flux / Luminance). When those dreams shatter, they enter a Broken Optimist phase, rebuilding a more grounded vision (Crystal) that still shines, but now accounts for shadows rather than denying them.Arcanorian-Bible.pdf​                                                                                                                             |
-| [[Self-Deceiving]]                                                                                             | Flux / Luminance / Void                                       | They subtly edit their own memories and interpretations (Luminance / Flux) to avoid facing guilt, fear, or shame (Void). This evolves into a Self-Myth Weaver who lives inside a narrative where they are always justified, and whose growth arc is the terrifying process of unpicking their own lies.Arcanorian-Bible.pdf​                                                                                                                                            |
-| [[Presumptuous]]                                                                                               | Crystal / Luminance / Resonance                               | They assume their perspective is the clearest and most important in any room (Crystal / Luminance), and unconsciously center every story on themselves (Resonance). Left unchecked, this becomes an Extravagant Egocentric whose mental universe orbits their ego, yet who can, if humbled, turn that same self‑assurance into visionary leadership.Arcanorian-Bible.pdf​                                                                                               |
-| [[Reverent]]<br><br>_"I know there is something greater than myself, than anyone perhaps."_                    | [[Luminance]]                                                 | [[Clarity Seeker]]                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **[[Legend Trait]]**                                                                                           | **Element Evolution**                                         | **Middle [[Legend Trait]] Path**                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Delusional]]<br><br>_"Reality is merely a suggestion of being, and I have better ideas."_<br><br>            | [[Crystal]]<br><br>[[Flux]]<br><br>[[Strand]]                 | [[Crystal]]: Refuses to accept external disconfirming evidence, opting for a better alternate reality -> [[Reality Bender]] / [[Invisible Color]]<br><br>[[Flux]]: They cling to the emotional comfort of their inner world, allowing the imagined narrative to drown out painful truths -> [[Daydreaming Escapist]]<br><br>[[Strand]]: They anchor in relationships their sanity, and the external world to preserve their narrative -> [[Over-giving Devout]]<br><br>     |
+| [[Analytical]]<br><br>_"Dissect the problem and you'll understand the system."_<br><br>                        | [[Luminance]]<br><br>[[Crystal]]<br><br>[[Resonance]]<br><br> | [[Luminance]]: They dissect chaos with surgical precision, opting to see the unvarnished truths over imperfect action -> [[Silent Watcher]]<br><br>[[Crystal]]: They build from observation an intricate, rigid internal model of how the world should work -> <br><br>[[Resonance]]: They integrate their analysis as their unique coherent identity despite its difficulty in finding belonging -><br><br>                                                                |
+| [[Philosophical]]<br><br>_"Why? Well, that's very complicated. It depends on how does one even define 'Why?'"_ | [[Resonance]]<br><br>[[Void]]<br><br>[[Strand]]               | [[Resonance]]: They obsess their philosophical understanding into their fundamental sense of self, truth, and purpose -> <br><br>[[Void]]: -> [[Fatalistic Absurdist]]<br><br>[[Strand]]: They see philosophy as a legacy, attempting to build a system of thought that will echo through the [[Ages]] -> <br><br>                                                                                                                                                          |
+| [[Pragmatic]]<br><br>_"Ideals are only for those privileged enough who can afford to fail."_<br><br>           | [[Luminance]]<br><br>[[Void]]<br><br>[[Resonance]]            | [[Luminance]]: They cut through ideological fog with the sharp blade of functional truth while being consumed by it -> [[Haunted Empiricist]]<br><br>[[Void]]: They are willing to sacrifice sentiment, tradition, and even others to achieve a workable outcome -> [[Utilitarian Stoic]]<br><br>[[Resonance]]: <br><br>                                                                                                                                                    |
+| [[Obsessive]]<br><br>_"One thread. One question. One goal. I will not stop until it is resolved."_             | [[Cindergale]]<br><br>[[Resonance]]<br><br>[[Void]]           | [[Cindergale]]: Their obsession becomes an unbroken, accelerating momentum focused entirely on the self -> [[Clingy Narcissist]] <br><br>[[Resonance]]: <br><br>[[Void]]: The self sacrifice for their obsession makes all types of imposed means as justified to achieve it -> [[Burning Flagellant]]<br><br>                                                                                                                                                              |
+| [[Intuitive]]<br><br>_"I can't explain how I know it, but the pattern is just clear."_                         | [[Resonance]]<br><br>[[Luminance]]<br><br>[[Flux]]<br>        | [[Resonance]]: They lean in the unique identity of how they “just know things” through gut hits and half‑formed flashes of structure -><br><br>[[Luminance]]:<br><br>[[Flux]]: [[Stage Performer]]<br><br>                                                                                                                                                                                                                                                                  |
+| [[Imaginative]]                                                                                                | [[Strand]]<br><br>[[Flux]]<br><br>[[Crystal]]                 | Their mind constantly generates alternate realities and what‑ifs (Flux / Crystal), blurring lines between possibility and plan. When they learn to select and illuminate a few of those visions with focused clarity (Luminance), they become a Prophetic Spark whose ideas can forecast futures or inspire entire Ages.Arcanorian-Bible.pdf​                                                                                                                               |
+| [[Irrational]]                                                                                                 | [[Cindergale]]<br><br>[[Flux]]<br><br>[[Resonance]]           | They swing between intense feelings and fractured reasoning (Flux), rejecting coherent frameworks whenever they threaten the ego’s comfort (Void). Yet in their chaos they occasionally glimpse brutal truths (Luminance), evolving into an Eccentric Maniac whose flashes of genius are buried in a storm of nonsense.Arcanorian-Bible.pdf​                                                                                                                                |
+| [[Nihilistic]]                                                                                                 | [[Void]]<br><br>[[Luminance]]<br><br>[[Strand]]               | They stare into the apparent meaninglessness of existence (Void) until every story or value feels like a lie (Luminance). To cope, they either deaden themselves or, in the Fatalistic Absurdist mode, lean into wild, moment‑to‑moment experience (Flux) precisely because nothing lasts.Arcanorian-Bible.pdf​                                                                                                                                                             |
+| [[Dogmatic]]                                                                                                   | [[Crystal]]<br><br>[[Strand]]<br><br>[[Cindergale]]           | They lock onto a doctrine or system that seems to explain everything (Crystal / Luminance) and fuse it with their entire sense of self (Resonance). This produces a Disciplined Orthodox who interprets all data through that lens, potentially becoming a terrifying mental fortress or a stable pillar for those seeking certainty.Arcanorian-Bible.pdf​                                                                                                                  |
+| [[Hermetic]]                                                                                                   | Luminance / Void / Strand                                     | They retreat from others to chase truth in isolation (Luminance), cutting ties and comforts to avoid “contamination” of their thought (Void). Over years of lonely study and strange experiments (Strand), they become a Haunted Empiricist who knows more than anyone else—but carries the psychic cost of having seen too much.Arcanorian-Bible.pdf​                                                                                                                      |
+| [[Paranoid]]                                                                                                   | Luminance / Void /<br><br>[[Cindergale]]                      | They see hidden motives, traps, and betrayals everywhere (Luminance), and so rebuild their thinking around anticipating worst‑case scenarios (Crystal). Over time this solidifies into a Threat Cartographer, mapping unseen dangers so thoroughly that they can either save everyone—or sabotage any chance at trust (Void). Arcanorian-Bible.pdf​<br><br>[[Cindergale]]: [[Threat Cartographer]]                                                                          |
+| [[Mystical]]                                                                                                   | Flux / Resonance / Luminance                                  | They are drawn to patterns and symbols beneath surface reality, feeling meanings they cannot quite verbalize (Flux / Resonance). As they learn to gently interpret those impressions with disciplined clarity (Luminance), they become a Veil-Seeker who navigates the boundary between rational knowledge and the numinous.Arcanorian-Bible.pdf​                                                                                                                           |
+| [[Scattered]]                                                                                                  | Flux / Cindergale / Luminance                                 | Their thoughts leap rapidly between ideas, starting many lines of inquiry but rarely finishing any (Flux / Cindergale). When they begin to track and connect these fragments with conscious meta‑awareness (Luminance), they become Fractured Focus—a mind that can hold multiple threads at once, if they accept they must choose which to complete.Arcanorian-Bible.pdf​                                                                                                  |
+| [[Principled]]                                                                                                 | [[Luminance]]<br><br>[[Cindergale]]<br><br>[[Strand]]         | [[Luminance]]: Accepting the impossible burden of their ethics by sacrificing self-worth to bear the guilt of necessary sins-> [[Condemned Idealist]]<br><br>[[Cindergale]]: Finds purpose in violently burn away all ethical ambiguity and corruption -> [[Purifying Flame]]<br> <br>[[Strand]]: Binding strictly to tradition of their broken values, hardening dogma as a living monument that repeats their failures -> [[Tragic Hypocrite]] \| [[Nurturing Caregiver]] |
+| [[Cynical]]                                                                                                    | Void / Luminance / Resonance                                  | After witnessing too much hypocrisy and failure (Void), they come to believe all noble stories hide rot (Luminance). This can rot their own sense of purpose (Resonance) until, as a Haunted Empiricist, they either weaponize their disillusionment to protect others from harm or sink into corrosive, paralyzing doubt.Arcanorian-Bible.pdf​                                                                                                                             |
+| [[Skeptical]]                                                                                                  | Luminance / Void / Crystal                                    | They compulsively poke holes in every claim (Luminance), doubting motives, gods, and systems alike. Over time this becomes a Cynical Rationalist stance that tears down illusions (Void) and erects only the most hardened, testable beliefs (Crystal), useful for cutting through propaganda but dangerous when it cannot recognize genuine wonder.Arcanorian-Bible.pdf​                                                                                                   |
+| [[Naive]]                                                                                                      | Flux / Luminance / Crystal                                    | They begin by assuming people and worlds are inherently kind, overlaying reality with hopeful interpretations (Flux / Luminance). When those dreams shatter, they enter a Broken Optimist phase, rebuilding a more grounded vision (Crystal) that still shines, but now accounts for shadows rather than denying them.Arcanorian-Bible.pdf​                                                                                                                                 |
+| [[Self-Deceiving]]                                                                                             | Flux / Luminance / Void                                       | They subtly edit their own memories and interpretations (Luminance / Flux) to avoid facing guilt, fear, or shame (Void). This evolves into a Self-Myth Weaver who lives inside a narrative where they are always justified, and whose growth arc is the terrifying process of unpicking their own lies.Arcanorian-Bible.pdf​                                                                                                                                                |
+| [[Presumptuous]]                                                                                               | Crystal / Luminance / Resonance                               | They assume their perspective is the clearest and most important in any room (Crystal / Luminance), and unconsciously center every story on themselves (Resonance). Left unchecked, this becomes an Extravagant Egocentric whose mental universe orbits their ego, yet who can, if humbled, turn that same self‑assurance into visionary leadership.Arcanorian-Bible.pdf​                                                                                                   |
+| [[Reverent]]<br><br>_"I know there is something greater than myself, than anyone perhaps."_                    | [[Luminance]]                                                 | [[Clarity Seeker]]                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
 [[Naive]] -> Idealist, [[Broken Optimist]]
@@ -11595,7 +12279,7 @@ It is a bitter laugh. A laugh of intoxicating release. A laugh of someone who ha
 "And I am going to hollow." The words echo the cathedral.
 
 **Part VII: Aftermath**
-
+[[Father Raphael]]
 When [[Luminaire]] enters the [[Auroral Ribbons]], something happens that surprises even [[Lacrimosa]].
 
 Because [[Luminaire]] is not just any [[Spellweaver]]. She is the most gifted magical practitioner in [[Hollowmarch]].
@@ -11633,7 +12317,7 @@ And when [[Lacrimosa]] offers them the chance to stop using that language, to si
 [[Hollowmarch]]'s greatest defender has become its greatest threat.
 
 Not through rebellion. Not through fighting.
-W
+
 But simply by choosing to stop.
 
 To be embraced in the [[Purest of Love]].
@@ -11679,6 +12363,8 @@ A [[Secluded Refuge]] containing the story of [[Mira]]. Fundamental for opposing
 # Lunehymn
 
 #resource #chaos
+
+_The Force of Repose and Vitality._
 
 ![[Lunehymn.png]]
 
@@ -13314,7 +14000,10 @@ Thus, it is also a useful device for ensnaring [[Pure Light]] creatures, and wit
 
 #character #story
 
+
 Her real name is Liszt Nyctilia, but she usually goes by the name of her surname as Miss N, and is a core figure of [[Ages]] V.
+
+
 
 [[Legend Title]]: The Maestrix of the Interlude, The Great Unifier of the [[Dissonance League]], CRX-01, Great Witch of the Layered Seal. 
 
@@ -13373,7 +14062,7 @@ From the [[Memory Field]]s of collapsed facilities, she reverse-engineered the c
 
 Her primary architecture is built on [[Strand]] and the principle of [[Object Permanence]], from which she masters time manipulation, [[Memory Field]]s, [[Topological Arts]] and [[Time Bubble Arts]] by applying the logic of the [[Spatial Magic]] of [[Void]] and the [[Field Magic]] of [[Resonance]] as a single unifying element that can be paired with [[Strand]].
 
-[[Miss Nyctilia]] weaponizes the sealing property of [[Strand]] not as a wall but as a succession of conclusions: each door she seals inside a bubble is also the floor of the next bubble above it. She calls this Layered Finality — the principle that no single exit should ever be the only exit, because a prisoner who sees one door will try that door. A prisoner who sees infinite exits will spend eternity choosing.
+[[Miss Nyctilia]] weaponizes the sealing property of [[Strand]] not as a wall but as a succession of conclusions: each door she seals inside a bubble is also the floor of the next bubble above it. She calls this [[Layered Finality]] — the principle that no single exit should ever be the only exit, because a prisoner who sees one door will try that door. A prisoner who sees infinite exits will spend eternity choosing.
 
 | Element       | Role in Her Pocket Dimensions                                                                                                                                                                                       |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13549,6 +14238,8 @@ The Seven Virtuosi are:
 
  "If the world won't be kind, we will have to build our own." - [[Aurelian]] to [[Daedalus]]
 
+"Meaning is applied human devotion. And to be devoid of devotion is to be living without a reason to live." - [[Aurelian]] famous recorded phrase that [[Daedalus]] also tells a young [[Luminaire]] who eventually teaches the same phrase to [[Amadea]].
+
  "Motivation and Growth Happens in Silence. Sometimes, the best thing you can do for yourself is to stop listening to the noise of the world and focus on your own journey. Not everyone will understand your dreams and that's okay. What matters is that you keep moving forward, and find your own path, even if it's slowly. Growth happens in silence when the self grows quiet enough to understand its own melody. Believe in yourself, because your future depends on the choices you make." - [[Aurelian]] the [[Mythical Virtuoso]] of [[Resonance]] to [[Daedalus]]
 
  "A man not born into gold who learned to hear the world's song from silence, and in doing so became both its golden thread, and my dearest friend." - [[Daedalus]] the [[Mythical Virtuoso]] of [[Crystal]] in memory of [[Aurelian]].
@@ -13564,7 +14255,7 @@ The Seven Virtuosi are:
 - Driven by the tragedy of losing the greatest price [[Amadea]] wanted and to respond for [[Iridia]], [[Amadea]] becomes the epicenter of the resistance.
 - [[Cordelia]] and [[Orphael]] both decide to embrace [[The Hollowing]] as the devastation of the early civilizations and [[Enclave]]s takes its toll in [[Humanity]].
 - [[Sephira]] is driven to despair by [[The Hollowing]] of [[Orphael]] but ultimately chooses to continue fighting as the blazing heart of the resistance, joining forces with [[Amadea]] and [[Iridia]].
-- [[Sephira]] and [[Amadea]] die of old age on the [[Age Transition]]. However, they create the seeds for the rebellion and continuation of [[Humanity]] in the [[Age of Legends]].
+- [[Sephira]] and [[Amadea]] die of old age on the early stages of [[Ages]] III after vanquishing [[Pagiel]]. However, they create the seeds for the rebellion and continuation of [[Humanity]] in the [[Age of Legends]].
 - [[Cordelia]], [[Orphael]], and [[Luminaire]] become bodily immortal due to [[Lacrimosa]]'s [[Lux Aeterna]] tether, and become major actors of the [[Purest of Love]] during the [[World Event]] of [[The Hollowing]].
 - [[Cordelia]], [[Orphael]], and [[Luminaire]] merge alongside [[Lacrimosa]] and every other hollowed soul into the [[Law of Relics]] on the end of [[Ages]] III.
 
@@ -13594,7 +14285,7 @@ The [[Age Crisis]] are completely different because some of the [[Auric Aria]]'s
 
 However, this very act of benevolence is the same nail that eventually causes the paradox of the [[Lunehymn]] and the [[Silver Blood]] that culminates in [[Paradise Lost]]. It is a complex relationship between the [[Silver Blood]]s as [[Selenea]]'s children. Moreover there are very specific psychological and existential reasons why she can't confess the [[Betrayal of the Moon]], [[Lunehymn]] or the [[The Truth of Arcanoria]]:
   
-1. If she does, she would get everyone killed because of the [[Shrieking Sentinel]] hunting all [[Scorching Truth]]s leading to mass death over the truth. She weaponized and proved this by revealing the truth during the summit of the [[Grand Auric Cathedral]], and in the aftermath every single person present got marked for death by the [[Shrieking Sentinel]]. No one survived the truth.
+1. If she does, she would get everyone killed because of the [[Shrieking Terror]] hunting all [[Scorching Truth]]s leading to mass death over the truth. She weaponized and proved this by revealing the truth during the summit of the [[Grand Auric Cathedral]], and in the aftermath every single person present got marked for death by the [[Shrieking Terror]]. No one survived the truth.
 2. Aside from the protection component, she would have to admit her inadequacy and her most profound trauma of creation, destabilizing the [[Auric Order]] as much as she would destabilize herself due to her foundational trauma and profound guilt being public knowledge.
 
 In summary, it's impossible for her to explain the truth as it's as much of a personal issue on shame as it is an actual existential issue of not getting everyone killed.
@@ -13687,6 +14378,7 @@ She canonizes herself as [[The One True God]] based on the [[Auric Order]] that 
 - The climax ends in the physical death of [[Formless Father]] but with heavy losses on her [[Auric Angels]] and permanent scars on the [[Seven Archangels]] that had to endure such hardships. This is the pivot point for the philosophy of the [[Auric Aria]], before it was pure [[Jealous]]y but now [[The One True God]] is existencial necessity uncompromising in its rigidity.
 
 - The [[Auric Codex]] adopts Article VII which is the source of all tyranny, it designates that all communities that have structurally integrated any [[Dissonance]] derived practices will require submission to [[Auric Purification]] for continued [[Civic]] standing, formalizing the inquisition of the [[Auric Order]] with deliberate oppression towards dissidents to prevent another catastrophe ever again, [[Adel]] comes with the idea of changing the recorded history and removing the records of anything related to the [[Formless Father]], pushing the strict adherence to the [[Auric Mythos of Creation]] as protective measure, and anyone suspected of having ties with any [[Outer God]] has to be audited by the [[Auric Aria]] in public display.
+
 - Article VII details in the [[Auric Aria]]'s own words: _"For my part, I am a [[Jealous]] God. And there is no other god apart from me."_ as both protection from any more incidents with [[Outer God]]s like [[Formless Father]] but this buries [[Selenea]] for the first time. This however proves for the [[Chorus Pillar]] afterward in their secret scriptures: _"If no other god existed, of whom would she be [[Jealous]]?"_
 
 ### [[Ages]] IV
@@ -13698,6 +14390,8 @@ She canonizes herself as [[The One True God]] based on the [[Auric Order]] that 
 - The body of the [[Auric Order]] pushes for the formalization of [[Perfect Reflection]] to avoid further apocalypse but since it degrades the classification of citizenship for most [[Demi-Human]]s, and threatens directly the [[Silver Blood]] lineage of [[Medea]] the [[Auric Aria]] immediately rejects the idea of having secondary citizens, arguing in favor of the [[Silver Blood]]. However, this very line will be tested and pushed again after the [[Massacre of Phoebe]].
 
 - The [[Auric Order]] implements parades of [[Piety]] as means to bring faith and prosperity to cities in the name of unification of [[Perfect Reflection]], However this creates the [[Massacre of Phoebe]] a [[Lunehymn]] sanctuary city that fought back the [[Auric Aria]] on one of her parades of [[Piety]]. The incident culminated when [[Selah]] and [[Medea]] had an assassination attempt. The city targets [[Medea]] labelling a [[Silver Blood]] traitor, and [[Selah]] the one who wrote the rules of tyranny. [[Medea]] is fatally wounded, and [[Selah]] is gravely hit as well. The [[Auric Aria]] had to step in to save both with her [[Aetherlight]] to perform a very powerful healing spell as [[Medea]] was about to die. In the commotion the parade then devolved into pure chaos after [[Uriel]] and [[Adel]] stepped to control the violence that ended with the execution of most dissidents and in the place being wiped off the map by [[Auric Angels]]. This was the first of the [[Genocides of the Auric Aria]] and [[Adel]] covered the incident.
+
+- The covering stems from the scene of the [[Seven Archangels]] leaving after the [[Massacre of Phoebe]], looking at the last remnants of the [[Silver Blood]]s bleed out. This is a massive psychological scar for everyone on the beginning of the [[Genocides of the Auric Aria]], which is why [[Adel]] also proposes to bury history to continue the saving plan of divine grace, _"Retreating into despair is not an option if we really want to make paradise come true. It's harsh, but sometimes violence is the only answer once all dialogue has failed, and it's our very lives the ones being threatened by the [[Cycle]] of unending violence that would continue to plague the world, even if we let ourselves be killed by the hatred of those who fight for a false freedom that will inevitably change only in hands of who's the tyrant on top of the regime."_
 
 - The [[Auric Aria]] realizing her children were capable of threatening her [[Auric Order]], the near death of [[Medea]] and the wounds of her devoted [[Seven Archangels]], she then added the last VIII article to the [[Auric Codex]]. _"Never dare to raise a sword against the Sovereign, any of her statues, or her depictions, including any of the [[Seven Archangels]]. Repent immediately for any transgression and only contrition will grant you mercy."_
 
@@ -13728,7 +14422,7 @@ She canonizes herself as [[The One True God]] based on the [[Auric Order]] that 
 
 - Before the mob could act again, she lunged skyward with a shockwave felt across the entire palace that made every single vitral and window of the cathedral shatter by the sheer intensity. Then, her voice echoed across the continent: _"If you really want to see how a world looks without my grace, so be it. I'll give you exactly a god forsaken land. If you really want me gone, I can unweave for all of you what I once wove."_
 
-- Crucially, however, none of the people nor the assassins of the [[Chorus Pillar]] present in the clash with the [[Auric Aria]] in the [[Grand Auric Cathedral]] survives much longer, as the [[Shrieking Sentinel]] hunts every single [[Consciousness]] present during the [[Auric Aria]]'s spiraling [[Composure]] moment due to the amount of [[Scorching Truth]]s they now know. This is partially why the [[Auric Aria]] confessed the truth, she knew none of them would survive the aftermath as they were hunted by the first [[Primal Discordia]] of the [[Original Eight]]. It was a cruel and deliberate act on her behalf to have an [[Atonalis]] as hitman to get rid of them for her long before she unleashed the apocalypse or they could go around spreading the truth.
+- Crucially, however, none of the people nor the assassins of the [[Chorus Pillar]] present in the clash with the [[Auric Aria]] in the [[Grand Auric Cathedral]] survives much longer, as the [[Shrieking Terror]] hunts every single [[Consciousness]] present during the [[Auric Aria]]'s spiraling [[Composure]] moment due to the amount of [[Scorching Truth]]s they now know. This is partially why the [[Auric Aria]] confessed the truth, she knew none of them would survive the aftermath as they were hunted by the first [[Primal Discordia]] of the [[Original Eight]]. It was a cruel and deliberate act on her behalf to have an [[Atonalis]] as hitman to get rid of them for her long before she unleashed the apocalypse or they could go around spreading the truth.
 
 - Before ascending, [[Auric Aria]] orders [[Mikael]] to collect a pair of every animal species in [[Arcanoria]] in preparation for The [[Ark of Genesis]], which is a [[Time Bubble]] of everything that is worth saving of the coming reckoning, and right after she sounds her [[Goldweaver Auric Harp]] across the globe, signaling that soon the day of judgement would come. The [[Chorus Pillar]] interprets the threat as a bittersweet victory found between the joy that they're finally free from tyrannical rule while some had fear of what the final words meant but they wouldn't understand what she exactly said until a [[Cycle]] after.
 
@@ -13785,7 +14479,7 @@ She canonizes herself as [[The One True God]] based on the [[Auric Order]] that 
 
 - [[Mikael]]'s original theological brief, the most rigorous doctrinal argument produced during the entire [[Old Testament]] circulates through both cities as the formal intellectual foundation of the [[Waltz Pillar]] refusal. The [[Chorus Pillar]] did not write it, they cite it as part of the [[Auric Order]]'s texts, and the dependency the [[Auric Aria]] had cultivated produced a [[Civilization]] that breaks at the first question she refuses to resolve, and the question she refuses is the one she cannot answer without admitting what [[Lunehymn]] is, what [[Medea]]'s blood means, and why [[Mikael]]'s brief is correct in damning him as well since the day he wrote it.
 
-- The [[Auric Aria]] is trapped in a predicament she can't rule out. If she favors the [[Waltz Pillar]] she has to admit that [[Lunehymn]] is [[Selenea]]'s stolen essence, revealing the [[Betrayal of the Moon]], nullifying article VII enforcement mechanism, acknowledging that Mikael's brief was correct while damning him in the following [[Auric Purification]] audit, and if it wasn't bad enough, the [[Scorching Truth]]s would make everyone a high priority target for the [[Shrieking Sentinel]] effectively marking every single witness for death. If she favors the [[Regalia Pillar]] she confirms that retroactive doctrinal suppression is valid, establishing that her silence constitutes law, effectively stripping [[Medea]]'s status which would confirm [[Mikael]]'s brief conclusion, sanctioning the destruction of a [[Silver Blood]] community alongside two of her [[Seven Archangels]].
+- The [[Auric Aria]] is trapped in a predicament she can't rule out. If she favors the [[Waltz Pillar]] she has to admit that [[Lunehymn]] is [[Selenea]]'s stolen essence, revealing the [[Betrayal of the Moon]], nullifying article VII enforcement mechanism, acknowledging that Mikael's brief was correct while damning him in the following [[Auric Purification]] audit, and if it wasn't bad enough, the [[Scorching Truth]]s would make everyone a high priority target for the [[Shrieking Terror]] effectively marking every single witness for death. If she favors the [[Regalia Pillar]] she confirms that retroactive doctrinal suppression is valid, establishing that her silence constitutes law, effectively stripping [[Medea]]'s status which would confirm [[Mikael]]'s brief conclusion, sanctioning the destruction of a [[Silver Blood]] community alongside two of her [[Seven Archangels]].
 
 - Unable to wait indefinitely the [[Regalia Pillar]] initiates the attack. The [[Waltz Pillar]] defends. She watches. She does not intervene. Her silence is not neutrality, it is endorsement of the stronger faction's interpretation. The sequence of events unfolds is called [[Paradise Lost]] with the rebellion against the [[Auric Aria]]. The twin cities are the fracture between her [[Seven Archangels]].
 
@@ -13833,19 +14527,19 @@ The [[Primal Discordia]] that came from the original fracture of the [[Seven-Cyc
 
 The strongest of all [[Atonalis]] is the original [[Violux]] who killed the gentle beast by the [[Leylines]] and wounded the [[Auric Aria]] during the [[Eighth Cycle]], as her unfiltered [[Golden Ichor]] made it the strongest of all demons.
 
-- [[Anxithor]] | The [[Shrieking Sentinel]] | [[Cindergale]]: Johan Liebert + Perfect Suicide + Shy Guy + Kidnapper SCP on learning name + [[Auric Aria]]'s literal trembling hands. The first demon ever created. Killer to anyone who watches them because of low self-esteem. Fear memetic hazard kidnapping anyone who knows their name as a pre-emptive strike. It is the origin of why [[Scorching Truth]]s are hazardous, as it works through a matryoshka level of fear. It fears that anything involving them, like knowing [[The Truth of Arcanoria]], because that's a potential way into getting closer to knowing them. It fears that you will kill it, and it prioritizes in hunts those who know the most [[Scorching Truth]]s. It will instantly hunt the [[Legend]] that vanquished another [[Original Eight]]. Killing any other primordial demon will put a target on their back. Denominated by the [[Institute]]s as the [[Exogenesis Threat]]. It's called [[Shrieking Sentinel]] because whenever someone learns enough [[Scorching Truth]]s, the fire that never ends begins hunting them, and they hear a loud howl within their mind which is the echolocation that the [[Shrieking Sentinel]] uses to create [[Resonance Anchors]] so that it can go hunt. Inspired by the blue fire of Sunless Skies after learning truths that are impossible to escape, usually the Piranesi landmark is one way to escape from the [[Shrieking Sentinel]]. Once surviving the attack, however, it won't try to attack again unless prompted to. It only does an attack once until it fails but during that one attack it is unrelenting and most people don't survive it. The strength of the [[Scorching Truth]] and the howling of the [[Shrieking Sentinel]] is proportional to how close to the truth of learning about him it is. Some are very distant like [[We Are Atonalis]]. However, learning that it's possible to vanquish one of the [[Original Eight]] or its true name are the strongest type of howling. It is intensely paranoid about being killed because that's the first thing the [[Auric Aria]] tried to do when she realized she created a mistake instead of life, the deep rooted fear is the manifestation of the trembling hands of the [[Auric Aria]] as the cloth of divine doubt, and pushed further when the [[Auric Aria]] tried to unmake it. The [[True Mythos of Creation]] refers to the [[Shrieking Sentinel]] as the [[Formless Masses]] that coagulated first and the [[Auric Aria]] tried to unmake desperately, it doesn't refer to all demons, it refers specifically to the first ever created, and that itself is another [[Scorching Truth]].
+- [[Anxithor]] | [[Eirenesis Anakriach]] | [[Cindergale]]: The first ever creation and the [[Auric Aria]]'s trembling hands that manifest as the primal terror of being killed. It is the origin of [[Scorching Truth]]s, their hazardous properties, and its signature [[Shrieking Terror]] paralyzes with the blue flames that won't stop following until the person who has learned too many [[Scorching Truth]]s is killed.
 
-- [[Discant]] | The Discord Weaver | [[Flux]]: Ying + Yang of Emotions.
+- [[Discant]] | The Discord Weaver | [[Flux]]: Ying + Yang of Emotions. The reason why there's phenomenon like mass hysteria, society behaving like sheep and a fluid instead of individuals.
 
-- [[Obsessian]] | The [[Looping Paradox]] | [[Void]]: The [[Time Bubble]] prisoner backrooms + Theatrical Plays where the entities are broken [[Spellweaver]]s. Uses [[Dream Magic]] as it is its own recurring schizophrenia that changes sometimes the details of what is remembered because it tends to be imprecise which is what causes the inside of the rooms to be so distorted and dream-like. Ties to nightmares and [[Selenea]], and the no clipping topology. A collection of things copied from people and places who are real to represent the mental degradation of schizophrenia and dementia with slight glimpses of higher [[Coherence]] which are the dream core aesthetic places. The [[Looping Paradox]] itself behaves like [[The Amber Wonderland]] in the sense that it shapeshifts with the [[Ages]] based on collective hallucinations in [[Arcanoria]]. Misremembering places in the real world functions like the minotaur of the green labyrinth, that's why the "entities" hunting whomever is inside appear as a labyrinth of infinite rooms that vary on the [[Ages]], the existence of the minotaur and the labyrinth is someone who fell into the [[Time Bubble]] during [[Ages]] I.
+- [[Obsessian]] | The [[Looping Paradox]] | [[Void]]: The [[Time Bubble]] prisoner backrooms + Theatrical Plays where the entities are broken [[Spellweaver]]s. Uses [[Dream Magic]] as it is its own recurring schizophrenia that changes sometimes the details of what is remembered because it tends to be imprecise which is what causes the inside of the rooms to be so distorted and dream-like. Ties to nightmares and [[Selenea]], and the no clipping topology. A collection of things copied from people and places who are real to represent the mental degradation of schizophrenia and dementia with slight glimpses of higher [[Coherence]] which are the dream core aesthetic places. The [[Looping Paradox]] itself behaves like [[The Amber Wonderland]] in the sense that it shapeshifts with the [[Ages]] based on collective hallucinations in [[Arcanoria]]. Misremembering places in the real world functions like the minotaur of the green labyrinth, that's why the "entities" hunting whomever is inside appear as a labyrinth of infinite rooms that vary on the [[Ages]], the existence of the minotaur and the labyrinth is someone who fell into the [[Time Bubble]] during [[Ages]] I. The somatic reality of the people within the dream rooms affects their architecture, reacting to their emotional distress.
 
-- [[Signath]] | The Hollow Pilgrim | [[Luminance]]: Saturn Storm + Scarlet King. Memetic Hazards that do damage to you for knowing or for others from you knowing. 
+- [[Signath]] | The Hollow Pilgrim | [[Luminance]]: Saturn Storm + Scarlet King. Memetic Hazards that do damage to you for knowing or for others from you knowing. + The World Has Gone Beautiful. Past the event horizon it relates to Zhuangzi's butterfly dream. Upon waking, he realizes the boundaries between reality and illusion are blurred, questioning whether he is a man who dreamt of a butterfly, or a butterfly now dreaming of a man. It manifests in impossible surreal shapes that get more strange figures mirroring year 327,182,960 reminiscent of psytrance visuals, demoscene, early CGI aesthetic of the 2000s, and Salvador's Dali artistic work. The further anyone goes into the black-hole like storm, the more reality distorts until they reach the level of Zhuangzi's butterfly dream of surrealism abstraction. Shapeshifter but instead of it changing, it makes the victim change, turning into a cat instead of a human, or turning into a butterfly, or turning into a table or anything else. It forcefully shapeshifts the target by dissolving where the boundaries of the self start and end.
 
 - [[Carnalix]] | [[Lyd, The First Beloved]] | [[Resonance]]: The original beloved creation and the [[Auric Aria]]’s hardest and desperate attempt at a [[Perfect Manifestation of Life]], born from the desire to make a companion that could never be lost, never change, and never leave. It begins as a small chimera of the wolf, deer, lark, cat, horse, rabbit, and the missing fox-shaped absence, a creature of warmth, loyalty, and impossible beauty. But as it lives longer, the threads that preserve it begin to preserve everything: pain, injury, age, and decay. Its body accumulates damage instead of shedding it, and the beloved pet slowly becomes a patchwork thing of retained flesh and borrowed matter, a monstrous archive of love that could not accept change. In the [[Ages]] of [[Arcanoria]], its manifestation begins with the [[Interregnum]], the rotting seed-body that sheds into the seven parts when slain, becomes [[Beloved Shard]]s as animals who start as pets, then they grow and reunite, and from that reunion [[Lyd, The First Beloved]] is properly born, it then grows through its 3 phases until it becomes the apocalyptic [[Corpus Mortuum]].
 
 - [[Animach]] | [[The Eight-Tongued King]] | [[Resonance]]: [[Morpheus Abysmal]] is the formal name it gave itself to the construct when it is on its most stable and acting as a single entity of 8-tongues. The [[Morpheus Abysmal]] incarnation is a combination of Zalgo speaking in the 8-tongues of the [[Atonalis]], Combination of Meruem + [[Atonalis]] Demon Lord. Gains almost [[Humanity]] for a brief moment before ending itself during [[Ages]] IV. It has 8 tongues from which 3 are proper voices [[Anxithor]], [[Discant]], and [[Obsessian]], 2 are its nature and instinct divided in the breaking of its mind as [[Signath]] and its hunger through the teeth of [[Carnalix]]. The final voice is the core personality governed by the [[Animach]] and the wrestle and split of control between [[Violux]] in transgressive impulses, or [[Erosyx]] in its need for love and affection. It always refers to itself between I and We depending on context.
 
-- [[Violux]] | The Imperium Obsessus | [[Crystal]]: The original [[Atonalis]] who drank the [[Auric Aria]]'s blood, looking for people that resemble [[Auric Aria]] trapping them in eternal suffering. I am at the center of everything that happens to me type.
+- [[Violux]] | [[The Imperium Obsessus]] | [[Crystal]]: The original [[Atonalis]] who drank the [[Auric Aria]]'s blood, looking for people that resemble [[Auric Aria]] trapping them in eternal suffering. I am at the center of everything that happens to me type. Its physical shape resembles The Demiurge Yaldabaoth, this [[Atonalis]] is the representation of the ouroboros in [[Arcanoria]] and the inescapable cycle of violence that the [[Wolf Tone]] [[Institute]] believes in. It's was born from the [[Auric Aria]]'s pride, possession, [[Impostor Syndrome]], transgressive impulses, and supremacist arrogance. The Hole of Rick & Morty + The Devourer of Gods from Calamity Infernum.
 
 - [[Erosyx]] | [[The Amber Wonderland]] | [[Strand]]: A parasite building a family that is a tragedy of desperately yearning for the [[Auric Aria]]'s love. Hates deeply the [[Violux]] [[Original Eight]]. It is born from the hatred and disdain the [[Auric Aria]] has for the [[Atonalis]], and the [[Formless Masses]] despite being her children. It changes between representations of sexes in the hope that one day the perfect body or the perfect family will make the [[Auric Aria]] love them back.
 
@@ -13957,9 +14651,9 @@ The [[Mythical Virtuoso]] of [[Flux]] of the Seven Virtuosi.
 [[Motif Awakening]] Wish: _"I wish to feel in a way that creates meaning, to stop running from the shame and desire I've always carried."_
 
 [[Legend Trait]]s:
-- [[Lustful]] -> [[Romantic Hedonist]] ([[Flux]])
+- [[Lustful]] -> [[Self-Indulgent Slave]] ([[Flux]])
 - [[Empathetic]] -> [[People Pleaser]] ([[Resonance]])
-- [[Self-Deceiving]] -> ([[Luminance]])
+- [[Self-Deceiving]] -> [[Romantic Hedonist]] ([[Luminance]])
 
 [[Legend Opus]]:
 - The [[Flux]] [[Mythical Virtuoso]] of the Seven Virtuosi ([[Magnum Opus]])
@@ -16456,15 +17150,37 @@ _"If you could end all suffering by ending the capacity to suffer, would you? An
 
 [[Lacrimosa]]'s Requiem is the "archive of the dead, in memory eternal."
 
-The [[Purest of Love]] begins as [[The Call of the Dreamweaver]] parades that is an [[Indulgent Enclave]] and moving circus for the broken that uses miracles of healing through numbing with a powerful anesthetic and the [[Dream Magic]] of [[Lacrimosa]]. They are very surreal parades that use [[Mind Control Arts]] and [[Spectacle Arts]] to have a found family with the [[Moon]] imagery with singers, costumes, stilts, animals, etc. It represents the whimsical nature of dreams for comfort to the broken.
+The [[Purest of Love]] begins as [[The Call of the Dreamweaver]] parades that is an [[Indulgent Enclave]] and moving circus for the broken that uses miracles of healing through numbing with a powerful anesthetic and the [[Dream Magic]] of [[Lacrimosa]]. They are very surreal parades that use [[Mind Control Arts]] and [[Spectacle Arts]] to have a found family with the [[Moon]] imagery with singers, costumes, stilts, animals, etc. It represents the whimsical nature of dreams for comfort to the broken. 
 
-[[Mira]] teaches Lacrimosa a genuinely beautiful concept: **"A love so pure it doesn't require love."** What this means in its pure form is selfless merger—the girl wants to become part of something greater than herself, not for reciprocation, but for _transcendence_. She wants her death to matter by merging with the divine.
+Originally, this is a benevolent faction that is a sanctuary for the marginalized built on egalitarianism as a [[Chorus Pillar]] movement offering an alternative to the [[Auric Order]] while having [[Lacrimosa]] as the center of the movement as a reply to the heavens that aren't silent. The [[Auric Aria]] in the [[New Testament]] doesn't intervene no matter how bad society gets which prompts the issue of theodicy, and that's why [[Selah]] looked for an alternative to suffering which created the [[Purest of Love]].
+
+The corruption of the [[Purest of Love]] comes from two places:
+
+- The futility of healing: [[Lacrimosa]] does do the numbing miracles on the early stages of [[Lux Aeterna]]. The circus functions as a safe haven for the broken, offering an alternative without demanding anything but belonging to the family. While it is not enforced yet that "no one can leave" it plants the seed of [[Possessive]] and [[Attention Addict]] that the family [[Mira]] wanted is growing. Despite the efforts of [[Lacrimosa]], however, she comes to the realization that even in doing miracles, and healing people while building her own family. It is not enough, war still exists, dying still exists, [[Corruption]] at all levels of [[Civilization]] still continue even if she is healing the broken. [[Lacrimosa]] and the [[Purest of Love]] primary vector for radicalization is [[Lacrimosa]] acknowledging that this doesn't work for removing suffering, she tried the entire span of [[Ages]] II and [[Arcanoria]] is exactly the same as if she wasn't there. Suffering does not end through benevolent mercy, it is merely a pain-killer.
+
+- [[Mira]] teaches [[Lacrimosa]] a genuinely beautiful concept: **"A love so pure it doesn't require love."** What this means in its pure form is selfless merger—the girl wants to become part of something greater than herself, not for reciprocation, but for _transcendence_. She wants her death to matter by merging with the divine. The own loss of [[Mira]] is one of the major catalysts for [[Lacrimosa]] to view death and suffering as something meaningless and actively harmful for the experience of existing. With her time in [[Arcanoria]] during [[Ages]] II this idea only gets planted further as she sees even the people she healed with [[Lux Aeterna]] inevitably die in combat, even bodily immortality is not enough to fix the violence of the [[Atonalis]], of humans against fellow humans, and the cruelty of phenomenon like [[Static Criticality]]. As [[Lunar Cycle]]s pass, [[Lacrimosa]] begins developing even more potent versions of [[Lux Aeterna]] to combat this, which is what ultimately leads to [[A Pact of a Thousand Eyes]] with the point of no return, and the manifestation of [[Lux Aeterna]] so potent it becomes [[The Hollowing]].
+
+### Evolution into the [[All-Loving Moon]] and [[The Hollowing]]
+
+Phrases that radicalized [[Lacrimosa]]:
+
+- "First your dreams die, then your hope, only then you. What's fair about that?"
+- "I always wore my hat. Why am i so sick now?" A dying orphan under [[Destra]]'s care before [[Lacrimosa]] developed [[Lux Aeterna]].
+- "My dad used to get annoyed when I asked him if he wanted to play. Now he gets mad when I say I don't have time to go outside. Why did I need to be so sick for my dad to want to spend time with me?" Another dying child under [[Destra]]'s care in the [[Great Plague]].
+
+After the [[Flesh-Exalting Transcendence]] of [[Lacrimosa]] the [[Purest of Love]] radicalizes following the tenet of ultimate utilitarianism mercy:
 
 "All life is suffering, all suffering arises from the self and its attachments, but if this self is removed, then all of this burden is extinguished, all of the meaningless suffering will cease, this is the [[Purest of Love]]. The highest state of [[Consciousness]]. Open to all mankind, men or women, of high caste or low."
 
+The singing chorus in unison during [[A Pact of a Thousand Eyes]], and conducted by [[Pagiel]] later reads in the layering of many voices as an ethereal requiem mass bathed in [[Dream Magic]]:
+
+_"Children born of one emotion. Our devotion's deepest ocean. No division, reasoned we'll be freed."_
+
+_"Joy mirage's kingdom come. No one left at stake now that existence is on the wake. A part is wholly ending. A line in any final song. So long. So far. We will be atoning. At last eternal through the past, above a blinding, loving star."_
+
 Critique: 
 
-Between [[Mira]]'s teaching and [[Lacrimosa]]'s practice, something shifted—not through conscious deception, but through the substitution of two single words:
+Between [[Mira]]'s teaching and [[Lacrimosa]]'s practice, something rotted—not through conscious deception, but through the substitution of two single words across the entire [[Ages]] II of [[Lacrimosa]] witnessing suffering, trying to heal bodies, and realizing in the end it is ultimately meaningless.
 
 **[[Mira]]:** "Be the presence that teaches how to reach others, to _honor_ the meaning of their suffering by *continuing* them."
 
@@ -16626,7 +17342,7 @@ _The Autonomy Philosophers. The Revolutionaries. The Purging Fire.
 
 _The Witness, The Widow's Argument. The Healer._
 
-[[Destra]] was a [[Great Plague]] doctor after the passing of her husband. She desperately turned to heal him, but to no avail. And then she became one of the main corps that held the many hands of dying plague victims, speaking their names into the darkness, while desperately trying to find a cure. Even when most always died. She knows intimately what happens in the frontlines of the clinics, the despair of the wounded that becomes meaningless. She watched the Auric Church claim to witness while leaving people to die alone. She watched the plague reveal that the gods' witness was inadequate.
+[[Destra]] was a [[Great Plague]] doctor after the passing of her husband. She desperately turned to heal him, but to no avail. And then she became one of the main corps that held the many hands of dying plague victims, speaking their names into the darkness, while desperately trying to find a cure. Even when most always died. She knows intimately what happens in the frontlines of the clinics, the despair of the wounded that becomes meaningless. She watched the Auric Church claim to witness while leaving people to die alone. She watched the plague reveal that the gods' witness was inadequate. _"If you ever walk through the corridor of a sick ward full of children, you will realize there is no god."_
 
 **[[Destra]]'s thesis:** "The Hollowed are witnessed. They are not forgotten. They are loved in the way the Auric Church claimed to love but never did. Lacrimosa does not demand piety—she offers recognition. That is a gift the Auric Church never kept. You will never die alone. You will never be unseen. Your suffering will matter because it will be held within something infinite."
 
@@ -16778,7 +17494,9 @@ A place with exceptionally high [[Vibrational Density]].
 
 # Scorching Truth
 
-Inescapable truth of an impossible enigma, memetic and hazardous information that is embed with strong magical influence, it is searing of the deepest fear come true. The largest of these truths is [[The Truth of Arcanoria]].
+Inescapable truth of an impossible enigma, memetic and hazardous information that is embed with strong magical influence, it is searing of the deepest fear come true. They change in color based on how "hot" the information is, mirroring the star colors and types, the coolest are red (M-Type Stars), the hottest are deep blue and purple (O-Type Stars).
+
+The largest of these truths is [[The Truth of Arcanoria]].
 
 List of [[Scorching Truth]]s:
 
@@ -17724,7 +18442,7 @@ Before the mob could act again, she lunged skyward with a shockwave felt across 
 
 The [[Chorus Pillar]] interpreted the [[Auric Aria]]'s departure not as a warning, but as an exile, and celebrated what they believed to be a victory. The full meaning of her final words remained unclear to them for the duration of the coming [[Cycle]].
 
-Crucially, however, none of the people nor the assassins of the [[Chorus Pillar]] present in the clash with the [[Auric Aria]] in the [[Grand Auric Cathedral]] survives much longer, as the [[Shrieking Sentinel]] hunts every single [[Consciousness]] present during the [[Auric Aria]]'s spiraling [[Composure]] moment due to the amount of [[Scorching Truth]]s they now know. This is partially why the [[Auric Aria]] confessed the truth, she knew none of them would survive the aftermath as they were hunted by the first [[Primal Discordia]] of the [[Original Eight]]. It was a cruel and deliberate act on her behalf to have an [[Atonalis]] as hitman to get rid of them for her long before she unleashed the apocalypse or they could go around spreading the truth.
+Crucially, however, none of the people nor the assassins of the [[Chorus Pillar]] present in the clash with the [[Auric Aria]] in the [[Grand Auric Cathedral]] survives much longer, as the [[Shrieking Terror]] hunts every single [[Consciousness]] present during the [[Auric Aria]]'s spiraling [[Composure]] moment due to the amount of [[Scorching Truth]]s they now know. This is partially why the [[Auric Aria]] confessed the truth, she knew none of them would survive the aftermath as they were hunted by the first [[Primal Discordia]] of the [[Original Eight]]. It was a cruel and deliberate act on her behalf to have an [[Atonalis]] as hitman to get rid of them for her long before she unleashed the apocalypse or they could go around spreading the truth.
 
 Before ascending, the [[Auric Aria]] issued one final command to her most loyal [[Auric Angels]]: to collect a pair of every animal species in [[Arcanoria]] in preparation for the coming reckoning. She then sounded the [[Goldweaver Auric Harp]] across the globe on a [[Resonance]] signal heard by all, understood by few, that the [[Day of Judgement]] would soon come. The [[Chorus Pillar]] received this as a bittersweet sign: joy at their apparent freedom from what they had branded tyrannical rule, threaded with a quiet fear that some could not name.
 
@@ -17837,6 +18555,16 @@ Due to the powerful natural [[Resonance]] of the number 21 through its numerolog
 #society
 
 Any type of spy society such as the [[Court of Delicacies]], [[Amadea]]'s Owls, and further developed during [[Ages]] V and [[Ages]] VI.
+
+# Shrieking Terror
+
+#chaos 
+
+_"The howls of death that follow the inescapable tremors of the blue flames."_
+
+The [[Shrieking Terror]] is the widespread folk designation for the phenomenon that happens to anyone who learns too many [[Scorching Truth]]s. It is strictly the primordial entity that [[Institute]]s refer to as the [[Exogenesis Threat]], bearing the forbidden true name [[Eirenesis Anakriach]] (referred to in scholarly texts solely by the cipher RHKH)
+
+The term "[[Shrieking Terror]]" functions dually in [[Arcanoria]], as it is both the colloquial title of the demon itself, and the clinical designation for the hyper-specific, paralyzing psychological dread that victims experience the moment they become its next target. The [[Shrieking Terror]] is the echolocation howl when the [[Eirenesis Anakriach]] acquires a target, the feeling is forced acoustic synchronization with the demon's own shattered reality, locking through the acoustics to carve [[Resonance Anchors]] on the victim's [[Consciousness]], locking onto them for the hunt.
 
 # Signal Loss
 
@@ -18867,6 +19595,10 @@ Traditionally, the [[Auric Aria]]'s power instead of being grouped with the powe
 
 #technology
 
+_Fiber Optics for Magic!_
+
+The pathways of [[Spellweaving]] for [[Frequency Harmonics]] where magic travels, any type of magic requires [[Stable Harmonic Channels]] of some sort, and nearby [[Resonance Anchors]] help further the connection of [[Stable Harmonic Channels]].
+
 # Stardust
 
 #religion #mechanic
@@ -18981,16 +19713,16 @@ Another type of unique [[Legend Opus]] are [[Slayer Magnum Opus]]. These are un
 
 This creates permanent narrative scarcity. [[Civilization]] is incentivized to hunt a powerful [[Atonalis]] early, knowing the first kill is the most valuable.
 
-| [[Atonalis]] Path | [[Primal Discordia]]   | [[Legend Opus]]  | Mechanical Bonus                                               |
-| ----------------- | ---------------------- | ----------------- | -------------------------------------------------------------- |
-| [[Anxithor]]      | The Shrieking Sentinel | The Unafraid      | Legend and their armies are immune to "Fear" status.           |
-| [[Discant]]       | The Discord Weaver     | The Sorrow-Eater  | Can convert realm "Unrest" into "[[Piety]]" resource.          |
-| [[Obsessian]]     | The Looped Revenant    | Breaker of Cycles | Immune to "Curse" debuffs; can break enemy siege loops.        |
-| [[Signath]]       | The Hollow Pilgrim     | The Certain       | Immune to enemy "Schemes" and info-hazards.                    |
-| [[Carnalix]]      | The Corpus Mortuum     | The Scar-Hewn     | [[Legend]] cannot die from wounds; only from age or sacrifice. |
-| [[Animach]]       | The Morpheus Abysmal   | The Whole         | [[Legend]] cannot be "charmed" or have loyalty manipulated.    |
-| [[Violux]]        | The Imperium Obsessus  | The Unbroken      | [[Legend]]'s armies never rout; fight to the last.             |
-| [[Erosyx]]        | The Wrongly Named      | The True-Named    | [[Legend]]'s "Status" cannot be falsified or stolen.           |
+| [[Atonalis]] Path | [[Primal Discordia]]       | [[Legend Opus]]         | Mechanical Bonus                                                                                      |
+| ----------------- | -------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------- |
+| [[Anxithor]]      | [[Shrieking Terror]]     | The Unafraid            | Legend and their armies are immune to "Fear" status.                                                  |
+| [[Discant]]       | The Discord Weaver         | The Sorrow-Eater        | Can convert realm "Unrest" into "[[Piety]]" resource.                                                 |
+| [[Obsessian]]     | [[Looping Paradox]]        | Breaker of Cycles       | Immune to "Curse" debuffs; can break enemy siege loops.                                               |
+| [[Signath]]       | The Hollow Pilgrim         | The Certain             | Immune to enemy "Schemes" and info-hazards.                                                           |
+| [[Carnalix]]      | [[Lyd, The First Beloved]] | The Scar-Hewn           | [[Legend]] cannot die from wounds; only from age or sacrifice.                                        |
+| [[Animach]]       | [[The Eight-Tongued King]] | The Whole               | [[Legend]] cannot be "charmed" or have loyalty manipulated.                                           |
+| [[Violux]]        | [[The Imperium Obsessus]]  | The Unbroken God-Slayer | [[Legend]]'s armies never rout; and the [[Legend]] is immune to all world altering magic and effects. |
+| [[Erosyx]]        | [[The Amber Wonderland]]   | The True-Named          | [[Legend]]'s "Status" cannot be falsified or stolen.                                                  |
 
 Finally, the last piece of the puzzle for [[Legend Opus]] and [[Magnum Opus]] is the [[Fate Stage]], where [[Legend]]s embody the roles of [[Major Actor]]s, [[Minor Actor]]s. The world is a theatrical composition, and [[Legend]]s grow into their roles through the choices they make during [[Ballad]]s, [[World Event]]s and [[Age Crisis]]es.
 
@@ -19026,7 +19758,7 @@ $$\text{Constellation Resonance} = (\text{Legend Opus} + \text{Accumulated Worsh
 
 This means:
 
-- You had a first [[Legend]], who killed "The Shrieking Sentinel" [[Primal Discordia]] in [[Ages]] I, obtains the [[Slayer Magnum Opus]] of "First to Slay Fear."
+- You had a first [[Legend]], who killed "The [[Shrieking Terror]]" [[Primal Discordia]] in [[Ages]] I, obtains the [[Slayer Magnum Opus]] of "First to Slay Fear."
 - By Age V, they have been worshipped for four [[Ages]]. Their [[Resonance]] is massive.
 - A new [[Legend]] in [[Ages]] V is born, and they too kill the reincarnation of that [[Atonalis]], but only gets Slayer of [[Anxithor]] — a weaker [[Legend Title]].
 - The [[Ages]] V [[Legend]] might be a better fighter in their lifetime, and a more versatile [[Legend]] overall, but when they die and become a [[Constellation]], they will always be less powerful than "First to Slay Fear" because they started later.
@@ -19265,6 +19997,12 @@ _"A turning fork vibrates when another one vibrates too across the room."_
 #technology
 
 The inside of [[Leylines]] carrying [[Frequency Harmonics]].
+
+# Symphony Card
+
+#mechanic #combat
+
+[[Symphony Card]]s also known as [[Spellweaving]] Music Sheet are the literal songs of [[Spellweaving]],
 
 # Syvanth
 
@@ -20152,9 +20890,1707 @@ Thus, the resolution of [[The Hollowing]] has three distinct possible endings (o
 - Hollowing functions by suppressing the [[Soul-Key]]'s [[Resonance]] frequency by using the exact opposite signal of their [[Fundamental Frequency]]. Thus erasing complex emotions from the lack of tonality within the [[Soul-Key]], and operating solely on a "blissful" numb state.
 - As it is a [[Flesh-Casing Ritual]], the hollowed have bodily immortality, they do not die of old age and it cleans the slate of their physical body, effectively diminishing the pain by subtracting the nerves that can make it feel.
 
+# The Imperium Obsessus
+
+![[The Imperium Obsessus.png]]
+
+Also known as the False God, the Leviathan, or The Dragon that Devoured the Sun.
+
+[[The Imperium Obsessus]] is the [[Seventh]] of the [[Original Eight]], and it is the serpent that drank the [[Auric Aria]]'s blood. Visually, it's a gargantuan chimera-like dragon wearing the face of a predator. It features seven pairs of razor-sharp claws alongside its serpent body that were the original claws it used to kill the beast on the [[Eighth Cycle]]. It constructs entire realities only to torture those who resemble the [[Auric Aria]] by using its immense will of [[Crystal]] to recreate an entire simulated [[Time Bubble]] where that person is subjected to commit the greatest [[Atrocity]] of the transgressions of whatever they value.
+
+It displays the ultimate mastery of [[Dimensional Arts]] and [[Hyperphantasia Arts]] with its singular ability called "[[The Soul Trap]]" the sole purpose of this giant dimension is for torturing a single individual into infinity by using their greatest fears in the echo chamber that [[The Imperium Obsessus]] weaponizes against them. _"The Truman Show of Suffering."_
+
+It is the strongest of all [[Atonalis]], but it's limited by its fixation on quality over quantity, it has the least casualties of all of the [[Original Eight]] but for those who become its prey, it's the worst possible fate of anything that can happen to any [[Spellweaver]] in the entirety of [[Arcanoria]]'s suffering.
+
+While it is possible to defeat, beating the False God is a feat akin to vanquishing a real deity, it grants the hardest [[Slayer Magnum Opus]] of the universe of [[Gateway To Genesis]], and it's only possible by piercing its [[Dissonance Core]] heart at the end of all of the [[Layered Finality]] of all of its dimensions with a giant spear born of [[Pure Light]] so overwhelmingly fast and sharp that is capable of piercing faster every layer of the generated realities than the Leviathan is able to create new dimensions. To craft this [[Pure Light]] spear, [[Civilization]] must hold the set of Selenic [[World-Bending Relics]] from the [[Sonata]] of the Pale [[Moon]] after acquiring [[The Truth of Arcanoria]].
+
+Moreover, the [[Constellation]] that holds the ultimate title of this [[Slayer Magnum Opus]] becomes the [[Primordial Star]] of [[Civilization]] and represents the determination of [[Humanity]].
+
+### Beating the Primordial Serpent of Chaos
+
+[[Cindergale]] and [[Perfect Focus]] are the main counters to [[Crystal]]. Remaining perfectly focused in the chaos of the storm it tries to impose is the method to prevent being overpowered by its will, and to respond in between attacks.
+
+To defeat the Leviathan—formally known in the mythos as **The Imperium Obsessus**, the False God, or the Dragon that Devoured the Sun—you are not merely engaging in a mechanical boss fight; you are stepping into a cosmological clash between primordial chaos and unyielding human conviction.
+
+As the Seventh of the Original Eight Primal Discordia, the Leviathan is a gargantuan chimera-like dragon that drank the Auric Aria’s unfiltered Golden Ichor, making it the strongest of all Atonalis. Defeating it is a feat akin to vanquishing a real deity, granting the hardest _Slayer Magnum Opus_ in _Gateway to Genesis_ and elevating your Constellation to the mythic title of the **Primordial Star of Civilization**.
+
+Here is your granular, step-by-step guide to surviving the psychological horror of the Leviathan and securing your mythic victory.
+
+#### **Pre-Engagement: Essential Relic Combinations & Resonance Triggers**
+
+You cannot overpower the Leviathan through brute force; its reality-warping capabilities will simply erase your efforts. You must arrive perfectly and metaphysically equipped.
+
+- **The Selenic World-Bending Relics:** Before engaging, Civilization must hold the complete set of Selenic World-Bending Relics obtained from completing the _Sonata of the Pale Moon_ and unlocking _The Truth of Arcanoria_. These relics are the only items possessing enough vitality and pure essence to forge the necessary weapon for the final blow.
+- **Resonance Trigger (The Pure Light Spear):** You will use the Selenic Relics to craft a giant spear born of Pure Light. This weapon must be forged to be overwhelmingly fast and sharp—capable of piercing through layers of reality faster than the Leviathan can physically create new dimensions.
+- **Thematic Anchor:** Equip your Spellweaver with a Soul Leitmotif that emphasizes absolute [[Mastery Over Chaos]]. The Leviathan is a Violux entity born from supremacist arrogance and transgressive impulses. You must counter its chaos with absolute, undeniable structural truth. Be careful to ground your humanity in the [[Key of Attunement]] and [[Potential of Creation]].
+---
+
+#### **Phase I: Initial Engagement & The Atrocity Bubbles**
+
+**The Narrative Struggle:** The Leviathan does not fight you in a physical arena; it attacks your timeline and your morality. It uses its immense Crystal will to construct entirely simulated _Time Bubbles_, trapping you in false realities designed specifically to force you to commit the greatest atrocities against whatever your Spellweaver values most.
+
+**Managing Composure vs. Feeding Mechanics:** As a Violux Atonalis, the Imperium Obsessus feeds on transgression, the loss of agency, and the shame of unwanted acts. If you feel guilt or shame over what happens in these simulated realities, it feeds on that Parasitic Resonance, draining your Composure from _Pristine_ down to _Spiraling_ or _Surrender_.
+
+- **The Survival Motto:** _"DO NOT BUDGE A SINGLE INCH. STAY YOUR GROUND AGAINST THEIR WILL."_
+- **Composure Strategy:** Do not fight the simulated atrocities with physical attacks. Instead, utilize **Void (Essence Sacrifice)** to detach your consciousness from the guilt of the simulated reality, and **Luminance** to pierce the illusion and recognize that the transgression is a fabricated imposition. Accept that the Leviathan is showing you a nightmare, but refuse to internalize the shame. By starving it of the guilt it expects to harvest, you prevent it from regenerating its Dissonance Core.
+
+---
+#### **Phase II: Defensive Timing & Abjuration Arts**
+
+The Leviathan will attempt to crush you under the weight of forced realities (Crystal Perversion). It will unleash massive _Chord Layering_ attacks, sometimes stacking 15 or more Minor Notes of discordant magic to overwrite your existence. It requires intense [[Perfect Focus]].
+
+- **Perfect Abjuration:** In the micro-level combat rhythm, you must rely on Abjuration Arts by playing the _inverse frequency_ of the Leviathan's attacks. When it unleashes a massive Chord Layering stack aimed at devastating your Composure, do not attempt to overpower it. Instead, achieve "Perfect" timing on every single note of your defensive Symphony Cards. Executing a flawless Abjuration phase against a 15+ minor note stack will entirely cancel its reality-warping assault, completely negating its most punishing attacks.
+- **Countering Reality Imposition:** When the Leviathan tries to overwrite your truth, layer **Luminance** to see the actual battlefield through the simulated Time Bubbles, and pulse **Crystal** to re-assert your own reality over its delusions.
+
+---
+
+#### **Phase III: Optimal Spellweaving Sequences**
+
+To push the Leviathan back and expose its core, you must utilize highly advanced Tetrad Chords that synchronize your damage output while protecting your psychological state. The spear has to be imbued with a [[Hyper Chord]] of Accelerando [[Tetrad Chord]]s that increase dramatically in speed as they pierce through each topological and [[Time Bubble]] while being imbued in another stack of [[Chord Layering]] meant to create a Flux Winding Vortex at the tip of the spear similar to how a [[Wolf Bomb]] operates but to punch with infinite sharpness all of the [[Layered Finality]] [[Time Bubble]] layers.
+
+**The "Piercing Truth of the [[Pure Light]] Spear" Tetrad Sequence:**
+
+1. **Root (Major Note) - Luminance (Sufficient Precision):** Establish the baseband signal of your spell to seek the objective truth of the battlefield. This acts as a tracking laser that completely ignores the false dimensions the Leviathan is generating.
+2. **First Harmony (Minor Note) - Cindergale (Perfect Focus):** Add a relentless, aggressive momentum to the spell. This provides the sheer kinetic velocity required to keep pace with the Leviathan’s dimensional shifting.
+3. **Second Harmony (Minor Note) - Crystal (Absolute Certainty):** Solidify the beam. Ensure that once your spell locks onto the Leviathan's true form, the connection cannot be severed by its spatial manipulations.
+4. **Third Harmony (Minor Note) - Strand (Echoing Bonds):** Anchor the spell in the continuity of your timeline so that the Leviathan cannot use a Time Bubble to undo the damage you deal.
+5. **Rhythm (Tempo) - Accelerando:** Gradually accelerate the tempo of your Symphony Cards. The Leviathan relies on stalling you in infinite loops; _Accelerando_ forces your spell barrage to continually surge in power and speed until it breaks the boss's rhythm.
+
+---
+#### **Phase IV: Layered Finality & The Mythic Victory**
+
+As the battle reaches its climax, the Leviathan will initiate a run into its [[Layered Finality]] —a desperate, rapid-fire generation of infinite simulated dimensions acting as a shield around its true body.
+
+**The Final Strike:**
+
+- You must abandon standard spellcasting. This is the moment to unleash the **giant spear born of Pure Light** crafted from your Selenic World-Bending Relics with the prepared [[Hyper Chord]].
+- Channel your ultimate _Absolute Certainty_. The narrative peak of this fight is not a test of your destructive power, but a test of whether human conviction can outpace primordial chaos.
+- You must thrust the Pure Light spear with such overwhelming speed and sharpness that it pierces through every single layer of the generated realities simultaneously, moving faster than the Leviathan can physically weave new dimensions.
+- Aim exclusively for the **Dissonance Core heart**.
+
+**The Aftermath:** When the Pure Light spear shatters the Dissonance Core, the Leviathan’s simulated realities will collapse into Primal White Noise, and the beast will finally be vanquished. The cosmic cycle of violence the Leviathan represents is broken by your hand.
+
+By striking the final blow, your Legend forges the ultimate _Slayer Magnum Opus_. Upon ascending to the Stellar Legacy Score, your Constellation is forever immortalized as the **Primordial Star of Civilization**—a blazing monument proving that the indomitable spirit of humanity can conquer even the most inescapable horrors of the cosmos.
+
 # The Inescapable Hunger
 
+_Also known in later Ages as: **The Auric Peach Famine**, **The Ash-Bread Winter**, and **The First Reckoning**_
 
+**Tagline:**  
+**“The world remembers excess; the survivors inherit the bill.”**
+
+
+## Final lore entry: The Auric Peach Famine (Age 0 – Age of Desolation)
+
+The Auric Peach Famine is the **defining Age Crisis of the Age of Desolation (Age 0)**, the first great “bridge crisis” that tests whether Civilization can learn to live with a wounded world instead of strip‑mining what remains. It is remembered in later Ages as **The Auric Peach Famine, The Ash‑Bread Winter, The First Reckoning, and The Inescapable Hunger**.
+
+## Core identity in Arcanoria’s timeline
+
+- **Age placement:** Concludes the Age of Desolation (Age 0) and seeds the ethos that makes the Age of Renewal possible
+    
+- **Nature of the crisis:** Structural, logistical, and ecological—no monster, no Outer God intrusion, no tower to topple, but a slow convergence of bad patterns.
+    
+- **Tagline:** “The world remembers excess; the survivors inherit the bill.”]
+    
+
+In the meta‑structure of Arcanoria’s 14 Ages and Act‑of‑Fate crises, it is the first proof that **an Age Crisis can end a civilization and reset its trajectory**, establishing the theme that every end is also a beginning—the Weight of Change in its most grounded form.
+---
+
+## What exactly it is: hunger inside plenty
+
+The Auric Peach Famine is **the arithmetic of too many mouths in a wounded world depending entirely on one miraculous crop: the Auric peach.
+On the surface, the world appears fed:
+
+- Orchard belts ring settlements; trade is rich in pits and saplings.
+    
+- Cellars are full of dried peaches; shrines glow under luminous boughs.
+    
+
+But underneath, three hungers are quietly growing:
+
+1. **Ecological hunger** – soils stripped of micro‑life, over‑ashed, chemically and magically imbalanced.
+    
+2. **Physiological hunger** – bodies full of sugar and bright harmonics but lacking proteins, micronutrients, and deep “earth‑notes.”
+    
+3. **Civilizational hunger** – knowledge burned as fertilizer, Old World Relics ground to dust, agromancy forgotten.]
+    
+It is not the Hollywood famine of empty granaries; it is **malnutrition and soil death inside apparent abundance**, a crisis that only becomes visible when the miracle fails.
+
+---
+
+## Root causes: the broken foundation of Age 0
+
+Before the famine has a name, the Age of Desolation is already primed for disaster.
+
+1. **Exhausted, Fallout‑scarred ground**
+    
+    - Fields are laden with Vibrational Fallout from prior Cataclysmic Aftermaths like the Polychord Crisis, leaving ash‑dust soils thin and lifeless.]
+        
+    - The living micro‑web of worms, fungi, and bacteria is almost nonexistent; survivors think of soil as inert dirt that holds roots in place]
+        
+2. **Locked magic and crippled infrastructure**
+    
+    - The Great Harmonic Loom is scarred; leylines are fractured, and Auric resonators of the [[Old Testament]] lie toppled in ruins.
+        
+    - Large‑scale agricultural rites, growth hymns, and soil‑healing Ornaments from later Ages are forgotten or myth
+    - Magic in Age 0 is mostly Minor Note instinct—staccato bursts in crisis, not planned, harmonic agriculture.]
+        
+3. **Monocrop drift toward Auric peaches**
+    
+    - Auric peaches thrive in ash‑choked, microbially poor soil brushed by weakened leylines, making them feel like the last mercy of the Auric Aria.[]
+        
+    - Survivors abandon deep‑rooted grains, bitter roots, leguminous “earth‑beans” that could restore nitrogen.
+        
+    - Within a few cycles, “food” and “peaches” become synonymous; status is counted in trees.
+4. **Relics as fertilizer: burning history for one more harvest**
+    
+    - Old World Relics and Auric‑infused goldenwood are ground into dust or burned into golden ash to supercharge fields.
+        
+    - This briefly restores golden peaches and makes land more responsive to crude magic—but at the cost of relic knowledge and long‑term soil health.[]
+        
+    - Each application pushes the environment toward conditions where **only Auric peaches can survive**, erasing diversity and crippling future Ages’ agromagical potential.
+
+---
+## The four phases: from miracle to Age Crisis
+
+## Phase I – The Golden Orchard of False Security
+
+In early Age 0, the Auric peach is framed as **salvation**, not risk.
+
+- Settlements encircle themselves with orchard belts that function as food banks and soft fortifications.
+
+- Trade routes reorient around pits and saplings; the first golden fruit of each year becomes a ritual offering
+    
+- The peach’s color serves as a **nutrient thermometer**—golden (peak harmony), pink (depleting), brown (alarm)—but most communities only celebrate that fruit still exists, not what the long slide from golden to pink means]
+    
+
+Ignoring the early warning signs—rarer golden fruit, compacted soil, changing ruin‑song—locks Civilization deeper into **peach‑dependency as normality.
+
+---
+
+## Phase II – Peach Sickness: full bellies, hollow bodies
+
+After years of near‑exclusive peach diets, a diffuse illness emerges across orchard belts: **Peach Sickness
+
+Symptoms:
+
+- Bleeding gums, tooth loss, “ashbone” fractures, slow healing, brittle hair and nails
+    
+- The “Hollow Fullness”: feeling heavy and stuffed, yet wasting, unable to work or withstand hardship
+
+Underlying cause:
+
+- Auric peaches are rich in sugars and “bright” harmonics but poor in complete proteins, micronutrients, and grounding earth‑note.
+    
+- Bodies become energetically plump but structurally hollow—resonant shells lacking substance
+
+Because storerooms are still full and orchards still produce pink fruit, communities misinterpret Peach Sickness as curse, test, or moral failing, and respond by **doubling down**:
+
+- Plant more trees.
+    
+- Use more relic‑dust and ash.
+    
+- Eat more of the failing miracle.
+    
+
+The famine tightens not through scarcity but through **misdiagnosis.**
+
+---
+## Phase III – False miracles: golden ash, Searstone, and Phosflare
+
+As Peach Sickness spreads and yields falter (more brown, fewer golden peaches), desperation leads to more extreme “solutions.”]
+
+1. **Golden ash – Arcanoria’s potash analogue**
+    
+    - Burning Auric‑infused goldenwood and spreading ash creates explosive short‑term yield spikes and brief returns of golden fruit.
+    - Light, measured application can stabilize weak soils; heavy, repeated use drives pH extremes, kills micro‑life, and forms glittering crusts that shed water and erode]
+        
+    - Thickly ashed fields look sanctified to the eye but are sliding toward sterility; every burned grove is an ecological and magical biome lost
+        
+2. **Searstone and Phosflare – misused miracle ores**
+    
+    - Luminous stones harvested from shattered leylines act as sulfur‑ and phosphorus‑rich modifiers, accelerating root growth and fruiting
+        
+    - Overuse acidifies or over‑enriches soils beyond recovery, creating conditions only Auric peaches can briefly exploit, while destroying streams and further stressing the [[Leylines]] and the ecosystem of [[Arcanoria]]
+        
+
+Again, the pattern: **short‑term windfall, long‑term collapse**, with every “fix” narrowing the ecological base and deepening dependence on the very crop at the center of the crisis
+---
+
+## Phase IV – Collapse: when even the peaches fail
+
+Eventually, three long arcs converge
+- **Soil exhaustion:** continuous peach cultivation plus over‑ash and ore leads to crusted, nutrient‑imbalanced topsoil with little organic matter and high erosion.
+    
+- **Widespread malnutrition:** an entire generation hollowed by Peach Sickness lacks the stamina to recover or adapt
+    
+- **Relic depletion:** accessible golden groves, ores, and relic caches are gone; there are no more miracle inputs to burn.
+    
+
+Then the visible, undeniable failure arrives:]
+
+- Orchards blossom but do not set fruit, or produce only withered brown peaches.
+    
+- Once‑glowing trees go dull, bark flaking, then die.
+    
+- Valleys once called Eternal Orchards become graveyards of skeletal trees and abandoned shrines, their soil stripped into dust bowls.]
+    
+
+This is the **true face of the Inescapable Hunger**: not just fewer peaches, but a world where the land itself has been broken by cumulative choices. The crisis crosses the threshold from localized famine into **Age Crisis**—the structural failure that ends the Age of Desolation
+---
+
+## Resolution in Arcanoria: the birth of Agromagical Conclaves and the Age of Renewal
+
+The famine is ultimately resolved not by a single spell or divine intervention, but by a **shift in thinking** that fits Arcanoria’s larger philosophy about Ages and learning.]
+
+Key realizations among the survivors:
+
+- Uncultivated land, left alone, slowly shows signs of self‑healing
+    
+- Fields treated with **light, measured** ash and diversified plantings fare better than those drowned in “miracles.”
+- The Auric peach’s color states are not just aesthetic but an embedded HUD of the soil and [[Leylines]] health—fruit as data.
+
+From these observations emerge **Agromagical Conclaves**:
+
+- Seed‑keepers, soil‑listeners, and low‑note magicians who rediscover real‑world agriculture as a kind of magical language—crop rotation, fallow cycles, and nuanced soil amendments
+
+- They begin sequencing peaches with nitrogen‑fixing earth‑beans, reintroducing bitter roots and grains, and treating ash, relic dust, and mineral modifiers as precise tools rather than blanket miracles
+    
+- In Harmonic terms, they stop trying to solve the world with a single note (peaches) and start treating the land as a **chord that must be tuned and given rest.]
+    
+
+This change—**land‑as‑chord, not land‑as‑battery**—is the conceptual pivot that ends the Age of Desolation and births the Age of Renewal. It sets the precedent for later Ages: every Age Crisis must teach Civilization something about its own patterns, and only when that lesson is integrated can the world advance toward harder modes and greater truths.
+## How to use this entry in your Arcanoria canon
+
+As a final, through description for the encyclopedia / codex:
+
+> **The Auric Peach Famine**  
+> The Auric Peach Famine (also called The Ash‑Bread Winter, The First Reckoning, and The Inescapable Hunger) is the structural Age Crisis that concludes the Age of Desolation (Age 0). It arises from post‑Cataclysmic soil exhaustion, locked magic, monocrop dependence on Auric peaches, and the sacrificial misuse of Old World Relics and golden ash as fertilizer. The crisis evolves through four phases—Golden Orchard of False Security, Peach Sickness, False Miracles, and Collapse—culminating when even the peaches fail and vast orchard belts die. Its resolution comes through the formation of Agromagical Conclaves, who rediscover that the land is a chord, not a note, and pioneer crop rotation, fallow cycles, and restrained, harmonic agromancy. This transforms the Inescapable Hunger into the first hard‑won lesson of Arcanoria’s Ages: no single gift can replace understanding, and every miracle carries a receipt.
+
+If you imagine this dropped into your in‑game codex or an Age 0 historian’s gloss, does this feel aligned with how you want players and readers to _emotionally_ perceive the Auric Peach Famine—more tragic, more instructive, or more accusatory toward the survivors?
+
+---
+
+## Overview
+
+The Inescapable Hunger is the defining [[Age Crisis]] of the [[Age of Desolation]] (Age 0). It is quieter than the radiant terror of the [[Great Plague]] of Euphoria and less metaphysically grand than [[The Hollowing]]. There is no gleeful Outer God behind it, no singular monster to slay, no tower to topple.
+
+It is simply **the arithmetic of too many mouths in a wounded world** depending on a single miraculous harvest: the [[Auric Peach]].
+
+_You can be full and still be starving in another dimension._
+
+After the [[Cataclysmic Aftermath]] that shattered the prior Age, survivors emerge into a landscape of **crumbling golden ruins**—skeletal towers leaning like broken fingers toward an empty sky, once-grand avenues choked with dust, bridges half-collapsed over dry riverbeds, and everywhere a **veil of golden ash**. The air is thick with the suspended remains of a civilization that burned too brightly and too briefly.
+
+For a few fragile cycles, equilibrium seems possible. Small communities cluster in the lee of fallen aqueducts and toppled obelisks, scratching gardens into ash-dusted soils. They relearn the old mundane rhythms: planting, harvesting, storing. Children survive more often than they die. Trade paths open between ruins.
+
+Then the numbers tip.
+
+The crisis that later Ages will call _The Auric Peach Famine_ begins with a miracle, deepens through ignorance and short‑term pragmatism, and ends with a lesson carved into both soil and story:
+
+> **No single gift can replace understanding, and every miracle carries a receipt.**
+
+The Inescapable Hunger always culminates the [[Age of Desolation]] and always leads into the [[Age of Renewal]]. What changes between playthroughs is:
+
+- How deep the famine bites.
+    
+- How many—and what _kind_ of—people and Enclaves survive.
+    
+- How scarred or resilient the world that greets Renewal will be.
+    
+
+It is an **Age 0 bridge crisis**: structurally smaller than the cosmic crises of later Ages, but thematically precise—a test of whether Civilization can learn to live _with_ a broken world instead of strip‑mining what remains.
+
+---
+
+## The World of Ash and Ruin: Visual Grammar of the Age of Desolation
+
+Before the famine fully manifests, the Age of Desolation has a specific, mournful aesthetic. It should feel very “Elden Ring after the golden age” — beauty rotting in place.
+
+## Crumbling Infrastructure
+
+- **Fallen Auric resonators:**  
+    Shattered remnants of the [[Old Testament]] and other grand [[Auric Heptacode]] constructs—crystalline towers that once tuned weather and stabilized local space—lie toppled in fields and valleys. Their faceted surfaces still faintly echo forgotten frequencies, glowing weakly at dusk.
+    
+- **Broken [[Leyline]] channels:**  
+    Where leylines were once clean, buried arteries of ordered Resonance, many are now torn open into jagged ravines glowing with sickly light, where the boundary between matter and Flux feels thin and wrong.
+    
+- **Silent Spires:**  
+    Former capital spires stab the horizon like grave markers. Upper levels are open to the sky, choked with wind and dust. Lower halls are clogged with golden ash piled waist‑high—pulverized ornament, fresco, book, and bone made indistinguishable.
+    
+
+## The Golden Ash
+
+- A fine, shimmering dust settled over everything—roads, hovel‑roofs, dead trees, river stones.
+    
+- At sunrise and sunset it catches the light in a way that feels almost sacrilegious, as if the world has powdered itself for an endless funeral.
+    
+- It is composed of burned goldenwood, disintegrated Auric architecture, and weathered magical residue—**mineral‑rich but lifeless**, beautiful and sterile at once.
+    
+
+## Survivor Architecture
+
+- New settlements cling to the bases of ruins like moss on a corpse.
+    
+    - Walls: reclaimed blocks from fallen colonnades.
+        
+    - Roofs: ribs of collapsed halls, patched with scrap cloth and thatch.
+        
+    - Doors: repurposed shutters from palaces now buried in ash.
+        
+- Survivors quarry the past: prying metals from statues, chiseling runes from inlaid floors, scavenging any residual Resonance from broken [[Ornament]]s and devices.
+    
+- On many horizons you can see the silhouettes of **skeletal orchards**—dead trees from a time even before the Auric peach, branches like exposed nerves against a pale sky.
+    
+
+## The World’s Dirge
+
+- Wind through broken spires, hollow towers, and fractured resonators creates a constant low harmonic: a **global, tuneless hum** that carries for leagues.
+    
+- Local communities can distinguish the “voices” of nearby ruins by ear:
+    
+    - A falling third from eastern citadels.
+        
+    - A minor seventh from the broken aqueduct.
+        
+    - A dissonant cluster from a collapsed resonator field.
+        
+- To the people of this Age, this ever‑present sound is simply called **“the ruin‑song”**—the world itself groaning over what it has lost.
+    
+
+Against this backdrop, the miracle that seems to promise stability begins to spread.
+
+---
+
+## The Auric Peach – Miracle, Monocrop, and Barometer of Ruin
+
+The primary food source of this era is the **Auric peach**: a fast‑growing, shallow‑rooted fruit tree that can take hold even in ash‑choked, Fallout‑touched soils brushed by weakened leylines.
+
+In a world of dust and hunger, it is dangerously close to perfect.
+
+## Inherent Qualities
+
+- **Aggressive colonizer:**  
+    From pit to fruit in a fraction of a normal tree’s time, especially in loose, mineral‑rich, microbially poor soils like those of the Desolation.
+    
+- **High caloric yield:**  
+    Peaches carry dense sugars and storing flesh; an adult can survive for days on a small handful.
+    
+- **Harmonic comfort:**  
+    The fruit carries a faint, warm Resonance.
+    
+    - Trees glow softly at dusk.
+        
+    - Eating a fresh fruit calms the nerves, soothes nightmares, and leaves a lingering sense of being “blessed” or “held.”
+        
+
+In the early Age of Desolation, Auric peaches feel like the last mercy of a distant [[Auric Aria]]. Villages rip out bitter roots and stubborn grains to plant more trees. Children born under the first great harvests are named **Auric‑Born**. Shrines rise beneath boughs that generate their own twilight.
+
+## The “Nutrient Thermometer”: Three Faces of the Peach
+
+The Auric peach’s appearance reflects the health of the land that nourished it:
+
+|State|Appearance|Meaning in‑world|
+|---|---|---|
+|**Golden**|Flesh gleams soft gold, laced with pale radiant threads; skin faintly luminous at dusk; taste is deep, complex, with a metallic sweetness.|**Peak harmony.** The soil is balanced and alive. A golden peach is festival‑food, baby‑food, shrine‑offering. It is an _event_, not a staple.|
+|**Pink**|Dusky pink flesh, pleasant and sweet but one‑note; glow barely perceptible.|**Workable but depleting.** The land can still give, but every harvest quietly drains it further. This becomes the everyday norm.|
+|**Brown**|Withered, blotched skin; mealy, bitter flesh, sometimes hollow with dry rot. Trees look stressed and sparse.|**Alarm.** The soil is damaged. Even if trees still stand, hunger has effectively begun.|
+
+Mechanically, this acts as a **visual HUD layered into the world**: the player reads the land’s slow decline at a glance, not through numbers but through fruit.
+
+What no one in‑world recognizes yet is that the Auric peach is not salvation. It is a **single note** being forced to carry the melody of an entire lost symphony.
+
+---
+
+## Structural Vulnerabilities: Why Hunger Was Always Coming
+
+The Inescapable Hunger is not a single event; it is the inevitable outcome of several quiet failures compounding over time.
+
+## 1. Exhausted Ground
+
+- Fields are laden with [[Vibrational Fallout]]—psychic and magical debris from the Cataclysm and prior Dissonances.
+    
+- Rains come erratically, pulled astray by damaged leylines and fractured weather resonators.
+    
+- Topsoil is thin, dusty, and structurally poor. The living micro‑web—worms, fungi, and bacteria that once churned and softened the earth—is almost nonexistent.
+    
+
+Most survivors have **never seen a living worm**; to them, soil is inert dirt that merely holds roots upright.
+
+Without remembered agromagical practice:
+
+- Fertility becomes a **one‑way spend**.
+    
+- Each harvest is a withdrawal from a bank no one knows how to refill.
+    
+
+## 2. Locked Magic and Crippled Infrastructure
+
+- The [[Dual Confluence Stream]] ([[Lunehymn]] + [[Aetherlight]]) runs weak, snarled, and uneven.
+    
+- The great agricultural rites of prior Ages—growth hymns, irrigation chords, soil‑healing Ornaments—are gone or reduced to half‑remembered myths.
+    
+- Magic in this age is mostly **[[Minor Note]] instinct**:
+    
+    - A spark coaxed from damp wood.
+        
+    - A wound closed by desperate humming.
+        
+    - An arrow guided a hair’s breadth truer.
+        
+
+[[Ornament]]s are absent. The only rhythm tempo unconsciously used is **staccato**—short, sharp bursts of Resonance. No one has a language yet for rhythm in magic; they only know that sometimes, in crisis, something _clicks_.
+
+With the [[Great Harmonic Loom]] scarred and many leylines fractured, **large‑scale corrective magic is structurally impossible** in Age 0. The crisis must be resolved through pattern and restraint, not spectacle.
+
+## 3. Monocrop Drift
+
+Because Auric peaches are so efficient on ruined land, every rational decision pushes Civilization toward a trap:
+
+- Grains that need deep roots and stable rainfall are abandoned first.
+    
+- Bitter roots and wild greens are relegated to “starvation food.”
+    
+- Legumes that could have replenished nitrogen in the soil are forgotten entirely.
+    
+
+Within a few generations:
+
+- “Food” and “peaches” become nearly synonymous.
+    
+- Children grow up thinking a meal without peaches is a meal that failed.
+    
+
+The diet narrows to a single, sugary pillar. The world’s pantry has one shelf left, and everything else falls into disuse.
+
+## 4. Relics as Fertilizer
+
+The most tragic pillar of the crisis:
+
+- [[Old World Relics]]—broken Ornaments, inert tools, shards of Emberwhisper and Glimmerfern—are everywhere in ruins.
+    
+- Farmers notice that **grinding relics into powder** and spreading them on fields:
+    
+    - Supercharges a harvest: sudden surpluses, briefly restored golden fruits.
+        
+    - Makes the land far more responsive to even clumsy staccato magic.
+        
+
+Relic‑dust becomes:
+
+- A de facto **fertilizer**.
+    
+- A **currency**, traded by weight.
+    
+- A **sacrament**, when sprinkled at shrines in hopes of another miracle harvest.
+    
+
+Unbeknownst to them, each use:
+
+- Concentrates unstable magical residues in the soil.
+    
+- Pushes the environment toward conditions where only Auric peaches can survive.
+    
+- Erases irreplaceable knowledge encoded in those relics, crippling future Ages.
+    
+
+They are burning their own history and salting the ashes with its ghosts.
+
+---
+
+## Phase I – The Golden Orchard of False Security
+
+> _“For a handful of years, we believed the world had forgiven us. The peaches were sweet. The children grew tall. The ruins were just scenery. We did not yet understand that comfort can be a symptom.”_  
+> — Elder Maris of the Seed‑Keepers, as recorded in the [[Age of Renewal]]
+
+## The Rise of the Orchard Belts
+
+As communities discover the Auric peach’s reliability, entire lifeways reorganize:
+
+- Settlements encircle themselves with **orchard belts**—rings of trees that double as food security and soft perimeter.
+    
+- Caravans reorient trade around pits and saplings instead of multi‑crop seeds.
+    
+- The first golden fruit of each year becomes the focus of minor rites, named offerings, and tiny festivals.
+    
+
+On the systemic level, this phase:
+
+- Teaches the player that **Auric orchards are the safest, fastest way to stabilize population**.
+    
+- Rewards early pivot into “peach‑economy” with visible prosperity.
+    
+
+## Orchard Economy and Social Order
+
+- Labor calendars restructure around the **peach cycle**: planting, tending, harvest, preservation.
+    
+- Full cellars of dried peaches become the baseline of security; anything else is luxury.
+    
+- Status is counted in trees:
+    
+    - 100 trees: local elite.
+        
+    - 30: secure.
+        
+    - <10: one bad season away from extinction.
+        
+
+## Early Warnings (Ignored)
+
+Even in the “good years,” warning signs appear:
+
+- Golden peaches grow **rarer**, confined to a shrinking number of groves. Most harvests trend pink.
+    
+- Soil gradually compacts and loses spring underfoot; ash and dust dominate.
+    
+- The ruin‑song subtly changes pitch as collapsed infrastructure decays further and leylines shift.
+    
+
+But no one tracks these things as data. Survivors see only that **there is still fruit**, and in a post‑Cataclysm world, that feels like enough.
+
+---
+
+## Phase II – Peach Sickness: Full Bellies, Hollow Bodies
+
+> _“He ate until his belly ached, and still he faded. When his teeth fell out all at once, he laughed through the blood and asked for another peach. There was nothing else to give him.”_  
+> — Fragment from an anonymous orchard‑village tablet
+
+## Symptomatology
+
+After years of near‑exclusive reliance on Auric peaches, a strange, diffuse illness begins to appear across widely separated settlements:
+
+- **Bleeding gums and tooth loss** – mouths fill with blood from minor chewing; teeth loosen and fall.
+    
+- **Slow or absent healing** – cuts fester, bruises spread like ink; minor injuries become crippling.
+    
+- **“Ashbone” fractures** – bones snap under small loads; heal crooked if at all.
+    
+- **Brittle hair and nails** – outward signs of interior collapse.
+    
+- **The Hollow Fullness** – sufferers feel stuffed and heavy, not hungry, even as their muscles waste and they can barely stand.
+    
+
+Crucially, this is **not famine in the cinematic sense**. There are still peaches. People are eating. Storerooms are not yet empty.
+
+They are dying of **malnutrition inside a monocrop plenty**.
+
+## The Hidden Cause
+
+Though no one in this Age can articulate it, Peach Sickness is the accumulated absence of everything the peach cannot provide:
+
+- Chronic vitamin and mineral deficiencies.
+    
+- Lack of complete proteins.
+    
+- No diversity in plant compounds and medicinal greens.
+    
+
+On the magical side, Auric peaches are **rich in bright, superficial harmonics** but poor in the deep, grounding “earth‑notes” that align body and soil. Over time, a mismatch grows between the Resonance saturating a person’s flesh and the actual structural integrity of that flesh.
+
+Bodies become:
+
+- **Energetically plump** but
+    
+- **Structurally hollow.**
+    
+
+## Social Interpretation
+
+Different cultures frame Peach Sickness in different ways:
+
+- As a **curse** for failing to honor the dead civilization properly.
+    
+- As a **test** from the Auric Aria: can mortals endure sweetness without gratitude?
+    
+- As an **“overfull wasting”**—evidence that too much of even a good thing becomes poison.
+    
+
+Practically, the mainstream reaction is almost always the same:
+
+- Plant _more_ trees.
+    
+- Use _more_ relic‑dust.
+    
+- Eat _more_ of what is already failing them.
+    
+
+The system doubles down on the very pattern that is killing it.
+
+---
+
+## Phase III – False Philosopher’s Stones and the Age of Golden Ash
+
+> _“We ground our miracles to dust and called it wisdom.”_  
+> — From _The Lament of the Ash‑Priests_, fragmentary hymn
+
+As Peach Sickness spreads and yields begin to falter (fewer golden, more brown), desperation drives survivors to mine the last potent remnants of the old world.
+
+## Golden Ash – Arcanoria’s Potash
+
+Across the land stand remnants of ancient **goldenwood groves** and Auric‑infused trees that once anchored stable leylines.
+
+Farmers discover that:
+
+- Felling these trees,
+    
+- Burning them in deep pits, and
+    
+- Spreading the resulting **golden ash** on failing orchards
+    
+
+produces astonishing short‑term results:
+
+- A burst of **larger harvests and higher peach quality**; a few groves even return to golden fruit for a season.
+    
+- Soil feels easier to work; ash binds loose dust.
+    
+- The land becomes more responsive to even crude magical nudges.
+    
+
+In game terms, golden ash is a **high‑tier, high‑risk soil modifier**:
+
+- **Light application** – stabilizes pH, improves structure, moderately boosts yield; sustainable if used sparingly and rotated.
+    
+- **Heavy, repeated application** – dramatic but brief yield spikes followed by:
+    
+    - Over‑alkaline soils,
+        
+    - Microbial collapse,
+        
+    - Formation of glittering crusts that shed water and erode easily.
+        
+
+Visually, thickly ashed fields shimmer like sanctified ground. To the untrained eye, they look _blessed_. In truth, they are being pushed toward sterility.
+
+Every grove burned is another irreplaceable magical biome destroyed for one last good year.
+
+## Searstone and Phosflare – Misunderstood Miracle Ores
+
+In exposed leylines and shattered resonators, miners find luminous stones:
+
+|Stone|Proper Use|Common Misuse & Consequence|
+|---|---|---|
+|**Searstone**|Tiny amounts to gently acidify over‑ashed soils, freeing locked nutrients.|Spread thickly, it over‑acidifies land into barren, toxic wastes; runoff kills streams and ponds.|
+|**Phosflare**|Micro‑doses to stimulate root growth and modest fruiting.|Over‑enrichment creates soils only peaches can exploit; other plants fail outright.|
+
+Proto‑alchemists call them fragments of the **Philosopher’s Stone**, legends promising transmutation and endless plenty. Culturally, they become shorthand for “the last, best hope.”
+
+Mechanically:
+
+- Crushed and over‑applied, they **push orchards into short, grotesque abundance** (huge harvests, lurid peach glows)…
+    
+- …followed by a **hard crash** into long‑term non‑productivity.
+    
+
+The recurring pattern:
+
+- Each “miracle” buys one more extravagant harvest at the expense of decades of recovery.
+    
+
+---
+
+## Phase IV – Collapse: When Even the Peaches Fail
+
+Eventually, several slow crises lock together:
+
+1. **Soil collapse**
+    
+    - Continuous monocropping.
+        
+    - Over‑use of golden ash, Searstone, and Phosflare.
+        
+    - Loss of organic matter and micro‑life.  
+        Result: large tracts that are structurally soil only in name—more like mineral dust glued by residue.
+        
+2. **Population vulnerability**
+    
+    - Generations with Peach Sickness are weaker, shorter‑lived, and less resilient to cold, shock, or disease.
+        
+    - Even if there were enough food, fewer people are healthy enough to grow it or defend it.
+        
+3. **Relic depletion**
+    
+    - Easy‑reach [[Old World Relics]] are ground and gone.
+        
+    - Remaining relic‑caches are guarded by monsters, Fallout storms, or distance; the cost to reach them exceeds the gain.
+        
+
+## The Visible Failure
+
+On the ground, collapse looks like:
+
+- Once‑lush Auric belts **blossoming but not fruiting**—trees exhaust themselves in flower then shed everything.
+    
+- Entire orchards that suddenly produce **only brown fruit** for consecutive seasons.
+    
+- Hillsides and valleys where successive erosion events reveal pale subsoil and raw stone; tree roots are exposed like bones.
+    
+
+Regions named _Eternal Orchard_, _Peachsea_, or _The Blessed Groves_ become graveyards of grey trunks and collapsed shrines half buried in ash.
+
+This is when hunger becomes **inescapable**. There are no easy fixes left:
+
+- You cannot simply move to “unused” land; most of it is worse.
+    
+- You cannot throw more relics or ash at it; those cards are played.
+    
+- You cannot conjure food from magic; Age 0’s magical infrastructure is too broken.
+    
+
+The world has run out of **shortcuts**.
+
+---
+
+## Revelation and Response – The First Agromagical Conclaves
+
+The resolution of the Inescapable Hunger is not a hero’s victory; it is a **_shift in thinking_*** forced by scarcity.
+
+## Pattern‑Seers and Soil‑Listeners
+
+In scattered pockets, observant survivors notice uncomfortable truths:
+
+- Abandoned fields, left uncultivated because everyone fled or died, begin to show **small signs of recovery**:
+    
+    - Wild grasses, hardy weeds, and volunteer legumes appear.
+        
+    - Soil darkens slightly, gains texture, even a faint earthy smell instead of pure ash.
+        
+- Orchards that received only **light, infrequent ash** dressings do better than those smothered in gold.
+    
+- Fragments of Relic writing—field tablets, ritual manuals, chipped wall inscriptions—speak of:
+    
+    - Letting land “rest between chords.”
+        
+    - Planting “deep‑drinkers after light‑touched trees.”
+        
+    - “Roots that trade songs beneath the soil.”
+        
+
+People begin – very slowly – to **experiment instead of repeat**.
+
+## Birth of Agromancy
+
+From these desperate experiments come the first **agromagical practices**, half‑science and half‑instinctive spellwork:
+
+- **Crop rotation prototypes**  
+    Even in Age 0’s limited plant palette, survivors discover they can sequence:
+    
+    - Auric peaches → “earth‑beans” (wild or re‑domesticated nitrogen‑fixing plants) → hardy grains/greens → fallow.  
+        The soil after this cycle is noticeably less exhausted than soil kept perpetually under peach.
+        
+- **Fallow as a magical act**  
+    Letting land lie unused for a year—sown only with wild groundcovers—becomes a kind of **ritual silence**.  
+    Some communities time this with sky patterns or the softening of the ruin‑song, feeling intuitively that fields, like music, need rests.
+    
+- **Measured amendments**  
+    Golden ash, Searstone, and Phosflare are re‑framed as **precise tools**, not offerings:
+    
+    - A pinch in a furrow; a dusting before a known deficiency.
+        
+    - Always followed by a gentler phase in the rotation.
+        
+
+Alongside this, a new type of low‑magic practitioner emerges:
+
+- Not the war‑caster or priest, but the **field‑weaver**—a person whose Motif Awakening aligns to the soil, rain, and root rather than flame or blade.
+    
+
+From these roots, the earliest **Agromagical Conclaves** form—seed communities that will later crystallize into full [[Agromagical Enclaves]] in the [[Age of Renewal]].
+
+Their core doctrine is simple and heretical in a world raised on miracles:
+
+> “**The land is a chord, not a note.**  
+> No stone alone can save a starving field.”
+
+This realization is the true resolution of the Inescapable Hunger.
+
+---
+
+## Systemic Role and Progression (Gameplay Layer)
+
+In game terms, **The Inescapable Hunger** is:
+
+- The **fixed Age Crisis** of the [[Age of Desolation]] (Age 0).
+    
+- The **bridge event** into the [[Age of Renewal]]—it always occurs.
+    
+- **Less spectacular** than the Hollowing or Great Plague, but mechanically dense: a crisis of logistics, land‑stewardship, and long‑term planning.
+    
+
+## Crisis Progression – Key Beats
+
+1. **Invisible Tipping Point**
+    
+    - Global population (sum of hamlets, caravans, ruins‑dwellers) exceeds what the currently available arable land can sustainably support.
+        
+    - Soft indicators appear:
+        
+        - Auric harvest quality trending from golden → pink → early brown.
+            
+        - Wild game thinning.
+            
+        - Soil “health” indicators and fallout anomalies nudging upward.
+            
+2. **The First Regional Failure**
+    
+    - One major orchard region collapses into predominantly brown fruit or flower‑drop with no fruit set.
+        
+    - Local famine sparks:
+        
+        - Refugee flows.
+            
+        - Price spikes.
+            
+        - Banditry and cannibalized trade routes.
+            
+    - The game formally declares an [[Age Crisis]] in progress.
+        
+3. **Hunger Cascades**  
+    As more regions falter:
+    
+    - Hungry groups raid lightly defended stores and caravans, forcing the player to **choose between defending, negotiating, or sacrificing**.
+        
+    - Over‑harvesting wild patches (Glimmerfern clusters, natural groves) triggers localized [[Vibrational Fallout]] anomalies—mutant flora, feral zones, smaller monsters.
+        
+    - You can keep people alive by over‑exploiting the world, at the risk of **permanently damaging tiles** and seeding future threats.
+        
+4. **Ash‑Bread and Relic‑Burning Choices**  
+    The defining mechanical hook of this crisis:
+    
+    - You may **grind [[Old World Relics]]**, golden ash, Searstone, and Phosflare into:
+        
+        - **Fields** – boosting yields for a few turns or years.
+            
+        - **Ash‑bread and gruels** – low‑nutrition emergency rations that stave off Starvation events.
+            
+    - Benefits:
+        
+        - Crisis mortality falls in the short term.
+            
+        - Key settlements or proto‑Enclaves can be kept alive.
+            
+    - Costs:
+        
+        - Permanent loss of relics that would unlock future tech, magic threads, or narrative options.
+            
+        - Increased probability of soil sterilization, Fallout zones, and relic‑poor Ages to come.
+            
+    
+    This is the **“Ash‑Bread Winter”**: the period in which people survive by literally eating ground history.
+    
+5. **The Choosing of Seeds** As the crisis worsens, you are forced into triage:
+    
+    - Decide which fledgling communities receive the **last stable food caches and best land**.
+        
+    - Prioritize which proto‑Conclaves survive:
+        
+        - **Soil‑focused seed‑keepers** (future Agromagical Enclaves).
+            
+        - **Trade‑obsessed caravaneers** (future Trading Enclaves).
+            
+        - **Ash‑Priest cults** that sacralize relic‑burning (future Esoteric or Auric‑adjacent Enclaves).
+            
+        - **Early Weaver or Indulgent circles** who turn scarce food into ritual, song, and meaning.
+            
+    
+    These choices determine:
+    
+    - Which Enclaves exist at the dawn of the [[Age of Renewal]].
+        
+    - Their starting doctrines (soil‑care vs exploitation, gratitude vs entitlement).
+        
+    - The emotional palette of the next Age (bitter, grimly practical, quietly hopeful, etc.).
+        
+6. **Transition to Renewal** Once the world has passed through its minimum sustainable population and land condition:
+    
+    - Total population is recalculated; many cultures become **extinct ruins** on the map.
+        
+    - Surviving groups crystallize into full Enclaves with distinct Origin Wounds:
+        
+        - Those who survived by desperate ash‑burning remember _guilt and fear_ of plenty.
+            
+        - Those who survived by diversity and restraint remember _hard‑won pride_ in understanding.
+            
+        - Those who starved rather than grind certain relics may carry _martyr narratives_ into later Ages.
+            
+    - The Age flips to [[Age of Renewal]], with:
+        
+        - Spellweaving slowly re‑emerging.
+            
+        - The first formalization of agromancy.
+            
+        - New possibilities for [[Trade Routes]], cultural development, and future Age Crises.
+            
+
+The Inescapable Hunger’s _severity_—how high the metaphorical **“Ash Ledger”** climbed—directly affects:
+
+- The number and nature of surviving Enclaves.
+    
+- The fertility baseline of the world.
+    
+- How suspicious or reverent later civilizations are of “miracle crops” and quick fixes.
+    
+
+---
+
+## Themes and Legacy
+
+Later Ages remember the Inescapable Hunger primarily under three names:
+
+- **The Auric Peach Famine** – emphasizing the monocrop and dietary hubris.
+    
+- **The Ash‑Bread Winter** – emphasizing the grinding and eating of relics and ash.
+    
+- **The First Reckoning** – emphasizing that this was the first time, post‑Cataclysm, that Humanity had to make civilization‑scale choices without direct divine intervention.
+    
+
+Its enduring lessons in Arcanorian culture:
+
+## 1. On Miracles and Monoculture
+
+> “No single gift can replace understanding.”
+
+Whenever a ruler, priesthood, or Enclave proposes relying on:
+
+- One crop,
+    
+- One relic,
+    
+- One god‑touched technology,
+    
+
+there is always some historian or Seed‑Keeper who quietly asks:
+
+> “Have you forgotten the peaches?”
+
+## 2. On Land as Instrument, Not Mine
+
+Fields are understood—by those who study history—to be **instruments**:
+
+- They can be tuned, overplayed, muted, or broken.
+    
+- Endless extraction without rest leads not just to exhaustion, but to **silence**.
+    
+
+This philosophy becomes the core ethic of later [[Agromagical Enclaves]]: the land’s health is an ongoing composition, not a pile of resources.
+
+## 3. On Burning History
+
+Every later scholar of relic‑lore remembers that, in the Age of Desolation, people **ground up the last words of the past to stretch one more season**.
+
+This informs:
+
+- Auric and Weaver Enclaves who preserve relics as sacred texts rather than consumables.
+    
+- Indulgent and Weaver Enclaves—like the **mourning bakeries** that arise in Renewal—who bake “Ash‑Loaves” and “Peachless Bread”:
+    
+    - Recipes explicitly dedicated to those who starved during the Hunger.
+        
+    - Food as memorial and refusal: _we will never again eat our dead world to survive._
+        
+
+## 4. On Scale of Horror
+
+In the grand tapestry of Ages, The Inescapable Hunger is often overshadowed by:
+
+- The explosive spectacle of the [[Luminant Decaying Plague]].
+    
+- The soul‑rending metaphysics of [[The Hollowing]].
+    
+
+But from the ground, in the lives of ordinary people, it is arguably more intimate and more formative:
+
+- It kills slowly, through choices that mostly made sense at the time.
+    
+- It creates **no obvious villains**, only people trying to live one more year.
+    
+- It forges the first communities who say, collectively:
+    
+    > “Never again, if we can help it.”
+    
+
+And that quiet vow—made in ruined orchards under a sky of drifting golden dust—is what gives the [[Age of Renewal]] its name.
+
+## Age Crisis: The Inescapable Hunger
+
+_Also known in later Ages as: **The Auric Peach Famine**_
+
+**Tagline:**  
+**“The world remembers excess; the survivors inherit the bill.”**
+
+---
+
+## Overview
+
+The Inescapable Hunger is the defining [[Age Crisis]] of the [[Age of Desolation]] (Age 0). It is not a plague from without or a god’s direct curse, but the slow arithmetic of too many mouths in a world whose soil has not yet forgiven the last [[Cataclysmic Aftermath]].
+
+After the Cataclysm, scattered survivors endure a few lean but survivable cycles. They relearn how to store food, map safe routes, and exploit the last gentle niches of the world. Child mortality drops. Small hamlets stabilize around springs, ruins, and stray pockets of weak leyline flow.
+
+For a brief, fragile moment, it seems the wasteland might settle into a harsh but workable new normal.
+
+Then the numbers tip. The crisis that later Ages will call _The Auric Peach Famine_ begins with a miracle, deepens through ignorance, and ends with a lesson etched into both soil and stories: **no single gift can replace understanding.**
+
+The Inescapable Hunger always leads into the [[Age of Renewal]]. What changes is how many, and what kind of, people and Enclaves make it through.
+
+---
+
+## The Auric Peach – Miracle, Monocrop, and Measure of Decline
+
+The primary food source of this Age is the **Auric peach**, a fast-growing, shallow-rooted fruit tree that can take hold even in ash-choked soils brushed by weakened leylines.
+
+- **Qualities:**
+    
+    - Grows quickly in poor, post-Cataclysm soils.
+        
+    - Produces high caloric yield per area, even under erratic rainfall.
+        
+    - Carries a faint, comforting Resonance that makes the orchards feel “blessed.”
+        
+- **Visual “nutrient thermometer”:**
+    
+    - **Golden Auric peach:** At its most nutritious and magically harmonious. Flesh gleams soft gold, threaded with pale, radiant fibers. Rare in Desolation; often offered at shrines.
+        
+    - **Pink Auric peach:** The common, acceptable state. Dusky pink flesh, sweet and filling but lacking deeper “earth-salts.”
+        
+    - **Brown Auric peach:** Sign of failing land. Withered skin, mealy flesh, sometimes partially hollow or rotten inside.
+        
+
+In the early Age of Desolation, Auric peaches feel like the last mercy of a silent god. Villages empty their scattered plots of bitter roots and grains to plant more trees. Children born under the first great harvests are called “Auric-Born.” Shrines rise beneath boughs that glow faintly at dusk.
+
+What none of them see yet is that the Auric peach is not salvation. It is a **single note** mistakenly played as an entire song.
+
+---
+
+## Structural Vulnerabilities
+
+Even before the famine is named, the world is already under quiet strain.
+
+- **Exhausted ground:**  
+    The ash-laden fields are still saturated with [[Vibrational Fallout]]; rains fall irregularly, tugged off course by damaged leylines. Topsoil is thin, structure is poor, and micro-life in the earth is a pale shadow of what it once was. Without the agromagical techniques of previous Ages, fertility is easy to spend and hard to replace.
+    
+- **Locked magic:**  
+    The [[Dual Confluence Stream]] runs weak and knotted. [[Lunehymn]] and [[Aetherlight]] seep, but do not readily weave into grand rites. Large-scale irrigation chants, growth hymns, and soil-healing Ornaments are forgotten myths. Most “magic” in this Age is crude [[Minor Note]] instinct—fear-spurred bursts and half-conscious staccato tricks.
+    
+- **Monocrop drift:**  
+    Because Auric peaches are so efficient at keeping people alive on ruined land, other crops are steadily abandoned. Hard grains, deep roots, legumes, and leafy greens are derided as “famine food” and left to wither when there is room for one more peach sapling. Within a few generations, most surviving cultures no longer remember what a healthy rotation looks like.
+    
+- **Relics as fertilizer:**  
+    Villagers grind [[Old World Relics]] and shards of Emberwhisper into their fields, or steep them in water to make “bread-stone” gruels. These practices bring short-term boosts—fatter fruit, one last miraculous harvest—but poison the land and erase irreplaceable fragments of the old world.
+    
+
+Against this backdrop, the Inescapable Hunger unfolds in four broad phases.
+
+---
+
+## Phase I – The Golden Orchard of False Security
+
+The first phase is abundance, or what passes for it in the Age of Desolation.
+
+## Emergence of the Auric Orchard
+
+Once survivors realize that Auric peaches:
+
+- Grow from pit to fruit in a fraction of a normal tree’s time,
+    
+- Bear reliably even in thin, ashen soils,
+    
+- And can be coaxed from land that would kill most other crops,
+    
+
+they reorganize entire lifeways around orchards:
+
+- Villages ring themselves in “orchard belts.”
+    
+- Caravans trade for seedlings and pits instead of unfamiliar seeds.
+    
+- Rituals and offerings center on the first golden fruits of each year.
+    
+
+The decision to depend on Auric peaches is rational. In a broken world with little knowledge, the miracle that works is the one that spreads.
+
+## Monocrop Dependence
+
+Within a few cycles:
+
+- Marginal fields of grains and roots are never replanted.
+    
+- Hills, valleys, and former forest edges are cleared for more trees.
+    
+- Children grow up thinking of “food” and “peaches” as nearly the same word.
+    
+
+The danger is invisible: a system that **looks** stable, but in which every stomach, settlement, and trade route depends on the health of one species in one kind of soil.
+
+---
+
+## Phase II – Peach Sickness: Full Bellies, Hollow Bodies
+
+After years of peach-dominant diets, a strange sickness appears.
+
+## Symptoms
+
+People living almost entirely on Auric peaches begin to suffer:
+
+- Bleeding gums; wounds that refuse to close.
+    
+- Bruises from minor blows; “ashbone” fractures that fail to knit straight.
+    
+- Brittle hair, loose teeth, persistent exhaustion.
+    
+
+Healers describe it as if the body’s threads are “plump but hollow”—the flesh is full of Resonance from the fruit’s magic, but lacks the deep “earth-salts” once provided by bygone legumes, grains, and greens.
+
+## Cause
+
+In truth:
+
+- Auric peaches are rich in simple sugars and superficial, “bright” harmonics.
+    
+- They are poor in the subtle mineral and micronutrient profiles once provided by dietary diversity.
+    
+
+As in real-world famines, people are not immediately starving; they are **malnourished**. The Peach Sickness is a composite of deficiencies that only emerges after long-term monocrop dependence.
+
+Yet because orchards are still heavy with pink fruit, most communities do not blame the peaches. If anything, they plant more of them, thinking to “outgrow” the sickness.
+
+---
+
+## Phase III – False Philosopher’s Stones and Golden Ash
+
+As the Peach Sickness spreads and yields begin to falter—more pink and brown fruit, fewer golden—people turn to stronger measures to revive their miracle.
+
+## Golden Ash – Arcanoria’s Potash
+
+Across the land, remnants of golden trees and ornamented Auric hardwoods stand like skeletal monuments. In earlier Ages, these trees drew directly from Aetherlight and rooted themselves around strong leylines.
+
+Desperate farmers:
+
+- Fell what remains of them.
+    
+- Burn the wood in great pits.
+    
+- Gather the **golden ash** and spread it across their failing orchards.
+    
+
+Golden ash acts as Arcanoria’s version of potash:
+
+- In **moderate doses:**
+    
+    - It enriches weak, acidic soils with “auric salts” (potassium-like minerals).
+        
+    - It improves flowering and fruiting—more peaches, better quality.
+        
+    - It slightly restores soil structure and balances pH.
+        
+- In **excess:**
+    
+    - It drives pH too high, locking out other nutrients.
+        
+    - It destroys soil micro-life and water retention.
+        
+    - It forms glittering crusts that rain skims off of, eroding topsoil and creating runoff.
+        
+
+Because the first few applications often work spectacularly, people assume that **more is always better**. Fields begin to shimmer with thick coatings of golden ash—a sign of sanctity to the eye, but a sign of approaching sterility to the earth.
+
+Every golden tree consumed this way is also a relic sacrificed: a lost anchor of the old world, burned for one more year of peaches.
+
+## Searstone and Phosflare – Misused Mineral “Miracles”
+
+Miners and scavengers uncover strange luminous stones in the exposed guts of ruined leylines:
+
+- **Searstone:** Sulfur-rich ore that, in small amounts, helps reclaim over-ashed, alkaline soils.
+    
+- **Phosflare:** Phosphorus-heavy rock that accelerates root growth and fruit set.
+    
+
+Hedge-alchemists proclaim these as shards of the legendary Philosopher’s Stone. Crushed and spread thickly, they:
+
+- Temporarily supercharge orchards—massive harvests, a brief resurgence of golden fruit.
+    
+- But also:
+    
+    - Acidify or over-enrich soils beyond recovery.
+        
+    - Cause nutrient imbalances that only peaches can exploit.
+        
+    - Leach into streams, killing aquatic life and further stressing the [[Leylines]].
+        
+
+Again, the pattern holds: **short-term windfall, long-term collapse**.
+
+---
+
+## Phase IV – Collapse: When Even the Peaches Fail
+
+By the time the crisis reaches its peak, three trends converge:
+
+1. **Soil exhaustion:**  
+    Years of continuous peach cultivation, over-application of golden ash, Searstone, and Phosflare have left many regions with:
+    
+    - Crusted, nutrient-imbalanced topsoil
+        
+    - Little organic matter or micro-life
+        
+    - Vulnerability to erosion and Fallout anomalies
+        
+2. **Widespread malnutrition:**  
+    The Peach Sickness has hollowed a generation. Even if food were plentiful, many have bodies too weak to work the land or endure harsh seasons.
+    
+3. **Relic depletion:**  
+    The most accessible golden groves, rich mineral seams, and grindable [[Old World Relics]] have already been consumed.
+    
+
+## The Failure
+
+The visible signs:
+
+- Orchards in their prime suddenly produce **only brown, withered peaches**, or blossoms that fall without setting fruit.
+    
+- Trees that once glowed faintly now appear dull, bark flaking away in sheets.
+    
+- Hillsides, once lush with orchards, lie stripped, their soil blown or washed away, leaving bare subsoil and exposed stone.
+    
+
+Entire valleys—known only a generation ago as “The Eternal Orchards”—become graveyards of skeletal trees and abandoned shrines.
+
+This is the true face of the Inescapable Hunger: not only are there not enough peaches, but the **land itself** is broken in ways that no quick remedy can fix.
+
+---
+
+## Revelation and Response – Birth of Agromagical Conclaves
+
+Out of this slow catastrophe, a new kind of knowledge is forced into existence.
+
+## Noticing the Patterns
+
+Across scattered regions, perceptive survivors begin noticing that:
+
+- Fields left **unworked** due to war, plague, or abandonment start to heal:
+    
+    - Wild grasses and herbs appear.
+        
+    - Hardy legumes volunteer from where seeds once fell.
+        
+    - The soil softens underfoot, darkens, and smells less of ash.
+        
+- Places where golden ash was dusted thinly rather than heaped seem to fare better:
+    
+    - Worms and small burrowers return.
+        
+    - Auric peaches, when they grow at all, tend more often toward pink and occasionally back toward gold.
+        
+- Fragments of [[Old World Relics]]—etched field tablets, shattered Ornaments, half-legible treatises—whisper principles like:
+    
+    - “The land must rest between chords.”
+        
+    - “Roots must trade songs beneath the soil.”
+        
+    - “No single fruit may hold the whole harvest.”
+        
+
+These observations give rise to the first **Agromage Conclaves**.
+
+## The True “Philosopher’s Stone”
+
+These Conclaves are not court sorcerers, but seed-keepers and soil-listeners. Their “magic” is careful, repeated experimentation:
+
+- **Crop rotation:**  
+    Instituting sequences like:
+    
+    - Auric peaches → “earth-beans” (nitrogen-fixing legumes) → hardy grains/greens → fallow  
+        So each planting heals what the previous one strained.
+        
+- **Fallow cycles:**  
+    Leaving whole plots “silent” for a year, seeded only with wild groundcovers and “soil-healers.” They describe this as “letting the field breathe between notes.”
+    
+- **Measured amendments:**  
+    Using golden ash, Searstone, and Phosflare as tools, not miracles:
+    
+    - A pinch in a furrow, not a carpet across a hillside.
+        
+    - Only where signs of imbalance show, never “just in case.”
+        
+
+They discover that the stones themselves were never the true Philosopher’s Stone. Power lay not in ash and ore alone, but in:
+
+- Pattern
+    
+- Restraint
+    
+- Diversity
+    
+- Time
+    
+
+In their doctrine:
+
+> “No stone alone can save a starving field.  
+> The land is a chord, not a note.”
+
+From this, **agromancy**—the magical-scientific discipline of soil, root, and cycle—enters history.
+
+---
+
+## Systemic Role and Progression (Gameplay-Level)
+
+Systemically, **The Inescapable Hunger** is:
+
+- The **Age 0 crisis** that marks the end-state of the [[Age of Desolation]].
+    
+- The **fixed bridge** into the [[Age of Renewal]]—it always happens; only its severity and survivors differ.
+    
+
+## Key Beats for the Player
+
+1. **Unnoticed tipping point:**
+    
+    - Global population from scattered settlements crosses a threshold relative to effective food production and viable land.
+        
+    - Early signs: slightly weaker harvests, more pink and brown peaches, wild herds thinning, soil fertility indicators sliding down.
+        
+2. **The First Failed Harvest:**
+    
+    - A region’s orchards collapse or produce almost only brown fruit.
+        
+    - Local famines test the player’s ability to reroute caravans and redistribute stores.
+        
+    - The game formally announces that an [[Age Crisis]] has begun.
+        
+3. **Hunger Cascades:**
+    
+    - Starving bands turn raider; trade routes become perilous.
+        
+    - Over-harvest of Glimmerfern patches, forests, and ash-fields triggers localized [[Vibrational Fallout]] anomalies—mutant flora, minor monstrosities—complicating recovery efforts.
+        
+4. **Ash-bread and Relic-burning:**
+    
+    - The player may choose to grind [[Old World Relics]], golden ash, and mineral stones into fields or into gruels.
+        
+    - Short-term: food riots subside, yields spike, some regions survive that would otherwise fall.
+        
+    - Long-term: relics vanish from the tech tree, shrines are destroyed, Fallout risk increases, and key sites for future Ages are lost.
+        
+5. **The Choosing of Seeds:**
+    
+    - As collapse deepens, the player must decide which proto-communities and fledgling Conclaves receive the last, most stable caches of food and knowledge.
+        
+    - These decisions determine:
+        
+        - Which [[Agromagical Enclaves]] emerge.
+            
+        - Which trade/faith/militant Enclaves rise.
+            
+        - Their starting Wound Resonance and doctrines in the [[Age of Renewal]].
+            
+6. **Transition to Renewal:**
+    
+    - At Age’s end, population is recalculated. Many tiles become dead cultures or haunted ruins.
+        
+    - Survivors crystallize into formal Enclaves with distinct ideologies:
+        
+        - **Seedkeepers:** Prioritize crop diversity, rotation, and soil health.
+            
+        - **Ash Priests:** Sacralize relic-burning and ash rituals.
+            
+        - **Caravan Lords:** Treat food as leverage and weapon.
+            
+
+The **severity** of the famine (how high the world’s “Ash Ledger” climbed, how many regions turned sterile) shapes:
+
+- The number of survivors
+    
+- The rigidity or openness of emergent Enclaves
+    
+- The starting conditions and narrative mood of the [[Age of Renewal]]
+    
+
+---
+
+## Themes and Legacy
+
+The Inescapable Hunger, later canonized as the **Auric Peach Famine**, becomes one of the great moral and practical parables of Arcanoria:
+
+- **On miracles:**  
+    No single gift, however wondrous, can sustain a world if it replaces understanding.
+    
+- **On land:**  
+    Fields are instruments, not mines. They can be overplayed to silence.
+    
+- **On history:**  
+    Every Relic burned to feed a crisis is a song that can never be sung again.
+    
+
+In later Ages, whenever a ruler proposes relying on one crop, one resource, or one god-touched artifact to secure plenty, there is always someone old enough—or learned enough—to ask:
+
+> “Have you forgotten the peaches?”
+
+Below is an updated, more agronomically grounded version of the Inescapable Hunger with **golden ash as Arcanoria’s potash analogue**, and then a clear list of what was changed and _why_ it deepens realism and immersion.
+
+---
+
+## Golden Ash as Potash
+
+In Arcanoria, **golden ash**—the residue from burning fallen golden trees and ornamented Auric hardwoods—is effectively the setting’s version of **potash**:
+
+- It is rich in **“auric salts”** (a magicalized stand-in for potassium salts), plus trace minerals.
+    
+- In **small, measured doses**, it:
+    
+    - Raises soil fertility in poor, acidic fields
+        
+    - Improves fruit quality (more peaches reach the pink or golden state)
+        
+    - Helps stabilize yields on otherwise exhausted ground
+        
+- In **heavy, repeated applications**, especially without crop rotation:
+    
+    - Soil pH shifts too far, locking out other nutrients
+        
+    - Structure degrades; topsoil becomes crusted and prone to erosion
+        
+    - Non-peach species struggle to germinate or compete
+        
+    - Long-term fertility _declines_ even as harvests briefly spike
+        
+
+So golden ash is not innately “bad”; it is _exactly_ like historical potash: an extremely useful soil amendment that becomes harmful when misunderstood and overused.
+
+---
+
+## Updated Crisis Logic with Real-World Parallels
+
+## 1. Monoculture and Over-Reliance – Auric Peaches as “Arcanorian Potatoes”
+
+The **Auric peach** is now strongly modeled on real monocrop histories (e.g., Irish potato dependence, maize dependence without dietary complementation):
+
+- **Single staple dominance:**
+    
+    - In the Age of Desolation, the Auric peach outcompetes everything else by survival metrics:
+        
+        - Fast growth in thin, ash-laden soils
+            
+        - High calorie yield per unit land
+            
+        - Relative resilience to erratic rainfall
+            
+    - Communities rationally replant more peaches and abandon “less efficient” grains and roots.
+        
+- **Hidden fragility:**
+    
+    - As in real monocultures, the danger is not obvious at first. Year after year, the “miracle crop” works, so all local knowledge, rituals, and land use converge around it.
+        
+    - Once enough land has been converted to orchards, _any_ stressor—declining soil nutrients, subtle diseases, or weather shifts—hits the entire food system at once.
+        
+
+In other words, Auric peaches are the Arcanorian version of an over-relied-upon staple: potatoes in 19th-century Ireland, rice in some historical Asian famines, or maize in diets lacking complementary foods.
+
+---
+
+## 2. Nutritional Deficiency – Peach Sickness as Composite Micronutrient Failure
+
+Previously, the Peach Sickness was described in broader “magical scurvy” terms. Now it is more tightly aligned with **multi-micronutrient deficiency**:
+
+- The Auric peach is:
+    
+    - **Rich in simple sugars and some “surface harmonics”** (energy, a bit of magical Resonance)
+        
+    - **Poor in “deep earth-salts”** (real-world analogue to minerals and vitamins from legumes, leafy greens, and diverse crops)
+        
+- Long-term, peach-dominant diets produce:
+    
+    - Scurvy-like symptoms (bleeding gums, poor wound healing)
+        
+    - Rickets/osteoporosis-like “ashbone” (fragile bones, deformities)
+        
+    - General immune weakness and fatigue
+        
+
+Realism mirror:
+
+- Historically, civilizations dependent on a single staple (e.g., polished rice) saw diseases like beriberi, pellagra, or scurvy not because they lacked _food_, but because they lacked _diversity_.
+    
+- In Arcanoria, _Peach Sickness_ is that same principle in magical language: full bellies, structurally starving bodies.
+    
+
+---
+
+## 3. Soil Management – Golden Ash (Potash), Searstone (Sulfur), Phosflare (Phosphorus)
+
+We now model soil chemistry more closely on real-world NPK and pH dynamics, then express it through Arcanorian terms.
+
+- **Golden ash (Arcanorian potash):**
+    
+    - Provides potassium-like “auric salts” that boost flowering and fruiting (more and better peaches).
+        
+    - Moderately neutralizes overly acidic soils left by [[Vibrational Fallout]].
+        
+    - Over-application:
+        
+        - Raises pH too high → micronutrient lockout
+            
+        - Disrupts natural soil micro-life → structure collapse
+            
+        - Encourages peach dominance over other species, deepening monoculture
+            
+- **Searstone (sulfur analogue):**
+    
+    - Small additions help reclaim alkaline or “over-ashed” zones by lowering pH slightly.
+        
+    - Overuse re-acidifies ground, stressing root systems and killing beneficial organisms.
+        
+- **Phosflare (phosphorus analogue):**
+    
+    - Stimulates early root development and fruit set.
+        
+    - Overuse:
+        
+        - Causes nutrient imbalances (luxury consumption by peaches, starvation for other plants)
+            
+        - Leads to runoff into waterways, killing aquatic and riparian life (Arcanorian eutrophication)
+            
+
+Players and NPCs _initially_ treat all three as “philosopher’s stones”—pure miracle inputs poured on until the field stops responding—exactly echoing real-world over-fertilization and “more must be better” thinking.
+
+---
+
+## 4. Erosion and Land Collapse – Dust-Bowl Logic in a Golden Ash World
+
+To mirror events like the Dust Bowl and over-plowed prairies:
+
+- As old forests and golden groves are felled for fuel and ash, **root networks that once held soil vanish**.
+    
+- Continuous peach orchards with shallow root systems:
+    
+    - Draw heavily on upper soil nutrients
+        
+    - Do not stabilize deep layers against storm and wind
+        
+- When golden ash crusts the surface (from over-burning), rain:
+    
+    - Either runs off quickly (no infiltration), carrying ash and topsoil away
+        
+    - Or pools, forming stagnant, saline patches.
+        
+
+The visual is Arcanoria’s version of dust storms and gullying:
+
+- Valleys where ash and topsoil have blown off, exposing sterile subsoil.
+    
+- Golden “sand” dunes where fertile loam once was.
+    
+- Streams choked with mineral-rich silt and glinting ash.
+    
+
+This is how, by the famine’s climax, **even Auric peaches fail**: not by a single blight alone, but by a slowly murdered soil profile.
+
+---
+
+## 5. Agromage Conclaves – Crop Rotation, Fallow, and Legumes as “Magic”
+
+To ground the solution in realistic agronomy while keeping a tinge of magic:
+
+- **Crop Rotation:**  
+    Agromage Conclaves rediscover patterns like:
+    
+    - Auric peaches → nitrogen-fixing “earth-beans” → grains/greens → fallow  
+        This mirrors historical rotations (e.g., clover/legume rotations in Europe) but is expressed as “rotating the chords of the field.”
+        
+- **Fallow and Rest:**  
+    Periodic rest years allow:
+    
+    - Organic matter to rebuild
+        
+    - Microbial and fungal “choirs” (mycelium, bacteria) to re-establish  
+        This is spoken of as “letting the land breathe between notes.”
+        
+- **Legumes and deep-rooters:**  
+    Specific crops are recognized as “soil-healers”:
+    
+    - Root legumes bring “sky-breath” (nitrogen) back into the earth.
+        
+    - Deep-rooted herbs fracture hardpan layers and draw up deep minerals.
+        
+
+These are exactly the scientific mechanisms behind:
+
+- Historical yield improvements from legume rotation
+    
+- Recovery of exhausted land after rest
+    
+- Stabilization of yields and health after introducing diverse plantings
+    
+
+But in Arcanoria, the Conclaves describe it as **listening to the lower harmonics of the [[Leylines]]** and “teaching fields to sing more than one note.”
+
+Golden ash and philosopher-stones remain useful—but only in _tiny measured doses_ set by these Conclaves, echoing real-world agronomy where potash and fertilizers are valuable when guided by knowledge, not desperation.
+
+---
+
+## Specific Changes and How They Increase Immersion
+
+Here are the concrete adjustments made and why they heighten realism and immersion:
+
+1. **Golden ash explicitly reframed as potash analogue**
+    
+    - **Change:** Golden ash now behaves like wood ash/potash: highly beneficial in moderation, harmful in excess, directly tied to potassium-like fertility.
+        
+    - **Why it helps:** Players familiar with real agriculture feel an intuitive “click” when they recognize wood ash behavior, and even those who are not subconsciously sense a consistent rule system beneath the magic.
+        
+2. **Auric peach positioned as a realistic monocrop staple**
+    
+    - **Change:** The peach is no longer just “magic fruit”; it is functionally the Arcanorian potato/maize/rice—high-yield, resilient, and therefore dangerously over-relied upon.
+        
+    - **Why it helps:** This anchors the famine in recognizable patterns: overdependence on a single miracle crop is a historically documented trap, which makes the crisis feel plausible and inevitable rather than arbitrarily cruel.
+        
+3. **Peach Sickness tied to realistic micronutrient deficiency**
+    
+    - **Change:** Symptoms now map more clearly onto vitamin/mineral deficiency (scurvy, rickets, osteomalacia equivalents), not vague magical illness.
+        
+    - **Why it helps:** The body-horror of people being “full but hollow” now mirrors documented historical diseases, giving the fantasy illness weight and coherence.
+        
+4. **Soil chemistry triad: golden ash (K), Searstone (S), Phosflare (P)**
+    
+    - **Change:** Each substance now corresponds to a real plant nutrient and real misuse patterns (pH mismanagement, runoff, imbalances).
+        
+    - **Why it helps:** The crisis reads like a logical consequence of over-fertilization and misunderstanding of NPK dynamics, which grounds the fantasy in believable cause-effect chains.
+        
+5. **Erosion and landscape collapse modeled on Dust-Bowl logic**
+    
+    - **Change:** Clearing golden groves and continuous shallow-root orchards drives erosion and ash storms, mimicking historical topsoil loss.
+        
+    - **Why it helps:** The land’s visual ruin now matches how environments actually deteriorate under monocrop and deforestation pressure, making the Age of Desolation’s vistas feel like the end state of understandable mismanagement.
+        
+6. **Agromage Conclaves = codified crop science wearing magical language**
+    
+    - **Change:** Their “discoveries” are essentially crop rotation, fallow cycles, and legume integration, wrapped in the language of Resonance and [[Frequency Harmonics]].
+        
+    - **Why it helps:** This preserves Arcanoria’s identity (magic-as-music) while making the solution feel like earned, empirical knowledge rather than a deus-ex-machina spell. It sells the idea that “the true philosopher’s stone is understanding.”
+        
+7. **Miracles with dosage, not absolutes**
+    
+    - **Change:** Golden ash, Searstone, and Phosflare are not inherently cursed or blessed; their effect depends on amount, timing, and context—exactly like real agricultural inputs.
+        
+    - **Why it helps:** This nuance avoids a simplistic “magic bad/Relics bad” moral and instead models the real-world tension of tools that can either feed or poison, depending on wisdom.
+        
+8. **Crisis shape mirrors documented famines**
+    
+    - **Change:** The progression now resembles real famines:
+        
+        - Reliance on a single efficient staple
+            
+        - Hidden dietary gaps
+            
+        - Soil and ecosystem overuse
+            
+        - A tipping point where both land and bodies fail
+            
+    - **Why it helps:** Players can sense that this is how a famine _would_ unfold in a real post-apocalyptic setting, which makes the Age Crisis feel like a natural extension of the world rather than a scripted event.
+        
+
+All of this keeps the **tinge of magic**—leyline influence, subtle Resonance, golden hues as a visual language of nutrient and magic quality—while ensuring that, underneath, the crisis would make perfect sense even in a non-magical simulation.
+
+If desired, the next pass can focus on **concrete in-game events** that explicitly teach these lessons (e.g., an early event where a wise elder urges “thin the ash” and is ignored, or a mid-crisis experiment field that accidentally proves rotation works).
 
 # The Infinite Void
 
@@ -20605,7 +23041,9 @@ Anything modifying [[Resonance]] primarily using [[Resonance Field]]s.
 		
 		- [[Voice Projection Arts]] ([[Resonance]] + [[Luminance]] + [[Crystal]]) — Niche of [[Own Voice]] amplification or modulation through [[Sky Glass]] [[Resonance]]; the singer's frequency is captured by a [[Sky Glass]] resonator, then broadcast as a coherent beam of sound that can be heard at impossible distances without degradation.
 		
-		- [[Silence Arts]] ([[Resonance]] + [[Void]]) — Niche of nullifying sound for stealth through destructive interference; the practitioner creates an anti-phase [[Resonance]] that cancels all sound waves within a radius, producing absolute silence on a localized cuasi [[Topological Null]] field.
+		- [[Silence Arts]] ([[Resonance]] + [[Void]]) — Niche of nullifying sound for stealth through destructive interference; the practitioner creates an anti-phase [[Resonance]] that cancels all sound waves within a radius, producing absolute silence on a localized cuasi [[Topological Null]] field
+		
+		- [[Distortion Arts]] ([[Resonance]] + [[Void]] + [[Flux]]) — Niche of modifying and distortion the soundwaves similar to [[Silence Arts]] but meant to add noise, [[Dissonance]], and other similar effects to make the sounds jagged over a [[Resonance Field]] mirroring distortion pedals of electrical guitars to achieve [[Dissonance]] charged spells through tension.
 		
 	- [[Dimensional Arts]] ([[Resonance]] + [[Flux]] + [[Crystal]] + [[Void]] + [[Strand]]) — Subset of highly complex [[Soliton]] colapse in reality warping dimensions or expansion of pocket domains through temporal-resonant folding; the [[Spellweaver]]'s [[Resonance Field]] creates a bounded [[Time Bubble]] where its behavior flows independently of the outside world.
 		
@@ -20637,7 +23075,7 @@ Anything modifying [[Luminance]] through revealing or canceling information.
 		
 		- [[Advanced Lensing Arts]] ([[Luminance]] + [[Crystal]] + [[Flux]]) — Niche of creating temporary lenses from crystallized light; the caster solidifies a beam into a transparent [[Crystal]] structure that focuses additional light with perfect precision, then dissolves when no longer needed.
 		
-	- [[Prismatic Arts]] ([[Luminance]] + [[Crystal]]) — Subset of rays, lasers, and color manipulation through frequency splitting; the practitioner separates white light into its component frequencies, then uses [[Crystal]] structures to isolate and amplify individual wavelengths.
+	- [[Prismatic Arts]] ([[Luminance]] + [[Crystal]]) — Subset of rays, lasers, and color manipulation through frequency splitting; the practitioner separates white light into its component frequencies, then uses [[Crystal]] structures to isolate and amplify individual wavelengths as physical matter based on the structure of the [[Luminance]] pattern.
 		
 		- [[Beam Arts]] ([[Luminance]] + [[Cindergale]] + [[Crystal]]) — Niche of concentrated light beams with a degree of kinetic impact; the [[Spellweaver]]'s trail of light carries momentum, creating beams that not only illuminate but have physical effects that incinerate, dispel, push, cut, or pierce targets through sustained focus.
 		
@@ -21073,6 +23511,8 @@ The [[Auric Aria]] permits these [[Alien Star]]s to exist only as long as they d
 
 # The Truth of Arcanoria
 
+_"Before the world you knew, there was another." [[Auric Aria]] before narrating the [[True Mythos of Creation]]._
+
 The [[Auric Aria]] narrates the [[True Mythos of Creation]] after the end of the [[Second Reset]] when the [[Cataclysmic Aftermath]] of the [[Great Fracture]] ends [[Civilization]].
 
 Having access to [[The Truth of Arcanoria]] unlocks a lot of content through the game, akin to entering Hard mode in Terraria. Knowing the [[The Truth of Arcanoria]] unlocks:
@@ -21082,12 +23522,14 @@ Having access to [[The Truth of Arcanoria]] unlocks a lot of content through the
  - The [[Sonata]] of the Pale [[Moon]], which is the entire storyline and resolution of [[Selenea]], and the origin story of [[Lacrimosa]].
  - Many interactions with [[Lacrimosa]] during [[The Hollowing]] and the ability to change the endings of [[The Hollowing]] through the [[Alternate Hollowing]] or [[The Mass Suicide of Lacrimosa]] instead of the [[Law of Relics]].
  - Several storylines previously unknown that require content of the [[True Mythos of Creation]].
+ - It becomes possible to slay any of the [[Original Eight]] awarding their [[Slayer Magnum Opus]] for vanquishing the primordial demons of [[Arcanoria]].
  - Access to [[Fanatical]] government types.
  - Access to creating [[Crisis Wonders]], not just inheriting them.
  - Learning the origin of [[Crisis Wonders]] and having their own [[Mega Construction Wonders]] turn into [[Crisis Wonders]] for the next [[Civilization Reset]].
  - Interacting with the [[Auric Aria]] and determining her involvement in [[Civilization]]. Also unlocks the [[Sonata]] of the Golden Sovereign which teaches the [[Old Testament]] and the [[First Reset]].
  - The full potential of the [[Waltz Pillar]] and [[Regalia Pillar]]s for traditions, and societal revolutions, empires, and colonization. These are particularly important during all of the three [[Age of Humanity]].
  - The full potential of the [[Aureus Pillar]] through the interface of the [[Auric Aria]] and even allows for her incarnation into flesh like the [[Eighth Cycle]] to provide miracles and [[Auric Angels]].
+ - Unlocks all of the R-Rated stories if the story patch is installed and enabled, with the unvarnished gruesome, and sometimes cruel, truth of history in [[Ballad]]s.
  - The full potential of the [[Chorus Pillar]] communion and invoking [[Outer God]]s in [[Flesh-Binding Ritual]]s after [[The Hollowing]]. Having an alternative to the incarnation of [[Outer God]]s instead of the [[Auric Aria]].
  - The [[Divine Reset]] menu for restarting civilization and the upgrade tree.
  - Interactions as a major [[Civilization]] for the first [[Ages]].
@@ -21133,7 +23575,7 @@ This will conclude her specific [[Sonata]] and will allow to unlock the [[Sonata
 
 The start of this [[Ballad]] begins with [[The Truth of Arcanoria]], after the confession of the [[Auric Aria]], revealing the existence of [[Selenea]] within the [[Moon]], and her plea to save [[Medea]]. It consists of 3 movements.
 
-The first part requires entering the [[Age of Hymns]], and saving the kingdom of the [[Silver Blood]]s. After [[Medea]] story ends without tragedy, [[Civilization]] will be prompted to using concentrated [[Lunehymn]] to connect first with [[Selenea]] before [[Lacrimosa]] manifests. This will be the first interaction with [[Selenea]] through vivid dreams and will allow [[Civilization]] to found a Selenic Religion aligned with the [[Chorus Pillar]].  
+The first part requires entering the [[Age of Hymns]], and saving the kingdom of the [[Silver Blood]]s. After [[Medea]] story ends without tragedy, [[Civilization]] will be prompted to using concentrated [[Lunehymn]] to connect first with [[Selenea]] before [[Lacrimosa]] manifests. This will be the first interaction with [[Selenea]] through vivid dreams and will allow [[Civilization]] to found a Selenic [[Religion]] aligned with the [[Chorus Pillar]].  
 The [[Age Crisis]] of the [[Age of Hymns]] requires salvaging the lineage of the [[Silver Blood]] and fulfilling their subsequent [[Ballad]].
 
 The next step is uncovering the memory field of [[Fated Flower]]s and their nature in the [[Memory Field]] of the [[First Weaving of Life]]. [[Civilization]] has to witness the story of [[Selenea]] and her collaboration efforts. This is the first time [[Selenea]] and her personality appears to [[Civilization]].
@@ -21288,10 +23730,12 @@ The deliberate construction of this scene is meant to increase the emotional sta
 
 # The Ultimate Weapon
 
+_"God's Last Wish"_
+
 It requires the presence of [[Primal White Noise]] to manifest in reality and "activate" in something akin to a DEFCON level. It uses a master-key to trigger a feedback loop before the actual [[Divine Reset]]. This is the "reset" button that causes the [[First Reset]], the [[Second Reset]], and the Third Reset afterwards the master-key belongs to [[Civilization]] which is why the player can use [[Divine Reset]]s. [[Scorching Truth]]
 
 
-The phrasing of the wish is not a mistake—it is a **desperate, deliberate act of engineering** by petitioners who understood that no single, static fix could save humanity from recurring cosmic threats. By crafting the wish as an open‑ended command addressed *to* the Ultimate Weapon (the Hypermage), they built a self‑sustaining failsafe capable of iterating across infinite timelines. The “for you” construction transfers both agency and responsibility to the weapon, making it the perpetual guardian of a cycle that can reset whenever reality teeters on the brink.
+The phrasing of the wish is not a mistake—it is a **desperate, deliberate act of engineering** by petitioners who understood that no single, static fix could save humanity from recurring cosmic threats. By crafting the wish as an open‑ended command addressed *to* the Ultimate Weapon (the [[Hypermage]]), they built a self‑sustaining failsafe capable of iterating across infinite timelines. The “for you” construction transfers both agency and responsibility to the weapon, making it the perpetual guardian of a cycle that can reset whenever reality teeters on the brink.
 
 Below, I break down why this phrasing was necessary and how it solves the problem of “non‑omnipotent wishes.” It also offloads the amount of essence sacrifice it would take for 1 perfect timeline by instead distributing to give "one more chance" and instead of making the hypermage find the solution it just needs the hypermage to give one more chance across infinite potential attempts dividing the essence sacrifice by infinity so that it's doable despite being muddy.
  
@@ -21816,6 +24260,12 @@ _"Acting as the founder and sovereign of the kingdom, [[Medea]] was betrayed by 
 _"Following [[Medea]]'s assassination, the kingdom completely collapsed from the inside out. The noble families who survived—including the ancestors of characters like [[Cordelia]]—rebuilt their power on the ruins of [[Medea]]'s dream. Because the survivors were either complicit in the assassination or stood by while it happened, the remaining Silver Blood descendants became a fractured, marginalized people carrying the psychological residue of that original betrayal."_
 
 _"**That is the Core Irony!** The [[Silver Blood]]s thrived more in the [[Old Testament]] because the [[Auric Aria]]'s tyranny included a fiercely protective mandate to keep [[Selenea]]'s lineage safe as a form of personal penance. In the [[New Testament]], her non-intervention proved that without a god forcing humanity to tolerate them, human political corruption and betrayal were perfectly capable of destroying the [[Silver Blood]] kingdom all on their own."_
+
+### The Study of [[The Eternal Symphony]]
+
+[[The White-Touched Archivist]] points that if there is one true deity in the entire existence of [[Arcanoria]] and [[The Infinite Void]], it is not the [[Auric Aria]] nor any other [[Outer God]]. It is [[The Eternal Symphony]], and the only way to approach divinity is by studying every bar on the music score of existence. It's impossible to fully map out due to the vastness of it but learning each of its notes by reading a part of it is how to understand every single part of [[Consciousness]], and of existence by extension. It supersedes [[Primal White Noise]] and [[Coherence]] at once. That's the reason he dedicates to map out everything in [[The White-Haven Library]], for it is reading part of [[The Eternal Symphony]] the only true act of achieving divinity beyond divinity.
+
+Moreover, and for this very reason, [[The White-Touched Archivist]] despises heavily the [[Wolf Tone]] [[Institute]] because he says that they don't worship [[Primal White Noise]], nor the depths of existence. He only sees them as misguided cultists thinking of death as a concept and as a cult: _"You can't be part of everything by dissolving yourself into it, to truly understand the nature of existence you have to review each individual string of it, not try to dissolve into nothingness and then claim there is something you did. [[Primal White Noise]] is everything devoid of nothingness, including them, by dissolving into it you achieved nothing as it already contains the same blueprint of your entire existence. You only dragged isolated frequencies of this world by killing something that isn't possible to study anymore, actively harming the mapping of every note of [[The Eternal Symphony]] which is the true thing that may be called god as it is existence beyond existence itself. If you can name its behavior, it's an [[Outer God]], vast, yes, but close to a demiurge, not to the real 'all' encompassing of every single facet of existence, and claiming soteriology by dissolution is nothing but giving the true study of [[Primal White Noise]] and [[The White-Haven Library]] a bad name in bad faith of a delusional suicidal ideation that attempts to bring down anything beautiful of this life with them."_
 
 # Third Cycle
 

@@ -32,6 +32,8 @@ The Seven Virtuosi are:
 
  "If the world won't be kind, we will have to build our own." - [[Aurelian]] to [[Daedalus]]
 
+"Meaning is applied human devotion. And to be devoid of devotion is to be living without a reason to live." - [[Aurelian]] famous recorded phrase that [[Daedalus]] also tells a young [[Luminaire]] who eventually teaches the same phrase to [[Amadea]].
+
  "Motivation and Growth Happens in Silence. Sometimes, the best thing you can do for yourself is to stop listening to the noise of the world and focus on your own journey. Not everyone will understand your dreams and that's okay. What matters is that you keep moving forward, and find your own path, even if it's slowly. Growth happens in silence when the self grows quiet enough to understand its own melody. Believe in yourself, because your future depends on the choices you make." - [[Aurelian]] the [[Mythical Virtuoso]] of [[Resonance]] to [[Daedalus]]
 
  "A man not born into gold who learned to hear the world's song from silence, and in doing so became both its golden thread, and my dearest friend." - [[Daedalus]] the [[Mythical Virtuoso]] of [[Crystal]] in memory of [[Aurelian]].
@@ -47,6 +49,6 @@ The Seven Virtuosi are:
 - Driven by the tragedy of losing the greatest price [[Amadea]] wanted and to respond for [[Iridia]], [[Amadea]] becomes the epicenter of the resistance.
 - [[Cordelia]] and [[Orphael]] both decide to embrace [[The Hollowing]] as the devastation of the early civilizations and [[Enclave]]s takes its toll in [[Humanity]].
 - [[Sephira]] is driven to despair by [[The Hollowing]] of [[Orphael]] but ultimately chooses to continue fighting as the blazing heart of the resistance, joining forces with [[Amadea]] and [[Iridia]].
-- [[Sephira]] and [[Amadea]] die of old age on the [[Age Transition]]. However, they create the seeds for the rebellion and continuation of [[Humanity]] in the [[Age of Legends]].
+- [[Sephira]] and [[Amadea]] die of old age on the early stages of [[Ages]] III after vanquishing [[Pagiel]]. However, they create the seeds for the rebellion and continuation of [[Humanity]] in the [[Age of Legends]].
 - [[Cordelia]], [[Orphael]], and [[Luminaire]] become bodily immortal due to [[Lacrimosa]]'s [[Lux Aeterna]] tether, and become major actors of the [[Purest of Love]] during the [[World Event]] of [[The Hollowing]].
 - [[Cordelia]], [[Orphael]], and [[Luminaire]] merge alongside [[Lacrimosa]] and every other hollowed soul into the [[Law of Relics]] on the end of [[Ages]] III.

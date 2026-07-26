@@ -7,7 +7,7 @@ The [[Mythical Virtuoso]] of [[Crystal]] of the Seven Virtuosi.
 [[Primary Instrument]]: [[Auric Bell Staff]]
 [[Armament]]: Golden Arched Khopesh
 [[Soul Leitmotif]]: [[Crystal]]
-[[Ornament]]s: [[Resonance]], [[Strand]]
+[[Ornament]]s: [[Strand]], [[Resonance]]
 
 [[Motif Awakening]] Wish: 
 
@@ -45,6 +45,7 @@ _"You have to expect great things from yourself before you can achieve them. Use
 
 _"I've come to realize through impossible hardship that no one is separate from the reality they want. You're the reason it exists in the first place."_
 
+_"A slave to meaning holds a whip just so he can acts like he owns a slave bought by meaning. The truth is we all are slaves to something, and who "isn't" is crushed by the [[Weight of Purpose]] and by those who have enslaved themselves to one to make history. Truly a tragedy where only the one free of nothing is the one most indebted."_
 
 
 

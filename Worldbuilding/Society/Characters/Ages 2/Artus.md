@@ -17,12 +17,13 @@ The first of the [[Saber-Knight]]s and a key figure for [[Amadea]].
 - [[Charismatic]] -> [[Auspicious Zephyr]] ([[Cindergale]])
 
 [[Legend Opus]]:
-- Sir [[Artus]], "The Greatest Knight" of [[Iridia]] ([[Magnum Opus]])
+- Sir [[Artus]] Marshal of [[Iridia]], "The Greatest Knight" ([[Magnum Opus]])
+- Prodigy Slayer of The Seven Hands [[Ascendant]] [[Anxithor]] ([[Slayer Magnum Opus]])
 - Keeper of the Violet Dream ([[Legend Opus]])
 - Father of the [[Artusian Knight]]s ([[Legend Opus]])
+- Bane of the Undefeated Lionheart ([[Legend Opus]])
 - First [[Saber-Knight]] and Master Duelist ([[Legend Opus]])
 - The Certain Vanquisher of [[Signath]]s ([[Legend Opus]])
-- Slayer of an [[Ascendant]] [[Anxithor]] ([[Slayer Magnum Opus]])
 
 ### Character Arc
 

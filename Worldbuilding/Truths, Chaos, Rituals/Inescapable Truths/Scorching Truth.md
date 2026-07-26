@@ -1,4 +1,6 @@
-Inescapable truth of an impossible enigma, memetic and hazardous information that is embed with strong magical influence, it is searing of the deepest fear come true. The largest of these truths is [[The Truth of Arcanoria]].
+Inescapable truth of an impossible enigma, memetic and hazardous information that is embed with strong magical influence, it is searing of the deepest fear come true. They change in color based on how "hot" the information is, mirroring the star colors and types, the coolest are red (M-Type Stars), the hottest are deep blue and purple (O-Type Stars).
+
+The largest of these truths is [[The Truth of Arcanoria]].
 
 List of [[Scorching Truth]]s:
 

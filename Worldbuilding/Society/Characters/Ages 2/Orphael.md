@@ -12,9 +12,9 @@ The [[Mythical Virtuoso]] of [[Flux]] of the Seven Virtuosi.
 [[Motif Awakening]] Wish: _"I wish to feel in a way that creates meaning, to stop running from the shame and desire I've always carried."_
 
 [[Legend Trait]]s:
-- [[Lustful]] -> [[Romantic Hedonist]] ([[Flux]])
+- [[Lustful]] -> [[Self-Indulgent Slave]] ([[Flux]])
 - [[Empathetic]] -> [[People Pleaser]] ([[Resonance]])
-- [[Self-Deceiving]] -> ([[Luminance]])
+- [[Self-Deceiving]] -> [[Romantic Hedonist]] ([[Luminance]])
 
 [[Legend Opus]]:
 - The [[Flux]] [[Mythical Virtuoso]] of the Seven Virtuosi ([[Magnum Opus]])
