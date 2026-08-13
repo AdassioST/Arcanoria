@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -110,7 +112,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Amadea"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -136,7 +138,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Amadea"
+              "title": "Backlinks"
             }
           },
           {
@@ -173,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.20001220703125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,43 +195,44 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Worldbuilding/Gateway To Genesis.md",
-    "Sonata of the Violet Empress/Amadea, Sonata of the Violet Empress.md",
-    "Sonata of the Violet Empress/Amadea.md",
-    "merged/Derivative Ideas/Notas Diplomado.md",
-    "Worldbuilding/Events/Age Related/Ages 0/A Burrowed Name.md",
-    "Worldbuilding/Society/Characters/Ages 2/Artus.md",
-    "Blighted in Luminance.md",
-    "Worldbuilding/World Environment/Atonalis/Original Eight/Eirenesis Anakriach.md",
-    "merged/Worldbuilding.md",
-    "Elaine.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 3/Age of the False Messiah.md",
-    "Amadea-14.png",
-    "Worldbuilding/World Environment/Landmarks/Eclipsed Waterfalls.md",
-    "Worldbuilding/Origin of Magic/The One Symphony/Auric Heptacode.md",
-    "Worldbuilding/Origin of Magic/Magical Resources/Aetherlight.md",
-    "Worldbuilding/Origin of Magic/Magical Resources/Forsaken Flower.md",
     "Worldbuilding/Mythology/Deities/Auric Aria.md",
-    "Worldbuilding/Origin of Magic/Magical Resources/Lunehymn.md",
-    "Gateway To Genesis-1.png",
+    "Sonata of the Violet Empress/Amadea.md",
+    "Sonata of the Violet Empress/Amadea, Sonata of the Violet Empress.md",
     "Amadea Traducción Español.md",
-    "Worldbuilding/Events/Achievement.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Outer God Rituals/Purest of Love.md",
-    "Worldbuilding/Society/Characters/Ages 1/Aurelian.md",
-    "Worldbuilding/Society/Characters/Mythical Virtuoso.md",
-    "Worldbuilding/Society/Characters/Ages 1/Daedalus.md",
-    "Worldbuilding/Society/Societal Resources/Foundation/Chorus Pillar.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/Scorching Truth.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/The Auric Aria is a Type G Star.md",
+    "Worldbuilding/Society/Characters/Ages 2/Cordelia.md",
+    "Worldbuilding/Society/Tools & Inventions/Vow Mark.md",
+    "Worldbuilding/Society/Stellar Legacy/Legend.md",
+    "Worldbuilding/Society/Stellar Legacy/Legend Trait.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Outer God Rituals/Flesh-Binding Ritual.md",
+    "Worldbuilding/Mythology/Deities/Outer God.md",
+    "Amadea-16.png",
+    "Worldbuilding/World Environment/Bestiary/Eleos Bloom.md",
+    "Worldbuilding/World Environment/Bestiary/Pure Light.md",
+    "Worldbuilding/Society/Characters/Ages 5/Cadmus Tacet.md",
+    "Worldbuilding/Rise & Fall, Crisis/Arcanoria.md",
+    "Coherence-Binding Tissue.md",
+    "Worldbuilding/Origin of Magic/Spellweaving/Spellweaving.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Forbidden Objects/EC.md",
+    "Worldbuilding/World Environment/Bestiary/Auric Structure.md",
+    "Worldbuilding/Game Systems/Combat System.md",
+    "Worldbuilding/Society/Characters/Ages 2/Orphael.md",
+    "Worldbuilding/Society/Characters/Ages 2/Luminaire.md",
+    "Sonata of the Violet Empress/Lazarus.md",
+    "Miracle Guardian Angel.md",
+    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 2/Age of Glyphs.md",
+    "Sonata of the Violet Empress/R Stories/LIT Rpg Stories.md",
+    "Eleos Bloom.png",
+    "Amadea-15.png",
+    "Worldbuilding/World Environment/Civilizations/Cities",
+    "Ligeia.png",
+    "Amadea-14.png",
+    "Amadea-15.png",
+    "Gateway To Genesis-1.png",
     "Elaine.png",
     "Elaine 1.png",
     "Amadea-13.png",
-    "The Imperium Obsessus.png",
-    "Amadea-12.png",
-    "Amadea-11.png",
-    "Amadea-10.png",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
     "Worldbuilding/Mythology/Deific Moodboard.canvas",
-    "Amadea-8.png",
     "Images/Deities/Auric Aria/Old Design/Auric Aria Sacrifice.mp4",
     "Images/Deities/Auric Aria/Old Design/Auric Aria.mp4",
     "Images/Deities/Auric Aria/References",
@@ -239,7 +242,6 @@
     "Sonata of the Violet Empress",
     "Worldbuilding/World Environment/Atonalis/Primal Discordia",
     "Worldbuilding/World Environment/Atonalis/Ascendant",
-    "Worldbuilding/World Environment/Atonalis/Fracted",
     "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas"
   ]
 }

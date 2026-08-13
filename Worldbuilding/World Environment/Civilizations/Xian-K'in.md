@@ -1,0 +1,21 @@
+
+This is the third classical [[Civilization]] of [[Arcanoria]] representing the [[Regalia Pillar]], it was founded by the White Chested Fox, Sak Tahn Waax, during [[Ages]] I, and it holds the great city of [[Babmer K'ahn-Jing]], one of the most prosperous ports with golden canals in sync with [[Cosmic Motion]].
+
+The city is a combination of Mayan/Chinese/Egypt/Babylonia based on the study of core [[Civic]]s.
+
+- Ideograms of glyphs as language instead of an alphabet to express ideas (Chinese Characters/Hieroglyphs)
+- The presence of [[Cosmic Motion]] scholars and the division of the [[Lunar Calendar]] plus astrology to determine the validity of the people in power.
+- They have a hierarchy based on knowledge as a technocracy with the highest seat being the [[K'ahn]], after the mythical founder and astrologist of Sak Tahn.
+- Zenith Exams as the imperial examination exam that dictates the proficiency of people, while they don't have slaves being a menial worker is essentially a slave job, the emancipation comes only from the mind, although most lower classes are inevitably excluded from higher forms of education and end up being slaves due to their "lack of knowledge" in a flawed meritocracy.
+- Glyphic aqueducts and the use of highly advanced mathematics for having control of water, this is the direct inspiration for [[Iridia]]'s own waterworks systems and only gets outpaced whenever [[Xian-K'in]] falls into stagnation.
+
+[[Major Settlement]]s: [[Babmer K'ahn-Jing]] ([[Capital]]), Lol-Ha' (The Lotus Water City), Akkad-Tzak (Hanging Gardens), Uruxian, Tzolkhem, and Ahnkzhou.
+
+### Additional facts
+- [[K'ahn]] is a combination of K'an meaning gold in mayan, and a play on Khan.
+- Alongside [[Hollowmarch]] in [[Ages]] II they are allies as both are aligned to [[Aureus Pillar]] [[Regalia Pillar]], but during [[Ages]] V they side with [[Iridia]] on the war as they become [[Chorus Pillar]] [[Regalia Pillar]].
+- The [[Great Plague]] is what cements the [[Regalia Pillar]] of [[Xian-K'in]] after realizing that power can't be free or in the moths after having a heavy toll including the fall of Aberchord. It hit both [[Xian-K'in]] and [[Aeolion]] very deeply, but [[Xian-K'in]] managed to make it with less losses due to the [[Atrocity]] they committed redacting names out of the [[Auric Order]] and similar tactics to control the [[Great Plague]].
+- The name [[Babmer K'ahn-Jing]] is the scholar name of the city, regular people name it Kahnjing, and foreigners tend to simplify the name to [[Kanjing]]. This division on the missing h is the core identifier of people who are not from [[Xian-K'in]]. It means Bab (Door from Mesopotamian, Mer from Egypt for Sea, K'ahn from mayan gold and its original ruler, Jing from Chinese of capital city translating to the Golden Door of the Sea referring to the [[Trade Nexus]] it is and one of the greatest ports in [[Arcanoria]] with gilded canals.
+- The commoners of the sovereignty, even when speaking quickly or informally, would naturally retain the breathy "h" sound because it is baked into their linguistic DNA, echoing the Tahn of their founder. It shows that while they drop the pretentious scholarly prefixes, they still belong to the culture. Kanjing (The Foreigner's Blunder): Traders from neighboring realms, or survivors from Aeolion, would completely miss the subtle glottal breath of the "h." They would flatten the word into a hard, blunt Kanjing. This gives the Astrologer-Prefects an immediate, phonetic way to identify an outsider the second they open their mouth. This is something Lenore says to Amadea when she goes to the city, she should at minimum out effort in the h to be respected
+- Alongside the Realm of [[Aeolion]], which is the birthplace of [[Amadea]] that collapses during the [[Great Plague]], [[Xian-K'in]] is also featured in the early parts of the novel and during the movement of The Shattering. It's [[Lenore]]'s study place, and it presents the first conflicts of [[Amadea]] with the aristocracy. She takes off from the port of [[Babmer K'ahn-Jing]] to reach the main continent of Movement 2.
+2. K'ahn as ruler title, Sak Tahn Waax is the first ruler ever and who establishes the golden port or K'ahn-Jing

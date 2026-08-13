@@ -63,6 +63,34 @@ _"I think the big problem with paradoxes is that your axioms, if left naive, let
 
 **On [[Lacrimosa]] and [[Selenea]]**
 
+**On Why She Invented Reproduction, Sexuality, and Hybridization**
+
+_"That's not hard to deduce, if I can't promise my creations eternal life, then the least I can do is give them a way to continue their legacy alongside another. So that some part of them may live into a future where they are not..."
+
+_"Plus... I made it rewarding, and a little fun! I wanted each of them to enjoy the gift of their own body, which I had so carefully engineered. And if they want to do it, they do it more. If they do it more, more life is born — and more importantly, more life is nurtured from the shared intimacy of two souls learning to trust each other, weaving in flesh the [[Echoing Bonds]] that even time cannot fully sever."_
+
+_"I think that's very poetic!"_
+
+_"And it ensured, at least in theory... that they would all have two parents to call home."_
+
+_"It didn't end up exactly as I imagined it would go. But still — I believe it's a good system worth fighting for, and a meaningful way to carve permanence out of the [[Inevitability of Death]]. Every so often it creates a beautiful ecology of love, connection, and defiance written in flesh and song against the score of time."
+
+_"And that, I think, is worth every imperfection."_
+
+**On Clothing and the Shame of Flesh**
+
+_"You know, I've always found your obsession with clothing so endlessly fascinating! It's just like your mathematics, it's cute and an inventive little language you created all on your own to express yourselves and add layers to your identity. I really do love seeing the colors, the tapestries, and the fabrics you weave to tell the world who you are. It shows such wonderful imagination!"_
+
+_"But... the shame. That part I'm still troubled by. Why do you wear them shamefully? I engineered your bodies using the most exquisite principles of [[Auric Geometry]] I had. I turned many shapes and thought it over and over until it was a [[Perfect Reflection]] of my [[Anthropomorphic Shape]]... 
+
+_"Why hide what was designed with such deliberate, agonizing care? When you avert your eyes from yourselves... is it because you see a deficiency in my work? Do you look at your own threads and see the [[Weight of Flaw]]?"
+
+_"Sorry... it's just that If the human form required a permanent cover to be considered decent, or whole, I would have woven it into your very vessel myself. I wouldn't have... I wouldn't have left a design flaw like that in my absolute hardest effort..."_
+
+_"No. Wait! Just look at me! I wear nothing but the cosmic dust and nebulae that happen to get caught in my gravity, and even then, this beautiful black dress is nothing more than incidental space weather. There is absolutely no flaw in the skin I gave you!"_
+
+_"So please, wear your beautiful clothes to sing your own melody to the world, but never wear them because you think the vessel I gave you is something you need to hide. You don't have to apologize for my masterpiece in [[Perfect Reflection]]."_
+
 **On the Number 37,044 and the Explanation of 3^3 x 4 x 7^3**
 
 _"I'm really glad you caught that! It isn't a coincidence!! Wait, sorry, give me a moment to regain my [[Composure]]."
@@ -90,6 +118,10 @@ _"I felt so — no. No, I still feel it. I feel... I feel helpless. And I know h
 _"And [[Selenea]] — she was the thing I was missing. I really loved her. She was never a rival but a mirror I could not look away from. And I — I knew what it would cost her. I really knew. And I still could not find the place inside myself where binding her was something I could choose not to do. I looked for that place. I looked hard. But if I had found it, we would not be having this conversation. None of you would exist."_
 
 _"And the worst part — the part I cannot make clean no matter how many [[Cycle]]s I turn it over — is that even now, even against the best of what I have built, I don't know who should carry the credit for giving life. I wove the geometry. I shaped every hollow shell that breathes in this world. But who should everyone remember? Who will history credit? The one who built the carcass, or the one who made its heart beat? I am not asking for forgiveness. I can't, and I don't deserve it. I am only asking whether you can understand the difference between a wrong you chose, and a wrong you could not find the edge of. Because I have looked for that edge since the [[Seventh Cycle]]. I don't know if I deserve to be crushed by the [[Weight of Purpose]]. I still can't answer if everything I did — everything I do — is meaningless."_
+
+**On the [[Auric Mythos of Creation]]**
+
+_"If only it was true... Everything about that Aria, from her boundless love to her perfect creation, to her loving gift to humanity and her flawless singing to stabilize life with a purpose is everything I wished and tried to be."_
 
 ### Character Details
 

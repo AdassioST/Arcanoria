@@ -82,7 +82,7 @@ _A [[Civilization]] that stands the test of time must be reborn from its own des
 - Determine the major spells of [[Mythical Virtuoso]] aside from [[Amadea]]'s. (First [[Time Bubble Arts]] with [[Cordelia]]) [[Eleos Arts]] founded by [[Orphael]].
 - Finish first chapters, add culture and map of where they are travelling. During  the [[The Golden Light in the Sky]] act put [[Mythical Virtuoso]] of [[Resonance]] as the legend of [[Hollowmarch]].
 - Establish which disciplines of the tessituras of [[Spellweaving]] they revolutionize.
-- Finish the mechanics of the [[Age of Glyphs]] and how the glyph circle of fifths uses the pentagram to write songs.
+- Finish the mechanics of the [[Age of Glyphs]] and how the glyph circle of fifths uses the pentagram to write songs. [[Eleos Bloom]]
 - Detail the [[Domestication Enclave]]s of the [[Age of Behemoths]].
 - Determine the mechanics of the [[Celestial Astrolabe]].
 - Finish the [[Legend Trait]]s. [[Original Eight]]
@@ -95,6 +95,12 @@ _A [[Civilization]] that stands the test of time must be reborn from its own des
 - Describe with smells scenery as it is the resource closest to memory. This is the reason why [[Amadea]] is able to recall the smell as the scattered memories before her mother died.
 - Explain [[Amadea]]'s psychology from what she has in her taste. "Tastes bitter, metallic, etc" to express interior of the character.
 - It has to evoke the feeling of "They made me feel I was there." especially for describing landscapes and when transitioning to major [[Landmark]]s or cities.
+- Hint at RHKH by the chorus Nordic society with Hebrew and the fight between them and [[Hollowmarch]]. Detail too how [[Formless Father]] and [[Looping Paradox]] are teased by the [[Chorus Pillar]] minorities that don't stand with [[Lacrimosa]].
+- Amadea and luminaire gaze at the lunar abyss and get the opus of survivors of the lunar abyss, they reach the section where the stars appear in the mirrored pools signaling the [[Outer God]]s.
+- Endless halls that watch your every step in the [[Lunar Abyss]].
+- "What made you so evil? Evil? Who told you I was evil? Is that what they think about me now? Hah, then I guess it must be true..." - Aurean Winds Colosseum champion.
+- Arsinoe related to [[Medea]] and [[Junius]] as one of the betrayers. Creon is the name of the ancient inheritor of the court that became the d'Acreon, family and then [[Cordelia]] direct lineage.
+- Althea character related to [[Amadea]]'s continent.
 
 ### Development Ideas
 

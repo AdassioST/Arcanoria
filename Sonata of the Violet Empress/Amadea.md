@@ -14,9 +14,9 @@ The [[Mythical Virtuoso]] of [[Void]] of the Seven Virtuosi.
 [[Motif Awakening]] Wish: _"I wish I had the power to transform all of this agonizing loss into anything that would, one day, make real the title of my greatest knight."_
 
 [[Legend Trait]]s:
-- [[Grief-Stricken]] -> [[Fatalistic Embracer]] -> [[Apex Trait]] in [[The Hollowing]] ([[Void]])
+- [[Grief-Stricken]] -> [[Fatalistic Embracer]] -> [[Singularity of True Love]] ([[Void]])
 - [[Manipulative]] -> [[Reality Bender]] -> [[World Shaping Maverick]] ([[Crystal]])
-- [[Reverent]] -> Evolve In Peaks ([[Luminance]])
+- [[Reverent]] -> [[Revelatory Martyr]] -> [[Consecrator of Terrestrial Skies]] ([[Luminance]])
 
 [[Legend Opus]]:
 - The [[Void]] [[Mythical Virtuoso]] of the Seven Virtuosi ([[Magnum Opus]])
@@ -37,37 +37,62 @@ The [[Mythical Virtuoso]] of [[Void]] of the Seven Virtuosi.
 
 - _"The past is the dark heavy foundation required to protect the future. Tragedies are never the end of the story. they're the raw [[Potential of Creation]] that fuels my [[Mastery Over Chaos]]."_
 
-[[Grief-Stricken]] at story start on her mother's death to [[Static Criticality]]. Fully activated on [[Artus]] death.
-[[Manipulative]] developed when acting as a thief for the caravan as early as her 8 birthday.
-[[Reverent]] as comfort of hope in the sky during the caravan fires and properly cemented on the talk with [[Artus]] about the star shower.
+- Against the [[Age of the False Messiah]] and the [[Purest of Love]]: _"Salvation does not come from waiting for the sky to reach down; it comes from bleeding into the earth until it is sacred enough to hold the light itself. That is [[Iridia]], that is true love. It is the one place where the earth meets the sky away from false salvation and down to the girth of mortality, its bonds, and the sanctity of personhood."_
 
-[[Fatalistic Embracer]] when [[Artus]] [[Sky Glass]] is stolen by the pugilist [[Kastor]].
-[[Manipulative]] to [[Reality Bender]] when she liberates [[Cordelia]].
-[[Reverent]] evolves during the apparition of the [[Auric Aria]] on the [[Crescent Mist Peaks]].
+### Evolution of [[Legend Trait]]s
 
-[[Fatalistic Embracer]] to [[Void]] [[Apex Trait]] when [[Cordelia]] defects to [[The Hollowing]].
-[[Reality Bender]] to [[World Shaping Maverick]] when she realizes the truth of [[Medea]] and decides to become the north star of her [[Celestial Astrolabe]].
-Evolved [[Reverent]] after [[Pollux]] death and the birth of the Obsidian Empress.
+#### [[Mythical Virtuoso]]
+##### [[Amadea]]
+
+[[Grief-Stricken]] ([[Void]] / [[Flux]] / [[Strand]]) at story start on her mother's death to [[Static Criticality]]. Fully activated on [[Artus]] death.
+[[Manipulative]] ([[Luminance]] / [[Void]] / [[Strand]]) developed when acting as a thief for the caravan as early as her 8 birthday. 
+[[Reverent]] ([[Resonance]] / [[Flux]] / [[Luminance]]) as comfort of hope in the sky during the caravan fires and properly cemented on the talk with [[Artus]] about the star shower.
+
+[[Grief-Stricken]] to [[Fatalistic Embracer]] ([[Void]] / [[Strand]]) when [[Artus]] [[Sky Glass]] is stolen by [[Kastor]].
+[[Manipulative]] to [[Reality Bender]] ([[Crystal]] / [[Void]]) when she liberates [[Cordelia]].
+[[Reverent]] to [[Revelatory Martyr]] ([[Luminance]] / [[Resonance]]) during the apparition of the [[Auric Aria]] on the [[Crescent Mist Peaks]].
+
+[[Reality Bender]] to [[World Shaping Maverick]] when she realizes the truth of [[Medea]] and decides to become the north star of her [[Celestial Astrolabe]]. (First [[Crystal]] [[Apex Trait]])
+[[Revelatory Martyr]] to [[Consecrator of Terrestrial Skies]] after [[Pollux]] death and the birth of the Obsidian Empress. (Second [[Luminance]] [[Apex Trait]])
+[[Fatalistic Embracer]] to [[Singularity of True Love]] [[Apex Trait]] when [[Cordelia]] defects to [[The Hollowing]]. (Last [[Void]] [[Apex Trait]])
 
 [[Void]] [[Motif Awakening]]: [[Artus]] death.
 [[Crystal]] [[Motif Awakening]]: When [[Artus]] [[Sky Glass]] and [[Cordelia]] are taken by the pugilist [[Kastor]].
 [[Luminance]] [[Motif Awakening]]: When the seed at the center of [[Iridia]] turns out to be an [[Auric Peach]] Tree.
+
+##### [[Cordelia]]
+
+[[Submissive]] ([[Resonance]] / [[Void]] / [[Flux]]) at story start due to the conditioning of the aristocracy and her aunt Daphne.
+[[Imaginative]] ([[Strand]] / [[Flux]] / [[Crystal]]) developed due to the legendary stories of travelling the world that her father Sylvain d'Acreon instilled in her. Fully cemented on hearing [[Amadea]]'s [[Ballad]].
+[[Jolly]] ([[Flux]] / [[Resonance]] / [[Cindergale]]) developed due to the caring nature she had with her original family before the betrayal and her disposition to learn about the world around her. Fully cemented during aunt Daphne's adoption because is authentic but also protective. She laughs so no one will ask why she's crying.
+
+[[Submissive]] to [[Over-giving Devout]] ([[Void]] / [[Strand]]) when saving [[Amadea]] from [[Luminaire]] and the [[Court of Delicacies]] by exchanging the final claim of her entire estate.
+[[Jolly]] to [[Fiery Passion]] ([[Cindergale]] / [[Flux]]) when rescuing [[Amadea]] from the [[Facewalker]] at the [[Crescent Mist Peaks]] and refusing to let her emotions dictate her future.
+[[Imaginative]] to [[Utopian Visionary]] ([[Flux]] / [[Resonance]]) when [[Iridia]] is founded alongside [[Amadea]], and she begins looking at the safe haven they are building and the plays depicting happy endings.
+
+[[Over-giving Devout]] to [[Archangel of Living Rhapsody]] at the climax of the [[Shadow Order]] wars with [[Pollux]] upon learning the truth of the [[Waltz of Wandering Love]] and refusing to break from it instead honoring the love of [[Medea]] and liberating the entire city of Strauss under the [[Court of Delicacies]], and making them join [[Iridia]]. (First [[Strand]] [[Apex Trait]])
+[[Fiery Passion]] to [[Incandescent Miracle Maker]] at the final resolution of her aunt Daphne after [[Pollux]] death and upon discovering [[Miracle Magic]] and her ultimate [[Chrono Magic]]. (Second [[Cindergale]] [[Apex Trait]])
+[[Utopian Visionary]] does not evolve, this is what [[Lacrimosa]] exploits and manages to make her surrender to [[The Hollowing]], imagining a bright future for [[Arcanoria]] with the rest of the [[Mythical Virtuoso]] beyond the [[Legend Title]]s they have accumulated as [[Legend]]s.
+
+[[Strand]] [[Motif Awakening]] after refusing to reject love and escaping from the d'Acreon estate in search for the wandering love.
+[[Flux]] [[Motif Awakening]] on [[Amadea]]'s speech about "The rules of this house are not the rules of the world." after being saved.
+[[Cindergale]] [[Motif Awakening]] when refusing to forget [[Amadea]] and succumbing to the [[Lunehymn]] narcosis of the [[Crescent Mist Peaks]].
 #### Patron Tiers & Serialization
 
 ![[Amadea Wandering Violet 1.png]]
 
 **Writing & Publishing Structure**
 
-| Variable               | Decision                                                                                  |
-| ---------------------- | ----------------------------------------------------------------------------------------- |
-| Words per act          | 3,500 Average (Floor 2,800 / Ceiling 6,300)                                               |
-| Total acts             | 84 (~300,000 words)                                                                       |
-| Patreon cadence        | 1 act/week — **Monday 18:00 UTC** _(public receives same act Thursday of the same week)_  |
-| Public cadence         | 1 act/week — **Thursday 18:00 UTC**                                                       |
-| Patreon lead           | 4 acts (~4 weeks)                                                                         |
-| Launch window          | 9 acts public over 3 days (Day 1 / Day 2 / Day 3), then weekly                            |
-| Pre-production minimum | 18 acts finished before announcing _(9 launch + 1 Patreon exclusive + 4 lead + 4 buffer)_ |
-| Non-fiction extras     | 1 [[Soul Sheet Music]] / Lore drop / [[Arcanoria]] Log every 2–3 weeks                    |
+| Variable               | Decision                                                                                     |
+| ---------------------- | -------------------------------------------------------------------------------------------- |
+| Words per chapter      | 5,500 Average (Floor 2,800 / Ceiling 7,300)                                                  |
+| Total acts             | 84 (Aprox 252 chapters + bonus chapters)                                                     |
+| Patreon cadence        | 1 chapter/week — **Monday 18:00 UTC** _(public receives same act Thursday of the same week)_ |
+| Public cadence         | 1 chapter/week — **Thursday 18:00 UTC**                                                      |
+| Patreon lead           | 4 chapters (~4 weeks / ahead one act)                                                        |
+| Launch window          | 9 acts public over 3 days (Day 1 / Day 2 / Day 3), then weekly                               |
+| Pre-production minimum | 18 acts finished before announcing _(9 launch + 1 Patreon exclusive + 4 lead + 4 buffer)_    |
+| Non-fiction extras     | 1 [[Soul Sheet Music]] / Lore drop / [[Arcanoria]] Log every 2–3 weeks                       |
 
 **Patron Tiers**
 
@@ -85,7 +110,7 @@ Evolved [[Reverent]] after [[Pollux]] death and the birth of the Obsidian Empres
 
 [[Legend Title]]: The Caravan Leader, The Hooded North Star
 
-[[Primary Instrument]]: Oak Worn Cello
+[[Primary Instrument]]: Oak Worn Cello or Lyra & Riordan Cello
 [[Armament]]: Flanged Heptagram Flail
 [[Soul Leitmotif]]: [[Cindergale]]
 [[Ornament]]s: [[Luminance]], [[Resonance]]
@@ -96,6 +121,8 @@ Evolved [[Reverent]] after [[Pollux]] death and the birth of the Obsidian Empres
 - [[Cautious]] -> [[Threat Cartographer]] ([[Cindergale]])
 - [[Pragmatic]] -> [[Haunted Empiricist]] ([[Luminance]])
 - [[Melancholic]] -> [[Romantic Hedonist]] ([[Resonance]])
+
+![[Amadea-15.png]]
 
 ---
 [[Lenore]]: [[Amadea]]'s & [[Artus]] [[Spellweaving]] Mentor
@@ -234,7 +261,7 @@ Evolved [[Reverent]] after [[Pollux]] death and the birth of the Obsidian Empres
 ---
 [[Ligeia]]
 
-[[Legend Title]]: The Voice of Light, the Armored Singer, the [[Silver Blood]] of the [[Court of Delicacies]], The Silver Voice of [[Iridia]].
+[[Legend Title]]: Voice of Light, the Armored Singer, the [[Forsaken Flower]] of the [[Court of Delicacies]], The Silver Voice of [[Iridia]].
 
 [[Primary Instrument]]: [[Own Voice]]
 [[Armament]]: Prismatic Polearm
@@ -247,6 +274,8 @@ Evolved [[Reverent]] after [[Pollux]] death and the birth of the Obsidian Empres
 - 
 - 
 - 
+
+![[Ligeia.png]]
 
 [[Ligeia]] was born a commoner in the devastated threshold wastelands of the [[Great Plague]] on [[Amadea]]'s original home continent. Despite her poverty, she was a [[Silver Blood]] and carried high acoustic [[Resonance]] to [[Lunehymn]] through her [[Own Voice]]. While her originally family died, she was raised by her resentful aunt who viewed the girl's striking silver hair as a cursed burden.
 
@@ -320,6 +349,1048 @@ This is one of the early [[Triad Chord]]s suspended by [[Resonance]] that acts a
 
 #### [[Legend]] Backstories
 
+##### [[Cordelia]] Backstory
+
+**The Rhapsody of the Wounded House**
+
+Cordelia's earliest memory was not a room or a face. It was a scent.
+
+The smell of damp earth mingling with crushed petals—the particular fragrance of a greenhouse after rain, when the glass roof had steamed and the air had gone thick with green breath. She remembered this scent the way other children remembered lullabies: as the texture of safety itself.
+
+Her father, **Lord Sylvain d'Acreon**, was an explorer, natural philosopher, and cataloguer of Pure Light beings. He traveled through forgotten sanctuaries, leyline basins, ruined botanical enclaves, and regions where rare Eleos Blooms still grew wild. He was a man who belonged more to the open road than to the estate that bore his name, and his absences were measured in moons, then seasons, then cycles.
+
+But when he returned, he brought Cordelia stories.
+
+He told her of flowers that rang when someone suppressed grief. Roots that calmed nightmares. Beasts that remembered songs. Gardens whose colors changed according to the emotions of the people who tended them. He described the Sorrowbells of the Boreal Reach, the Memory Marigolds that bloomed in the footprints of returning exiles, the Vow Orchids that blackened when promises were broken.
+
+"Every journey contains a secret waiting to be discovered," he would say, his eyes bright with wonder. "You just have to know how to listen."
+
+Cordelia believed him.
+
+She laughed easily. She invented stories about the creatures her father described. She treated the estate's gardens as a private kingdom of wonders, where every leaf and petal held a mystery she would one day uncover.
+
+Her mother, **Lady Eulalie d'Acreon**, watched from doorways with a smile that carried a private weight. She was a woman of the court—poised, brilliant, a master of the subtle arithmetic of aristocratic survival. But in the greenhouse, with her husband and daughter, she allowed herself to relax something she kept carefully guarded everywhere else.
+
+"You're teaching her to talk to plants," Eulalie would say.
+
+"I'm teaching her to listen," Sylvain would reply. "The plants are just the ones who answer."
+
+What Cordelia did not understand then—what she would only grasp many cycles later, in the aftermath of everything—was that her mother's guardedness was not paranoia. It was the vigilance of a woman who knew exactly how many enemies she had, and who among them wanted her dead.
+
+Before beginning one of his longest expeditions, Sylvain brought a rare gift to his wife.
+
+It was a **Soul-Stitcher**, a Tier 2+ Eleos Bloom that he had discovered during his travels in the Boreal Reach. The bloom was taller than Cordelia, its petals a deep silver-blue that seemed to hold light rather than reflect it. At its core, where a chest would be on a person, a soft glow pulsed—rhythmic, patient, alive.
+
+Sylvain had never seen another like it.
+
+"Rarer than Glimmerfern," he said, kneeling beside the plant as he prepared its new home in the estate's hidden grove. "The Soul-Stitcher processes emotional residue and restores Strand signatures. It only speaks to those who speak first. It waits for consent."
+
+Eulalie watched him work, her expression unreadable. "Why are you giving this to me?"
+
+Sylvain looked up. His face softened with the particular tenderness he reserved for moments when he could not quite say what he meant directly.
+
+"If the estate ever becomes too heavy to process," he said, "speak to it. You should never have to wait for me to come home before someone listens."
+
+Eulalie was quiet for a long moment. Then she knelt beside him and placed her hand on the bloom's central stalk. The glow deepened. The petals leaned toward her, as if recognizing an old friend.
+
+"Thank you," she said.
+
+He kissed her forehead.
+
+When Cordelia asked what the Soul-Stitcher was for, her mother knelt to meet her eyes and said: "It listens. That's all. But sometimes, that's everything."
+
+The Soul-Stitcher became part of the household's private life, growing among the other plants in the protected grove behind the formal gardens. Cordelia did not understand its purpose at first. She only knew that her father had planted something for her mother so she would not be alone.
+
+The rivalry between Lord Sylvain d'Acreon and **Lord Theron de Grauwald** had been simmering for cycles before Cordelia was born.
+
+Theron was a powerful claimant with ties to the fragmented Silver Blood throne—a man who had risen through the chaos of the kingdom's collapse by being ruthless, patient, and utterly without conscience. He had wanted Eulalie since before her marriage to Sylvain, and he had never forgiven her for choosing the explorer over him.
+
+To Theron, Eulalie was not a person. She was a prize. A symbol of everything he had been denied. And Sylvain was the obstacle that had cost him what was rightfully his.
+
+Cordelia saw Theron at estate functions, a tall, broad-shouldered man with a smile that never reached his eyes. He would watch her mother across the room with a stillness that was not patience—it was hunger. He would speak to her with a familiarity that made Cordelia's skin crawl, and Eulalie would smile back with the frozen politeness of a woman who had learned to hide her terror behind composure.
+
+"Stay close to me when Lord Theron is near," her mother would murmur, her hand firm on Cordelia's shoulder. "And if he ever speaks to you, find me immediately."
+
+"Why? Is he dangerous?"
+
+Eulalie was quiet for a moment. Then: "Yes. But not in the way you think. The most dangerous people in this world are the ones who believe they are entitled to you."
+
+When Cordelia was seven, her father received a commission that would take him to the Boreal Reach—the northern wastes where the Eleos Blooms grew wild and the air was so thin that even seasoned travelers often returned with the hollow look of those who had inhaled too much Lunehymn.
+
+He was going to catalog a newly discovered grove of Memory Marigolds. It was the discovery of a lifetime—the kind that would cement his legacy and earn the d'Acreon family a place in the annals of botanical history.
+
+Sylvain traveled with a small party of trusted companions. Among them was the legendary hunter **Beryl**, a figure renowned across the northern territories for his knowledge of the Boreal Reach's dangers. Beryl had accompanied Sylvain on several expeditions and had become a close friend and confidant.
+
+"Promise me you'll come back," Cordelia said, clinging to his coat.
+
+"Promise me you'll keep listening," he replied, kneeling to meet her eyes. "To the blooms. To the silence between things. To what the world is trying to say beneath the noise."
+
+"I promise."
+
+He kissed her forehead. He embraced her mother with a tenderness that spoke of a private language they had spent cycles building.
+
+Then he was gone.
+
+The first six moons, letters arrived. Fragments of descriptions, pressed flowers, sketches of blooms she had never seen. Eulalie read them aloud at the dinner table, her voice bright with a relief she tried to hide.
+
+The seventh moon brought silence.
+
+The eighth moon brought the truth: Lord Sylvain's expedition had been sabotaged. His maps had been altered. His supplies had been tampered with. He had been led into a region where the Lunehymn concentrations were lethal.
+
+Beryl died beside him, attempting to protect the party from the Atonalis that had been drawn by the expedition's distress. They fell together, two men who had trusted the wrong information and had paid the price.
+
+The official report called it a tragic accident.
+
+Cordelia's mother knew better. She had known who was behind it before the report was finished.
+
+Lord Theron de Grauwald had finally removed the obstacle.
+
+With Sylvain dead, the estate became a battlefield. Three claimants emerged, each with a different strategy.
+
+**Lord Theron de Grauwald** was the first and strongest claimant. He had the best blood claim, the most formidable political connections, and enough influence to make open opposition dangerous. He had orchestrated Sylvain's death. He expected the family to fracture after the loss, and he planned to be the one who put it back together—with Eulalie at his side, whether she wanted to be there or not.
+
+**Lord Valere** was the second claimant. His hereditary claim was weaker, but he was elegant, diplomatic, and socially adept. He had built a respectable court and was a friend of Lady Daphne d'Acreon. He believed legitimacy and social grace would win him the estate. He played the long game, cultivating allies while Theron bludgeoned his way through the opposition.
+
+**Lady Daphne d'Acreon** was the third claimant and the weakest by blood. She had no realistic chance of defeating either man in a direct succession contest. Her advantage was that she understood people better than they understood her. She was patient, cunning, and willing to wait for her enemies to destroy each other.
+
+Theron believed strength would win.
+
+Valere believed legitimacy would win.
+
+Daphne understood that the person who controls the aftermath of every disaster may not need the strongest claim at all.
+
+Theron's first move was an offer of marriage.
+
+He presented the proposal as a practical solution to the estate's instability. He could protect Eulalie, consolidate the family, merge both of their family names, and prevent the inheritance from being consumed by rival factions while establishing a powerful alliance between the houses of d'Acreon and de Grauwald to monopolize the trade of [[Eleos Bloom]]s of the entire region. His tone suggested that she should be grateful for his generosity.
+
+Eulalie rejected him.
+
+She refused to remarry. She assumed control of everything Sylvain left behind: the estate, the gardens, the botanical archives, the financial accounts, and Cordelia's inheritance. She became the legal and practical authority of the household.
+
+Her refusal humiliated Theron.
+
+She had chosen Sylvain over him once. Now she was choosing to be a widow rather than be his wife. He became obsessed with the estate, with Eulalie, and with the possibility of possessing both.
+
+But Theron was not yet the only person moving against Eulalie. Daphne was watching, waiting, calculating. And she had recently made a powerful new ally.
+
+**Lazarus** had been living on the lower stratum of botanical and aristocratic society for several echoes. He was not yet the legendary figure he would become—not yet the master of the Court of Delicacies, not yet the collector of beautiful wounds. But he was already known among specialist gardeners, collectors, and occult physicians.
+
+He had recently been exiled from the Enclave of the Moonlit Garden because his theories about Eleos Blooms had become ethically intolerable. Lazarus believed emotional pain could be intensified, cultivated, and harvested into something more beautiful than ordinary healing permitted. He saw suffering not as something to be processed, but as something to be refined.
+
+He was fascinated by Sylvain's gardens.
+
+He saw Sylvain as a fellow gardener, though their philosophies were opposites. Sylvain cultivated plants to preserve life, process grief, and protect the vulnerable. Lazarus wanted to extract emotion, refine it, and turn it into art, influence, medicine, and eventually commerce.
+
+Valere brought Lazarus into the estate because he believed the exiled gardener could help preserve Sylvain's rare plants and strengthen Valere's political position. He did not understand that Lazarus was already forming a different alliance.
+
+Daphne met Lazarus during a private gathering in Valere's court. They discussed botanical composition, emotional color, tragedy, beauty, and the possibility that a human life could be treated like a garden: cultivated toward a desired result.
+
+Lazarus recognized Daphne's potential immediately.
+
+She recognized his.
+
+"The estate is a garden," Lazarus said, examining a rare Eleos Bloom in Valere's conservatory. "It only needs proper cultivation to produce something extraordinary."
+
+"What would you cultivate?" Daphne asked.
+
+"Grief," Lazarus replied. "Given the right conditions, it blooms into something more beautiful than joy. The colors are deeper. The fragrance is more complex. The yield is... exquisite."
+
+Daphne studied him with the particular attention she gave to people who might become useful.
+
+"And what would you need to begin?"
+
+"Access," Lazarus said. "And someone cultured enough who understands both art and its terrain."
+
+Daphne extended her hand.
+
+Daphne and Lazarus began their alliance carefully.
+
+They did not need to command Theron to attack Eulalie. They only needed to make his existing obsession stronger and his opportunity easier.
+
+Lazarus had been experimenting with [[Eros Magic]], developing aphrodisiac compounds and emotional catalysts for many season. The preparations were unstable, but they could heighten fixation, desire, and emotional dependency. He refined them for Daphne's purposes.
+
+Theron was already obsessed with Eulalie. The compounds merely brought the worst parts of his character to the surface. He was still responsible for his actions. The concoctions made him more likely to act on impulses he had been suppressing for cycles.
+
+Daphne then altered the estate's security:
+
+- Loyal guards were dismissed
+- Patrols were redirected
+- Eulalie's rooms were isolated
+- Household staff were reassigned
+- Theron was allowed to believe that no one would stop him
+
+The preparation took moons. Daphne was patient. She had learned that the best traps are the ones that look like opportunity.
+
+Cordelia was nine.
+
+She had been sent to bed early. She did not sleep. She lay awake, listening to the quiet sounds of the estate settling into darkness.
+
+Then she heard something wrong.
+
+A struggle. A muffled cry. The sound of someone fighting someone stronger.
+
+She crept down the hallway, drawn by a sound she could not identify—a sound that was not screaming but something worse: the desperate, muffled sounds of her mother fighting someone who was overpowering her.
+
+Cordelia froze in the doorway of Eulalie's chambers.
+
+Lord Theron was on top of her mother, his hands around her throat, his weight pinning her to the floor. Eulalie was struggling—her eyes wide, her breath coming in ragged gasps—but she was losing.
+
+Cordelia opened her mouth to scream.
+
+Her mother's eyes found hers across the room. And in that single, terrible moment, Eulalie did something that Cordelia would never forget.
+
+She shook her head.
+
+*No, Cordelia. Don't. Go back. Go back to your room. Don't let him see you.*
+
+Cordelia understood. She did not understand the violation, not fully, but she understood that if Theron knew she had witnessed this, he would kill her too.
+
+She retreated. She went back to her room. She pressed her hands over her ears and tried not to hear the sounds that filtered through the walls.
+
+She failed.
+
+When it was over, Theron left. Eulalie remained on the floor, her dress torn, her body bruised, her eyes fixed on the ceiling with the hollow gaze of someone who had been shattered and was not yet sure whether she could put herself back together.
+
+Cordelia crept back to her mother's chambers.
+
+She knelt beside Eulalie, her small hands reaching out to touch her mother's face.
+
+"I'm here," she whispered. "I'm here. I'm here."
+
+Eulalie turned her head slowly, her eyes focusing on her daughter's face.
+
+"Listen to me," she said, her voice hoarse. "What happened tonight—you are not to speak of it. Do you understand? Not to anyone. Not to the servants. Not to your teachers. Not to anyone who asks."
+
+"But—"
+
+"Promise me, Cordelia."
+
+Cordelia promised.
+
+It was the first time she ever lied to her mother.
+
+Daphne had been waiting.
+
+The moment Theron committed the crime, Daphne sprang her political trap. She had witnesses ready. She had evidence prepared. She had the court magistrates in her pocket.
+
+She dragged Theron before the high courts for the crime of violation—a capital offense, especially against a regal matriarchal line that was, in the Silver Blood remnants, punished by death. The evidence was overwhelming. The witnesses were credible. Theron's reputation crumbled.
+
+He was condemned.
+
+Cordelia sat in the gallery, her mother beside her, as the court declared Theron guilty. She watched him led away to his execution. She watched her aunt's face as Daphne accepted the court's gratitude for exposing the crime.
+
+She watched her mother's hand tighten on the armrest.
+
+Theron was executed.
+
+Valere became the next claimant.
+
+And Daphne appeared to have protected the family.
+
+Cordelia did not understand what she had witnessed. She only knew that her mother's body had been used as a weapon in a game she had never agreed to play. She only knew that the men who had hurt her mother were both dead—one by execution, one by the hand of the same aunt who had supposedly saved them.
+
+She did not understand that her aunt had orchestrated everything.
+
+Not yet.
+
+Daphne expected Eulalie to break.
+
+She expected the traumatized widow to fade into the background, a compliant, grateful pawn who would never threaten Daphne's control.
+
+Instead, Eulalie sought the Soul-Stitcher.
+
+Cordelia followed her mother into the hidden grove, watching from the shadows as Eulalie approached the bloom. The Soul-Stitcher pulsed with patient light, waiting.
+
+It ignored Cordelia entirely—her child's emotional frequency was indistinguishable from background noise. But it responded to Eulalie.
+
+The petals leaned toward her. The glow deepened. And Eulalie, for the first time since the violation, began to speak.
+
+She spoke of Theron. She spoke of Daphne's trap. She spoke of the shame she had been carrying, the guilt she had been made to feel, the terror that had lived in her body since that night.
+
+She spoke of the courage to heal.
+
+And the Soul-Stitcher listened.
+
+The process was not immediate. Healing required patience, repetition, and openness. But over the following moons, Eulalie returned to the grove again and again. She spoke her trauma aloud. She reclaimed her autonomy. She restored her Strand signature—the blueprint of her self, the memory of who she had been before Theron had tried to break her.
+
+Cordelia watched, and she learned.
+
+She learned that healing was not passive. It required courage—the courage to speak, the courage to be witnessed, the courage to trust that someone—or something—would listen.
+
+She learned that the Soul-Stitcher did not judge. It simply processed the signal, restoring the shape of what had been fractured.
+
+She learned that her mother, broken as she was, was the bravest person she had ever known.
+
+Daphne had assumed Eulalie would remain broken.
+
+Instead, Eulalie had healed.
+
+She had reclaimed her agency. She had rebuilt her alliances. She had begun to threaten Daphne's control of the estate, to speak out against her aunt's cruelty, to become a rallying point for those who had suffered under Daphne's rule.
+
+A healed and empowered Eulalie was far too dangerous to keep alive for all Valere, Lazarus and Daphne.
+
+Valere was not a fool, but he was arrogant enough to believe he could control the situation he had inherited.
+
+He saw Daphne's role in Theron's downfall and recognized her as a formidable ally. He did not see her as a threat. He assumed that their shared interest in the estate's stability would keep their alliance intact.
+
+When Daphne approached him with a proposal to eliminate Eulalie—the last obstacle to his full control—Valere agreed. He believed he was powerful enough to escape the implications. He believed that with Theron dead and Eulalie removed, the estate would be his.
+
+He did not understand that Daphne had already begun absorbing his court.
+
+Lazarus was supplying his allies with rare compounds. Daphne was cultivating their loyalty. The old loyalists who had once belonged to Cordelia's family were gradually becoming dependent on the new power structure.
+
+Valere saw only the immediate gain.
+
+He did not see the trap being laid beneath his feet.
+
+The assassination of Lady Eulalie d'Acreon occurred when Cordelia was twelve.
+
+Valere authorized the attack, believing he was consolidating his power. Daphne provided the intelligence, the access, and the deniability. Lazarus provided the compounds that rendered the assassination smooth and quiet.
+
+The event became known as the Night of Red Silk because of the soft disguises, perfumed corridors, silken gloves, and the early Velvet Nectar compounds used by the assassins and their intermediaries.
+
+The killers entered through an old service route in the estate. Guards received conflicting orders. Eulalie's papers disappeared. Evidence was planted to suggest that Valere's faction had arranged the murder.
+
+Cordelia was in a nearby room.
+
+She heard the assassination.
+
+She heard movement through the walls, a struggle, her mother's voice, something breaking, and then the silence that followed.
+
+She was holding Eulalie's lyre.
+
+The lyre was the last thing she had from her mother. Eulalie used it in private performances and near the Soul-Stitcher, where its music helped stabilize the emotional atmosphere while she spoke.
+
+When Cordelia heard the attack, she took the lyre with her. After finding her mother dying, she reached for her and left her emotional imprint across the instrument's strings.
+
+That detail would later become the weapon used against her.
+
+The truth of the Night of Red Silk went cold.
+
+No one could establish who ordered the assassination. Valere's court was suspected, but the evidence was incomplete. Lazarus's involvement remained concealed. Daphne appeared to be the only adult willing to protect the orphaned Cordelia.
+
+Daphne adopted her.
+
+The adoption was publicly compassionate and politically useful. Daphne became Cordelia's guardian. She gained control over the estate's administration, Cordelia's inheritance, Sylvain's archives, and the legal authority to protect the family line.
+
+Cordelia believed Daphne had saved her.
+
+For several cycles, Daphne treated her with enough affection to make that belief real. Cordelia received education, music lessons, formal clothing, and aristocratic instruction. She was taught how to behave, how to speak, and how to avoid provoking powerful people.
+
+But the household had changed.
+
+Valere continued his alliance with Daphne, believing they were partners. He did not realize that his court had been absorbed. His loyalists had become Daphne's. His influence had become hers. His position existed only because she allowed it.
+
+Lazarus rose from the lower stratum of botanical society. His knowledge of rare plants, pheromones, emotional compounds, and early Velvet Nectar gave him access to aristocrats who wanted new luxuries and new methods of influence.
+
+Daphne supplied him with patronage. He supplied her with methods.
+
+Together, they converted Valere's court:
+
+- Nobles were attracted by rare botanical products
+- Physicians became dependent on Lazarus's compounds
+- Artists adopted his theories of tragedy
+- Gardeners received access to private estates
+- Old loyalists discovered that their status now depended on Daphne rather than Valere
+
+Valere remained the public claimant.
+
+Daphne and Lazarus became the real power.
+
+Two echoes after the Night of Red Silk, Cordelia discovered evidence connected to her mother's assassination.
+
+Hidden among Eulalie's personal belongings, Cordelia found a fragment of correspondence that had been overlooked—a letter or ledger entry that implicated Lazarus and Daphne in the conspiracy. It was buried so deep that the assassins had missed it, but Cordelia's search had uncovered it.
+
+She took the evidence to her teacher Javius, believing that he would help her understand it.
+
+Instead, he reported her to Daphne.
+
+Cordelia was brought before a private household tribunal and accused of stealing family documents, spreading destabilizing rumors, and threatening the estate's peace.
+
+She refused to surrender the evidence.
+
+This was the first time she openly refused Daphne.
+
+The punishment was framed as discipline. Daphne ordered her loyalists to correct the adopted daughter before her disobedience became public.
+
+Cordelia was taken into a private chamber and brutally flogged.
+
+The punishment tore open the skin of her back and left permanent scars. The people who restrained her knew her. The people who carried out the punishment had eaten at her family's table. Javius read the charges and confirmed when the punishment was complete.
+
+He did not strike her.
+
+He merely made the violence official.
+
+Afterward, Cordelia was forced to sign a statement claiming that she had fabricated the evidence during an emotional episode. Daphne told her that she could have ordered a harsher punishment, that she was being spared because she was loved, and that obedience was the only reason she remained part of the household.
+
+The event cemented Cordelia's Submissive trait.
+
+Before fourteen, she was compliant because she wanted to preserve affection.
+
+After fourteen, she was compliant because her body had learned that refusal brought the entire household against her.
+
+Her new internal law became:
+
+> Do not contradict them.
+> Do not ask the second question.
+> Give them what they want before they decide to take it.
+
+The flayed back became the physical mark of the estate's ownership over her, and it won't the last time she was forced to bite the cotton sponge for discipline while she had to thank the abuser back.
+
+The deeper wound was that everyone who could have defended her remained silent.
+
+For the next six echoes, Cordelia lived inside a gilded cage.
+
+The household did not need to punish her constantly. It had already taught her how to punish herself.
+
+She apologized before speaking. She gave away objects before they could be confiscated. She hid anger beneath smiles. She became generous enough to remain useful and quiet enough to remain safe.
+
+Her Jolly trait became a mask.
+
+Her Imagination became private.
+
+Her Submissiveness became instinct.
+
+Her clinging to love through offering herself began forming as a desperate attempt to control loss:
+
+> If I sacrifice myself willingly, perhaps no one else will be hurt.
+
+Meanwhile, Valere continued to believe he was the master of his own court. He did not realize that Daphne had already absorbed his loyalists. He did not realize that his authority existed only because she permitted it.
+
+He was a figurehead without knowing it.
+
+The old servants who remembered Eulalie remained silent. Cordelia's teachers, physicians, and retainers chose the new order because they had gained too much from it to risk defending her.
+
+The household's betrayal was not one dramatic act.
+
+It was an entire society deciding that Cordelia's suffering was less valuable than its own comfort.
+
+When Cordelia was twenty, the old case was reopened and Valere began to realize the truth.
+
+His court had been hollowed out. His loyalists had become Daphne's. His influence was a shadow of what it had been. He was surrounded by people who answered to Daphne, not to him.
+
+He confronted her.
+
+Daphne did not deny it. She smiled and told him that he had been a useful ally, and that she would ensure he was remembered as a man who had served the estate well.
+
+Valere understood that he was trapped.
+
+He was surrounded. He had no loyalists. He had no allies. He had no escape.
+
+He began planning.
+
+Cordelia had been gathering evidence for many cycles. She had preserved fragments of the truth: records from Sylvain's final expedition, evidence of Theron's altered route, inconsistencies in the first investigation, references to Lazarus's early compounds, the identity of guards dismissed before Eulalie's death, and the details surrounding the lyre.
+
+She demanded answers.
+
+Daphne understood that Cordelia was no longer containable.
+
+She convened another court and presented Valere as the assassin behind the Night of Red Silk. The accusation was not entirely false. Valere had authorized the attack. He had believed he was acting as a master of his own destiny.
+
+But he was not the sole architect.
+
+Daphne betrayed him.
+
+She also implicated Cordelia to escape her own leads that tied back to Lazarus and herself.
+
+The evidence against Cordelia was built from real facts:
+
+- She was in the nearby rooms
+- She heard the assassination
+- She held the lyre
+- Her Strand resonance was found upon it
+- She stood to inherit from Eulalie's death
+- She had access to the estate
+- She had spent cycles asking questions about the crime
+
+Daphne claimed that the lyre was a signaling instrument used to guide the assassins through the estate. She presented Cordelia as the insider who coordinated Valere's plan.
+
+Cordelia's proximity became complicity.
+
+Her trauma became preparation.
+
+Her inheritance became motive.
+
+The court was ready to condemn both of them.
+
+But on the night of the trial, Valere attempted to escape.
+
+He had been preparing for this moment. He had secret passages, hidden wealth, and allies he believed would help him flee the estate. He was caught in the attempt.
+
+His escape was presented as final proof of his guilt.
+
+He was condemned.
+
+Valere was executed.
+
+The court accepted the verdict with relief. They did not need to examine the evidence too closely. They did not need to question Daphne's role. They had a scapegoat, and that was enough.
+
+Cordelia was pardoned because she was still considered young by aristocratic law and because the court wished to preserve the appearance of mercy. But the pardon was not freedom.
+
+She was stripped of all her titles, inheritance rights, political privileges, and legal standing. Daphne claimed almost everything: the estate, its gardens, the archives, its assets, and the authority attached to Cordelia's former name.
+
+The court told Cordelia that she should be grateful not to have died beside Valere.
+
+Daphne became the final claimant standing.
+
+The weakest claim won.
+
+Cordelia was used as a scapegoat to distract attention from Lazarus and Daphne. The court's attention was on the condemned and the pardoned. No one asked who had really benefited from the destruction of Theron, Eulalie, and Valere.
+
+Daphne had won.
+
+Cordelia left the household with almost nothing.
+
+But she took what mattered.
+
+In her father's shed, she found a collection of old ledgers—records of his expeditions, descriptions of plants, notes on survival in the wilderness. She took them because they were the only inheritance he had left her that was not tainted by the estate's corruption.
+
+She took the fragment of correspondence that had originally led her to the truth—the ledger that implicated Lazarus and Daphne. It was buried among Eulalie's personal belongings, hidden so deeply that the assassins had missed it. Cordelia had found it in the cycles after her mother's death, and she had preserved it ever since.
+
+She took her diary.
+
+The diary was mostly new, and she saw in the page a new opportunity for her own expedition as her father's daughter. She was going to become an adventurer too.
+
+But as she fled the estate, she began writing again.
+
+The diary became the **Wandering Libretto**.
+
+It was a record of everything: her father's stories, her mother's courage, the betrayal of her aunt, the conspiracy of Lazarus, the execution of Valere, the scars on her back, and the truth she would one day reveal.
+
+It was also a guide to survival.
+
+She copied notes from her father's ledgers: which plants were edible, which roots could heal wounds, which Eleos Blooms could be trusted and which were dangerous. She described the landscapes she crossed, the people she met, and the horrors she witnessed.
+
+Empty pages remained.
+
+She would fill them with her journey, her grief, her refusal to stop walking.
+
+And among her mother's old notes, she discovered something she had not expected: Eulalie's will.
+
+It was dated cycles before the Night of Red Silk. Eulalie had known she was in danger. She had written her will as a private record of her wishes—what she wanted for Cordelia, what she wanted for the estate, and what she wanted for the Soul-Stitcher that Sylvain had given her.
+
+Cordelia placed it in the Libretto.
+
+It was not evidence she could use in a court. Daphne had already controlled the courts. But it was proof—proof that her mother had loved her, proof that her mother had wanted her to survive, proof that the truth existed somewhere beyond the lies of the estate.
+
+On the immediate aftermath, Cordelia moved through the world like a ghost for a Moon.
+
+She had no title. No protection. No allies. She carried her mother's lyre, her father's ledgers, the correspondence that implicated her aunt, and the Wandering Libretto that held her story.
+
+She survived by being useful.
+
+She played music for travelers. She listened to the confessions of the dying. She healed where she could, using the principles she had learned from the Soul-Stitcher and the skills she had developed in the estate's private hours.
+
+She never stopped asking questions.
+
+She never stopped preserving fragments of truth.
+
+She never stopped waiting for the moment when she could reclaim her name.
+
+The Boreal Reach was not a place she could return to easily—the Boreal King had lost his legendary hunter Beryl in the same expedition that had claimed Sylvain. But Cordelia knew that the truth of her father's death was connected to the same conspiracy that had destroyed her mother. One day, she would need to seek out the Boreal King's memory of Beryl, to understand what had happened in those final days.
+
+As the pressure was too overwhelming, she attended a performance of a new actress, Violet. Cordelia met Amadea at a public performance.
+
+She was not searching for adventure. She was searching for a few moments in which the world did not feel like an accusation.
+
+Instead, she heard a story.
+
+A story about a knight who sacrificed himself for someone else. A story about a girl who could not imagine a future. A story about grief and survival and the refusal to stop walking.
+
+The story reached the surviving child beneath the scars and legal condemnation. It reminded her of the kind of world her father had once described: one in which courage could still mean protecting someone without possessing them.
+
+Amadea was carrying the grief of losing the person who believed in her.
+
+Cordelia was carrying the grief of being condemned for surviving the person she loved.
+
+Their bond began because each recognized that the other had been left holding the remains of a promise.
+
+The Wandering Libretto is not a weapon.
+
+It is a testimony.
+
+It contains the truth of Cordelia's childhood, the conspiracy that destroyed her family, and the evidence that will one day expose Daphne and Lazarus. It contains her father's botanical knowledge, her mother's will, and the fragments of correspondence that prove the betrayal.
+
+It also contains empty pages.
+
+Cordelia will fill them with her journey—with the people she meets, the places she visits, the songs she learns, and the love she refuses to abandon.
+
+It is a record of survival.
+
+It is a refusal to let the dead be forgotten.
+
+It is the foundation of her future as the Great Chronicler, the historian of Iridia, the keeper of the stories that must not be lost.
+
+The Boreal Reach waits in her memory. The King who lost Beryl waits for answers. Daphne's estate waits for justice.
+
+But first, Cordelia must keep walking in [[Waltz of Wandering Love]].
+
+##### Calista, the [[Facewalker]] [[Erosyx]] [[Atonalis]] Backstory
+
+**Bonus Chapter: The Dreamer of Happy Endings**
+
+[[Soul Leitmotif]]: [[Resonance]]
+[[Ornament]]s: [[Void]], Second [[Ornament]] not unlocked.
+
+[[Motif Awakening]] Wish: _"I wish to be loved, in the prettiest face that can fill the mirror of my mother's warmth."_
+
+[[Primary Instrument]]: [[Soul Oscillator]] (Toy Piano Manifestation)
+
+[[Legend Trait]]s:
+- [[Jealous]] ([[Resonance]] / [[Strand]] / [[Void]])
+- [[Imaginative]] -> [[Daydreaming Escapist]] ([[Flux]] / [[Strand]])
+- [[Self-Deceiving]] -> [[Reality Bender]] ([[Void]] / [[Crystal]])
+
+Calista was ten when her mother died.
+
+The sickness came quietly—a cough that lingered too long, a fever that refused to break, the particular cold of lungs that had forgotten how to hold warmth. Meli, artisan of wooden sculptures and keeper of stories, faded over the course of a single winter, leaving behind a daughter who did not yet understand that grief reshapes love into something conditional.
+
+In the long winter nights, when the snow piled high against the windows and the fire crackled low, Meli would tell Calista stories of romance—of lovers who found each other against all odds, of happy endings that made all the suffering worthwhile.
+
+_"And they all lived happily ever after,"_ Meli would say, her voice warm and certain. _"That's the important part, Calista. No matter how dark it gets, the story always ends with love."_
+
+Calista believed her. She believed that love was the destination, that happiness was the reward for enduring hardship, that if she was just patient enough, good enough, worthy enough, she would find her own happy ending.
+
+When Meli died, she left Calista two things: a small hand mirror with an ivory handle, and the promise of a happy ending she would never live to see.
+
+The mirror became Calista's only confidant.
+
+Calista inherited her mother's dark hair, her unusual eyes that shifted between green and grey depending on the light, and the expressive hands that made her father remember his dead wife every time Calista moved. At first, her father Lucius loved her fiercely because she was the last living piece of Meli.
+
+Then his grief curdled.
+
+He began to punish Calista for resembling her mother. He corrected the way she laughed, the way she tilted her head, the way she spoke when she became excited. If she wore her hair in the same braid Meli once favored, he would tell her to take it down. If she repeated one of her mother's phrases, his expression would harden.
+
+Her abuse was not always physical. It was made of sudden grips around her wrists, objects broken during arguments, doors slammed in her face, meals eaten in hostile silence, and punishments that forced her to apologize for emotions she had not chosen.
+
+When Calista asked what she had done, he sometimes answered:
+
+_"You know."_
+
+She did not know.
+
+But she learned to assume that existing incorrectly was a kind of violence.
+
+The hand mirror became her only confidant. She would sit in her room, looking at her reflection, and whisper to the girl who looked back:
+
+_"Mother said we would find love. Mother said the story ends with happiness. Is that true? Will I be beautiful enough to be loved?"_
+
+The reflection never answered. But Calista kept asking.
+
+When Calista was fourteen, her father remarried. He had already been seeing another woman with whom he had a child, much before the wedding vows.
+
+The new wife, Elain, was patient, warm, and ordinary. With her arrival, and the birth of their daughter Alena, the house was suddenly filled with light. Lucius's grief evaporated—not through healing, but through replacement. The house grew warmer, but Calista became its shadow. She was not starved or expelled; she was simply the living remainder of a dead marriage—the daughter who remembered too much and made the new family aware that its peace was built over an old grave.
+
+The tragedy was that Alena genuinely adored Calista. The golden-haired, graceful half-sister followed Calista everywhere, blind to the fact that her effortless belonging magnified Calista's agonizing isolation. Alena's love was pure, which made it unbearable—because it proved to Calista that she was the one who was fundamentally broken.
+
+She held onto her mother's words like a lifeline:
+
+_"And they all lived happily ever after."_
+
+But she was no longer sure the story included her.
+
+When Calista was sixteen, the isolation became unbearable.
+
+She had watched Lucius laugh with Alena. She had watched Elain touch his shoulder without making him flinch. She had watched them become the family he had apparently always wanted. And she had realized, with a hollow certainty, that there was no place for her in that happiness.
+
+She retreated to her room. She sat on the edge of her bed, the hand mirror in her lap, her mother's face a distant memory.
+
+The silence was absolute. The house was warm, but she was cold. The family was together, but she was alone.
+
+And in that silence, she cried at the moon until she couldn't hold her eyes anymore. She vocalized a desperate plea.
+
+_"I wish to be loved, in the prettiest face that can fill the mirror of my mother's warmth."_
+
+Something inside her cracked.
+
+Not with a sound. With a feeling. A resonance that had been building for years, finally reaching its breaking point. She felt it in her chest—a pressure, a vibration, a note that had been waiting to be played.
+
+Her Soul Leitmotif crystallized as **Resonance**.
+
+The gem appeared in her hands, small and pale, pulsing with a frequency that felt like her own heartbeat in a soft teal. She stared at it, confused. She had heard of Soul Leitmotifs, of course—everyone in the Boreal Reach knew the stories of Spellweavers and their gifts. But she had never expected to receive one herself.
+
+She did not know what to do with it.
+
+She held it for days. She tried to make it sing. She tried to make it do something. But it remained silent, pulsing with her heartbeat, waiting for her to find her voice.
+
+A Moon passed. Calista had almost forgotten about the gem, tucking it away in a drawer, convinced it was a mistake.
+
+Then, on a night when the snow was falling thick and the house was quiet, she dreamed of her mother.
+
+Meli was sitting by the fire, her hands moving as she wove. She was telling one of her stories—the one about the lovers who found each other in the snow, who built a home from nothing, who loved each other so completely that even death could not separate them.
+
+_"And they all lived happily ever after,"_ Meli said, her voice warm and certain. _"That's the important part, Calista. No matter how dark it gets, the story always ends with love."_
+
+Calista woke with tears on her cheeks.
+
+She opened the drawer. She took out the gem. She held it in her hands, and for the first time, she spoke to it.
+
+She placed the gem on her desk. She closed her eyes. She thought of her mother's stories, of the happy endings that seemed so impossible, of the love that she had been promised and never received.
+
+And when she opened her eyes, the gem had changed.
+
+It had become a small toy piano—her own Soul Oscillator, the voice she didn't know how to conjure. A delicate keyboard with tiny keys that seemed almost too small for her fingers, made of dark wood and pale ivory. When she touched it, it hummed with the same frequency as her heartbeat.
+
+These were incredible rare, left to the most unique of [[Spellweaver]]s, she never expected to have one. She hadn't practiced and instrument and only knew from the sound of her mother a few songs.
+
+And the Eternal Symphony had granted her a glimpse into what was her voice. Not a voice of power or authority. A voice of longing. A voice of hope. A voice that had been waiting for her to find it.
+
+She began to play.
+
+It was clumsy at first. Her fingers stumbled over the keys. But slowly, haltingly, she found the melody. She practiced until her soul found the song of her mother's story—the one about the lovers in the snow, the one that ended with "and they all lived happily ever after."
+
+She played it for hours. She played it until her fingers ached. She played it until the melody was etched into her bones.
+
+And when she stopped, she felt something she had not felt in many moons.
+
+Hope.
+
+But hope was fragile.
+
+The house continued without her. Lucius continued to laugh with Alena. Elain continued to touch his shoulder without making him flinch. Calista continued to be the shadow.
+
+She began to experiment with the Lunehymn mist that rose from the frozen lake at the edge of the village.
+
+It was dangerous—she knew that. The concentrated liquid was potent, capable of inducing vivid dreams and visions. But it was also a comfort. In the dreams, she was not the shadow. She was the center.
+
+She would drink a small vial of Lunehymn and fall into a sleep where she was loved. Where Lucius looked at her with pride, not resentment. Where Alena looked at her with admiration, not pity. Where she had a lover who stayed, who chose her, who never looked at her with exhausted impatience.
+
+In the dreams, she was normal. She had the frail hands of Alena.
+
+She was easy to be around. She had the golden hair of Alena.
+
+She was enough. She had the mellow voice of Alena.
+
+She would wake with the taste of the Lunehymn on her lips and the warmth of the dream still clinging to her skin. And then she would look at her reflection in the hand mirror, and the dream would curdle.
+
+She began to resent the face in the mirror. Not because it was ugly—it was not. Because it was hers. And hers was not the face that got to be the center of the story.
+
+_"I want to be a cute girl,"_ she whispered to the mirror. _"With the prettiest face in the world."
+
+She did not know where the words came from. They felt like they had always been there, waiting to be spoken. They felt like the truth she had been running from her entire life.
+
+When Calista was nineteen, she met Clement. Calista had made herself a reputation on her hometown due to the soul oscillator, where she spent nights playing her [[Soul Leitmotif]] by the moonlight.
+
+He was attracted to the sound on the clearing.
+
+He was a visiting trader's son, a fisherman by trade, with hands calloused from hauling nets and a smile that seemed to promise warmth. He came to the Boreal Reach in spring, when the ice was beginning to break and the lake was waking from its long winter sleep.
+
+He took her to the lake. It was the first warm day of the year, and the surface reflected the pale sky like a mirror, shards of ice still floating at the edges like scattered glass.
+
+He told her she was beautiful.
+
+He told her she was smart.
+
+He told her she was worth more than she thought.
+
+She believed him. She was infatuated.
+
+For the first time in her life, she let herself believe that she could be the center of someone's story. That the happy ending her mother had promised was finally arriving.
+
+For an entire Echo, Clement stayed.
+
+Calista allowed herself to want a future. She let herself be intense, honest, and loud. She played her toy piano for him, and he listened. She told him about her mother's stories, about the happy endings she still believed in, about the love she had been promised and never received.
+
+He held her and told her it was okay. That he understood. That he would never leave her.
+
+The lake became their place. Calista used her magic on the ripples of the water. The place where she had first believed she might be enough, where her heart pounded alive with the possibility of being chosen.
+
+At night, she would be captivated with his memory, the dream of him. 
+
+She would lie in her cold room, her hand pressed against her chest, feeling the warmth of his heart. She would imagine his arms around her, his voice in her ear, the weight of his body against hers. And on the nights more intense, she would touch the fantasy of being held, of being wanted, of being the one he chose.
+
+In the dark, with the Lunehymn mist rising from the lake and curling through her window, she would whisper to the empty air:
+
+_"I want to be a cute girl. With the prettiest face in the world. To be adored and complimented by others. To be finally loved..."_
+
+And in the fantasy, she was. She was beautiful. She was wanted. She was normal. She was enough.
+
+But the first signs of distance came quietly.
+
+A letter he did not finish. A walk he took alone. A silence that stretched a beat too long. The fewer and fewer times she played for him vibrating the ripples of the lake. 
+
+Calista, with her Resonance, caught every tremor in his voice. She dismissed them. She told herself she was imagining things.
+
+Then she found the letter.
+
+It was addressed to a woman in a distant place. It was full of the same words Clement had said to her. The same promises. The same love.
+
+_"...and I'm so glad I met you. You make me feel like I matter. You make me feel like I'm not alone..."_
+
+When she confronted him, Clement did not deny it. He looked at her with the same exhausted, impatient distance Lucius once had.
+
+"I'm sorry," he said. "But you're just so heavy, Calista. I really tried but everything with you is—" He stopped, sighed. "She's just... easy to be around. She's normal."
+
+He saw her clearly and chose someone else.
+
+Calista was twenty-one when she tried to give herself to him one last time.
+
+It was late spring, the ice long gone from the lake, the nights warm enough that she could sit outside without shivering. Clement had come back to the Boreal Reach to settle his affairs before leaving permanently. He was staying at the cottage across the lake, the one he had shared with the woman he had chosen.
+
+Calista waited until the moon was high and the cottage lights were low. She crossed the lake in a small rowboat, her heart pounding with the desperate hope that she could still change his mind.
+
+She found him outside, sitting on the dock, looking out at the water. He looked up when he heard her approach, and something flickered in his eyes—surprise, yes, but also that same exhausted patience he had seen before.
+
+"Calista," he said. "What are you doing here?"
+
+"I—" She stopped. The words caught in her throat. She had practiced this. She had rehearsed it a hundred times in the dark of her room, to the fantasy in her mother's mirror of him wanting her back. But now that he was here, the words felt hollow.
+
+"I want you to choose me," she said finally. "I can be easy. I can be normal. I can be whatever you need me to be. Just—please. Choose me."
+
+He was quiet for a long moment. Then he stood, and the distance between them felt like a canyon.
+
+"Calista," he said gently. "This is the problem... You're not—you're not what I need. You're too much. Everything with you is always too much."
+
+She stepped closer. Close enough that she could feel the warmth of his body, close enough that she could see the pulse in his throat.
+
+"Then let me be not too much," she whispered. "Just for one night. Let me be enough for one night."
+
+She reached for him. She pressed her body against his, felt the solid heat of him through his shirt. Her hands found his chest, then his shoulders, then the back of his neck. She leaned in to kiss him, and for a moment, he did not pull away.
+
+Then he did.
+
+"Calista, stop." His hands gripped her wrists, pushing her back. "I can't—this isn't—"
+
+"Please," she breathed. "Please, I can show you. I can be what you need. I can—"
+
+She began to undress. She pulled her shirt over her head, baring herself to the moonlight, to his gaze. She was trembling, half from cold and half from the desperate, frantic need to be seen, to be wanted, to be chosen.
+
+"Calista." His voice was sharp now, almost angry. "I'm seeing someone else. I'm—this isn't going to happen."
+
+She froze.
+
+"You don't want me," she said. It was not a question.
+
+"No," he said, and the word was final. "I don't."
+
+He turned away. He walked back toward the cottage, toward the warmth and the light and the woman who was easy to be around. The door closed behind him, and Calista was alone on the dock, naked in the moonlight, utterly, completely rejected.
+
+She dressed slowly. Her hands were shaking so badly she could barely pull her shirt over her head. The climb back into the rowboat took forever. The crossing felt like an eternity.
+
+When she finally reached her side of the lake, she collapsed in the snow and wept.
+
+Calista was twenty-two when the fantasies consumed her.
+
+She still crossed the lake—not to see him, but to sit in the rowboat at the center of the water, drinking Lunehymn from a small vial and dreaming of what could have been.
+
+In the fantasies, he did not reject her. In the fantasies, she was beautiful, desirable, enough. In the fantasies, he undressed her slowly, reverently, his hands warm against her skin. In the fantasies, she was held, claimed, loved.
+
+In the fantasies, she touched herself to the rhythm of his imagined breathing. In the fantasies, she cried out his name to the empty sky, and the Lunehymn mist carried her voice across the water like a prayer.
+
+But the fantasies were not enough. They were never enough. Because when she woke, she was still alone. Still the shadow. Still the girl whose mother had promised a happy ending and been wrong.
+
+It was the night of the full moon. The house was filled with the joyous laughter of Lucius, Elain, and Alena celebrating by the hearth. The contrast was absolute.
+
+The torture continued until Lucius and Elain left the home, spending the night elsewhere.
+
+Calista locked herself in her freezing room. She sat before her desk, the hand mirror in her lap, the vial of Lunehymn at her elbow.
+
+She had been drinking the mist all week. The fantasies had been more vivid than ever. She could almost feel Clement's hands on her skin, his breath against her throat, the weight of his body pressing her down.
+
+But tonight, the fantasy was not enough. Tonight, she had reached the end of the dream.
+
+The house was quiet now.
+
+She sat before the desk, her reflection pale and hollow in the moonlight. Her hand drifted to her throat, then lower, tracing the hollow of her collarbone.
+
+_"I want to be a cute girl."_
+
+The thought arrived softly, almost comfortingly. Like a promise. Her fingers found the buttons of her dress, loosening them one by one. The fabric fell away from her shoulders, baring her skin to the cold air.
+
+_"With the prettiest face in the world."_
+
+She thought of the dreams. The Lunehymn dreams where she was loved. Where she was normal. Where she was enough. Her hand slipped beneath her chemise, finding the warmth of her own skin. She closed her eyes.
+
+_"To be adored and complimented by others."_
+
+She imagined it. A different face. A softer face. A face that people would look at and feel warmth, not wariness. Her fingers traced the curve of her chest, and she imagined it was his hand. Clement's hand. The one that had once held hers.
+
+_"To be finally loved."_
+
+She could almost feel it. The warmth of being held. The safety of being seen without judgment. The peace of being normal. Her hand moved lower, finding the heat between her thighs. She pressed, and a soft sound escaped her lips.
+
+_"To look normal."_
+
+The word curdled. Normal. She had never been normal. She had been too loud, too quiet, too much, too little. Always too much of the wrong things. Never enough of the right ones. Her fingers moved desperate. 
+
+She imagined his weight on top of her, his breath in her ear, his voice whispering her name.
+
+_"If I was a cute girl, all of my problems would be solved."_
+
+She whispered it aloud. It felt like a prayer. It felt like a confession. It felt like the truth she had been running from her entire life. Her hips rose to meet her own hand, and she let out a shaking breath.
+
+_"But this is all wishful thinking..."_
+
+She said it, and the words hung in the air like ash. Her hand stilled between her thighs. The warmth began to fade, replaced by the cold of the room, the cold of her skin, the cold of the truth she had been trying to outrun.
+
+She lifted the mirror.
+
+She looked at her reflection.
+
+And for the first time, she did not see the girl her mother had promised she could become. She saw only what she had always been: too much. Too loud. Too heavy. Too desperately, pathetically hungry for love.
+
+Her face was pale. Her eyes were hollow, ringed with dark circles. Her hair was tangled, unwashed, hanging in limp strands. Her hand was still between her thighs, fingers slick with her desperate need.
+
+She saw herself as she truly was. A girl who had lost herself to the fantasy of a man who had rejected her. A girl who had whispered his name into the dark and pretended he was there. A girl who was so alone, so starved, so broken, that she had made love to a ghost.
+
+She was pathetic.
+
+She had always been pathetic.
+
+And she would always be pathetic.
+
+The mirror trembled in her shaking hands. The reflection stared back at her—bloodshot eyes, flushed cheeks, tangled hair.
+
+_"Mother... why do I look like this... is this the real me?"_
+
+The mirror did not answer.
+
+But the silence was an answer in itself.
+
+She set the mirror down. She clothed herself. She picked up her toy piano. She tried to play the melody—her mother's melody, the one about happy endings, the one that had given her hope.
+
+But her fingers stumbled. The notes were wrong. The melody curdled in her hands.
+
+She screamed. She hurled the hand mirror. It shattered into a thousand jagged pieces.
+
+In a frantic, manic spiral, Calista fell to her knees and began to pick up the shards. She had broken her last tether to her mother, but as she picked each of the pieces up, she saw a glimpse of something else.
+
+She pressed them against her cheeks, her brow, her lips. She cut herself, bleeding and weeping as she tried to literally reconstruct a "prettier," more acceptable face from the broken glass.
+
+She was smiling.
+
+Not a smile of joy. A smile of desperate hope. A smile that said: _This will work. This will fix everything. This will make me normal. This will make me loved._
+
+Her face was a ruin of blood and glass, and she was still smiling.
+
+The door burst open.
+
+It was Alena.
+
+Her half-sister stood in the doorway, her golden hair catching the firelight from the hall. She had heard the scream. She had come to help.
+
+Calista looked up. Her face was bleeding, her hands were torn, and the room hummed with the suffocating, desperate magic of her broken Resonance. She reached a bloody hand out toward Alena—a silent, agonizing plea to be held, to be told she mattered.
+
+But she was still smiling.
+
+And that smile was the worst part.
+
+Alena did not rush to her. She did not ask if she was okay.
+
+Instead, her face twisted. Her eyes widened in a look of pure, uncomprehending horror. This was not the awkward, difficult sister she had always loved. This was something else. Something broken in a way she could not fix, could not reach, could not understand.
+
+"W-What is wrong with you?" Alena breathed, her voice trembling.
+
+She did not mean to be cruel. She was terrified. She was young. She had never seen suffering like this—raw, bleeding, desperate, still smiling as if it would make everything better.
+
+But Calista did not hear the fear. She heard the judgment. She heard the same verdict she had always feared: _You are too much. You are broken. You are not worth saving._
+
+The smile faltered.
+
+Alena stumbled backward, still staring. Behind her, the sounds of the celebration continued — Lucius's laughter, Elain's warm voice, the crackling fire. The golden house, still golden, still warm, still utterly indifferent to the girl bleeding on the floor.
+
+Calista saw Alena's hesitation, her fear, and she understood. Even the one person who had always loved her could not bear to look at her now.
+
+The door remained open. Alena did not slam it shut. But she did not enter either.
+
+Calista fled.
+
+She broke her own window and climbed out into the biting, unforgiving night of the Boreal Reach. She ran through the freezing timberlines, leaving a trail of blood in the snow, her chest heaving with cold air and absolute despair.
+
+She did not know where she was running. She only knew she could not stay in that room, in that house, in that life where she was always the shadow at the edge of the frame.
+
+She ran until her legs gave out at the edge of the lake—_their_ lake, the place where Clement had told her she was beautiful, the place where she had first believed she might be enough.
+
+She collapsed on the frozen shore, her breath ragged, her blood freezing in the snow.
+
+And then she heard it.
+
+A laugh. Warm and familiar.
+
+She looked up. Across the lake, she saw a small cottage with smoke rising from its chimney. Through the frosted window, she could see a figure she recognized.
+
+Clement.
+
+He was sitting by a fire, his arm around a woman Calista did not know. She was laughing at something he had said, and he was looking at her with the same warmth he had once given Calista. The same tenderness. The same promises.
+
+She saw his silhouette lean in and kiss her. She saw the woman's smile over the shadow. She saw them settle into the easy, comfortable happiness that Calista had never been able to provide. She felt the resonance of the happy ending.
+
+_"She's just... easy to be around. She's normal. She's pretty. She's everything that love requires."_
+
+And Calista found the pattern.
+
+This was the lake where he had told her she was beautiful. This was the place where she had believed she was enough. And now it was the place where he had brought someone else—someone easier, someone normal, someone who did not make everything a tragedy.
+
+The sacred location was broken. The memory was poisoned. The place where she had first believed in love had become the place where she lost it forever.
+
+The golden house behind her, filled with the family that had moved on without her. The cottage across the lake, filled with the love she could never have.
+
+She was alone.
+
+She crawled to the edge of the dark pool and looked down. The water reflected the starlight, and in it, she saw her own ruined, bleeding face. 
+
+She was completely alone. Her family was warm inside. Clement was happy. Alena had looked at her with horror.
+
+And to the gentle wind over the water she said softly, almost gently, as if she were comforting someone else. A child. A girl who had once believed she might matter.
+
+_"And they all lived happily ever after. All except me, of course. But I don't mind. As long as they're happy, living 'ever after' is good enough for me."_
+
+She said it with a smile. A broken, hollow smile. The smile of someone who had finally accepted that she would never be the center of anyone's story.
+
+The words curdled in the air. They had been her shield for so long—the lie that let her pretend her exclusion was a choice, that her pain was a sacrifice, that her loneliness was noble.
+
+But it was not noble. It was not a choice. It was the truth she had been running from her entire life: _She did not matter. She had never mattered. And she would never matter._
+
+The dark water rippled. The reflection in the pool changed. It did not show Calista. It showed an empty, hollow shape—a silhouette that could hold any face, any voice, any love.
+
+The reflection reached up from the depths of the lake.
+
+Her Soul Leitmotif began to pulse, with a slight crack it opened into the dancing shadows of the fire of Clement.
+
+The gem flickered between teal and violet, until the vein work settled to the missing fantasy she had lost. 
+
+She awakened her first Void Ornament.
+
+But as the void awakened, instead of treating it as the force of transformation she understood. If her own face, her own voice, and her own pain only drove people to disgust, then she would surrender them entirely. She would become whatever voice made the shadow stay, if she could not be loved as herself:
+
+_"I'll become someone else. Anyone else. Everyone else."_
+
+The Void Ornament continued cracking into spirals, and more spirals, until the spirals drained even the violet light irradiating from it.
+
+It was black, rotten, like her.
+
+Her Soul Leitmotif cracked once in the freezing silence under the light of the moon. Her Composure plummeted to _Surrender_ to that same void that had cracked open.
+
+She said one last time to the moon and to no one.
+
+_"Mother... will I ever be beautiful?"_
+
+Then a second crack, and the gem fainted inward. A Dissonance cocoon erupted around her, gently swallowing her in a loving embrace, pulling her softly over the lake.
+
+When the cocoon ruptured in a shockwave of Discordant Interference, the bleeding girl on the ice was gone. 
+
+The **Facewalker** rose from the mist of the lake.
+
+It did not remember being Calista.
+
+It remembered only the hunger. The desperate, aching need to be wanted, to be held, to be chosen. It remembered the shape of love, the texture of longing, the unbearable weight of being too much.
+
+It remembered the faces. All the faces.
+
+It had been so many people already. The sweetheart who was easy to be around. The daughter who was the center of the story. The lover who was chosen, always chosen, never rejected. It had worn so many shapes, each one a prayer to a god who did not answer.
+
+But none of them lasted. None of them were enough. Because underneath every face, the hunger remained. The hunger for the love it had never received. The hunger for the touch it had been denied. The hunger to be finally, completely, irrevocably _enough_.
+
+So it kept searching. It kept shapeshifting. It kept offering its victims exactly what they wanted: a face that would never reject them, a voice that would never judge them, a love that would never, ever abandon them.
+
+And when they surrendered—when they let themselves be held, be loved, be consumed—it fed on their longing. On their desperate, aching need to be enough. On the unbearable weight of being too much.
+
+It would have been beautiful, if it were not so hungry.
+
+Or perhaps if she could still feel at all.
+
+If she could only dream of one more happy ending.
+
 ##### [[Corvin]], [[Nivienne]] & [[Lenore]] Backstory
 
 [[Corvin]] becomes the man who holds the door; [[Nivienne]] becomes the woman who refuses to erase the dead; [[Lenore]] becomes the woman who mistakes prediction for moral certainty. Their failures then become the inheritance [[Amadea]] must transform, and the terminology, roles, and later Act 5 and Act 11 consequences align with the attached canon. 
@@ -344,7 +1415,9 @@ When the second wave of the [[Great Plague]] begins, [[Lenore]] dreams of catast
 
 The collapse of the spire fractures [[Corvin]] and [[Lenore]] in opposite directions. [[Lenore]]’s [[Void]] crystallizes around one unbearable fact—she gambled and lost her children—and she claws through the rubble begging the Void to take her breath, her life, anything that might purchase one more chance to pull them back, but it gives her nothing. Unable to live with contingency, she retreats into fatalism, deciding that the cosmos is absolute, the stars’ script cannot be broken, and her attempt to resist it was the arrogance that killed her family; she reshapes herself into a [[Nurturing Caregiver]] for the Enclave and teaches that “[[Consonance]] lies in the future, not the past,” so that in her damaged theology, trying to revise what has happened becomes a form of blasphemy. [[Corvin]] rejects that conclusion with equal intensity, refusing to call their children’s deaths fate because to him fate is only the name people give to a failed calculation; in the rubble he begs the light to reveal the exact margin of error, the variable he miscounted, and his [[Luminance]] [[Motif Awakening]] answers, searing the error into his mind and transforming him into the [[Haunted Empiricist]]: a man granted intolerable clarity about the failure that destroyed his world. 
 
-Unable to remain in the Enclave that contains both his greatest devotion and his greatest crime, he leaves with [[Kay]] and [[Elaine]], carrying his flanged heptagram flail, [[Celestial Astrolabe]], patchwork coat, and oak-worn cello, wandering from caravan to caravan, counting variables, protecting children, and searching for a geometry that cannot break. Meanwhile [[Lenore]] remains in the [[Enclave]] and turns grief into doctrine, while [[Nivienne]] is blamed as an ill omen and expelled again, eventually becoming protector of an isolated Auric church by a lake in the cursed wasteland, so that the original triad is broken: [[Corvin]] walks toward control, [[Lenore]] toward surrender, and [[Nivienne]] toward memory. This is the emotional landscape into which [[Amadea]] enters, for [[Corvin]] he has his [[Motif Awakening]] to [[Resonance]] in the children he saves, [[Lenore]] in the scholarly circles of [[Cosmic Motion]], and [[Nivienne]] in the preservation of forbidden memory.
+Unable to remain in the Enclave that contains both his greatest devotion and his greatest crime, he leaves with [[Kay]] and [[Elaine]] following "The Last Procession" which is rescuing children down the rivers of the realm of [[Aeolion]], their home [[Civilization]] and taking them to the mythical Avaloch Basin saving whomever is possible to salvage something of their home, it is based on [[Elaine]]'s dream and rooted in [[Corvin]]'s need for retribution. Thus, carrying his flanged heptagram flail, [[Celestial Astrolabe]], patchwork coat, and oak-worn cello, he goes to fulfill this suicide mission as atonement wandering from caravan to caravan, counting variables, protecting children, and searching for a geometry that cannot break.
+
+Meanwhile [[Lenore]] remains in the [[Enclave]] and turns grief into doctrine, while [[Nivienne]] is blamed as an ill omen and expelled again, eventually becoming protector of an isolated Auric church by a lake in the cursed wasteland, so that the original triad is broken: [[Corvin]] walks toward control, [[Lenore]] toward surrender, and [[Nivienne]] toward memory. This is the emotional landscape into which [[Amadea]] enters, for [[Corvin]] he has his [[Motif Awakening]] to [[Resonance]] in the children he saves, [[Lenore]] in the scholarly circles of [[Cosmic Motion]], and [[Nivienne]] in the preservation of forbidden memory.
 
 Time later, when [[Amadea]] is about to turn 12, during Act 5, [[Kay]] and [[Elaine]] die in the dawn drowned in fire; despite the narrative suggesting that [[Corvin]] died too in sacrifice, he actually survives, but the accumulated loss finally fractures him into a [[Fracted]] [[Anxithor]], and after decoding the reason he repeatedly failed over the teenage [[Cycle]]s of [[Amadea]], he becomes an [[Ascendant]]: [[The Seven Hands]] by Act 10. Its logic is [[Corvin]]’s logic stripped of mercy—his [[Cindergale]] fire becomes pure hunting function, his [[Luminance]] becomes certainty without doubt, and where [[Corvin]] once miscounted and destroyed the spire, the monster never miscounts again, reading [[Leylines]], threat migrations, and [[Auric Geometry]] with flawless, inhuman precision. 
 
@@ -479,6 +1552,8 @@ This is why the novel escalates in emotional cost rather than just narrative sca
 
 ##### The Zero Antagonist, [[Arcanoria]] Itself: A World Built on [[Resonance]] Devoid of Conscience That Creates and Takes Everything Away
 
+**Is there any point in loving anything that can be taken?**
+
 Before [[Lazarus]] has a name. Before the [[Facewalker]] [[Erosyx]] has a face. Before [[Pollux]]has an ideology and [[Lacrimosa]] has a doctrine. There is simply the world — and the world in Movement 1 is not cruel by design. It is something more devastating than cruel: it is doesn't have a conscience, it is vast, and beautiful in exactly the way that makes the taking unbearable yet it is the same world where friendship, sound, and emotion is magic.
 
 [[Amadea]] is born in [[Ages]] II on the aftermath of the [[Age Crisis]] of the [[Great Plague]], it is not a dark world pretending to be safe. It is a genuinely luminous world that has been catastrophically broken by its own magic — by the civilizational overextraction of [[Aetherlight]] and [[Lunehymn]] that triggered [[Luminant Rot]], that cascaded into [[Static Criticality]] from the harmonic imbalance of the [[Dual Confluence Stream]], and that turned the very light in the sky into detonation. 
@@ -526,6 +1601,8 @@ Every antagonist [[Amadea]] will ever face is, in some form, [[Arcanoria]] gi
 
 ##### The First True Antagonist, [[Lazarus]] & the Aristocracy: The Aestheticization of Wound
 
+**What is the difference between transforming grief and fetishizing it?**
+
 [[Lazarus]] represents the entire head of the aristocracy that [[Amadea]] stands against in the [[Court of Delicacies]], and he begins as a genuine member, and eventual exile, of the Moonlit Garden [[Enclave]] — an Agromagical community that uses [[Glimmerfern]] and [[Rose Seed]]s to _create beauty out of loss_. He is not a nihilist. He is a true believer in the tenets taken to their logical endpoint. He genuinely thinks that wounds are the soil in which beauty grows, and that the most loving thing you can do for someone is give them something worth blooming from.
 
 
@@ -541,7 +1618,7 @@ This is [[Lazarus]]'s specific danger: he is right about the [[Rose Seed]]. Loss
 
 The Fox Mask — [[Kastor]]'s mask, which [[Pollux]] inherits, which [[Amadea]] is told to _wear_ in Act 48 after losing to the [[Court of Delicacies]] — is [[Lazarus]]'s most devastating symbol even after his death. The fox is the scavenger of grief. It doesn't produce wounds. It follows them. The title _"Wear the Fox-Mask, Empress of Nothing"_ is the [[Court of Delicacies]] telling [[Amadea]] that she has been doing the same thing as [[Lazarus]] all along: following loss, harvesting meaning from it, calling the harvest a kingdom. The accusation lands because it is partially true, and because [[Amadea]] knows it.
 
-[[Lazarus]] is the antagonist who asks: _what is the difference between transforming grief and aestheticizing it?_ He never gets a clean answer. The answer is [[Iridia]] itself — built much later after he has died to [[Pollux]], as the counter-argument made architectural.
+[[Lazarus]] is the antagonist who asks: _what is the difference between transforming grief and fetishizing it?_ He never gets a clean answer. The answer is [[Iridia]] itself — built much later after he has died to [[Pollux]], as the counter-argument made architectural.
 
 Add the concept of aesthetic emotions of literature to the dark twisted policy, that if the reader / viewer sees something and doesn't feel anything that's the worst part of a story. Which is the reason of why strong reactions to tragedy is important. First institutional use of [[Emotional Residue]] similar to the [[Velvet Throne]]s. _"What was the key moment that detonated that emotion. In what moment did they become moved by the story?"_
 
@@ -551,11 +1628,15 @@ _"No one has ever made your story, that's why you've got to make the tragedy the
 
 ##### The Second Antagonist, The [[Facewalker]], the [[Crescent Mist Peaks]] [[Erosyx]]: The Hunger That Wears the Face of What You've Lost
 
+![[Amadea-16.png]]
+
+**Isn't the hunger proof that you deserved more than you got?**
+
 The [[Facewalker]] is an [[Erosyx]] [[Atonalis]] that is not a character or an antagonist in the conventional sense as it is devoid of a complex, and only mirrored speech. It is a _mechanism_. serving as the physical manifestation of the space between intimacy and consumption that has been haunting [[Amadea]] with the ghost of [[Artus]] since Act 12 when she received her [[Void]] [[Motif Awakening]].
 
 On the symbolic register, the [[Facewalker]] represents the **second distortion: that longing itself is a form of love, and that feeding on longing is therefore intimacy**. It does not pretend to love [[Amadea]] beyond luring her in. It does not make an argument. It simply offers the shape of what she has lost — [[Artus]]'s face, the warmth of being held, the sensation of mattering to someone — and lets the longing and the sacrificial debt she has been carrying do the work.
 
-This is where the [[Facewalker]] surpasses [[Lazarus]] symbolically: [[Lazarus]] requires [[Amadea]] to engage with an idea. The [[Facewalker]] bypasses cognition entirely. It attacks the layer of [[Amadea]] that precedes thought — the layer that learned, before language, what it feels like to be carried by your mother through detonations, to hear a cello played badly but bravely, to watch someone step between you and a merchant's fist because the bread was worth it. It attacks _embodied memory_, not intellectual conviction
+This is where the [[Facewalker]] surpasses [[Lazarus]] symbolically: [[Lazarus]] requires [[Amadea]] to engage with an idea. The [[Facewalker]] bypasses cognition entirely. It attacks the layer of [[Amadea]] that precedes thought — the layer that learned, before language, what it feels like to be carried by your mother through detonations, to hear a cello played badly but bravely, to watch someone step between you and a merchant's fist bec  ause the bread was worth it. It attacks _embodied memory_, not intellectual conviction
 
 The specific horror of the [[Facewalker]] and its [[Erosyx]] symbolism is the shapeshifting: it wears [[Artus]]' face without owning a face, this is where it earns the name of walking through faces. It is the perfect inversion of [[Essence Sacrifice]] — the binding that states power flows only when something genuinely meaningful is surrendered and which directly ties to [[Amadea]]'s own [[Void]] mastery. The [[Facewalker]] produces the _feeling_ of meaning without surrendering anything. It is a spell cast with Garbage Fuel that mimics the resonance of Tier 3 sacrifice. It is fake depth offered to someone who has paid only in real depth her entire life, and who is exhausted enough to stop checking the receipt.
 
@@ -568,6 +1649,8 @@ The conviction the [[Facewalker]] feeds on is the common variable logic: _I am t
 And at the deepest symbolic register: the [[Facewalker]] is the only antagonist that [[Amadea]] cannot defeat through mastery. She cannot out-[[Void]] it. She cannot out-think it. She can only survive it through the witness of another person — through [[Cordelia]]'s _Reveal, Severe, Remember_. The creature that weaponizes loneliness can only be broken by the refusal to be alone. This is not accidental. It is the thesis of the [[Strand]] binding made into monster form
 
 ##### The Third Antagonist, [[Pollux]] & the [[Court of Delicacies]]: The Devotion That Refuses to Heal
+
+**Isn't healing a betrayal of those who couldn't?**
 
 [[Pollux]] is the Second Leader of the [[Court of Delicacies]], the _Concertist of Dissonance_, the _Ink Artist of the Loss Sheet_. His defining statement: _"Trying to heal the world only creates more beautiful monsters. Healing is an insult to the dead."
 
@@ -593,9 +1676,11 @@ Moreover, [[Pollux]] arrives in Movement 3 as the shadow of everything [[Amadea]
 
 All the journey up to his defeat — which includes the Second Death of [[Artus]], the truth about [[Corvin]] and [[Artus]], the [[Waltz of Wandering Love]], [[Medea]]'s betrayal, and the ultimatum of the Fox-Mask confrontation in Act 48 is the moment the novel asks: _what does it mean to honor the dead through living, rather than dying with them?_ The answer is [[Amadea]]'s [[Crystal]] [[Apex Trait]] awakening in Score IX — [[World Shaping Maverick]], as a response to the [[Absolute Certainty]] that she has the right to become the North Star of her own [[Celestial Astrolabe]] even if the original [[Ballad]] [[Artus]] told her points directly at a grave. This is something she earned directly out of the wreckage of [[Pollux]]'s challenge.
 
-After [[Pollux]] death, the decision to heal only her arm that directs [[Mastery Over Chaos]] evolves her [[Reverent]] [[Legend Trait]] into its [[Apex Trait]] and formally beings [[Amadea]]'s [[Legend]] as the Obsidian Empress to create a precedent of a world that doesn't have it yet.
+After [[Pollux]] death, the decision to heal only her arm that directs [[Mastery Over Chaos]] evolves her [[Reverent]] [[Legend Trait]] into its [[Consecrator of Terrestrial Skies]] [[Apex Trait]] and formally beings [[Amadea]]'s [[Legend]] as the Obsidian Empress to create a precedent of a world that doesn't have it yet.
 
 ##### The Fourth and Final Antagonist, [[Lacrimosa]] & the [[Purest of Love]]: The Mercy That Eats the World
+
+**If you truly love someone, why would you let them suffer?**
 
 [[Lacrimosa]] is the deepest, ultimate and most terrifying antagonist of the entire novel that originally behaves as one of [[Amadea]]'s allies until it radicalized because [[Lacrimosa]] realized that only healing bodies was meaningless, there was still war, still people dying, still people killing one another, and a lot of suffering regardless of what she did to heal the sick and travel with [[The Call of the Dreamweaver]]. [[Amadea]]'s very [[Shadow Order]] war against the [[Court of Delicacies]] is the proof of this. As such, the potency of [[Lacrimosa]] culminates from two places:
 
@@ -661,88 +1746,102 @@ The Entire Novel of [[Amadea]] is a [[Sonata]] built on 4 Movements, each contai
 >Physics are poetry in a world, [[Arcanoria]], where music is magic. No Atoms. No Mana. Only a [[Fundamental Frequency]] vibrating the song of its [[Soul-Key]]._
 >
 
-- **Movement 1. The Dream (Chapters 1-2)**
-		
+- **Movement 1. The Dream (Score 1-2)**
+	_"There is a place, where the trees grow violet."_
+	
+	Act 0 — Weight (Chapter 0)
+	
 	- **Score I: A [[Ballad]] Before [[Iridia]]**
 			
 		_[[Resonance]] | [[Key of Attunement]]_
 		
-		Chapter 1 — The [[Void]] of the Crown of Dying Static (Score I | Act 1) **(Public Release Day 1)**
-		Chapter 2 — The First Birthday of a Starving Caravan (Score I | Act 2) **(Public Release Day 1)** [Cycle Birthday 2 - Age 8]
-		Chapter 3 — Remnants of Hope and [[Ballad]]s (Score I | Act 3) **(Public Release Day 1)**
-		Chapter 4 — [[The Golden Light in the Sky]] and the [[Auroral Ribbons]] (Score I | Act 4) **(Public Release Day 1)**
-		Chapter 5 — The Dawn That Drowned In Fire (Score I | Act 5) **(Public Release Day 1)**
-		Chapter 6 — The Coronation of The Violet Empress (Score I | Act 6) **(Public Release Day 1)** [Cycle Birthday 3 - Age 12]
+		Act 1 — The [[Void]] of the Crown of Dying Static (Chapter 1) **(Public Release Day 1)**
+		
+		Act 2 — The First Birthday of a Starving Caravan (Chapter 2-4) **(Public Release Day 1)**
+			Chapter 2 — An Awakening from Grief-Static (Act 2 | Part I)
+			Chapter 3 — The Vow of Consonance (Act 2 | Part II)
+			Chapter 4 — The Symphony of War for an [[Auric Peach]] (Act 2 | Part III) [Cycle Birthday 2 - Age 8]
+			
+		Act 3 — Remnants of Hope and [[Ballad]]s (Chapter 5-7) **(Public Release Day 1)**
+			Chapter 5 — The Auric Mythos of the Seven [[Cycle]]s of [[Void]] & [[Luminance]] (Act 3 | Part I)
+			Chapter 6 — [[Eclipsed Waterfalls]] (Act 3 | Part II)
+			Chapter 7 — The Shadow Thief & The Saber-Knight (Act 3 | Part III)
+			
+		Act 4 — [[The Golden Light in the Sky]] and the [[Auroral Ribbons]] (Score I | Act 4) **(Public Release Day 1)**
+		Act 5 — The Dawn That Drowned In Fire (Score I | Act 5) **(Public Release Day 1)**
+		Act 6 — The Coronation of The Violet Empress (Score I | Act 6) **(Public Release Day 1)** [Cycle Birthday 3 - Age 12]
 		
 	- **Score II: Pas de Deux of Strings and Steel**
 		
 		_[[Luminance]] | [[Sufficient Precision]]_
 		
-		Chapter 7 — A Vow of Knighthood in [[Crystal]] (Score II | Act 7) **(Public Release Day 2)**
-		Chapter 8 — Survivors of the [[Sectile]] Hunt (Score II | Act 8) **(Public Release Day 2)** [Cycle Birthday 4 - Age 16]
-		Chapter 9 — One [[Beat]], Two Feel, Three Sing (Score II | Act 9) **(Public Release Day 2)**
-		Chapter 10 — The Prodigy of the Blade in the Duet of Strings (Score II | Act 10)  **(Public Day 3)** [Artus Cycle Birthday 5]
-		Chapter 11 — Waltz of Memory, Love, And [[Resonance]] (Score II | Act 11) **(Public Day 3)**
-		Chapter 12 — A Wish For My Greatest Knight (Score II | Act 12) **(Public Day 3)**  [Cycle Birthday 5 - Age 20] | [Artus Age 22]
+		Act 7 — A Vow of Knighthood in [[Crystal]] (Score II | Act 7) **(Public Release Day 2)**
+		Act 8 — Survivors of the [[Sectile]] Hunt (Score II | Act 8) **(Public Release Day 2)** [Cycle Birthday 4 - Age 16]
+		Act 9 — One [[Beat]], Two Feel, Three Sing (Score II | Act 9) **(Public Release Day 2)**
+		Act 10 — The Prodigy of the Blade in the Duet of Strings (Score II | Act 10)  **(Public Day 3)** [Artus Cycle Birthday 5]
+		Act 11 — Waltz of Memory, Love, And [[Resonance]] (Score II | Act 11) **(Public Day 3)**
+		Act 12 — A Wish For My Greatest Knight (Score II | Act 12) **(Public Day 3)**  [Cycle Birthday 5 - Age 20] | [Artus Age 22]
 		
-- **Movement 2. The World (Chapters 3-6)**
-		
+- **Movement 2. The World (Score 3-6)**
+	_"Across the sea, to the land beyond."_
+	
 	- **Score III: The Violet in the [[Waltz of Wandering Love]]**
 		
 		_[[Flux]] | [[Emotional Authenticity]]_
 		
-		Chapter 13 — The Violet Actress of Living Grief (Score III | Act 13) **(Patron Day 1)**
-		Chapter 14 — Across the Sea to the Land Beyond (Score III | Act 14) **(Patron Day 2)**
-		Chapter 15 — The [[Waltz of Wandering Love]] (Score III | Act 15) **(Patron Day 2)**
-		Chapter 16 — The Name Beneath the Stage (Score III | Act 16) **(Patron Day 3)**
-		Chapter 17 — The Knight Who Keeps Sacrificing Herself (Score III | Act 17)
-		Chapter 18 — The Linen Tissue of the Love Waltz (Score III | Act 18)
+		Act 13 — The Violet Actress of Living Grief (Score III | Act 13) **(Patron Day 1)**
+		Act 14 — Across the Sea to the Land Beyond (Score III | Act 14) **(Patron Day 2)**
+		Act 15 — The [[Waltz of Wandering Love]] (Score III | Act 15) **(Patron Day 2)**
+		Act 16 — The Name Beneath the Stage (Score III | Act 16) **(Patron Day 3)**
+		Act 17 — The Knight Who Keeps Sacrificing Herself (Score III | Act 17)
+		Act 18 — The Linen Tissue of the Love Waltz (Score III | Act 18)
 		
 	- **Score IV: [[Rose Seed]]s of High Society & [[The Call of the Dreamweaver]]**
 		
 		_[[Void]] | [[Essence Sacrifice]]_
 		
-		Chapter 19 — The Birth of [[Obsidian Feather]]s and the [[Hollow-Point]] (Score IV | Act 19)
-		Chapter 20 — Silk And Lavender in the Scent of Roses (Score IV | Act 20)
-		Chapter 21 — The Rules of This House Are Not the Rules of the World (Score IV | Act 21)
-		Chapter 22 — A [[Dance]] of [[Crystal]] and Shadow (Score IV | Act 22)
-		Chapter 23 — [[The Call of the Dreamweaver]] and the Fire of the [[Coward]] (Score IV | Act 23)
-		Chapter 24 — Everything Beautiful and Wrong (Score IV | Act 24)
+		Act 19 — The Birth of [[Obsidian Feather]]s and the [[Hollow-Point]] (Score IV | Act 19)
+		Act 20 — Silk And Lavender in the Scent of Roses (Score IV | Act 20)
+		Act 21 — The Rules of This House Are Not the Rules of the World (Score IV | Act 21)
+		Act 22 — A [[Dance]] of [[Crystal]] and Shadow (Score IV | Act 22)
+		Act 23 — [[The Call of the Dreamweaver]] and the Fire of the [[Coward]] (Score IV | Act 23)
+		Act 24 — Everything Beautiful and Wrong (Score IV | Act 24)
 		
 	- **Score V: The Impossible Expedition of the [[Crescent Mist Peaks]]**
 		
 		_[[Cindergale]] | [[Perfect Focus]]_
 		
-		Chapter 25 — Chaos of the Boreal Reach and The [[Lunar Abyss]] (Score V | Act 25)
-		Chapter 26 — The [[Dance]] of Light and Shadow (Score V | Act 26)
-		Chapter 27 — A Clash of [[Flux]] and [[Cindergale]] (Score V | Act 27)
-		Chapter 28 — A Horrible, Unforgiving Nightmare (Score V | Act 28) [Cycle Birthday 6 - Age 24]
-		Chapter 29 — Magic is Nothing More and Nothing Less than the Courage to Heal (Score V | Act 29)
-		Chapter 30 — [[Strand Pool]]s and [[Time Bubble]]s of the Silver Cascades (Score V | Act 30)
+		Act 25 — Chaos of the Boreal Reach and The [[Lunar Abyss]] (Score V | Act 25)
+		Act 26 — The [[Dance]] of Light and Shadow (Score V | Act 26)
+		Act 27 — A Clash of [[Flux]] and [[Cindergale]] (Score V | Act 27)
+		Act 28 — A Horrible, Unforgiving Nightmare (Score V | Act 28) [Cycle Birthday 6 - Age 24]
+		Act 29 — Magic is Nothing More and Nothing Less than the Courage to Heal (Score V | Act 29)
+		Act 30 — [[Strand Pool]]s and [[Time Bubble]]s of the Silver Cascades (Score V | Act 30)
 		
 	- **Score VI: Crux Upward to the Whispering Gallery**
 		
 		_[[Crystal]] | [[Absolute Certainty]]_
 		
-		Chapter 31 — The Crescent Veils of [[Aetherlight]] and [[Lunehymn]] (Score VI | Act 31)
-		Chapter 32 — The [[Scorching Truth]] of the [[Atonalis]] (Score VI | Act 32)
-		Chapter 33 — Where are you!? Please! Answer!! (Score VI | Act 33)
-		Chapter 34 — And You Have Bleed Enough, Remember? (Score VI | Act 34)
-		Chapter 35 — A Dream Bathed in the Song of Gold (Score VI | Act 35)[Age 25]
-		Chapter 36 — [[Consonance]] Lies in the Future, Not the Past (Score VI | Act 36)
+		Act 31 — The Crescent Veils of [[Aetherlight]] and [[Lunehymn]] (Score VI | Act 31)
+		Act 32 — The [[Scorching Truth]] of the [[Atonalis]] (Score VI | Act 32)
+		Act 33 — Where are you!? Please! Answer!! (Score VI | Act 33)
+		Act 34 — And You Have Bleed Enough, Remember? (Score VI | Act 34)
+		Act 35 — A Dream Bathed in the Song of Gold (Score VI | Act 35)[Age 25]
+		Act 36 — [[Consonance]] Lies in the Future, Not the Past (Score VI | Act 36)
 		
-- **Movement 3. The Shattering (Chapters 7-9)**
-		
+- **Movement 3. The Shattering (Score 7-9)**
+	_"It's a wandering love, a beautiful waltz."_ 
+	
 	- **Score VII: The Dawn of [[Iridia]] and the Violet Empress**
 		
 		_[[Strand]] | [[Echoing Bonds]]_
 		
-		Chapter 37 — There Is A Place, Where the Trees Grow Violet (Score VII | Act 37)
-		Chapter 38 — A Safe Haven of [[Ballad]]s & Fantasy [[Civic]] Plays (Score VII | Act 38)
-		Chapter 39 — The Seed of [[Revelation]] of the Violet Grove (Score VII | Act 39)
-		Chapter 40 — [[Dear Fugue]], My Beloved Black Wing (Score VII | Act 40)
-		Chapter 41 — Dawn Must Come for Those Who Cannot Watch Themselves (Score VII | Act 41)
-		Chapter 42 — Do You Recognize Him!? Of Course You Do!! (Score VII | Act 42) [Cycle Birthday 7 - Age 28]
+		Act 37 — There Is A Place, Where the Trees Grow Violet (Score VII | Act 37)
+		Act 38 — A Safe Haven of [[Ballad]]s & Fantasy [[Civic]] Plays (Score VII | Act 38)
+		Act 39 — The Seed of [[Revelation]] of the Violet Grove (Score VII | Act 39)
+		Act 40 — [[Dear Fugue]], My Beloved Black Wing (Score VII | Act 40)
+		Act 41 — Dawn Must Come for Those Who Cannot Watch Themselves (Score VII | Act 41)
+		Act 42 — Do You Recognize Him!? Of Course You Do!! (Score VII | Act 42) [Cycle Birthday 7 - Age 28]
 		
 		**End of the [[Auric Heptacode]] | Start of the [[Seven Weights]]**
 		
@@ -750,86 +1849,106 @@ The Entire Novel of [[Amadea]] is a [[Sonata]] built on 4 Movements, each contai
 		
 		_[[Weight of Purpose]] | [[Fragment of Meaning]]_
 		
-		Chapter 43 — Safety Without Freedom is Just Another Form of Violence (Score VIII | Act 43)
-		Chapter 44 — The Shadow War of the [[Delusional]] Fox Against the Great Owl (Score VIII | Act 44)
-		Chapter 45 — The [[Great Justiciar]] Who Keeps Sacrificing Herself (Score VIII | Act 45)
-		Chapter 46 — A Noble Sacrifice of A Cost Too Great For A Single Soul To Bear (Score VIII | Act 46)
-		Chapter 47 — The Second Death of [[Artus]] (Score VIII | Act 47)
-		Chapter 48 — Wear the Fox-Mask, Empress of Nothing (Score VIII | Act 48)
+		Act 43 — Safety Without Freedom is Just Another Form of Violence (Score VIII | Act 43)
+		Act 44 — The Shadow War of the [[Delusional]] Fox Against the Great Owl (Score VIII | Act 44)
+		Act 45 — The [[Great Justiciar]] Who Keeps Sacrificing Herself (Score VIII | Act 45)
+		Act 46 — A Noble Sacrifice of A Cost Too Great For A Single Soul To Bear (Score VIII | Act 46)
+		Act 47 — The Second Death of [[Artus]] (Score VIII | Act 47)
+		Act 48 — Wear the Fox-Mask, Empress of Nothing (Score VIII | Act 48)
 		
 	- **Score IX: The Light in the [[Mythical Virtuoso]] and [[The Principles of Magic]]**
 		
 		_[[Weight of Flaw]] | [[Fragment of Lucidity]]_
 		
-		Chapter 49 — The Dawn of the [[Mythical Virtuoso]] of the Feathered Wyrm (Score IX | Act 49)
-		Chapter 50 —  I Am The North Star of My Own [[Celestial Astrolabe]] (Score IX | Act 50)
-		Chapter 51 — The Seven Founding Architects of [[The Principles of Magic]] (Score IX | Act 51)
-		Chapter 52 — Run Into Love To Destroy Who You Used To Be (Score IX | Act 52)
-		Chapter 53 — The [[Magnum Opus]] of Obsidian & Shadow Ink (Score IX | Act 53)
-		Chapter 54 — [[Potential of Creation]], [[Key of Attunement]], [[Mastery Over Chaos]] (Score IX | Act 54) [Cycle Birthday 8 - Age 32]
+		Act 49 — The Dawn of the [[Mythical Virtuoso]] of the Feathered Wyrm (Score IX | Act 49)
+		Act 50 —  I Am The North Star of My Own [[Celestial Astrolabe]] (Score IX | Act 50)
+		Act 51 — The Seven Founding Architects of [[The Principles of Magic]] (Score IX | Act 51)
+		Act 52 — Run Into Love To Destroy Who You Used To Be (Score IX | Act 52)
+		Act 53 — The [[Magnum Opus]] of Obsidian & Shadow Ink (Score IX | Act 53)
+		Act 54 — [[Potential of Creation]], [[Key of Attunement]], [[Mastery Over Chaos]] (Score IX | Act 54) [Cycle Birthday 8 - Age 32]
 		
 - **Movement 4. The Resistance (Chapters 10-14)**
-		
+	_"You, too, deserve the purest of love."_ 
+	
 	- **Score X: The Empire of Laureated Marble**
 		
 		_[[Weight of Indulgence]] | [[Fragment of Catharsis]]_
 		
-		Chapter 55 — The Tragedy of Two Prodigies (Score X | Act 55)
-		Chapter 56 — The Colosseum of the Aurean Winds (Score X | Act 56)
-		Chapter 57 — The [[Sacrificial Lamb]] of Contrition, [[Revelation]], and [[Piety]] (Score X | Act 57)
-		Chapter 58 — Let Go Of This Place! Join Me, Join [[Iridia]]! (Score X | Act 58)
-		Chapter 59 — [[A Pact of a Thousand Eyes]] (Score X | Act 59) 
-		Chapter 60 — What If You Could Be Yourself, [[Luminaire]]? (Score X | Act 60)
+		Act 55 — The Tragedy of Two Prodigies (Score X | Act 55)
+		Act 56 — The Colosseum of the Aurean Winds (Score X | Act 56)
+		Act 57 — The [[Sacrificial Lamb]] of Contrition, [[Revelation]], and [[Piety]] (Score X | Act 57)
+		Act 58 — Let Go Of This Place! Join Me, Join [[Iridia]]! (Score X | Act 58)
+		Act 59 — [[A Pact of a Thousand Eyes]] (Score X | Act 59) 
+		Act 60 — What If You Could Be Yourself, [[Luminaire]]? (Score X | Act 60)
 		
 	- **Score XI: The Rise of the [[All-Loving Moon]]**
 		
 		_[[Weight of Value]] | [[Fragment of Acceptance]]_
 		
-		Chapter 61 — You All Deserve the [[Purest of Love]] (Score XI | Act 61)
-		Chapter 62 — The Messiah of Silence and The [[Eight-Wings of Lacrimosa]] (Score XI | Act 62)
-		Chapter 63 — The Fall of Leaders (Score XI | Act 63) 
-		Chapter 64 — The Fall of [[Trade Nodes]] and Infrastructure (Score XI | Act 64) 
-		Chapter 65 — The Fall of [[Enclave]]s, Starvation, and Cessation of All Joy (Score XI | Act 65) 
-		Chapter 66 — The Dawn of the [[Age of the False Messiah]] (Score XI | Act 66)
+		Act 61 — You All Deserve the [[Purest of Love]] (Score XI | Act 61)
+		Act 62 — The Messiah of Silence and The [[Eight-Wings of Lacrimosa]] (Score XI | Act 62)
+		Act 63 — The Fall of Leaders (Score XI | Act 63) 
+		Act 64 — The Fall of [[Trade Nodes]] and Infrastructure (Score XI | Act 64) 
+		Act 65 — The Fall of [[Enclave]]s, Starvation, and Cessation of All Joy (Score XI | Act 65) 
+		Act 66 — The Dawn of the [[Age of the False Messiah]] (Score XI | Act 66)
 		
 	- **Score XII: [[The Hollowing]] of [[Arcanoria]]
 		
 		_[[Weight of Nature]] | [[Fragment of Defiance]]_
 		
-		Chapter 67 — The Dream of the Tide Singer (Score XII | Act 67) 
-		Chapter 68 — [[Cordelia]], the Time Bender, the Panacea and Mother of All Healers (Score XII | Act 68)
-		Chapter 69 — I-I can't!? There has to be another way, answer me!! This can't be real!! (Score XII | Act 69)
-		Chapter 70 — The Blazing Heart of the Resistance (Score XII | Act 70) 
-		Chapter 71 — The Maverick Beneath the Mastermind (Score XII | Act 71) [Cycle Birthday 9 - Age 36]
-		Chapter 72 — The [[Shadow Order]] Under the [[Voice of the Heavens]] (Score XII | Act 72)
+		Act 67 — The Dream of the Tide Singer (Score XII | Act 67) 
+		Act 68 — [[Cordelia]], the Time Bender, the Panacea and Mother of All Healers (Score XII | Act 68)
+		Act 69 — I-I can't!? There has to be another way, answer me!! This can't be real!! (Score XII | Act 69)
+		Act 70 — The Blazing Heart of the Resistance (Score XII | Act 70) 
+		Act 71 — The Maverick Beneath the Mastermind (Score XII | Act 71) [Cycle Birthday 9 - Age 36]
+		Act 72 — The [[Shadow Order]] Under the [[Voice of the Heavens]] (Score XII | Act 72)
 		
 	- **Score XIII: The Shadow in the Light of the [[Moon]]**
 		
 		_[[Weight of Potential]] | [[Fragment of Vision]]_
 		
-		Chapter 73 — Five Rings of the [[Mythical Virtuoso]] (Score XIII | Act 73)
-		Chapter 74 — A [[Memory Field]] of a Nameless Harbor (Score XIII | Act 74)
-		Chapter 75 — The Girl Left Behind That Changed a God (Score XIII | Act 75)
-		Chapter 76 — A Vow of Daybreak of in the [[Age of Legends]] (Score XIII | Act 76)
-		Chapter 77 — Requiem Aeternam Dona Eis, [[Lacrimosa]] (Score XIII | Act 77)
-		Chapter 78 — The Encore of Ten Thousand Voices (Score XIII | Act 78) [Cycle Birthday 10 - Age 40]
+		Act 73 — Five Rings of the [[Mythical Virtuoso]] (Score XIII | Act 73)
+		Act 74 — A [[Memory Field]] of a Nameless Harbor (Score XIII | Act 74)
+		Act 75 — The Girl Left Behind That Changed a God (Score XIII | Act 75)
+		Act 76 — A Vow of Daybreak of in the [[Age of Legends]] (Score XIII | Act 76)
+		Act 77 — Requiem Aeternam Dona Eis, [[Lacrimosa]] (Score XIII | Act 77)
+		Act 78 — The Encore of Ten Thousand Voices (Score XIII | Act 78) [Cycle Birthday 10 - Age 40]
 		
 	- **Score XIV: The Circlet of the Violet Grove**
 		
 		_[[Weight of Change]] | [[Fragment of Rebirth]]_
 		
-		Chapter 79 — The Story of the Golden Tree (Score XIV | Act 79)  [Cycle Birthday 13 - Age 52]
-		Chapter 80 — (Score XIV | Act 80)
-		Chapter 81 — Singers Remember When The Living Cannot (Score XIV | Act 81) [Cycle Birthday 14 - Age 56]
-		Chapter 82 — (Score XIV | Act 82)
-		Chapter 83 — (Score XIV | Act 83)
-		Chapter 84 — The [[Legend]] of the [[Crown of Feathered Obsidian]] (Score XIV | Act 84) [Cycle Birthday 15 - Age 60]
+		Act 79 — The Story of the Golden Tree (Score XIV | Act 79)  [Cycle Birthday 13 - Age 52]
+		Act 80 — (Score XIV | Act 80)
+		Act 81 — Singers Remember When The Living Cannot (Score XIV | Act 81) [Cycle Birthday 14 - Age 56]
+		Act 82 — (Score XIV | Act 82)
+		Act 83 — (Score XIV | Act 83)
+		Act 84 — The [[Legend]] of the [[Crown of Feathered Obsidian]] (Score XIV | Act 84) [Cycle Birthday 15 - Age 60]
 
 ![[Amadea Wandering Violet 2.png]]
 
 In the grand scale of [[Arcanoria]], [[Amadea]]'s life and the [[Sonata]] of the Violet Empress represent the transition of [[Ages]] II, the [[Age Crisis]] of [[The Hollowing]] and [[Ages]] III. [[Amadea]] is born in the last [[Act of Fate]] of [[Ages]] II of the [[Age of Embers]], through this entire [[Act of Fate]] she founds [[Iridia]] and fights [[Pollux]]. The [[Age Crisis]] begins in Movement 4: The Resistance, which features the [[Age Crisis]] after [[A Pact of a Thousand Eyes]], and it ends with the death of [[Pagiel]]. When [[Pagiel]] dies, this is the first [[Act of Fate]] of [[Ages]] III. [[Amadea]] dies at 60 of old age in the first [[Act of Fate]] of [[Ages]] III, leaving the legacy of the [[Age of Legends]] that eventually concludes [[The Hollowing]] and its transition to the [[Law of Relics]] in the next two [[Act of Fate]], and its future [[Age Crisis]] of [[The Birth of the Hyper Chord]].
 
+Whenever [[Amadea]] is about to do something dangerous or she's lost, such as the moment when she's infiltrating the aristocracy, she tends to utter a few words to herself. _“She implored the heavens until dawn. Tell me, Silver Moon, which voice is the note of Consonance?”_
+
+This is a Ballad fragment from [[Vaelia]], mother of all bards, that she learned from [[Elaine]] as [[Elaine]] used this to ground herself when she's doing something dangerous. This is a memory that survived in [[Amadea]], as it also was the first time [[Elaine]] singed to her when she braided the knot of her hair.
+
+[[Auric Geometry]] matters a lot for the chalice basin landmark that is [[Iridia]] sitting on for reasons related to her childhood caravan:
+
+- **Theological Perfection:** In the mythos of the Auric Order, a chalice-like basin is not just a valley; it is a manifestation of the Auric Aria's perfect geometry. Because of its steep, encircling walls and recessed floor, the basin acts as a natural acoustic trap. It catches the flowing Resonance of the Leylines and harmonizes it, creating an area of high Coherence where the primal white noise and Static Criticality cannot easily penetrate.
+- **Corvin’s Ultimate Redemption:** As a Threat Cartographer, Corvin is haunted by the fact that he miscalculated the boundaries of the Militant Enclave's spire, leading to its implosion and the death of his children. A sacred chalice basin represents a boundary built by the cosmos itself. For Corvin, bringing The Last Procession to a natural, mathematically perfect fortress means he doesn't have to engineer the walls himself—meaning he cannot miscalculate, and he cannot fail the children again. It is the ultimate psychological and architectural redemption.
+- **The Geographic Anchor:** The basin that eventually becomes Iridia is hidden behind the Crescent Mist Peaks, sheltered by the colossal, mist-shrouded drops of the Eclipsed Waterfalls. The running water naturally purifies the air of Luminant Rot and grounds the environmental magic.
+- **The Soil of the Grove:** The constant mist and deep Leyline convergence in this basin create the exact, impossibly rare soil conditions required for the Auric Peach tree—the seed Artus originally gave Amadea—to bloom with the specific, violet-hued radiance that gives the Violet Grove its name.
+- Iridia is the private dream with [[Artus]] **The Public Myth vs. The Private Vow:** To the rest of the world, the city Amadea founds is a sanctuary, the capital of the Obsidian Feather Society, and a bastion against the Purest of Love. But the name "Iridia" is the private, whispered promise she shared with Artus in the dark of [[Age of Behemoths]] looking at the [[Grand Thread Rings]].
+- **Honoring the Knight:** Naming the city Iridia is Amadea's way of ensuring that the nameless orphan boy who spun ballads to keep her sane is cemented into the bedrock of reality.
+- **Stasis vs. Motion:** Corvin’s tragedy was attempting to keep a fragile sanctuary alive while in constant, desperate motion across the Age of Embers. Amadea learns from his failure. She realizes that to protect the vulnerable, the sanctuary must be rooted in unyielding stone. Iridia is The Last Procession finally coming to a halt.
+- **The Living Artifacts:** Amadea fills Iridia's chalice basin with the exact things Corvin tried to save: the Pure Light buffalo, the children who survived the wastelands, the Civic plays and ballads that keep memory alive, and the protective, sweeping perimeters. She succeeds where her surrogate father failed, becoming the architect of the safe haven he died trying to find.
+
 Add soft worldbuilding details of food, [[Auric Peach]], celebrations, [[Civic]]s, and communal rites of [[Spellweaving]] as celebration. Expand upon preparation of food within the caravan and later in [[Iridia]]. Detailing how [[Amadea]] and [[Cordelia]] cook meals on the road—perhaps roasting the mundane [[Auric Peach]]es over [[Cindergale]]-sparked fires—could serve as a crucial pacing mechanism. Eating together is the ultimate act of vulnerability in a predatory world. The sharing of [[Auric Peach]] preserves could eventually become a formal [[Civic]] sacrament in [[Iridia]], transforming a mundane survival tactic into a holy communion given that this was the first gift of [[Amadea]]. Cooking is introduced as early as chapter 2 as one of the utilities of magic in the caravan.
+
+Amadea scene on massages and she hates being touched while Cordelia likes them this is asymmetrical showing that Cordelia does like care and touch without violence. These are two scenes of these massages, during the travel before Iridia and in the cycles between Iridia and the war with Pollux, the latter of this scenes features Cordelia having a healed back after the scars have receded.
+
+Moonlit vigil attended by Cordelia hoping to find someone but comes back alone- She does this twice in her life, and these are the key flag events for gateway to genesis. To marry Cordelia, one of the player characters has to appear in these events.
 
 [[Amadea]] does harbor some resentment for the aristocracy given that she was deprived of a safe household to live when she was younger, this develops as jealousy during her teenage [[Cycle]]s and even becomes a trope she channels into humor with [[Cordelia]] later down her life. As [[Cordelia]] had a background where she was fed properly regularly while [[Amadea]] was starving, [[Amadea]] views this as a direct impact in their development, particularly on the fact that [[Cordelia]] is slightly taller than her, and that she has a bigger chest. This difference is usually buried beneath her [[Fatalistic Embracer]] shield, but whenever she allows herself to feel, like on the [[Eclipsed Waterfalls]] scenes, or when she's drunk, she does ask [[Cordelia]] why are her breasts bigger than hers, and if it's because she was well fed, usually using this humor as a way to vent given the embarrassment from the aristocrat. This is the reason why on the second scene of the [[Eclipsed Waterfalls]], she pursues [[Cordelia]] and grabbing her breasts from behind to Supplex [[Cordelia]] into the water.
 
@@ -879,6 +1998,10 @@ In the [[Crescent Mist Peaks]], [[Cordelia]] adopts a [[Pure Light]] creature on
 
 Moreover, [[Elaine]] and [[Kay]] danced together to fight, this was her ideal relationship that she wanted to have with [[Artus]], and when [[Artus]] dies it's one of the things that haunts her, especially when dealing with the [[Purest of Love]] because [[Seraph]] & [[Arioch]] are both dancers together that are a glimpse into the future that [[Amadea]] wanted with [[Artus]]. Both her past and her future are haunted by seeing two couples do dance fighting while she had to be alone by herself. The partner [[Dance]] style is adopted by the [[Artusian Knight]]s as her atonement when she founds [[Iridia]],
 
+[[Lazarus]] and the [[Eleos Bloom]] carnivorous nymphs that he has are the first pre cursor to [[Velvet Nectar]] which is what the certain variations of [[Eleos Bloom]] nymphs produce by feeding on [[Emotional Residue]] and physical fluids of a subjugated victim, the byproduct creates flowers the same type as their [[Soul Leitmotif]] primary color, these are harvested afterwards as they are highly exquisite leaves that produce incredibly rich tea. [[Lazarus]] dubs these as [[Velvet Nectar]] and it's the first variation. However, they don't go anywhere besides his own garden once he is assassinated by [[Pollux]] and take only after [[Ages]] IV with the velvet cage continuing the legacy once [[Lacrimosa]] became the [[Law of Relics]]. The Velvet Cage enclave reclaims the identity of the [[Court of Delicacies]] much later, and treats [[Lazarus]] as the first gardener while despising [[Pollux]] for being the barbarian who interrupted the bloom out of "envy" of his garden.
+
+Amadea drinks one of the velvet nectar teas during the infiltration missions before she knows what they are, she says it's the sweetest thing she's ever tasted and it's only rivalled by the purest of auric peaches but that this herbal infusion is arguably better. She receives it from a noble close to Lazarus garden, it's the distilled version of a subjugated victim that fell to the corpse bouquet but she doesn't know this yet.  She becomes horrified by the revelation later in the narrative when she discovers after killing the nymph what the tea actually is and that she almost became tea herself if she was beaten by the nymph and if it "pollinated" her.
+
 [[Amadea]] has a conflicting problem of figuring out who her mother is, whether her biological mother or [[Elaine]]. This stems from the fact that she can't recall most of her time with her biological mother besides some details of her singing, the fact that she called her [[Amadea]] as her only true inheritance, and the memories of when they were running together and that she sacrificed herself before she blew up in [[Static Criticality]] when she left her with [[Corvin]] and the caravan. While [[Elaine]], while not her mother, did provide for her the architecture of her magic. This becomes notorious when she's isolated and mourning in the acts where she feels lonely the most, like the moment she's having nightmares about [[Artus]] that then spiral into nightmares about forgetting her past in general. She wants to recall more about her time with her biological mother but she is unable to do so, she doesn't truly remember her name either.
 
 She doesn't recall her father at all so she sees [[Corvin]] entirely as her father. She speculates that it is likely that his mother raised her alone as his father died with the [[Great Plague]] much earlier than she can remember. For one moment in Score VI of [[Strand]] she decides if she should go back to her homeland to find her past through any type of [[Memory Field]], but decides not to as she has to look first for the Violet Grove or else she will stop moving forward entirely. This lack of information gets weaponized by [[Pollux]] when she prompts her about her past as he realizes [[Amadea]] desperately wants to know about her biological family whenever she's at her worst. [[Pollux]] doesn't know either because those specific details were impossible for him to recover when she went to hunt for [[Amadea]]'s past but uses it as bluff for her to break and submit to the [[Court of Delicacies]].
@@ -899,6 +2022,8 @@ The title "Violet Empress" was not born from flowers, but from blood. As the his
  
 [[Orphael]] is a profound figure for [[Amadea]] to begin learning how to express and process her own emotions and turn the grief of her [[Flux]] into transforming music. He does this from his own experience with being [[Lustful]] and the same it leaves behind translating directly into his [[Tide Singing Arts]] as a [[Romantic Hedonist]] and with his worst parts of his [[Self-Indulgent Slave]] [[Weight of Nature]] that drove him to the [[Crescent Mist Peaks]] in a suicidal mission in the first place. The exchange is the key that [[Amadea]] requires to change the ghost of [[Artus]] through [[Flux]] into the music and accompaniment of [[Dear Fugue]]. He is also a critical piece for establishing the [[Enclave]] connection of [[Iridia]] and developing the [[Civic]] of [[Ballad]]s & Fantasy plays.
 
+Some of the inspiration for the practices of the [[Civic]] of [[Ballad]]s & Fantasy plays is directly inspired by the named children of her childhood in the caravan. [[Lynette]] inspires the ritual before performers enter where the brief exchange of the actors signals that no show starts until every hand is accounted for. [[Chen]] mastery over repairing is the symbol he corrected for [[Artus]] that eventually becomes the sigil of [[Iridia]]'s entire waterworks division, and even [[Carmina]] becomes the scripts that represent the lead roles through shapes to explain the main characters.
+
 When the [[Mythical Virtuoso]] begin losing to [[The Hollowing]] [[Amadea]] adopts a ring in each of her fingers of her left hand to represent the 5 [[Mythical Virtuoso]], she has a ring in each finger for [[Sephira]], [[Cordelia]], [[Orphael]], [[Luminaire]], and herself, and it's her reminder of their legacy against the [[All-Loving Moon]]. She also roots herself with her fingers as [[Amadea]] usually relies on tactile intelligence to ground herself as she's been doing since childhood.
 
 [[Amadea]]'s journey in childhood has the essence of made in abyss walking through mythical dark fantasy landscapes on the original continent where she was born. There's a scene where they're all taking a bath in the mythical [[Eclipsed Waterfalls]] and that's something that sticks in the mind of young [[Amadea]], becomes a motif when she's with Artus, and again with [[Cordelia]] when they're together. Ultimately, this is the reason why the Thermal Baths of [[Iridia]] exist as a [[Civic]]. They are bound to the volcanoes region near [[Iridia]] as much as they are to [[Amadea]]'s memory of her childhood,  [[Artus]], and the journey with the [[Mythical Virtuoso]].
@@ -906,10 +2031,9 @@ When the [[Mythical Virtuoso]] begin losing to [[The Hollowing]] [[Amadea]] adop
 The [[Crescent Mist Peaks]] have a similar scenery on the crescent veils and that's why it triggers her memories of childhood compounding her nostalgia and isolation. Likewise, [[Amadea]]'s feeling of inhaling cold air is a quirk of [[Amadea]] that gets developed during these times with the caravan and becomes a recurring motif for her own environmental experience recurring from childhood to the very [[Crescent Mist Peaks]].
 
 While [[Cordelia]] canonically chooses [[The Hollowing]] and this is the moment [[Amadea]]
-reaches her [[Void]] [[Apex Trait]], in [[Gateway To Genesis]] it is possible to change the course of history just like how it is possible to prevent [[Medea]]'s tragedy. It changes parts of the storyline but it maintains [[Cordelia]] as a core member of the resistance instead of [[The Hollowing]]. To achieve this, the [[Third Actor]] has to engage in the [[Romantic Interest]] system and marry [[Cordelia]]. Regardless of the gender, triggering this specific quest for building a family for her is the lifeline that saves her just like [[Ligeia]]. Canonically it doesn't arrive, but [[Cordelia]] is the only of the [[Mythical Virtuoso]] that has a romance option precisely for this interaction to completing the [[Waltz of Wandering Love]]. If it's a [[Romantic Interest]] of the opposite gender, it is possible to have her children as founding [[Legend]]s and [[Artusian Knight]]s.
+reaches her [[Singularity of True Love]] [[Void]] [[Apex Trait]] in [[Gateway To Genesis]] it is possible to change the course of history just like how it is possible to prevent [[Medea]]'s tragedy. It changes parts of the storyline but it maintains [[Cordelia]] as a core member of the resistance instead of [[The Hollowing]]. To achieve this, the [[Third Actor]] has to engage in the [[Romantic Interest]] system and marry [[Cordelia]]. Regardless of the gender, triggering this specific quest for building a family for her is the lifeline that saves her just like [[Ligeia]]. Canonically it doesn't arrive, but [[Cordelia]] is the only of the [[Mythical Virtuoso]] that has a romance option precisely for this interaction to completing the [[Waltz of Wandering Love]]. If it's a [[Romantic Interest]] of the opposite gender, it is possible to have her children as founding [[Legend]]s and [[Artusian Knight]]s.
 
-The decision of saving [[Cordelia]] does change which [[Apex Trait]] [[Amadea]] has as her [[Void]] [[Apex Trait]] but she still gets the three [[Apex Trait]]s as it is the "Good Ending" of the [[Mythical Virtuoso]]. It's not possible to save either [[Orphael]] or [[Luminaire]], but [[Cordelia]] is the one exception. If she doesn't hollow, she will die alongside [[Amadea]] and [[Sephira]] in the start of [[Ages]] III leaving the legacy to [[Iridia]]. This weakens the [[Purest of Love]] as she is no longer a key actor in [[Ages]] III during the fights with the [[Eight-Wings of Lacrimosa]]. While [[Amadea]] is a [[Constellation]] individually stronger if [[Cordelia]] defects, she obtains a unique [[Legend Opus]] for dying of old age while [[Cordelia]] is still alive.
-
+The decision of saving [[Cordelia]] does change which [[Apex Trait]] [[Amadea]] has as her [[Void]] [[Apex Trait]] but she still gets the three [[Apex Trait]]s as it is the "Good Ending" of the [[Mythical Virtuoso]]. It's not possible to save either [[Orphael]] or [[Luminaire]], but [[Cordelia]] is the one exception. If she doesn't hollow, she will die alongside [[Amadea]] and [[Sephira]] in the start of [[Ages]] III leaving the legacy to [[Iridia]]. This weakens the [[Purest of Love]] as she is no longer a key actor in [[Ages]] III during the fights with the [[Eight-Wings of Lacrimosa]]. While [[Amadea]] is a [[Constellation]] individually stronger if [[Cordelia]] defects, she obtains a unique [[Legend Opus]] for dying of old age while [[Cordelia]] is still alive. [[Flesh-Binding Ritual]]
 
 #### Evolution & Physical Description of [[Amadea]]
 
@@ -1200,179 +2324,15 @@ The shared moment of naming as memory of her mother and as reclaiming of her ide
 
 _Act 2: The First Birthday of a Starving Caravan_
 
-The brutal economy and physical tension of the caravan are established, introducing Corvin, a surrogate father and Threat Cartographer who meticulously counts the surviving children every night. A child dies of illness, and shortly after, the caravan is attacked by a Carnalix Atonalis. The adults — Corvin, Kay, and Elaine— defend the caravan using magic, revealing its existence to the children. For Amadea's cycle birthday, she and Artus secure Auric Peaches through a lie, hinting at her early deceptive skills.
+The brutal economy and physical tension of the caravan are established, introducing Corvin, a surrogate father and Threat Cartographer who meticulously counts the surviving children every night alongside Kay, and Elaine.
 
-Establishment of physical tension, survival mechanics, and scarcity as the Caravan is travelling through the wasteland. [[Amadea]] is ~8. The entire transition of her early life is through an entire [[Cycle]]. They celebrate her birthday of [[Cycle]] 2 at the very end.
+Composed of chapters 2-4 in 3 parts on [[Amadea, Sonata of the Violet Empress]]:
 
-Introduction of layered world building, reveal that they are in the [[Phase of Twilight]] right after the [[Echo of Silence]] ends and begins the [[Echo of Resonance]], magic begins anew. They are unsure about [[Amadea]]'s real birthday so they begin counting from here now that she's responsive.
+- An Awakening from Grief-Static
+- The Vow of Consonance
+- The Symphony of War for an [[Auric Peach]]
 
-It happens over the course of a few days. 
-
-**Event 1 – (Dusk and Night of Day 1)**
-
-Introduction of [[Corvin]] who acts as surrogate father and leader of the caravan, he is a [[Threat Cartographer]]:
-
-- Corvin counts children every night. Amadea watches him. His fingers tap against his metallic knee pads in a rhythm: one-two-three-four-five-six-seven, pause, then start again. He is using his middle finger to guide the tapping that also contains his [[Cindergale]] [[Soul Leitmotif]] as a ring.
-
-The first day [[Amadea]] emerges from the grief-static, after [[Artus]] she is able to begin analyzing the details of her life. The first scene opens with [[Corvin]] who she notices for the first time: his cello, his counting of children of who survived the [[Echo of Silence]], and paths as a [[Threat Cartographer]]. She notices the [[Cindergale]] [[Soul Leitmotif]] he wears on the middle finger of his right hand with a vein work of [[Luminance]] alongside a precarious [[Celestial Astrolabe]] that seems like a rhythmic pendulum.
-
-He uses the [[Cindergale]] to spark a piece of wax in a candle fire inside the caravan. Then he looks at his [[Celestial Astrolabe]], as if trying to read, something. He says 'Twilight, at last'
-
-[[Amadea]] who is able to catch on the details now says: "Twilight?"
-
-[[Corvin]] replies instinctively saying, "yeah, now for the 'Prelude'" and as he says Prelude he stops himself, he is then surprised, realizing it was [[Amadea]] who talked to him, suddenly stopping his rhythmic counting and realizing that it's the first time [[Amadea]] is asking anything. "Wait, repeat that again!?"
-
-[[Amadea]] continues her question "Why are you counting to seven? Is that the twilight?"
-
-[[Corvin]]: "Ah! Finally you're able to speak! A miracle by the [[Auric Aria]]'s grace."
-
-[[Amadea]] staring at him, makes [[Corvin]] correct himself: "No, sorry. That's the phase we're about to enter. I'm tracking time, kind of, if this thing will work" as he begins pointing it at the stars, through the ray of moonlight that is seeping into the cart from the window until it glows back and shimmers and it starts making a ticking noise.
-
-[[Amadea]] is confused and surprised by the sudden light, she looks out the window just as [[Corvin]] is, and asks directly about the [[Celestial Astrolabe]] and if that's something that captured the stars he just put into it.
-
-He replies in between his focus as he's counting again to seven, in between he replies: _"Yes. No. Well, not exactly — half yes, half no. It's something like that. This is an old departure gift meant to track the skies. It has a rhythm of its own, and it's what I use to count children like you, and the [[Auric Heptacode]]."
-
-As [[Amadea]] is confused and asks what is an [[Auric Heptacode]], [[Corvin]] pauses for a second, and replies: _"It's... Ah... Well... It's a long story, but you can think of it as the threads that keep whatever still remains of this world together."
-
-[[Amadea]] still confused stares at [[Corvin]]: _"Yeah, I know. It's complicated, so how about we instead make a promise, if you are still alive to see the end of this [[Echo]], I will properly explain to you the origin of these numbers."_
-
-[[Elaine]] quickly interrupts him from the front of the caravan, saying that he shouldn't be so cruel and heartless with a kid telling her that "if you are still alive." Then [[Kay]] introduces himself as well, leaning in to defend [[Elaine]], saying to [[Amadea]] to ignore him, [[Corvin]] is just being dramatic to deflect what [[Corvin]] just admitted, saying instead that [[Corvin]] means they will set up camp and they will have time for stories once they are out of immediate danger.
-
-They then get interrupted by the coughing fit of another child. They stop and decide to prepare for the night. [[Corvin]] speaks with him in a caravan fire, [[Artus]] after being with [[Amadea]] is now performing a [[Ballad]] about the [[Mythical Virtuoso]] of [[Resonance]] to lighten up the mood. [[Corvin]] is half busy figuring out how to ration the scraps they've gathered so far after the famine of the [[Echo of Silence]].
-
-Here it introduces properly the caravan driver [[Elaine]] who is feeding one of the buffalo like animals that are pulling the cart, and her husband [[Kay]]. She briefly speaks to get [[Corvin]] out of his paranoid mind speaking briefly if he remembers how they even got those buffalos out of a [[Domestication Enclave]] and that now that [[Phase of Prelude]] begins again, they will have time to stabilize.
-
-[[Corvin]] and [[Elaine]] cook a ration of stale food over water giving everyone a ration of the earth-bean soup. (This is a callback to one of the field kitchen techniques that made possible surviving [[The Inescapable Hunger]] and properly developed in [[Ages]] I)
-
-As they all go to sleep, the night shifts and [[Amadea]] is set on the campfire with [[Elaine]] who is resting with her by the bisons.
-
-**Event 2 – (Dawn of Day 2)**
-
-[[Amadea]] is woken up by the coughing, and while [[Elaine]] is still asleep, she notices [[Corvin]] awake saying something she can't recognize as [[Corvin]] stays for a while with him, the silhouette of the boy gives out, he mumbles something to his [[Celestial Astrolabe]], and then [[Corvin]] gives a hug to the boy, and carries him into the dark.
-
-- On-screen death: the same child that had a coughing fit, dies. [[Amadea]] watches the silhouette loose strength, and [[Corvin]] carrying him as he goes to the dark to never return with the child. 
-- When [[Corvin]] comes back, he cuts a square from the shirt he left on the ground of the campfire for his coat lining. He then invokes his Cello from his [[Soul Leitmotif]], and begins playing. This draws [[Amadea]] and when she asks why he tells [[Amadea]] after he comes back about the patchwork as she caught him saying a prayer. He says: _“This linen is because someone should remember.”_
-
-As [[Amadea]] goes to wake up [[Artus]] who was resting on the other cart in the area below, she sees a wolf-like monster with its ribs exposed come close, hungry for decay and malnourishment target the caravan. She encounters it directly, and she is fearful with her pulse is rising as the sound of the static is beginning to come again when the monster is about to lunge at her, but then [[Corvin]] intervenes by leaping from the clearing above [[Amadea]], smashing the [[Carnalix]], and stabbing its heart with the lower side of a cello, as the monster dissolves, alongside [[Amadea]]'s own hallucinated static. For [[Amadea]], [[Corvin]] made the [[Dissonance]] disappear.
-
-[[Amadea]] is finally able to describe with her senses as the [[Dissonance]] is no longer mindless static: _The leaves bunched up in bushels upon the strong wooden trees. The ground was soft, yet still firm beneath the sole of my shoe as I grazed the splintering tree bark with the tips of my fingers. The path dragged on for miles, deep green grass lining the walkway. I tread along it, taking in the tender, cool winds that cooled my body. My muscles weren’t tensed anymore, unaware to me that they previously were. My eyes gliding along the gaps in the branches, pale and gentle moonlight seeping through. I breathed a heavy sigh that bled through my chest like spilled ink. I was finally free of the [[Dissonance]]._
-
-After landing, [[Corvin]] picks up a [[Rose Seed]] as remnant of the [[Atonalis]] and he says to her: _"The worst part is about having to bid farewell is not even the death itself, but making sure we aren't hunted shortly after."_
-
-He then collapses his cello back into his [[Soul Leitmotif]] and he gifts the seed to [[Amadea]], and tells her "The world always takes. The answer is to take back." [[Amadea]] then goes back to [[Artus]] to the cart below, and presents the seed to him. [[Artus]] says to [[Amadea]] that she definitely is the undefeatable violet empress if she got one of these herself. They keep it, and [[Artus]] says he has an idea for today's [[Ballad]] due to this [[Rose Seed]].
-
-However, his optimism vanishes and [[Artus]] becomes depressed as he realizes the boy isn't with them anymore because that's the boy he was trying to cheer up with the [[Ballad]] from yesterday.
-
-Then together they begin picking up things from the location they are at until it becomes dusk, foraging branches, and other miscellaneous objects from the wild. [[Artus]] is fixated on making a better performance this time so that no one is taken by the coughing again.
-
-**Event 3 – (Dusk to Night of Day 2)**
-
-As dusk sets [[Artus]] is preparing his next [[Ballad]] while using the [[Rose Seed]] [[Amadea]] got as a prop.
-
-A cascade of [[Static Criticality]] begins at a distance. Suddenly followed by tremors on the ground and the sound of howling. The three adults immediately interrupt [[Artus]] [[Ballad]], though [[Kay]] tells [[Artus]] to give him the [[Rose Seed]].  Frantic, they pick everything, telling him that the horror is physical before it can be fully emotional, but even then you should always mourn the fallen. He shows  this albeit desperately telling him the lesson that: _"These are meant always to be planted always, preferably wherever you found them."_
-
-He uses [[Crystal]] to create a large pole and he draws in the ground a line where he covers it up planting the [[Rose Seed]]. Then they recover their entire things as that means the [[Great Plague]] is encroaching nearby.
-
-They discuss routes and what to do next: [[Elaine]] and [[Corvin]] get into a debate fighting over whether they can risk going into the doomed settlement to rescue more children, 
-
-_"Have you forgotten the place were we stand!? We can't risk another trip into a wasteland of the [[Age of Embers]]. We're in the middle of the third wave of the great plague of euphoria! What happened the last time we tried something so reckless!?"_
-
-_Corvin screams as he points to his patchwork coat._
-
-_"Have you forgotten your humanity? Where is the [[Corvin]] that wanted to protect the dreams of [[Lenore]]?"_
-
-In the end [[Corvin]]'s grim pragmatism wins out because he is backed out by [[Kay]], it's pretty reckless given that they just lost someone and they cannot gamble away the entire caravan with the lives they already have, especially after the tremors sent from such a large pack of Starved Hounds.
-
-[[Kay]]'s voice cuts through the rising screams, backing [[Corvin]]'s plan, though it means they must plow directly through a massive horde of accumulating [[Atonalis]] to reach safety, after that [[Corvin]] and [[Kay]] fight over the routes to get away from the immediate wastes. They ultimately decide to go through the valley route as it has an [[Outpost]] on the other side of the mountain pass.
-
-Once they reach a plan, they each get into one of the three carts, [[Elaine]] is at the center directing the pack of the buffalos, [[Corvin]] is with [[Amadea]] on the left, [[Artus]] is with [[Kay]] on the right. They begin a formation to move alongside the caravans while covering each other's back as they pass through the ensuing chaos. 
-
-They rapidly scramble into a defensive three-cart formation: [[Elaine]] takes the center cart, commanding the pack of buffalos; [[Corvin]] rides on the left with young [[Amadea]]; and [[Artus]] mounts the right cart alongside [[Kay]]. They all get into position on the upper level of the ceiling in the second floor of the caravans. From the rear next to [[Corvin]], [[Amadea]] watches the encroaching horrors.
-
-[[Amadea]] climbs up the stairs as he is preparing his cello, and as [[Amadea]] asks from the rear while sitting on the upper stairs to ask what are they fighting, he replies: _"Remember the one from earlier? That's an [[Atonalis]], and these cloths of hunger are the undigested pain of the world that grew teeth, claws, and learned how to feed. These horrors in particular are called [[Carnalix]], and it's now up to us to put them down before they take us instead."
-
-Once in position, they rush into formation, [[Elaine]] first sends a flare of [[Luminance]] to scout the situation before they cross into the valley, she then says: _"Yeah, no chance to go in silent. There's a whole horde, although they all look [[Nascent]]."_
-
-[[Elaine]] then invokes in a pose from her [[Soul Leitmotif]] on her hat, reading her own violin in the front of the caravan, shouting _"Buckle up."_ Then one the sound of the leash cracking, and as the buffalos start running, she shouts again _"[[Corvin]], Give me some [[Resonance]]."_
-
-He replies back: _"What? Why? We're setting up a field?"_
-
-[[Kay]] answers before [[Elaine]]: _"Give her a beat you idiot. Start playing something."_
-
-[[Corvin]] immediately shifts gears, wedging the pendulum of his [[Celestial Astrolabe]], as it opens its sealed layer on the bottom of the device. He puts it as a pendulum in his elbow to act as a metronome. _"Aight, third of [[Cindergale]],"_ He announces, setting the device's ticking mechanism. With a final cue of _"On 118,"_ the [[Celestial Astrolabe]]'s rhythmic ticking locks in, and then [[Corvin]] invokes his cello on the pose of his finger, and draws the bow that manifested in his hand across his Oak Worn Cello, unleashing a heavy, driving baseline as the caravan plunges down the ladder-like descent into the valley below.
-
-As the music starts, they begin piercing through the large pack of the Starved Hounds, the same wolf-like monster that appeared earlier on the camp threatening [[Amadea]]. The warm air caressed her face in the rhythm of [[Corvin]]'s [[Cindergale]].  Each of the fighting styles prove who they are and their traits by how they fight.
-
-As they make noise, the hounds begin following the caravan, trying to catch up to them. However, once they separate to dodge a large rock obstacle. A [[Sectile]] large one is about to bite [[Corvin]]. In a flash of perfect synchronization, [[Elaine]]'s violin shrieks a high note with [[Luminance]], blinding the massive beast mere inches from it lunging to reach [[Corvin]]'s flesh. _"You owe my light one,"_ she calls out to him amidst the chaos. _"I expect it back repaid by midnight."_
-
-The run through the valley floor becomes a breathtaking, high-speed waltz of strings and steel. [[Elaine]] expertly guides the three carts, seamlessly making them swap places from left to right to evade the snapping jaws of the horde until they achieve a wide triangle formation.
-
-The adults unleash their absolute mastery to protect the caravan. [[Kay]] brutally defends the perimeter with raw, martial skill, wielding his crystallized polearm as a [[Dance]] to the rhythm of the hits. From the leading cart, [[Elaine]]'s violin weaves defensive light, channeling her [[Luminance]] to infuse [[Kay]]'s attacks, sending brilliant piercing arcs through the dark that give his thrusts lethal range and blinding precision.
-
-Despite being in another cart, [[Amadea]] is able to see through the window that [[Artus]] is also like her looking up the stairs to see how [[Kay]] wields his polearm to the horde, mesmerized in the movements and the rhythm of the music where [[Kay]] is using the slashes as percussion to the Violin and the Cello through [[Rhythmic Entrainment]].
-
-At the rear, in a triangle formation, [[Corvin]] acts as the ultimate anchor of destruction. Drawing deeply upon [[Essence Sacrifice]] and his [[Absolute Certainty]], he channels devastating [[Cindergale]] fire magic through his cello. 
-
-The percussion is being established by the rhythm of the wheels against the floor, the buffalo run, the sounds of [[Elaine]] cracking of the leashes, and of [[Kay]] killing the Starved Hounds. [[Amadea]] sees how they're making the world sing and the world answers back through the visual spectacle of magic.
-
-As they advance into the other side of the valley, halfway, they stop being a formation of a triangle and instead align to a tight, single-file line in preparation as they approach the narrow crevice exit: [[Elaine]] at the front, [[Kay]] securing the middle, and [[Corvin]] holding the rear line.
-
-As the horde closes in on the way upward to the crevice, the sheer volume of monsters forces [[Corvin]] to push his magic past its physical limit as some of them are starting to reach the caravan. He pauses, takes a survival knife and cuts a slash on the palm of how own hand to establish tier 2 fuel with his blood. He then plays his cello with such furious, desperate momentum that his fingers tear open and bleed; his blood visibly mixes with the vibrating strings, amplifying the potency of his fiery spells, shifting the flames that change from orange to crimson as they become more potent.
-
-Then [[Kay]] also stops using his spear, he uses a leap of [[Resonance]] to get in the front cart, then he grabs [[Elaine]], and jump back into the middle cart while letting the buffalos run in a straight line. They both then shift to a [[Dance]] on the middle stage singing with [[Elaine]]. From this their magic intertwines and [[Kay]] makes a V as a spear from his [[Crystal]] magic that interacts with [[Elaine]]'s [[Luminance]] to make the cart formation become the lance itself, fueled in the back by [[Corvin]]'s fire, the sharpness of [[Crystal]] as the tip, and the refraction of light of [[Elaine]] off the sides. 
-
-In a final, rising climax near the exit, [[Kay]] and [[Elaine]] properly act as a couple in a kiss on the climax, [[Corvin]] begins condensing the flames into a single fireball, then he [[Corvin]] interrupts [[Elaine]] and [[Kay]] who in their [[Dance]] were now kissing and the excess of emotion creates a bright prismatic light that repels the horde that was trying to close in to lunge: _"Lovebirds, the horde is still closing by. I need you here. Give me a sling, aim for the towering dead tree up to your left. At [[Bar]] 16, no idea how many [[Pulse]]s but surely you see the glowing blue beneath it!"_
-
-[[Elaine]] is released by [[Kay]], she adjusts back her hat and then she uses [[Luminance]] to mix [[Corvin]]'s spell on the edges for precision. Saying: _"Right! Sorry!!"_ 
-
-[[Kay]] repeats back to [[Corvin]] after [[Elaine]] as he wasn't fully paying attention due to the kiss, saying jokingly: _"Where? Didn't catch that, I was busy."_
-
-[[Corvin]] replies angrily: _"[[Bar]] 16, Left, Glowing Dead Tree."
-
-[[Kay]] conjures a [[Crystal]] ramp. _"Left you some holes on the sides. Big man."_
-
-[[Corvin]] funnels it through wind to redirect the ball over a [[Crystal]] ramp to give it direction, it flashes, and then detonates as a massive fire whirl to target a large dead tree that bursts in light.
-
-They targeted a towering tree near the crevice's opening, obliterating its base and sending the burning debris crashing down into the pass. The flaming wreckage perfectly seals the chasm behind them, cutting off the screeching [[Atonalis]] horde and allowing the starving, battered caravan to burst out the other side into the safety of the night.
-
-- Amadea files: magic exists, it costs, and without it they would have lost more.
-
-- **Bindings introduced:** Luminance ([[Elaine]]), Essence Sacrifice on the three (Void), Perfect Focus (Cindergale on [[Corvin]] and [[Kay]]’s martial flow state).
-
-Once they are out of immediate danger, they all step on ruins for a scavenging mission to gain supplies as the caravan received damage during the attack and they will have to repair before it is safe to keep moving. They are on the nearby parts of an [[Outpost]]. They do a damage report, [[Kay]] looks at [[Elaine]]'s arms checking for injuries, and [[Corvin]] takes a vial of the leaves of [[Glimmerfern]] from his coat, and uses it on his own bleeding hands. 
-
-They take home some of the ruins and [[Amadea]] is with [[Elaine]] again, she begins tying her hair into two twin braids, using water from the nearby stream. As she notices that [[Amadea]] is scared of the ruins she tells her: _"If you ever lose your way in the dark, trust the person who knows exactly how to tie this knot."_
-
-[[Elaine]] ties a very specific, complicated knot at the end of [[Amadea]]'s left braid. This specific detail is why [[Amadea]] still ties her hair over her left shoulder when she's an adult.
-
-[[Corvin]] goes back to the counting and the [[Celestial Astrolabe]] and [[Elaine]] asks [[Amadea]] if she knows on what [[Phase]] is her [[Real Cycle Birthday]]. [[Elaine]] is surprised that [[Amadea]] isn't sure what she's talking about, as such, [[Elaine]] instantly tells [[Corvin]] to pay back the favor for saving him earlier against the [[Sectile]]: _"Remember that favor from earlier? I call it in. Come here and use that astrolabe for something useful."_
-
-[[Corvin]] is slightly annoyed but yields. [[Corvin]] tries to read the stars, fails, tries again, and says, he doesn't really remember that much how to do it. Then he says, well it doesn't matter. She surely isn't either on her First [[Real Cycle Birthday]] (She's not 4) or her third [[Real Cycle Birthday]] (She's not 12), so he says: _"How about we start celebrating now that she's awake. We'll see what to do the next morning once I get some sleep. Just be merciful, and let me check out since I had to wake up early."
-
-**Event 4 – [[Outpost]] Settlement – Amadea’s Lie & Birthday (A few days later)**
-
-- [[Corvin]] and [[Kay]] practice sword fighting, while [[Artus]] is staring at them, captivated by the moves trying to replicate some of them for his own [[Ballad]]s.
-
-- Once they are finished, [[Corvin]] sends [[Artus]] and [[Amadea]] on a quest for gathering [[Auric Peach]]. He explains that the best are the golden ones, their name said as much, and he justifies it by saying that this quest is as if they were gathering props for the [[Ballad]] [[Artus]] left unfinished.
-
-- After arriving to the [[Outpost]] [[Artus]] cannot lie; [[Amadea]] can. She uses the half-remembered settlement name that [[Elaine]] was discussing with [[Corvin]] when they were mapping out routes after the frantic fight over whether to save or not the doomed settlement when the [[Static Criticality]] hit. She says they are refuges from that settlement sent to grab supplies for the [[Ballad]]s they are preparing. She mixes a half truth with a half lie, [[Artus]] notices the cover up and supports her with the [[Ballad]] part as that is still truth and, due to this the guard notices that [[Artus]] had changed and is now being sincere about the [[Ballad]] part, as result, [[Amadea]] succeeds and they get the entire crate of [[Auric Peach]]es her [[Real Cycle Birthday]]. The guard lets them go believing it's a crate of only pink [[Auric Peach]]es, however, there was one true golden [[Auric Peach]] in it.
-    
-- A guard grabs her wrist to see if she's lying, it leaves a bruise, but she refuses to look away, using [[Absolute Certainty]] over her lies. The guard lets her go; she hides the injury. Artus notices and quietly takes over two-handed tasks. The deception and sustaining the hurt of the wrist is a direct continuation of Artus stretched hand. She has to perform for raw human survival. It mirrors how she has learned from Artus and her adaptability
-    
-- **Binding hinted:** Sufficient Precision (Luminance) – the ability to find truth in chaos, to lie convincingly. [[Absolute Certainty]], believing that lie to the end.
-
-Amadea sees the world as brutal and legible. She knows magic exists but only the adults can use it. [[Artus]] is a hidden blade prodigy learning from the swordplay between the adults. 
-
-When they come back, the specific trove they gathered had a single golden [[Auric Peach]], while most of them were pink. [[Corvin]] is surprised by seeing one truly golden one again, meaning it is indeed a miracle given by the [[Auric Aria]]: _"Thanks to the heavens we get a real one, it's been so long since I saw one."_
-
-[[Corvin]] decides that the unique golden [[Auric Peach]] belongs to [[Amadea]] as a gift for her [[Real Cycle Birthday]]. While the rest enjoy the other pink [[Auric Peach]]es, she gets to have the crown of all of them because she managed to secure the entire trove for the caravan through her [[Cunning]].
-
-Thus, they celebrate [[Amadea]]'s [[Real Cycle Birthday]] with the auric peaches as [[Corvin]] uses Cooking Arts to make them into something edible by cutting half of them and using them as bowls for one of the meals he used to prepare when he was with [[Lenore]]. They're surprisingly tasty, and it's the celebration where [[Artus]] concludes the [[Mythical Virtuoso]] of [[Resonance]] [[Ballad]].
-
-Magic as survival (pragmatism), emotion (grief/love), and rhythm (structure).
-
-[[Amadea]] learns however:
-_Even when the universe is catastrophically broken, if you are willing to lie and fight for it, you can still carve out a moment of warmth in the chaos._
+Introduces magic, tension, the first dying settlement called Aberchord, and the display of magical combat and [[Amadea]]'s [[Cunning]] of using the name of the destroyed settlement to steal supplies.
 
 _Act 3: Remnants of Hope and Ballads_
 
@@ -1432,14 +2392,15 @@ _Act 4: The Golden Light in the Sky and the Auroral Ribbons._
 
 Beginning of the [[Echo of Crescendo]]. Amadea is 10. [[Real Cycle Birthday]] of [[Corvin]].
 
+- Chapter 8. Love is the Only Thing That Survives
 
-[[Corvin]] and [[Elaine]] begin tending and teaching the children more as if they were their own after the split lip of [[Artus]]. The teaching continues.
+[[Corvin]] and [[Elaine]] begin tending and teaching the children more as if they were their own after the split lip of [[Artus]]. The teaching continues. [[Corvin]] reveals to [[Amadea]] the name of his cello which is called Riordan, while his bow is named Lyra.
 
 Multiple captures; Artus absorbing consequences repeatedly.
 
 Cosmological world-building; the overarching threat of the Void and the looming reality of the [[Echo of Dissonance]].
 
-Crescent mist peaks have to be foreshadowed in the earleir chapters of the dream
+Crescent mist peaks have to be foreshadowed in the earleir chapters of the dream. 
     
 First noted by kay when they arrive to the age of behemoths, and then by lenore later, this makes amadea's realization that she's finally here profound on act 25
 
@@ -1467,7 +2428,11 @@ As they learn to play, [[Artus]] changes his hummed melody of the Violet Empress
 
 However this is not a trivial piece of lore, it signals the truth of [[Mythic Drift]], and that the unresolved cadence was not a romantic pause in a [[Dance]]. It is the acoustic scar of a murder, recording the exact moment [[Junius]] drove the first of thirty-three daggers into her, and that's the reason it's incomplete. It's what [[Junius]] heard from her, not what she wrote. 
 
+- Chapter 9. A Song of Cosmic Behemoths
+
 In the Caravan Fires, [[Elaine]] is remembering one of the [[Events]] of old [[Legend]]s earlier in the [[Ages]]. It was called “[[The Golden Light in the Sky]]” — a world event that marked [[Mira]]’s death and [[Lacrimosa]]’s first incarnation in [[Lune Shallow]]. _“Old wagon-drivers still talked about the night the sky went gold and the [[Auroral Ribbons]] burned brighter than wildfire”_
+
+- Chapter 10. Glass of Laureated Marble
 
 They reach a [[Developing Town]] that is fully fortified in the middle of the [[Age of Behemoths]] as it survived the [[Great Plague]] by being ruthless, [[Artus]] steals a shard of [[Sky Glass]], the copper circlet as symbol. The Laureated Cart with the symbol of theology.
 
@@ -1475,13 +2440,22 @@ They reach a [[Developing Town]] that is fully fortified in the middle of the [[
 
 After the situation is settled [[Artus]] tells [[Amadea]]: "You're a princess" — the first coronation, the first naming of what she could become.
 
+
 _Act 5: The Dawn That Drowned In Fire_
 
-Entire [[Echo of Dissonance]] and the preparation for the [[Echo of Silence]]. [[Amadea]] is about to turn 11.
+Entire [[Echo of Dissonance]] and the preparation for the [[Echo of Silence]]. [[Amadea]] is about to turn 11. 1. The Avaloch Basin is a secluded refuge, and it was safe by the second wave. However, the third wave is able to reach even secluded refuges and religious safe havens
+
+- Chapter 11. Sigils of Soul Sheet Music
 
 [[Kay]] teaches and challenges [[Artus]] in combat for his third [[Real Cycle Birthday]], surprised that he is able to keep up with his movements, and is a promising student. He makes a promise to teach him how to get his own prismatic blade once he experiences a [[Motif Awakening]] after [[Artus]] questions why he is unable to do magic and [[Kay]] can, saying if he could do magic he would've beat him.
 
-Climax of physical peril following the incident with the [[Developing Town]] and the cart that made them get kicked out, as the [[Echo of Silence]] is about to hit the hoarding of resources + the [[Fracted]] [[Discant]] make [[Kay]] become paranoid, fight with [[Corvin]], and then they are overrun by [[Atonalis]] as they are closing on an area still ravaged by the [[Great Plague]]. The [[Luminant Moths]] become the sigil of the end and it triggers [[Corvin]]'s [[Threat Cartographer]] to the maximum; the shattering of the caravan's safety. [[Corvin]] leaves them the note to go to his original [[Militant Enclave]] to meet with his ex partner [[Lenore]], pointing them first to [[Lenore]]'s friend, [[Nivienne]], who should be nearby as they are nearing the outskirts of [[Cosmic Motion]] scholars. He tells them that she's a woman with a habit by a cathedral who can help them survive the looming [[Echo of Silence]].
+- Chapter 12. Ravages of the Great Plague
+
+Climax of physical peril following the incident with the [[Developing Town]] and the cart that made them get kicked out, as the [[Echo of Silence]] is about to hit the hoarding of resources + the [[Fracted]] [[Discant]] make [[Kay]] become paranoid, fight with [[Corvin]], and then they are overrun by [[Atonalis]] as they are closing on an area still ravaged by the [[Great Plague]]. 
+
+- Chapter 13. The Dawn that Drowned in Fire
+
+The [[Luminant Moths]] become the sigil of the end and it triggers [[Corvin]]'s [[Threat Cartographer]] to the maximum; the shattering of the caravan's safety. [[Corvin]] leaves them the note to go to his original [[Militant Enclave]] to meet with his ex partner [[Lenore]], pointing them first to [[Lenore]]'s friend, [[Nivienne]], who should be nearby as they are nearing the outskirts of [[Cosmic Motion]] scholars. He tells them that she's a woman with a habit by a cathedral who can help them survive the looming [[Echo of Silence]].
 
 - He is holding the cello. He swings it like a club at a Discant tendril. The wood cracks. The strings snap.
 
@@ -1494,6 +2468,8 @@ Climax of physical peril following the incident with the [[Developing Town]] and
 Discant [[Atonalis]] attack; the first introduction of an [[Atonalis]] that is [[Fracted]], the caravan self-destructs; [[Artus]] and [[Amadea]] flee; three days of running through the [[Age of Embers]]. Introduces more type of demons, how [[Amadea]] reacts and the faces in the flames fighting mirror those that died in the [[Static Criticality]] of the [[Great Plague]].
 
 _Act 6: The Coronation of The Violet Empress_
+
+- Chapter 14. The Coronation of the Violet Empress
 
 Running from the detonation like figures and then another city going off in euphoria, visceral feeling of [[Amadea]] now that the world isn't static, and similar to the [[Beat]]s when her biological mother sacrificed for her.
 
@@ -1563,6 +2539,10 @@ They get involved with an aristocracy / the [[Auric Order]] proper beyond [[Nivi
 
 They hunt the carnalix [[Atonalis]], learning about the bestiary of the world, classification of [[Atonalis]] and they receive further training given that they are quickly adapting by using their display of combined theatrical, [[Amadea]] develops precision and they take turns changing instruments between one another with the set of sky glass that they keep having as one-time use.
 
+Artus learns feather fall arts from Lenore to help Amadea walk while she's playing the violin. It's a relatively simple spell it just requires resonance. So she plays the violin while they move walking, there is a scene where Artus is exhausted due to the magic overuse but he says it's alright as that's what knights do and it's strength training more real than anything Lenore gives them.
+
+1. This is later used by amadea reversing the roles with Cordelia who then is tired as she's not used to walk long distances and Amadea helps her, they exchange compositions since most of what they play are songs amadea composed just like with Artus
+
 [[Amadea]] synthesizes grief into martial precision with their compositions; the violin and sword. Their signature duet song for surviving on a world where they're as much criminals as they're bounty hunters becomes:
 
 _Don't hate the girl. Just hate the crime. Oh! Forgive us Lord, Oh! I'm a good girl. We'd never hurt a fly, but we've got walls to climb. Oh! Forgive us Lord. Oh! A minor chord. You've put us in this house. We had to claw right out!_
@@ -1597,7 +2577,9 @@ This conversation is the memory anchor for [[Amadea]] and her life with [[Artus]
 
 _Act 11: Waltz of Memory, Love, And Resonance_
 
-[[Lenore]] tasks the duo with beating a [[Fracted]] [[Signath]], but before sending them off, she opens up about her relationship with [[Corvin]] and how they came to break up after they all were once part of the same [[Enclave]]. She says, it was due to the death of their own children. Both of them were heavily hit with the loss, but [[Corvin]] was the one hit the worst. He was severely traumatized with children because he lost his own, it was a wound he never healed, but at least it manifested in the caravan that ultimately saved [[Amadea]], so [[Lenore]] says she is glad that at least that was right for giving her the pair of mentees. [[Lenore]] tells both of them by leaning on her [[Celestial Holography Arts]] that this is how the stars and fate reunite people [[Cycle]]s after. It was fate and the skies what drove them to her, and ultimately, it is their own fate what will dictate under what skies will they be able to see together in the future.
+[[Lenore]] tasks the duo with beating a [[Fracted]] [[Signath]], but before sending them off, she opens up about her relationship with [[Corvin]] and how they came to break up after they all were once part of the same [[Enclave]]. She says, it was due to the death of their own children, an elder daughter named Lyra, and a younger son named Riordan.
+
+Both of them were heavily hit with the loss, but [[Corvin]] was the one hit the worst. He was severely traumatized with children because he lost his own, it was a wound he never healed, but at least it manifested in the caravan that ultimately saved [[Amadea]], so [[Lenore]] says she is glad that at least that was right for giving her the pair of mentees. [[Lenore]] tells both of them by leaning on her [[Celestial Holography Arts]] that this is how the stars and fate reunite people [[Cycle]]s after. It was fate and the skies what drove them to her, and ultimately, it is their own fate what will dictate under what skies will they be able to see together in the future.
 
 (Moreover, this revelation on the past of [[Corvin]] is the reason why [[The Seven Hands]] get faster whenever they have the taste of the fear of a future being stolen, and ultimately what it exploits against [[Amadea]] and [[Artus]] in their fight after they shared a night together and [[Artus]] experienced his [[Motif Awakening]] to [[Resonance]]. It also displays in the design of the scythe that has a dual color on the top and the bottom of the blade, as they had exactly two children, an elder daughter, and a younger son which both died and became the literal blade of the scythe of the monster)
 
@@ -1687,13 +2669,7 @@ And also this is [[Cordelia]]'s [[Soul Leitmotif]]'s song that is simultaneously
 
 She accepts [[Cordelia]]'s company _for a while_. She proved her competence, demonstrated [[Amadea]]'s own weaknesses, and the qualification is deliberate. The resistance is still present but no longer operational. [[Cordelia]] watches [[Amadea]] during this period and sees two things at once: someone who needs healing that goes far deeper than the [[Atonalis]] wound, and the friend she has been waiting many [[Cycle]]s to give something to freely. 
 
-After this, [[Amadea]] does another play, [[Cordelia]] and is the first to applaud during the function. She tells [[Amadea]] she was amazing and she drives off the aristocrats that are gathering around her.
-
-![[Amadea Wandering Violet 3.png]]
-
-The [[Waltz of Wandering Love]] becomes the sonic texture of their shared travel, she plays it every day, lifting silences without demanding they be filled. She plays it in clearings, at camp edges, across the silence between them. She does not force conversation. She simply makes the music available, and sometimes she tells stories about what the song means about a love trying to find love. This mirrors the comfort of [[Artus]] [[Ballad]]s as [[Cordelia]] talks sometimes how, originally, the [[Waltz of Wandering Love]] is linked to the memory she had of her family before the betrayal.
-
-On the first expedition [[Amadea]] is startled in the middle of the night on her early travels with [[Cordelia]] because [[Cordelia]] is actually a very loud snorer and the noise awakens her, while sleepless, this serves as one of [[Amadea]]'s reflection moments that she's now awake as she's not travelling alone anymore.
+When the first night falls on their camp [[Amadea]] is startled in the middle of the night on her early travels with [[Cordelia]] because [[Cordelia]] is actually a very loud snorer and the noise awakens her, while sleepless, this serves as one of [[Amadea]]'s reflection moments that she's now awake as she's not travelling alone anymore.
 
 This reminds her of [[Corvin]] and the time with [[Lenore]], her ex-wife and mentor on the [[Militant Enclave]] as both were very loud in snoring, saying "Well, I guess that's why they were both together" as relief to herself. This is a moment where [[Amadea]] feels oddly homesick of her original home in the [[Enclave]] and still glad to have [[Cordelia]] aside even if she's somewhat cold with her. Her child version mourns [[Corvin]], [[Kay]], and [[Elaine]], her teenager era mourn [[Lenore]].
 
@@ -1705,7 +2681,71 @@ She even opens up saying this was actually one of the earliest spells she master
 
 Given that [[Amadea]] still goes by Violet by then, she realizes she had slipped up and corrects, saying that this is on the [[Ballad]], of course, trying to cover it up by completing afterward that it's part of her repertoire of practice given the [[Legend]] but it's the first slip that [[Cordelia]] does realize that this is too true and specific to be something invented.
 
-[[Enclave]] and on presentation on [[Ballad]] of [[Artus]] makes [[Cordelia]] very happy and on the conversation [[Amadea]] overhears rumors with:
+After this the next day, [[Amadea]] does another play, [[Cordelia]] and is the first to applaud during the function. She tells [[Amadea]] she was amazing and she drives off the aristocrats that are gathering around her as protective measure. _"No more critics for such a beautiful story!"_
+
+![[Amadea Wandering Violet 3.png]]
+
+As they continue walking, the journey begins taking toll on [[Cordelia]] who is not accustomed to walking this much. And this is where Amadea beings using the same trick of feather falls arts artus once used on her when she had no magic, , they exchange compositions since most of what they play are songs amadea composed just like with Artus. Though with Cordelia the first song it's always the waltz of wandering love due to Cordelia saying they're precisely wandering around and that's why it's the shared texture of their travels.
+
+Thus the [[Waltz of Wandering Love]] becomes the sonic texture of their shared travel, she plays it every day, lifting silences without demanding they be filled. She plays it in clearings, at camp edges, across the silence between them. She does not force conversation. She simply makes the music available, and sometimes she tells stories about what the song means about a love trying to find love. This mirrors the comfort of [[Artus]] [[Ballad]]s as [[Cordelia]] talks sometimes how, originally, the [[Waltz of Wandering Love]] is linked to the memory she had of her family before the betrayal.
+
+And this is the moment that begins the first expedition, and as they continue, the scene of the [[Eleos Bloom]] carnivorous plant happens. The scene is important because is the first time [[Amadea]] is trying to use void magic on Cordelia. This also contrast because the first time she uses it is to save Cordelia. Here she goes by Violet and when the chapter ends she uses that same magic to injure her and sever the tether between both when she reveals her name Amadea:
+
+**Setting:** A dense, mist-shrouded forest path. A soft, pitiful whimpering echoes through the fog, sounding exactly like a lost child weeping in the shadows.
+
+Cordelia, relying heavily on the theoretical knowledge from the ledgers of her father, Lord Sylvain d'Acreon, steps off the trail to investigate, lacking the harsh survival instincts of the wild. Suddenly, the underbrush shifts. A massive, bulbous variation of a carnivorous Eleos Bloom—a glottis mouth trap—snaps its fleshy jaws shut around her.
+
+Amadea emerges from the brush. She stops, staring deadpan at the flailing aristocratic boots of her companion sticking out of the sealed, bulbous plant, as she moves slowly towards her, stopping right where Cordelia is fighting the plant.
+
+**Amadea:** "You know, when I said 'stay close and don't touch anything,' I didn't think I needed to specify 'do not actively feed yourself to the local flora.'"
+
+**Cordelia:** _(Her voice heavily muffled and echoing from inside the plant's digestive chamber)_ "Violet! It's not funny! It sounded exactly like someone needing help! It was crying in the shadows!"
+
+**Amadea:** "It’s a plant, Cordelia. Bushes don't weep unless they're trying to eat you. This is exactly why you aristocrats don't last a single Lunar Cycle out here."
+
+Amadea sighs, stepping forward, and grabs Cordelia by the ankles. She plants her boot against the thick, pulsing stem of the bloom and gives a massive heave **(Pull #1)**. Cordelia stretches like a rubber band, but the plant's grip holds firm with a wet, suctioning noise.
+
+**Cordelia:** Wait! Wait! It has a vacuum seal! According to my father's botanical archives, these rare Eleos Blooms clamp down on their prey to prevent—"
+
+**Amadea:** "I don't care what your dad wrote! I have to break the seal!"
+
+Amadea violently shoves Cordelia forward, driving her deeper into the plant's maw to break the suction **(Push #1)**.
+
+The vibration of the resistance triggers the plant's secondary defenses. Thick, thorny tendrils erupt from the damp soil, whipping through the mist and wrapping tightly around Amadea’s ankles to drag her into the undergrowth as well.
+
+Amadea's eyes narrow as she feels the restrain. In a flash of silver, she draws her Hollow-Point Saber.
+
+**Amadea:** "Great it's now onto me too. Hold a beat, salad's getting defensive."
+
+With three precise, blindingly fast strikes, Amadea severs the encroaching tendrils. The plant shudders, its jaws clamping down tighter around Cordelia's waist in response.
+
+**Cordelia:** _(A muffled shriek)_ "Mmph! It smells like rotting peaches in here! 
+
+Amadea yanks backward again with all her body weight **(Pull #2)**. The plant groans, its fleshy petals stretching, but stubbornly refuses to yield its meal.
+
+**Amadea:** _(Grunting with effort)_ "By the Aria... what were they feeding you in that estate? You are impossibly stubborn!"
+
+**Cordelia:** _(Indignant, though mostly incomprehensible)_ "My empathy is a theological virtue! And my weight has nothing to do with this! It’s the botanical tensile strength!"
+
+Amadea shoves her forcefully back into the bloom again to break the newly formed suction **(Push #2)**.
+
+**Amadea:** "Well, your virtue is about to be digested! Breathe out, aristocrat, make yourself skinny! We're doing this the hard way."
+
+Amadea sheathes her saber and digs both heels into the roots. Taking a deep breath, she channels her Motif Awakening directly onto her companion for the very first time. This is the first time she applies magic directly on Cordelia. A dark, heavy hum vibrates the air as she weaves Void magic around Cordelia, manipulating the gravitational pull and spatial tension between the girl and the beast.
+
+She gives one final, monumental, Void-enhanced heave **(Pull #3)**.
+
+The tension builds. The plant bulges, straining against the localized spatial shift. Seeing it still won't give, Amadea lets go for a fraction of a second, shoves Cordelia's boots inward one last time **(Push #3)**, and immediately rips her backward with a violent surge of Void strength.
+
+_SHHHH-THWUMP._
+
+The vacuum seal breaks. Cordelia pops out of the carnivorous glottis mouth trap like a cork from a champagne bottle. She flies backward, crashing directly into Amadea. They both tumble into the dirt in a tangle of limbs, completely coated in a thick, glittering, smelly sap. The plant's jaws snap shut with a defeated clack, burping a small, pathetic cloud of pollen into the mist.
+
+**Cordelia:** _(Coughing, frantically trying to wipe the thick sap from her face. Her old, submissive reflexes flare up)_ "I... well. Thank you, Violet. I am so sorry. I suppose I should have double-checked the Resonance before diving headfirst into the foliage. I knew the truth of these plants from my father's ledgers, but I have yet to survive in the wild... I didn't mean to be a burden."
+
+**Amadea:** _(Lying flat on her back in the dirt, covered in slime, staring blankly up at the canopy. Her Fatalistic Embracer cynicism is in full swing)_ "Just write it down in that diary of yours. 'Rule number one of the wild: If the bush sounds like it needs a hug, let it cry.'"
+
+Then they reach another [[Enclave]] and on presentation on [[Ballad]] of [[Artus]] makes [[Cordelia]] very happy and on the conversation [[Amadea]] overhears rumors with:
 
 - “The Dreamweaver’s caravan is three days ahead—took a boy who couldn’t walk and sent him away smiling like nothing hurt.”
     
@@ -1723,6 +2763,8 @@ Afterwards, it's the scene of the first encounter with [[Luminaire]], but she el
 She brings her back by attempting to sign the lyrics of the [[Waltz of Wandering Love]] she has been singing so far. The attempt isn't that good and both end up laughing but [[Cordelia]] appreciates the act and intention. 
 
 She declares [[Amadea]] her best friend. Plainly. Without armor. Without asking whether the declaration will be welcomed. [[Amadea]] is baffled at first and she does not accept it but she does not refuse it either. She keeps moving. (This is where she plants the [[Waltz of Wandering Love]] tissue that [[Amadea]] later uses, although she only says it after their reunion when [[Amadea]] breaks into her family estate)
+
+In one of the enclaves amadea learns a better version of traveling using featherfall arts and the journey becomes easier for carrying [[Cordelia]]. This is the starting point of her real training in feather fall. 
 
 Later when they're together, they reach a scenery with mirrored [[Eclipsed Waterfalls]] that are exactly the same as the one's [[Amadea]] saw [[Kay]] and [[Elaine]]. This is the first bath scene with [[Cordelia]]. Here [[Amadea]] thinks to this memory of her old continent and childhood and prompts [[Cordelia]] for the detour to go there. Once there, [[Cordelia]] is amazed at the landscape, gleaming with curiosity. 
 
@@ -1747,6 +2789,9 @@ _Act 16. The Name Beneath the Stage_
 
 On the routines of [[Amadea]] and [[Cordelia]] [[Enclave]] hopping they find an [[Agromagical Enclave]] that mourns still [[The Inescapable Hunger]] as the ancient time before the [[Great Plague]] where baking bitter heavy loads of bread on specific days of remembrance to honor those who died during all the hungers. The people and the bakers who consume the bread that make a vow of _"Never again, will we never eat our dead world to survive."_ as the potash and the ashfall of the monocrop of the [[Auric Peach]] famine. _"The land is not meant to be forced into submission and conquered, it is a fragile instrument that needed care and rest."_
 
+One of them teaches [[Cordelia]] about [[Eleos Arts]] and how to use [[Strand]] for making her healing skills better by understanding [[Eleos Bloom]]s:
+_"You can't be a good healer without also being a good ecologist. You need to understand [[Eleos Bloom]]s, auric flora, animals, soul and magic - and how they all connect."_
+
 [[Amadea]] is highly cunning and adapts this motto in using magic for combat as much as she uses it for utility, from the [[Cymatics Arts]] that prevent [[Cordelia]]'s snoring, to the [[Textile Arts]] to fix her clothing, to using [[Feather Fall Arts]] for both infiltration without making sound on her footsteps to sometimes using it on her or on [[Cordelia]] in their travels when they're tired as it makes walking easier as well although it becomes exhausting, it trades some pain for another and is useful for getting [[Cordelia]] to walk as much as her. While [[Textile Arts]] and [[Strand]] is weak for [[Amadea]], [[Cordelia]] helps her through their time travelling together how to train for [[Strand]] magic, revealing the specifics of training the seven bindings, as she tells her, [[Cordelia]] does this to get her to _"repair properly her clothing instead of wearing a patchwork of mistakes."_
 
 Before the second expedition [[Cordelia]] notices [[Amadea]]'s [[Celestial Astrolabe]] as they're using it to travel with the stars. [[Cordelia]] asks [[Amadea]] if she's also royalty from somewhere, as she says _"Not even my family allowed me to have one of those. They're incredibly rare! How did you find a [[Celestial Astrolabe]] so detailed? I believe only the clergy is only allowed to possess one of those. It must be super expensive."_
@@ -1763,13 +2808,133 @@ Then [[Cordelia]] refusing to end the conversation, introduces the [[Wandering L
 
 On the second expedition they reach a place with the [[Sprite-Light Conclave]] and [[Amadea]] loves these creatures a lot. [[Cordelia]] is also noting most of them in her [[Wandering Libretto]], drawing the figures of the slimes and of [[Amadea]] interacting with them. When [[Amadea]] notices this, it is embarrassing for her, but says that in the wild not everything is a fluffy and cuddle as this things, she quickly notes the sounds of the buffalo herd and their guttural singing on her old caravan every time they stopped.
 
-As they keep moving, they next visit the city where [[Cyril]] is and they go in because [[Amadea]] prompted [[Cordelia]] to get into these new places after another of her performances of [[Artus]] [[Ballad]]s to "wash herself away from the comments of the aristocrats that where questioning her performance." Here they have a brief exchange and the bartender is moved by [[Cordelia]]'s [[Jolly]] personality, and the teachings of the [[Wandering Libretto]] and her dynamic with [[Amadea]].
+As they keep moving, there is the Amadea scene where she is getting heavily tired of using feather fall on Cordelia, she says to herself and Artus. _"How did you manage to make this for me? It's so hard, and you never complained. I guess that's why being a knight is so hard."_
+
+Aside from [[Amadea]] fantasizing over the fires once [[Cordelia]] is asleep, it's also strength training as it's giving her good endurance and the sustained resistance required for her eventual magic that will be insanely useful for rescuing Cordelia. It's a hidden training montage.
+
+They next visit they reach is the city where [[Cyril]] is and they go in because [[Amadea]] prompted [[Cordelia]] to get into these new places after another of her performances of [[Artus]] [[Ballad]]s to "wash herself away from the comments of the aristocrats that where questioning her performance." Here they have a brief exchange and the bartender is moved by [[Cordelia]]'s [[Jolly]] personality, and the teachings of the [[Wandering Libretto]] and her dynamic with [[Amadea]].
 
 _Act 17: The Knight Who Keeps Sacrificing Herself_
+
+[[Lazarus]] beings appearing as rumors before [[Amadea]] meets anyone of the court, there are stories about him being ruthless yet serene and that's what makes the bite of his burning claws so prominent. 
 
 During the third of [[Amadea]]'s expeditions, connected to an [[Enclave]] lead nearby and the tracking of resources. she is caught stealing by [[Luminaire]], which this time she caught her and condemns her formally as a criminal and moves to prosecute. [[Amadea]] is cornered by institutional authority with the specific kind of power she has always lived beneath and worked around, now applied directly.
 
 [[Cordelia]] intervenes. She spends the last tethers of her political connections, indebting herself to whatever aristocratic standing still answers her name after the betrayal, to extract [[Amadea]] from the proceedings. She does not ask for recognition. She deploys what she has left and says nothing about the cost.
+
+When Cordelia eventually sacrificed everything to protect Amadea, her old conditioning resurfaced as she had to contact her former teacher, Javius, while not drawing the attention of her aunt. The scene plays like this:
+
+The polished marble floor bit into Amadea’s knees. Two estate guards flanked her; one gripped her shoulder, while the other kept a heavy hand hovering near her collar. She was forced to watch.
+
+Before her stood Luminaire, rigid and suspicious, but ultimately outmaneuvered. Javius offered a polite, frictionless smile, bowing his head just enough to feign respect.
+
+"You have my deepest assurances, my lady," Javius said, smoothing his velvet cuffs. "This thief’s transgressions fall entirely under the jurisdiction of the Court. We will oversee her for the rest of her life. The aristocracy’s justice will be thorough."
+
+It was a flawless, diplomatic lie. Luminaire hesitated, her gaze flicking to Amadea in the periphery, but the political web was too tight. She conceded the floor, turning on her heel and exiting the chamber. The heavy doors clicked shut, sealing Amadea inside the gilded cage.
+
+When the echoing footsteps faded, Cordelia stepped from the shadows.
+
+When Cordelia had realized she would have to sacrifice everything to protect Amadea, her old conditioning had violently resurfaced. She had been forced to contact her former teacher—the man who had overseen her brutal flogging—while desperately avoiding her aunt’s gaze.
+
+"Lady Cordelia," Javius said, his voice dripping with mock relief. "How wonderful to see you alive. I had feared the worst."
+
+Cordelia's hand tightened around the worn wooden frame of her mother's lyre.
+
+"Don't," she said, her voice shaking but tethered. "Don't pretend you care."
+
+Javius's expression remained perfectly courteous. "My lady?"
+
+"You left me in the gutter and stripped me of my name".
+
+His smile sharpened into a blade. "Ah. Your tongue is sharp as ever. Have you forgotten the loving education of your aunt?"
+
+Cordelia opened her mouth. Nothing came out. The old reflex returned like a physical blow to the chest: lowered gaze, locked throat, the agonizing instinct to apologize just to make the room comfortable.
+
+Javius waited through the silence, savoring it, recognizing that he still possessed the absolute power to create it. "We all tried our best on your regal upbringing, and you still escaped. Presumed dead by Daphne. By the public". He took a slow step forward. "And yet here you are. Alive. Accompanied by a thief and a criminal. What do you want, Cordelia? What could you possibly want from me?"
+
+Cordelia looked toward Amadea. She knew that if she spoke incorrectly, Amadea would be executed or delivered directly to the monsters of the Court of Delicacies.
+
+"I called you for one reason," Cordelia said, her voice trembling but refusing to break. "I still have a strong claim over the gardens".
+
+Javius's attention sharpened instantly.
+
+"I know you want what is inside," Cordelia continued. "I will sign that claim over if you do not report to my aunt. And you will pardon this thief. She acted on my behalf and under my orders."
+
+"You would surrender your last legal claim for _her_?"
+
+"I will pay four times the highest bidding price."
+
+"And if that is not enough?"
+
+Cordelia lowered her eyes. "Then I will be indebted to you for three marks. You may call whichever favors you wish." She gripped the lyre harder, her knuckles turning white. "You may claim what is found in my father's shed."
+
+Javius finally let out a smirk, studying her with a predator's satisfaction. "Fine. You still bargain like a child."
+
+Cordelia looked up, her eyes flashing with a sudden, desperate defiance. "No. I bargain like someone who knows exactly what you do to people who refuse".
+
+That was not yet her complete liberation. She still offered too much. She still placed herself in debt. She still believed her own safety was expendable when someone else was threatened—the tragic hallmark of her Over-giving Devout nature. But she had _named_ the violence. The girl who once could not answer her teacher now forced him to remember what he did.
+
+Javius gestured to his attendants. "Bring the paste."
+
+A servant brought forth an ornate silver tray. Upon it rested a small glass vial containing a highly volatile alchemical medium—a dark, shimmering paste crafted from frozen Vow Orchids and crushed emberwhisper. Javius drew a small dagger from his coat and casually sliced the pad of his thumb, letting his own blood drip into the vial. The mixture hissed, glowing with a sickly, sympathetic resonance.
+
+He picked up a carving tool tipped with raw emberwhisper.
+
+"Your wrists, Lady Cordelia."
+
+Cordelia extended her trembling hands. Javius first took the emberwhisper tool and cut his own wrist, mixing it with the paste, then Javius drove the searing tip of the tool into the delicate skin of her left wrist mixing with his blood.
+
+Cordelia gasped, her knees buckling slightly, but she forced herself to stand. The paste seared into the fresh cuts, burning the master’s will directly into her magical architecture. The sharp smell of ozone and burning orchids filled the pristine room.
+
+"The words, Cordelia," Javius whispered, his eyes gleaming. "Or the transaction is void. Claim the first."
+
+Tears pricked Cordelia's eyes as she looked at the bleeding sigil. "I vow... to fulfill a favor for this mark."
+
+Amadea's intellect was sharp enough to understand what was happening, those words caught her like Artus throwing himself between both. She already knew the pattern.
+
+"**NOO!**"
+
+Amadea’s scream tore through the grand hall, raw and desperate. 
+
+"Keep her shut" Javius said without looking at Amadea.
+
+At first she thrashed wildly, throwing her weight against her captors. But the guards were merciless. The larger of the two slammed a heavy, leather-clad gauntlet directly over Amadea’s mouth, wrapping his other arm around her neck and wrestling her violently to the marble floor. 
+
+Her knees slammed into the stone. She kicked, bucked, and tore at the iron grip, but the guard’s weight pinned her completely, muffling her frantic cries into suffocated, panicked gasps. She was still forced to look upwards.
+
+Javius did not even look at the struggling thief. He simply pressed the emberwhisper tool into Cordelia's right wrist. The flesh hissed.
+
+"The second," Javius commanded.
+
+Cordelia squeezed her eyes shut, a tear slipping down her cheek as the burning agony radiated up her arm. "I will follow down... to the precise line and intent... the will of Javius..."
+
+Under the crushing weight of the guard, Amadea stopped thrashing. Her lungs burned against the leather smothering her face. Stripped of her cunning, her Void magic, and her freedom, the sheer horror of her powerlessness settled over her like a shroud.
+
+Javius carved the third and final sigil directly beneath the first.
+
+Cordelia opened her eyes, looking past her tormentor to meet Amadea’s terrified, pinned gaze. Her voice was a ragged whisper. "...and accept the exchange of a favor until it is fulfilled... or we are severed by death."
+
+Pinned against the cold stone, utterly unable to save the one person who was throwing her life away for her, Amadea went entirely still. Two silent tears of absolute helplessness slipped from the corners of her eyes, tracking through the dust on her cheeks and soaking into the leather glove over her mouth.
+
+The three sigils flared a violent, red-hot crimson on Cordelia's wrists before settling into a deep, heavy black. The sympathetic tether was struck. Cordelia felt the pain and flinched but then regained her posture.
+
+"Release the thief," Javius commanded, wiping the blood from his tool.
+
+The guard shoved Amadea forward, dropping her onto the marble. She scrambled to her feet, gasping for air, her heart hammering against her ribs. She looked at Cordelia. She saw the fresh, black Vow Marks etched into her friend's skin. The guards and javius left, and let them just outside the enclave.
+
+And then, the pattern landed with the crushing weight of a collapsing bridge.
+
+Amadea wasn't looking at Cordelia anymore. She was looking at a boy in a dusty market. She saw Artus stepping between her and the merchant. She saw the split lip, the favoring of his left side, the naive, invincible grin that came after he absorbed a consequence that was supposed to be hers.
+
+She knew exactly what happens to the knight who keeps sacrificing himself.
+
+Cordelia took a hesitant step toward her, offering a weak, trembling smile. "Violet... it's done. You're safe."
+
+Amadea scrambled backward, her eyes wild, her chest heaving. The terror of losing another person to her own failures violently morphed into the only defense mechanism she had left: her Fatalistic Embracer shield.
+
+"Are you insane?" Amadea's voice cracked, harsh and abrasive.
+
+Cordelia’s smile faltered. "Violet?"
 
 [[Amadea]] walks free. And then the pattern lands. This is [[Artus]] stepping between her and the merchant. This is the split lip and the favoring of the left side and the grin that came after to absorb a consequence that was hers. She knows what happens to the knight who keeps sacrificing himself. She finds Cordelia and delivers the separation without softening it: _"Nothing good will come to you if you keep following after me. Have you forgotten about the play? What happens to the knight that kept sacrificing himself for her? He dies — and if you keep following me, you will die too. Save yourself, and stop following me."_
 
@@ -1783,15 +2948,15 @@ Amadea violently drops her persona, revealing her true name.
 
 The confrontation does not begin with an argument. It begins with a recognition, [[Amadea]] turning in a crowded [[Enclave]] passage, unmistakably, [[Cordelia]]. The fury that arrives someone who said the most important true thing she knew how to say and was not heard. She told [[Cordelia]] what happens to the knight. She drew the direct line. And [[Cordelia]] followed her anyway, as if the warning were an invitation.
 
+What begins as confrontation escalates through misread intentions, through the accumulated pressure of everything neither of them has said cleanly, [[Amadea]]'s guilt about the court trial cost, [[Cordelia]]'s refusal to acknowledge that she is in danger by proximity, the fundamental irreconcilability of [[Amadea]] pushing everyone away to protect them and [[Cordelia]] refusing to be protected. The fight turns physical, and it ends with [[Amadea]] using magic against her and declaring that she is [[Amadea]], she reveals her name and drops the mask of being Violet. _"Relax!? The only moment I've ever let my guard down everything was taken from me."_
+
 Here, [[Amadea]]'s resentment for the aristocracy begins to fester again as she denounces [[Cordelia]] and puts a hard line between their backgrounds: _"Aristocratic children didn't have to watch their mothers die."_
 
-This is a deep hit for [[Cordelia]] because it isn't true, [[Cordelia]] did see her mother die during the betrayal of her original family and was raised only by his father, but [[Amadea]] hasn't yet seen through her as a person.
+This is a deep hit for [[Cordelia]] because it isn't true, [[Cordelia]] did see her mother die during the betrayal of her original family but [[Amadea]] hasn't yet seen through her as a person.
 
-What begins as confrontation escalates through misread intentions, through the accumulated pressure of everything neither of them has said cleanly, [[Amadea]]'s guilt about the court trial cost, [[Cordelia]]'s refusal to acknowledge that she is in danger by proximity, the fundamental irreconcilability of [[Amadea]] pushing everyone away to protect them and [[Cordelia]] refusing to be protected. The fight turns physical, and it ends with [[Amadea]] using magic against her and declaring that she is [[Amadea]], she reveals her name and drops the mask of being Violet. 
+Crying, she tells her to never follow her again, and at the end she says: _"I would rather die than having to add any more ghosts to the play!"_
 
-At the end she says: _"I would rather die than having to add any more ghosts to the play!"_
-
-Crying, she tells her to never follow her again, and since [[Cordelia]] herself was hurt, she stops. They separate in damage. The fight does not resolve. It simply ends.
+[[Cordelia]] is shocked and hurt by the weaponization of her mother's past and so she stops. They separate in damage. The fight does not resolve. It simply ends, and it ends in an spectacle witnessed by many.
 
 With the entire scenario turning into a scene, [[Cordelia]] has her position now exposed and compromised, she is collected by her family's agents and returned to the estate. The institution she had briefly escaped reclaims her before she can recover from the fight's aftermath.
 
@@ -1801,7 +2966,9 @@ The theft of the Sky Glass; [[Amadea]]'s Crystal Motif Awakening.
 
 [[Amadea]] is alone, spends an entire day regretful for what she did to [[Cordelia]], but before she can interrupt the situation, she faces a fox-masked pugilist alone on the shores near [[Cyril]]'s tavern. He is a spy that was dispatched to neutralize whomever had taken [[Cordelia]]. [[Amadea]] originally fights him, but he hijacks the melody of [[Amadea]] and they fight until [[Amadea]] is driven to the limit, she is defeated and this pugilist becomes a major character that opposes her.
 
-He steals the shard of [[Artus]] driving her insane, this is the moment she drops to a Spiraling state from the compounded losses and the loss of [[Artus]] as she questions herself over her broken violin in a pool partially of her own blood:
+_"Please... I've lost everything already—my mother, my home, my knight, my friends. There's nothing left to take!"_
+
+On her desperation he steals the shard of [[Artus]] driving her insane, this is the moment she drops to a Spiraling state from the compounded losses and the loss of [[Artus]] as she questions herself over her broken violin in a pool partially of her own blood:
 
 _"Did I ruin this, again?"_
 
@@ -1812,15 +2979,25 @@ From the bottom of absolute loss, absolute powerlessness, and absolute rage comp
 
 Moreover, this is also the first step toward [[Iridia]]. Not a dream, not a hope, a necessity, the only thing that rises from the floor of that particular despair.
 
-[[Amadea]]'s fight to gain back [[Cordelia]] is an echo of "You are filled with Determination" on her [[Crystal]] [[Motif Awakening]].
+[[Amadea]]'s fight to gain back [[Cordelia]] is an echo of "You are filled with Determination" on her [[Crystal]] [[Motif Awakening]]. It transforms her [[Grief-Stricken]] into [[Fatalistic Embracer]] because her fatalism becomes motion: _"if loss is inevitable, then I will still act before it arrives."_
 
-The bartender who also noticed the duo who fought, and the reveal of Violet's true name: "[[Amadea]]" from outside was searching for [[Cordelia]] who forgot her [[Wandering Libretto]] earlier in the tavern, he planned to delivering it to her as she was [[Jolly]] but saw instead the fight the two of them had, and not long after [[Amadea]] getting beaten by [[Kastor]]. [[Cyril]] approaches [[Amadea]] on the ground, and asks her why take on something like the [[Court of Delicacies]]. On their speech, [[Amadea]] tells him that this isn't over and she plans on getting [[Cordelia]] and the [[Sky Glass]] back. He tells her that she's gone insane from blood loss, but [[Amadea]] defends saying back: _"Yes, I know it's irrational, that's why I don't have any hope, but when the world takes, the answer is to take back. Hope isn't the point, action is, and refusing to fight is the only real defeat. I have still this linen of her and that's enough."_
+The bartender who also noticed the duo who fought, and the reveal of Violet's true name: "[[Amadea]]" from outside was searching for [[Cordelia]] who forgot her [[Wandering Libretto]] earlier in the tavern, he planned to delivering it to her as she was [[Jolly]] but saw instead the fight the two of them had, and not long after [[Amadea]] getting beaten by [[Kastor]]. [[Cyril]] approaches [[Amadea]] on the ground, and asks her why take on something like the [[Court of Delicacies]]. [[Amadea]] deflects with humor at first:
+
+_"The [[Court of Delicacies]]? Is that a pastry shop by your tavern?"_
+
+[[Cyril]] actually reacts to this, softening his expression:
+
+_"If they ever offer you a single drop of any sweets, don't ever take it."_
+
+_"Humor while in that state... You truly must be going insane from blood loss."_
+
+On their speech the conversation continues, [[Amadea]] tells him that this isn't over and she plans on getting [[Cordelia]] and the [[Sky Glass]] back. He tells her that she's definitely gone insane from blood loss if that's not another joke, but [[Amadea]] defends saying back: _"Yes, I know it's irrational, that's why I don't have any hope, but when the world takes, the answer is to take back. Hope isn't the point, action is, and refusing to fight is the only real defeat. I have still this linen of her and that's enough."_
 
 Inspired by her words, [[Cyril]] first says she's gone [[Delusional]], but in the aftermath, he confesses to her that he is a peddler and smuggler, and she requires an extra attendant on one of these parties, if she's interested in a job. 
 
 _"You have a pretty enough face, without the blood of course, you may be [[Attractive]] enough to infiltrate one of the upcoming parties of the [[Court of Delicacies]], if you're interested in a job"_
 
-He leaves her the details of a place, as he says that the "tavern" that was close to the shore where they meet, is about to move places, burning identities, which is why he wanted to deliver the [[Wandering Libretto]] back first, and the next place is on another city. 
+He leaves her the details of a place, as he says that the "tavern" that was close to the shore where they meet, is about to move places, burning identities, which is why he wanted to deliver the [[Wandering Libretto]] back first, and the next place is on another city, called Strauss, the Waltz King's city.
 
 He does warn her that this first "debut" will be unpaid and she will need to cover for her own expenses, it's a sort of test if she has actual power of her own before dying to the aristocracy. But if she proves her worth, there will be more, and these jobs will have as many leads, as the ability to sustain herself, for a time. Then he leaves her a bunch of powder of [[Glimmerfern]] to heal herself: _"Consider it upfront compensation. It's on the house, this time."_
 
@@ -1852,36 +3029,297 @@ This also invertedly helps her with her Visualization of [[Absolute Certainty]] 
 
 The selling [[Crystal]]s scams is the reason why her [[Obsidian Feather]]s have such a good shape and have good looks, else they wouldn't sell.
 
-Once she has a network being stablished and a few money from scamming, she changes places, and moves to the new spot [[Cyril]], the bartender told her about, surprised to see that she managed to come, he warns her one last time that what she is doing is suicidal, and this very mission could be the end of the entire story. [[Amadea]] pushes back: _"I know already, I thought so enough over the shore. I am not fighting because I believe I'll win, I'm not that stupid. No, I'm fighting because I simply refuse to lose."_
+Once she has a network being stablished and a few money from scamming, she changes places, and moves to the grand city of Strauss, the new spot [[Cyril]], the bartender told her about, surprised to see that she managed to come, he warns her one last time that what she is doing is suicidal, and this very mission could be the end of the entire story.
 
-Convinced by her conviction, [[Cyril]] gives her the first "debut" quest, and a new violin to pass through, this is where she acquires the Red Velvet Violin. She begins practicing the aristocracy manners utilizing whatever high language she remembers from [[Cordelia]] and what is written in the [[Wandering Libretto]]. During her mission, it complicates as she's dispatched to target one aristocrat that may also have a lead on the [[Court of Delicacies]]. It's her first assassination that goes correct because she managed to use the [[Hollow-Point]] to extend her range in a hidden blade. She won the fight but she had to kill for the first time, as she cleaned the blood from the sword, she comprehended that taking one life is much easier than what she imagined. This is a defining moment for [[Amadea]] as she internalizes that killing [[Atonalis]], beasts, and people are not different: _"It's the first time I kill someone, I don't know why, but I didn't expect it to be this easy to take someone's life."_
+[[Amadea]] pushes back: _"I know already, I thought so enough over the shore. I am not fighting because I believe I'll win, I'm not that stupid. No, I'm fighting because I simply refuse to lose."_
 
+Convinced by her conviction, [[Cyril]] gives her the first "debut" quest, explains to her the story of Strauss and why it is named after the Waltz King and how it perverted into aesthetics under the control of the [[Court of Delicacies]] and a new violin to pass through, this is where she acquires the Red Velvet Violin.
+
+Her mission is to interrupt a waltz and a slavery auction to kill Javius, the connection of Daphne and the teacher that humiliated [[Cordelia]] when she indebted herself to him to save her. [[Amadea]] is more than willing for a payback.
+
+She begins practicing the aristocracy manners utilizing whatever high language she remembers from [[Cordelia]] and what is written in the [[Wandering Libretto]]. During her mission, it complicates as she's dispatched to target another aristocrat related to Javius that may also have a lead on the [[Court of Delicacies]], and even worse when Javius tried to have his way with [[Amadea]] thinking she was an escort.
+
+It's her first assassination that goes correct because she managed to use the [[Hollow-Point]] to extend her range in a hidden blade. She lets him get near, up to the point where she can execute a cinematic vault on top of him, slitting his throat and silencing his voice to prevent anyone else from coming while falling from the other side as he falls bleeding to his knees while she's on the other side of his back.
+
+Then she uses the momentum and the shock of the informant to throw another [[Obsidian Feather]] that ends in three swift moves the confrontation as he was running, using the void jumps to catch to him and silence him too.
+
+She won the fight and assassinated both Javius and his informant but she had to kill for the first time, twice, and as she cleaned the blood from the sword, she comprehended that taking one life is much easier than what she imagined, especially against the rot of the aristocracy that wronged her and [[Cordelia]].
+
+This is a defining moment for [[Amadea]] as she internalizes that killing [[Atonalis]], beasts, and people are not different, especially in light of the waltz: _"It's the first time I kill someone, I don't know why, but I didn't expect it to be this easy to take someone's life. He was so high of himself insulting me as 'thief' and escort."_
 
 _Act 20: Silk And Lavender in the Scent of Roses_
 
 The scene opens with [[Amadea]] missing the snoring of [[Cordelia]] and finding herself melancholic that she was getting accustomed to it, and now that there's no one, she's truly alone again. She's surprised that she misses someone interrupting her sleep, thinking to herself: _"Under what stars am I missing an aristocrat snoring? How did I even get here."_
 
-Time has passed and [[Cyril]] keeps sending [[Amadea]] on leads that she also follows from the aristocrats she's been killing. Over two missions she attends one of the performances of tragedy of the [[Court of Delicacies]], while these already ended, [[Amadea]] makes a personal vow to retell this story one day with something different than the cruelty of [[Lazarus]].
+Time has passed and [[Cyril]] keeps sending [[Amadea]] on leads that she also follows from the aristocrats she's been killing, liberating the underground whenever possible to the rhythm of the waltz, this is what cements her idea that the [[Waltz Pillar]] is meant to be for the many, not for the aristocrats who are perverting the memory of Strauss in the very city that allowed him to compose so many pieces.
+
+[[Cyril]]: _"Waltzes were about two people moving together in harmony. In the [[Court of Delicacies]], the waltz becomes a performance where one person, the sick performer, controls the other, often a victim."_
+
+Over two missions she attends one of the performances of tragedy of the [[Court of Delicacies]], while these already ended, [[Amadea]] makes a personal vow to retell this story one day with something different than the cruelty of [[Lazarus]]. She grows sick to the [[Court of Delicacies]] motto: _"It's cheap art if there's no struggle, the performance, the surrender is the entire point"_
 
 She begins as a spy infiltrating the parties acting as a femme fatale dispatching high ranking aristocrats and other corrupt leaders from the information being dispatched by [[Cyril]] until she finds the lead back to [[Cordelia]].
 
-[[Amadea]] spends two entire [[Phase]]s looking for leads, and dealing with information while learning the aristocracy and the manners of high society. She learns the good of the aristocracy and the bad of it, the tragedies collected by the [[Court of Delicacies]], and the complicated, ambivalent situation of the estates. On many of these interludes, she talks with [[Cyril]] about their mutual exchanges on class resentment and the [[Underdog]]s of society walking on the shadows of the aristocracy. These talks between [[Amadea]] and [[Cyril]] are crucial to ground [[Amadea]]'s [[Humanity]], philosophy, and sometimes even vocalize her complex ambivalence toward [[Cordelia]], as [[Cyril]] questions why even go to this length to dismantle the aristocracy for another aristocrat, [[Amadea]] pushes back with the [[Wandering Libretto]]: _"You can hate the system and still love the person who is part of it. To be unable to differentiate her love from the institution is to become as cruel and heartless as the people I've been assassinating. You can't make an object out of a person, even if she benefitted from high society, it's never a crime to be born."_
+[[Amadea]] spends two entire [[Phase]]s looking for leads, and dealing with information while learning the aristocracy and the manners of high society. One of the missions require her to use [[Cunning]] and deliberately accept commands from aristocrats.
 
-The chaotic introduction of [[Lacrimosa]], third encounter with [[Luminaire]]; polyphonic urban espionage. One of the missions goes botched and she survives through escaping by using the [[Topological Arts]] and faking her own death. Despite not actually dying, she is wounded, and the taste of her own blood, shows her the mortality and thin veil she's treading on these estates. She tries to use the [[Waltz of Wandering Love]] to heal back treating her flesh as if it was the repairing spell [[Cordelia]] taught her with clothing, but she realizes it's much harder than she thought, praising [[Cordelia]] for her abilities, she gets properly treated later after arriving half-dead to the informant and the circles of peddlers who help her with [[Glimmerfern]] at the expense of having to do extra work.
+Particularly, there is an encounter where Amadea is sent by Cyril to extract information from a mid-ranking Regalia noble connected to the Court of Delicacies. To gain access to his private chambers, she poses as a high-end servant and debt-payer.
 
-However, instead of failing into despair or leave despite the near-death experience where she had to fake her own demise, this pushes her to find [[Cordelia]] no matter the cost, she will recover [[Artus]] [[Sky Glass]], and the snoring of her companion.
+However, the noble is paranoid. Before he allows her close enough to access his ledgers, he demands she submit to a Vow Mark as a "standard security measure" for all new servants. Knowing she cannot blow her cover yet, Amadea is forced to comply. She kneels as the noble uses a silver stylus to carve the paste of emberwhisper and frozen Vow Orchids into the nape of her neck.
 
-The same night [[Amadea]] infiltrates the lead of [[Cordelia]]’s family estate and [[Luminaire]]’s party, the city hosts the [[Dreamweaver]] parade. Streets are crowded with followers in moon masks, as [[Lux Aeterna]] flows alongside [[Lunehymn]]. The parade becomes both cover and complication for [[Amadea]]’s infiltration.
+Because of her incredibly high affinity for Void and Crystal magic, the sympathetic tether instantly latches onto her soul's frequency. 
+
+The burn is agonizing, flaring with an intense, abrasive heat as the magical contract anchors itself into her flesh. When she finally steps to assassinate him, he catches her, and commands to kneel and drop her weapons, gasping through the searing pain.
+
+Amadea realizes she cannot out-magic the contract. She must out-think it. She remembers the tactical training from Kay and Artus: survival comes before emotion, and everything is physical before it is emotional and uses the kneeling to her advantage and manages to use the position and the environment to kill him, severing the [[Vow Mark]].
+
+[[Amadea]] infiltrates the lead of [[Cordelia]]’s family estate and some of [[Luminaire]]’s party, the city hosts the [[Dreamweaver]] parade. Streets are crowded with followers in moon masks, as [[Lux Aeterna]] flows alongside [[Lunehymn]]. The parade becomes both cover and complication for [[Amadea]]’s infiltration. The city plays to the rhythm of the later half of Blue Danube.
 
 She learns to spy the pugilist who is fighting again, she learns his name, [[Kastor]], by following a lead, and deducts his attack style and makes it connect with her own, learning effectively how to dance in the estates while delivering a killing assassin blow, she uses void magic to teleport herself to anywhere that has [[Stable Harmonic Channels]] by closing the distance through the [[Crystal]]s she previously planted. Tactical use of [[Spellweaving]] by putting to the test what she had learned as a kid.
 
-She crashes one of [[Luminaire]]'s parties and that's how she gets the lead on [[Cordelia]] that she needed to figure out how she is going to infiltrate her family estate and where she is even located. [[Amadea]] teases [[Luminaire]] which causes her to rage and lose her [[Composure]] declaring her a rival.
+She learns the good of the aristocracy and the bad of it, the tragedies collected by the [[Court of Delicacies]], and the complicated, ambivalent situation of the estates. On many of these interludes, she talks with [[Cyril]] about their mutual exchanges on class resentment and the [[Underdog]]s of society walking on the shadows of the aristocracy. These talks between [[Amadea]] and [[Cyril]] are crucial to ground [[Amadea]]'s [[Humanity]], philosophy, and sometimes even vocalize her complex ambivalence toward [[Cordelia]], as [[Cyril]] questions why even go to this length to dismantle the aristocracy for another aristocrat, [[Amadea]] pushes back with the [[Wandering Libretto]]: _"You can hate the system and still love the person who is part of it. To be unable to differentiate her love from the institution is to become as cruel and heartless as the people I've been assassinating. You can't make an object out of a person, even if she benefitted from high society, it's never a crime to be born."_
+
+The chaotic introduction of [[Lacrimosa]], third encounter with [[Luminaire]]; polyphonic urban espionage. One of the missions goes botched and she survives through escaping by using the [[Topological Arts]] and faking her own death and escape into [[Lazarus]] gardens.
+
+Despite not actually dying, she is wounded, and the taste of her own blood, shows her the mortality and thin veil she's treading on these estates. She tries to use the [[Waltz of Wandering Love]] to heal back treating her flesh as if it was the repairing spell [[Cordelia]] taught her with clothing, but she realizes it's much harder than she thought, praising [[Cordelia]] for her abilities, she gets properly treated later after arriving half-dead to the informant and the circles of peddlers who help her with [[Glimmerfern]] at the expense of having to do extra work.
+
+However, instead of failing into despair or leave despite the near-death experience where she had to fake her own demise, this pushes her to find [[Cordelia]] no matter the cost, she will recover [[Artus]] [[Sky Glass]], and the snoring of her companion. As they regroup to assess the situation, Cyril warns her before even attempting, saying that they should find a new opening the next [[Cycle]] instead of trying to force it open.
+
+_"I fear that we're being tracked, I'm not sure how much was exposed about the position but Lazarus is a frightening man. Even if they all think you're dead, there's a chance the plan will change and that you will find corpse bouquet face front, if he is on us it's better to wait for another cycle and a better opening. The fate to falling prey to that thing is unspeakable."_
+
+He continues saying that despite being an [[Eleos Bloom]] that creature is essentially a dangerous [[Violux]] [[Atonalis]], telling her that even if [[Corpse Bouquet]] is not an [[Atonalis]], it behaves terrifyingly similar if not worse on how it consumes its victims because it has aesthetic beauty.
+
+Despite the grim warning, [[Amadea]] refuses to yield saying that [[Cordelia]] can't just "wait" for the perfect opening. If there isn't one, they have to forge it, and that's exactly why no one would expect it.
+
+Cyril respects her choice, seeing no purpose in arguing against her reckless behavior:
+
+- "Fine, but do not face it head on. It's called [[Corpse Bouquet]] for a reason. You don't want to know what happens when you inhale too much pollen. And I can't assure you I could rescue you from the displays of the [[Court of Delicacies]]. Under no circumstances attempt to escape the trap by panicking, if you thrash you have lost the fight. I am being dead serious. And never, I say never, allow its bell jar to reach you. It always ends in tragedy."
+
+The first major confrontation happens on the ruined observatory at the end of [[Lazarus]] garden maze a [[Pure Light]] plant [[Eleos Bloom]] Nymph named [[Corpse Bouquet]] which is [[Lazarus]] treasured jewel of his gardens. This is the reason why the chapter title has "scent" of roses. The nymph's official name is "Sanctum Bloom" but the moniker of the underworld and anyone who goes against it knows her by the grim name of [[Corpse Bouquet]].
+
+Right before the encounter with the [[Corpse Bouquet]] [[Cyril]] gives [[Amadea]] a [[Resonance Box]] to catch one of the symphonies she's been practicing in the aristocracy which is [[Lazarus]] own leitmotif. When the fight with the nymph breaks this is vital as it's her one use ticket that tricks the nymph into singing to it, unaware that amadea is weaponizing this to know the tempo. Likewise, It's also the initial seed of hijacking a melody for Amadea, and the very same tactics she's practicing that will eventually use against kastor too with her own [[Soul Leitmotif]] and [[Artus]] [[Sky Glass]].
+
+Amadea enters the greenhouse of [[Lazarus]] and the jewel of the ruined observatory at the center under a false name and a borrowed coat, sent by Cyril’s lead into the Court of Delicacies’ hidden spine of glass and rot. The dome above her is cracked like a pale eye, moonlight spilling through the fractures in silver sheets, catching on broken astrolabes, rusted brass rings, and overgrown vines that crawl across the floor like living calligraphy. At the center waits the monster: a nymph-plant horror cultivated by the court itself, beautiful in the way a poisoned bouquet is beautiful, with a crown of white blossoms and thorned limbs that sway as if listening for music. It does not lunge at first. It blooms, slowly, and the entire chamber seems to breathe with it. When the fight begins, the observatory becomes a trap of petals, reflected light, and tightening green coils.
+
+_"A visitor... directly for Master Lazarus... Come dance in my garden."_
+
+The monster answers Amadea’s movement with its own, and with numbing pollen, sensing rhythm through the floor, the air, and the tremor of her breath; every step she takes is met by a closing ring of vine, every strike rebounded by glass and pollen and the wet, whispering pressure of stems. This is where [[Corpse Bouquet]] demonstrates the sensing fields of resonance to track [[Amadea]].
+
+_"Yes... yes... I can feel your pattern. The rhythm of your steps. The desperate beating of your fragile heart."_
+
+Initially, she has some success by following the nymph's movement as she deciphers the environment but the nymph is an overwhelming pressure with no openings, and she begins spraying the first numbing pollen.
+
+_"A nimble silver butterfly that won't stay put, I see."_
+
+The [[Corpse Bouquet]] begins talking with [[Amadea]] during the fight as it goes on:
+
+_"If it wasn't because of master [[Lazarus]], I would eat this frail body of yours but since he has strictly forbidden me from being that gruesome, I'll have to settle for whatever else you can produce instead. Your despair, your regret, your guilt, and the sweet tinge of blood, and sweat, of pleasure and fear will be enough as fertilizer. The cocktail of your [[Emotional Residue]] and the harvest of your body will sweeten my fruit as you surrender in bliss. Consider yourself lucky, you'll become a silver flower in my garden until master [[Lazarus]] decides your fate. And I'll make sure to treat you well until then~"_
+
+A thorned amber vine lashed across her exposed forearm, drawing a thin line of blood. The sting was sharp, immediate — but beneath it, something else. A strange warmth spread from the wound, pleasant and wrong, almost electric and relieving.
+
+Amadea's eyes widened. The pain had *felt* good. Wrong. Wrong in a way that made her stomach turn. As she looks at her arm to understand how that vine is different from the others.
+
+"Oh, you felt it, didn't you?" The nymph's petals flared, its voice dropping to something almost intimate. "The warmth. The pleasure. My thorns don't just cut—they *gift*. Every drop of blood is a kiss. Every wound is a caress."
+
+Amadea throws several obsidian feathers to avoid getting touched again by the thorned amber vine, and by accident one of the feathers hits part of the ceiling, this is where she realizes it reacts to light as the tendrils shifted and it's the first step towards her all in gamble escape.
+
+_"How delightful. I so rarely receive guests who can appreciate... beauty."_
+
+One of Amadea's void jumps fails and she is caught in the monster’s embrace, restrained upward in a living lattice that lifts her off the stone, more displayed than imprisoned, as if the nymph were turning her into an exhibit. She is slippery and through her own crystal she cuts the lashes which anger the nymph and she begins using thorns to injure her as the pollen continues taking its toll.
+
+*No. No, I can't—I can't lose now. I came here for Cordelia. I came here for the Sky Glass. I can't—*
+
+The nymph's petals pressed closer, and Amadea felt herself slipping. The numbness was everywhere now, warm and dark and inviting. The pleasure was threading through her veins, soft and wrong.
+
+"Exactly where I want you," the nymph whispered. "Exactly where you belong."
+
+Amadea froze. The words wrapped around her like silk, warm and inviting, promising comfort.
+
+The nymph's petals flared, releasing another wave of pollen. The scent of roses grew stronger, sweeter, more intoxicating.
+
+_"Don't be frightened, little butterfly. I promise to be gentle."_
+
+As the nymph realizes Amadea is hard to catch, she begins daydreaming about turning Amadea into sculpture and posing her arms and body as an eternal dancer alongside the curves she displays when throwing the volley of obsidian feathers.
+
+_"Your greatest strength as the pigment of your subjugation, ah, obsidian it's such a beautiful color."_
+
+_"A beautiful silver gentle sculpture: the instrument, the player and the song all at once"_
+
+_"That instinct of clenching your fists pacified, I would use delicate tendrils to pry each fingers apart, splaying them loosely and limply. The vines looping around that soft wrist to ensure palms are open to the air, deliberately angling your right hand so the silver light flawlessly catches the specific gemstone ornament you wear there. I can see it already! The palms are open, facing upward. The fingers are slightly curled, as if reaching for something that isn't there. The wrists are relaxed, not tensed"_
+
+_"Those agile legs parted in a wide, delicate, vulnerable jump, forever. Barefoot and suspended, the vines wrapping your ankles gently downward, weaving between each toe, forcing them into a stark, downward point. It's beautiful! Like a dancer suspended in mid-leap with the elongated line of your legs. You cannot flee, cannot brace, cannot find purchase. Those nimble feet arranged for display, not for movement in still quietness."_
+
+On the moment she escapes when she enrages the nymph amadea realizes that the tendril is trembling slightly to the rhythm of her breathing and how her chest inhales and exhales.
+
+_"And your breathing will sway along the rhythm of my garden. Your chest changing in its shape through every exhale, linked inextricably to the release of the pollen. In the pain subdued into pleasure and bliss."_
+
+As the dialogue of the nymph becomes fixated with her breathing amadea realizes that's the key to surviving the jar and the way in which she develops breathing arts. She uses the nymphs self declared win and her future humiliation to give her the map to win against the impossible
+
+That's why she realizes, the second part on how to use breathing arts and that it reacts to her movements.
+
+While Amadea begins getting tired, she is not helpless. Through pain and panic, she notices the pattern: the creature blooms when it thinks she is still, and tightens when it expects resistance. She stops fighting the obvious way and starts listening instead. Her realization of the trap _"It's a waltz where the monster insists on leading, if you try to lead in force, the floor swallows you whole"_.
+
+She realizes breathing arts by this fight before she is able to understand it, which becomes crucial because on the next leap, she breaks the ceiling of the observatory leaving one of the moonlit rays exposed to the glowing crystals.
+
+_"All wrapped in a severe, helpless arch, thrusting your chest, stomach, and hips forward to catch the direct spill of the fractured moonlight. I was wondering what it was for, but you created your own spotlight!"_
+
+While she attempts another leap, she gets captured, but this is where she realizes that there is an opening, and she transitions to playing dead.
+
+"Beautiful... beautiful one after another. Every inch exquisite."
+
+The amber vine reached the fabric of her shirt, pressing against the swell of her breast. Amadea felt her body betray her — a shiver that was not entirely revulsion, a warmth that was not entirely fear.
+
+"You can feel it, can't you? The pleasure beneath the pain. The way your body responds to my touch..."
+
+This is the moment the [[Corpse Bouquet]] positions her in the final pose she intends to "Pollinize" and readies the bell jar, here Amadea's heart spikes and the nymph senses the change, acting out in cruelty, but Amadea grounds herself in the sheer pain from her wrist, deciding this is the moment as the nymph brings out her stamen and fully exposes the core bloom. "Slip the knot, don't try to break the rope."
+
+_"I have a thorn of roses for your crown and choker on the sliver of your neck just where the bell jar ends. To tie your own breath to pleasure and pain in a silver cascade of that beautiful hair down. Your own sweat reflecting my sweet pollen."_
+
+Then, [[Corpse Bouquet]] goes for the final blow She does this as she moves close to Amadea, letting her see the stamen right next to her face saying that she's ready for pollination.
+
+"Ah... you see it now, don't you?" The nymph's voice was thick with anticipation. "My stamen. The instrument of your final nectar. The source of all the pollen."
+
+The amount of pollen it realizes, gives her a narcotic hallucination:
+
+She was in a place filled with violet trees.
+
+The leaves shimmered with silver light, and the air was warm and sweet. Artus stood at the center, his hand extended, his face soft with that familiar, impossible hope.
+
+"You did it," he said, his voice warm as summer. "You found it. You found the grove."
+
+Amadea felt tears on her cheeks. She had done it. She had found the Violet Grove. She had kept her promise.
+
+But the warmth was too warm. The comfort was too comfortable. And Artus's eyes—they were wrong. They were the color of moonlight on water, not the steady nurturing gaze she remembered.
+
+"Let go," the not-Artus whispered, his voice shifting, becoming something else. "Let go, little butterfly.
+
+Artus's face began to shift—to melt, to reform, to become something beautiful and terrible and wrong.
+
+_"No. No, this isn't real. This is the nymph. This is the pollen. This is the pleasure trying to consume me."_
+
+This made her see the illusion of the nymph's face, but as she saw the nymph face, she also saw that this is the moment it over commits, a perfect opening of it exposing its vulnerable core.
+
+However, it then prepares to lowering the bell jar of petals on top of Amadea's head to get her to not see anymore, and release a lot of numbing pollen where she's unable to breath anything but the inside of the bell. As everything goes black, the warmth surged, and the world dissolved again.
+
+She was in a room, warm and soft. Candles flickered on the walls, and the bed was covered in silk. Artus was there, his body against hers, his hands tracing her skin.
+
+"Finally," he whispered. "Finally, you're letting yourself feel."
+
+The pleasure was overwhelming, the warmth intoxicating, the promise of forever so seductive.
+
+"I never told you," she heard herself whisper. "I never told you how much I loved you. I was too scared. Too proud. Too broken."
+
+"Tell me now," the not-Artus whispered. "Tell me what you never said. And then let go."
+
+"I—" Amadea's throat constricted. The words were there, burning inside her, desperate to escape.
+
+*I love you. I've always loved you. I never said it, but I've always loved you.*
+
+But Artus's eyes were wrong. They were the color of moonlight on water. The same running water that is grounding her association as she prepares the jump to escape the nymph's embrace, she just requires the will to push through.
+
+"I love you," she breathed, "but you're not real. You're not Artus. Artus is dead. I buried him. I said goodbye."
+
+*I won't. I refuse. I refuse to lose.*
+
+The nymph to Amadea as it prepares her for the pollination with her head and her sight restrained by the nectar bell jar. The inhalation of pollen makes the two next narcotic and most dangerous hallucinations:
+
+The stamen pressed against her stomach.
+
+"Don't fight it, little butterfly. Let the warmth consume you. You've been fighting so long... so hard..."
+
+The last thing she whispers is _"Surrender to my stamen and the pain of the thorns will stop. I promise to treat you well, beautiful silvery butterfly."_
+
+While Amadea begins feeling that the pain of her wrist is quickly vanishing as the pollen is doing its effects. However, instead of panicking, she pretends to go limp, and instead uses visualization and association to find the Obsidian Feather she planted on the ceiling where the moonlight is falling, hearing the sound of running water that is falling from the place where the Obsidian Feather is.
+
+As those words dissolved, it hit a memory.
+
+Not the fantasy. Not the nymph's false warmth. A real memory.
+
+*"If I was the Moon, Artus, would you still look for the stars?"*
+
+*"Only if you promise me to shine forever."*
+
+*"But... what if I can't shine forever?"*
+
+*"Does it matter? Our lives are temporary. So are those stars. They will burn out, as comets falling one by one. And yet people like you still look for them in the night sky."*
+
+The real Artus' voice. Not the nymph's imitation. The real one. The one who had believed in her when she couldn't believe in herself. The one who had given her the circlet and the seed and the promise.
+
+*"You are a princess. You just don't know it yet. And one day, you will be an empress."*
+
+The fantasy shattered.
+
+She anchors in the absolute certainty of her plan, and tries to recall the pain that mirrors the merchant when she first lied all the way in Act II against the guard to secure [[Auric Peach]]es for her second [[Real Cycle Birthday]], replacing and doubling down on her grounding even if her body is succumbing to the nymph's embrace.
+
+The running water and the pain. The gaze of the false Artus is the escape.
+
+Thus, before that stamen can touch her skin again, she leaves the capelet anchored in the bloom as decoy, moves her entire body without the capelet, and grabs her capelet falling once the nymph dies.
+
+This lesson changes her address to magic, heavy blows, faster spells, overwhelming music is not the answer to conflict. Restrained can be map, it can be read and reversed.
+
+When she's playing dead on the final displayed pose, she shifts her breathing inside the bell jar, breaks the rhythm, and turns the monster’s own need for symmetry against it, using the cracked observatory glass to fracture the moonlight and disrupt the bloom at its core. The vines loosen just enough for her to slip one arm free, then one leg, then the rest of her body in a violent, elegant recoil of motion and Void that she uses to deliver the killing blow as the nymph believes Amadea is captured and ready for subjugation and pollination.
+
+When she finally breaks clear, she is bruised, dusted with pollen, and shaking, but she has learned something crucial about her magic and herself: restraint can be read, mapped, and reversed. Behind her, the observatory collapses back into silence, its central flower closing like a wound, while Amadea walks out changed—more dangerous, more cunning, and one step closer to rescuing Cordelia. This is the test that proves that her strength is her cunning much before she's a virtuoso.
+
+The scene reads as: Amadea enters as an infiltrator. The Court of Delicacies’ monster tries to pin her and display her while using her to further its own sadistic desires. She escapes by reading the environment and exploiting the monster’s logic. The encounter permanently upgrades how she thinks about Void, Crystal, and restraint. Her intelligence matters as much as her power. A clear emotional aftertaste. She is shaken, but altered. The visual hook is the ruined conservatory: glass ribs, overgrown vines, pale blossoms, wet stone, and Court of Delicacies ornamentation half-swallowed by nature. The scene should feel like a cathedral that learned how to eat people. The encounter is Amadea arrives disguised, already under pressure from the job Cyril pointed her toward. She is not hunting glory; she is trying to survive long enough to recover Cordelia and keep moving. False calm. 
+
+The conservatory is quiet, fragrant, and beautiful. That matters because the scene  starts with deceptive elegance, not immediate violence. The reveal. The monster emerges as a court-grown horror: floral, elegant, and predatory. It should feel like something the Court of Delicacies would absolutely preserve as decor. The restraint. Vines, bloom-cages, thorn loops, or a petal lattice immobilize her. The key is that the restraint should look like an art object as much as a trap. The pivot. Amadea notices a pattern: the monster overcommits when it displays its “prize.” It needs her stillness to stabilize the bloom of the nectar that she tries to get Amadea to forcefully inhale the numbing pollen.
+
+However, Amadea wins by realizing that the nymph is near sighted blind.  She can only see things from a very short distance yet it is hyper sensitive to light shifts.
+
+The escape. She reorients by changing tempo, shifting weight, and cracks entirely open the ceiling, in a flashing light of moonlight that blinds the [[Corpse Bouquet]]; then she uses the monster’s logic against it which is where she uses shadows to go underneath, and there's three false strikes she leaves teasing the nymph that it can't catch her provoking her to get into pose where she can find the one opening kill, using the reflecting light to her advantage by fully disorienting it.
+
+This is a heavily cinematic scene as Amadea lunged for the killing blow after distracting it three times throwing more obsidian feathers that act as sound, as another magic anchor for her next move, and changing the light of the nearby scene, effectively making the nymph frantic actions of attacking where the light is changing, but she's attacking precisely where Amadea wants her to move, changing the dynamic of who's predator and who's prey with the nymph's frantic actions trying to regain control.
+
+After the false three strikes, the [[Corpse Bouquet]] has a fatal blind spot, and [[Amadea]] uses the fourth to land the critical hit as the nymph has her bloom fully exposed on the killing angle as Amadea leaps from the high walls near of the ceiling, where the moonlight and the water is seeping from.
+
+At the end of the fight before the lunge [[Amadea]] says _"Tell me Silver Moon, which voice is the note of Consonance."_ as prepares for the final killing blow.
+
+Thus, the final cinematic image is amadea cutting through the bloom as the moonlight falls beneath with the many light shafts of the cracked dome, and she poses grabbing the capelet she left as distraction, the entire coup de grace is delivered before the cloth touches the ground, and she bows to no one, and to everyone when she catches it as the nymph withers and dies.
+
+The aftermath. She leaves marked by pollen, torn cloth, and a new understanding of how restraint can be weaponized and reversed. How to make it cinematic Focus on these elements:
+
+The scene is a master play in Motion versus stillness:
+- The scene contrasts Amadea’s flowing, dance-based combat style with the monster’s immobilizing grip. Her victory feels earned when she turns stillness into motion.
+- It relies on the use of silence, broken glass, and the sound of vines tightening or petals opening. If her magic is musical, the environment should feel like it is “listening” to her before it attacks her.
+- The Glass conservatories are perfect for fractured lighting. Letting moonlight and filtered Lunehymn create hard edges, reflections, and false doubles.
+- The scene is disturbingly dark fantasy intimate with tactile detail: wet leaves, sharp thorns, slick stone, silk-like petals, powdery pollen. That makes the trap memorable.
+- And the fight reads like a score: opening hush, first sting, escalation, suspended beat, reversal, collapse. That rhythm is what gives the scene the same replay value that a meme scene has in fandom. How Amadea escapes Make the escape depend on intelligence, not brute force. She realizes the creature tracks motion in a repeating pattern and deliberately breaks her own rhythm. She lets it believe she is fully restrained, then uses a tiny Void offset to shift a binding point which is the starting point of her mastery of [[Topological Arts]].
+- She notices the monster’s core bloom depends on reflected light and the intent it has, it's weakest whenever it believes the prey and the trap is settled, so Amadea shatters and redirects a glass panel. She uses a remembered phrase, gesture, and musical cue to destabilize the creature’s resonance. She sacrifices a decoy weapon or cloak to lure the vine mass away from her body. 
+
+The important thing is that she wins by seeing what the monster is, not just by overpowering it. A single iconic restraint pose, a recognizable setting, a clear before/after image, a monster with elegant, courtly aesthetics, and Amadea’s clever turnaround. “beautiful trap + smart escape + character growth.” It should feel like: environment as enemy, monster as courtly predator, survival through wit, and personal evolution through restraint. While she's fighting the [[Mind Control Arts]] of the pollen through will power and intellect, if she inhales too much, she would become the nymph's puppet and plaything for her "pollination."
+
+Aside from the horror, this highlights that [[Pure Light]] beings are also dangerous even if they're not [[Atonalis]] or [[Pleasure Parasite]]s. She calls them "Perverted divinity." And particularly, this fight is important because these nymphs use pollen as mind control arts to subdue and pacify the victim which attempts to use in Amadea before devouring her in subjugation. This is also Amadea's first encounter with mind control arts, and it's a lesser version of the same type of magic that [[Lacrimosa]] uses in the hollowing as the call of the purest of love which breaks most people minds. Amadea has been training against this horrors on the first important mission. And the breathing arts are a key way to fight against Lacrimosa.
+
+Weaponizing the intellect and arrogance of their enemies into the opening she needs is something she learned from Artus, fully applied it against the nymph, and it's what makes her win the rematch against kastor. Moreover, [[Corpse Bouquet]] is part of Lazarus pristine collection. The moment Amadea kills it, the entire court of delicacies feels the waves, distracting most of them while making Amadea a real threat. This is when Lazarus becomes interested in her as she did the impossible.
+
+Much later this also ripples out, Amadea later says in Iridia, _"I think [[Corpse Bouquet]] was one of the most frightening moments I've ever felt but that feeling made the clarity needed to stop pulling and start directing."_ 
+
+Moreover, Amadea uses [[Entropic Scrying Arts]] to see this future and she's horrified which is partially what stops her from using dream scrying in general as she sees herself posed as the breathing sculpture of the [[Corpse Bouquet]].
+
+Likewise, when Pollux attempts to restrain amadea with the void ink arts the first time, she realizes Pollux is just like the nymph, and he outsmarts him from the knowledge, impressing him as no one had been able to resist his suspension. This makes Pollux realize, it's impossible to trap her like anyone else, which is why he begins following as her shadow instead of trying to face her head on. Trying to go head on into amadea is suicidal, she's impossible to restrain.
+
+On the aftermath, she claims the final piece of the puzzle signaling at Luminaire's party,
 
 _Act 21: The Rules of This House Are Not the Rules of the World_
 
-[[Amadea]] rescues [[Cordelia]] from institutional abuse and humiliation.
+Three days right after Amadea crashes the most important of [[Luminaire]]'s parties and that's how she gets the lead on [[Cordelia]] that she needed to figure out how she is going to infiltrate her family estate and where she is even located.
 
-This chapter is the first [[Cordelia]] chapter, where the POV changes to her to focus on [[Cordelia]] and her interiority.
+Right before, Cyril burns his entire identity to get an opening for [[Amadea]], and as he sacrifices all of his connections in the underground for a major rebellion, they part ways on the final stretch for [[Cordelia]], on the promise that _"If you are alive from the heart of the rot of the [[Court of Delicacies]]. Meet me in the new tavern I will have in this [[Major Settlement]]."_
+
+The last thing he tells her is:
+
+[[Cyril]]: _"What does it cost a soul when the fundamental language of love is overridden by the language of survival?"_
+
+[[Amadea]]: "Now you're being poetic?"
+
+[[Cyril]]: "You never know when are the last words we exchange until they are the last."
+
+[[Amadea]]: "I promise I'll come back, you better have that tavern ready for the aristocrat." [[Vow Mark]]
+
+[[Cyril]]: "Delusional as ever but hope isn't the point right?"
+
+This now becomes the moment [[Amadea]] pinpoints the exact location of [[Cordelia]] and prepares the extraction. [[Amadea]] rescues [[Cordelia]] from institutional abuse and humiliation. [[Amadea]] teases [[Luminaire]] which causes her to rage and lose her [[Composure]] declaring her a rival. 
+
+This next chapter is the first [[Cordelia]] chapter, where the POV changes to her to focus on [[Cordelia]] and her interiority.
 
 The punishing of [[Cordelia]] by her aristocratic family is a brutal beating. She is forced to offer herself to the punishment providing the whip to her beater, thanking them for the discipline, then she is given a cotton sponge she can bite so that she endures the pain of her whipping. She is forced to remove her upper garments and her bare back is whipped for disobeying, reminding her of her status as a lower tier aristocrat repeating her original betrayal.
 
@@ -1891,7 +3329,7 @@ She retraces her childhood and the original betrayal that pushed her to find [[A
 
 But before [[Cordelia]] can prove to herself that [[Amadea]] doesn't care, [[Amadea]] breaks in to defend her, she is not rescuing a passive victim. She is breaking the mechanism that was trying to turn [[Cordelia]]'s warmth into shame and in doing so, she catalyzes [[Cordelia]]'s break from her [[Submissive]] trait. The shock that makes [[Cordelia]] finally resist is not [[Amadea]]'s strength. It is the sight of someone choosing her dignity on her behalf before she had the will to choose it herself.
 
-Driven by the compounded tragedies and of her guilt of what she did to [[Cordelia]], in contrast of what she had done before for her during the court trial happened where [[Cordelia]] helped her out. She appears for [[Cordelia]] the next time she's taken to the family state and breaks in to fight her very family to defend her, making [[Cordelia]] break from the shock of her [[Submissive]] trait and giving her back the favor when she saved her from the court trial with [[Luminaire]]. She breaks the humiliation of [[Cordelia]], and opposes the corrupt noble estate. [[Amadea]] breaks her paralysis by saying to her: _"The rules of this house are not the rules of the world. The people who have built their paradise on earth will tell you that yours is in the heavens. You do not have to thank them. You do not have to return. You can choose. They only care that you bleed for them. And you have bled enough."_
+Driven by the compounded tragedies and of her guilt of what she did to [[Cordelia]], in contrast of what she had done before for her during the court trial happened where [[Cordelia]] helped her out. She appears for [[Cordelia]] the next time she's taken to the family state and breaks in to fight her very family to defend her, making [[Cordelia]] break from the shock of her [[Submissive]] trait and giving her back the favor when she saved her from the court trial with [[Luminaire]]. She breaks the humiliation of [[Cordelia]], and opposes the corrupt noble estate. [[Amadea]] breaks her paralysis by saying to her: _"The rules of this house are not the rules of the world. The people who have built their paradise on the earth will tell you that yours is in the heavens. You do not have to thank them. You do not have to return. You can choose. They only care that you bleed for them. And you have bled enough."_
 
 This is the [[Flux]] [[Ornament]] [[Motif Awakening]] for [[Cordelia]] where she realizes she can feel for herself.
 
@@ -2122,7 +3560,7 @@ The act opens with [[Amadea]] performing one of her new [[Ballad]]s.
 
 Once they reach the outskirts of the Boreal Reach, they share [[Legend]]s with the common folk of the area, [[Amadea]] becomes famous due to her performance as an Actress as she's acting again as Violet but she's not doing the [[Ballad]] of [[Artus]] anymore, she's taken on the [[Ballad]]s that she created of a spy that infiltrated the rotting aristocracy (her own story against [[Lazarus]] and making fun of the aristocrats that fell for her [[Obsidian Feather]] scam), a few other reinterpretations of what she heard from [[Lazarus]] giving some of the [[Legend]]s of tragedy she learned in the [[Court of Delicacies]] the "right ending they deserve." She also performs the [[Legend]] of the [[Mythical Virtuoso]] of [[Resonance]] she learned from [[Artus]] on her second [[Real Cycle Birthday]]. 
 
-They meet the daughter of the Boreal King, [[Deliah]], and she, just like [[Cordelia]], likes a lot [[Amadea]]'s plays. They exchange goods, and they get their new clothing made as well during one of the place's core [[Civic]]s regarding polyphony and singing for the next [[Echo]] that will affect the tides of the [[Crescent Mist Peaks]]. They also introduce [[Amadea]] and [[Cordelia]] to the key rules of the [[Crescent Mist Peaks]]: The Mist Remembers, The Mountain Dreams in Fractals, and The Abyss Listens. The most important of these is the [[Lunehymn]] narcosis of inhaling the crescent mist in large quantities. Here the group also meets the friends of [[Orphael]] who have been searching for him, and give [[Amadea]] the necessary tools to begin the [[Emotional Residue]] tracking in [[Detective Magic]].
+They meet a golden hair woman named Alena and the daughter of the Boreal King, [[Deliah]], and she, just like [[Cordelia]], likes a lot [[Amadea]]'s plays. They exchange goods, and they get their new clothing made as well during one of the place's core [[Civic]]s regarding polyphony and singing for the next [[Echo]] that will affect the tides of the [[Crescent Mist Peaks]]. They also introduce [[Amadea]] and [[Cordelia]] to the key rules of the [[Crescent Mist Peaks]]: The Mist Remembers, The Mountain Dreams in Fractals, and The Abyss Listens. The most important of these is the [[Lunehymn]] narcosis of inhaling the crescent mist in large quantities. Here the group also meets the friends of [[Orphael]] who have been searching for him, and give [[Amadea]] the necessary tools to begin the [[Emotional Residue]] tracking in [[Detective Magic]].
 
 However, [[Amadea]] quickly gets into a conflict with [[Cordelia]]. The fight is triggered after the revelation of [[Orphael]]. With this revelation in hand, [[Amadea]] makes the sudden, unilateral decision to abandon [[Cordelia]] and pursue the [[Legend]] of the Tide Singer to the End.
 
@@ -2176,7 +3614,7 @@ She wakes up in a gasp to a beeping noise with slight tears before [[Luminaire]]
 
 On fhe lower chasma of the lunar abyss, reality is unstable and it needs an external anchor to confirm imposible passages. This forces amadea and Luminaire to rely and trust each other. Constantly checking in with each other if something exists the way they perceive it verbally, physically and magically
     
-It's similar to the graduation exam of the signath Artus and amadea vanquished those years ago but as environment hazard.
+It's similar to the graduation exam of the signath Artus and amadea vanquished those cycles ago but as environment hazard.
 
 _Act 27: A Clash of [[Flux]] and [[Cindergale]]_
 
@@ -2197,6 +3635,8 @@ When [[Cordelia]] joins them, when pressed about what ruined the function that w
 _"Well, one of the things I hate most about myself is how I romanticize everything and end up ruining every friendship or other types of connections by falling in love with people who never supposed to mean that much to me because my brain always takes normal kindness and turns it into something deeper than it really is or even something worse that I deeply resent about myself. And the worst part is I'm not even doing it on purpose. It's just that when you spend so much time feeling unwanted you start reacting to anything like it's love and the distance between love and lust is something I can't force myself to comprehend._"
 
 _"Suddenly, everything stays in my head too long, the [[Weight of Indulgence]] is crushing. Someone checks on you a few times and now you're thinking about them all day. like some pathetic [[Self-Indulgent Slave]] who got attached just because some niceness is everything from the door of a friendship to the guillotine and executioner. That then becomes loneliness, and maybe it is the one thing that really rots away despite being filled in circles with people who claim to know your name, but never like I do. Normal, healthy people know how to separate kindness from love, from being [[Empathetic]] to being [[Lustful]], but I genuinely don't think I know the difference anymore. And that realization is honestly embarrassing, because I can look back now and see how many relationships I've quietly ruined inside my own head while the other person had no idea what was happening. They believed they were close friends while I was sitting there overanalyzing every single detail that rots away my mind in "_
+
+Cordelia empathizes with Orphael due to the shared importance of [[Eleos Bloom]]s for both and its the guiding principle of their relationship and eventual discovery of [[Strand Pool]]s. [[Orphael]] empathizes with the creature [[Cordelia]] adopted, and teaches her [[Eleos Arts]] for communication which is the beginning of [[Cordelia]]'s ability as a tamer of [[Pure Light]] creatures.
 
 _Act 28: A Horrible, Unforgiving Nightmare_
 
@@ -2274,7 +3714,7 @@ This specific moment of profound emotional vulnerability however acts as a beaco
 
 _Act 29: Magic is Nothing More and Nothing Less than the Courage to Heal_
 
-This is a changing 3 pov long chapter, the first is the position of [[Cordelia]] figuring out where she is and ending with [[Orphael]] and [[Sephira]], they figure out the confession and the [[Strand Pool]]. 
+This is a changing 3 pov long chapter, the first is the position of [[Cordelia]] figuring out where she is and ending with [[Orphael]] and [[Sephira]], they figure out the confession and the [[Strand Pool]]. Cordelia empathizes with Orphael due to the shared importance of eleos blooms for both
 
 The three of them have an exchange and [[Cordelia]] expresses that [[Amadea]] and [[Luminaire]] are likely still alive given that she sensed a spike in [[Amadea]]'s [[Emotional Residue]].  It also serves a comfort because if she's mourning, that means she also cares for [[Cordelia]] even if she's being cruel.
 
@@ -2444,6 +3884,10 @@ She is sobbing alone on the clearing and tending to her violin trying to ground 
 
 _"[[Artus]]? She says at the distance."_
 
+_"No. No, you're not—you can't be—"_
+
+_"I'm not real," the Facewalker said, in Artus's voice. "But I can be, for a little while. If you let me."_
+
 When the [[Facewalker]] lures [[Amadea]] in the crescent mist, it humanizes itself by wearing the face of [[Artus]], even counting back the words that [[Elaine]] said to her in Act 2 to prove its relationship to [[Amadea]]: _"If you ever lose your way in the dark, trust the person who knows exactly how to tie this knot."_
 
 As it physically embraces her, its hands reach around to the back of her head and perfectly tie [[Elaine]]'s complicated knot. This proves to [[Amadea]] that the creature understands the deepest parts of her architecture.
@@ -2481,6 +3925,12 @@ _Act 34: And You Have Bleed Enough, Remember?_
 The POV goes back to [[Amadea]] where we are in a disturbing state of her interiority and the interaction with the [[Artus]] shapeshifter where the [[Atonalis]] was wanting to be [[Amadea]] so badly saying "I want hair like yours, hands like yours, fingers that curl in the cold like yours, I want eyes to stare, and to cry when I'm feeling lost like you." The [[Facewalker]] is touching each part of [[Amadea]] as it describes the eerie passage.
 
 [[Amadea]] is recalling all the times she's been left behind, starting with the fact that she can't even remember her biological mother's name nor past aside from fragmented memories. She also can't remember who her father actually is, and is in profound conflict regarding her identity. She experiences a deep psychological conflict regarding her maternal figures. While she yearns to remember her birth mother, she acknowledges that it was [[Elaine]] who raised her and provided the very architecture of her magic and survival, but more importantly, she realizes that ultimately both died alongside the real father she can't remember and [[Corvin]].
+
+_"Mother... I- I- I-."
+
+_She cuddles into the ghost of Artus taking her hand until the touch makes her able to talk._
+
+_"I-I'm still that girl in... in the river... Still scared. Still alone. Still wanting someone to hold me and tell me I've done enough. Tell me I can stop now. I thought I'd gotten past this, but the fear is still there — the same fear from the river, the same fear of being alone in the dark... I never stopped being her."_
 
 For this very reason, the [[Artus]] shapeshifting, even with the uncanny hallucination it has, is incredibly effective as in the cold, [[Amadea]] deeply wants the illusion to be real, even knowing it's not. The combination of this desperate need for relief of her grief to finally be taken away, plus the things it constantly whispers to her in how the [[Facewalker]] wants to be authentic as she is while disguised as [[Artus]] is the moment that [[Amadea]] starts giving in to the embrace and the comfort it is giving with the physical touch and the face she's agonizing over losing.
 
@@ -2536,11 +3986,15 @@ _Act 37: There Is A Place, Where the Trees Grow Violet_
 
 Following the ride down from the [[Crescent Mist Peaks]], each of the [[Mythical Virtuoso]] go their own separate ways. [[Luminaire]] departs with [[Sephira]] back to [[Hollowmarch]], [[Orphael]] joins [[Cordelia]] and [[Luminaire]] for the next [[Enclave]] following the hunt of a legendary beast precisely on the lands that [[Amadea]] wants to find.
 
-[[Amadea]] follows the lead of [[Orphael]], and with [[Cordelia]], they finally uncover that the Violet Grove does exist, and gathering the bandwagons of survivors from the Boreal Reach, the pilgrimage begins to found the city of [[Iridia]] at the very center. 
+[[Amadea]] follows the lead of [[Orphael]], and with [[Cordelia]], they finally uncover that the Violet Grove does exist, and gathering the bandwagons of survivors from the Boreal Reach, the pilgrimage begins to found the city of [[Iridia]] at the very center.
 
-She recruits anyone following the cause with the promise of a dreamland and safe haven for all, she mirrors how [[Artus]] used to improvise the speeches on their time stealing together with the banner of several golden stars that represents [[Iridia]], and reclaiming the legendary tree of the violet grove.
+She recruits anyone following the cause with the promise of a dreamland and safe haven for all, like Alena and [[Deliah]], she mirrors how [[Artus]] used to improvise the speeches on their time stealing together with the banner of several golden stars that represents [[Iridia]], and reclaiming the legendary tree of the violet grove.
 
 The founding of [[Iridia]] has several members that are pious of the [[Auric Aria]], and it presents the first theological conflict for [[Amadea]] in her newly formed [[Waltz Pillar]] society that grows for the next chapters.
+
+The moment [[Amadea]] reaches this place, she realizes this is the exact description of Elaine's dream, this is the "Avaloch Basin" she thought, as this is has the exact place: the silver sand, the mountain that dreams of fractals, the large [[Eclipsed Waterfalls]], but it is Iridescent when the water meets the sand due to how the [[Fractal Kaleidoscope]] of the [[Grand Thread Rings]] of the [[Great Harmonic Loom]] reflect on the converging [[Leylines]].
+
+Thus, the real "Avaloch Basin" of [[Elaine]]'s dream is the exact chalice basin where Iridia is eventually founded near the boreal reach. [[Amadea]] names it as the "Iridescent Basin" and the city of Iridia is founded on the very center of it.
 
 _Act 38: A Safe Haven of [[Ballad]]s & Fantasy [[Civic]] Plays_
 
@@ -2553,6 +4007,8 @@ The memory and promise is finally a reality.
 [[Orphael]] goes on his quest to grow the [[Tide Singing Arts]] in [[Iridia]], the nearby [[Enclave]]s and leaves to join with [[Sephira]] in [[Hollowmarch]].
 
 The chapter also shows the reality of these [[Civic]] plays painting sets, rehearsing lines, the anxiety of performers to beautifully contrast the apocalyptic horror outside the city walls. It shows the citizens engaging in the mundane labor of creating art, proving that they are not just surviving, but actively choosing to live which is the core thesis of [[Amadea]] transformation of living instead of merely surviving.
+
+In [[Iridia]], originally [[Cordelia]] follows the laws of the plays exactly as they are, acting subconsciously on her abuse as if [[Amadea]]'s institutional law is above everything. Seeing this, [[Amadea]] breaks her paralysis saying that rules aren't absolute and that she should always question authority, especially if it's [[Ballad]]s, they're meant to portray emotion, not to be constrained by rules.
 
 _Act 39: The Seed of [[Revelation]] of the Violet Grove_
 
@@ -2577,7 +4033,7 @@ She later creates her signature Obsidian Empress construct named "[[Dear Fugue]]
 
 _Act 41: Dawn Must Come for Those Who Cannot Watch Themselves_
 
-Reintroduction of [[Lenore]] who has heard the myth of a new safe haven and realizes it's [[Amadea]] who did manage to found [[Iridia]].
+Reintroduction of [[Lenore]] who has heard the myth of a new safe haven and realizes it's [[Amadea]] who did manage to found [[Iridia]]. She rejoins the main cast with [[Amadea]] as [[Iridia]]'s scholar, and architect of [[Cosmic Motion]] imitating the water systems of Lol-Ha' in the city capital.
 
 First conflicts with [[Lazarus]] on the [[Court of Delicacies]]. She realizes that it's necessary to have a [[Shadow Order]] to keep the light of [[Iridia]] afloat, she properly becomes a [[Great Justiciar]], and starts creating the [[Civic]] apparatus of her [[Civilization]], including the [[Obsidian Feather Society]]. She starts getting involved with [[Luminaire]] and [[Hollowmarch]] as an opposing mirror to their theology on suffering, and reviews her own version of the [[Auric Order]] mainly focused on the [[Waltz Pillar]] instead of the [[Aureus Pillar]].
 
@@ -2700,11 +4156,11 @@ On the subject of theology, she leans [[Iridia]] ultimately deciding to be only 
 
 Furthermore, [[Pollux]] focuses on the weaponization of [[Amadea]]'s unknown past is the climax of his symbolism on their early fights against [[Pollux]] after [[Corvin]]'s revelation, where he deliberately brings [[Amadea]] to her lowest and offers her the one thing even the [[Facewalker]] could not: her _origins_.
 
-He doesn't actually know the details of her biological family. He bluffs. But the bluff works because [[Amadea]] has a wound that predates [[Artus]], predates [[Elaine]], predates everyone — the wound of a name she doesn't know and a face she can't remember and a word spoken before static that she will never reconstruct. [[Pollux]] finds the wound that has no scar tissue because it was never allowed to close, and he holds it open. [[Amadea]], however, sees through [[Pollux]] bluff after thinking through, replying back: _"If you really knew my mother, you would know the entire meaning of mother's sacrifice. She used her dying breath to stand in a freezing current solely to give me a life she couldn't ever see. My mother didn't die to [[Static Criticality]] so that I would later succumb to the surrender of the [[Void]]. You are nothing but a liar."
+He doesn't actually know the details of her biological family. He bluffs and weaponizes the one nickname [[Corvin]] used for her: "Oh please 'my little sharp note' don't make me eat my own words." Pollux weaponizes that for Amadea. But the bluff works because [[Amadea]] has a wound that predates [[Artus]], predates [[Elaine]], predates everyone — the wound of a name she doesn't know and a face she can't remember and a word spoken before static that she will never reconstruct. [[Pollux]] finds the wound that has no scar tissue because it was never allowed to close, and he holds it open. [[Amadea]], however, sees through [[Pollux]] bluff after thinking through, replying back: _"If you really knew my mother, you would know the entire meaning of mother's sacrifice. She used her dying breath to stand in a freezing current solely to give me a life she couldn't ever see. My mother didn't die to [[Static Criticality]] so that I would later succumb to the surrender of the [[Void]]. You are nothing but a liar."
 
 [[Pollux]] reaction to [[Amadea]]'s ability to see through his facade is a profound moment for him, as this confirms that [[Amadea]] is an upmost priceless possession. The moment of [[Amadea]]'s [[Cunning]] defiance motivates him to see her as the perfect quill which is valuable precisely because it's hard to get which feeds harder into his [[Delusional]] concept of having [[Amadea]] ultimate physical, mental, and ideological surrender.
 
-_"I am surprised, Empress of Nothing. You truly are a clever girl. That's right, "[[Amadea]]", even I couldn't unearth the pathetic death of your mother. It proves how utterly worthless she was, but that also makes your meaningless defiance truly, the most beautiful quill fit for my [[Magnum Opus]]. I'm deeply relieved that you're still the woman who killed the last tether of my beloved family."_
+_"I am surprised, Empress of Nothing. You truly are a sharp note. That's right, "[[Amadea]]", even I couldn't unearth the pathetic death of your mother. It proves how utterly worthless she was, but that also makes your meaningless defiance truly, the most beautiful quill fit for my [[Magnum Opus]]. I'm deeply relieved that you're still the woman who killed the last tether of my beloved family."_
 
 _He lets the silence stretch just long enough to become suffocating. He failed to break her with her mother's ghost, so he pivots to the phantom she actually remembers._
 
@@ -2714,11 +4170,11 @@ _[[Pollux]] begins pacing, his ink strings twitching with predatory rhythm._
 
 _"Sure, you could tell yourself it had seven limbs because [[Corvin]] wanted to shield the innocent with the [[Auric Heptacode]]. But tell me, Empress of Nothing... on the night your memory began to intertwine with his, how many children were in that caravan?"_
 
-_[[Amadea]]'s mind races back to the cramped, freezing wagon. She counts the faces in her memory. Herself, [[Artus]], the boy who died of the cough, the one accompanying him. Three others huddled in the lower level once [[Corvin]] went down._
-
+_[[Amadea]]'s mind races back to the cramped, freezing wagon. She counts the faces in her memory. Herself, [[Artus]], the boy who died of the cough, the one accompanying him. [[Carmina]] and two others huddled in the lower level once [[Corvin]] went down._
+[[Cordelia]]
 _"Seven?," [[Amadea]] says, confused of what point he's making.
 
-_"Ah, my quill, you surely can't be this idiotic. I just said you were a clever girl, don't make me eat my own words over your own rotting memory."_
+_"Ah, my quill, you surely can't be this idiotic. I just said you were a sharp note, don't make me eat my own words over your own rotting memory."_
 
 _"Are you only trying to provoke me? I didn't expect you to resort to such cheap tactics after this entire planning—"_
 
@@ -2756,9 +4212,51 @@ _Act 45: The [[Great Justiciar]] Who Keeps Sacrificing Herself_
 
 The political struggles with the [[Court of Delicacies]] challenge [[Amadea]]'s leadership, forcing her to realize that protecting people requires compromises she hated in her youth and guides her path as a [[Great Justiciar]].
 
-[[Amadea]] doesn't recall the entire details of her childhood and of the journey with [[Artus]] but a secret character of her past joins with [[Pollux]] during the war of the [[Shadow Order]]s, and it's the reason she has a breakdown akin to Mighty Nein. [[Amadea]] is unable to shake the feeling that she knows her.
+[[Amadea]] doesn't recall the entire details of her childhood and of the journey with [[Artus]] but a secret character of her past, [[Carmina]] joins with [[Pollux]] during the war of the [[Shadow Order]]s, and it's the reason she has a breakdown akin to Mighty Nein. [[Amadea]] is unable to shake the feeling that she knows her. She survived with [[Corvin]] until he became a monster.
 
-However, after this fight [[Amadea]] uncovers the name of the [[Stravos Household]] and of [[Leda]] the violinist on [[Lazarus]] records due to the insight of the dying breath of the disciple of her past.
+This chapter considers the fight where [[Carmina]] attempts to kill [[Amadea]] and directly confronts her:
+
+"You know I heard your ballad. Again, and again."
+
+"The first climax is a theater on my own death. I had countless nightmares about that exact moment and you can't even remember it properly."
+
+Carmina smirks, changing the paint in the environment.
+
+"It's funny, isn't it? How people can have such a different memory of the exact same thing. It's all a matter of perspective, I guess."
+
+She pauses one moment to throw a painting of Artus representation as three golden lines. The same painting of [[Artus]] she used to represent as a child.
+
+"And your 'warmth' is only meant to save yourself."
+
+"But Artus—" Amadea tries to respond.
+
+"You left me, Amadea," Carmina hisses, her eyes burning with cold fury. 
+
+"You left me to die in the flames. I was pinned. I was screaming. And you ran. You ran to save your precious knight and you left me behind." 
+
+"Carmina, I didn't—"
+
+"Don't." Her voice cracks, but her gaze holds.
+
+"I saw you, I saw you turn away. I saw you choose." 
+
+"I tried to—"
+
+"You tried nothing."
+
+Carmina draws her blade, her eyes glistening with tears she will not shed. 
+
+"You tried nothing, 'Violet'. You made your choice. And now I am going to make mine. To paint the world beautiful in the cinders that drowned in fire."
+
+[[Amadea]] ends up hitting the killing strike first in a rising lotus of jagged [[Crystal]] and [[Hollow-Point]] that impales her, with the blood staining the [[Obsidian Feather]] flower red. This is the same type of banned form of the [[Hollow-Point]] that later Amadea outlaws as she sees this magic she used to kill one of the core members of the court of delicacies as a crime she herself committed once.
+
+The climax of the physical exchange — [[Amadea]] impaling [[Carmina]] with a [[Crystal]] lotus — is a devastating corruption of [[Amadea]]’s own identity and magic.
+
+- **The Perversion of Beauty:** Throughout the narrative, Amadea fights against Lazarus and the Court of Delicacies, who believe in the aestheticization of wounds and forcing suffering to bloom into "Rose Seeds". By impaling Carmina with a _lotus_, Amadea inadvertently mimics the exact horrific artistry of her enemies. She has turned the only other caravan survivor, and her childhood friend's death into a beautiful, crystalline display.
+    
+- **The Weaponization of Crystal:** [[Crystal]] magic in [[Arcanoria]] requires [[Absolute Certainty]]. To cast the lotus, [[Amadea]] had to summon absolute, unflinching certainty to strike down the girl she once failed to save. The spell proves that when pushed to the brink, [[Amadea]]’s survival instinct overrides her guilt and morality.
+
+Despite being devastated after this fight [[Amadea]] uncovers the name of the [[Stravos Household]] and of [[Leda]] the violinist on [[Lazarus]] records due to the insight of the dying breath of [[Carmina]] and the link to her past.
 
 As the [[Pollux]] situation progresses, the shattering applies for both [[Cordelia]] and [[Luminaire]]. [[Cordelia]] due to her family situation, to [[Luminaire]] due to the revelation that her [[Soul Oscillator]] is like [[Pollux]] and that it is supposed to represent her voice. Information that was previously withheld by her family to use her literal soul's voice as an instrument of the state.
 
@@ -2770,7 +4268,7 @@ The act is a 3 theme breakdown between [[Amadea]] and the [[Corvin]] struggle th
 
 Then [[Miracle Magic]] researched by [[Cordelia]] once she finally finds the ruined hometown of [[Elara]] and how the origin of sacrificing everything to save something loved made her become [[The Cradle of Echoes]], proving that both [[Corvin]] and [[Elara]] faced what [[Amadea]] must face as well but each of them broke into [[Atonalis]].
 
-Then the beginning of the capture on the revelation of [[Medea]], her past, and the real meaning behind the [[Waltz of Wandering Love]] when the agent is planted.
+Then the beginning of the capture on the revelation of [[Medea]], her past, and the real meaning behind the [[Waltz of Wandering Love]] when the agent is planted after [[Carmina]]'s death.
 
 _Act 47: The Second Death of [[Artus]]_
 
@@ -2779,6 +4277,18 @@ The [[Waltz of Wandering Love]] is a song composed originally by [[Medea]] when 
 This is one of the Spiraling moments for [[Cordelia]]. It makes [[Amadea]] realize that the Violet Empress never existed and who came before her ended in tragedy. [[Amadea]] is able to ground herself by being the protection of [[Cordelia]]. "We can't both break at once." Theologically, they are mirroring the [[Selenea]] / [[Auric Aria]] dynamic without knowing the truth of the [[Sixth Cycle]].
 
 As she comes to the realization of the second death of [[Artus]] due to [[Mythic Drift]] and that the Violet Empress never existed while [[Medea]] only points to a grave this poses a fundamental question _"What am I even fighting for?"_
+
+[[Carmina]] despite being killed by [[Amadea]], plants her final painting which was a trap in case she died. It is her final act of vengeance as something she left as the encore of her last play with the chronicler to show [[Amadea]] the proof that the Violet Empress is nothing but the death of [[Medea]].
+
+Thus, [[Carmina]]’s final act of vengeance — having [[Ligeia]] paint the violet rhombus with silver edges using her own [[Silver Blood]] — is the most brilliant and devastating psychological strike in the entire [[Sonata]].
+
+- **The Corruption of Childhood Innocence:** Back in the caravan, [[Carmina]] was the young girl who painted the members of their found family onto scraps of cloth. She originally drew [[Amadea]] as a silver-edged violet rhombus to represent the gem of her legendary crown. Weaponizing this specific childhood memory turns a symbol of innocent adoration into a death sentence for [[Amadea]]'s identity.
+
+- **The Reality of the Violet Empress:** [[Carmina]] uses [[Ligeia]], a known [[Silver Blood]], for the painting. In the true history of [[Arcanoria]], the title "Violet Empress" was not born from flowers, but from the color the ground turned when Queen [[Medea]]'s [[Silver Blood]] mixed with [[Lunehymn]] as she bled to death from thirty-three stab wounds delivered by her closest confidants.
+
+- **The Destruction of the Myth:** By painting the rhombus with actual [[Silver Blood]], [[Carmina]] connects [[Amadea]]’s childhood crown directly to [[Medea]]’s horrific assassination. [[Carmina]] is forcing [[Amadea]] to realize that the "Violet Empress" she modeled her life after is just a mythic drift of a slaughtered woman.
+
+The painting was her plan in case she died at the hands of [[Amadea]] to deliver a paralyzing message: [[Amadea]] is not a savior, and her crown is not a symbol of hope. Her crown is a bloodstain of betrayal, and by killing [[Carmina]] to save herself, [[Amadea]] has proven she is no better than the traitors who left [[Medea]] to die on the steps of her throne.
 
 _Act 48: Wear the Fox-Mask, Empress of Nothing_
 
@@ -3120,7 +4630,7 @@ The realization of the truth of [[Medea]] sends them into a deep spiral, but thi
 
 After the night, [[Iridia]] is losing the [[Shadow Order]] war but as [[Amadea]] learns the limitations of [[Spellweaving]] and the hardship of coding principles into teachable patterns. She finally understands how to make the revolutionary construct of [[Dear Fugue]] which reaches his apex as the feathered wyrm, and is the reason why [[Amadea]] becomes renowned as the [[Void]] [[Mythical Virtuoso]].
 
-[[Lenore]] becomes a key figure in [[Iridia]] to ground [[Amadea]] even despite [[Medea]]'s tragedy: _"As long as there's the stars, the [[Moon]], and the earth, it will all work out. As long as there's the will to live, you can turn any place into a paradise. After all, you are alive, and the opportunities for a future are everywhere in all the corners of the skies. I doubted it once, but your [[Legend]], [[Amadea]], proved that fate can be overturned. You survived what [[Corvin]], [[Nivienne]], and even I couldn't."_
+Elder [[Lenore]] becomes a key figure in [[Iridia]] to ground [[Amadea]] even despite [[Medea]]'s tragedy: _"As long as there's the stars, the [[Moon]], and the earth, it will all work out. As long as there's the will to live, you can turn any place into a paradise. After all, you are alive, and the opportunities for a future are everywhere in all the corners of the skies. I doubted it once, but your [[Legend]], [[Amadea]], proved that fate can be overturned. You survived what [[Corvin]], [[Nivienne]], and even I couldn't."_
 
 Moreover, [[Amadea]] unearths the story of the [[Stravos Household]] and of [[Pollux]] & [[Kastor]] past, following the lead of [[Leda]] the violinist and of [[Markus]].
 
@@ -3142,6 +4652,8 @@ This is the formal rise of the [[Mythical Virtuoso]], establishing [[The Princip
 As words get out, [[Pollux]] questions [[Amadea]] about her decision to create [[Forbidden Magic]]: _"You tried to outlaw everything I do, what is the fun in that? But I'm glad that I keep such an impact in your mind as much as you do in mine. That's the sweetest thing anyone could has ever done for me. 'To try to preserve the [[Dissonance]] of my strings by immortalizing them into law.'  It sounds so delightful, but I digress with calling it [[Atonalis]] magic, mine is much more refined, filled with distortion, yes, but devoid of [[Discordant Interference]]."
 
 _Act 52: Run Into Love To Destroy Who You Used To Be_
+
+[[Amadea]] realizes on her deepest trauma that it will not be because she forgot the girl in the river. It will be because she finally steps into the water, takes that little girl by the hand, and decides to become the mother she lost, both to herself and to the world of Iridia. This is how she destroys her version that looks on the past and finally walks forward into love. (Image of the little girl in the river being rescued by herself.)
 
 This is the fight between the [[Court of Delicacies]] and the [[Obsidian Feather Society]] divided in two fronts, one in the underground passage with [[Amadea]], and the second team of [[Cordelia]], [[Sephira]], and [[Orphael]].
 
@@ -3317,7 +4829,7 @@ _Act 54: [[Potential of Creation]], [[Key of Attunement]], [[Mastery Over Chaos]
 
 This distinction is a reminder of her past and her future, the left arm is The Violet Empress, the arm that holds her instrument steady, and the one threading the notes of the neck of the violin, with all of the [[Potential of Creation]] of her entire story and the arm that is imbued with all her suffering, sacrifices and tragedy while her right arm is the Obsidian Empress, the arm that directs the bow, establishes dynamics, agency, and makes the actual sound of the violin, it is her [[Mastery Over Chaos]], her commanding arm of [[Iridia]] and its [[Shadow Order]]. 
 
-Her heart in the middle is the [[Key of Attunement]] of who she is in the present state, having the ability to look for agency with her right arm while maintaining a tether to her past, legacy, sacrifices, and memory in her left arm. This distinction is the formal birth of The Obsidian Empress of [[Iridia]], and it evolves her [[Reverent]] [[Legend Trait]] to its utmost [[Luminance]] [[Apex Trait]] as she internalizes the practice even in her performance on the violin.
+Her heart in the middle is the [[Key of Attunement]] of who she is in the present state, having the ability to look for agency with her right arm while maintaining a tether to her past, legacy, sacrifices, and memory in her left arm. This distinction is the formal birth of The Obsidian Empress of [[Iridia]], and it evolves her [[Reverent]] [[Legend Trait]] to its utmost [[Luminance]] [[Apex Trait]], [[Consecrator of Terrestrial Skies]] as she internalizes the practice even in her performance on the violin to create the place where the sky meets the earth.
 
 When [[Cordelia]] reaches to her to cure her after meeting with her atop the meadow overlooking the ravine where she was fighting [[Pollux]], [[Amadea]] repeatedly dismiss her attempts to cure her, saying: "No. These scars are mine, and it's the signature of the triumph of the [[Obsidian Feather Society]]. They're what anchors the future to the past."
 
@@ -3477,9 +4989,9 @@ _Act 69 — I-I can't!? There has to be another way, answer me!! This can't be r
 
 The chapter mirrors the structure of the run that [[Cordelia]] did in her [[Cindergale]] [[Motif Awakening]] for [[Amadea]] and the rescue of the estate by [[Amadea]]. When [[Amadea]] rescued [[Cordelia]] at the estate, [[Amadea]] was physically present. When [[Cordelia]] rescued [[Amadea]] from the [[Facewalker]] [[Erosyx]], [[Cordelia]] physically crashed into the ice cage to anchor her. However, this time, [[Amadea]] isn't able to come to the trap [[Lacrimosa]] deliberately set for both in time. 
 
-[[Amadea]] even through all of her desperation and race against time fails. [[Cordelia]] is isolated This time the rescue fails. [[Cordelia]] is isolated, trying to heal anyone through her own bleeding efforts. Without the primary source of [[Resonance Anchors]] present to witness her and share the burden, [[Cordelia]] is left alone with the crushing weight of her exhaustion. [[Lacrimosa]] weaponizes this and it devolves in the final conversation that [[Cordelia]] has with [[Lacrimosa]] before submitting to [[The Hollowing]].
+[[Amadea]] even through all of her desperation and race against time fails. [[Cordelia]] is isolated This time the rescue fails. [[Cordelia]] is isolated, trying to heal anyone through her own bleeding efforts. Without the primary source of [[Resonance Anchors]] present to witness her and share the burden, [[Cordelia]] is left alone with the crushing weight of her exhaustion. [[Lacrimosa]] weaponizes this and it devolves in the final conversation that [[Cordelia]] has with [[Lacrimosa]] before submitting to [[The Hollowing]]. She attacks directly the [[Utopian Visionary]] [[Legend Trait]] she has, she can imagine an utopia for everyone, but she can't imagine one for herself. And a true "utopia" doesn't require anyone sacrificing and is devoid of pain which is why [[Lacrimosa]] is so effective when the world is distant from being an utopia, she offers the one path that would remove everything corrupt.
 
-_"There is a version of you, [[Cordelia]] that thinks sacrificing yourself for others is love but it's not noble. It's self destruction disguised as care. You have spent your entire life saying 'Yes' to fix everyone's problems but never asked for help in return. You call it love but it's really fear, the fear that if you stop being the [[Guardian Angel]], you'll stop being useful, and you'll stop mattering, to [[Iridia]], to [[Amadea]], to the same family that you've never got yourself to see the end of."_
+_"There is a version of you, [[Cordelia]] that thinks sacrificing yourself for others is love but it's not noble. It's self destruction disguised as care. You have spent your entire life saying 'Yes' to fix everyone's problems but never asked for help in return. You call it love but it's really fear, the fear that if you stop being the [[Miracle Guardian Angel]], you'll stop being useful, and you'll stop mattering, to [[Iridia]], to [[Amadea]], to the same family that you've never got yourself to see the end of."_
 
 _"You were hurt so many times that you stopped caring where you got burned next. And you kept smiling because you didn't think anyone could handle the mother of all healers seeing herself fall apart in an attempt deep inside you know is futile."_
 
@@ -3499,7 +5011,7 @@ She offers one of her [[Auroral Ribbons]] as comfort, beginning to curdle around
 
 _"It doesn't have to be that way. No one in the [[Purest of Love]], nor anyone who truly loves you, wants you exhausted. Stop calling self-neglect noble. Destruction is not devotion."
 
-_"Join our family, [[Cordelia]]. Join [[Luminaire]], not the Grand Ivory Princess. Join [[Orphael]], not the Legendary Tide Singer. Join us as the [[Cordelia]] who learned once to be loved, not as a [[Mythical Virtuoso]], but as the cadence that finally found the wandering love. Let us permanently end suffering together. You're not helping anyone by only hurting yourself. You have bleed so much in a crusade for others. And you have bled enough, my dear Panacea."_
+_"Join our family, [[Cordelia]]. Join [[Luminaire]], not the Grand Ivory Princess. Join [[Orphael]], not the Legendary Tide Singer. Join us as the [[Cordelia]] who learned once to be loved, not as a [[Mythical Virtuoso]], but as the cadence that finally found the wandering love. Let us permanently end suffering together. You're not helping anyone by only hurting yourself. You have bleed so much in a crusade for others. And you, my dear Panacea, have bled enough."_
 
 The intervention changes from a rescue into a [[Cordelia]] joining the [[Purest of Love]] because [[Lacrimosa]] perfectly mimics the cure to [[Cordelia]]'s deepest trauma. By isolating her, weaponizing her own liberating catchphrase against her, and framing her exhaustion as a symptom of [[Amadea]]'s crusade, [[Lacrimosa]] makes surrendering to the apocalypse feel like the ultimate, merciful act of self-care.
 
@@ -3515,7 +5027,9 @@ However, when facing the reality-bending horror of [[Lacrimosa]], [[Amadea]]'s a
 
 This contrast between the macrocosmic threat and the microscopic human connection is what makes [[Amadea]] mourn with [[Sephira]] the loss of a fellow [[Mythical Virtuoso]]. [[Amadea]] lost [[Luminaire]] and [[Cordelia]], [[Sephira]] lost [[Orphael]]. 
 
-The relationship of [[Luminaire]], [[Orphael]] and [[Cordelia]] is the final push for [[Amadea]] to realize "To have lost greatly, is to have loved greatly," It compounds the loss of [[Artus]] where every time she lost something as the fuel for transformation is because she allowed herself to love something. This is [[Amadea]]'s final catalyst for evolving all of her [[Legend Trait]]s into [[Apex Trait]]s by having her [[Fatalistic Embracer]] reach its upmost [[Void]] [[Apex Trait]]. 
+The relationship of [[Luminaire]], [[Orphael]] and [[Cordelia]] is the final push for [[Amadea]] to realize "To have lost greatly, is to have loved greatly," It compounds the loss of [[Artus]] where every time she lost something as the fuel for transformation is because she allowed herself to love something. This is [[Amadea]]'s final catalyst for evolving all of her [[Legend Trait]]s into [[Apex Trait]]s by having her [[Fatalistic Embracer]] reach its upmost [[Void]] [[Apex Trait]] of [[Singularity of True Love]].
+
+_"You want to drag Iridia into the light so no one ever has to hurt again? Then you will have to pull every last one of my children out of my shadow first. And my horizon is forged from the crushing weight of everyone I have ever loved. Let us see if your heavens possess enough gravity to move a [[Singularity of True Love]]."_
 
 She realizes that true love is a grueling endurance that has to be kept for the sake of love itself. True love does not provide you with an immunity to heartbreak. It's not a magical shield against grief, but it gives you a profound reason to keep moving forward for everything that is worth protecting. This is the ultimate response of the [[Weight of Value]] and the [[Weight of Purpose]] in the inescapable [[Weight of Nature]] of love itself. To embody [[Essence Sacrifice]] is to let yourself truly love.
  
@@ -3580,7 +5094,11 @@ It concludes on the death of [[Pagiel]], and the first major victory of the resi
 
 [[Weight of Change]] | [[Fragment of Rebirth]]
 
+The Violet Grove was never about escaping the river. It was about planting a tree on its banks.
+
 The end of the novel considering the state of what will come after [[Amadea]] and [[Sephira]], planting the seeds of the [[Age of Legends]] that opposes the light of the [[Age of the False Messiah]]. [[Lenore]] reviews [[Cosmic Motion]] and realizes they have changed [[Act of Fate]], they are in a new era according to the stars based on what [[Amadea]] has accomplished. They are now in [[Ages]] III, and the beginning of the new [[Act of Fate]].
+
+[[Lenore]] becomes the last chronicler of the life of [[Amadea]] before she dies at the end of the next [[Cycle]] after her, she lives 4 [[Lunar Cycle]]s more than [[Amadea]] and dies at 84, the perfect number of [[Cosmic Motion]]. She is the oldest human in the novel of [[Amadea, Sonata of the Violet Empress]] that lived a natural lifespan.
 
 Nothing lasts forever, but the institutions left carry the memory of all the [[Mythical Virtuoso]] in the tree planted on the violet grove, possible only by a stubborn boy who refused his origin to be his end. An ending of a story is only the beginning of another. And the next story covers the end of [[The Hollowing]] and the [[Law of Relics]] based on the infrastructure that [[Amadea]] built to oppose the [[All-Loving Moon]].
 
@@ -5046,132 +6564,3 @@ The seed is in my coat pocket. The city is still east of something I haven't fou
 I pick up the case and walk to sleep.
 
 I need the energy. The next crossing will be through an [[Age of Embers]] waste.
-
-
-Grabó en el tronco del roble con la punta del sable —la hoja que había usado para matar a los Siete Manos, la que él había escogido del arsenal del enclave hace todos esos años, porque era buena para sostener líneas que no debían moverse.
-
-AQUÍ YACE EL MEJOR CABALLERO QUE JAMÁS VIVIÓ.
-
-ARTUS, EL CABALLERO DEL SABLE.
-
-Sin título. Sin tierras. Sin reconocimiento de casa ni corte alguna. Solo el nombre que él había escogido para sí, y la verdad que ella pasaría el resto de su vida demostrando.
-
-Se sentó contra el roble mientras el sol se levantaba. El fragmento de Vidrio Celeste estaba en su bolsillo, cálido contra su cadera. Lo sacó y lo sostuvo en la palma y escuchó la resonancia en él.
-
-La canción aún estaba allí. Su línea de violonchelo. Su melodía de violín. El silencio entre ellos que siempre había sido la parte más honesta de la pieza.
-
-La tocó en su memoria, porque el violín se había quedado en la torre de vigía y no podía traerse a sí misma a dejarlo el tiempo suficiente para recuperarlo. La tocó en su memoria, y el cristal respondió. La canción se filtró del fragmento —tenue, fracturada, pero real. Él seguía allí. Sin respirar. Sin hablar. Sin sonreírle con esa certeza imposible. Pero presente: la línea grave del violonchelo, firme y cálida, anclándola como él siempre la había anclado.
-
-La brecha entre saber que se había ido y sentir que ella seguía siendo real —ese era el Vacío abriéndose. La sombra de lo que había perdido. El espacio que dejaba tras de sí.
-
-Y en ese espacio, algo cristalizó.
-
-Su sueño aún existía. Ella seguía siendo su guardiana. Y ahora la semilla estaba con ella.
-
-La canción en el cristal era una prueba, y entre lágrimas le dio al dolor una dirección, como siempre había hecho, convirtiéndolo en una promesa:
-
-—Desearía tener el poder de transformar toda esta pérdida agonizante en algo que, algún día, hiciera real el título de mi mejor caballero.
-
-Donde sus últimas lágrimas cayeron sobre la hoja del sable clavada a medio camino en la tierra, su Motivo del Alma cristalizó como Vacío —púrpura profundo, atravesado por vetas negras como relámpagos congelados en vidrio, del mismo tono violeta del árbol que habían soñado, oscurecido por la sombra de su ausencia.
-
-No durmió esa noche. Se sentó contra el roble con el fragmento de Vidrio Celeste en las manos y escuchó la canción hasta que el sol se levantó y el cielo tomó el color de viejos moretones y el mundo siguió girando sin pedirle permiso.
-
-Recuperó la Caja de Resonancia del lugar donde la habían dejado caer al borde del patio. Estaba intacta. No la tocó. No pudo. Se la ató a la pierna y la llevó consigo hasta el roble.
-
-Antes de dejar el claro, se arrodilló ante la tumba una última vez.
-
-—Lo plantaré —dijo—. En el centro. Lo prometo.
-
-Llevó el marco vacío de cobre de la diadema en la muñeca desde ese día en adelante, justo debajo de su Motivo del Alma.
-
-El fragmento de Vidrio Celeste estaba en su bolsillo, cálido contra su cadera. La diadema en sí —completa, doblada y vacía— descansaba sobre la hoja del sable, bajo el roble.
-
-Y la semilla, la pequeña semilla oscura que había cruzado un continente en el bolsillo de un muchacho, colgaba junto al alambre de cobre, esperando la tierra que le habían prometido, descansando como si reflejara el pulso de la gema de Vacío que parpadeaba al ritmo de su propio latido.
-
-Siempre que el mundo amenazaba con ahogarla, tocaba el Vidrio Celeste en su cadera, y lo oía a través de su violonchelo: _Eres una princesa. Algún día serás una emperatriz._
-
-Nunca había creído del todo la parte de princesa.
-
-Pero sí había creído en que él lo creyera.
-
-Lo último que le dio fue peso,
-
-pero no era peso puramente frío,
-
-también era calidez,
-
-y esa calidez lo era todo, porque es amor.
-
-Peso de su mano envuelto en calidez.
-
-Y eso estuvo lo suficientemente cerca.
-
-Porque los cantantes recuerdan.
-
----
-
-### Borrador de Partitura 3: La violeta en el Vals del Amor Errante
-
-#### Acto 13
-
-—Eso estuvo lo suficientemente cerca —repito mientras cierro los ojos—.
-
-—Porque los cantantes recuerdan.
-
-Una lágrima baja por mi mejilla.
-
-—Cuando los vivos no pueden.
-
-El escenario está en silencio.
-
-Me duele la garganta. Siempre olvido esa parte cuando imagino contarlo.
-
-—Le pedí Flores del Destino a la Aria Áurica. Ella me dio lluvia.
-
-Me lo digo a mí misma una última vez.
-
-No sé cuánto tiempo llevo de pie aquí. La fuente detrás de mí sigue corriendo —el sello se rompió en algún momento del segundo acto y a nadie se le ocurrió detenerla.
-
-La historia de Artus y la muchacha de la caravana tuvo un pequeño e indiferente sonido de agua debajo, lo cual quizá sea más honesto que el silencio. El anfiteatro huele a humo de antorchas y al calor particular de un público que ha permanecido quieto durante mucho tiempo.
-
-Así es como la cuento. Las partes que no pude saber —qué vio él, qué eligió creer en el último segundo, por qué se congeló en la pelea— las imaginé fielmente. Las Baladas tienen permitido eso. Solo tienen prohibido mentir sobre el peso.
-
-Y soy verídica, porque todo lo demás ciertamente sucedió.
-
-Todavía estoy aquí, y ahora está el Vacío del silencio frente a mí.
-
-Entonces alguien en la galería izquierda lo rompe.
-
-El sonido crece de la manera que siempre me sorprende —no de golpe, sino en una ola, una persona decidiendo y luego dos, y luego la parte de cualquier multitud que estaba esperando permiso. Cuando alcanza su punto máximo, el anfiteatro es ruidoso de un modo para el que los muros del granero no fueron diseñados. Alguien en la grada superior está golpeando el suelo con los pies. Una mujer cerca del frente se lleva ambas manos a la boca como hace la gente cuando no sabe qué más hacer con lo que siente.
-
-Y en algún punto intermedio, comienza el cántico.
-
-Empieza como un puñado de voces, rítmicas, insistentes —la cadencia particular de una multitud que ha encontrado un nombre y quiere usarlo:
-
-¡Violeta! — ¡Violeta! — ¡Violeta! —
-
-Abro los ojos.
-
-Lo he oído antes. Tres ciudades, dos estaciones, y el circuito itinerante que me ha llevado a través de varios Enclaves para conseguir pasaje hacia las llanuras del norte pagando en marcas. El nombre llegó como siempre llegan los nombres artísticos —no de mí, sino de un público que necesitaba algo para llamar a lo que había sentido, y me lo devolvió como un regalo que nunca pedí y no pude rechazar.
-
-Violeta. La Actriz Estelar.
-
-Bajo el arco del violín.
-
-No hago reverencia de inmediato. Nunca la hago de inmediato. Hay una respiración que tomo —una, contada, como Maret me enseñó a contar marcas: sin pánico, como una herramienta— y en esa respiración no soy la Actriz Violeta de nadie. Soy una mujer de pie en un escenario prestado, en un granero reutilizado por la ambición, con la garganta irritada y una bolsa que está a punto de estar más ligera de lo que me gustaría, con un fragmento de Cristal del Cielo cálido contra mi cadera.
-
-Entonces hago una reverencia.
-
-El cántico no se detiene. Si acaso se afila —_¡Violeta!, ¡Violeta!_— y un joven cerca del pasillo se ha puesto de pie y me mira como la gente mira algo que está tratando de memorizar, como si pudieran arrebatármelo antes de que terminen.
-
-No sabe mi nombre.
-
-Ninguno de ellos lo sabe.
-
-Conocen a la muchacha de la Balada. Conocen a la que se sentó en la boca de la cueva con los incendios en el valle. Conocen a Artus, la semilla, la diadema de cobre y el Cristal del Cielo, y han llorado por el muchacho bajo el roble porque la historia no deja otra opción honesta —me he asegurado de eso, noche tras noche, Enclave tras Enclave, aprendiendo exactamente qué palabras cargan más peso y dónde colocar el silencio.
-
-Pero no saben que la muchacha por la que lloraron es la mujer que sostiene el violín.
-
-No saben que la diadema en mi muñeca no es una pieza de vestuario.
-
-No saben que mi nombre es Amadea.

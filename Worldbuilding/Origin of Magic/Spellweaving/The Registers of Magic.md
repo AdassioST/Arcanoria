@@ -244,7 +244,7 @@ Anything modifying [[Void]] and its repulsion, warping, and attraction propertie
 		- Malediction Arts (Study and Dispelling of [[Dissonance Curse]]s)
 		
 	- [[Prophetical Arts]] (Similar to [[Luminance]] Divination Arts)
-		- Entropic Scrying Arts (Experiencing What Didn't Happen)
+		- [[Entropic Scrying Arts]] (Experiencing What Didn't Happen)
 		
 #### Tessitura of [[Cindergale]] [[Magic Arts]]
 

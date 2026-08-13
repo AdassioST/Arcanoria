@@ -126,7 +126,7 @@ Feeds on: Transgression, loss of agency, the shame that follows unwanted acts.
 
 **Behavior:** Methodical in pursuit; drives compulsive action not out of malice, but because it cannot stop its own momentum — its “will” is an uncontrolled harmonic recoil. Then feeds on guilt and shame. In sleep, the [[Atonalis]] enacts further transgressions through nightmare violence and terror episodes. May pursue a same victim for years. There is no escape into rest.
 
-[[Original Eight]] [[Primal Discordia]]: The Imperium Obsessus.
+[[Original Eight]] [[Primal Discordia]]: [[The Imperium Obsessus]], the Dragon that Devoured the Sun.
 
 **Path VIII: [[Erosyx]] - The Intimacy Denied (5.2%)**
 
@@ -144,3 +144,15 @@ Feeds on: Identity denial, sexual dysfunction, intimacy twisted by fear and sham
 **Behavior:** Infiltrates human society; performs as a collapse of self through relational distortion in false identity until the revelation moment. Operates through seduction and intimacy rather than force, through affection and longing, creating bonds of love and desire in a fatal trap.
 
 [[Original Eight]] [[Primal Discordia]]: [[The Amber Wonderland]], the Devouring Paradise.
+
+### Differences and Similarities
+
+_"The most important part of diagnosing the [[Atonalis]] of the [[Eight-Born Paths]] you're fighting is to be willing to look not just at what they are doing but why they are doing it. Finding the feeding mechanism of what broke them into [[Dissonance]] is how you cut one down" — [[Lenore]], the Head Astrologer of [[Iridia]]._
+
+
+
+There are several similarities between [[Atonalis]] types, especially on hybrid variants but they're always distinguishable by the origin of the wound and the type of parasitic [[Resonance]] that they use to feed their [[Dissonance Core]]:
+
+1. [[Violux]] and [[Erosyx]] are similar when they are in the realm of sexuality. Both can come from the exact event, though they are very different in intent. It can be summarized as, in sexual transgressions: [[Violux]] is born from the perpetrator, who enacted the sexual violence. [[Erosyx]] is born from the victim, the one who received the sexual violence. This is why in any sexual adjacent encounter it's important to distinguish if the demon is prioritizing its own pleasure/sadism/feeling for themselves, it's a [[Violux]]. If the [[Erosyx]] is prioritizing the pleasure of the victim and making them feel good, it's a [[Violux]] (It's giving the care it desired it had received). This is why it's also easier to hate and handle a [[Violux]] as it gives a clear perpetrator while an [[Erosyx]] tends to be much harder to confront because it is taking care of the victim. An [[Erosyx]] can't be dealt alone, a [[Violux]] can.
+
+2. [[Starved Hound]]s search for meat, that is simple, they were denied any nourishment and now want to eat anything to not starve but an hybrid variant or anything that's not nascent is harder. Another [[Carnalix]] could be born from the pain of a lost limb, it doesn't care about flesh, it cares only about the leg it lost and inflicting that pain by longing someone else's. A [[Signath]] is born from losing your mind, an [[Obsessian]] is born from putting everything of your mind in a single, intrusive thought. Similar at the surface but couldn't be any more different.

@@ -26,7 +26,7 @@ A serial killer who believes he's beautifying victims through polyrhythmic vivis
 
 He is one of the most feared figures of all of the Medieval [[Ages]], and has the ability of using Polyrhythms by combining several techniques of precision cutting through [[Cindergale]] / [[Luminance]] jets focused through his signature Stainless Scalpel. It's a very twisted figure that tends to use whistling to attract his victims and has a charming personality to make sure no one ever makes it out alive.
 
-Aside from generating a lot of [[Ballad]]s and [[Legend]]s that give him the nickname of the Killer of the Great Expanse, his abilities and works on spellcraft become a very prized treasure by [[Cadmus Tacet]] who on his search of finding means to extract the [[Coherence Binding Tissue]] of [[Pure Light]] beings comes to name with the [[Legend]] after he has passed away but finds his "treasure trove of beauty sculptures." He develops the idea of _"There's even something to learn from monsters"_ as both appraisal and disgust of what [[Syvanth]] was doing. [[Lacrimosa]]
+Aside from generating a lot of [[Ballad]]s and [[Legend]]s that give him the nickname of the Killer of the Great Expanse, his abilities and works on spellcraft become a very prized treasure by [[Cadmus Tacet]] who on his search of finding means to extract the [[Coherence-Binding Tissue]] of [[Pure Light]] beings comes to name with the [[Legend]] after he has passed away but finds his "treasure trove of beauty sculptures." He develops the idea of _"There's even something to learn from monsters"_ as both appraisal and disgust of what [[Syvanth]] was doing. [[Lacrimosa]]
 
 ### Character Details
 

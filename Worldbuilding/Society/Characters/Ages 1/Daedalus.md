@@ -47,7 +47,7 @@ _"I've come to realize through impossible hardship that no one is separate from 
 
 _"A slave to meaning holds a whip just so he can acts like he owns a slave bought by meaning. The truth is we all are slaves to something, and who "isn't" is crushed by the [[Weight of Purpose]] and by those who have enslaved themselves to one to make history. Truly a tragedy where only the one free of nothing is the one most indebted."_
 
-
+_"No one is more irrevocably enslaved than those who falsely believe themselves to be free."_
 
 
 
