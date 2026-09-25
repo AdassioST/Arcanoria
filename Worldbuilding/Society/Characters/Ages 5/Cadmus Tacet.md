@@ -24,6 +24,9 @@
 
 - _"If the world won't accept progress willingly, I must make [[Humanity]] carve out its own survival. The [[Auric Aria]] left us with a divine mandate for [[Humanity]] to subdue anything for control. We can only believe in us and solely in the essence of our very own creator in this predatory world. Never again will my people be victims."_
 
+
+_"The elevation of "cosmic fatalism" and the worship of the Infinite Void are simply ideological excuses for those too weak to assert their own will and master their own destiny."_
+
 [[Cadmus Tacet]] is born as an [[Underdog]] and is one of the most important figures of [[Arcanoria]]. He is the very first person to coin the term [[Age of Humanity]] properly during [[Ages]] V and proposes that [[Humanity]] must forge its own future through the ruthless pursuit of progress. He is very devout to the [[Auric Aria]] and believes that truth and safety can only come from the scalpel of human reason and its creator.
 
 The core philosophy of [[Cadmus Tacet]] cements during his childhood after being witness to the tyrannical oppression of draconic [[Pure Light]] beings who subjugated and enslaved the human populace on the region he was born. Treating human sacrifice as tribute and livestock.

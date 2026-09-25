@@ -1,3 +1,5 @@
+_"History is an evolving musical score."_
+
 Backbone for all of the [[Ages]] in [[Arcanoria]] from a high level standpoint. Each goes through several groups from Age 0 to 14, it represents the stage of societal, magical, scientifical, and technological development and it carries along some history until the next reset from a [[Cataclysmic Aftermath]].
 
 Furthermore, [[Ages]] are defined by [[Act of Fate]]s which are one third of the [[Ages]] duration, separating the Early, Middle, and Late version of these [[Ages]], moreover, every 3 [[Ages]] the third will always have 4 [[Act of Fate]]s signaling the "long [[Ages]]." They are intrinsically tied to [[Cosmic Motion]]. Usually the division of an [[Act of Fate]] is a minor version of a [[World Event]] or minor [[Age Crisis]] which can be natural disasters, political conflicts, and other related major significant paradigm shifts for the age.
@@ -15,10 +17,21 @@ The final age type that history will remember is classified based on the divisio
 - 50% based on which [[Act of Fate]] generated the most [[Era Score]].
 - 50% based on which [[Act of Fate]] generated the most [[Lyrical Fragment]]s.
 
+All of the [[Ages]] are representing one of the seven bindings of the [[Auric Heptacode]] or one of the [[Seven Weights]]. Some of these deal with inversions, such as [[Emotional Authenticity]] being represented by the [[Ages]] of [[Lacrimosa]] given that the hollowing precisely aims at removing all suffering by removing the self that feels. Some others such as [[Sufficient Precision]] deal with encoding [[The Principles of Magic]] precisely in law as to understand reality. Past the [[Auric Heptacode]], all [[Ages]] deal with their primary weight. 
+
+For example the [[Weight of Flaw]] being in industrialization such as the [[Age of Sealing Iron]] or [[Age of Velvet Elegance]] both being flawed versions of an utopia, or the [[Weight of Value]] having global conflicts, [[Demi-Human]] segregation over world wars as a direct result of commanding who is more valuable than who. Some others like the [[Weight of Nature]] are fought by surpassing the home planet and establishing the first bio seeding of magic in other planets, and even surpassing into hyperspace in the cinematic event of the first [[Void]] anchor. The final [[Age of The End]] explicitly commands the [[Weight of Change]] because everything eventually ends, including the interaction of the [[Third Actor]] with the universe of [[Arcanoria]] to guarantee a future they will never see, and places all the entire [[Seven Weights]] on the Choice of the End
+
+The entire thesis of [[Arcanoria]], both magical, [[Auric Heptacode]], and philosophical [[Seven Weights]], are explained across [[Civilization]] in the entire history from the ground of ashes to the Sci-Fi levels of the duration of [[Gateway To Genesis]].
+
+The only odd one out are [[Ages]] 0. which represent the [[Weight of Change]]. This is to mask that the 14 [[Ages]] of [[Arcanoria]] in first read appear 0-13 as 14, but in truth they are covering the secret [[Age of The End]] which is the real Age XIV also representing the [[Weight of Change]]. The game begins with change, and ends in change. Thus, [[Ages]] 0 are consequential and transitional set of [[Ages]] of the moment the collapse of [[Civilization]] broke under its own weight, and its in the next age that they can rebuild again their basic sense of self through the [[Key of Attunement]] of [[Ages]] I in a blank slate after [[Civilization]] was wiped off history.
+
 ## The 14 [[Ages]] of [[Arcanoria]]
 
 ### Tier 1: [[Ages]] of Foundations & Early Magic
-#### Age 0 ([[Ages]] of [[Cataclysmic Aftermath]] | Stone Age)
+
+**All Life is Friction.**
+
+#### Age 0 ([[Ages]] of [[Cataclysmic Aftermath]] | Stone Age) | [[Weight of Change]]
 
 3 [[Act of Fate]].
 
@@ -32,7 +45,7 @@ The [[Age Crisis]] teaches that there are [[Civilization]] changing events at th
 
 _[[Age Crisis]] exist._
 
-#### Age I ([[Ages]] of Ecological Rebirth | Bronze to Iron Age)
+#### Age I ([[Ages]] of Ecological Rebirth | Bronze to Iron Age) | [[Key of Attunement]]
 
 3 [[Act of Fate]].
 
@@ -47,7 +60,7 @@ The [[Age Crisis]] teaches that [[Civilization]] can fail and the resolution of 
 
 _You can fail an [[Age Crisis]]._
 
-#### Age II ([[Ages]] of the Rise of Magic | Early Classical Antiquity)
+#### Age II ([[Ages]] of the Rise of Magic | Early Classical Antiquity) | [[Sufficient Precision]]
 
 4 [[Act of Fate]].
 
@@ -68,7 +81,7 @@ The [[Age Crisis]] teaches that [[Civilization]] can trigger different types of 
 
 _There is more than one possible [[Age Crisis]] depending on your actions._
 
-#### Age III ([[Ages]] of [[Lacrimosa]] | Late Classical Antiquity)
+#### Age III ([[Ages]] of [[Lacrimosa]] | Late Classical Antiquity) | [[Emotional Authenticity]]
 
 3 [[Act of Fate]].
 
@@ -94,7 +107,10 @@ The [[Age Crisis]] teaches that [[Civilization]] can participate as a [[Major Ac
 _There are [[Minor Actor]] and [[Major Actor]] roles for [[Age Crisis]] and stories._
 
 ### Tier 2: [[Ages]] of The Medieval Period
-#### Age IV ([[Ages]] of the Early Medieval)
+
+**All Law requires Memory.**
+
+#### Age IV ([[Ages]] of the Early Medieval) | [[Essence Sacrifice]]
 
 3 [[Act of Fate]].
 
@@ -112,7 +128,7 @@ Starting point of Advanced Magic.
 [[Ages]]:
 - [[Age of Bells]] | [[Aureus Pillar]] + [[Waltz Pillar]] ([[Golden Age]]) | Light Fantasy
 - [[Age of Archways]] | Not Aligned in [[Pillars]] ([[Classical Age]]) | Adventure Fantasy (Frieren & Isekai)
-- [[Age of Wayfarers]] | Not Aligned in [[Pillars]] ([[Classical Age]]) | Mythic Fantasy (Xianxia)
+- [[Age of Wayfarers]] | Not Aligned in [[Pillars]] ([[Classical Age]]) | Mythic Fantasy (Xianxia) Ninja Scroll (1993)
 - [[Age of Candles]] | [[Aureus Pillar]] ([[Dark Age]]) | Dark Fantasy
 
 _There is more than a single [[World Event]] for an [[Age Crisis]].
@@ -131,9 +147,9 @@ The [[Legend]] of the Killer of the Great Expanse ([[Syvanth]]) begins and becom
 
 The [[Obsessian]] [[Looping Paradox]] [[Primal Discordia]] appears at the time as a massive dungeon meshi style backroom, it is one of the possible manifestations of other [[Original Eight]] that isn't the [[Morpheus Abysmal]]. The dungeon has [[Cursed Objects]] and sometimes [[World-Bending Relics]] because of the relationships that form inside it as more adventurers go in and perish, the misremembering of the relationships inside it become tangible objects with all the [[Emotional Residue]] of everyone who previously stayed inside. This is why there's powerful loot in the [[Obsessian]] [[Original Eight]] dungeon. Misremembered dream stuff.
 
-**[[Original Eight]] Empowered: [[Morpheus Abysmal]]. [[Animach]]**
+**[[Original Eight]] Empowered: [[The Eight-Tongued King]]. [[Animach]]**
 
-#### Age V ([[Ages]] of the Middle Medieval)
+#### Age V ([[Ages]] of the Middle Medieval) | [[Perfect Focus]]
 
 4 [[Act of Fate]].
 
@@ -164,9 +180,9 @@ Development of surgery on [[Pure Light]] beings by [[Cadmus Tacet]], he's cruel 
 
 Tragically, this war for the Holy Grail is not a path to victory; it is a cosmic reset button, and the factions are fighting to the death just to pull the plug on their own existence. While they are unable to get to [[The Ultimate Weapon]], the winner will be awarded one of the [[World-Bending Relics]], and the fixation with [[The Ultimate Weapon]] becomes the end point of the next [[Ages]] that devolve into the [[Polychord Crisis]] after a final crusade begins and ends with the firing of [[Primal White Noise]].
 
-**[[Original Eight]] Empowered: The Imperium Obsessus. [[Violux]]**
+**[[Original Eight]] Empowered: [[The Imperium Obsessus]]. [[Violux]]**
 
-#### Age VI ([[Ages]] of the High Medieval)
+#### Age VI ([[Ages]] of the High Medieval) | [[Absolute Certainty]]
 
 3 [[Act of Fate]].
 
@@ -180,7 +196,7 @@ Starting point of Mastery of Magic.
 
 [[Ages]]:
 - [[Age of Polyphony]] ([[Golden Age]]) | [[Waltz Pillar]] | Light Fantasy
-- [[Age of Torn Banners]] ([[Classical Age]]) | [[Regalia Pillar]] | Mythic Fantasy (Sengoku)
+- [[Age of Torn Banners]] ([[Classical Age]]) | [[Regalia Pillar]] | Mythic Fantasy (Sengoku) Ninja Scroll (1993)
 - [[Age of High Courts]] ([[Classical Age]]) | [[Regalia Pillar]] + [[Aureus Pillar]] | High Fantasy
 - [[Age of Vessels]] ([[Dark Age]]) | [[Chorus Pillar]] | Horror Fantasy
 - [[Age of Golden Roses]] ([[Dark Age]]) | [[Waltz Pillar]] | Dark Fantasy
@@ -196,7 +212,10 @@ The [[Polychord Crisis]] is going to be the AC, BC of the game. After [[Polychor
 **🌀 First [[Cataclysmic Aftermath]] with the [[Hyper Chord]] [[Polychord Crisis]] of [[The Ultimate Weapon]]. Leads back to the [[Age of Desolation]].**
 
 ### Tier 3: [[Ages]] of Empires & Industrialization
-#### Age VII ([[Ages]] of Renaissance & Discovery)
+
+**Control creates Monsters**
+
+#### Age VII ([[Ages]] of Renaissance & Discovery) | [[Echoing Bonds]]
 
 3 [[Act of Fate]].
 
@@ -210,7 +229,7 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 
 **[[Original Eight]] Empowered: [[The Amber Wonderland]]. [[Erosyx]]**
 
-#### Age VIII ([[Ages]] of Reformation & Revolution)
+#### Age VIII ([[Ages]] of Reformation & Revolution) | [[Weight of Purpose]]
 
 4 [[Act of Fate]].
 
@@ -221,7 +240,7 @@ Transition towards colonialism, mercantilism, and discovery of the world.
 
 **[[Original Eight]] Empowered: [[Eirenesis Anakriach]]. [[Anxithor]]**
 
-#### Age IX ([[Ages]] of Industrialization)
+#### Age IX ([[Ages]] of Industrialization) | [[Weight of Flaw]]
 
 3 [[Act of Fate]].
 
@@ -233,20 +252,27 @@ Second "Age of [[Humanity]]."
 
 **[[Original Eight]] Empowered: The Discord Weaver. [[Discant]]**
 
-#### Age X ([[Ages]] of Machines)
+#### Age X ([[Ages]] of Machines) | [[Weight of Indulgence]]
 
 3 [[Act of Fate]].
 
 - [[Age of Clockwork]] ([[Golden Age]]) | [[Waltz Pillar]] | Steampunk
-- [[Age of Divine Machinery]] ([[Dark Age]])| [[Chorus Pillar]] | Machine Cult Horror Fantasy
-- [[Age of Chimeras]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Waltz Pillar]] | Horror Fantasy
+- [[Age of Divine Machinery]] ([[Dark Age]])| [[Aureus Pillar]] | Machine Cult Horror Fantasy
+- [[Age of Chimeras]] ([[Dark Age]]) | [[Chorus Pillar]] | Horror Fantasy
 
-**[[Original Eight]] Empowered: The Corpus Mortuum. [[Carnalix]]**
+[[Age of Divine Machinery]]: _"Our innate need to impose order upon chaos has driven us to embody order itself. Monolithic expressions of technology elevated to something almost sacred. An alchemy of machine, structure, and belief."_
+
+**[[Original Eight]] Empowered: [[Lyd, The First Beloved]]. [[Carnalix]]**
 
 ### Tier 4: [[Ages]] of Unification
-#### Age XI ([[Ages]] of Global Conflicts & World Wars)
+
+**Metrics cannot measure the Soul**
+
+#### Age XI ([[Ages]] of Global Conflicts & World Wars) | [[Weight of Value]]
 
 4 [[Act of Fate]].
+
+Age of Planetary Unification
 
 Third "Age of [[Humanity]]." that considers the span of the Atomic Era to the Information Era.
 
@@ -258,9 +284,11 @@ Third "Age of [[Humanity]]." that considers the span of the Atomic Era to the In
 
 **🌀 Second [[Cataclysmic Aftermath]] with [[Wolf Bomb]] MAD Annihilation. Leads to the [[Age of the Wolf Tone Winter]].**
  
-#### Age XII ([[Ages]] of the Near Future)
+#### Age XII ([[Ages]] of the Near Future) | [[Weight of Nature]]
 
 3 [[Act of Fate]].
+
+Age of Civilization Type 1 by making orbital rings and point zero architecture.
 
 - [[Age of Arcology]] ([[Golden Age]]) | [[Waltz Pillar]] + [[Chorus Pillar]] | Urban Fantasy
 - [[Age of Holography]] ([[Classical Age]]) | [[Aureus Pillar]] | Space Fantasy
@@ -269,9 +297,14 @@ Third "Age of [[Humanity]]." that considers the span of the Atomic Era to the In
 [[Ages]] XII is about colonizing the planet system and becoming Tier 1 [[Civilization]] by harnessing the power of the planet, [[Arcanoria]], and spreading the [[Great Harmonic Loom]] to the nearby planets in the same solar system.
 
 Terraforming magically and ecologically planets environments, turning sterile planets into [[Arcanoria]] like with the help of seeding the [[Great Harmonic Loom]].
-#### Age XIII ([[Ages]] of the Sci-Fi Era)
+
+The end of this group of [[Ages]] features the cinematic of breaching the hyperspace for the first time with a [[Void]] anchor between [[Ages]] XII to [[Ages]] XIII as a cutscene where the ship moves so fast it leaves a tail behind in the shifting colors, the cabin looks like a circle, the tail mirrors a sperm trying to find the womb. This is a cosmic metaphor for the fractal and how hyperspace now fertilizes new planets for terraformation through bio seeding the [[Great Harmonic Loom]] to the stars for [[Spellweaving]] in more planets and increase their individual [[Coherence]]. Likewise, it is a struggle against the [[Weight of Nature]] to go beyond human limits while remaining a sperm in the vastness of the cosmos.
+
+#### Age XIII ([[Ages]] of the Sci-Fi Era) | [[Weight of Potential]]
 
 3 [[Act of Fate]].
+
+Age of Civilization becoming from Type 1 to Type 2 through bio seeding magic by breaching the hyperspace until the wall of the [[Celestial Vault]] and the Firmament.
 
 - [[Age of the Hypermage]] ([[Dark Age]]) | [[Waltz Pillar]] + [[Aureus Pillar]] | Horror / Space Fantasy
 - [[Age of False Moons]] ([[Dark Age]]) | [[Aureus Pillar]] + [[Regalia Pillar]] | Dystopian Fantasy
@@ -281,11 +314,16 @@ Terraforming magically and ecologically planets environments, turning sterile pl
 
 **🌀 Third [[Cataclysmic Aftermath]] with True [[Primal White Noise]]**
 
-#### Age XIV (The Age of Terminus)
+#### Age XIV (The Age of Terminus) | [[Weight of Change]]
+
+**Real Love is Selfless**
+
+Fighting [[Alien Star]]s and other horrors beyond the firmament and the [[Stellar Veil]] while making a permanent fix with the [[Law of Relics]] and [[A True Sine Wave]] to make a future possible without [[Cosmic Motion]] ([[Third Actor]]) Type 2 to Type 3.
 
 4 [[Act of Fate]].
 
 - [[Age of The End]] (Genesis Age) | Not Aligned with [[Pillars]] | Metaphysical Fantasy
+
 
 
 ## Additional Mechanics of [[Ages]]

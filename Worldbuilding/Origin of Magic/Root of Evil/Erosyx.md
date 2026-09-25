@@ -3,7 +3,7 @@ _"Love that consumes is not Love; it is Hunger."_
 
 The Eight of the [[Eight-Born Paths]].
 
-The motto to combat them is: Reveal, Severe, Remember and the primarily rule to deal with any [[Erosyx]] related [[Atonalis]] is _DO NOT FACE THEM ALONE._ Isolation is the most potent weapon they will wield if you ever allow them to.
+The motto to combat them is: Reveal, Severe, Remember and the primarily rule to deal with any [[Erosyx]] related [[Atonalis]] is _DO NOT FACE THEM ALONE._ Isolation is the most potent weapon they will wield if you ever allow them to. [[Law of Relics]]
 
 ### A few of the many Erosyx Variants
 

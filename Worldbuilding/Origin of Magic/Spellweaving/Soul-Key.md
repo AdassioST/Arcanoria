@@ -1,4 +1,4 @@
-The state of the soul reflected in the [[Soul Leitmotif]]. Commands genuine intention bound to memory. It is the gift of [[Selenea]]'s [[Pure Light]] made manifest at the end of the [[Fifth Cycle]] and onwards.
+The state of the soul reflected in the [[Soul Leitmotif]]. Commands genuine intention bound to memory, agency, life, and will. It is the gift of [[Selenea]]'s [[Pure Light]] made manifest at the end of the [[Fifth Cycle]] and onwards.
 
 The actual art of the [[Soul-Key]] is that is the literal key which a [[Spellweaver]] uses to dictate the "home base" of their composition by requiring a tonic pitch, the root and melody of whichever element the [[Spellweaver]] is casting on a chord, and the mode which is the state of the [[Fundamental Frequency]], its intervals, and its intention.
 

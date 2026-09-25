@@ -1,6 +1,6 @@
 #technology #chaos #society
 
-[[Vow Mark]]s are the primary currency of subjugation, established in the upper echelons of any high [[Regalia Pillar]] [[Civilization]] as early as [[Ages]] II.
+[[Vow Mark]]s are a type of [[Dissonance Curse]] and the primary currency of subjugation, established in the upper echelons of any high [[Regalia Pillar]] [[Civilization]] as early as [[Ages]] II.
 
 In the high estates of a [[Regalia Pillar]] society, traditional coin is often viewed as a crude measure of wealth. True power is measured in [[Vow Marks]]. these are not currency in the traditional sense, they are the direct order over a will by perverting the nature of [[Sympathetic Magic]] and of the [[Eleos Bloom]]s meant to keep promises. 
 
@@ -14,11 +14,11 @@ The Ritual and Mechanics of the Mark A Vow Mark is a dark application of Sympat
 
 During eras like the Age of Velvet Elegance, where the friction of the soul and suffering are aestheticized commodities, "trading marks" does not mean exchanging currency. When the courts discuss the trade of marks, they are explicitly negotiating labor, manpower, and the transfer of slave exploitation. 
 
-- The Paste: The sigils require a highly volatile alchemical medium. They are drawn using a paste crafted from frozen Vow Orchids and emberwhisper, and infused finally with the blood of the master.
+- The Paste: The sigils require a highly volatile alchemical medium. They are drawn using a paste crafted from frozen Vow Orchids and emberwhisper, and infused finally with the blood of the master. It is similar to the one used to draw [[Music Glyph]]s but enhanced by the [[Vow Orchids]].
 
 - The Carving: The sigil is not merely painted; usually another sharp tool, commonly made from [[Emberwhisper]] as well, is used to carve the contract directly into the flesh, searing the master's will and blood into the victim's physical and magical architecture.
 
-- The Vocalization of the Vow: Making a [[Vow Mark]] does require the participation of the victim in the ritual. They have to explicitly state that they will honor the [[Vow Mark]] for the orchids to respond, usually they tend to be general agreements that allow room for interpretation, such as: _"I vow to fulfill a favor for this mark, I will follow down to the precise line and intent the will of (Master's name) and accept the exchange of a favor until it is fulfilled or we are severed by death."_ This also makes so that a single [[Vow Mark]] only can be used for one favor, and the favors can't be loopingly infinite, they require to be a specific command and action.
+- The Vocalization of the Vow: Making a [[Vow Mark]] does require the participation of the victim in the ritual. They have to explicitly state that they will honor the [[Vow Mark]] for the orchids to respond, the [[Resonance]] to bind to [[Emberwhisper]], and usually they tend to be general agreements that allow room for interpretation, such as: _"I vow to fulfill a favor for this mark, I will follow down to the precise line and intent the will of (Master's name) and accept the exchange of a favor until it is fulfilled or we are severed by death."_ This also makes so that a single [[Vow Mark]] only can be used for one favor, and the favors can't be loopingly infinite, they require to be a specific command and action.
 
 - Magical Affinity: Because the marks rely on Sympathetic Magic, their binding power is entirely proportional to the victim's magical attunement. The stronger the victim's affinity for magic, the deeper and more inescapable the mark's control becomes. And rarely is it vocalized from consent, despite giving "consent" it's usually coercion that forces someone to accept a [[Vow Mark]].
 

@@ -1,6 +1,6 @@
 #technology #spellweaving
 
-Description: *The primal flow of [[Resonance]], the living star stream and current that carries both magic and memory — and, in death, the very essence of [[Consciousness]] — into the threads deep within [[The Eternal Symphony]].*
+_The primal flow of [[Resonance]], the living star stream and current that carries both magic and memory — and, in death, the very essence of [[Consciousness]] — into the threads deep within [[The Eternal Symphony]]._
 
 Where [[The Eternal Symphony]] is the grand fabric, [[The First Overtone]] is its living pulse, a resonant cosmic flow that channels, magic, memory, and power through the cosmos. It is the original vibration that awakens sound into motion, carrying the will of [[The Eternal Symphony]] into every note and every heartbeat. It is the singular cosmic object of highest [[Vibrational Density]].
 

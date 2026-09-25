@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sonata of the Violet Empress/Amadea.md",
+                "file": "Worldbuilding/Game Systems/My Statement on AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amadea"
+              "title": "My Statement on AI"
             }
           }
         ]
@@ -59,7 +59,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -82,15 +82,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.7725067138672
   },
   "right": {
     "id": "c527bee07c2268a4",
@@ -107,9 +107,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sonata of the Violet Empress/Amadea.md",
+                "file": "Worldbuilding/Game Systems/My Statement on AI.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sonata of the Violet Empress/Amadea.md",
+                "file": "Worldbuilding/Game Systems/My Statement on AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,73 +175,74 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.20001220703125
+    "width": 202.7999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-stille:Toggle Stille": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "iconic:Open rulebook": false
+      "iconic:Open rulebook": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "sede9ev6s",
+    "Mi Declaración Sobre la IA.md",
     "Worldbuilding/Gateway To Genesis.md",
-    "Worldbuilding/Mythology/Deities/Auric Aria.md",
-    "Sonata of the Violet Empress/Amadea.md",
-    "Sonata of the Violet Empress/Amadea, Sonata of the Violet Empress.md",
-    "Amadea Traducción Español.md",
-    "Worldbuilding/Society/Characters/Ages 2/Cordelia.md",
-    "Worldbuilding/Society/Tools & Inventions/Vow Mark.md",
-    "Worldbuilding/Society/Stellar Legacy/Legend.md",
+    "Worldbuilding/Game Systems/My Statement on AI.md",
     "Worldbuilding/Society/Stellar Legacy/Legend Trait.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Outer God Rituals/Flesh-Binding Ritual.md",
-    "Worldbuilding/Mythology/Deities/Outer God.md",
-    "Amadea-16.png",
-    "Worldbuilding/World Environment/Bestiary/Eleos Bloom.md",
-    "Worldbuilding/World Environment/Bestiary/Pure Light.md",
-    "Worldbuilding/Society/Characters/Ages 5/Cadmus Tacet.md",
-    "Worldbuilding/Rise & Fall, Crisis/Arcanoria.md",
-    "Coherence-Binding Tissue.md",
-    "Worldbuilding/Origin of Magic/Spellweaving/Spellweaving.md",
-    "Worldbuilding/Truths, Chaos, Rituals/Forbidden Objects/EC.md",
-    "Worldbuilding/World Environment/Bestiary/Auric Structure.md",
+    "Sonata of the Violet Empress/Court of Delicacies.md",
+    "Worldbuilding/Game Systems/Event System Logic.md",
     "Worldbuilding/Game Systems/Combat System.md",
-    "Worldbuilding/Society/Characters/Ages 2/Orphael.md",
-    "Worldbuilding/Society/Characters/Ages 2/Luminaire.md",
-    "Sonata of the Violet Empress/Lazarus.md",
-    "Miracle Guardian Angel.md",
-    "Worldbuilding/Rise & Fall, Crisis/Passage of Time/Ages of Magic/Ages 2/Age of Glyphs.md",
-    "Sonata of the Violet Empress/R Stories/LIT Rpg Stories.md",
-    "Eleos Bloom.png",
-    "Amadea-15.png",
-    "Worldbuilding/World Environment/Civilizations/Cities",
-    "Ligeia.png",
-    "Amadea-14.png",
-    "Amadea-15.png",
-    "Gateway To Genesis-1.png",
-    "Elaine.png",
-    "Elaine 1.png",
-    "Amadea-13.png",
+    "Worldbuilding/Events/Age Related/Ages 0/A Burrowed Name.md",
+    "Cordelio.md",
+    "Worldbuilding/Truths, Chaos, Rituals/Inescapable Truths/Weight of Change.md",
+    "Worldbuilding/Society/Stellar Legacy/Legend.md",
+    "Worldbuilding/Events/Achievement.md",
+    "White Agent Scribe/README.md",
+    "White Agent Scribe/Session_Extracts/2026-09-15_Chord_Layering_And_Registers_Skill.md",
+    "White Agent Scribe/Session_Extracts/2026-06-08_Soul_Leitmotif.md",
+    "White Agent Scribe/Reference_Docs/Tag_Index.md",
+    "White Agent Scribe/Discarded_Ideas/Archive.md",
+    "White Agent Scribe/Continuity_Notes/2026-09-10_Registers_Lost_Revisions.md",
+    "White Agent Scribe/Continuity_Notes/Plot_Holes.md",
+    "White Agent Scribe/Claude outputs/arcanoria-registers-SKILL.md",
+    "White Agent Scribe/Canon_Ledger/Acoustic_Ontology.md",
+    "White Agent Scribe/Canon_Ledger/Amadea_Quote_Concordance.md",
+    "White Agent Scribe/Canon_Ledger/Gateway_Backlog_Pipeline.md",
+    "White Agent Scribe/Canon_Ledger/Ideation_Matrix_Nexuses.md",
+    "White Agent Scribe/Canon_Ledger/Nostalgia_Perfumery_And_Lust_Berries.md",
+    "Amadea, Sonata of the Violet Empress.png",
+    "Amadea, Sonata of the Violet Empress-1.png",
+    "Amadea, Sonata of the Violet Empress-1.png",
+    "Amadea-16.png",
+    "Amadea, Sonata of the Violet Empress.png.crswap",
+    "Gateway To Genesis-8.docx",
+    "Amadea, Sonata of the Violet Empress-22.png",
+    "White Agent Scribe/Claude outputs",
+    "Worldbuilding/The Registers of Magic.lnk",
+    "Gateway To Genesis-7.pdf",
+    "Gateway To Genesis-7.docx",
+    "Gateway To Genesis-6.pdf",
+    "Gateway To Genesis-6.docx",
+    "Gateway To Genesis-5.pdf",
+    "Gateway To Genesis-5.docx",
+    "Auric Heptacode.png",
+    "Artusian Knight.png",
+    "The Cradle of Echoes.png",
+    "Amadea Wandering Violet 1_with_metadata.png",
+    "Amadea, Sonata of the Violet Empress-21.png",
     "Worldbuilding/Mythology/Arcanoria Flowchart.canvas",
     "Worldbuilding/Mythology/Deific Moodboard.canvas",
-    "Images/Deities/Auric Aria/Old Design/Auric Aria Sacrifice.mp4",
-    "Images/Deities/Auric Aria/Old Design/Auric Aria.mp4",
-    "Images/Deities/Auric Aria/References",
-    "Images/Deities/Auric Aria/Old Design",
-    "Images/Deities/Auric Aria/New Design",
-    "Sonata of the Violet Empress/R Stories",
-    "Sonata of the Violet Empress",
-    "Worldbuilding/World Environment/Atonalis/Primal Discordia",
-    "Worldbuilding/World Environment/Atonalis/Ascendant",
     "Worldbuilding/World Environment/Bestiary/Fauna Moodboard.canvas"
   ]
 }

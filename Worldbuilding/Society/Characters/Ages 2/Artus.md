@@ -2,7 +2,7 @@
 
 The first of the [[Saber-Knight]]s and a key figure for [[Amadea]].
 
-[[Legend Title]]: The [[Saber-Knight]], The First [[Artusian Knight]], The Greatest Knight That Ever Lived.
+[[Legend Title]]: The [[Saber-Knight]], The First [[Artusian Knight]], The Greatest Knight That Ever Lived. 
 
 [[Primary Instrument]]: Refined Oak Cello, [[Dance]]
 [[Armament]]: Wide Saber

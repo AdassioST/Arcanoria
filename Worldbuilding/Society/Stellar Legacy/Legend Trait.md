@@ -115,7 +115,7 @@ Exile
 Born Deaf: _Born deaf in a universe made of sound? Oh! The tragedy..._
 Blind
 
-Plain, Unattractive, Hideous
+Homely, Unattractive, Hideous
 Dumb, Idiot, Imbecile
 
 | [[Legend Trait]]                                                                                                        | Scaled Cost | Underdog Points | Binding Effect     | Narrative Effect                                                                                                                       |
@@ -146,10 +146,10 @@ Hyperphantasia
 Attunement Prodigy ([[Luminaire]], [[Aurelian]])
 Perfect Ear ([[Sephira]], [[Luminaire]])
 
-Sharp, Cunning (Quick-witted)
+Sharp, Cunning (Quick-witted)[[Artus]]
 
 Clever, Brilliant, Genius
-Comely, Attractive, Beautiful
+Comely, Attractive, Immaculate
 Perfect Eye (Ability to track with the eyes. Artus has it on his blade prodigy)
 
 | Trait                                                                                                          | Scaled Cost | Underdog Points | Binding Effect              | Narrative Effect                                                                                                       |

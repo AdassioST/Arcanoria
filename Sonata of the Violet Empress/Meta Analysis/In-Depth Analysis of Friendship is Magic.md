@@ -405,20 +405,6 @@ The Seven Weights are not merely theological truths — they are the structural 
 
 ---
 
-## PART VII: THE COUNTER-STRATEGY MATRIX
-
-|Attack Type|Primary Counter|Secondary Counter|Limitation / Risk|
-|---|---|---|---|
-|**Flux Saturation** (Weaponized Pleasure)|Strand Anchoring — fix memory of "self before the assault" to resist identity dissolution|Void Detachment — dissociate consciousness from body (short-term only)|Crystal Willpower is exhausting and finite; Flux Mastery (riding the wave) requires advanced training|
-|**Forced Resonance** (Identity Replacement)|Strand + own Soul Leitmotif practices — know who you are before they tell you|Luminance to identify the false frequency being broadcast|If the victim does not know who they are, there is nothing to anchor; identity work is the prerequisite|
-|**Memory Weaponization** (Strand Perversion)|Void — sever the loop; the past is cut and the present restored|Crystal — assert present reality over the past version; refuse the memory's primacy|Strand lock is risky; over-preservation creates its own trap|
-|**Focus Annihilation** (Flux vs. Cindergale)|Accept the sensation without letting it collapse the spell (Flux Mastery — the hardest counter)|Void detachment from the physical stimulus; Strand anchoring to purpose|Cindergale users are architecturally vulnerable to Flux; diversification or preparation is essential|
-|**Reality Imposition** (Crystal Perversion)|Luminance — see through the imposed vision to what is actually present|Void — detach from the crystallized certainty the weaver has forced; hold the Weight of Value to deconstruct their "truth"|Victims must trust their own perception; prior Luminance damage makes counter-perception suspect|
-|**Forced Emptiness** (Void Perversion)|Resonance — broadcast authentic purpose back; remind the victim of who they were before the Void hit|Strand — anchor to a memory of caring; Flux — emotional warmth that makes meaning feel real|Apathy is self-reinforcing; intervention from outside is often required|
-|**Polyphonic Entanglement** (Forced Polyphony)|Sufficient Precision — locate and isolate your own voice in the composition|Counterpoint training — practice holding your own line independent of external harmonic pressure|The victim may not be able to distinguish their own voice from the weaver's; outside intervention often necessary|
-|**Polyrhythmic Overload** (Heartbeat Conscription)|Luminance — identify the frequencies; see the pattern within the chaos|Resonance — "untune" from the imposed rhythm by broadcasting your authentic frequency at full amplitude|Area-of-effect; nearby allies are affected; Silence spells and ear protection serve as physical counters|
-|**Forced Modulation** (Gaslighting)|Luminance to see what is actually true versus what the weaver has made you feel is true|Crystal — assert the reality you knew before the shift; refuse the new key|Prolonged Forced Modulation may not feel like attack; the victim believes the shift was internal|
-
 ### Counter-Strategies — Integration with Character Play
 
 |Counter|Binding|Mechanism|Narrative Weight|
@@ -429,44 +415,6 @@ The Seven Weights are not merely theological truths — they are the structural 
 |Riding the Wave|Flux|Turn the pleasure into fuel — use it as Emotional Authenticity to power one's own Spellweaving|The most powerful counter and the rarest. Requires the practitioner to be more fluent in Flux than the attacker. If successful, the attacker has handed the defender a weapon|
 
 ---
-
-## PART VIII: THE MUSICAL LEXICON AS UNIFIED GRAMMAR
-
-Music theory is not metaphor in Arcanoria — it is the grammar of existence. Each musical concept describes a _technique_ that can be applied within any binding, at any point on the Spectrum axis. The musical form determines _how_ magic is cast. The Spectrum axis determines _what_ it does to a consciousness.
-
-### Polyphonic Complexity Tiers
-
-|Texture|Definition|Requirement|Example|
-|---|---|---|---|
-|**Monophony**|Single binding, no harmonic support; pure elemental intention|Basic Motif Awakening; one binding mastered|A Cindergale fireball; a Flux sob of grief|
-|**Homophony**|One dominant binding with minor supportive notes; the Dyad and Triad chord range|Dyad mastery; emotional multitasking without losing core intention|A Luminance diagnosis supported by Strand to read past health; a Flux comfort held with Crystal conviction|
-|**Polyphony**|Multiple independent bindings of equal weight, woven simultaneously; each voice maintains full integrity|Tetrad mastery minimum; ability to hold genuinely contradictory emotional states simultaneously|A healing ritual using Flux, Strand, Resonance, and Luminance as four independent voices; the Eight-Winged Viola|
-
-### Musical Techniques — The Full Lexicon
-
-|Technique|Definition|Consonant Use|Dissonant Use|Binding Affinity|
-|---|---|---|---|---|
-|**Imitative Polyphony**|One voice introduces a theme; others echo it at intervals with slight variation|Mentorship; shared emotional understanding; the student finds their own inflection of the teacher's truth|Forced repetition of the victim's own wound; the echo becomes a trap; Obsessian Atonalis method|Strand, Resonance|
-|**Counterpoint**|Independent voices maintaining integrity while contributing to a unified whole|Council of Seven; two spellweavers with different bindings whose magic responds to each other without merging|Forcing others to provide "counterpoint" to the abuser's lead — voices reduced to ornament of another's theme|All bindings|
-|**Modulation**|Shifting from one emotional key to another mid-spell; a change in the fundamental pitch of intention|A weaver carries grief into hope, bridging past and future; Ritual Ascension through all seven bindings|Forced Modulation — compelling a victim to shift emotional state against their will; gaslighting at the magical level|Flux, Void, Crystal|
-|**Ornamentation**|Decorative embellishments — trills, turns — that enhance without changing the core intention|A healer adds warmth to a Strand restoration; a diplomat's Luminance words resonate with genuine care|Beauty masking violation; the victim distracted by elegance while the core working binds them without consent|Luminance, Flux|
-|**Fugue**|A single intention introduced and then woven through multiple voices entering sequentially, building to a unified whole|The Fugue of Seven: a ritual where weavers enter one by one, each binding reinforcing the previous; collective Relic creation|Forced Fugue: a weaver compels multiple victims to become "voices" in their composition; consciousness as instrument|Echoing Bonds, Crystal|
-|**Polyrhythm**|Multiple conflicting rhythms layered simultaneously; chaos that can be channeled into power|Ecstatic ritual; communities entering collective trance while maintaining individual identity; Flux empowerment|Syvanth's weapon — the victim's heartbeat becomes the counter-rhythm to the weaver's pulse; the body itself is conscripted|Flux, Cindergale|
-|**Syncopation**|Accenting the off-beat; spells that arrive not when expected but in the gaps between anticipation|Defensive magic that blocks on unexpected beats; healing that arrives when the patient is most ready to receive it|Seduction that syncopates — desire manufactured not at predictable moments but in sudden gaps; unpredictable violation|Void, Crystal|
-|**Harmonic Series**|The overtones naturally generated by a fundamental frequency; the unique timbre that makes one soul different from another|A weaver learns to access the full overtone range of their binding; mastery as embracing not just who you are but who you could be|Overtone Suppression: forcing a victim to silence their harmonics, reducing them to a flat note; identity simplification as control|Resonance, Soul Leitmotif|
-|**Canon**|One voice follows another exactly, at a precise interval; deep trust expressed as perfect mirroring|Mutual understanding so deep that two consciousnesses can resonate in perfect alignment without losing individuality|Lacrimosa's impersonation of Selenea — a Canon used to forge false intimacy; the Canon as a mask|Echoing Bonds, Strand|
-
-### Polyphonic Notation for Spellweaving
-
-Formal notation: **Primary Binding (Subject) + Secondary Binding (Counter-Subject) + Tertiary Binding (Third Voice, if applicable)**
-
-- **Healing Fugue:** Crystal (Subject) + Strand (Counter-Subject) + Flux (Third Voice) + Luminance (Fourth Voice). The Crystal anchors the vision of restored health; Strand recalls the patient's healthy past self; Flux provides the emotional warmth that makes healing felt; Luminance illuminates the specific locus of damage.
-    
-- **Forced Hollowing (Dissonant):** Flux (Subject, overwhelming) + Strand (Counter-Subject, weaponized memory) + Resonance (Third Voice, identity broadcast drowning out the victim's own). This is the Alternate Hollowing pattern in miniature.
-    
-- **The Focus-Eater (Erosyx Atonalis):** Cindergale (Subject, magnetically drawing the victim's attention) + Flux (Counter-Subject, pleasure rewards that attention) + Void (Third Voice, stripping the value of anything outside the loop). A predatory Fugue.
-    
-
 ---
 
 ## PART IX: THEMATIC ARCHITECTURE — THE FOUR TRUTHS

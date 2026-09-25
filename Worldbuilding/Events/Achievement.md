@@ -112,7 +112,7 @@ Forge a [[Slayer Magnum Opus]] of a [[Legend]]
 _"The Thirteenth Labor: There was no prophecy, only an insurmountable beast, and the decision to make history."_
 
 Have a [[Legend]] develop a 3-Star Apex [[Spellweaving]] [[Legend Trait]]
-_"The 10,001th Hour: I fear not the [[Spellweaver]] who has practiced 10,000 spells once, but I fear the [[Spellweaver]] who has practiced one spell 10,000 times."_
+_"The 10,001st Hour: I fear not the [[Spellweaver]] who has practiced 10,000 spells once, but I fear the [[Spellweaver]] who has practiced one spell 10,000 times."_
 
 Witness a [[Legend Relationship]] reach the level of [[Romantic Interest]] of Infatuated for another [[Legend]] that is on the starting levels of [[Romantic Interest]].
 _"An Infatuated Obsession: You just don't know it yet, but you love me and I love you the same. One day we'll have a pretty wedding, and I'll be your everything."_
@@ -120,10 +120,13 @@ _"An Infatuated Obsession: You just don't know it yet, but you love me and I lov
 Witness a [[Legend]] be crushed by the [[Weight of Potential]]
 _"The [[Crystal]] Jar: I saw my life branching out like an [[Auric Peach]] Tree. From the tip of every branch, a wonderful future. I sat at the crotch, starving to death; I wanted them all, but choosing one meant losing the rest. Unable to decide, I saw the golden peaches wrinkle into shades of brown, plopping one by one to the ground at my feet."
 
+Have any [[Legend]] perform any unspeakable act
+_"Aw.. Hell Nah: You know what you did..."
+
 ### Culture, [[Civic]]s & [[Civilization]]
 
 Have a fully [[Ornament]]al [[Major Settlement]]
-_"[[Soul Leitmotif]] of [[Civilization]]: Develop a rich long-standing history of a [[Major Settlement]]."_
+_"[[Soul Leitmotif]] of [[Civilization]]: Develop a rich, long-standing history of a [[Major Settlement]]."_
 
 Have none of your original starting [[Civic]]s
 _"Ship of Theseus: Wait, at what point did we change culture?"_
@@ -138,16 +141,16 @@ Use the [[Resonance Anchors]] unlocked by [[Achievement]]s to create permanent u
 _"Compost Your Failures: Use prestige to unlock upgrades from [[Divine Reset]]s."_
 
 Reach the end of an [[Age Crisis]] in Ironman mode
-_"Iron Will, Fragile World: You chose to never look away, so nothing else can"_
+_"Iron Will, Fragile World: You chose never to look away, so nothing else can."_
 
-Fail a high-stake decision as a Critical Failure for a luck-based challenge
+Fail a high-stakes decision as a Critical Failure for a luck-based challenge
 _"Heads, You Vanish: The coin always lands on the side you never see. You cast hope to the heavens, only to learn the universe minted a third side just to watch the prayer dissolve into [[Signal Loss]]."_
 
 Win a high-stake decision as a Critical Success in a luck-based challenge by hitting a threshold of Forsaken with 10% or less probability of success
-_"Butterfly Survives the Storm: Improbable is not the same as impossible. The butterfly simply beat its wings in the precise rhythm needed to thread the downpour, untouched by a single drop."_
+_"Butterfly Survives the Storm: Improbable is not the same as impossible. The butterfly beat its wings in the precise rhythm needed to thread the downpour, untouched by a single drop."_
 
 Have [[Piety]] trigger the saving grace of a decision that should've failed in a luck-based challenge
-_"The Aria Was Listening That Day: Faith does not move the mountain, it moved you to the right side of it."_
+_"The Aria Was Listening That Day: Faith does not move the mountain; it moved you to the right side of it."_
 
 Hit a modernization [[World Event]] that forces reformation or syncretism of a [[Civic]] that your [[Civilization]] has held for more than two [[Ages]]
 _"Modernity Bites Back: Every word for love needs a new word for exile."_
@@ -165,24 +168,24 @@ Justify any [[Atrocity]] in your [[Civilization]]
 _"Hume's Guillotine: From what is, you cannot cut what ought to be. And yet someone always does."_
 
 Revise the Death Count of any official ledger in your [[Civilization]]
-_"The Trolley That Kept Moving: You didn't fail to save the five, you just wrote it as one."
+_"The Trolley That Kept Moving: You didn't fail to save the five; you just wrote it as one."
 
 Reveal and condemn the historical revisionism of any [[Civilization]] that rewrote the death count of any official ledger by exposing the truth of the tragedy.
-_"People Are Never Numbers!: Expose the ultimate corruption of the [[Weight of Value]] taking root on the tyrants of [[Civilization]]."_
+_"People Are Never Numbers!: Expose the ultimate corruption of the [[Weight of Value]] taking root in the tyrants of [[Civilization]]."_
 
 Adopt a [[Religion]] with a stable [[Piety]] output without the help of [[Prophet]] [[Civic]]s
-_"Pascal's Compromise: It's not that you had to believe but the altar was useful anyway."
+_"Pascal's Compromise: It's not that you had to believe, but the altar was useful anyway."
 
 Found a [[Religion]]
-_"Genesis 1:5: The Aria called [[Luminance]] Day, and the [[Void]] she called Night. And there was evening and there was morning."_
+_"Genesis 1:5: The Aria called [[Luminance]] Day, and the [[Void]] she called Night. And there was evening, and there was morning."_
 
-Outlaw any branch of [[Magic Arts]] in [[Spellweaving]] to be labelled as [[Forbidden Magic]]
+Outlaw any branch of [[Magic Arts]] in [[Spellweaving]] to be labeled as [[Forbidden Magic]]
 _"Friendship is Magic: The [[Great Harmonic Loom]] has no [[Consciousness]], only the caster does."_
 
 Cause a [[Dark Morale]] revolt from a Critical Failure of any luck-based challenge meant to cover an [[Atrocity]], a [[Scorching Truth]], or any historical revisionism.
 _"The Streisand Settlement: You really shouldn't have revised that ledger."_
 
-Lose any type of settlement beyond the [[Administrative Authority]] of your borders
+Lose any settlement beyond the [[Administrative Authority]] of your borders
 _"404: City Not Found: The settlement you were looking for was assimilated into a new [[Civilization]]."_
 
 Reclaim a lost settlement back into your [[Civilization]]
@@ -194,8 +197,11 @@ _"Anathema Sit!: They who live for nothing, will die for nothing. Live by the sw
 Commit an [[Atrocity]] that your [[Civilization]] had previously outlawed in past [[Ages]]
 _"Santayana's Condemnation: Everything repeats over and over again. No one learns anything because no one lives long enough to see the pattern."_
 
-Legalize a branch of [[Magic Arts]] that was labelled [[Forbidden Magic]] for more than two [[Ages]], and trigger an [[Atonalis]] attack for this very reason within your borders.
+Legalize a branch of [[Magic Arts]] that was labeled [[Forbidden Magic]] for more than two [[Ages]], and trigger an [[Atonalis]] attack for this very reason within your borders.
 _"Chesterton's [[Atonalis]]: You tore down the ancient laws because they obstructed the future, but what if the door was there to keep you contained from yourself?"_
+
+Have the option of committing an [[Atrocity]] and refuse for the entire set of [[Ages]] to do any morally damning acts.
+_"Beacon in the Shadow of Gyges: The bravest are not those who never had the chance to do evil, but those who had every option to be evil and still chose good when the whole world pushed them toward it."_
 
 ### Exploration
 
@@ -269,6 +275,7 @@ _"Across the Sea, to the Land Beyond: [[The Golden Light in the Sky]] was born f
 Reclaim your position as a [[Major Actor]] after being cast out of the [[Fate Stage]]
 _"But It Refused: I won't be written out of my own story. I will claw for a better world with my own hands regardless of the insurmountable of the pain I must face."_
 
+_"Critically Thinking Hater: "_
 ### [[Memory Field]]s and [[Scorching Truth]]s
 
 Discover the origin of the [[Atonalis]]

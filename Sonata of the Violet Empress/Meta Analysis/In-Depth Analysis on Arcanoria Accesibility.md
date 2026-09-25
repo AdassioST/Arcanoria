@@ -128,21 +128,6 @@ Magic is governed by seven distinct Bindings, each corresponding to a physical t
 
 This psychological framework provides immense narrative depth because it forces mechanical limitations to perfectly align with character development. If a character is currently mourning the sudden death of a mentor, they are psychologically incapable of utilizing the Cindergale (Focus) binding, because profound grief naturally shatters the required Flow State. They must adapt, perhaps leaning into the Flux (Emotion) binding to weaponize their raw sorrow. Feeling either sadness or joy is power, and the mechanics actively enforce the roleplaying, making the abstract numbers subservient to the human condition.   
 
-### The Tiered Chord System
-
-As a practitioner achieves higher levels of psychological integration and mastery, they transition from casting simple, single notes to composing complex, multi-layered "Chords". Every spell in the system is defined by three acoustic parameters that govern any real life song: the Melody (the root elemental theme), the Rhythm (the tempo dictating the flow of energy), and the Harmony (the layering of minor notes to modify the spell's texture). The depth of the system scales through four distinct tiers as direct parallels to actual music theory:   
-
-- **Unison (The Novice Tier):** The caster utilizes only the Root Major Note. These spells produce basic, reliable elemental effects—such as a simple sphere of light or a spark of fire—and carry a minimal psychological burden. This is the highly accessible entry point.   
-    
-- **Dyad (The Tactical Tier):** The caster synthesizes the Root with a Third Interval (a minor note). This injects a secondary psychological state into the spell. For example, a practitioner might combine the focus of Fire (Cindergale) with the vulnerability of Water (Flux) to create a storm of "Ember Rain" driven by passionate, emotional intensity.   
-    
-- **Triad (The Expert Tier):** The caster layers the Root, the Third, and the Fifth Intervals. This requires extreme mental compartmentalization, forcing the practitioner to hold three distinct, often contradictory psychological states simultaneously to diffract energy into highly complex physical manifestations.   
-    
-- **Tetrad (The Master Tier):** The absolute pinnacle of reality-bending magic, utilizing the Root, Third, Fifth, and Seventh intervals. In musical theory, the seventh interval creates immense tension begging for resolution; in Arcanoria, the seventh interval introduces intentional, weaponized "Dissonance". Tetrads are incredibly powerful but catastrophically unstable. To prevent the dissonant magic from collapsing into "Vibrational Fallout"—a localized detonation capable of vaporizing entire regions—the master must perform a massive, agonizing Essence Sacrifice with Absolute Certainty. Even in music you can hear the tension waiting to resolve for the seventh interval. It is chaotic because it sounds chaotic, it has no disconnection between real world music and magical feeling.
-    
-
-This Chord system provides procedural, infinite depth. Players can combine any of the seven psychological states, modifying tempos and intervals, to create bespoke magical effects that are entirely unique to their character's current mental state. Yet, crucially, a novice does not need to understand the horrific complexities and necessary sacrifices of a Tetrad to cast a simple Unison spell. They can simply pick up their instrument, feel their emotion, and participate in the magic, knowing that the system will deepen and scale in exact proportion to their character's psychological maturation.   
-
 ## The Embodiment of Trauma: The Atonalis and Psychological Hazards
 
 To further prove that Arcanoria's terminology and mechanics are rooted entirely in lived sensation rather than abstract jargon, one must examine the system's approach to antagonists and environmental hazards. In traditional RPGs, monsters are often defined by arbitrary stat blocks—creatures of pure hit points and damage output. In Arcanoria, the primary antagonists, known as the "Atonalis," are the literal, physical embodiments of diseased human emotion and psychological trauma turn predatory from a decision of surrendering all agency to a wound.   

@@ -1,5 +1,5 @@
 
-This is the third classical [[Civilization]] of [[Arcanoria]] representing the [[Regalia Pillar]], it was founded by the White Chested Fox, Sak Tahn Waax, during [[Ages]] I, and it holds the great city of [[Babmer K'ahn-Jing]], one of the most prosperous ports with golden canals in sync with [[Cosmic Motion]].
+This is the third classical [[Civilization]] of [[Arcanoria]] representing the [[Regalia Pillar]], it was founded by the White Chested Fox, [[Sak Tahn Waax]], during [[Ages]] I, and it holds the great city of [[Babmer K'ahn-Jing]], one of the most prosperous ports with golden canals in sync with [[Cosmic Motion]].
 
 The city is a combination of Mayan/Chinese/Egypt/Babylonia based on the study of core [[Civic]]s.
 

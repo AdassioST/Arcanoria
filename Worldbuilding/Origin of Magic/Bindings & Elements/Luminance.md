@@ -2,6 +2,8 @@
 
 Light + Lightning
 
+Electricity functions by manipulating the [[Resonance Field]]s of the [[Dual Confluence Stream]]. [[Aetherlight]] is positive, [[Lunehymn]] is negative. [[Luminance]] controls electrical magic because [[Aetherlight]] is attuned to [[Luminance]] so depending or modifying the positive charge creates a differential that becomes electricity, which is why [[Electrical Magic]] exists without electrons or protons as the charge exists due to [[Soliton]]s carrying information from the [[Dual Confluence Stream]].
+
 Evolution of the Element:
 
 - [[Luminance]] is light.

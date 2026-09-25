@@ -31,7 +31,15 @@ The core of the [[Old Testament]] is discovered by [[Civilization]] during the [
 
 The hint at the existence of the [[Old Testament]] is done by both the [[The White-Touched Archivist]], and the [[Auric Aria]] during [[Ages]] IV, and properly spoken by the [[Auric Aria]] during the [[Holy War]] of [[Ages]] V when vanquishing [[Formless Father]] on the crusades of the [[Auric Angels]]. Only when [[Civilization]] survives the [[Polychord Crisis]] will she disclose the entire information of the [[Old Testament]], by having [[Civilization]] uncover the [[Crisis Wonders]] scattered through [[Arcanoria]] where each depicts the [[Age Crisis]] of the [[Old Testament]] with places like the [[Grand Auric Cathedral]].
 
-### The Timeline of the [[Old Testament]]
+#### [[Legend]]s across the [[Old Testament]]
+
+[[Mythical Virtuoso]]: In this timeline most of the [[Mythical Virtuoso]] are not born, but those who do play radically different roles than in the [[New Testament]], the most prominent is [[Aurelian]] who is [[Mikael]] and the first of the [[Seven Archangels]].
+
+- [[Luminaire]] is not born ([[Hollowmarch]] was never founded), [[Orphael]] is not born (the [[Chorus Pillar]] did not have the Punic wars with [[Hollowmarch]]), [[Daedalus]] is not born (In that region [[Demi-Human]]s were the slavers not the slaves), [[Cordelia]] is not born ([[Medea]] is alive and the [[Silver Blood]] never fractured).
+
+- [[Sephira]] is born, she serves the [[Auric Order]], rises the ranks to become one of the many [[Auric Angels]] and dies against [[Formless Father]] during the [[Holy War]]. [[Amadea]] is also born, but this time she isn't orphaned, she lives a quiet life with her family and both of her parents as the [[Great Plague]] never existed. Though she is a nobody, she gets her own happy ending living a normal life as a composer, and instead of [[Void]] she awakens to [[Flux]] through her [[Reverent]] [[Legend Trait]]. Crucially, on her composition travels she meets an adult [[Artus]], who is also born, and both become performers together. He still retains [[Crystal]] and they live together, marry, and have children that are far enough to not witness the apocalypse of the [[Formless Father]] on the other side of the continent.
+
+## The Timeline of the [[Old Testament]]
 
 After the [[Eighth Cycle]], the [[Auric Aria]] withdraws entirely into silence leading to the [[Lost Cycle]], slipping between form and thought while [[Humanity]] nearly perishes from [[Corruption]] and [[Outer God]]s.
 
@@ -46,7 +54,7 @@ She canonizes herself as [[The One True God]] based on the [[Auric Order]] that 
 
 - As [[Civilization]] progresses, naturally [[Dissonance]] appears as wars, slavery, and other horrific acts are conducted by the first clashes of [[Corruption]], [[Humanity]] and [[Demi-Human]]s.
 
-- Some of the knowledge she gives, is weaponized by leaders of [[Humanity]] and [[Demi-Human]]s alike as they now hold the power over each other.
+- Even worse, some of the knowledge she gives is the key of hierarchies, as the ones who received the dreams have the ability to weaponize that very same knowledge. This becomes a divine mandate by leaders of [[Humanity]] and [[Demi-Human]]s alike as they now hold the asymmetry of power over each other.
 
 #### 2. [[Age Crisis]]: [[Demi-Human]] Wars, [[Corruption]], and Enslavement 
 

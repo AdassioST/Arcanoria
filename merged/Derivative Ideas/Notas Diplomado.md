@@ -825,3 +825,57 @@ _"Yo y mi conciencia les deseamos suerte"_ repito las palabras de ese misterioso
 Ojalá mi conciencia no me empiece a hablar, y mínimo si lo hace, que sea una paloma blanca, así al menos combinaría con mi vestido, no como el pájaro rojo que traía ese hombre vestido de verde.
 
 _"Ay no abuelita, para la próxima sí te hago caso!"_
+
+#### Ejercicio 3: Escribiendo Sobre Animales
+
+Érase una vez que un nombre tenía el peso de una corona.
+
+Érase una vez que había un león sin nombre, solo un propósito que los más grandes de la manada le habían asignado. 
+
+Érase una vez un esclavo de la libertad llamado Arioch.
+
+El hijo del Gran Rey León, el heredero de una manada de pastizales imposibles de ámbar y de olor a cobre. 
+
+Arioch nació bajo el comando del rugido de su padre, de ser el siguiente gran león.
+
+Ruge como tu padre, le ordenaban. Que el mundo sepa que la manada es fuerte.
+
+Arioch escaló cada mañana con su padre, los rayos del alba penetraban el cielo antes de que lo hiciera el sonido de su rugido, pero cada vez que lo entonaba, retumbaba hasta la tierra.
+
+Su padre era imponente, Arioch; sin embargo, era el eco que seguía el relámpago.
+
+La verdad es que nunca había querido ser un rey. Añoraba a las aves que sobrevolaban las rocas cada mañana. Cuando el sonido de su padre partía las nubes, estas siempre eran el coro que lo seguía.
+
+Soñaba con una vida errante, de cruzar la sabana solo y no deberle nada a nadie.
+
+Una mañana su padre vio algo más.
+
+Serás más grande que yo, dijo, una pata posada sobre su cabeza, y las palabras fueron tanto profecía como sentencia.
+
+Llegó la sequía. Los pozos del agua se encogieron y la mañana sufrío. Bajó el nivel de los animales, no había que cazar. El padre de Arioch fue de los primeros en perecer, pues la fortaleza de sus músculos eran los que más necesitaban del beber.
+
+La mañana que él pereció, vio a las mismas aves volar, un pelícano que atravesó su pecho con su mismo pico para alimentar a sus crías, y de la sangre volaron al cielo para nunca regresar.
+
+Al ver a las aves partir, Arioch sintió el peso de sus necesidades más que el hueco entre la débil carne de sus huecos.
+
+Un día volvió a escalar la piedra donde su padre había rugido, pero poco más adelante vio algo más. Al otro lado, había un elefante, un gigante colosal, antiguo, de colmillos de marmol como lunas crecientes. Su piel era un mapa del incontable paso de las estaciones.
+
+Estaba inmóvil, era una montaña contemplando los cielos que todavía debían de tronar a partir del rugido del Rey León, pero a pesar de que todos los demás animales esperaban por el rugido de Arioch, el elefante no necesitaba de su dirección. Encontró su poder en el silencio.
+
+El elefante sumergió su trompa en el último charco del reino, recogió el agua con autoridad, pero no la bebió, la roció suavemente el agua sobre un pasto marchito. 
+
+Y en ese momento, Arioch entendió. El poder de su padre era de amenazas inmediatas y de jerarquías de poder. No era un mundo de sequías. Y la corona de Arioch no podía rugir la lluvia del cielo, pero podía ofrecer algo distinto.
+
+Bajó sin rugir, todos quedaron impactados ante este movimiento.
+
+Arioch caminó en silencio hacia el río medio muerto. Sin una palabra, y sin un camino, tomó en cambio una de sus patas, y al clavar los colmillos la sangre que cayó el en suelo se convirtió en rocío.
+
+Coman, dijo. Su voz fue más fuerte que el silencio que rompió los cielos.
+
+Y de la tierra creció un árbol, del árbol creció fruta y de la fruta, regresaron las aves.
+
+Arioch no tenía la voluntad de su padre, pero hizo que la tierra tallara los cañones de todas formas. El elefante lo miró una vez, no porque fuera el hijo del Gran Rey. Sino porque era Arioch.
+
+Había dejado de intentar rugir el significado de su nombre como su padre, había empezado a escuchar el trueno silencioso de su propio pecho.
+
+El trueno de una vida que encuentra el nacer de la vida ahora el elegía ser como el pelícano que alimentó a sus hijos.

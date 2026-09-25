@@ -2,6 +2,8 @@
 
 _A deeply psychological dark fantasy and musical progression philosophical epic sung in a world where music is magic and grief shapes reality._
 
+_“A story for those who have loved and lost, set in a a world where music is the physics of magic across an 84-act epic of grief, growth, and defiance.”_
+
 ##### **High Concept Pitch**
 
 **Logline:** _In a universe where music is magic and grief shapes reality, a fatalistic orphan refuses to let her story end in silence, carving a sanctuary from loss, blood, and cunning amid the ruins of a broken world's symphony._
@@ -34,6 +36,8 @@ For singers remember, when the living cannot.
 >_This is the legend of her song, Amadea, the virtuosa of the void who refuses her note to resolve into silence._
 >
 --- 
+## Score I: A Ballad Before Iridia
+
 ### Act 0: Weight (Chapter 0)
 
 The last thing her mother gave her was weight.
@@ -64,13 +68,13 @@ They ran together through the forsaken streets scarred by death. Lips moving aga
 
 Then tears came. She was exhausted. She tried to call out to her mother, but the hand dragging her wouldn’t stop.
 
-It was the only inheritance she had left — the void of a hand that had stopped answering, no matter how hard her small fingers clutched it.
+That was the only inheritance she had left — the void of a hand that had stopped answering, no matter how hard her small fingers clutched it.
 
 A third Beat.
 
 They made a sharp turn towards a river.
 
-A song began amidst the chaos, at first resonant, mellow. Then unraveling into howls and a low humming static. Then a stronger buzzing noise. Then nothing.
+A song began amidst the chaos, at first mellow. Then unraveling into howls and a low humming static. Then a stronger buzzing noise. Then nothing.
 
 Then a deafening screech.
 
@@ -110,11 +114,11 @@ The embrace on her hand tightened. Then flashes of people moving — an arm, voi
 
 Her mother did not release her.
 
-A fifth Beat, filled with Dissonance.
+A fifth Beat, filled with dissonance.
 
 In that instant, the weight was still warm. Her mother’s breathing came loud and ragged, the last anchor against the invasive, low-buzzing static that began its electrical hum again.
 
-Those arms pressed her close one final time.
+Those arms squeezed her close one final time.
 
 Everything about that hold was wrong. Too tight. Too brief. The last.
 
@@ -122,7 +126,7 @@ Then her mother pulled back. Just far enough to look at her. That face was ruine
 
 Then lifted her upward toward the light.
 
-Her eyes, vibrant in resonance, did not close. They held — they held — until the arms on the cart lifted the remaining distance.
+Her eyes, vibrant in resonance, did not close. They held — they held — until the arms on the cart cut the remaining distance.
 
 Her mother’s gaze became the last fixed point in a world coming apart. She does not remember letting go. Even now, she doesn’t.
 
@@ -146,10 +150,17 @@ Not a goodbye. Not an instruction. Not even a prayer. Just one word that carried
 
 She looked at her once. Just once. And said—
 
-![[Amadea-11.png]]
+***
+
+![[Amadea, Sonata of the Violet Empress.png]]
 
 [Title Card Insert Saying "Amadea: Sonata of the Violet Empress"]
+
+_A solitary dark figure is walking over a shattered reality, beneath which some impossible luminous kingdom/tree/future appears to exist. The crystals are a crown, and its reflection becomes the waterfalls of the surreal basin._
+
 ### Act 1: The Void in the Crown of Dying Static (Chapter 1)
+
+#### Chapter 1 — The Void in the Crown of Dying Static
 
 _Movement 1: The Dream | Score I: A Ballad Before Iridia_
 _Act 1: The Void in the Crown of Dying Static_
@@ -164,7 +175,7 @@ Four syllables and a cruel joke abandoned to a world of dying static; whether it
 
 A sudden cascade of explosions flared right where her mother should have been.
 
-The cinders shook at the tail of the cart. Then light — too much light — and the memory suddenly stopped to nothing but the ringing sound in her ears.
+The cinders shook the tail of the cart. Then light — too much light — and the memory suddenly stopped to nothing but the ringing sound in her ears.
 
 For a fractured moment, the blinding light etched the shadow of a reaching arm into the wet cobblestone outside as a dark, permanent stain on the ruined bank.
 
@@ -205,6 +216,8 @@ The sudden movement made her realize there were more children with her, or at le
 The static sound was at its most overwhelming. Amadea let the faces, the fire, and the silhouettes all blend into a single shadow that dissolved into it.
 
 It was a pure, consuming white fog until everything went blank.
+
+***
 
 The next time Amadea opened her eyes, she was in a different cart now.
 
@@ -418,9 +431,11 @@ From the distance, a loud sound arrived.
 
 He followed her stare as she was caught in something like wonder. If not for the destruction that every detonation meant, it could almost be called beautiful.
 
-The cascades of light that had taken everything began again. 
+The cascades of light that had taken everything began again.
 
-One by one they all began with a whistle.
+One by one they all ignited with a whistle.
+
+A whistle that used to be someone.
 
 _Boom_
 
@@ -435,6 +450,8 @@ _Boom_
 Then another. Pale gold, with a tighter crown — a sudden, sharp star of light which blossomed in geometric patterns until it became a sphere. It held its shape longer than the first, every filament distinct, ordered, radiating clean and bright before the edges drifted into slow, glittering arcs.
 
 The shockwaves moved through the bedrock, shivering up the iron wheels of the caravan and the coat draped over her knees.
+
+The sound resonated throughout her whole body.
 
 She looked at Artus. His face was lit in amber, then gold, then rose — cycling with the valley. For a moment, looking at him, she saw the color of candle flame.
 
@@ -496,6 +513,212 @@ The wheel’s rut, the coat over her knees, Artus’ shoulder against hers, all 
 
 “Amadea…” she mumbled.
 
+#### White Interlude 1 | The Name of a Crown
+
+_Kzzzzzt._
+
+**[A fissure… In static…]**
+
+_“—if geology is psychology, and geology is topology—”_
+
+**[Three clots of white noise… A carrier wave…]**
+
+_“—is psychology topology—?”_
+
+**[A voice, a frequency… A tether trying to reach through…]**
+
+A wash of sourceless, cold white light spills through the visual grain.
+
+An enigmatic silhouette steps into view, carrying a thought mid-sentence; he wears an extravagant black-and-white coat, lagging a half-step behind him as though space itself were still deciding where to place the fabric.
+
+_“—but why psychology?—”_
+
+The figure suddenly stops. He tilts his head at a sharp lateral angle, tracking an invisible color sliding along the upper periphery of the frame.
+
+_“Wait! What is that?”_
+
+His hands thread rapidly over the coat until they grab a formless mass from the inside of a pocket.
+
+_“Alpha, are you seeing this!? What in the name of the Loom—”_
+
+He throws the mass against the wall, gaining shape as it travels until it curls into a ball of white noise.
+
+The white clot hits the seam of cold light.
+
+_Kzzzzzt._
+
+**[Signal lost — Reconnecting…]**
+
+_“…Oh?”_
+
+Static cuts the distant voice into breathless fragments.
+
+_“I didn’t... expect visits from this direction… One moment...”_
+
+The voice fades into silence until a single burst of light floods the visual grain.
+
+**[The tether finally clears.]**
+
+_“There we go——!”_
+
+The vision becomes blurry.
+
+_“No—— wait… still slipping off-key… sorr— let... me…”_
+
+A Beat.
+
+***
+
+_Ring._
+
+A tuning fork strikes against the edge of nothing, ringing out as a glass bell dropped onto the floor before being numbed and swallowed into deep snow.
+
+“Okay. Good…?”
+
+His trailing voice echoes shrill and thin before his silhouette fully solidifies.
+
+He turns fully toward an impossible angle of a white wall rippling with patterns of radio static, running long, ink-stained fingers across its irregular curvature.
+
+His thumb traces a seam until the marble gives out entirely into an empty void. He studies the missing architecture with polite, restless exhaustion. Satisfied that the wall isn’t listening, he turns back to the frame.
+
+His coat catches up a full second late, snapping sharply against his ankles.
+
+“Yes, good! It seems the Resonance Anchors finally stabilized into a clear signal.”
+
+He leans into the wall until his face nearly fills the aperture. As his hands thread the wall, the vastness of the cosmos comes into view.
+
+He stands on an open balcony that overlooks the gargantuan sea of nowhere; everything outside the white halls is colored in absolute dark until, leagues below, faint stars slowly drift in geometric currents across an unmapped sky.
+
+Over the upper half of his face rests something that resembles an ornate mask.
+
+Its eye-aperture swirls with the dizzying depth of a kaleidoscope — white and black, endlessly folding, like the patterns of white noise made visible through an infinitely recursive fractal.
+
+“How peculiar. How wonderfully, terrifyingly irregular.”
+
+He blinks behind the revolving prisms.
+
+“Right. Forgive my lack of presentation,” he mutters, casually flicking a speck of luminous frost from his lapel. “I was, ah, not anticipating company from beyond the threshold.”
+
+Anticipating judgment, he brushes his sleeves with nervous elegance as several luminous clots of white noise shed from his wool and tumble into the dark below.
+
+“Nor did I plan — or know — that a listener could force an ear through the curtain. But when the impossible knocks, who else but the white keeper of the in-between nowhere is obliged to answer?”
+
+He executes a crisp half-bow, presenting himself to the void beyond.
+
+“Now, you are probably wondering who is writing this on the other side.”
+
+A faint shimmer passes across the reflections of his mask, as if a distant memory threatens to surface. His shadow stays perfectly upright behind him for two full seconds before finally catching the cue and bending at the waist.
+
+_“Good. That is the correct response.”_
+
+A buzzing harmonic, pitched just beneath his spoken voice, echoes through the marble floor before his lips move again.
+
+“Let us call these interludes. It seems appropriate for a score.”
+
+He stands upright again, recovering his unique posture and twitching his head around to look where the sound bounces off each curved white wall.
+
+“My name is of no particular importance. Names, titles, Legends — as a small girl by the river will one day learn — are cages built by those consumed by the weight of their own fear, and I have been free of fear for longer than Arcanoria has had a sky. What matters is what I do.”
+
+He pivots sharply on one heel, his coat flaring outward, shedding more loose flakes of frozen white noise in a wide, parabolic fan that hangs suspended in mid-air long after his boots have planted.
+
+_“I keep the ledger.”_
+
+The buzzed carrier wave speaks the declaration a breath ahead of his mouth. As the words settle, he raises an ink-stained index finger, striking an absurdly extravagant pose against the pitch-black backdrop of the balcony.
+
+“Every Consciousness that has ever burned bright enough to bend the Firmament — every soul that loved past the point of reason, every mind that broke and rebuilt itself into something the universe had not heard — I write them down.”
+
+He clasps his hands behind his back. The frozen coat finally remembers gravity, dropping against his legs with a crisp rustle.
+
+“Not because anyone asked me to. But because the alternative is silence, and silence in a universe built on sound is the only true death.”
+
+He conjures an archival slate from a cloud of dust and light, holding it like a monument in a dead square, before he casually throws it into the vast sea of nothingness below the balcony.
+
+As it falls, it fades into a trailing tail of motes and white specks. Seeing it fully vanish, he buries both hands into his pockets.
+
+His shadow blinks, hesitates, then shoves its hands into its own pockets a heartbeat late.
+
+_“Anyway, I am getting carried away, as always.”_
+
+The background hum resolves into a single, clean tone. He steps directly to the boundary of the transmission, his lens focusing down the barrel of space between the balcony columns.
+
+“Instead — I see you have found your way here from somewhere even I cannot see clearly.”
+
+He adjusts the housing of his mask, the gears softly clicking as the kaleidoscope tightens its internal spirals.
+
+“Somewhere beyond the Infinite Void, past all of the noise, from… a place that seems coherent enough before anything struck the first note…?”
+
+A translucent after-image of his face hangs suspended in the void, mouthing the words as static a split-second before his physical jaw forms them:
+
+_“Incredible that she has such a power.”_
+
+A Beat.
+
+A squelching, doughy squeak breaks the silence near his boots.
+
+From the milky void beneath the balustrade, a pale, cylindrical creature waddles into the light.
+
+It resembles a plump, rounded marshmallow molded from condensed starlight, with short, stubby limbs and two glossy dark dots that blink in unhurried, milky wonder. Its doughy base squishes with every step, its semi-translucent hide pulsing with warm teal candlelight as it sniffs the ragged edge of the static tear.
+
+“If you truly are watching from beyond the veil,” he sighs, his trailing voice shifting to a conspiratorial rasp, “you are likely wondering what all of these ‘Beats’ are.”
+
+Two more marshmallow sprites of subtle hues of pink squeeze out from the seam beside him, warbling miniature, flute-like chirps that harmonize sweetly with the transmission’s electrical hum.
+
+“They are the basic measure of time tracking in Arcanoria and, if my vision doesn’t fail me, roughly equate to what you would consider 3.38 seconds. Indispensable for measuring the dynamics of music, and just as useful for the resting pauses in the score.”
+
+The first teal sprite bumps affectionately into his ankle. He nudges it away with the toe of his boot, but the creature merely compresses into an ecstatic oval, rolling happily back against the coat at his waist.
+
+“They are also called breaths, because it is exactly how long it takes for the human body to inhale and exhale in an unhurried resting state. Usually, at least — everyone’s tempo carries its own private friction.”
+
+Three more plump cylinders, cream yellow, light blue, and velvet purple, tumble from the static grain, huddling in a glowing cluster around the seam, their squishy bodies piling atop a mosaic of one another like rising loaves.
+
+One of the pink hues begins nibbling curiously on the trailing hem of his delayed coat.
+
+“Sorry — give me one moment.” He groans, stooping to scoop the leading teal marshmallow into his palm.
+
+“Can all of you wandering sprites behave for five measures!?”
+
+He sets the creature three paces back, only for two others to bounce across his laces like over-proofed dough.
+
+_Kzzzzzt._
+
+“It seems I am losing the Coherence of the tether.”
+
+He straightens with frantic speed, though his left shoulder takes an extra second to snap back into alignment with his torso.
+
+“Anyway, I promise I will explain the Beats in detail later. Consider these interludes my private margin notes between the acts. Try deciphering the rest of the time-tracking score on your own; the patterns are already written in the dust and the marrow of this world.”
+
+He shifts into another enigmatic, yet equally extravagant pose, gently batting away a wandering purple marshmallow with his sleeve.
+
+“I’ll give you a hint: there may be no seconds, minutes, hours, months, or years in Arcanoria, but we have equivalents for each that are surprisingly familiar to your calendar — and time is always sung somewhere by the ecosystem, in both its core physical and magical form.”
+
+A Beat.
+
+“The entire architecture is formally tied to Cosmic Motion and the sacred numbers of creation: 3, 4, and 7.”
+
+_Kzzzzzt._
+
+The visual grain begins to chew through his outline, fraying his sleeves into jagged teeth of white noise. The wandering sprites scatter in a miniature panic, dissolving into bright blurred sparks that skip across the white hall.
+
+“At last, the first Resonance has already begun — that girl, the river — she doesn’t feel the tether yet. She won’t, not for several moons. But I have logged the entry.”
+
+He lifts a quill toward the dark void, sketching a circle in the air that lingers as a burning golden halo long after his hand falls away.
+
+“I will be recording everything, whether either of us is ready.” A crooked, knowing grin tugs at the edge of his mask. “Even I am surprised, on occasion. There are things I still cannot predict — the name of a crown is one of them.”
+
+The cold white light surges violently, drowning his silhouette, the mask, and the small, rounded creatures squeaking in his wake.
+
+“So try to keep up…”
+
+His silhouette unravels into blinding snow of black veins, leaving only the disembodied sound of his voice reverberating through the glass.
+
+A single echo ripples outward, slow and rhythmic, its wave like a bell tolled across an impossibly vast starlit icy lake.
+
+“…Third Actor.”
+
+The entire structure fades to dark and into a single Beat, of silence.
+
+_— The White-Touched Archivist._
+
 ### Act 2. The First Birthday of a Starving Caravan (Chapters 2-4)
 
 #### Chapter 2 — An Awakening from Grief-Static (Act 2 | Part I)
@@ -555,7 +778,7 @@ She then noticed an ornate ring next, because the counting rhythm had led her ey
 
 The ring had a dull green band, veined faintly and interlaced with threads of light. Its center held a bright orange gemstone, drenched at the edges in the color of coal whose embers hadn’t decided whether to die or catch. Each time his ringed finger struck the silver kneepad, the vein-work of the gemstone showed itself.
 
-It was captivating; it pulsed with every tap, like something breathing inside the fading crystal in a soft yellow-cream light. And each pulse landed at the exact same place in her chest — a low, physical anchor of both light and sound, dragging her one Beat at a time back into a body she had half-forgotten was hers.
+It was captivating; it pulsed with every tap, like something breathing inside the fading crystal in a soft yellow-cream light. And each pulse landed at the exact same place in her chest — a low, physical anchor of both light and sound, dragging her one breath at a time back into a body she had half-forgotten was hers.
 
 “Six.”
 
@@ -603,9 +826,11 @@ _Click._
 
 Warmth. She realized what she was missing.
 
-Artus was not here.
-
 The thought arrived at the same time as the clicking.
+
+A Beat.
+
+Artus was not here.
 
 Her eyes moved before the rest of her caught up, searching the dark for the shape that was last supposed to be beside her.
 
@@ -919,7 +1144,7 @@ The Pulse answered.
 
 His hand movement was followed by the sound of chimes echoing from nowhere, rhythmic, almost too harmonized with the sound of wind, which almost began to howl until it became a single clear note, and then light.
 
-A clean ray burst from the ring in a contained flare, and from that flare, something else condensed in mid-air. It was a cloud of gold-amber luminance, with threads folding inward to white until they found a spine, a body, and a wooden throat.
+A clean ray burst from the ring in a contained flare, and from that flare, something else condensed in mid-air. It was a cloud of gold-amber Luminance, with threads folding inward to white until they found a spine, a body, and a wooden throat.
 
 It was the same spectacle as the celestial astrolabe had done earlier when catching the stars in moonlight, but this time it wasn’t shimmering with slight threads. Instead, these strings settled in light and became an oak-worn cello that stood where there had only been air.
 
@@ -981,7 +1206,7 @@ She felt it before she understood it — the way the outside sounds went quiet, 
 
 Only the cello’s breath and Artus’ soft practice with the lute-stick remained sharp.
 
-She thought this was what Corvin had called a cymatics field earlier, a barrier as thin as a veil, only of listening to the resonance of the instrument, not of stone.
+She thought this was what Corvin had called a cymatics field earlier, a barrier as thin as a veil, only of listening to the Resonance of the instrument, not of stone.
 
 But before she could make more sense of it, Artus began.
 
@@ -992,7 +1217,7 @@ _Act 2: The First Birthday of a Starving Caravan_
 
 _Resonance | Key of Attunement_
 
-“Act I: The Gold of Silent Stars,” he introduced, grabbing a scrap of cloth as a cape and prop beside the stick he called a lute.
+“Act I: The Gold of Silent Stars,” Artus introduced, grabbing a scrap of cloth as a cape and prop beside the stick he called a lute.
 
 The crowd of children watched in awe, wide-eyed, as an ocean of sparkles flickered in a dance against the camp’s firelight.
 
@@ -1000,7 +1225,11 @@ The oldest formed a crescent at the back, deep as the sea floor, their coats pul
 
 Kay slipped in from beyond the cymatics field, its prismatic sparks swirling thin like smoke around him as he passed. He leaned back against a crate, arms folded, smirking. Corvin kept his eyes shut, holding the baseline steady in the perfect focus of his movements, the ring on his finger pulsing to the rhythm’s count.
 
-Artus’ voice rode Corvin’s low line like a second string, bright over dark, as he began to sing:
+As the song took over the camp, the resonant veil translated their phantom notes into acoustic gold. Amadea closed her eyes; she was transported somewhere else.
+
+Tonight, even the dumb stick Artus held was no longer wood; it was a real lute.
+
+The first plucks began to sound, and Artus’ voice rode Corvin’s low line like a second string on another cello, bright over dark, as he began to sing.
 
 _“A nameless boy beneath a solemn sky,_
 _Was flung to starving wolves and left to die._
@@ -1021,7 +1250,7 @@ Artus shifted his pose and covered his nose to speak in a nasal tone.
 
 “They all ran away scared with their tails curled so high up it changed the pitch of their own voice!” he said mockingly.
 
-A ripple of muffled laughter passed around the fire. Even the coughing boy managed a short, cracked sound that might have been a chuckle. As he saw this, Artus smiled and shifted to a softer register, echoing with his lute-stick as percussion to Corvin’s pattern in a higher, fragile counterpoint, and sang again:
+A ripple of muffled laughter passed around the fire. Even the coughing boy managed a short, cracked sound that might have been a chuckle. As he saw this, Artus smiled and shifted to a softer register, echoing with his lute as percussion to Corvin’s pattern in a higher, fragile counterpoint, and sang again:
 
 _“He tracked cloaked pilgrims through the hushed chills,_
 _A phantom on the wide, unyielding hills._
@@ -1029,13 +1258,13 @@ _A phantom on the wide, unyielding hills._
 _So silent was his step upon the ground,_
 _The gold of the Aurean Winds begged for a sound.”_
 
-“He walked at such a distance with only the company of the wind,” Artus added, holding high his stick to a mock-solemn voice, “that the sky had to complain between storms and thunder for him to leave.”
+“He walked at such a distance with only the company of the wind,” Artus added, holding high his lute to a mock-solemn voice, “that the sky had to complain between storms and thunder for him to leave.”
 
 “Artus,” Kay muttered, mirroring his stance from the rocks, though a smile was buried in his tone, “you are slandering the weather again.”
 
 “Hush,” Elaine whispered, one eye still half-closed as her lips shaped the trace of Artus’ words alongside him. Her fingers sketched another figure in the air as she pointed at Kay. “You’re going to break the field if I don’t focus.”
 
-Artus silenced them both with a sharp tap of his stick and continued the melody:
+Artus silenced them both with a sharp tap of his lute and continued the melody:
 
 _“He did not seek—”_
 
@@ -1053,7 +1282,8 @@ _“He did not seek the spoken words or mortal signs_
 _But heard the quiet Pulse that pumps through the Leylines._
 
 _Where others heard the dark, death in decaying bloom,_
-_He heard the symphony of stars above, the Great Harmonic Loom.”_
+_He heard the symphony of the stars above:_
+_The Great Harmonic Loom.”_
 
 The veil around the fire thickened with each verse, shifting slightly in its prismatic colors to the hum under Elaine’s breath. For a Beat, Amadea swore the light of the flames dimmed at the edges, as if the legend beyond the circle had taken a step in to join them.
 
@@ -1061,7 +1291,7 @@ The veil around the fire thickened with each verse, shifting slightly in its pri
 
 “He did not listen with these. To feel the world, it isn’t done with the body. Magic is felt only with whatever’s underneath.”
 
-“His fortune turned,” Artus went on, “on a day that should never have belonged to fortune at all.” The lute-stick dropped to a near-whisper, letting the cello carry.
+“His fortune turned,” Artus went on, “on a day that should never have belonged to fortune at all.” The lute dropped to a near-whisper, letting the cello carry.
 
 Corvin’s baseline slid into a minor chord, and as the bow pressed harder, Artus’ voice dropped, and the melody turned grim. Amadea felt her skin prickle at the sudden chromatic shift that echoed in the cinders:
 
@@ -1077,7 +1307,7 @@ _All the injustice just to sentence his will to die.”_
 
 “And no judges,” Kay added under his breath. “Don’t forget judges.”
 
-Artus pointed the neck of his stick at him without breaking rhythm, and the song rose again, louder now:
+Artus pointed the neck of his lute at him without breaking rhythm, and the song rose again, louder now:
 
 _“But from the dark, fate itself changed_
 _The storm of the winds had led him there._
@@ -1088,7 +1318,7 @@ _And shattered the tribunal with just one vow he’d make._
 _Their cruel chains, courts, and laws were monsters to hunt._
 _And from the wreck, it rose an indomitable trust.”_
 
-He snapped his fingers once. “The whole trial shook at their own disgrace, and through Aurelian the chains forgot how to exist,” Artus said, punctuating the remark by snapping his prop stick in half and tossing it into the campfire.
+He snapped his fingers once. “The whole trial shook at their own disgrace, and through Aurelian the chains forgot how to exist,” Artus said, punctuating the remark by snapping his prop lute in half and tossing it into the campfire.
 
 “Together, they ran. And in the open air, the golden winds caught up to them once again, and on a desolate clearing, Daedalus gave the nameless boy the one identity that would outlive them both—”
 
@@ -1144,7 +1374,7 @@ Her fingers found his.
 
 Amadea uncurled her fist and reached up. She gripped Artus’ palm firmly, actively anchoring herself as she climbed up beside him.
 
-At the contact, a soft smile broke across Artus’ face. He opened his eyes, his grip steady and sure as he helped her onto the stone. Still holding her hand, he raised it upward. He let his voice fall into a triumphant, melodic whisper to deliver the final lyric:
+At the contact, a soft smile broke across Artus’ face. He opened his eyes, his grip steady as he helped her onto the stone. Still holding her hand, he raised it upward. He let his voice fall into a triumphant, melodic whisper to deliver the final lyric:
 
 _“Two outcasts in a ruined land, rejected and alone.”_
 
@@ -1494,7 +1724,9 @@ When the memory blurred, or when the weight became too tangible, she left him to
 
 She moved toward the third cart below, intuition guiding her through the dark to the last cart she hadn’t seen. Dawn was barely rising, faint sunlight seeping in rays through the branches of the tallest trees.
 
-Amadea was halfway down the hillside steps when she heard dissonance. It was a low, wrong sound threading through the encroaching quiet. It filled the air like the chimes from before, but thin and rattling — like something dragged over broken glass.
+Amadea was halfway down the hillside steps when she heard dissonance.
+
+It was a low, wrong sound threading through the encroaching quiet. It filled the air like the chimes from before, but thin and rattling — like something dragged over broken glass.
 
 A growl of pure hunger.
 
@@ -1502,23 +1734,25 @@ She turned.
 
 It came out of the tree line, slow and stiff-legged. Another creature that looked like an animal. Nothing like the white buffalo. Wrong.
 
+Amadea’s pulse climbed to her throat before her mind could catch up to why.
+
 It had a long snout, its ribs showing through matted, patchy fur that almost melted away from its bones. Its ravenous eyes fixed on her with the flat, singular focus of a thing that had not eaten in longer than it could remember.
 
 With the last fragments of its reasoning, it decided she would do.
 
-It crept closer to the light. It was almost a wolf, but deeply disturbing in both flesh and sound. The core of its dissonance was a black sphere violently encrusted in the exposed ribs at the center of its chest.
-
-Amadea’s pulse climbed to her throat before her mind could catch up to why.
-
 She felt her mouth go dry as her hands turned to ice.
 
-Then a second screech began underneath it — faint at first, then rising. That old, familiar sound bled back in: the static. The buzzing nothing that had swallowed her whole after the river. The white noise that distorted the edges of her vision. It flooded her ears just as the creature’s muscles coiled to lunge.
+It crept closer to the light. It was almost alive, but deeply disturbing in both flesh and sound. The core of its dissonance was a black sphere violently encrusted in the exposed ribs at the center of its chest.
 
 She couldn’t move.
 
-Her eyes were transfixed in a tunnel vision that narrowed out the sight of everything but the fangs of the horror closing the distance. She couldn’t hear anything over the roar of her own unraveling mind.
+Her eyes were transfixed in a tunnel vision that narrowed out the sight of everything but the fangs of the horror closing the distance. 
 
-The static clouded all her senses, as if it had never truly left, not even through the Ballad of the previous night.
+A second screech began underneath the rattle — faint at first, then rising. That old, familiar sound bled back in: the static. The buzzing nothing that had swallowed her whole after the river. The white noise that distorted the edges of her vision. It flooded her ears just as the creature’s muscles coiled to lunge.
+
+She couldn’t hear anything over the roar of her own unraveling mind.
+
+The static clouded all her senses, as if it had never truly left, not even through warmth of the Ballad from last night.
 
 She braced herself for the worst. Tears began to flow.
 
@@ -1570,7 +1804,11 @@ He collapsed the cello back into his ring with a flick of his wrist and looked a
 
 “The world always takes,” he said. “The answer is to take back, Amadea.”
 
-“Never forget that.” His words lingered in the cool air. As he noticed her breathing begin to calm, he lifted the crystalline object in his hands.
+A Beat.
+
+“Never forget that.” 
+
+His words lingered in the cool air. As he noticed her breathing begin to calm, he lifted the crystalline object in his hands.
 
 “This is a Rose Seed. It’s the mourning the world itself makes for departures. I’m sorry you had to see this part of the world too, but it’s as true as the music I played yesterday.”
 
@@ -1652,7 +1890,7 @@ Artus quietly determined that whatever he played next would be flawless. It woul
 
 #### Chapter 4 — The Symphony of War for an [[Auric Peach]] (Act 2 | Part III)
 
-##### 4.1 First Bar | Exposition
+##### 4.1 The Fall of Aberchord | Exposition
 
 _Movement 1: The Dream | Score I: A Ballad Before Iridia_
 _Act 2: The First Birthday of a Starving Caravan_
@@ -1775,7 +2013,7 @@ In a single Beat, the heel of his boot folded the soil shut with a second sweep 
 
 He stood. The grief of his face lasted exactly as long as it took Amadea to rise to meet Artus’ silent gaze.
 
-“Pack. Everything. Go.” Kay said as a final order.
+“Pack. Anything. Go.” Kay said as a final order.
 
 The adults moved like people who had done this before and still hated how well they knew the rhythm. Their movements hurled the crates into the carts that came for what might crack, but were still ruthless in their efficiency. Kay even dismantled the entire campfire and the makeshift ramps in a flash of unpredictable movements.
 
@@ -1783,7 +2021,7 @@ Amadea was not a ghost. She carried whatever was shoved in her arms and into the
 
 It was Elaine who stopped first.
 
-Corvin called her to review the exit route. They had a rapid exchange of words that Amadea could barely understand. It kept ongoing back and forth until the entire conversation halted abruptly.
+Corvin called her to review the exit route. They had a rapid exchange of words that Amadea could barely understand. It went back and forth until the conversation halted abruptly.
 
 In the sudden silence, Amadea had a clear look at Elaine.
 
@@ -1897,7 +2135,7 @@ Elaine flinched as if struck.
 
 She was suffocated by the weight of his grief and her own guilt. Pushed to the brink, the raw emotion overwhelmed her hands, as they rose to aim at the yellow-cream gem that flickered before conscious thought could stop it.
 
-Elaine shot a lance of the same refracting luminance that had woven the veil over the cymatics field. It sliced the dark, grazing Corvin’s cheek by a hair’s breadth.
+Elaine shot a lance of the same refracting Luminance that had woven the veil over the cymatics field. It sliced the dark, grazing Corvin’s cheek by a hair’s breadth.
 
 The white, yellow light shifted to red in his skin. He didn’t even react to the blood seeping at the edge of the wound. His jaw clenched hard against a fury he had no room left to swallow.
 
@@ -1909,7 +2147,7 @@ A Beat.
 
 Amadea blinked. Kay was already there.
 
-He had stepped between them, raising his now-crystallized polearm in a low, defensive stance — he was the interruption that made it physically impossible for either to bypass.
+He stepped between them, raising his now-crystallized polearm in a low, defensive stance—he was the interruption that made it physically impossible for either to bypass.
 
 “Hands off her, big man,” Kay said. His velvety voice was quiet, and the quiet was arguably worse than the earlier shouting.
 
@@ -1919,7 +2157,7 @@ His stance shifted every so often with slight, calculated movements that mirrore
 
 “But you don’t get to scream at her. On my watch, you won’t use that coat alongside the weapon you were readying.”
 
-He glanced at the patchwork lining. Over his alert eyes, a trace of profound recognition passed behind his martial pose.
+He glanced at the patchwork lining. A trace of profound recognition passed over his alert eyes, beneath his martial pose.
 
 “You want to wear the dead? Fine. I understand that. I don’t agree with it, but that’s only your burden to carry.”
 
@@ -1947,7 +2185,7 @@ Kay fully relaxed his pose. The velvet of his tone regained its familiar, anchor
 
 “Well then, let’s get ourselves back. Violence is over. I go first.”
 
-He raised his prismatic polearm over his head. It caught and reflected the dying light that kept pressing closer as the sun was about to set until it faded to nothing.
+He raised his prismatic polearm over his head. It caught and reflected the dying light that kept pressing closer as the sun neared sunset and faded to nothing.
 
 “Here’s what we’re going to do. You’re going to stop screaming at my partner. She’s going to stop throwing lights at your face. And I’m going to stand here — between the two of you — because someone has to.”
 
@@ -1975,7 +2213,7 @@ _Even the people who protect you are one wrong word away from breaking._
 
 The bitten, cold wind caressed Amadea’s face, tender and wrong.
 
-It dragged the tang of its thin and metallic undertones as they howled rhythmically against her nose.
+It dragged the tang of its thin, metallic undertones as it howled rhythmically against her nose.
 
 They had walked alongside the white-furred buffalo through a gallery of dead trees until the clearing ended. The caravan reached the rim of a cliff where the land broke and gave way to a sunken basin of laddered ruins. The landscape painted a valley that was as much a maze of jagged rock and splintered tree carcasses as it was half-drowned ruins.
 
@@ -1983,7 +2221,7 @@ The area was one of shattered terraces, sloping toward an open sky swallowed by 
 
 “We have to cross that,” Elaine muttered over glittering eyes, hugging the pelt at her neck. Her voice had gone flat, stripped of its warm performance. “No way around. The flood took the old path.”
 
-“And the hounds took whatever was left of these ruined outskirts,” Kay muttered.
+“And the hounds took whatever was left of these ruined outskirts,” Kay sighed.
 
 The precipice was a tomb for a bygone settlement. It was coated in a thin layer of golden dust, claimed by moss much older than Amadea, and perhaps than any of the adults of the caravan. Only eerie black walls remained, rejoined with nature, gilded yellow and silver flowers pushing up through the cracks every so often.
 
@@ -2035,31 +2273,45 @@ As the words left his lips, he kissed the wounded hand of Elaine.
 
 She didn’t answer him with words. Something in her chest loosened at the touch. She turned her hand over in his, just once, and stepped away from him toward the edge again.
 
-This time, she did not reach for a smile. She let it wash over to a solemn expression. She raised both arms in a theatrical pose, forming a V that mirrored the wings of her cap. The teal vein-work of the gem ignited, steady and pure.
+This time, she did not reach for a smile. She let it wash over to a solemn expression. She raised both arms in a theatrical pose against the crushing dark of the forest, forming a V that mirrored the wings of her cap. She pointed the figure toward the cold canopy of dead trees. The teal vein-work of the gem ignited, steady and pure.
 
 The Pulse answered.
 
-As she lowered her arms, the sound of rhythmic chimes harmonized with the howling winds. It ran clear, and then light.
+As she lowered her arms, rhythmic chimes harmonized with the howling winds. It ran clear, and then light.
 
-From the yellow-cream edges a ray burst in a flare that condensed mid-air in a cloud of gold-amber, with ethereal threads similar to Corvin’s cello, but shaping a smaller, gentler figure, from thin strings to a pale wooden throat.
+From the yellow-cream edges, a ray burst in a flare that condensed mid-air in a cloud of gold-amber. Its ethereal threads were similar to Corvin’s cello, but shaped a smaller, gentler figure, from thin strings to a pale wooden throat.
 
 The light became a violin cloaked in white.
 
 When the instrument became real, she rested it in the grass beneath her, and as she stood up, she curled both of her hands and aimed them in front of her chest.
 
-Not toward the gem. Not toward the violin. Toward nothing at all — perhaps toward the cold air itself. Her fingers drew slowly as if gathering the thread of an invisible loom. This time, her gem flickered again, but of light devoid of the dark edges of dissonance.
+Not toward the gem. Not toward the violin. Toward nothing at all — perhaps toward the cold air itself. Her fingers drew slowly as if gathering the thread of an invisible loom. This time, her gem flickered again, but with a light devoid of the dark edges of dissonance.
 
-Her gem pulsed once, twice, and the teal became a flare.
-
-A faint figure rose off her palm in a single unbroken filament that condensed into two wings. She cupped it between her open hands, with feathers etched in the texture of her white fur.
+Her gem pulsed once, twice, and the teal became a blinding flare.
 
 “Go on, singer of Luminance,” she whispered, her voice flowing smooth and melodic, stripped bare for the first time all night.
+
+A faint figure rose off her palm in a single unbroken filament that condensed into two wings. She cupped it between her open hands, with feathers etched in the texture of her white fur.
 
 “Fly far, and thread anew this world. Let me see through your eyes what lies ahead.”
 
 She released it.
 
-The bird-flare launched in a narrow arc, skimming the cliff’s edge before plunging into the valley as a ray of light. Its body elongated as it flew until it became more thread than creature.
+A colossal figure erupted from her hands — no longer a faint spark. It became a massive, towering entity of pure, ethereal teal light. The bird-flare unfurled its wings of searing brilliance, bathing the dead trees and the ruined stone in a breathtaking, oceanic glow.
+
+Amadea stood frozen in the blast of Luminance.
+
+***
+
+![[Elaine-1.png]]
+
+***
+
+The reflection of this massive spirit swallowed her vision entirely; it illuminated her wide, unblinking eyes from within. In that breathless moment, the radiant light banished every shadow from her face.
+
+“Pure Light,” she said to herself.
+
+The bird-flare launched in a narrow arc, skimming the cliff’s edge before plunging into the valley as a ray of light. Its massive body elongated as it flew until it became more thread than creature.
 
 The light exposed the rot below.
 
@@ -2067,7 +2319,7 @@ It became a living flare tracing moss, dead wood, golden dust, and ribcage.
 
 Heartbeats — too many heartbeats — their black dissonance cores were pulsing in the shadows as the flare revealed starved hounds by the dozen. A hundred hungry eyes tracked the light, yet it flew high enough that none of them struck at the bird. They only followed, teeth bared, until its threads thinned and dissolved into nothing.
 
-The light thinned until it dissipated as a path of teal motes, swirling in patterns.
+The light attenuated until it dissipated as a path of teal motes, swirling in patterns.
 
 Silence did not return.
 
@@ -2121,7 +2373,7 @@ Inside, the world narrowed to the beams, crates, and the signature ghost-smell o
 
 Corvin rushed to the metal hatch of the second floor, throwing it open to access the upper deck. Chimes echoed soon after, followed by the flare that signaled that Corvin had also invoked his instrument.
 
-Amadea followed the light in curiosity where Corvin went.
+Amadea followed the light, curious where Corvin went.
 
 She climbed up the ladder; it was steady in its roughness but strong enough to have a good grip.
 
@@ -2151,7 +2403,7 @@ She asked in a smooth voice against the creeping wind, her knuckles clenched aro
 
 “Atonalis.”
 
-The word stopped Corvin in his movements.
+The word stopped Corvin mid-movement.
 
 He wasn’t paying attention to her so much as he was tending to his cello, but his expression shifted to a gentle, genuine smile. It was clear he didn’t expect her to remember that first encounter.
 
@@ -2161,11 +2413,11 @@ He briefly stood up. His hand rose in a single motion, patting the top of her he
 
 He regained his posture, eyes sliding past her toward the valley floor.
 
-“Yes. Atonalis. Cloths of hunger that are the undigested pain of the world — suffering that coagulates until it grows teeth, claws, and learns how to feed.”
+“Yes. Atonalis. Clots of hunger that are the undigested pain of the world — suffering that coagulates until it grows teeth, claws, and learns how to feed.”
 
 He exhaled, rigorously waxing his bow.
 
-“There are eight paths of demons. These horrors in particular are called Carnalix. They’re the shadow of starvation, likely born from whoever was consumed by the explosion from earlier.”
+“There are eight paths of demons. These horrors in particular are called Carnalix. They’re the shadow of starvation, likely born from whoever was devoured by the explosion from earlier.”
 
 He paused, the bow held steady over the strings. His smoky voice hardened into a grim, absolute tone as his memory drifted elsewhere.
 
@@ -2219,7 +2471,7 @@ Corvin’s orange ring flared, its vein-work of cream-yellow light bleeding acro
 
 The caravan plunged down the slope, diving into the pitch-black valley below.
 
-##### 4.2 Second Bar | Development
+##### 4.2 Symphony of War | Development
 
 _Movement 1: The Dream | Score I: A Ballad Before Iridia_
 _Act 2: The First Birthday of a Starving Caravan_
@@ -2258,9 +2510,9 @@ Amadea’s mouth went dry.
 
 The truth finally crossed her mind.
 
-The valley did not offer a path. It offered a gauntlet against the horrors hiding in the shadows. Snouts hovered just over archways narrow enough to shear a wheel, and terrace steps dropped into a pitch‑black abyss she couldn’t measure.
+The valley offered no path. It offered a gauntlet against the horrors hiding in the shadows. Snouts hovered just over archways narrow enough to shear a wheel, and terrace steps dropped into a pitch‑black abyss she couldn’t measure.
 
-The old ruins of a drowned town were still present, reaching up through the damp moss, like jagged claws clutching their grip on the hounds’ dissonance.
+The old ruins of a sunken town were still present, reaching up through the damp moss, like jagged claws clutching their grip on the hounds’ dissonance.
 
 _Crack._
 
@@ -2278,7 +2530,7 @@ The horde reacted immediately. As Amadea gazed toward the back, the ruin’s bla
 
 “Obstacle, left!” Elaine shouted.
 
-A collapsed spire. Too tall to climb. Too wide to outrun. It split the path in two.
+A collapsed spire — too tall to climb. too wide to outrun — split the path in two.
 
 The carts tore from one another in a jagged movement, violent enough to dodge the monolith. Corvin’s cart peeled wide. Kay’s fortress cut tight along a crumbling lip where the ground fell away.
 
@@ -2292,7 +2544,7 @@ Kay.
 
 He didn’t have an instrument in hand. No, he forged an undeniable rhythm.
 
-Threads of luminance glowing faintly, then flaring bright wove through the dark — launched as bolts of defensive light from Elaine’s violin.
+Threads of Luminance glowing faintly, then flaring bright wove through the dark — launched as bolts of defensive light from Elaine’s violin.
 
 Kay met them with absolute martial precision. Every thrust of his crystallized polearm caught her light, refracting the bolts into brilliant, prismatic arcs that blinded the horde before piercing their black cores.
 
@@ -2300,9 +2552,9 @@ Elaine’s magic was giving his weapon lethal range and searing precision.
 
 He fought brutally, transforming raw slaughter into a seamless dance of strings and steel. Each of the clashes was perfectly timed to Corvin’s ticking astrolabe, a syncopation aimed at every second offbeat.
 
-It created a driving, kinetic pulse over the stiff bass of Corvin’s cello.
+It created a driving, kinetic pulse over the steady bass of Corvin’s cello.
 
-As Amadea kept hearing the light slashes, a persistent, leaden weight anchored in her stomach. The crude rhythm of the hardwood wheels. The thunder of the buffalo run. The clear crunch of Kay killing. It wasn’t just noise: it was percussion.
+As Amadea kept hearing the light slashes, a persistent, leaden weight anchored in her stomach. The crude rhythm of the hardwood wheels. The thunder of the buffalo run. The clear crunch of Kay killing Atonalis. It wasn’t just noise: it was percussion.
 
 They were making the world sing, and the world was answering back in a visual spectacle that turned all of the violence into magic arts.
 
@@ -2320,7 +2572,7 @@ He was crouched on his own stairs on Kay's cart, his mouth parted open, complete
 
 A clipped shout died in the howling wind.
 
-The ruin‑shadow tore open where the formation had been whole a breath before. Another Atonalis — bloated, wrong, twice the size of the starved hounds — lunged straight for Corvin’s exposed side.
+The ruin‑shadow tore open where the formation had been whole a breath before. Another Atonalis — bloated, uncanny, twice the size of the starved hounds — lunged straight for Corvin’s exposed side.
 
 No time for the words to reach him.
 
@@ -2334,13 +2586,15 @@ Ozone burned the back of Amadea’s throat from two carts away. The massive houn
 
 “You owe my light one!”
 
-Elaine panted, the shout that had died amidst the chaos now echoing, her sweat shining against the snapping winds. “I expect it repaid by midnight.”
+Elaine panted, the shout that had died amidst the chaos now echoing, her sweat shining against the snapping winds.
+
+“I expect it repaid by midnight.”
 
 “Precise as ever, and equally sharp about it!”
 
 Corvin barked, turning for a single Beat to process the save.
 
-Elaine let out a soft, breathless laugh. He rejoined the melody, and the cello kept its note resonant, deep, and unyielding.
+Elaine let out a soft, breathless laugh. Corvin rejoined the melody, and the cello kept its note, as deep and unyielding as his posture.
 
 They were halfway through the valley.
 
@@ -2358,13 +2612,13 @@ A sudden pull dragged at Amadea’s leg.
 
 She glanced down. Two other faces were caught in the trance on the stairs, looking through the slatted, arched windows to the show right outside.
 
-The pressure grew. One of the nameless children climbed halfway up the stairs, grabbing Amadea’s leg to find purchase.
+The pressure grew. One of the nameless girls climbed halfway up the stairs, grabbing Amadea’s leg to find purchase.
 
-She coiled her other leg on one of the shelves until the position became steady.
+Amadea coiled her other leg on one of the shelves until the position became steady.
 
 As she moved, she kicked something that broke on the floor; it felt like a jar of charred herbs, and the scent filled the air.
 
-The two nameless children sneezed.
+The two nameless girls sneezed.
 
 Amadea let out a smirk, and the new grip was enough for both to settle just two steps beneath.
 
@@ -2382,7 +2636,7 @@ Elaine’s shout echoed through the sound of her whips.
 
 The valley walls closed in.
 
-The wide triangle could not hold. Elaine cracked the reins, forcing the carts to align. The stampede snapped into a tight, single‑file line to prepare for the narrow crevice ahead.
+The wide triangle formation could not hold. Elaine cracked the reins, forcing the carts to align. The stampede snapped into a tight, single‑file line to prepare for the narrow crevice ahead.
 
 Elaine at the front, Kay securing the middle. Corvin held the rear.
 
@@ -2390,7 +2644,7 @@ The climb began.
 
 The moment the wheels touched the incline, the cart lurched violently, but not strong enough to break Amadea’s new posture.
 
-The path upward was brutal, the jagged stone slick with damp moss. Starlight and the herd did not falter. Their massive hooves struck the rock in a punishing, resonant beat, driving the heavy hardwood fortresses upward.
+The path upward was brutal, the jagged stone turned slick with damp moss. Starlight and the herd did not falter. Their massive hooves struck the rock in a punishing beat, driving the heavy hardwood fortresses upward.
 
 When a Starved Hound lunged for the reins, Starlight thrust her massive head. Her teal‑glowing horns skewered the beast, dissolving the horror into ash before any scratch could break the stampede.
 
@@ -2412,7 +2666,7 @@ _Clang._
 
 Crystal erupted from the hardwood. Jagged, translucent walls shot upward from the wheels to the coach box, perfectly mimicking the sharp, lethal texture of his lost polearm.
 
-The barricade caught three more lunging hounds, their bodies slamming against the hardened barrier. One after another, they collapsed into piles of bodies and ribcages that attempted to reach the caravan.
+Three more lunging hounds pounced on them; their bodies slamming against the hardened barrier. One after another, they collapsed into piles of bodies and ribcages that attempted to reach the caravan.
 
 Despite the protection, however, the anchor line at the back was breaking.
 
@@ -2420,7 +2674,7 @@ The sheer volume of the horde raked the underside of the wagon. Splinters rained
 
 The monsters were breaching the perimeter.
 
-Backlit by desperate sparks, Corvin’s jaw locked. His eyes — molten, frantic — swept the ground. Then, he looked up.
+Backlit by desperate sparks, Corvin’s jaw locked. His eyes — molten, frantic — swept the ground. Then, he saw silver.
 
 His gaze found Amadea through the hatch.
 
@@ -2438,21 +2692,21 @@ A Beat.
 
 Two words suspended in the air.
 
-He opened his eyes; his gaze met his own hand, and the hand that held his bow reached the back lining of his jet‑black patchwork coat.
+He opened his eyes; his gaze met his own hand, and the other arm that held his bow reached the back lining of his jet‑black patchwork coat.
 
 He drew a knife.
 
-One swift drag across his other palm, from a single clean line, his blood welled dark, dripping copper‑bright against his skin.
+One swift drag across his palm, from a single clean line, his blood welled dark, dripping copper‑bright against his skin.
 
 His bleeding hand hit the strings; he rejoined the melody.
 
-The strings of the cello produced a low hum that was absorbed by the air. Chimes echoed from nowhere and everywhere, mixing with the chorus of the overlapping rotting voices from the horrors outside the prismatic pink crystal barrier.
+The strings of the cello produced a low hum that the air absorbed. Chimes echoed from nowhere and everywhere, mixing with the chorus of the overlapping rotting voices from the horrors outside the prismatic pink crystal barrier.
 
 A jolt cracked through the air. The blood sank into the vibrating strings.
 
 It almost shifted to golden as firelight caught the drops; each shimmer glowed on his cello as the blood sank into the wood grain.
 
-The ring on his finger pulsed. Once, twice, and deepened its color for a moment; the orange sank into a deep, rich crimson.
+The ring on his finger pulsed. Once, twice, and deepened its color for a moment; the orange sank into a wounded, rich crimson.
 
 The fire answered too.
 
@@ -2462,7 +2716,7 @@ He played with such desperate momentum that his fingertips tore open, mixing mor
 
 Amadea’s stomach froze, dread heavy enough to hurt.
 
-He is paying for this with the sacrifice of his own essence.
+_He is paying for this with the sacrifice of his own essence._
 
 That realization didn’t arrive as words. It arrived as a crushing weight, and soon after, it arrived as a new sound.
 
@@ -2482,15 +2736,17 @@ Then Kay grabbed her by the waist, and in two swift motions, he vaulted them bot
 
 “Kay—!”
 
-Her protest broke under his mouth. He replied in silence, only offering his hand underneath hers. Corvin noticed the absence; the melody settled on a new waltz, the chimes following soon after.
+Her protest broke under his mouth. Kay replied in silence, only offering his hand underneath hers. Corvin noticed the absence; the melody settled on a new waltz, the chimes following soon after.
 
-They danced over the chaos, a waltz as Elaine turned, three steps forward, two steps backward. The lull soothed over their shared song. The crystal walls strengthened in shape as each step moved across the stage.
+They danced over the chaos, a waltz as Elaine turned, three steps forward, two steps backward. The lull soothed over their shared song. The crystal walls strengthened as each step moved across the stage.
 
-Over each spin, the arcs of light mixed on the crystal walls, refracting blinding light that kept the horrors further at bay.
+Over each spin, the arcs of light mixed on the crystal walls, refracting blinding light into singular focal points that kept the horrors further at bay. 
 
-The exit was closer — with each passing Beat, no longer a distant hope.
+That shared dance was a stronger anchor than Kay’s slashes had ever been.
 
-Through the smoke and jagged crystal walls, Corvin scanned the encroaching terrain. The crevice walls were choking the path inward, forming a sheer bottleneck of stone. His intense, weary eyes traced the high ridge, settling on a colossal dead tree perched precariously above the narrowed throat of the pass, its glimmering blue fronds swaying.
+The exit was close — with each passing Beat, no longer a distant hope.
+
+Through the smoke and jagged crystal walls, Corvin scanned the encroaching terrain. The crevice walls were choking the path inward, forming a bottleneck of stone. His weary eyes traced the high ridge, settling on a colossal dead tree perched precariously above the narrowed throat of the pass, its glimmering blue fronds swaying.
 
 His jaw set. The rhythm of the cello abruptly changed. The bassline dropped an octave, sending a low vibration into the caravan that gathered into a heavy, crushing pressure.
 
@@ -2498,7 +2754,7 @@ He was building the crescendo.
 
 On the middle stage, the waltz followed soon after.
 
-In a seamless, shared pirouette, Kay’s broad hands caught Elaine’s waist. He lifted her, an elegant, desperate motion that suspended her boots just inches above the blood‑slicked deck.
+In a seamless, shared pirouette, Kay’s broad hands caught Elaine’s waist. He lifted her. An elegant, desperate motion that suspended her boots just inches above the blood‑slicked deck.
 
 In the heart of a slaughter, they did not look at the horde.
 
@@ -2514,7 +2770,7 @@ That collision of survival became the catalyst.
 
 The prismatic pink gem on Kay’s gauntlet and the yellow‑cream gem on Elaine’s winged cap flared in perfect, blinding unison.
 
-Crystal ripped upward from the hardwood walls of the moving fortress, jutting into a blinding, bright V. Elaine’s luminance poured into it before she had even consciously reached for the spell, refracting into a light so agonizingly bright it warped the colors of the night air into dawn.
+Crystal ripped upward from the hardwood walls of the moving fortress, jutting into an incandescent V. Elaine’s Luminance poured into it before she had even consciously reached for the spell, refracting into a light so agonizingly bright it warped the colors of the night air into dawn.
 
 Their magic intertwined on the climax. 
 
@@ -2542,15 +2798,15 @@ He tracked the pendulum of the astrolabe through the swirling motes and cinders.
 
 “At Bar 16, no idea how many Pulses, but surely you see the glowing blue beneath it!”
 
-Kay released her.
+Kay released Elaine.
 
-Elaine staggered upright.
+She staggered upright.
 
 “Right! Sorry!!” she gasped.
 
-Her winged cap crooked, slender fingers trembling as she instantly threaded shimmering lines of light along the fireball’s erratic edges to stabilize it.
+Her winged cap was crooked. Her slender fingers trembled as she instantly threaded shimmering lines of light along the fireball’s erratic edges to stabilize it.
 
-“Where?” Kay shouted back, his voice booming and entirely unrepentant. “Didn’t catch that. I was busy.”
+“Where?” Kay shouted back, “Didn’t catch that. I was busy.”
 
 “Bar 16,”
 
@@ -2564,7 +2820,7 @@ Kay darted to the cart’s flank and slammed his palm against the rail. A ramp o
 
 Corvin hurled the fireball into the freezing wind. It met the ramp, caught in a siphon of air that took the exact trajectory Kay had carved through Elaine’s guided light.
 
-The ancient tree stood in a halo of pure, blinding light against the black sky.
+The ancient tree stood in a halo of blinding light against the black sky.
 
 It was the strongest flare of the entire night.
 
@@ -2592,19 +2848,19 @@ Amadea finally let the grip loose.
 
 Her skin was stiff, cold as the worn leather of her coat. A persistent weight remained in her stomach — the lingering encore to the symphony she had just survived.
 
-Its last words kept spinning in her head like lyrics.
+Its last words kept spinning in Amadea's head like lyrics.
 
 _Magic exists. It costs. And without it, tonight, the loss would have been far more than a tree._
 
 ***
 
-Falling snowflakes drifted through the clear night, swirling around the air, until the wind landed each over the grass in an insulting, quiet kind of safety.
+Falling snowflakes drifted through the clear night, swirling around the air, until the wind landed each over the grass in an insulting kind of silent safety.
 
-The blanket of white grew over the heavy, guttural pants of the buffalo’s song that faded into the murmur of the nearby stream. The caravan had ground to a halt inside a ring of pale, moss-draped stone amid the ruins of a shattered terrace, hidden in pitch-black stone.
+The blanket of white grew over the heavy, guttural pants of the buffalo’s song that faded into the murmur of the nearby stream. The caravan had ground to a halt inside a ring of pale, moss-draped stone amid the ruins of a shattered terrace, hidden in pitch-black walls.
 
 The contrast of the sealed chasm was perplexing.
 
-The breeze was gentler; instead of burning wood, it carried an aroma of the mineral earth, cold running water, and an ancient rot that painted geometric patches of golden dust across the bygone ruins, dark as dusk.
+The breeze was gentler; instead of burning wood, it carried an aroma of the mineral earth, cold water, and an ancient rot that painted geometric patches of golden dust across the bygone ruins, dark as dusk.
 
 Amadea grabbed one of the nearby stones from a wall turned to rubble. It was oddly warm from a fire that hadn’t been theirs, and the dust stuck to her fingertips, tinting her skin a rusted brass against a landscape of dead grasses shifting white.
 
@@ -2680,7 +2936,9 @@ Elaine flinched — the last of the joke drained from Kay’s face.
 
 His fingers found the burn that ran from her elbow to the heel of her hand, tracing the reddened skin hidden beneath the fur-lined sleeve.
 
-“You’re an idiot for not saying something sooner…” His thumb pressed along the tender edge as his voice fell like the snowflakes.
+“You’re an idiot for not saying something sooner…”
+
+His thumb pressed along the tender edge as his voice fell like the snowflakes.
 
 “I was a little occupied,” Elaine answered, a short laugh pulling tight at the end.
 
@@ -2690,7 +2948,7 @@ Kay made a thin smile, though his jaw held tight. His eyes remained locked on th
 
 “You liked my terrible aim when Dissonance didn’t etch its consequences into your arm.”
 
-A few steps away, Corvin pulled a small pouch from the lining of his patched coat. Inside, silver leaves flickered blue in the moonlight, faint veins of light running through the stems until they reached the tips that hung like droplets.
+A few steps away, Corvin pulled a small pouch from the lining of his patched coat. Inside, silver leaves flickered blue in the moonlight, faint veins of light running through the stems until they reached the tips, hanging like droplets.
 
 He held them between his damaged fingers, grinding the plant until it became another kind of dust — azure instead of the gold stuck to Amadea’s hands.
 
@@ -2724,9 +2982,9 @@ Kay also hauled a cracked bell from the rubble, its mouth split open as it sat a
 
 As the bell hit the dirt, Kay put a hand on Amadea’s shoulder.
 
-“Hey, can you do me a favor? Please look after her.”
+“Hey, can you do me a favor? Please look after her.” His velvety voice echoed quietly, nodding toward the stream. 
 
-His velvety voice echoed quietly, nodding toward the stream. “I need to borrow the knight for some heavy lifting.”
+“I need to borrow the knight for some heavy lifting.”
 
 Amadea nodded and exchanged her own gaze with Artus before drifting toward the water that cut along the southern wall. It ran clear over pale stones, reflecting the broken tower in a wavering strip of light.
 
@@ -2748,13 +3006,21 @@ Amadea vibrated to the rhythm of the cold, drowning in the wrongness of the dead
 
 “Are you scared? Come here,” Elaine said, her voice the only mellow beacon in the dark. “Cold water sets a knot better than warm.”
 
-Amadea sank into the grass beside her.
+Amadea sank down into the grass by the river, next to Elaine.
 
 The stream numbed her fingers and washed away the golden dust from her palms to her wrists. It was a clean kind of cold, sharper than the static that had once overwhelmed her ears.
 
-Elaine gathered the loose silver strands that had fallen over Amadea’s face and shoulders. Her hands moved with practiced care, easing knots apart instead of tearing through them. She worked one section smooth, then another, and another, until the hair lay in two neat ropes down Amadea’s back.
+Elaine gathered the loose silver strands that had fallen over Amadea’s face and shoulders. Her hands moved skillfully, gently easing knots apart instead of tearing through them.
 
-However, Amadea’s fear sat in her body rather than in her words — a void that pulled all of her attention, fixated on the broken tower. She was siphoned into a spiral that fought to a standstill the urge to look away from the ruins and the steadiness of Elaine’s presence close to her.
+She worked one section smooth.
+
+Then another.
+
+And another.
+
+Until the hair lay in two neat ropes down Amadea’s back.
+
+However, Amadea’s fear sat in her body rather than in her words — a void that pulled all of her attention, fixated on the broken tower. She was siphoned into a spiral that fought to a standstill: the urge to look away from the ruins and the steadiness of Elaine’s presence close to her.
 
 “If you ever lose your way in the dark,” Elaine whispered, “trust the person who knows exactly how to tie this knot.”
 
@@ -2778,7 +3044,7 @@ It was a bond woven into physical reality.
 
 Elaine smiled at her — warmth, even with the cold hands.
 
-“Everyone deserves order and some beauty, you too — your hair is wonderful.”
+“Everyone deserves order and some beauty. You too — your hair is wonderful.”
 
 The ruins still felt hostile.
 
@@ -2806,7 +3072,7 @@ Amadea’s silence pressed louder than any word she could’ve uttered; she only
 
 Amadea just stood silent. Elaine expected something in the words she didn’t fully know, until her hands ceased touching her hair.
 
-She stood and offered a hand to Amadea.
+She stood and offered Amadea a hand.
 
 “I have an idea. Follow me.”
 
@@ -2816,13 +3082,13 @@ They walked uphill to the caravan again, and by the time they reached the carts,
 
 Corvin exhaled, long and annoyed.
 
-“Put a face on it; it’s important! She doesn’t remember her Real Cycle Birthday,” Elaine added, then let her tone soften. “And you’re pretty reliable even when I’m not...”
+“Put a face on it; it’s important! Amadea doesn’t remember her Real Cycle Birthday,” Elaine added, then let her tone soften. “And you’re pretty reliable even when I’m not...”
 
 “Cycle Birthday, Elaine,” Corvin said. “Not ‘Real.’ There’s only one type.”
 
 “Yeah, yeah. Fine, ‘scholar of Cosmic Motion’, come here to test that theory.”
 
-He walked over, his boots dragging shallow lines in the snowy dirt. He settled into a crouch in front of Amadea and held the astrolabe in both hands.
+Corvin walked over, his boots dragging shallow lines in the snowy dirt. He settled into a crouch in front of Amadea and held the astrolabe in both hands.
 
 “Do you know the Moon when you were born?” he asked.
 
@@ -2846,7 +3112,7 @@ He waited for a response, then pressed again.
 
 She looked at him as if he kept asking whether she remembered the shape of a cloud from before the world ended.
 
-He rubbed the bridge of his nose.
+Corvin rubbed the bridge of his nose.
 
 “Right,” he exhaled. “Well, let me see what I can do. I need a strand of your hair.”
 
@@ -2898,7 +3164,7 @@ The astrolabe and the moonlight had failed to place her, yet the bruises, the hu
 
 The skies were silent — even if they were a beacon above — they never pretended otherwise.
 
-##### 4.3 Third Bar | Recapitulation
+##### 4.3 A Lie of Absolute Certainty | Recapitulation
 
 _Movement 1: The Dream | Score I: A Ballad Before Iridia_
 _Act 2: The First Birthday of a Starving Caravan_
@@ -2907,7 +3173,7 @@ _Resonance | Key of Attunement_
 
 Dawn thinned the darkness over the ruins, turning the dark walls a stark, freezing grey.
 
-Corvin and Kay cleared a patch of flattened, frost‑bitten grass between the caravan carts and the broken tower. They stood opposite each other. Kay closed his eyes. When he opened them, two prismatic poles crystallized in his hands; he threw one to Corvin.
+Corvin and Kay cleared a patch of frost‑bitten grass between the caravan carts and the ruined tower. They stood opposite each other. Kay closed his eyes. When he opened them, two prismatic poles crystallized in his hands; he threw one to Corvin.
 
 The weapons were dulled at the edges so no one would leave the practice bleeding.
 
@@ -2929,11 +3195,7 @@ _Clang._
 
 They fell into a trance of mirrored motion — step back, step in — blows crossing in intersecting lines in sharp X shapes that changed angle with subtle shifts of the wrist.
 
-“Hey,”
-
-Kay rasped between breaths, deflecting another heavy strike. His exhale fogged in the cold as he drew the clashing rods downward.
-
-“No hard feelings for earlier, right? I just had to get us moving before we got consumed.”
+“Hey,” Kay rasped between breaths, deflecting another heavy strike. His exhale fogged in the cold as he drew the clashing rods downward. “No hard feelings for earlier, right? I just had to get us moving before we got devoured.”
 
 Corvin’s pole snapped upward, tapping Kay’s wrist. The impact knocked the weapon off‑line, and Corvin lunged into the opening, halting his momentum with perfect focus.
 
@@ -2957,7 +3219,7 @@ _Clang._
 
 The dance began anew.
 
-Artus sat perched on an overturned, rusted bell, watching every shifting shadow and strike.
+Artus was perched on an overturned, rusted bell, watching every shifting shadow and strike.
 
 His hands twitched along the pattern half a Beat behind Kay’s pivots — he mirrored his stance, left foot easing back when Kay surged forward, knees dropping when Corvin lowered his weight to catch one of Kay’s swings.
 
@@ -2991,7 +3253,9 @@ _Click._
 
 Corvin glanced down at his astrolabe.
 
-“Today’s the first day of the Echo of Resonance.” He raised one scarred arm toward the clearing sky.
+“Today’s the first day of the Echo of Resonance.” 
+
+He raised one scarred arm toward the clearing sky.
 
 “To everyone who made it one more Cycle!”
 
@@ -3005,7 +3269,7 @@ Corvin executed a single, decisive motion — a crescent slash downward — and 
 
 Corvin cleared his throat, nodding at Artus and Amadea.
 
-“I have a task for your birthday. There’s an outpost right down the hill, where the river meets land. They trade for scrap. We need supplies for a feast.”
+“I have a task for your birthday, Amadea. There’s an outpost right down the hill, where the river meets land. They trade for scrap. We need supplies for a feast.”
 
 Artus’ face lit in a spark.
 
@@ -3025,15 +3289,17 @@ The words fell flat past Artus; his mind was already somewhere else, soaring in 
 
 When his attention came back to earth, he spoke with sweeping grandeur.
 
-“The continuation of the Mythical Virtuoso of Resonance!” he declared, striking a heroic pose. “We shall bring back enough fruit for Act II.”
+“The continuation of the Mythical Virtuoso of Resonance! For Amadea!” he declared, striking a heroic pose. “We shall bring back enough fruit for Act II.”
 
 Corvin rubbed the bridge of his nose, the corner of his mouth twitching.
 
 “Props, then,” he said. “For the Ballad you left unfinished.”
 
-They walked downhill, following the winding path of the river. Some of the snow had begun to recede, revealing stubborn patches of grass with a green that wasn’t fully dead.
+It was warmth, until the warmth became the sound of running water.
 
-They marched with purpose.
+They walked downhill, following the river's winding path. Some of the snow had begun to recede, revealing stubborn patches of grass with a green that wasn’t fully dead.
+
+They marched with the weight of purpose.
 
 Artus held in one hand a folded paper with Corvin’s promise, in the other a pouch of blue‑veined leaves. Amadea carried a cloth bearing an intricate design of circles and seven‑pointed stars, white with a large golden embossing — the Auric Order’s sigil, cleaned as best as Corvin could manage.
 
@@ -3043,7 +3309,7 @@ It was a clear line that began below and ended above — a line that somewhere i
 
 Soon after, the outpost’s gate loomed into view.
 
-It was another tower, mirroring the ruined architecture of the caravan camp, but this structure remained firm and fortified. Grey stone walls extended over a wooden bridge that groaned softly against the edge of a still lake, the air saturated with the smell of running water and wet wood. Beneath a low stone arch, heavy black doors propped open.
+It was another tower, mirroring the ruined architecture of the caravan camp, but this structure remained firm and fortified. Grey stone walls extended over a wooden bridge that groaned softly against the edge of a still lake; the air saturated with the smell of running water and wet wood. Beneath a low stone arch, heavy black doors propped open.
 
 A single, broad‑shouldered silhouette leaned against the frame. It held a crossbow at his back, and a spear at his side.
 
@@ -3083,7 +3349,7 @@ Artus’ sentence thinned under the pressure.
 
 His throat refused to elaborate the next lie. He stood frozen, the paper, the glimmerfern, and Corvin’s instructions suddenly feeling like nothing, drying on the cold of his hands.
 
-His eyes scanned around the entire area, as if something would ground him.
+His eyes scanned around the entire area, as if a secret would ground him.
 
 No words came.
 
@@ -3101,7 +3367,7 @@ Aberchord was the name Elaine had hurled at Corvin over the maps the night befor
 
 The guard was about to say something, but he kept silent, scanning the shape of both of them.
 
-His eye twitched twice.
+One of his eyes twitched twice.
 
 She was right; she struck a note. The name was currency.
 
@@ -3109,7 +3375,7 @@ She was right; she struck a note. The name was currency.
 
 “What are you doing downriver from the ashes?”
 
-“We were sent ahead,” Amadea continued, letting the line anchor her words against the stench of stale sweat on the man’s breath.
+“We were sent ahead,” Amadea continued, letting the line anchor her words against the stench of stale sweat on both his skin and breath.
 
 “For supplies. For the Ballads we’re preparing. The people trapped there won’t get help. The least they can get is a verse to be remembered by.”
 
@@ -3135,7 +3401,7 @@ Amadea kept pressing the thought of what she remembered on her mind, with just s
 
 Aberchord’s tragedy was real.
 
-The Auric Order was real.
+The Auric Order and its sigil were real.
 
 Corvin’s desperate rescuing of children, including herself, was real.
 
@@ -3173,9 +3439,9 @@ Her icy gaze unblinking, in absolute certainty.
 
 Amadea vocalized the final defiance of the lie, just beneath her lips, with the full weight of the grip and the horrors of the guard’s eyes.
 
-“I swear it,” she shouted.
+“I swear it,” she shouted. “We’re only getting props for a Ballad!”
 
-“We’re only getting props for a Ballad!”
+For a Ballad. 
 
 That cue was all Artus needed.
 
@@ -3201,11 +3467,11 @@ He waved vaguely at the rows on the right side of the door, in the open courtyar
 
 “From those five, three are filled with garbage. Border incense doesn’t buy guaranteed gold here.”
 
-He paused, relaxing his posture, leaning against the wall again until his words echoed through the silence.
+He paused, relaxing his posture as he leaned against the wall again.
 
-“Only if the Aria’s grace favors you will you walk away with anything pink.”
+“Only if the Aria’s grace favors you,” his words echoed through the silence. “Will you walk away with anything pink.”
 
-Amadea’s wrist throbbed with a sickening, rhythmic heat that crept up her neck. Her body screamed at her to cuddle inward and cradle her bruises. But the Amadea who hid in the dark would never live to see Act II of the orphaned boy who built an empire from dust.
+Amadea’s wrist throbbed with a sickening heat that crept up her neck. Her body screamed at her to cuddle inward and cradle her bruises. But the Amadea who hid in the dark would never live to see Act II of the orphaned boy who built an empire from dust.
 
 She didn’t look at the bruise; she looked at the corner of the guard’s eyes.
 
@@ -3229,7 +3495,7 @@ Amadea stumbled backward in retaliation, her instinct flashing into anger.
 
 “What? Why? We already picked! You didn’t say we had—”
 
-Her words were useless. The guard seized the fabric. Amadea dug her heels in, throwing her weight backward to clutch it, but the guard put strength into the exact spot where her injured arm wouldn’t let her hold it in pain.
+Her words were useless. The guard seized the fabric. Amadea dug her heels in, throwing her weight backward to clutch it, but the guard pressed into the exact spot where her injured arm wouldn’t let her hold it without pain.
 
 She tugged it twice, until the searing sting at her arm became unbearable.
 
@@ -3241,7 +3507,7 @@ Artus shouted from across the yard, readying his own weapon against him, though 
 
 “Don’t bother me anymore. Keep to your own garbage!” the guard barked.
 
-The silhouette of the man turned his back to both, moving to the door to blur in the shadows of the keep.
+The man's silhouette turned his back on both, moving to the door to blur into the shadows of the keep.
 
 Amadea glared at him in disbelief. He had stolen Corvin’s signal of peace.
 
@@ -3249,7 +3515,7 @@ But as she saw him leaving, something else caught her attention. A pendant, the 
 
 A single thought echoed through her mind.
 
-“The world always takes,” Amadea whispered under the heat of her hands, “the answer is to take back.”
+“The world always takes,” Amadea whispered under the heat of her hands. “The answer is to take back.”
 
 ***
 
@@ -3263,7 +3529,7 @@ He dropped his sword.
 
 The sharp, metallic hit echoed against the stone, ripping the guard’s attention away.
 
-Amadea bolted in a single movement as Artus created a distraction. She snatched the brass pendant from the dirt, burying it deep within the lining of her coat sleeves before the man could turn.
+Amadea bolted in a single movement as Artus created a distraction. She snatched the golden pendant from the dirt, burying it deep within the lining of her coat sleeves before the man could turn.
 
 The guard let out one final bark.
 
@@ -3271,7 +3537,7 @@ The guard let out one final bark.
 
 The breath Amadea had been holding surrendered in a jagged exhale of relief. The fight was over.
 
-She joined Artus to claim the prize. However, as they hoisted the heavy crate, pain flared again, and Artus shifted his grip, absorbing the brunt of the weight. Amadea rested one hand on the corner, letting him take the strain.
+She joined Artus to claim the prize. However, as they hoisted the heavy crate, pain flared again, and Artus shifted his grip, absorbing the brunt of the weight. Amadea rested one hand on the corner, letting him take most of the weight.
 
 It was another version of the same choice at Act I of Aurelian’s Ballad — his hand reaching into risk so hers could stay steady.
 
@@ -3297,19 +3563,19 @@ Amadea kept quiet.
 
 Her wrist hurt.
 
-The pendant pressed too sharply against the bruise, so she slipped it deeper into one of the pockets inside the lining of her coat.
+The pendant pressed too sharply against the bruise, so she slipped it deeper into her coat. It travelled all the way throughout her arm, until she reached with the other hand one of the pockets inside the lining of her coat.
 
-Corvin arrived last.
+Amadea kept it close to her chest.
+
+Then Corvin arrived last.
 
 His weary eyes went over the crate, performing a silent arithmetic. He brushed aside the top row. Most of the auric peaches were pink — plump fruit with rose skins and faint golden seams.
 
-In one corner, however, half‑hidden beneath a fold of cloth and three more ordinary peaches, one held a different color.
-
-But in one corner, half‑hidden beneath a coarse cloth and three more ordinary peaches, one held a different color.
+But in one corner, half‑hidden beneath a fold of coarse cloth and three more ordinary peaches, one held a different color.
 
 Gold.
 
-A soft, immaculate gold.
+Soft, immaculate gold.
 
 Corvin went completely still. His eyes opened wide.
 
@@ -3321,21 +3587,21 @@ The guard had only seen the pink skins. The gold had remained buried.
 
 Elaine’s face eased into a profound relief; Kay released a long, low breath. The nameless children gathering behind them fell silent.
 
-Corvin looked at Amadea; she didn’t have the cloth he'd handed them anymore. Something in his unreadable eyes deciphered the brutal silence lingering between the two children.
+Corvin looked at Amadea; she didn’t have the cloth he’d handed them anymore. Something in his unreadable eyes deciphered the brutal silence lingering between the two children.
 
 “It belongs to you,” he declared.
 
 She blinked.
 
-“Your Cycle Birthday gift,” Corvin added. “Earned the hard way.”
+“Your birthday gift for your second Cycle,” Corvin added. “Earned the hard way.”
 
-Amadea glanced at the crate, then down at the throbbing bruise hidden beneath her sleeve, then at the faint dent felt against her chest.
+Amadea glanced at the crate, then down at the throbbing bruise hidden beneath her sleeve, then at the faint pressure of the pendant against her chest.
 
 “Everyone eats,” she said, her voice dull. “Because Aberchord doesn’t.”
 
 No one answered.
 
-The stretched silence; Kay’s jaw tightened; Elaine looked toward the treeline.
+Silence stretched. Kay’s jaw tightened. Elaine looked toward the tree line.
 
 It was Corvin’s hand that settled on Amadea’s shoulder, a grounding weight heavier than the fruit.
 
@@ -3349,79 +3615,685 @@ It was warm.
 
 That evening, they transformed survival into a feast.
 
-The fire they built beside the repaired cart roared higher than prudence normally allowed. Corvin knelt at the hearth, his ring catching the dancing embers as he coaxed the flame into dry wood. He did not call the cello from the ring this time. He let the music sit in his hands instead.
+The fire they built beside the repaired cart roared higher than prudence normally allowed. No cymatics veil this time, only the ruins of dark stone.
 
-It was Elaine who conjured hers and began playing the first jolly tune Amadea had ever heard. Kay joined in, clapping in a steady, driving percussion.
+Corvin knelt at the makeshift hearth at the center of the terraces, his ring catching the dancing embers as he coaxed the flame into dry wood. He did not call the cello from the ring this time. He let the music sit in his hands against the sound of the running river instead.
 
-They sang for her while Corvin focused on the peaches.
+This time, Elaine conjured her instrument and began playing the first jolly tune Amadea had ever heard.
 
-From the cart, he pulled a dented pan; from her patchwork coat, he retrieved a knife and two thin spice packets.
+It was not complicated; the melody rose on four notes and landed on a fall gentle enough that its happiness made the campfire a sanctuary. Soon after, Kay joined in, his hands clapping in a percussion.
 
-He sliced the pink auric peaches in half, carved out their pits, and laid the hollow halves across flat stones ringing the fire. Their skins served as crude bowls. Into them he poured a thick stew of foraged roots, salted meat, and broken bread, simmered in steam.
+They sang for Amadea’s birthday while Corvin focused on the peaches.
 
-Amadea’s curiosity got her beside him.
+From the cart, he pulled a dented pan; from his patchwork coat, he retrieved a knife and two thin spice packets.
 
-Corvin scraped the pan, his eyes locked on the bubbling surface.
+He sliced the pink auric peaches in half, carved out their pits, and laid the hollow halves across flat stones ringing the fire. Their skins served as crude bowls, and he poured into them a thick stew of foraged roots, salted meats, and broken bread that simmered in steam.
 
-“An eccentric astrologer taught me this,” he muttered to the flames. “Lenore. From before the rot took the luxury of flavor.”
+Amadea’s curiosity drew her to his side.
 
-The aroma shifted.
+For a while she only watched. There were even rules to the way he cooked, down to the same grammar as the morning spar.
 
-Fruit sweetness rose into the air, mixing with her bitterness and the metallic edge of the bygone history of the blood in the ruins. For a moment, the ruined terraces smelled like a pocket of light where she could live, rather than merely endure.
+Even when he wasn’t playing his cello, each portion still answered another portion.
 
-Elaine wiped her eyes, blaming the acrid smoke. Kay leaned back on his crate, casting his gaze into the dark. Amadea sat close, letting the radiant heat flow over her face. The lingering pain still dug faintly into her wrist each time she flexed her fingers, but it was worth it.
+“You aren’t playing tonight,” she said.
 
-Between the second bowl and the third, Artus finished Act I of his Ballad.
+“Tonight has enough music in it already.” He tipped his chin toward Elaine’s tune without looking up. “Perhaps I will join later, when Artus continues his story.”
 
-The legend of the first Mythical Virtuoso of Resonance — the tale he had begun under Elaine’s cymatics veil — found its final verse at the edge of the peach fire. The lyric he had stumbled over beside the coughing boy now came out clean, as if the missing words had been hiding in the day’s war for fruit.
+He continued working each half, until they were all laid in rows. He then opened one of the spice packets and held the small sack up to the firelight for a moment, eyeing its contents the way he eyed the strings of his music.
 
-His voice rang clear over the crackling logs, riding the low hum of Corvin’s unspoken accompaniment along the strings of Elaine’s violin.
+Until he gave it a single, strong punch.
 
-For a single, suspended Beat, the orange fire seemed to lean toward him, its flickering movement taking on the rhythm of the makeshift stage as he opened Act II.
+_Clap._
 
-_“Daedalus knelt before the burning court, and swore upon the—”_
+Dark powder tipped into the stew, and the air filled with the smell of herbs.
+
+Amadea sneezed.
+
+Corvin painted a slight smile.
+
+This was the same thing she had kicked in the cart.
+
+“Intense, aren’t they? Pulverized pieces of something called shame moss.”
+
+He tipped in more powder, at a carefree pace. 
+
+“It’s a sort of plant that reacts to emotion, hence the name.”
+
+Amadea stared at him in silence.
+
+“The stronger the emotion, the stronger the spice. You can probably imagine the rest.”
+
+“Plant that reacts to emotion?”
+
+“Yes, we’re likely to find many more once the snow recedes.”
+
+_Clap._
+
+Corvin continued pummeling the bag, letting slivers of the paste drool into the broth as they settled at the top of the stew in dark-red spirals.
+
+“They’re like Elaine’s buffalo — pure light, glowing most of the time — except that light isn’t enough for them. They need feeling to shine.”
+
+He finished with the pouch and stopped to look at her.
+
+“If you are happy, the plant is happy.” His smoky voice rolled over his calculating eyes. “At least most of the time. If they grow near sadness long enough, they grow strange.”
+
+He sighed — he realized Amadea was looking at him, wide-eyed, as if he were Artus telling fantasy ballads, but his explanation wasn’t a fantasy.
+
+“A-ah… Well.” He exhaled. “It's more complicated stuff, I know. You should rejoin the group.”
+
+He put a hand over her shoulder to guide her away to the campfire.
+
+“I still need some time before all of these are done.”
 
 A Beat.
 
-Artus paused. He had forgotten the lyrics again. But this time, his words adapted.
+She didn’t move.
 
-_“He swore beneath the flame.”_
+Amadea leaned back against a nearby crate and folded her arms, careful of the bruised one, and studied him the way he studied everything else.
 
-He offered a quick, theatrical interlude, declaring:
+She wasn’t letting him off the hook this time — this was not something as weird as whatever the Auric Heptacode was. Thus, she held her certainty of demanding an explanation of what he had just named.
+
+“Corvin. You know how many we are,” she said. “Without looking.”
+
+“Sixty-six peach bowls for each to have three rounds,” he answered immediately, eyes never leaving her shoulder. “As of this morning’s count.”
+
+“So you do know everything you look at.”
+
+“That’s just survival.”
+
+“Then survive my question.” Her voice stayed even; her eyes didn’t.
+
+He released her.
+
+“What are the plants called? The ones that eat feelings?”
+
+Another Beat.
+
+_Scrap. Scrap._
+
+The pan answered first.
+
+“Eleos Blooms,” he said finally, giving in the way cut peaches gave in for the stew. “Eleos means something between compassion and mercy. It’s a word from the Great Expanse.”
+
+He let the words dim into a mellow whisper.
+
+“You truly are a sharp note, Amadea.”
+
+He went back to cooking, his hands threading each peach and its seasoning, but slower, measuring his words as if they were powder.
+
+“That’s the common name for the whole family of them. They are flora, usually with a receptive sort of stem or petals, that drink feeling the way roots drink rain. They do so out of the air, off resonance, off whatever people breathe onto them.”
+
+The aroma shifted. The herbs dissolved into the stew.
+
+“Every feeling has a color, if you know where to look.”
+
+“So then the moss in our dinner drinks—”
+
+“Humiliation.” 
+
+The word fell flat and honest between them.
+
+“Mostly, at least. Crushed and dried it turns sweet with auric peaches. Fills out thin meat, and steadies a shaking stomach.”
+
+He tipped his chin at her sleeve, masterfully weaving his words with the strikes of the knife.
+
+“It can read your feelings too, if you were ever around this plant while it was growing. That’s how they change from green to silver instead.”
+
+He paused to pour some of the herbs into his hand so Amadea could see them before throwing them into the pot. The parts that weren’t powder were almost like a soft, wine-red paste, with some bubbled edges caught between each circular bundle.
+
+It looked like glimmerfern but without all of the leafy edges.
+
+“And when someone standing near them means an apology, they turn dark blue or dark red. Like the ones we are eating.”
+
+Amadea blinked at the plan, watching the acrid steam climb.
+
+“That's the real lesson about these blooms,” the rasp of his voice became chalky.
+
+“Take back what you must — and then make something from what remains.”
+
+A Beat.
+
+“How do you know all this…?”
+
+“That we can eat shame moss?” He laughed, “I didn’t try to give the humiliation in the ground a bite. I learned they had a good taste from watching Elaine and her buffalo eating them with other dry grasses.”
+
+For the first time all evening, he glanced across the fire — to where the rest of the caravan sat. Starlight and Ostinato were there, free of their reins.
+
+“She doesn’t harvest a plant without asking something of it first, or leaving something behind. Most folk think that’s sentiment.” 
+
+His mouth tilted.
+
+“But no, it’s the earliest form of agromancy. And here we can’t afford to waste anything — not roots, not meat, not grief. And especially for emotions, it’s better to turn them to food than to Atonalis.”
+
+He sprinkled in the last pinch.
+
+“The peach-bowls and the stew itself, though—” Corvin’s smoky voice went somewhere to faint popping cinders “—I got it from an eccentric astrologer that could read dreams through the stars.”
+
+He began reminiscing about something, looking only partly to the flames.
+
+“Lenore. From before the rot took the luxury of flavor.”
+
+Fruit sweetness rose into the air, mixing with the bitterness of the dark ruins and the metallic edge of the bygone history of a world before the caravan.
+
+The smoky trail of cooked peaches danced rhythmically to the wind.
+
+“Magic,” she said to herself.
+
+Corvin glanced at her.
+
+“You think magic is only the light in rings and gems?”
+
+He handed her one of the half peaches.
+
+“Taste it.”
+
+The stew was warm, earthy, and rough against her tongue. The auric peach cut through the bitterness with a sweetness that did not belong in such a place.
+
+“It’s good,” she said with her eyes open.
+
+Corvin’s mouth almost became a smile.
+
+“That’s the taste of Eleos Blooms for you.”
+
+Last, he reached for the only golden peach, rolling the round shape in his hands.
+
+“Light keeps the bloom alive. Feeling tells it what life is for.”
+
+Then he stopped, and his eyes met hers.
+
+“Your gift,” he said. “Your choice.”
+
+Amadea glanced at the children gathering toward the fire; the smoke of cooked shame moss had reached all the way there. Elaine wiped her eyes, halting the violin’s melody, blaming the acrid smell.
+
+“Half for the Ballad,” she said. “Half for tomorrow.”
+
+Corvin studied her for a long moment. Then he nodded once.
+
+“A sovereign’s choice,” he assured her, and drew the knife through in one slow stroke. He set the halves apart on a clean flat stone beside the coals — one facing the flames, one facing the sky.
+
+“Help me with the first serving, Amadea. Bring these to Elaine.”
+
+She grabbed some of the cups — or at least attempted to. She held one hand steady, but her other could not. Still, half a grip was enough to try for the rest of the way.
+
+The lingering pain dug into her wrist each time she flexed her fingers, but for the warmth of her birthday, it was worth it.
+
+Elaine caught her struggling mid-note — she let it resolve, and set the violin down on the grass without ceremony, and crossed the distance to take the wobbling row of magical peach-bowls from her hands.
+
+“No,” she said softly, steering Amadea toward the crates. “Birthday girls serve by sitting. I will take care of this; you find a spot to enjoy Artus’ story.”
+
+Amadea nodded once, and Elaine signaled two of the nameless children to accompany her to the middle of the hearth.
+
+While she wasn’t carrying fruit anymore, she decided to follow with her eyes instead, from a place by a crate and a ruined wall that could serve as a cradle.
+
+Elaine moved down the crescent with the ladle, quick and precise, and trailing behind her came the two nameless voices — a trailing one that belonged to a girl with a charcoal stub clutching cloth, and a second melodic one of an older figure walking pressed close to her shoulder. Their heads bent together over some private negotiation conducted entirely in whispers and finger-points.
+
+At every round of serving the peaches, the younger one paused every so often to offer up the cloth. At every wobble of her bottom lip, the older girl leaned in and examined whatever shape was on it, delivering a judgment barely audible.
+
+Amadea heard the verdict once.
+
+“That’s only the first meaning,” the taller voice said.
+
+Whatever the ruling, it worked faster than the ladle did.
+
+A few rounds back and forth of serving peaches, and they all finally settled. Elaine grabbed her violin again, and the melody continued anew with Corvin’s cello this time.
+
+Amadea cradled one of her three pink peach-bowls, letting the fragrant steam thaw her bruised wrist before taking a careful bite. Inside the delicate, roasted walls of the rose-tinted skin pooled a mellow, almost-yellow broth, accompanied by the swirling dark-red spirals of pulverized shame moss.
+
+The warmth of the meal lingered on her tongue. They were immensely flavorful, from their rich texture of earthy spices to the sweet undertones.
+
+The heavy, salted liquid carried the sharp, herbaceous bite of a complex bitterness that melted seamlessly into the honeyed flesh of the auric peach and the caramelized crisp that formed at the edges of its syrupy nectar.
+
+Even magic was in the fruit, in dark spice anchored by vibrant golden sweetness.
+
+As she savored the final tender cuts of meat, she stepped into that rich stew; the depth of the magical fruit left a lingering warmth on her tongue until the savory feeling receded.
+
+Artus climbed back onto his overturned bell and gathered a spectacle out of pure posture.
+
+“In honor of the Violet Empress, Amadea.” He announced, “I will sign it without a single mistake from Act I: The Gold of Silent Stars.”
+
+The words he spoke lingered in her mind; it was the warmth of consonance. And between the second bowl and the third, Artus finished Act I of his Ballad.
+
+This time the legend of the Mythical Virtuoso of Resonance found its final verse at the edge of the peach fire. The lyric he had stumbled over beside the coughing boy now came out clean, as if the missing words about the Pulse had been hiding in the day’s war for fruit.
+
+His voice rang over the crackling logs, riding Elaine’s violin while Corvin and Kay drove the march beneath it.
+
+Then the real prize came.
+
+“Act II,” Artus announced, sweeping the branches low. “From the Extended Daedalus Ballads!: The Thief, the Beast, and the Blind Man.”
+
+The fire leaned toward him. The fire had two heartbeats.
+
+And the story left the courthouse behind.
+
+##### 4.4 Voice of Resonance | Coda
+
+_Movement 1: The Dream | Score I: A Ballad Before Iridia_
+_Act 2: The First Birthday of a Starving Caravan_
+
+_Resonance | Key of Attunement_
+
+“Exiled,” Artus announced in a single theatrical sweep, the word scraping against the crackling logs.
+
+The resonance of Kay’s percussive strike hung in the freezing air, a sharp _clack_ that severed the phantom chains of the burning court. Elaine’s violin shifted into a wandering epic as Corvin held the anchored line.
+
+Artus let the resonance of the instruments hum stretch just long enough to make the world beyond the campfire vast. When he finally spoke, his voice was stripped of its theatrical boom, worn down to a gritty, breathless rhythm.
+
+“Hunted past the edge of every map men still bothered to draw. Two fugitives in the Great Expanse, walking land so empty their footsteps came home without echo.”
+
+He paced a slow half-circle around the flames, a shadow pantomiming the heavy, dragging steps of the condemned.
+
+“The loud one sang to spite the dark. The quiet one counted rations, exits, debts—everything the world owed him. Everything it had failed to give.”
+
+Artus raised his branches, striking a ragged chord as he slipped seamlessly into the cadence of the old world.
+
+_“Two runaways beyond the maps,_ _Where even echoes would not go._ _The loud one sang to frighten back_ _The dark that pressed them, soft and slow._
+
+_The world had judged them—beast and name._ _One born to chains, one left to wolves._ _But judgment needs a judge, and there_ _The road was empty of such fools.”_
+
+The girl who drew looked up from her cloth.
+
+“Which one is the ugly one?”
+
+Artus pointed at the darker blot.
+
+“That one. Never forget it. The ugliest legend that ever lived went on to build the only city the stars were ever jealous of.”
+
+The giggle traveled down the blanket-ocean and died.
+
+“Continue.”
+
+Clack.
+
+“They owned almost nothing: two blankets, a cracked pot, the loud one’s voice, and a hand-span of good wire the beast refused to explain. Legends forget this part. Heroes are always losing everything they have.”
+
+His voice softened, the register he saved for beautiful and dangerous people.
+
+“One bitter night, with their pride gone soft as frostbitten fruit, a stranger walked into their fire. Unasked. Unblamed. Some Ballads say she was beautiful beyond sense; some say plain as bread. They argue about her eyes, her hands, whether the flame leaned toward her before she sat. They agree on three things: she shared their fire, praised their voices, and told the ugly one he stood like a king and looked like a story waiting to happen.”
+
+A ripple passed through the blankets. Nothing about that part had ever sounded kind before.
+
+“And she asked questions. Where they slept. How many bags of what, packed where. Who kept watch on which side.”
+
+Amadea went still, spoon halfway to her mouth.
+
+“And by morning,” Artus said, “she was gone. So were the blankets, the pot, the dried meat—even the boots from their feet. Everything Daedalus carried out of the world that he could call his own, lifted from the dark ten steps away while he dreamed.”
+
+Clack.
+
+“So picture the arithmetic the quiet one woke to. Sold into servitude: everything taken. Sentenced to death over another man’s crime: everything taken. Freed by accident, loved by nobody: nothing gained. Now the smallest shelf of belongings in history—”
+
+He opened his empty hands.
+
+“—and the world came, polite as a court clerk, to collect that too.”
+
+They tracked her for a night and a half, following deep prints and warm campfires toward the only landmark in a hundred valleys: smoke beyond the ranges, rising from a lonely chimney. She had mentioned blind misers in the high country, hoarding stores no legate would ever tax.
+
+“Then envy crawled back up the hill,  
+In borrowed boots, on borrowed pride:  
+A hand that lost to such a thief  
+Had surely earned a burglar’s hide.
+
+Fairness is a market stall,  
+And ours was emptied long ago—  
+So balance me this bloody book:  
+I’ll take it back where debts must go.”
+
+“He crept out at midnight, leaving the loud one asleep. Darkness had never been his enemy—he had been sold into it. Somewhere past that chimney were warmth, grain, perhaps the thief herself. If the universe behaved like a ledger, somebody would balance it.”
+
+He crouched, claws curled around an invisible lock.
+
+“Excellent technique,” he whispered.
+
+Then he became the voice inside the hut.
+
+“‘Third floorboard from the door. It sings underfoot, so mind your toes. Mind the nail on the shelf. And mind your heart, boy—it’s been shouting since you crossed the treeline.’”
+
+The fire popped. Nobody laughed.
+
+The blind man had not moved from his chair, facing the wall.
+
+“‘You crouch like a scholar, not a thief. Thieves whisper. You calculate. So calculate this: the soup behind you is getting cold.’”
+
+The little ones clinging to legs had stopped breathing. The wet-cough boy found his courage.
+
+“Was he angry?”
+
+“That,” Artus said, “is the question the Great Expanse spent a lifetime failing to ask politely. No. He was laughing. The only entrance exam he ever administered was laughter, and the beast passed it shaking.”
+
+So: soup. Rationed fairly. Grudges rationed fairer. Nobody got boots back.
+
+The old man listened the woman out of the earth itself—stride, load, pace—and told them how far the numbers went before vanishing into country too wide for any eye to search. Whether she was cruel, desperate, or sent by something with longer patience than a Ballad dared name, even he did not say.
+
+One condition: stay, work, and learn.
+
+“And hear me,” Artus said, raising a finger. “This part is duller than a prop sword and heavier than a real one. Years. Not nights. Years.”
+
+Blindfold drills before dawn: striking river stones in rhythm while the old man listened for one false note in ten thousand. Walking the ruined orchard by ear. Learning how roots grab ankles, how fear mismeasures distance, how crossing strikes change with the smallest turn of the wrist.
+
+And beneath it all, thinner than a heartbeat, the quiet Pulse the boy had chased since the wolves: the Leylines pumping through every dying field, waiting for anyone patient enough to hear it not dying.
+
+Marrow-fat grew scarce. Motion came easier. Their palms hardened to horn. Snow came and went over the threshold, but the hut never quite got colder, because the old man fed his fire as he fed everything: precisely, and never enough to waste.
+
+The drawing-girl made a face.
+
+“Boring.”
+
+Artus snapped the branches.
+
+“Until she heard what the drills were for. Beneath every noise is a floor that never moves. Grief is loud. Fear is louder. Most people roar their noise at the world and call the roar themselves. The old man put the boy and beast face-down on that floor. Then made them stand on it.”
+
+He set down the branches and raised one hand like a teacher.
+
+“He gave the loud one the words first. The ones the winds still carry in the Great Expanse, if you stand quietly enough for your heartbeat to fall in with the ground. We’re trying them. Out loud. Line by line. Don’t let the cold eat them.”
+
+He taught the fire a litany. The children answered, call and chorus passing blanket to blanket.
+
+“Vibrate so high, anybody with evil intent can’t even be in your space—”
+
+“—can’t even be in your space,” the older girls echoed.
+
+“Vibrate so high, standing in your presence raises another person’s frequency—”
+
+“—raises another’s frequency—”
+
+“Vibrate so high, you walk a path many are scared to travel. Vibrate so high, you hear the cosmos. And in the song of creation—hear yourself.”
+
+The chorus stumbled, tangled, and tried again. On the third pass it rang raw, off-key, and alive.
+
+“But the litany has a summit,” Artus said. “Two steps above the roof. The old man saved these for ears that had earned them.”
+
+He drew breath to his boots.
+
+“Vibrate so high, you become who you have in your mind’s eye—”
+
+“—become who you have in your mind’s eye,” the fire echoed.
+
+“Vibrate so high—you heal yourself.”
+
+Nobody echoed that one.
+
+They let it stand in the cold like a candle in a window for someone not home yet. Elaine slipped beneath the silence with a drone so low Amadea heard it in her teeth.
+
+At the cook-fire, Corvin’s lips moved one breath ahead of every line, shaping the liturgy from memory. One finger tapped his thigh, keeping count—of days, mouths, something older than arithmetic.
+
+“To the beast, the harder lesson,” Artus resumed. “You cannot teach a builder by feeding him. You teach a builder by asking what he sees. And what did he see when he looked inward?”
+
+He turned to the fire.
+
+“A slave. Ugly hands, ugly face. A mind every master had been glad to rent, and none had cared to name. The old man laughed kindly and answered:
+
+“‘When will you realize reality isn’t testing you—it’s reflecting you? Look within, and see the heavens held in miniature. So below, as within. As above, as without.’”
+
+“But hearing is not believing, and mercy is heavy lifting. So the years went on. Hollow things gathered at the valley edges where the world’s music had gone rotten. Not beasts. Beast implies a body that breathes. These were holes wearing shape. Places where sound forgot itself. Herds of absent notes.”
+
+“Winter stitched the valley floor,  
+And summers sewed it green;  
+Three shadows worked the borderlands  
+To hold the seams unseen.
+
+A reaping-shape by harvest eve,  
+A raider-band by spring—  
+And every wound they closed awoke  
+A thousand more to bring.”
+
+“They hunted valley by valley. The old man walked ahead, reading weather three valleys off through his soles, measuring wells by dropping whispers into them, counting hidden hearts like beans.”
+
+“I heard that,” Corvin muttered without opening his eyes.
+
+“The loud one threw his voice like a spear wherever the old man cut the dark. Left. Low. Now. The silence flinched like a struck animal and gave away where it bled. The quiet one moved without a sound, claws finding seams in things with no right to have shapes.”
+
+Artus’s face hardened.
+
+“And it cost. One winter the herd walked through their camp while every bowl went noiseless in their ears. A silver ringing followed every note the loud one ever sang. Ballads skip the tolls. I don’t.”
+
+He straightened.
+
+“But kill by kill, hunt by hunt, the quiet one learned what no chain had taught him.”
+
+Clack.
+
+“His hands were not tools. They were his.”
+
+“Meanwhile, salvage came home with them—temple bronze, dead wire, gold dust shaken loose by wastewinds. The beast spent evenings bending it, tuning it, hanging it along the doorway: weighted brass plates that rang whenever something passed without a heartbeat.”
+
+“He called it stopping thieves. By the fourth winter nobody believed him.”
+
+“The old man called it music. The loud one called it a fence. The beast would not argue with either of them—which is how you know an inventor is doing religion.”
+
+The drawing-girl thrust up her cloth.
+
+“Is that the monster?”
+
+The older girl studied it gravely.
+
+“It’s the archway.”
+
+The artist snatched it back, added one furious curve, then offered it again.
+
+“It’s the archway now,” the older girl corrected, “with the mountain in front of it.”
+
+“Hold that thought,” Artus said.
+
+The lute-branches rose. Kay’s fists came down faster. Elaine took the melody somewhere narrow and vertical, climbing.
+
+“Because on a moonless night in a broken valley, the herd came to town.”
+
+Clack. Clack. Clack-clack-clack.
+
+“There was a settlement there: survivors of nothing, hiding from everything, blessed with one good thing and one bad thing—an ancient stone archway over their shelter square. Sound cover. Old mortar. Ten tons of tired rock deciding, night by night, whether to become a grave.”
+
+“So the mentor stood in the field’s white throat,  
+Said: ‘I am old, but my ear is a boat.  
+Loud boy—you shout, and the world bends about.  
+Quiet beast—you listen, and mark where they float.’”
+
+“For six hours they sang that field like a fishing net. Voice after voice, call and strike, marking every floating absence, sweeping it, silencing it—until—”
+
+Artus stopped.
+
+A Beat.
+
+Elaine’s bow froze above the string. Kay’s hands hovered. The fire snapped and shrank. Beyond its light, the ruins went quiet with appetite.
+
+Only Amadea noticed what mattered: Corvin had stopped counting.
+
+His finger lay still on his thigh. His lips were closed. Whatever sum he had tended all evening, he no longer cared for it.
+
+“One got clever,” Artus breathed. “They don’t think. But they slide. One slid wrong—clipped a support of the archway in passing. Pure stupid chance. The old man knew the sound at once: stone letting go of stone. Three hundred years of quiet engineering surrendering its argument.”
+
+“No warning could reach the crowd. No scream could outrun it. The beast was underneath, between the townsfolk and the mountain.”
+
+“Ten tons. Directly above the children.”
+
+The wet-cough boy asked for everyone.
+
+“What did he do?”
+
+Artus smiled and did not answer.
+
+A low tone began beneath the hush.
+
+Not Artus. Not Elaine.
+
+Corvin leaned forward, forearms on his knees, humming one bottomless note—the pitch of the fire’s murmur. The note beneath other notes. The floor arriving beneath the suspended world, telling everything above it: stand here.
+
+And Amadea, moved by something older than decision, raised her Ballad-half of the golden peach to her mouth.
+
+The skin broke softly. Honey sweetness flooded her tongue, bright with a strange acid sparkle, then settled into resonant warmth in her chest.
+
+Artus spread his arms, fingers curled around something invisible and enormous.
+
+“And the quiet beast—with a slave’s whole unspent life screaming in him—did not run. Did not dodge. He reached into the throat of the night, into the silence where ten tons of mountain hung deciding—”
+
+His arms locked.
+
+“—and he informed it where it might stand.”
+
+“The rocks waited. Not floating—waiting. Held on that one note, the way rain holds on a promise. For one long exhale, the mountain remembered being smaller, and agreed. Dust hung gold in the torchlight. Nothing in the valley made a sound except the bottom of a man named Corvin, feeding the floor.”
+
+The untouched half of the peach caught firelight on the flat stone.
+
+For a Beat, orange flames leaned toward Artus like witnesses toward a verdict.
+
+And it was worthy of the impossible gardens he had conjured in the dark. Amadea felt a hum in her bones, some distant chord struck above the nascent stars.
+
+“Gold climbed his forearms like frost deciding to become architecture,” Artus said. “Stone knows its own weight; it only ever asks someone worthy of it. He told the mountain where to stand, and the mountain agreed.”
+
+He lowered his arms.
+
+“That is Crystal, children: certainty made load-bearing.”
+
+Kay released the held beat with one enormous clap.
+
+“And afterward, with the herd routed and his hands trembling in ways he would deny till death, the beast returned to the hut. He took every doorway-toll from the lintel—every tuned shard and plate of brazen hope—and mounted them along a haft.”
+
+“A staff, long as a wound is deep. Weighted to sing when it swung and sting when it struck. Music in a weapon’s coat. A weapon in music’s skin.”
+
+“He built it crooked on purpose. Seven plates, evenly spaced—holy, symmetrical, correct—and the seventh ruined every neighbor’s voice. For three nights he refused the arithmetic, because seven was sacred and he would rather lose the sound than surrender the symbol.”
+
+Artus held up one crooked branch-tip.
+
+“On the fourth night, the old man touched the plate that did not belong.”
+
+“‘The instrument has to work first, boy. The gods can wait.’”
+
+“So he removed the seventh and hung an eighth where tradition kept no seat. The arcs bloomed around the haft like a bud deciding frost was lying. Dead bronze woke, because eight faces agrees with itself and seven never did.”
+
+“He was furious about heaven for two days. Then he was too busy to remember why.”
+
+Artus crossed the branches above his head like a roof.
+
+“And when the old man touched the finished staff all along its length, listening as other men read, he laughed until he held his sides—and gave the beast the exam that mattered.”
+
+“‘Do you think it is possible? Only you know your potential, and only you know what it will take if you are willing to perform. Your masters were wrong. Your judges were wrong. Doubt is bad arithmetic done in somebody else’s ink. So prove it—build something the world cannot deny.’”
+
+The coals popped.
+
+“And here,” Artus said, “every Ballad does the strangest thing. At the first fire Daedalus built in his own name, they circle back to the oath. A promise made twice weighs double. Kneel at the burning court, kneel at the burning hearth—same vow, hotter fire.”
+
+He planted his feet.
+
+“Daedalus knelt before the burning court, and swore upon the—”
+
+A Beat.
+
+Artus paused. He had forgotten the lyrics again.
+
+“He swore beneath the flame.”
+
+Then, with theatrical dignity:
 
 “I will faithfully imagine this new act. Ballads are allowed that. They are only not allowed to lie about the weight. And I’m truthful, because everything else certainly happened.”
 
-Elaine’s shoulders shook with a silent laugh on the final note. Artus didn’t hesitate anymore.
+Elaine’s shoulders shook with a silent laugh.
 
-Corvin closed his eyes, tapping his ring against his knees, allowing the music to resonate with him instead of threading through wood and string.
+“‘Possible,’ sang the beast on his knees in the glow,  
+To a blade at his back and a grave down below:  
+‘I never asked favor, I never asked nod—  
+I built, and I built, and I called the work God’s.
 
-Amadea did not applaud. She traced the bending flames with her eyes instead, as if the world itself were listening as the sun set.
+So take all the names that you gave me in hate,  
+The chains and the courts and the thief-taken weight.  
+Create the things you wish existed—and then  
+Dare the whole universe: deny me again.’”
 
-She ate her golden half of the peach last.
+The last line fell plainly, without theater.
 
-The skin broke softly under her teeth. Absolute sweetness flooded her tongue, rushing down her throat before settling as a deep, resonant warmth in her chest. It tasted of honey with a tinge of acid sparkles she couldn’t explain.
+The wet-cough boy whispered, “Cooool.”
 
-It was worthy of the impossible gardens Artus had once conjured in the dark. For a Beat, she could feel a low hum in her bones — a distant chord struck somewhere far above them that made her look up at the nascent stars.
+Behind the crates, a buffalo shifted and stamped one heavy hoof.
 
-Magic, she realized, was not just the light in rings and gems.
+Amadea looked at Artus in the coal-light, branches raised—a boy who had forgotten the oldest verse and answered it anyway—and understood she had watched the same miracle twice that day.
 
-It was the way order and a lie held the dark at bay.
+Neither of them knew the words beforehand.
 
-It was the physical warmth of Corvin’s stew turning bitter roots into a memory of home. It was the fierce, quiet grief hidden in Elaine’s mixed tears of fear and joy, and in Kay’s averted face.
+Both swore beneath the flame regardless.
 
-It was the steady pulse of Artus’ song taking over where the celestial astrolabe had failed.
+“There,” Artus said, lowering the branches. “That is what the beast discovered at his forge, whatever his real vow became. The exam was rigged from the start. The world could not deny it—not because he was certain of winning, but because he was done asking permission.”
 
-The ruins still loomed beyond the firelight.
+He let the coals chew on that.
 
-Static criticality would inevitably bloom in other valleys.
+“But one thread remained, and it wore the loud boy’s face.”
 
-If the dark demanded everything from you, then maybe you had to lie.
+The branches drooped. Fire painted half his face gold.
 
-Maybe you had to fight.
+“The beast found certainty in his hands. The old man never needed eyes to see. And the loud one—bright, beloved, busy loud one—woke one morning and realized he was the only unfinished thing in the house.”
 
-Maybe you had to take back whatever tenderness, whatever symbol, whatever scrap of meaning the world failed to protect.
+“He guarded well and sang beautifully, but both were echoes: someone else’s floor, someone else’s salvaged grid of song. And an echo, if it thinks too long at four in the morning, begins to wonder what it is without its wall.”
 
-Even when the universe was catastrophically broken, if you were willing to lie, to bleed and to crystallize your will for it, you could still carve out a moment of warmth in the chaos.
+“So he walked. Alone, the way hurt creatures do. Past the treeline, past the ranges, into a clearing in the deepest grass the Expanse had left standing. There he stopped, because there was nowhere further to pretend toward.”
+
+“Utterly lost. Comically, biblically lost.”
+
+He knelt, one hand cupped loosely in the other: nest or cage, not yet decided.
+
+“What he found was not an instrument, though centuries spent trying to classify it as one. Lost people look everywhere for the way home. He ran out of everywhere. He searched for home and found himself; searched for himself and found only home.”
+
+“And at the bottom of everything—beneath grief, shame, and all the roar he used to frighten darkness—was one thing that had never echoed.”
+
+“Him. Small. Imperfect. Undeniably ringing.”
+
+Elaine’s violin thinned to a thread.
+
+“He cupped his hands around it as you cup a moth you are afraid of wanting too much. He blew breath through the open grass-stem of the world. The sound moved outward from the center of himself—not striking or demanding a reply, as a bell does. Asking. Listening even as it sang.”
+
+“An instrument with no strings, skin, or metal. Only whatever survived the end of pretending.”
+
+“The entire ocean folded into a single drop. The first note crossed the clearing and came back changed, because the dead, noisy, insane, rotting, wonderful world answered him.”
+
+“Not a bell to bid the dark obey—  
+A pipe that asked the dusk to sing;  
+What sounded outward from one lost heart  
+Came back fourfold on spring-fed wing.
+
+Where iron commands, desire persuades;  
+Where a gate resounds, a home invites.  
+His note went searching into the hills—  
+And the hills returned it, doubled, alight.”
+
+“He wept, of course. Legends leave that out. Then he rose holding a shape of air no forger could improve, and understood what no judge, master, or famine had taught any of the three.”
+
+A branch swept across the crescent of faces.
+
+By the crates, the charcoal girl worked faster. When she turned her cloth around, it showed three gold lines climbing.
+
+“The world was not going to hand them their lives. There was no authority left to appeal to. Somewhere past hunger and grief, past stealing a supper and earning one, survival ended.”
+
+“And the beast, the singer, and the sage chose freely—with their whole chests—to pick their lives up from the ground and become the authors of their own ages.”
+
+“So no. The Ballad does not end there. Nothing ended. It begins there, if anywhere. Towers rose that someday you will sing as cities. Oaths were sworn that someday you will inherit without knowing whose salt they were seasoned with. Roads got walked that—”
+
+Artus’s voice descended gently into itself. Elaine carried the melody onward; Corvin hummed patient as groundwater; Kay’s palms fell soft as snowfall.
+
+“—roads got walked that the dawn recognized. One voice carried. One voice, ages from now, laid down. Marble to remember. Wind to remember. A wall of every note that ever refused to die ringing—”
+
+The words blurred into warmth.
+
+Artus lowered the branches almost shyly, lips moving through a final verse indistinguishable from the coals.
+
+Whoever finished the song, it seemed to say, would owe its ending to their choices, not his.
+
+Tomorrow’s half of the golden peach lay face-up on the flat stone, catching the first stars: the only thing she had ever owned that pointed forward. For a moment, the broken terraces felt like a haven where they could live, rather than simply endure.
+
+Magic, she realized, was not only light in rings and gems.
+
+It was the way order — and a lie — held the dark at bay.
+
+It was Corvin’s stew turning bitter roots into a memory of home. Elaine’s mixed tears of fear and joy. Kay’s averted face. Artus’s song taking over where the celestial astrolabe had failed.
+
+It was a girl with charcoal turning a wobbling blot into proof that the monster had gotten bored and left.
+
+It was a bell rung once in exile, at a blind man’s fire, and somehow still ringing.
+
+The ruins still loomed beyond the firelight. Static criticality would bloom in other valleys.
+
+If the dark demanded everything from you, perhaps you had to lie.
+
+Perhaps you had to fight.
+
+Perhaps you had to take back whatever tenderness, symbol, or fragment of meaning the world failed to protect.
+
+Even in a catastrophically broken universe, if you were willing to lie, to bleed, and to crystallize your will for it, you could still carve out a moment of warmth in the chaos.
 
 ### Act 3. Remnants of Hope & Ballads (Chapters 5-7)
 
@@ -3593,16 +4465,67 @@ After this realization, [[Amadea]] decides to exchange words with a few other ch
 
 She learns the name of the girl that complained about the Ballad not being over in Act I that is bossy to Artus, she counts people by touch. She is [[Lynette]] and has another friend that follows her around.
 
-Another boy, restless and stubborn, with a scavenger’s eye. He repairs cracked wooden things. He is older than Artus and corrects him on the practice of a Ballad: “That one’s not a star. It’s a wheel.” [[Chen]], sometimes he spells it Ch'en, referring that his name is the lineage of an ancient set of wells that signaled morning whenever the light cross half of them, related to the clepsydras across Lol-ha'
+Another boy, restless and stubborn, with a scavenger’s eye. He repairs cracked wooden things. He is older than Artus and corrects him on the practice of a Ballad: “That one’s not a star. It’s a wheel.” [[Chen]], sometimes he spells it Ch'en, referring that his name is the lineage of an ancient set of wells that signaled morning whenever the light cross half of them, related to the clepsydras across Lol-ha' he is friends of the trio of [[Artus]] and another boy called [[Griflet]] who is the one that returns [[Elaine]]'s lost things, and is the one that acts of the duo. [[Artus]] imagines, [[Chen]] makes, [[Griflet]] acts.
 
-A girl drawing who paints symbols, stars, and people onto scraps of cloth, she is younger than Amadea and presents first the drawing, a crimson looping glyph of herself as a name. This is the first introduction to musical [[Age of Glyphs]]. She reveals her name as [[Carmina]], she is also the original nameless face that stuck to [[Amadea]]'s leg back in the symphony of war of Chapter 4.
+Anything Ch’en builds, [[Griflet]] has to test. Anything Artus imagines, [[Griflet]] wants to attempt. [[Griflet]] fundamental law is: "Everything gets three tries" he is the test pilot of the group, as [[Chen]] later formulates:
+
+First try tells you whether you're stupid.
+Second tells you what went wrong.
+Third decides whether it was actually possible.
+
+A girl drawing who paints symbols, stars, and people onto scraps of cloth, she is younger than Amadea and presents first the drawing, a crimson looping glyph of herself as a name. This is the first introduction to musical [[Age of Glyphs]]. She reveals her name as [[Carmina]], then she has another friend called [[Sonia]] who is the one able to interpret [[Carmina]]'s drawings.
+
+Carmina intentionally makes drawings ambiguous just to see what Sonia will say.
+
+Carmina draws three shapes.
+
+Sonia studies them seriously.
+- “That's Artus fighting an Atonalis.”
+
+Carmina shakes her head.
+- “Artus falling in the soup?”
+
+Furious head shake.
+- “Corvin after Artus falls in the soup?”
+
+Carmina explodes laughing. It's their private game and sometimes Sonia's interpretation is better than what Carmina originally intended, so Carmina changes the drawing. Sonia's phrase is "That's only the first meaning." as she uses interpretation to change bleak things. She is a mirror to [[Cordelia]] that later haunts [[Amadea]].
+
+Burnt bread:
+
+> “Burnt bread.”
+> Beat.
+> “Eclipse cakes.”
+
+A hole in their blanket:
+
+> “It ripped.”
+> “Yes.”
+> “Now we have a moon-window.”
+
+Corvin arguing with Elaine:
+
+> “They're fighting.”
+> “Yes.”
+> “Because they're worried about each other.”
+
+Someone crying:
+
+> “She's sad.”
+> “Yes.”
+> “But she doesn't want us to be sad too.”
+
+Whenever Sonia guesses a drawing correctly, Carmina lets Sonia put one tiny dot on it as a pass of the markings.
+
+The duo of these girls are the nameless faces that grabbed [[Amadea]]'s leg back in the symphony of war of Chapter 4. 
 
 She also draws other people, [[Corvin]] is black curve with colored squares.
 [[Elaine]] is two bright semi circle wings.
 [[Kay]] is a pink shard.
 [[Artus]] is three gold lines.
+[[Sonia]] is two circles that intersect, one dark, one light.
 [[Lynette]], the bossy girl is a blue circle with squiggly lines.
 [[Chen]] is the other boy two brown squares in the shape of hammer.
+[[Griflet]] is the last boy depicted as three dots and a forward arrow.
 
 Originally, she didn't know how to paint Amadea, but after the Ballad of Artus, Amadea is now a rhombus of silver edges with violet representing the gem of the crown.
 
@@ -3631,13 +4554,15 @@ Time has passed and the world starts gaining back its shape. Amadea begins learn
 
 [[Kay]] explains to him that magic is beautiful, powerful, and versatile, yet the ground of every fight is physical weapons, as using too much magic does give an acoustic footprint that other [[Atonalis]] can read and be attracted to besides the fact that it is tiring, especially if there's no music around. _"It's like setting up a match in the dark. Aside from using magic is exhausting the more time it goes on, it's important to be sparing with it. It serves as the beacon of [[Resonance]] for uninvited attention."_
 
+And he then explains what he knows of the [[Glyphic Heptastave]] and how he uses [[Glyphic Arts]] for the jumps of [[Resonance]] he makes. He is also the person of the trio of adults that properly knows how to use [[Glyphic Arts]], though [[Elaine]] is the one with better hands on her calligraphy and who was teaching the sigils to [[Carmina]].
+
 Then, Artus seeing Amadea learn an instrument, asks Corvin to teach him how to play with her so that he can be useful too.
 
 [[Corvin]] slightly mournful, when [[Amadea]] asks why, [[Elaine]] tells her that this was the [[Real Cycle Birthday]] of [[Lenore]], the ex-wife of [[Corvin]]. Slightly introduces the themes while deflecting what exactly happened between him and [[Lenore]], and hinting at their life at the [[Militant Enclave]] where they all met, and that's why they know how to hunt [[Atonalis]] and other creatures.
 
 [[Real Cycle Birthday]] of [[Kay]]. They do a celebration with the first [[Spectacle Arts]] using [[Luminance]] on the twin valley and they also meet the [[Eclipsed Waterfalls]] where they're able to finally take a bath, and see the joy of the world. This memory is a core point for [[Amadea]] and it's during the thermal baths that becomes a recurring motif in any place that features twin waterfalls.
 
-[[Elaine]] introduces [[Pure Light]] creatures to [[Amadea]] as she's the tamer of the cart.
+[[Elaine]] introduces [[Pure Light]] creatures to [[Amadea]] as she's the tamer of the cart. This introduces the beloved critters that eventually become the locust ashstorm.
 
 [[Kay]] on [[Eclipsed Waterfalls]] saying: Who cares, just get into the water, tackling [[Elaine]] into the pool. This is later how [[Amadea]] behaves with [[Cordelia]] because this is the memory she learned to equate waterfalls, playfulness, and eagerness to get in with joy.
 
@@ -3800,7 +4725,7 @@ _Act 3: Remnants of Hope & Ballads_
 
 _Resonance | Key of Attunement_
 
-As the echo progresses, Artus utilizes traditional ballads and storytelling to construct a psychological shield against the surrounding horror, effectively acting as a Resonance anchor for Amadea.
+As the echo progresses, Artus utilizes traditional ballads and storytelling to construct a psychological shield against the surrounding horror, effectively acting as a Resonance anchor for Amadea. The children begin learning how to use movement and dance to feel the music. Amadea originally is terrible because she keeps hearing static whenever she surrenders herself to an external rhythm, while Lynette, Sonia and even Carmina are able to perform, Amadea has two left feet that stem from her survival instincts and she can't surrender to the fluidity of a waltz.
 
 The first time the caravan also begins stealing, theatrical Theft & Artus’s Blade
 
@@ -3822,6 +4747,320 @@ First Capture – Split Lip (Later, same phase)
 
 Artus's quiet "Yes, I did" when she asks why he stood between her and the merchant.
 
+Several [[Moon]]s passed.
+
+The adults handled the larger thefts: gathering dying livestock, stored grain, the hollowed contents of farmhouses whose owners were either dead or had fled far enough to never come back.
+
+However, for the subtler kind of work, the kind that required someone who could slip through a half-window as smoke, or vanish behind the wooden frames of still functioning market stalls without drawing a second glance — they had the children.
+
+And among the children, they had [[Artus]] and [[Amadea]].
+
+They came to be a theatrical yet reliable tool for acquiring valuables. They were very competent at it. They had discovered what every other adult had forgotten: a story, well-told, was the golden key of manipulation.
+
+Not speed. Not ruthlessness. Not strength. No, the secret was the flawless performance of a harmless story.
+
+They acted on the [[Ballad]]s they knew, and improvised whenever they forgot the ending. [[Artus]] was the lead, he played the charming distraction — the boy who crossed the square with a loaf of stolen bread beneath one arm, the actor who could start a fight with three words, and a match beneath the other.
+
+At times, he even became the ear to a despairing man's entire life story, by finding the nerve that hadn't yet healed.
+
+He had a gift for being noticed in exactly the right way, for making himself the loudest thing in the room while the room was otherwise engaged. He was great at being the undeniable center of attention.
+
+That's precisely why [[Amadea]] learned to weaponize his antics, in a different art entirely.
+
+She played something harder — the elusive shadow that follows the light as sure as night follows the day. She was the puppeteer beneath the strings of what all eyes are tracking, the part of the performance that blends so thoroughly within the audience that it leaves no trace.
+
+People looked at [[Artus]]. People looked through her.
+
+She had learned, in the uncountable [[Moon]]s since her mother's death, to make herself into something that the eye slid past without catching. She was present, always, but just barely outside the edge of the main stage. She was absent in all the ways that mattered for each theft, with terrifying and reliable piercing precision.
+
+Together they were the tide that washed through half-ruined towns. Him drawing every gaze wherever he needed it. Her dissolving into the spaces that the distraction opened. They [[Dance]]d in every play their own waltz of light and shadow — and as payment for the performance, they took what the world owed them: bread, hard cheese, dried meat, and, on their finest occasions, the vivid luxury of the vibrant pink of [[Auric Peach]]es.
+
+[[Artus]] reached for any [[Auric Peach]] whenever the opportunity allowed. They were always worth the effort — dense with flavor and strangely filling in the way that a stale meal rarely was, their flesh mirroring the texture and substance of real meat. Their color shifting from deep rose to a hammered gold depending on how well they had ripened, as though they were remembering what warmth looked like.
+
+They appeared in every [[Ballad]] [[Artus]] knew from before the [[Great Plague]], always as a symbol of abundance, and perhaps of a life that was equally as vibrant in its normalcy, where this was the kind of fruit that had once been commonplace enough to appear in the street stalls without wonder.
+
+The best ones were always the golden ones. Their name said as much.
+
+Though the old [[Legend]]s gave them a grander origin — gifts of a distant 'Golden Sovereign,' the one theology the adults still whispered about even now in silent prayer. The alleged auric voice that sang the universe into being, whose song had become, for reasons no one fully agreed on, inexplicably silent. Though [[Amadea]] had little patience for the theology of adults.
+
+She revered the distant skies, yes. They were of a myriad symbols but only in the way that their starlight provides, only in the awe of what she could see. Still, even if it was all a [[Legend]], she understood what [[Artus]] knew without either of them needing to say it.
+
+Finding an [[Auric Peach]] in a ruined market was a kind of proof. A proof that a world had existed before this one.
+
+The proof that things had once grown golden, and full, and beautiful without being loud or deafening. It was a bridge between the world that came before them, and the one past the embers that they were still — stubbornly, absurdly — trying to reach.
+
+Once, when they were scavenging for exactly that, they found something stranger still: a riverside workshop standing half-collapsed at the edge of a flooded town, its shelves lined with objects that had no names in their vocabulary — filled with all sorts of things that were fascinating in the way wrongness is fascinating. They found many things that drew the eye and held it slightly too long. Eerie aromatic masks with sealed chambers, tools whose purpose they couldn't guess but whose sharp shape implied one, and anything stranger wedged still between them.
+
+In the upper shelves, they found what appeared to be an entire wheel of pale cheese. [[Artus]] reached it first, and declared victory before he had even tasted it. Only when he bit it did he realize it was wax.
+
+But that never stopped him from declaring victory anyway. The wax would waterproof their boots, he said. And that was practically the same thing.
+
+Some towns, however, were not always abandoned, and the people who had survived the [[Great Plague]] had survived it, in many cases, precisely because they were ruthless about protecting what remained.
+
+Until the first time they were caught.
+
+The market town had looked quiet from the hill — quiet enough that they had grown careless in acting their play.
+
+This one merchant was much faster than he looked. He was skeletal, but those old bones moved with much more purpose than either of them had expected, and he kept his vision on his troves regardless of [[Artus]]' performance. When he caught the sight of [[Amadea]], his grip became the kind that doesn't negotiate. The kind that caught her arm before she cleared the valuables in the stall. The kind that left bruises in her skin for much longer than she would encounter him.
+
+What happened next, she would remember for the rest of her life.
+
+[[Artus]] saw both, he dropped the performance. He leapt, impossibly, to close the distance.
+
+He stepped between them, before the merchant's hand could cause her more harm.
+
+Not with a weapon. Not with a threat. He stood only with himself — in the plain, deliberate fact of him, placing his body where hers had been, telling the merchant with pristine [[Composure]] that the girl had been mistaken. It was he who coerced her to take the bread, and that he was willing to accept whatever consequences it carried.
+
+The merchant, denied the satisfaction of punishing someone helpless, accepted the substitution, on the premise that he would be ruthless.
+
+He accepted.
+
+No one else from the caravan intervened.
+
+[[Artus]] took the beating with the same [[Composure]] he brought to everything — quietly, on his feet, as long as he could manage, without making a sound that may draw [[Amadea]] back. He only looked once to the alley where she ran, and the brief exhale of relief on his face when she was safe was the worst part.
+
+[[Amadea]] didn't run far, she watched from the edge of the shadows of a doorway across the square, her stolen bread still in her arms. She could not move. She wasn't sure she was breathing. She only noticed until her fingers clawed at the bread from shock and shame.
+
+When it all ended, he found her at the edge of town, sitting in a low wall with the bread on the ground beside her — as through she had set it down between breaths, and had forgotten it was there.
+
+He came walking slightly off-center, favoring his left side. His lip was split at the corner, already beginning to swell.
+
+He was grinning.
+
+"You kept the bread!" He said.
+
+"You're bleeding." She said.
+
+"Well," He sat beside her, carefully, and looked out at the road. "That's what the bread was worth."
+
+"It wasn't your fault. You didn't have to—"
+
+"Yes, I did." No drama. No performance. Only his voice stating a truth he had already reconciled without her.
+
+"Obviously, I did."
+
+She didn't know what to say to that.
+
+She had never had anyone stand between her and anything that wanted to hurt her. The [[Static Criticality]] had never cared if she was crying — the cascades came whether she wept or not, indifferent as wounded weather, indifferent as the cold in a dead woman's arms.
+
+But [[Artus]], that young boy from the caravan, who carried no obligation to her — none she had given him, none she could name — had walked into an adult's anger, and absorbed it on her behalf, as though it were simply the only reasonable thing to do. He walked as though the logic of it were obvious. He had done it without hesitation, without an audience, and without a single soul from the caravan moving in to help either of them.
+
+That was the part that settled in her. Not the act itself. The solitude of it.
+
+He was looking at her, in the way he always looked at the seed in his coat pocket — as if the future the stars pointed toward were already decided, and the present pain was simply the distance between the origin and the [[Legend]]. As if being hurt were something the story had already accounted for.
+
+That rational, irrational gesture, was the first miracle she had ever witnessed — not because something impossible had happened, but because something she had no prior category for had happened instead. Not silence. Not relief. Something more precise. And it was him, it was only ever him, that quiet, and impossible him. It equalized her.
+
+The static of her heart didn't go quiet. No — the frequencies shifted, the way a signal reshapes when something finally enters the register it had been solely broadcasting into the dark alone. For the first time, the weight of her mother's arms had something answering it. Something in the same key.
+
+But even if his sacrifice moved her, it would not be the last time.
+
+Over the [[Cycle]]s, in the half-alive towns they passed through, it became a pattern: [[Artus]] framing on himself the consequences of whenever they were caught, stepping forward whenever [[Amadea]] drew the wrong attention from the wrong adult. It was not often but it was often enough.
+
+He never made it feel like a sacrifice. He was very tactful about that — the way he cared to choose his words after, the way he never let the cost show on his face until she had already looked away. He never let it settle as debt.
+
+There was a fiery focus to the way he moved forward, not performance, but the kind of defiance that burns in the place where a person has already decided that the outcome doesn't change what they do.
+
+He stepped forward each time with the same completeness he brought to every [[Stubborn]], irreversible act of resistance against the static of the world. The same completeness he had brought to sitting beside her in the mouth of an arch pass, speaking into a valley going dark at the edges, its embers still drifting — as though even the dying light owed him an answer.
+
+And each time he stepped forward, the thing she would spend many [[Moon]]s struggling to name grew slightly heavier in her chest.
+
+Until the weight became the story.
+
+#### White Interlude 2 | Time Tracking, [[Soul Sheet Music]], Bonus Chapters
+
+_Introduces Delta and Omega as two of the three lead chroniclers, they are only missing Alpha who is currently dissociating in a state of superposed resonance that collapses when the archivist looks at him. Also introduces The Eye, saying he is blind._
+
+_Drops the famous phrases about [[Gateway To Genesis]]:_
+
+- _"It is undeniably cruel that everything has to die, but that cruelty is the exact canvas upon which loyalty, memory, and love are proven."_
+
+- _"If life were eternal and painless, then all the courageous acts of sacrifice, the weaving of memory, and the haunting beauty of [[The Eternal Symphony]] would all simply cease to sing." — [[The White-Touched Archivist]]._
+
+- **The Tenet of Moldy Worldbuilding in [[Arcanoria]]:** _From the note of a single soul, to the [[Sonata]] of a [[Civilization]]. It is the birthright of every empire to die, but through the [[Echoing Bonds]] of memory, every death is the foundation of a wiser genesis. To live is to struggle, to struggle is to ascend in harmony with the fractured symphony, and fade into obscurity after the last song goes silent._
+
+_"Okay, our system begins with the base 3, 3 is the [[Trinity Harmony]], past, present and future. I am surprised, and somewhat baffled that you recognize 5 instead of 3. 10, 15, 20, these are all weird numbers, completion in Arcanoria tends to be 3, 6, 9, 12. Not 20, or 10. At least, I guess we do share 15 so that's a start. Honestly watching this side of the veil is so interesting. And no, before you say it. I am not weird, you're weird for thinking I'm weird!"_
+
+_"The environment reinforces these values. The stars reinforce them. The Leylines reinforce them. Magic reinforces them. All musical terminology reinforces them. And the religion merely tells why. So of course 10 looks arbitrary. What metaphysical relationship does ten encode? Nothing obvious, clearly. Even worse with 20, that's essentially an unfinished 21. Looking back at your familiarity with 10, that 20 feels like what you would think of 99. It's almost there, but annoying incomplete. One more. Now it closes perfection of time and structure!"_
+
+_~ Closing Note ~_
+
+_“No, seriously. Why would you stop at twenty? You're one away. One! It is right there!”_
+
+> _Heyy——_
+> 
+> _Why won't this work... properly—_
+> 
+> [A Loud Bang from the Other Side]
+> 
+> _There we go, these old potatoes just required one heavy hit to function!_
+> 
+> _Before anything, I'm sorry. I forgot to give you this earlier. I was slightly too involved in recording the start unfold. 
+> 
+> Act two seemed like the right moment, looking back, but I was too caught up in watching her. There are so many details that are hard to track with precision.
+> 
+> Let me properly introduce the score, I'm calling these "[[Soul Sheet Music]]" fitting, right? For this one, I even wrote an epigraph:
+> 
+> 	Ah, "[[Amadea]]". Lover of God. And what does God give to those who love her? I do respect that her music never—_
+> 
+> [The Tether Fills — Abruptly]
+> [Signal Overload: Resonance Anchor Locked Without Authorization]
+> 
+> _Wait— I wasn't— that wasn't supposed to—_
+> 
+> [The Soul Sheet Opens]
+
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+~ [CELESTIAL LEDGER — SOUL SHEET MUSIC] ~
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+[[Amadea]]
+A Starving [[Orphaned]] Girl at the End of the World.
+
+[[Legend Title]]s:
+  "Girl." "Orphan." "You There."
+  "Empress" [[Amadea]]. ← (Somewhat Pending.
+  One person's faith does not yet a title make.
+  Though it is a remarkably precise kind of faith.
+  That perhaps matters more than the title itself.)
+
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+✦ I. THE WISH — ORIGIN LEGEND TRAITS
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+[[Soul Leitmotif]]: [No Binding] (The seeds do exist, but she has yet to hear the song of her own soul.)
+
+[[Ornament]]s: [No Binding] | [No Binding]
+
+ [???] Wish: [Sealed]
+  (A wish cannot be recorded before it is intonated.
+  The journey is just beginning, she
+  hasn't found yet what she is willing
+  to sacrifice everything for.
+  That comes later.
+  I promise it will be worth the wait.)
+
+  [[Orphaned]] — [[Dissonance]] Origin
+  — The first wound is never the last.
+    But this is the one that shapes the key
+    everything else is written in. 2x [[Fragment of Meaning]]
+    in finding belonging against the [[Weight of Purpose]].
+
+[???] — [[Dissonance]] Origin ← (Dormant. Developing.)
+  — Every child on a caravan learns something to survive.
+    Some learn speed. Some learn silence.
+    She is learning something more dangerous than both.
+    It has not fully formed yet this early.
+    But I can already hear the first note.
+
+[???] — [[Consonance]] Origin ← (Irrelevant. For now.)
+  — None can really tell this young.
+    She certainly can't.
+    It will become relevant later, in ways
+    she will not entirely appreciate.
+
+[[Underdog]] Status <- Active
+  (2x [[Lyrical Fragment]]s in exchange for
+  a life full of the friction of the soul.
+  I would tell you more, but that would
+  rather defeat the purpose of keeping
+  a ledger, wouldn't it.)
+
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+✦ II. THE EXPRESSION — PERSONALITY LEGEND TRAITS
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+[[Primary Instrument]]: Static?
+  (I am choosing to write a question mark.
+  She would agree with me, if she could read this.
+  The proper instrument exists.
+  Only the hand that will play it has not yet been
+  broken in the precise way required to
+  learn the correct grip.)
+
+[[Armament]]: None.
+  (She has survived this far on silence.
+  The blade comes later. It will suit her.)
+
+[[Grief-Stricken]] ← Active
+  [Void + 3] | [Flux + 2] | [Strand + 1]
+   (Which one of these she is in at any given moment is the 
+   only honest measure of where she stands. 
+   Watch the temperature of her silences until
+   one of them crystallizes in her soul. That's the real beauty
+   of soul's expression, even I can't predict an outcome from here.)
+
+  —   _"Every breath is a still requiem of their absence..."_
+    She is not past it. She is inside it.
+    What it becomes depends entirely on what she
+    chooses when someone tries to steal
+    the only warmth she has left.
+    → [???] → [???]
+
+[[Manipulative]] ← Active
+  [Luminance + 3] | [Void + 2] | [Strand + 1]
+  
+  —   _"Everyone has strings attached. You just have to pluck them."_
+    Acting on the [[Ballad]]s pays off
+    in the spaces between survival and silence.
+    Who knows for how long it will become a source of 
+    conflict before it becomes a source of power.
+    → [???] → [???]
+
+[???] ← Dormant. Seeds only.
+  — She has looked up at the stars every night
+    since the weight of her mother's arms went still.
+    That is the first note of [[Ballad]]s in a sense.
+    I find quite beautiful, actually.
+    → [???] → [???]
+
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+✦ III. THE MASTERY — SPELLWEAVING & LEGEND OPUS
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+[[Spellweaving]] [[Legend Trait]]s: None. Yet.
+  (These are earned, not given.
+  They are the scars and the proof of
+  having lived something — and then
+  chosen to do something with it.
+  She has lived something.
+  The second part is still her [[Legend]].)
+
+[[Legend Opus]]:
+  — Survivor of the Third Wave of the
+    [[Great Plague]] of Euphoria 
+
+  — [???] (I have counted at least six more.
+    One of them is the reason I keep
+    this ledger at all. I'm intrigued to see
+    which ones may differ in the end.)
+
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+✦ IV. SEVEN BINDINGS & EXTENDED INFO
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+[[Triadic Virtues of Spellcraft]]:
+- [[Key of Attunement]]: 1 — Terrible
+- [[Sufficient Precision]]: 3 — Terrible
+- [[Emotional Authenticity]]: 2 — Terrible
+- [[Essence Sacrifice]]: 5 — Apprentice
+- [[Perfect Focus]]: 1 — Terrible
+- [[Absolute Certainty]]: 1 — Terrible
+- [[Echoing Bonds]]: 2 — Terrible
+
+[[Legend Relationship]]s:
+- Mother's Memory — [[Void]] Thread ([[Relational Severance]])
+- [[Artus]] — [[Void]] Thread ([[Sworn Duet]])
+- [[Corvin]], Clothed Mentor — [[Luminance]] Thread ([[Dim Tuning]])
+
+(Not that many but it gets very messy. I promise.)
+
+— [[The White-Touched Archivist]], Again.
+
+#### Bonus Chapter 1 | Elaine's Azure Dream
+
+Elaine's backstory before meeting Kay
+
 ### Act 4. The Golden Light in the Sky & The Auroral Ribbons (Chapters 8-10)
 
 #### Chapter 8 — Love is the Only Thing That Survives (Act 4 | Part I)
@@ -3831,17 +5070,21 @@ _Act 4: The Golden Light in the Sky & The Auroral Ribbons_
 
 _Resonance | Key of Attunement_
 
-[[Corvin]] and [[Elaine]] begin tending and teaching the children more as if they were their own after the split lip of [[Artus]]. The teaching continues.
+[[Corvin]] and [[Elaine]] begin tending and teaching the children more as if they were their own after the split lip of [[Artus]]. The teaching continues, Amadea is unable to coordinate properly so she becomes frustrated with herself. She could hear the measure perfectly. Her feet simply refused to believe it. On this spiral, [[Elaine]] grounds her saying that not everyone has to learn to dance, holding the music is the most important part, especially if she can understand the rhythm.
+
+This makes her prefer only staying with the violin and being the music while the rest are able to move accordingly. She has more focus on the violin and on creating her own ideas. Which is why she becomes such a prodigious composer, and it also makes Amadea actively avoid dancing, masking her insecurity about herself and her lack of coordination. It helps her abilities but costs her emotionally as [[Lynette]] becomes [[Artus]] dance partner while she watches from the sidelines.
 
 Multiple captures; Artus absorbing consequences repeatedly.
 
 Cosmological world-building; the overarching threat of the Void and the looming reality of the [[Echo of Dissonance]].
 
-Crescent mist peaks have to be foreshadowed in the earleir chapters of the dream
+Crescent mist peaks have to be foreshadowed in the earlier chapters of the dream
     
-First noted by kay when they arrive to the age of behemoths, and then by lenore later, this makes amadea's realization that she's finally here profound on act 25
+First noted by kay when they arrive to the age of behemoths, and then by lenore later, this makes amadea's realization that she's finally here profound on act 25.
 
-[[Auroral Ribbons]] as comfort when [[Amadea]] looks at the skies to cope, you can note that some adults still whisper prayers to “the Lady of Ribbons” who sometimes answers with sleep that doesn’t hurt. That’s [[Dreamweaver]] in folk-theology without naming her.
+With the megalophobia scenarios, the emotional fulcrum of [[Artus]] and [[Amadea]] becomes the boy carrying a seed across an apocalypse, comparing the image of the seed and [[Artus]] grabbing it against the song of the [[Age of Behemoths]].
+
+[[Auroral Ribbons]] as comfort when [[Amadea]] looks at the skies to cope, you can note that some adults still whisper prayers to “the Lady of Ribbons” who sometimes answers with sleep that doesn’t hurt. That’s [[Dreamweaver]] in folk-theology without naming her. Corvin begins noticing the changes of the wind, flowers or stars during terrible circumstances.
 
 [[Auroral Ribbons]] introduced; [[Lacrimosa]]'s first indirect presence; caravan's slow social collapse. They finally arrive to the [[Age of Behemoths]], escaping the wastes of the [[Age of Embers]] that have placated.
 
@@ -3863,6 +5106,8 @@ After the [[Legend]], [[Corvin]] and [[Elaine]] teach [[Artus]] and [[Amadea]] t
 - _It's the safe route for the heart, just like the caravan threads on the safe routes from its wheels._
 
 As they learn to play, [[Artus]] changes his hummed melody of the Violet Empress while teaching [[Amadea]] the melody, but he consistently messes up the fourth bar. When [[Amadea]] points it out, [[Artus]] smiles and shares a trivial piece of lore: _"The old ballad says the Queen always paused on the thirty-third step of her [[Dance]] to look back at her court. It's just a clumsy note for a perfect queen. But in the end, it doesn't change anything if I can't figure it out correctly. A song only matters because of the silence it breaks."_
+
+Amadea believes this is like her because the "clumsy note" is how she keeps being unable to maintain rhythm and sometimes she trips or steps on whomever she is dancing with.
 
 However this is not a trivial piece of lore, it signals the truth of [[Mythic Drift]], and that the unresolved cadence was not a romantic pause in a [[Dance]]. It is the acoustic scar of a murder, recording the exact moment [[Junius]] drove the first of thirty-three daggers into her, and that's the reason it's incomplete. It's what [[Junius]] heard from her, not what she wrote.
 
@@ -3892,9 +5137,17 @@ _Resonance | Key of Attunement_
 
 In the Caravan Fires, [[Elaine]] is remembering one of the [[Events]] of old [[Legend]]s earlier in the [[Ages]]. It was called “[[The Golden Light in the Sky]]” — a world event that marked [[Mira]]’s death and [[Lacrimosa]]’s first incarnation in [[Lune Shallow]]. _“Old wagon-drivers still talked about the night the sky went gold and the [[Auroral Ribbons]] burned brighter than wildfire”_
 
-As the adults reach a zone of high [[Coherence]] atop [[Leylines]] converging, the talk turns deep as they reveal the real reason of the caravan they have, and Corvin's "Last Procession." rescue mission alongside the entirety of the realm of [[Aeolion]] alongside the river, and they went over Galeholt, Caer Vesper ([[Amadea]]'s hometown), and Lyronesse.
+1On the song of behemoths: [[Corvin]] uses poetry when he should speak plainly; reverence toward landscapes when everyone else sees terrain; obsessively maintaining his cello (This is why [[Amadea]] gathers her ideas when tending to her violin much later, The grounding of tending to the instruments came as inheritance because [[Corvin]] did the same thing, so she repeats that unconsciously); caring too much about food tasting decent despite scarcity; becoming irritated when somebody dismisses beauty as useless; letting himself enjoy one ridiculous luxury and then immediately returning to logistics.
+
+The caravan children are defined by their unique quirks—Lynette counting by touch, Sonia finding alternate meanings, and Carmina painting symbolic glyphs. Making them naturally better dancers than Amadea isolates her further since [[Lynette]] is [[Artus]] usual partner. It proves that while she has the intellect to survive, she lacks the innate rhythm that the other children share effortlessly.
+
+Moreover, seeing [[Kay]] and [[Elaine]] fight together in a waltz prompts the fantasy of [[Amadea]] of being an equal one day to how [[Artus]] is able to move, and eventually she does get to practice again even if she's tripping over her two left foot.
+
+As the adults reach a zone of high [[Coherence]] atop [[Leylines]] converging, the talk turns deep as they reveal the real reason of the caravan they have, and Corvin's "Last Procession." rescue mission alongside the entirety of the realm of [[Aeolion]] alongside the river, and they went over Galeholt, Caer Vesper ([[Amadea]]'s hometown), and Lyronesse. [[Kay]] exchanges with [[Corvin]] poetry, and [[Corvin]] resplies what kind of poetry he thinks is terrible.
 
 They are standing on a sea of clouds high above with the howling winds that Corvin explains is the origin of the name of Aeolion, and how it used to be renowned by the winds that caressed the landscape. This is a preview of his [[Romantic Hedonist]] and [[Melancholic]] [[Legend Trait]]s.
+
+She invites Artus to dance with her instead of his usual partner which is [[Lynette]] and has some semblance of coordination, and he catches her when she trips.
 
 After the revelation, Amadea coins the name Iridia for this place, as she exchanges her private name of the chalice found in the violet grove, saying that if the [[Eclipsed Waterfalls]] are found elsewhere too, then surely the Violet Grove has reflective sand, and thus she coins [[Iridia]] as the private name she shares of the original caravan dream with [[Artus]].
 
@@ -3912,7 +5165,205 @@ They reach a [[Developing Town]] that is fully fortified in the middle of the [[
 
 [[Corvin]] tries to save [[Artus]], punching straight through the crowd and he gets put down by the city guard, both [[Kay]] and [[Elaine]] are ready to combat as well, they all get detained, and they're all kicked out afterward. [[Amadea]] watches the entire thing in the horror from the shadows.
 
+In the aftermath, [[Corvin]] echoes words to [[Kay]] to calm down once they are kicked out with [[Elaine]] hurt: _"I ask the Aria not for a lighter burden, but for broader shoulders."_
+
 After the situation is settled [[Artus]] tells [[Amadea]]: "You're a princess" — the first coronation, the first naming of what she could become.
+
+[[Artus]] went quiet when he saw it.
+
+That was how she knew it was real.
+
+She had been sitting in the inner fold of the caravan when she noticed he had stopped talking. She looked up. He was facing forward, held by something, with the same arrested stillness and quiet wonder he only ever had when he thought no one was watching him turn the seed over in his fingers, as though checking it was still there.
+
+She rose to follow his gaze.
+
+The wheels hit stone before she had fully stood.
+
+The jolt was small but wrong — not the familiar pull of uneven pockets of packed dirt and gravel, but something harder, flatter, a surface that rang low and rhythmic under the cart, returning the weight rather than swallowing it.
+
+She caught the frame to steady herself. The sound came a half-second after the feeling, steady and deliberate. Intention, she thought. Not desperation.
+
+The caravan had reached a [[Developing Town]] larger than most of the [[Outpost]]s and ruins it moved through, and [[Amadea]] felt the difference before she fully understood where she was.
+
+She pulled herself upright and looked out alongside [[Artus]], the wheels still moving beneath them.
+
+Her first impression of the place was beauty. She had never seen a walled settlement. From the road it announced itself not with noise but with presence — the many shadows of it cast long against the pale sky, silhouettes of stone that multiplied as the caravan drew closer, each one more deliberate than the last. 
+
+What struck her was not just the size of it, but the intention in every line, from the walls that rose at right angles to the towers that answered each other across the distance. The stone had been placed to mean something and had gone on meaning it long enough to answer everything the world had tried.
+
+Then they passed through the gates, and she saw it more clearly.
+
+The walls were rough-hewn, visibly weathered by time. Mortar patched in mismatched colors where sections had been rebuilt after one too many things had tried and failed to break them. The gates bore scorch marks the stonework had not bothered to conceal, in patterns that had the same stuttering geometry as the cascades she knew from the valleys.
+
+Whatever had burned against them, had not gotten through, and it was clear the populace had chosen to remember that. It was as if the very erosion had happened through will alone.
+
+It was one of the walled settlements that had truly survived the [[Great Plague]] at its most devastating [[Moon]]s by sheer ruthlessness.
+
+Inside, it had the particular density of a place that had learned to want nothing it couldn't protect, but to fiercely guard whatever remnants it did have. The market quarter was real — stalls with actual roofing, merchants with actual ledgers, guards stationed not for ceremony but for memory. 
+
+Everything for sale was precisely weighted. Nothing was freely given. Even the noise of it was different than the loose, desperate noise of caravan camps: this was the sound of commerce between people who intended to be alive next [[Cycle]], conducting business accordingly to the future.
+
+And if this place had really survived, then it had earned something equally real: guards who remembered why they stood there.
+
+[[Amadea]] had felt it the moment they passed through the gates. In the way attention here moved differently — less dispersed, more deliberate, focused. There were many eyes that had practice deciding what did and did not belong, and had learned across too many bad seasons to assume the answer was neither.
+
+The caravan was assessed in the first seconds it entered, then labelled an outsider.
+
+[[Artus]] had felt it too, and gone quieter than usual.
+
+Until he saw something.
+
+He didn't tell [[Amadea]] what. Only that it was worth the run. She had learned by then to trust his instincts the way she trusted the dread in the air before the [[Atonalis]] hunger leaped from the edges of the dark at dusk — not because it was comfortable, but because it was reliable. He was never reckless without reason.
+
+But this time the reason was hidden from her.
+
+That should have been her warning.
+
+It was a traveling merchant's cart near the rear of the quarter, half-canopied in cloth trimmed in gold-veined white geometry that mirrored the forests. [[Artus]] instantly recognized the colors, it was the signature of what he had heard in [[Ballad]]s.
+
+"Laureated marble." He said to himself in amazement.
+
+For [[Amadea]] it seemed almost regal, finer even than the already well-appointed stalls around it. She didn't know the history as well as [[Artus]] did, but from her memory of his stories, this one had to be one of the valuable carts moving from the lands of the [[Great Expanse]], somewhere in the far, distant west.
+
+Along its side panel ran a symbol [[Amadea]] too half-recognized — it was the same symbol that the adults in the caravan clutched every time the nights got darkest, the sigil they pressed into wooden pendants or scratched into tent posts.
+
+It was a clear line that began below and ended above — a line that somewhere in its upper half had found a circle, as though the line had pierced straight through it on its way toward the sky, and carried the shape of it still.
+
+She didn't know what it meant. Only that it meant something important to people who still needed to believe things did — in the same way the [[Ballad]]s meant something to [[Artus]], and the way those same [[Ballad]]s, through him, had come to mean something to her.
+
+The merchant himself was elsewhere. The cart was not unguarded, but its guard had been drawn three stalls down by a commotion that had nothing to do with [[Artus]], which meant it had everything to do with him.
+
+But even through the spectacle, the guards caught him with both hands inside a traveling strongbox bolted beneath the cart's bench.
+
+What happened next was not like the other times. This was not a tired merchant's corrective fury. These were men who guarded things of real value, it was evident from the intricate details of gold and white on the very rim of the cart.
+
+[[Amadea]] had a glimpse at what [[Artus]] had grabbed just slightly before the tall hooded men forced him to the ground. It was not bread, not dried meat, not even one of those fabled golden [[Auric Peach]]es. No, it was not anything that lived in the language of survival. 
+
+She saw it was a fragment of something — glass, or what looked like a sheet of glass, no larger than the leather pouch he kept the seed in, set inside a lined wooden case beside many instruments, golden bells, and sealed containers that had no business in any frontier market she had ever seen.
+
+Then the guards closed in around him, and [[Artus]] was gone from her sight.
+
+She would only hear the full account of it later — second-hand, from the halting way [[Artus]] described it, still turning the memory over as though trying to understand what he had touched. He said it caught the torchlight wrong. Not reflecting it, instead almost like fracturing it inward, pulling it apart into something quieter, colder, and more complex than light had any right to be inside a thin sheet.
+
+He said it was as if the surface was not a surface at all, but depth. As if looking into it were less like looking at a thing, and more like being seen by one.
+
+He hadn't meant to pick it up. He'd reached for the case beside it. But his hand had found the fragment first, and for a moment — just a moment — he said the cold had stopped feeling like cold when his hand touched it. It had become instead something choral, layered, and still, as though a hundred voices had always been folded into the surface as quiet lights muffled just beneath his fingertips.
+
+The guards were not interested in his explanation.
+
+They kept him for more than two hours.
+
+[[Amadea]] waited in the dry bed of a stream east of the market quarter, exactly as they had arranged. But she was counting each second. She counted time the way children in crisis count time — not by thought, but by the body's inventory of its own dread.
+
+The light changed. The sky moved through its slow dusk, going the color it always went: old bruises, cooling embers.
+
+He came back eventually.
+
+She heard him before she saw him — not by sound, but by the quality of silence around a person carrying a debilitating pain quietly. He came down the embankment one careful step at a time, with a ragged, chaotic breath, moving with the economy of someone who had located exactly which positions still functioned.
+
+She rose.
+
+He lifted a hand, and she waited until he came to rest against the streambed wall with a breath he controlled through visible effort.
+
+His face was wrong.
+
+Not just because of the split lip and bruised ribs of the other times. There was a cut above his left eye still seeping at the edges, his jaw was swollen along one side where something harder than a hand had landed more than once.
+
+The way he held his left arm flat against his side told her what it always told her — except this time the story was worse than it had ever been.
+
+The way his breathing moved in his chest confirmed it. This time, it was a permanent wound, and she could feel herself learning that distinction with the cold precision that had taught her everything else she knew about loss.
+
+She said nothing. There were no words adequate to what she was feeling — not grief, not anger, perhaps something colder: the world was capable of this. She had been in that town with him, with the caravan, no one was there to save him, and neither of those facts could be undone.
+
+[[Artus]] reached into his coat that still had stains of dry blood.
+
+He drew out a copper circlet — small, decorative, the kind sold to village girls for feast-day celebrations in the [[Ballad]]s. It had twisted wire, small settings for colored glass, although most of it was gone, the frame bent slightly out of round. Not worth anything to anyone with something better. She thought he must have snatched it from a market stall on his way out. It was cheap, and damaged, and entirely unmistakable as a gift.
+
+He held it over her head with one careful hand, the other still pressed to his side, and [[Amadea]] was already crying.
+
+Not loudly. She had learned long before to make her grief silent. Tears without sound, in the same way water finds the lowest channel. She did not look away from the cut above his brow.
+
+"You're hurt," 
+
+She finally broke the silence.
+
+"Stop," He said. Not unkindly.
+
+"Again," She said, in a trembling voice. "Because of me." 
+
+"No, because I chose to be." He kept the circlet above her hair. "There is a difference."
+
+"It doesn't feel different."
+
+"It does from where I'm standing." His voice was even — not the voice of [[Ballad]]s, but the raw voice of a confession he had been carrying for long. 
+
+"You keep confusing cost with failure. Something costing something doesn't mean it went wrong. It just means what it was worth in its price."
+
+She didn't answer. The tears kept going.
+
+He lowered the circlet onto her head. Too large. It slid slightly to one side, and he straightened it with two careful fingers, as if he were righting a painting in a house that he decided to make beautiful.
+
+"You're a princess," He said.
+
+She almost laughed through the tears. "I'm not."
+
+"You are. You just don't know it yet." The same even voice. "And one day, you will be an empress."
+
+"You can't see the future."
+
+"No, but I can see a future. It might be wrong. But mine is better than no future at all." 
+
+He settled back against the streambed wall, looking at the distant sky, which was doing its usual dusk trick of turning the color of old bruises.
+
+"And empresses don't sit in dry riverbeds crying over stolen circlets. It's not dignified."
+
+"I'm not crying over the circlet."
+
+"I know." He paused. "You're crying because someone got hurt, and you think it's your fault. But it isn't. It's the world's fault. The world is broken, not you." 
+
+He looked at her sideways. "Save the crying for things that deserve it. The small stuff — let it go. Empresses have to be strategic about their grief."
+
+She looked at him for a long moment. He was sitting in a dry streambed with a cracked rib and a bleeding brow, with absolute [[Composure]] and not one ounce of intention of making that into a tragedy. As if the blood were weather. As if the circlet on her tilted head were simply the coronation for the correct arrangement.
+
+She stopped crying.
+
+She took the circlet off and held it in both hands. Damaged, bent, most of its glass gone. It had cost her nothing except his pain, which was everything.
+
+"I'm going to keep this," She said.
+
+"I thought you would."
+
+She looked up. "But when I build the city. When the story ends the way you keep saying it ends." She held the circlet up, high between them. "I'm going to be the one who puts this on your head."
+
+He looked at the circlet. Then at her. Something moved across his face — a sort of startled recognition, as though she had named something he had felt but not yet dared to say aloud, even when performing the [[Ballad]]s.
+
+"Alright," He said.
+
+"I mean it."
+
+"I know." He rose carefully, one hand finding the streambed wall, and extended the other to pull her up.
+
+"I really know you mean it."
+
+#### White Interlude 3 | Atonalis King & [[Ages]]
+
+**~ [CELESTIAL LEDGER — ARCHIVAL CORRECTION] ~** 
+
+_An 'Atonalis King'? Really? I am trying to document the precise acoustic resonance of a dying universe, and this boy thinks I am leading the very coagulation of despair I spend my Cycles avoiding._
+
+_Let us correct the record. I am not their king. Those horrors—specifically the Anxithor—swarm my Resonance Anchors because they are terrified of truth. They cluster at the doors of the White-Haven Library as a preemptive strike. And the 'madness'? It is simply the unbearable weight of ever unfiltered word conceived. It is not my fault their minds fracture when exposed to the raw physics of Cosmic Motion. If the boy spent less time rhyming and more time observing, he would notice the Atonalis don't guard me; they are trying to keep me contained and are probably the ones most scared in the entirety of Arcanoria of me._
+
+_Ah, sorry, I shouldn't be dropping words like that. They surely sound like jargon without context. I don't have any more time or coherence left to sustain the tether. There is a place where the pages grow white. If you want to learn more about this, I'll give you one of the whispered secrets. There's this guardian, Alpha, a type of angsty anti matter hyrax that serves as the main keeper of some of these stacks. Give him the password GODS BLINDSPOT and he'll explain all about [[The White-Haven Library]], and hopefully, some light face of me._
+
+_Ah... I've burned all of my stored [[Coherence]]... We won't meet again for some time but I've prepared already two windows for you._
+
+_See you on the other side, [[Third Actor]]._
+
+_[[The White-Touched Archivist]]._
+
+#### Bonus Chapter 2 | Kay & Elaine Singers Together
+
+The backstory of Kay meeting Elaine and setting on a dream together.
 
 ### Act 5. The Dawn That Drowned in Fire (Chapters 11-13)
 
@@ -3925,7 +5376,29 @@ _Resonance | Key of Attunement_
 
 [[Kay]] teaches and challenges [[Artus]] in combat for his third [[Real Cycle Birthday]], surprised that he is able to keep up with his movements, and is a promising student. He makes a promise to teach him how to get his own prismatic blade once he experiences a [[Motif Awakening]] after [[Artus]] questions why he is unable to do magic and [[Kay]] can, saying if he could do magic he would've beat him.
 
-When half of the cart dies, including two more named children that become patches [[Corvin]] surrenders to his [[Romantic Hedonist]] [[Legend Trait]] saying in poetry: These aren't my tears, my dear daughter; it's just the glisten of dew left here in other fields where other fathers are and they can care for their daughters better than I do.
+As they enter into the treacherous zones, they get the weather rampage of the electrical storm that also prompts all the [[Pure Light]] previously lovely critters to trigger their [[Carnal Crests]] and become the great locust ashstorm. This is a parallel scene of deciding whether to save settlements and as [[Corvin]] has softened up, he agrees to [[Elaine]] to try to attempt to save something like they once sacrificed for Aberchord. However, this proves [[Corvin]]'s original thesis that they can't gamble away the lives they have. They do rescue many from the passes, however, the bottlenecks become impossible, and at the worst of the ravages of the ash storm locust storm becomes a high stakes survival scenario, that ends ultimately in tragedy, killing many children, both rescued and the caravan's.
+
+[[Strand]] [[Motif Awakening]] for the first [[Ornament]] of [[Kay]] as she sees [[Elaine]] get hurt and pinned down as an echo of his childhood when he has to triage who to save. He is the one most desperate to save both her and get the rest out. He chooses to save [[Elaine]] over anyone else. [[Elaine]] gets very angry at him saying that he just sacrificed the entire half of the cart, but [[Kay]] pushes back saying: _"You are still here, be angry at me, yell at me, be here to scream at me. If I had chosen anyone else, you wouldn't be anyone else anymore to hate. Hate me, but be here to hate me."_
+
+He manages to save [[Elaine]] but the tally count is high, this includes, [[Sonia]] and [[Griflet]] who made it to the ending but as [[Sonia]] was trapped, [[Griflet]] goes back to save her, and both of them die in the ongoing stampede of [[Pure Light]] locusts. These are the signature ash storms from the [[Age of Desolation]].
+
+When half of the cart ruptures, many die before [[Kay]] can use the leap of [[Resonance]] to save everyone. The deaths of [[Sonia]] and [[Griflet]] become patches in a breaking [[Corvin]] that fully surrenders to his [[Romantic Hedonist]] [[Legend Trait]] on the aftermath saying in poetry as he sees the ghost of Lyra: _"These aren't my tears, my dear daughter; it's just the glisten of dew left here in other fields where other fathers are and they can care for their daughters better than I do."_
+
+This also breaks [[Carmina]] because [[Sonia]] was her closest companion, and it also traumatizes the entire cast of children, but most potently it hits [[Artus]] and [[Chen]].
+
+But after these deaths, [[Carmina]] changes their glyphs for the very first time after someone dies. For [[Griflet]] the third mark curls backward to its starting point toward a blue crescent because he came back. For [[Sonia]] she becomes a sigil, just like [[Carmina]] but one on the opposite command.
+
+This also is the moment Carmina's relationship with interpretation breaks.
+
+Before Sonia:
+
+_Art is something we understand together._
+
+After Sonia:
+
+_If I don't control the meaning, people will get it wrong.
+
+This is why also after Sonia dies, the dots stop appearing from Carmina's paintings. Carmina never lets anybody else add them. This is the original act that begins fully breaking [[Elaine]]'s trust in herself and her [[Stage Performer]] as she internalizes that this was the weight of her idealism, even despite [[Corvin]] saying that such a thing was his fault. [[Kay]] also becomes much more paranoid after this event.
 
 #### Chapter 12 — Ravages of the Great Plague (Act 5 | Part II)
 
@@ -4253,7 +5726,7 @@ As the words of his poem reach their end. He dives into the final stand:
 
 > _"The deep strings for the love I still carry,"_ he whispers, _"The song for the hands I couldn't save—"_
 > 
-> He swings his bleeding fist at the monster, fighting with his bare hands to buy them seconds, as the patches of his coat catch the fire too
+> He swings his bleeding fist at the monster, fighting with his bare hands to buy them seconds, as the patches of his coat catch the fire too. Corvin dies with his memories burning on the coat as a physical and symbolic explanation of burning memories much before tier 3 is introduced.
 
 Amadea looks back. He is smiling. Not brave—_relieved_. His last words, 
 
@@ -4315,11 +5788,13 @@ The city is still active. That's the horror. Its citizens are trapped in the dea
 > 
 > _"I'll save her!"_ Amadea lunges forward, pushing through the smoke, reaching for the fallen beam—
 > 
-> _"No—"_ Artus grabs her arm, hauling her back. _"Amadea, you can't—"_
+> _"No—"_ Artus grabs her arm, hauling her back. He sees the exact same way that Griflet died trying to save Sonia, and he is terrified of the pattern repeating: _"Amadea, you can't—"_
 > 
 > _"I can!"_
 > 
 > _"You'll die!"_
+> 
+> _"I have already watched someone reach safety and decide that somebody else mattered more than staying there. I am not watching you do it too."
 > 
 > _"I don't care!"_
 > 
@@ -4477,6 +5952,8 @@ She doesn't let go.
 
 ### Act 6. The Coronation of the Violet Empress (Chapter 14)
 
+#### Chapter 14 — The Coronation of the Violet Empress
+
 _Movement 1: The Dream | Score I: A Ballad Before Iridia_
 _Act 6: The Coronation of the Violet Empress_
 
@@ -4498,3 +5975,153 @@ For a serialized fiction audience reading the "Public Release" acts, this establ
 
 They reach the outskirts of [[Lenore]]'s friend, [[Nivienne]], she is the Lady of the [[Leylines]] basin, at the [[Auric Order]] church where they arrived right as the snowflakes began to fall.
 
+They ran for three days through nameless passes, over frost-broken stone, past the remains of ruins by the river leading to Nivienne's church that had already been emptied by plague or monsters or hunger. When her legs gave out, he carried her. When his strength failed, they hid together beneath a fallen monolith and waited for either dawn or death.
+
+In the dark, [[Artus]] told her the [[Ballad]]s and fairytales he knew. And when he didn't remember, he kept writing the stories himself.
+
+One night when the [[Moon]] was at its fullest, he told her the one story that would change fate itself as [[Amadea]] was sobbing over [[Elaine]]'s lack of Birthday.
+
+"There was once a girl," he said, "who had nothing."
+
+"That's not a story," [[Amadea]] whispered.  
+"That's just life, again."
+
+"No," [[Artus]] said.  
+"That's the beginning."  
+"The story is what comes after."
+
+So he told her the mythic story of the [[Saber-Knight]], a wandering knight with no banner, no kingdom, and no inheritance but a promise.
+
+"Everywhere he went, the [[Saber-Knight]] told people about a place where the trees grew violet. Some laughed. Some pitied him. But a few believed."
+
+[[Artus]] paused to retrieve, clumsily, the seed he had been carrying in his pouch.
+
+"And one by one, those believers joined him. But out of those believers the most important one was a beautiful empress with a large regal dress."
+
+"Let me guess — do I know her name?" [[Amadea]] interrupted.
+
+"Shh! No spoiling until we get to the end of the story," [[Artus]] replied.
+
+"With her guidance and the valiant [[Saber-King]], they built shelters," [[Artus]] continued. "They planted gardens. They learned to fight the [[Atonalis]]. Not with magic they didn't have, but with traps, and patience, and the [[Stubborn]] refusal to give up."
+
+"And when the [[Saber-King]] finally died — old, surrounded by friends, with the hand of the beautiful empress, his body worn out from a lifetime of protecting others — they buried him beneath the tree he had planted from a single seed, carried across a continent in a leather pouch."
+
+"And the tree grew, for the empress tended to it every night."
+
+"And because of this care, all of its leaves were violet."
+
+"The [[Saber-Knight]]'s name," [[Artus]] said solemnly, "was [[Artus]]."
+
+She looked at him in disbelief, letting out a laugh.
+
+"You named him after yourself."
+
+"Someone has to be the hero."  
+"Might as well be me."
+
+"That's arrogant."
+
+"No. That's optimism." After a deep sigh, [[Artus]] said, "And that difference is everything! But more importantly — do you know what was the name of the tree?"
+
+"The tree? Trees don't have names."
+
+"This one does. For it was one beautiful violet that grew from the seed the [[Saber-King]] spent so much time protecting."
+
+"It was [[Amadea]]."
+
+"It was a really beautiful tree named after the empress that shared the same name."
+
+"You're so stupid! This is even worse than what I imagined!" She said.
+
+[[Artus]] went still.
+
+"That means you're finally imagining," He said in a murmur.
+
+The [[Ballad]] brightness was gone from his voice.
+
+"You—You said what you imagined. Which means you imagined!!"
+
+She opened her mouth. Closed it.
+
+He was smiling — not the bright, theatrical smile he wore for stories, but the other one. The one with nothing to perform.
+
+"And now that you can imagine a future," Wiping tears of joy, [[Artus]] said, "I can finally give you the rest of it."
+
+He reached into his coat.
+
+Not the pocket with the seed. The other one — the deep interior pocket, sewn into the lining, the one she had never seen him open in all their [[Cycle]]s together.
+
+He brought out a shard of [[Sky Glass]].
+
+No larger than a playing card. It caught the moonlight the way ordinary glass refused to — not reflecting it, but fracturing it inward, into a hundred cold, quiet lights inside its own surface. The patterns shifted as he turned it, recursive, folding, the compressed structure of a night sky pressed into something you could hold.
+
+It breathed pulsing between pale cyan and something almost green.
+
+She recognized it.
+
+Not from memory. From the lined wooden case inside the merchant's tent. From the thing that had been worth two hours, a cracked rib, a bleeding brow, and two [[Lunar Cycle]]s of silence.
+
+"You had this," She said. "That day. The circlet was—"
+
+"What they saw me reach for," He said. "This was what I had in my hand when they caught me. They searched me when they were done. They didn't look in the lining." A brief pause. "I didn't correct them."
+
+She caught what he meant without needing him to explain it. She had not been able to imagine a future. He had known. And he had waited — not for the right moment, but for the right her.
+
+[[Artus]] took her wrist — the one where the copper circlet had been looped on a leather cord since the streambed evening, the wire mended once, the cord replaced twice. He untied it gently. Held the frame flat in one palm, the [[Sky Glass]] shard in the other.
+
+Then he pressed the shard into the largest empty setting at the circlet's crown — the central one, the setting that had always been the widest absence in the wire. The surface held. It fit the way things fit when the waiting has been long enough to shape them.
+
+The circlet was changed by it. Still bent copper wire, still modest, still the same earnestly carried thing — but the [[Sky Glass]] at its crown made everything else secondary. The moonlight caught it, and the light inside scattered outward across their hands and the dark between them, soft and recursive, like something that had been held in for a long time and was finally allowed to move.
+
+He lifted it.
+
+"I took this from the caravan the night before we left," He said. "Or — I took it, they took it from me, and I took it back before they noticed." He pressed her hand to the glass surface, and she felt the tactile fractals beneath her fingertips — the dizzying complexity of something that had no business existing in a place like this, being carried by people like them.
+
+"The adults said it was a mirror of the cosmos. That it contained the entire order of the sky in a single surface." He paused. "I thought — if anyone was going to find out if that's true, it should be you."
+
+She couldn't speak.
+
+"How did you — I never knew something like this existed. This really is a magical—"
+
+"You really are a princess," He said, and settled the circlet on her hair, and straightened it with the same two careful fingers as before, and the [[Sky Glass]] caught the full moon and scattered it through the dark like stars finding their way home.
+
+"But... I'm not," [[Amadea]] said in a whisper.
+
+"You are." A final small adjustment. "You are the [[Amadea]] from the [[Ballad]], whether you believe it yet or not. And one day you'll be an empress as magnificent as the woman in the [[Legend]] who first carried your name."
+
+She took the circlet off and held it in both hands. Bent copper and two [[Lunar Cycle]]s of kept faith and a shard of the sky at its crown. The [[Sky Glass]] moved with light in the dark — quiet, patient, the kind of beautiful that doesn't ask to be noticed.
+
+"I'm still going to keep this," She said.
+
+"I wouldn't expect any less of my princess." He replied immediately.
+
+She looked up defiantly. "But don't think for a moment I've forgotten what I promised you. When the story ends... If it ends— and it has to end the way you keep saying it ends."
+
+She held the circlet up between them, the [[Sky Glass]] fracturing the moonlight between their faces. "I'm going to put this on your head."
+
+He looked at the circlet. Then at her. The same startled recognition as before — deeper now, made heavier by everything the [[Cycle]]s between had built of them both.
+
+"I believe in you."
+
+He stood and extended his hand to pull her up. And the moment both of their hands touched, he declared:
+
+"Princess, and future empress, [[Amadea]]. Promise me that we will build the violet kingdom together."
+
+
+#### Bonus Chapter 3 | Please, Aria, Give me the Strength
+
+The backstory of Corvin and the [[Shrieking Terror]] with the exile [[Nivienne]].
+
+[[Corvin]] becomes the man who holds the door; [[Nivienne]] becomes the woman who refuses to erase the dead; [[Lenore]] becomes the woman who mistakes prediction for moral certainty. Their failures then become the inheritance [[Amadea]] must transform, and the terminology, roles, and later Act 5 and Act 11 consequences align with the attached canon. 
+
+The adults who shape [[Amadea]]'s early life are bound together by an older disaster, the first wave of the [[Great Plague]]. When [[Corvin]] is twelve [[Lunar Cycle]]s old, he arrives at an [[Auric Order]] ward with his father, having lost his mother to the consumption phase of the plague; there he meets [[Nivienne]], a few [[Lunar Cycle]]s older, who has already lost her father in an [[Atonalis]] attack and lives in the ward with her mother. Both children come to the [[Auric Order]] as remnants of households broken by catastrophe, and both are taught to make suffering legible through faith, duty, and structure. [[Corvin]] takes naturally to [[Contemplation]], and under his father's guidance he learns that order is not comfort but responsibility: hold the line, account for the vulnerable, and endure what must be endured so that someone else may survive. [[Nivienne]], meanwhile, reveals an extraordinary attunement to [[Revelation]], seeking the hidden pattern beneath the boundaries that [[Corvin]] tries to hold. [[Original Eight]]
+
+As the [[Cycle]]s pass, [[Nivienne]] earns assignment to her own provincial ward at her 20th [[Lunar Cycle]], where she teaches scripture alongside [[Corvin]], his father, and her mother. Granted leave to study [[Cosmic Motion]], she begins examining forbidden or neglected passages connected to the [[Chorus Pillar]], assisted by a gifted student and her mother’s research into [[Lunehymn]], and their inquiry finds something it cannot contain. For an entire [[Cycle]], it goes fine, [[Corvin]] is 20 when disaster strikes. The student pieces together finally a [[Scorching Truth]] in the scripture and breaks beneath it, suffering from [[Shrieking Terror]] claiming he hears a howling screech and that something has looked back through the text; in his panic he scrawls the same sentence across the ward—**LUNEHYMN IS STOLEN**—and [[Nivienne]]’s mother withdraws soon afterward, convinced that something is coming. They don't give context to anyone but the phrase is etched everywhere as an ill-omen.
+
+At midnight, the omen becomes a reality: the [[Shrieking Terror]] breaches the ward, it immediately kills the student and blue fire floods the cathedral, and while [[Nivienne]] is outside and can only watch her mother and student die inside at the hands of something with sharp blue fire claws, [[Corvin]] is also outside, but his father is already within the wreckage, badly wounded and still pulling survivors toward the exit. At the doorway [[Corvin]] takes his stand, bracing the threshold open while families and children flee through smoke, heat, and collapsing stone; his body fails before his resolve does, and in that moment his [[Cindergale]] [[Motif Awakening]] answers the single wish that defines the rest of his life: 
+
+_“Please, Aria, give me the strength I need to hold a future. I wish to hold the door open, to stand between this world and its flames, even as my body breaks. I must fight until everyone behind me is out.”_
+
+His power manifests as defiant geometry—a weaponized perimeter that turns one boy’s refusal into enough time for others to escape—and before returning into the inferno for the last survivors, his father looks at him once and says, _“Be proud, son. You are strong,”_ and never returns. That night makes [[Corvin]] a [[Threat Cartographer]]; he learns to count bodies because one uncounted person can become an irreparable loss, he learns to draw boundaries because a threshold can be the difference between horror and life, and he believes the [[Auric Aria]] gave him the strength to keep the door open, while his father’s final words become the private command beneath every later act of devotion: **be strong enough that no one behind you is left to burn.**
+
+In the aftermath of the attack, [[Corvin]] and [[Nivienne]] are now alone, yet the [[Auric Order]] treats the catastrophe with indignation because of [[Nivienne]]'s recklessness theology, many died. [[Nivienne]] is shortly after excommunicated under the law of Dead Knowledge—*“Knowing while being dead is effectively worthless”*—and the [[Auric Order]] orders the records, liturgies, and research surrounding the tragedy erased, but [[Nivienne]] refuses. Standing beneath the [[Auroral Ribbons]], she awakens her [[Strand]] [[Ornament]] through a conviction that will define her life: the dead do not become meaningless merely because they cannot speak for themselves, and if the ribbons still cast light across the sky, then memory must still have moral weight. Her heresy is not simply curiosity, it is fidelity; neither she nor [[Corvin]] fully understands what the student uncovered, with [[Corvin]] concluding only that someone followed a scriptural lead too far, got too close to the sun, and was destroyed by forbidden knowledge. [[Nivienne]] cannot accept that answer, so she becomes an astrologer of [[Cosmic Motion]], determined to learn what [[Lunehymn]] is, why it was stolen, and what kind of truth could call an impossible demon through the walls of a sanctuary. The [[Militant Enclave]] eventually gives them both refuge, where [[Corvin]] grows increasingly [[Pragmatic]], treating [[Chorus Pillar]] scholarship as a danger that invites catastrophe, while [[Nivienne]] becomes the opposite: a scholar of the dangerous remainder, preserving what institutions would rather forget.

@@ -1,311 +1,9 @@
 
-### START COMBAT
-
-1. "Another stage, another dance. Let's see if you're worth the performance."
-    
-2. "The audience is watching, darling. Don't disappoint them."
-    
-3. "I've faced the void. I've buried my knight. You're nothing new."
-    
-4. "One bar to find your rhythm. After that, you're predictable."
-    
-5. "The Violet Actress never misses her cue. Ready when you are."
-### VICTORY
-
-1. "That's my win. The applause is mine, darling."
-    
-2. "You were never the main character. Not in my story."
-    
-3. "One less ghost in my play. One more scar I'll carry."
-    
-4. "I've been dancing since before you learned to hold a blade."
-    
-5. "The ballad continues. That's the only victory that matters."
-
-### VICTORY IN CRITICAL STATE
-
-1. "Almost... almost lost you too. Every close call, I see his face. But I'm still standing, Artus. Still fighting for the grove."
-    
-2. "The void almost claimed me. Felt it pulling, wanting to swallow everything I've built. But I promised him I'd plant the seed. I keep my promises."
-    
-3. "Singers remember... I have to keep singing. If I stop, I become like them—another monster in the dark. Cordelia would tell me to rest. I can't rest yet."
-    
-4. "One more breath. One more beat. One promise at a time. I'll make it to morning. I always do."
-    
-5. "Did you see that, Artus? Still standing. You always watched. I'm going to make you proud—even if it kills me."
-
-### DEFEAT
-
-1. "The music stopped. I can't hear his cello anymore—can't feel the warmth of his hand. I'm sorry, Artus... I couldn't finish the ballad."
-    
-2. "Mother... I'm coming. I tried so hard to live, to build something beautiful. But I'm tired... so tired of fighting alone."
-    
-3. "I failed... the seed... the grove... Everything he believed in, everything we dreamed of... I couldn't protect it. I'm sorry, Artus. I'm so sorry."
-    
-4. "This is where the ballad ends. No kingdom, no grove. Just a girl who couldn't keep her promises, cumming in the dark."
-    
-5. "No... not like this. Not before I plant it. Cordelia would tell me to keep fighting... but I can't. I can't be the one who survives anymore."
-
-### PERFECT DODGE OR COUNTER
-
-1. "Too slow. Read the rhythm."
-    
-2. "I heard that three beats ago."
-    
-3. "You dance like you've never been in love."
-    
-4. "The silence between notes—that's where I live."
-    
-5. "Not even close, darling."
-    
-
----
-
-### TAUNTING
-
-1. "Tap or suffer. I don't have all night."
-    
-2. "You are so weak! You're making this too easy. Where's the fun?"
-    
-3. "I've been picking pockets since before you could walk. You think I'm scared of you?"
-    
-4. "Such an ugly face beneath that mask. No wonder you hide it."
-    
-
-    
-
----
-
-### CAUGHT TARGET
-
-1. "Caught you. The audience loves begging—it's practically all they pay for."
-    
-2. "You should have run. Pride makes people stupid, and stupidity gets you caught."
-    
-3. "A performer never misses her target. You're just another prop."
-    
-4. "Too slow. Timing wins fights, darling. Not speed."
-    
-5. "I know your rhythm now—your heartbeat, your breathing, the way you tense. Predictable."
-    
-
----
-
-### TEASE GRAB TARGET
-
-1. "Can you feel the end approaching? I always lead this dance. The only question is whether you'll make it beautiful."
-    
-2. "You want this, don't you? Just say it—admit you came here to be broken. I've seen your kind. You're all the same."
-    
-3. "I can feel you trembling. Are you afraid... or excited? The Court pays extra when the line between pleasure and pain blurs."
-    
-4. "You came to see suffering. I'll give you a performance you'll never forget. But remember—I'm not your toy. I decide how this ends."
-    
-5. "Such a shame... you were almost beautiful before I saw what's beneath. Don't worry—I'll make your climax memorable."
-    
-
----
-
-### GRAB TARGET CLIMAXING
-
-1. "You're making such a cute face—I'm almost jealous. I'll make sure the audience remembers this moment. They paid for a show, and I always deliver."
-    
-2. "And the crowd goes wild. What a performance—you played your part beautifully, even if you didn't know you were performing. That's the mark of a true artist."
-    
-3. "Cum for me. Show everyone how much you wanted this, how badly you needed to be broken. The Court loves confessions, and you're about to give them the best one yet."
-    
-4. "The finale is always the most beautiful part—the moment everything comes together, when the music swells. You were never the lead, but you played your role perfectly."
-    
-5. "I can feel you breaking, feel the moment when everything falls apart. Let go, darling. There's nothing left to hold onto. I'll make sure the ending is beautiful."
-
-6. "Cumming already? I barely touched you. The Court deserves better entertainment."
-    
-
----
-
-### PINNED MINOR
-
-1. "This is nothing. I've been pinned by worse in worse places."
-    
-2. "You pervert. Get your hands off me—I'm not one of your toys."
-    
-3. "I've had worse from merchants who caught me stealing. You're nothing new."
-    
-4. "Is that all you've got? A little restraint isn't going to break me."
-    
-5. "You're going to regret touching me. I promise you that."
-    
-
----
-
-### PINNED SERIOUS
-
-1. "No, not again—the river, the static, her hand slipping away. Not again. Not ever again."
-    
-2. "Not... again... I can't lose anyone else. Artus gave everything to save me. I won't break that promise."
-    
-3. "I won't let you take me—I'm not property, not a trophy. I belong to myself, and I'll prove it even if it costs me everything."
-    
-4. "Get off me! I'm not yours—I've never been anyone's. I was born free. I'll die free."
-    
-5. "I've slipped through tighter holds than this—I've escaped the void, escaped the Court, escaped everything. You're just another obstacle."
-    
-
----
-
-### PINNED CRITICAL
-
-1. "I can't move! The void is closing in. I can't become what Artus died to save me from."
-    
-2. "Noo... I am about to break! The grief is too much—the weight of everything I've carried is crushing me."
-    
-3. "This is bad. I always had a way out. I always had him. What do I do when I'm alone?"
-    
-4. "Mother... I'm scared... the same fear from the river, the same fear of being alone in the dark."
-    
-5. "I can't lose here—not before I plant it. The seed, the grove, the city he dreamed of. I can't die before I've kept that promise."
-    
-
----
-
-### PINNED RESTRAINED
-
-1. "What are these things?! Magic I don't understand, bonds I can't break. The Court has secrets I haven't learned yet."
-    
-2. "You think chains can hold me? I was born in chaos, forged in the void. My will is stronger than any metal."
-    
-3. "I've slipped through worse—through grief, through loss, through the despair that's been chasing me since childhood."
-    
-4. "Let me go and I might let you live. I've killed more people than you've ever met."
-    
-5. "You don't know what you've caught. I'm the woman who survived the apocalypse. I will survive you too."
-    
-
----
-
-### PINNED DEFEATED
-
-1. "End this... just make it quick. I don't want to give you the satisfaction of watching me suffer."
-    
-2. "Do it. I won't beg—I've never begged. I'll meet my end on my own terms."
-    
-3. "The ballad... I couldn't finish it. Artus, I'm sorry—I tried so hard to make your dream real."
-    
-4. "I'm sorry, Artus... I couldn't plant it. The seed was hope, and I let it die in my hands."
-    
-5. "You win this round... but the dream lives on. That's what he taught me—the dream is bigger than any one person."
-    
-
----
-
-### RALLYING FROM SETBACK
-
-1. "You'll regret this—I can still fight. I've lost everything else. There's nothing left to take."
-    
-2. "I've lost more than this—my mother, my home, my best friend, my knight. I'm still here."
-    
-3. "The show isn't over until I say it is. Even bleeding, even broken, I always deliver."
-    
-4. "This isn't where my story ends. Artus believed in me. I won't let his faith be misplaced."
-    
-5. "One more beat—that's all I need to find my footing. I'm the one who chooses to keep going."
-    
-
----
-
-### ESCAPE PINNING
-
-1. "Not done yet! I didn't survive the apocalypse to die in a pit. There's a grove waiting for me."
-    
-2. "I am not giving up! I've come too far, lost too much, loved too deeply to let you take it all."
-    
-3. "You'll have to do better—I've been escaping cages since I was a child."
-    
-4. "I've been slipping through fingers since the caravan, since the river, since I learned that being caught means being lost."
-    
-5. "The Void doesn't hold its own children—I've made peace with darkness. You can't trap what's already learned to live in the emptiness."
-    
-
----
-
-### TARGET OUTFIT DESTROYED
-
-1. "How does it feel to be so exposed? The Court paid for authenticity, darling. I've given them exactly that."
-    
-2. "You came for a show, and now everyone sees what you really are—a performer hiding behind masks. I own my masks. You're just wearing yours."
-    
-3. "I've seen better weapons—and worse bodies. Beneath the armor, you're fragile. Breakable. Human."
-    
-4. "Now they all see you. No more hiding. The Court doesn't reward cowards—and you're the biggest coward I've ever faced."
-    
-5. "Afraid of being seen? I've spent my whole life being seen—on stage, in the pits, in the eyes of everyone who's judged me."
-    
-
----
-
-### OUTFIT DESTROYED
-
-1. "Everyone can see... no, don't look... I wasn't supposed to be this exposed. I'm supposed to be in control, not... not like this."
-    
-2. "You want a show? Is this what you came for? Fine—I'll give you a performance, but you won't like the ending."
-    
-3. "I'll make you pay for that—I promise you. The Court will remember this as the beginning of your undoing."
-    
-4. "This isn't the performance I planned. But I'll adapt. I always adapt."
-    
-5. "See? The Violet Actress is just as broken as the rest. Just a girl who lost everything and can't stop fighting."
-    
-
----
-
-### TARGETING SENSITIVE PARTS
-
-1. "Ah... I'm sensitive there! How did you—no one has ever—I didn't know that spot existed, but my body knew before my mind could catch up."
-    
-2. "Not there! I'm sensitive there, and I can't—stop, please—I don't want anyone to have that power over me."
-    
-3. "You're going to regret finding that spot. I turn pain into power, and you've just given me all the motivation I need."
-    
-4. "How did you know... I've never told anyone about that. Not even Artus knew, and he knew everything."
-    
-5. "I'll give you credit for finding that—most people don't survive long enough to discover my secrets. But credit is all you'll get."
-    
-
----
-
-### CLIMAXING
-
-1. "Cumming! I can't hold back anymore—I hate that I can't control this, but I need this release. I need to let go."
-    
-2. "Can't hold it in anymore—I'm cumming, and I can't stop it. I don't know if I want to fight it or surrender—but I'm losing either way."
-    
-3. "Ah... ah... ahhhhhh~ I can't breathe—the pleasure is too much, and I'm losing myself in it. I'm losing everything I've built—but I don't care. I just need to feel something real."
-    
-4. "Don't stop! I'm nearly there—I've been fighting for so long, and I need this release. I need to let go, even if it means losing control—just for a moment—"
-    
-5. "Yes! Right there! I'm so close—I've been carrying this weight for so long, and now I can feel it lifting. I can feel myself coming undone. I can feel myself letting go of everything."
-    
-
----
-
-### SURRENDERING
-
-1. "I look so pathetic... I'm begging... please, just finish me. I can't fight anymore—I've been fighting since I was a child, and I'm so tired. I just want the fighting to stop."
-    
-2. "I surrender. You win. There's nothing left in me—no fight, no hope, no strength. I've given everything I had."
-    
-3. "Please... I've lost everything already—my mother, my home, my knight, my friends. Nothing left to take. Just let me rest."
-    
-4. "Take what you want. I have nothing left—no dignity, no pride, no future. Cordelia would tell me to keep fighting, but I don't have her strength."
-    
-5. "I can't... I don't want to fight anymore. I've been fighting for so long, and I'm tired of being the one who survives. Just let me let go."
-
-
-# Amadea and the Nymph at Act 20
+# Amadea and the Nymph at Act 21
 
 # The Obsidian Feather and the Conservatory of Glass
 
-## Act 20: Silk and Lavender in the Scent of Roses
+## Act 21: Silk and Lavender in the Scent of Roses
 
 ### I. The Conservatory of Glass
 
@@ -1458,7 +1156,7 @@ The scars she carries from this encounter will be more than physical. They will 
 
 # The Obsidian Feather and the Conservatory of Glass (Bad Ending)
 
-## Act 20: Silk and Lavender in the Scent of Roses
+## Act 21: Silk and Lavender in the Scent of Roses
 
 ### The Losing Condition
 
@@ -2093,7 +1791,7 @@ Not ever again.
 
 **[MOVEMENT 2: THE WORLD]**
 
-**[ACT 20: SILK AND LAVENDER IN THE SCENT OF ROSES]**
+**[act 21: SILK AND LAVENDER IN THE SCENT OF ROSES]**
 
 **[THE EMPRESS FALLS]**
 
@@ -2144,7 +1842,7 @@ The answer is to take everything.
 
 # The Obsidian Feather and the Conservatory of Glass (Bad Epilogue)
 
-## Act 20: Silk and Lavender in the Scent of Roses
+## Act 21: Silk and Lavender in the Scent of Roses
 
 ### Extended Dark Moment 1: The Claiming
 
@@ -2639,7 +2337,7 @@ A final vine traced along her jaw, tilting her face up toward the moonlight.
 
 # The Obsidian Feather and the Conservatory of Glass (Bad Epilogue 1)
 
-## Act 20: Silk and Lavender in the Scent of Roses
+## Act 21: Silk and Lavender in the Scent of Roses
 
 ### Extended Dark Moment 2: The Stamen's Claim
 
@@ -3080,7 +2778,7 @@ The nymph's voice was the last thing she heard.
 
 **[MOVEMENT 2: THE WORLD]**
 
-**[ACT 20: SILK AND LAVENDER IN THE SCENT OF ROSES]**
+**[act 21: SILK AND LAVENDER IN THE SCENT OF ROSES]**
 
 **[THE EMPRESS FALLS]**
 
@@ -3143,7 +2841,7 @@ The answer is to take everything.
 
 # The Obsidian Feather and the Conservatory of Glass (Bad Epilogue 2)
 
-## Act 20: Silk and Lavender in the Scent of Roses
+## act 21: Silk and Lavender in the Scent of Roses
 
 ### Extended Dark Moment 3: The Throne of Orgasm
 
@@ -3503,7 +3201,7 @@ The nymph's voice was the last thing she heard.
 
 **[SCORE I: A BALLAD BEFORE IRIDIA]**
 
-**[ACT 20: SILK AND LAVENDER IN THE SCENT OF ROSES]**
+**[act 21: SILK AND LAVENDER IN THE SCENT OF ROSES]**
 
 **[THE EMPRESS FALLS]**
 
@@ -3567,7 +3265,7 @@ The answer is to take everything.
 
 # The Obsidian Feather and the Conservatory of Glass (Bad Epilogue 3)
 
-## Act 20: Silk and Lavender in the Scent of Roses
+## act 21: Silk and Lavender in the Scent of Roses
 
 ### Extended Dark Moment 4: The Lotus of Moonlight
 
@@ -4029,7 +3727,7 @@ The nymph's voice was the last thing she heard.
 
 **[MOVEMENT 2: THE WORLD]**
 
-**[ACT 20: SILK AND LAVENDER IN THE SCENT OF ROSES]**
+**[act 21: SILK AND LAVENDER IN THE SCENT OF ROSES]**
 
 **[THE EMPRESS FALLS]**
 
@@ -4045,7 +3743,7 @@ The nymph's voice was the last thing she heard.
 
 # The Obsidian Feather and the Conservatory of Glass (Bad Epilogue 4)
 
-## Act 20: Silk and Lavender in the Scent of Roses
+## act 21: Silk and Lavender in the Scent of Roses
 
 ### Extended Dark Moment 5: The Symphony of Surrender
 
@@ -4515,7 +4213,7 @@ Amadea's eyes were open, but they weren't seeing. She wasn't anywhere anymore. S
 
 # The Obsidian Feather and the Conservatory of Glass (Bad Epilogue 5)
 
-## Act 20: Silk and Lavender in the Scent of Roses
+## act 21: Silk and Lavender in the Scent of Roses
 
 ### Extended Dark Moment 6: The Artist's Canvas
 
@@ -5177,7 +4875,7 @@ Amadea's eyes were open, but they weren't seeing. She wasn't anywhere anymore. S
 
 # The Obsidian Feather and the Conservatory of Glass (Bad Epilogue FINAL)
 
-## Act 20: Silk and Lavender in the Scent of Roses
+## act 21: Silk and Lavender in the Scent of Roses
 
 ### Extended Dark Moment 7: The Masochist's Crown
 
@@ -5861,7 +5559,7 @@ The nymph's voice was the last thing she heard.
 
 **[MOVEMENT 2: THE W0RLD]**
 
-**[ACT 20: SILK AND LAVENDER IN THE SCENT OF ROSES]**
+**[act 21: SILK AND LAVENDER IN THE SCENT OF ROSES]**
 
 **[THE EMPRESS FALLS]**
 
@@ -6499,7 +6197,7 @@ Night night, sweet dreams my butterfly.
 
 ### The Warning
 
-At the beginning of Act 20, Cyril warns Amadea before she enters the conservatory:
+At the beginning of act 21, Cyril warns Amadea before she enters the conservatory:
 ```
 "Fine, but do not face it head on. It's called Corpse Bouquet for a reason.
 You don't want to know what happens when you inhale too much pollen.
@@ -6659,7 +6357,7 @@ In the bad endings, she chooses the second path. She loses herself to pleasure, 
 
 **Night night, sweet dreams my butterfly.**
 
-This is a profoundly heavy and psychologically devastating section of Amadea's journey. Act 20 masterfully uses the mechanics of its own world—combat, magic, and status effects—to explore the terrifying boundary between survival and total loss of autonomy. The fight against the Corpse Bouquet (the Nymph of the Glass Conservatory) represents the ultimate test of Amadea’s identity, pitting her grief-forged willpower against a creature designed to weaponize comfort, pleasure, and surrender.
+This is a profoundly heavy and psychologically devastating section of Amadea's journey. act 21 masterfully uses the mechanics of its own world—combat, magic, and status effects—to explore the terrifying boundary between survival and total loss of autonomy. The fight against the Corpse Bouquet (the Nymph of the Glass Conservatory) represents the ultimate test of Amadea’s identity, pitting her grief-forged willpower against a creature designed to weaponize comfort, pleasure, and surrender.
 
 Here is an exhaustive analysis of her canonical victory, the horrifying descent of the bad ending, and the intricate, escalating tragedy of the dark epilogues.
 

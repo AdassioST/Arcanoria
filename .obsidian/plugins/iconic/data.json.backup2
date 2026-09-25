@@ -196,6 +196,9 @@
     "Worldbuilding/Game Systems/Government Logic.md": {
       "icon": "lucide-crown"
     },
+    "Worldbuilding/Game Systems/My Statement on AI.md": {
+      "icon": "🤖"
+    },
     "Worldbuilding/Gateway To Genesis.md": {
       "icon": "⚓"
     },
@@ -433,14 +436,6 @@
         "f8df02be78b7f2d8"
       ]
     },
-    "Worldbuilding/Truths, Chaos, Rituals/Spellweaving Rituals": {
-      "icon": "lucide-leafy-green",
-      "unsynced": [
-        "d48e64e7bb66fb41",
-        "01eed68794367206",
-        "f8df02be78b7f2d8"
-      ]
-    },
     "Worldbuilding/World Environment": {
       "icon": "lucide-trees",
       "unsynced": [
@@ -451,6 +446,14 @@
     },
     "Worldbuilding/World Environment/Atonalis": {
       "icon": "lucide-cloud-moon",
+      "unsynced": [
+        "d48e64e7bb66fb41",
+        "01eed68794367206",
+        "f8df02be78b7f2d8"
+      ]
+    },
+    "Worldbuilding/World Environment/Atonalis/Spellweaving Rituals": {
+      "icon": "lucide-leafy-green",
       "unsynced": [
         "d48e64e7bb66fb41",
         "01eed68794367206",

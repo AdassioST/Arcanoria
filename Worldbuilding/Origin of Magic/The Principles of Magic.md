@@ -114,7 +114,7 @@ Magic is not only forged in the moment but woven with weight through the [[Ages]
 
 **Constraint:** Bond quality, depth, and duration are the anchor that determines spell tier and resistance to disruption. A spell potency is amplified by longstanding loyalty and memory, while dampened by betrayal, denial of the past, amnesia, or neglect.
 W
-**Personal Root & [[Motif Awakening]]:** Honoring legacy after betrayal, dishonor, broken trust, or in healing a scarred, broken past. Those who rebuild trust over time and mend past, present, and future.
+**Personal Root & [[Motif Awakening]]:** Honoring legacy after betrayal, dishonor, broken trust, or in healing a scarred, broken past. Those who rebuild trust over time and mend past, present, and future. [[Soul-Key]]
 
 *"A leitmotif by itself is simple, but when it carries weight and history, it is masterful."*
 
@@ -266,7 +266,7 @@ There is an array of unlimited interactions between elements that are really onl
   
 - [[Crystal]] + [[Luminance]]: This pairing has both a physical effect in casting [[Crystal]] structures to refract [[Luminance]]'s light properties as much as it does in allowing "clarity" into the upcoming future. It is the pairing of focused lasers through lenses and the pairing of divination. Similarly to the [[Crystal]] + [[Strand]] pairing, each further second a [[Spellweaver]] "gazes into the future" gets increasingly more complex to maintain and invites a massive amount of [[Discordant Interference]] due to the unpredictable nature of [[Probability Amplitudes]].
   
-- [[Cindergale]] + [[Void]]: This is the only niche use case of [[Void]] as healing magic because [[Strand]] can't interact directly with internal wounds in healing, applying a purifying flame of [[Cindergale]] as means of creating physical touch and bending space and the resulting shadow for a proxy connection to [[Stable Harmonic Channels]]. As a result, this pairing makes it easier to reach the internal damaged tissue. Likewise, it gives a clear visual indicator that previously [[Strand]] healing would not have about the internal body decreasing the complexity of the mental image required to apply [[Sufficient Precision]] with [[Absolute Certainty]]. [[Vibrational Decay]]
+- [[Cindergale]] + [[Void]]: This is the only niche use case of [[Void]] as healing magic because [[Strand]] can't interact directly with internal wounds in healing, applying a purifying flame of [[Cindergale]] as means of creating physical touch and bending space and the resulting shadow for a proxy connection to [[Stable Harmonic Channels]]. As a result, this pairing makes it easier to reach the internal damaged tissue. Likewise, it gives a clear visual indicator that previously [[Strand]] healing would not have about the internal body decreasing the complexity of the mental image required to apply [[Sufficient Precision]] with [[Absolute Certainty]].
   
 Finally, a popular niche for advanced [[Spellweaving]] is illusory magic and shapeshifting which can be achieved with varying degrees of success through several chord combinations. However, these are all temporary and require a constant Legato to continue functioning, true permanence or at least last-longing effects of more than a day requires the use of [[Magical Relic]] or [[World-Bending Relics]] that only exist on [[Ages]] IV onwards after the [[Law of Relics]] has been created.
 

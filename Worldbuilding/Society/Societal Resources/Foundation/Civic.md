@@ -94,7 +94,7 @@ A political and martial practice involving the capture of enemy rulers or high-r
 [[Ballad]]s:
 - An undefeated warlord is forced into marriage with the empress who decimated their homeland. Over years, they develop genuine love. Just as they admit their [[Resonance]], the warlord's former generals breach the capital to assassinate the empress, forcing the warlord to turn against their own people to protect their captor.
 
-**Hunting Parties of [[Legend]]s | Militant [[Civic]] | [[Ages]] II–IV | [[Consonance]]**
+**Grand Hunts of [[Legend]]s | Militant [[Civic]] | [[Ages]] II–IV | [[Consonance]]**
 
 Coordinated hunting parties of great renown of top [[Spellweaver]]s in groups of 4 to 7, each assigned a specific role, to track and kill high-ranking [[Atonalis]] and [[Pure Light]] Behemoths. Successful hunts forge permanent synergy bonds, prestige, and yield pristine rare materials, pelts, and [[Rose Seed]]s.
 
@@ -275,7 +275,7 @@ Inspired by the polyphonic practices of earlier [[Ages]] this ensemble is unique
 - **The Lore:** A martial and diplomatic practice where conquering forces capture enemy rulers or high-ranking knights to marry them into their own empire, securing strong magical lineages and unifying cultures.
 - **The Narrative Hook:** A proud, undefeated warlord is captured and forced into a Bridal Conquest with the empress who decimated their homeland. Over years of political maneuvering and forced proximity, the two fierce enemies develop a genuine, undeniable Resonance that surprises them both. But just as they finally admit their love, the warlord's former generals breach the capital to "rescue" them and assassinate the empress, forcing the warlord to turn against their own people to protect their captor.
 
-**The [[Ballad]] of the Echoing Hunt | Hunting Parties of Legends (Militant Civic)**
+**The [[Ballad]] of the Echoing Hunt | Grand Hunts of Legends (Militant Civic)**
 
 - **The Lore:** State-sponsored tracking parties of elite Spellweavers deployed to hunt high-ranking Atonalis demons and Pure Light Behemoths, forging permanent synergy bonds among the hunters.
 - **The Narrative Hook:** A legendary hunting party tracks an ancient, elusive [[Ascendant]] [[Atonalis]] into a collapsed mountain pass. During the hunt, the team's tracker realizes the monster is perfectly anticipating their tactics because the demon is the corrupted, shattered Soul Leitmotif of their original mentor. The hunt devolves into psychological horror as the demon uses their shared memories to turn the hunters against one another.
