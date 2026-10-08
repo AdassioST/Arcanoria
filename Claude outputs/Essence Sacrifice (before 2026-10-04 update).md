@@ -162,13 +162,11 @@ _"The most powerful magic is not the fire that burns brightest. It is the flame 
 
 #### Fuel Hierarchy at a Glance  
   
-- **Tier 0 (×0):** Meaningless sacrifice; no usable power, only [[Discordant Interference]].
-- **Tier 1 (×1):** Physical exhaustion; reliable baseline fuel.
-- **Tier 2 (×2):** Life force and vitality; desperate and permanently costly.
-- **Tier 3 (×4):** Memories and identity-bearing losses; extremely potent and often irreversible.
-- **Tier 4 (×10):** Perfectly resonant sacrifice; uncaps what the spell can become.  
-
-The multipliers are the Fuel Quality of the potency equation (see *Conservation of Energy and Fuel Mechanics* below). They are the shape of the economy, not a price list: through the [[Weight of Value]], the same offering can sit higher or lower on the ladder for different [[Spellweaver]]s. Heavier fuel also raises the stakes. It does not create [[Discordant Interference]] by itself, but it drives more energy through whatever the other principles are missing, so any gap in the spell is magnified.
+- **Tier 0:** Meaningless sacrifice; almost no power and [[Discordant Interference]].
+- **Tier 1:** Physical exhaustion; reliable baseline fuel.
+- **Tier 2:** Life force and vitality; desperate and permanently costly.
+- **Tier 3:** Memories and identity-bearing losses; extremely potent and often irreversible.
+- **Tier 4:** Perfectly resonant sacrifice; uncaps what the spell can become.  
 
 ### Music as Offloading and [[Essence Sacrifice]] Lubricant
 
@@ -180,12 +178,12 @@ The more the music aligns with the [[Spellweaver]]'s emotional state, personal h
 
 #### The Cost Ladder of Spellcasting  
 
-| Method                                  | Cost Equivalent (Fireball)                          | Efficiency |
-| --------------------------------------- | --------------------------------------------------- | ---------- |
-| No music, pure will                     | One push-up                                         | Lowest     |
-| Simple music (basic rhythm)             | One sit-up                                          | Moderate   |
-| Harmony + feeling the beat              | One circle of the arm                               | High       |
-| Personal song (romance, grief, triumph) | One flick of the wrist (offloaded to [[Resonance]]) | Highest    |
+| Method                                  | Cost Equivalent (Fireball)                     | Efficiency |
+| --------------------------------------- | ---------------------------------------------- | ---------- |
+| No music, pure will                     | 3 burpees                                      | Lowest     |
+| Simple music (basic rhythm)             | 2 sit ups                                      | Moderate   |
+| Harmony + feeling the beat              | Doing a circle with the arm                    | High       |
+| Personal song (romance, grief, triumph) | Flicking a finger (offloaded to [[Resonance]]) | Highest    |
 
 This progression explains why [[Triad Chord]]s became the gold standard of [[Spellweaving]] in later [[Ages]] — they married musical complexity with magical efficiency, allowing practitioners to achieve effects that would otherwise require catastrophic sacrifice.
 
@@ -293,12 +291,12 @@ This is only achieved when [[Essence Sacrifice]] can combine offloading with per
 
 However, [[Miracle Magic]] does not come from more power. It comes from *perfect alignment*. When all four conditions converge, the [[Great Harmonic Loom]] cannot distinguish between the sacrifice and the spell, between the fuel and the performer, between the song and the intention. They become one in their single [[Fundamental Frequency]]. Thus, the ceiling does not rise — it ceases to exist.
 
-| Factor                             | Description                                                                                                                                                                                                                                                                                                                                                                               | Contribution                                                                                               |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Tier 4 Perfect Fuel**            | Thematically resonant sacrifice: not the most painful thing available, but the thing most *aligned* with the spell's purpose, surrendered willingly and completely.                                                                                                                                                                                                                       | The heaviest fuel (×10), and the only one that can remove the energy ceiling.                              |
-| **Maximum Thematic [[Resonance]]** | Honest feeling and deep [[Echoing Bonds]] at once. The relationship between the [[Spellweaver]] and the subject or intention of the spell must be woven with history, memory, and genuine emotional architecture, and felt with nothing held back ([[Emotional Authenticity]]), providing high fidelity [[Stable Harmonic Channels]] for the spell's energy to flow through without loss. | Amplifies [[Coherence]], creates [[Sympathetic Vibration]], eliminates harmonic loss.                      |
-| **Flawless Performance**           | The performance must be technically complete and centered in the [[Spellweaver]]'s own key ([[Mastery Over Chaos]] held with a clear [[Key of Attunement]]): not someone playing through the music, but someone *living through it*. A technically perfect but emotionally hollow performance will not produce a miracle.                                                                  | Allows energy to flow without loss or dampening.                                                           |
-| **Surrender to the Song**          | The song performed is the most cosmically aligned piece possible to the intention of the spell — not simply powerful, but the living expression of what the [[Spellweaver]] is trying to do — and the [[Spellweaver]] is inside it rather than performing it ([[Music as Catalyst]]).                                                                                                     | Carries the cost. No song can take the last tenth on its own; when all four converge, that tenth vanishes. |
+| Factor                                   | Description                                                                                                                                                                                                                                                               | Contribution                                                                             |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Maximum Thematic [[Resonance]]**       | The song performed is the most cosmically aligned piece possible to the intention of the spell — not simply powerful, but the living expression of what the [[Spellweaver]] is trying to do.                                                                              | Amplifies [[Coherence]], creates [[Sympathetic Vibration]], eliminates harmonic loss.    |
+| **Tier 4 Perfect Fuel**                  | Thematically resonant sacrifice: not the most painful thing available, but the thing most *aligned* with the spell's purpose, surrendered willingly and completely.                                                                                                       | Removes the energy ceiling entirely.                                                     |
+| **Deep [[Echoing Bonds]]**               | The relationship between the [[Spellweaver]] and the subject or intention of the spell must be woven with history, memory, and genuine emotional architecture — providing high fidelity [[Stable Harmonic Channels]] for the spell's energy to flow through without loss. | Amplifies [[Resonance]], provides the harmonic infrastructure for a miracle scale output |
+| **Flawless Performance of Deep Emotion** | The performance must be technically and emotionally complete — not someone playing through the music, but someone *living through it*; a technically perfect but emotionally hollow performance will not produce a miracle.                                               | Unlocks the ceiling; allows energy to flow without loss or dampening                     |
 
 ### The First Miracle: [[Elara]] and the Song of [[Sedrick]]  
   
@@ -312,7 +310,7 @@ The fuel she offered was not simply precious — it was perfectly thematic. She 
 
 The miracle healed what was otherwise impossible. The [[Coherence]] achieved was perfect, no ceiling existed to cap it, no [[Dissonance]] to blunt it, no limit that was not simultaneously dissolved by an equal offering.
 
-[[Elara]] used everything simultaneously: Tier 4 Perfect Fuel, maximum thematic [[Resonance]] carried by the infinite [[Echoing Bonds]] of her entire history, a flawless performance of absolute emotional depth, and the complete offloading of [[Music as Catalyst]] in the song of [[Sedrick]].  
+[[Elara]] used everything simultaneously: the offloading of [[Music as Catalyst]], Tier 4 Perfect Fuel, maximum thematic [[Resonance]], infinite [[Echoing Bonds]] of her entire history, and a flawless performance of absolute emotional depth.  
 
 The miracle worked. [[Eyras]] survived. But [[Elara]] was hollowed — unable to feel the love she had sacrificed. The gap between knowing she was a mother and *feeling* it became the wound that would eventually corrupt her into [[The Cradle of Echoes]].
 
@@ -350,7 +348,7 @@ Once awakened, the [[Spellweaver]] experiences a profound shift: sacrifice no lo
 
 ### Conservation of Energy and Fuel Mechanics
 
-As the fourth auric thread, [[Essence Sacrifice]] frames [[Spellweaving]] as a physical exchange of energy, not mystical importation of infinite resources. Drawing on the principle that energy can neither be created nor destroyed, this binding stipulates that all magical output must equal the energy withdrawn from some source. What [[Music as Catalyst]] carries is drawn through the [[Resonance]] field of the song; everything it does not carry is withdrawn from the [[Spellweaver]]'s own essence.
+As the fourth auric thread, [[Essence Sacrifice]] frames [[Spellweaving]] as a physical exchange of energy, not mystical importation of infinite resources. Drawing on the principle that energy can neither be created nor destroyed, this binding stipulates that all magical output must equal the energy withdrawn from the [[Spellweaver]]'s own essence.
 
 Fuel is also proportional to the meaning and sacrifice exchanged, where a high symbolic fuel can make the simplest of reactions turn potent. The universe does not measure solely in complexity, but in potential — and the top ceiling that anything can achieve if fueled by enough meaning.
 
@@ -359,20 +357,6 @@ The [[Void]] element exemplifies this mechanism in physical terms: Shadow repres
 Thus the final offloading equation is the relationship between music, sacrifice, and spell potency which can be expressed as:
   
 $$\text{Spell Potency} = \frac{\text{Fuel Quality} \times \text{Thematic Resonance} \times \text{Performance Quality}}{\text{Remaining Essence Sacrifice Cost}}$$  
-
-Every term is read against a standard casting: Tier 1 fuel, every other principle neutral, and no music. That casting is 100%, so the equation reads as how many standard castings a spell is worth.
-
-| Term                                 | What it measures                                                                                                                                                                                                     | Standard casting        |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| **Fuel Quality**                     | The tier of what is offered: ×0, ×1, ×2, ×4 or ×10.                                                                                                                                                                  | ×1, physical exhaustion |
-| **Thematic Resonance**               | [[Emotional Authenticity]] and [[Echoing Bonds]]: whether the feeling is real, and whether the song and the target share a history. [[Essence Sacrifice]] is not counted again here, because it is already the fuel. | Neutral                 |
-| **Performance Quality**              | [[Mastery Over Chaos]] ([[Sufficient Precision]], [[Perfect Focus]] and [[Absolute Certainty]]), centered by the [[Key of Attunement]]. A lost Key halves the performance rather than erasing it.                     | Neutral                 |
-| **Remaining Essence Sacrifice Cost** | What [[Music as Catalyst]] has not carried. The song can only carry what feeling and history let it couple, and never more than nine tenths on its own.                                                              | The full cost           |
-
-When music handles the denominator through offloading, the numerator's factors determine the ceiling. An ordinary [[Spellweaver]] keeping time with a basic rhythm already casts at 125% for the same push-up. One with true feeling and deep bonds, inside a song that is personally theirs, pays a tenth of the cost and casts at 2,000%.
-
-No song can take that last tenth away on its own. It vanishes only when fuel quality reaches Tier 4, thematic resonance aligns perfectly, the performance is lived rather than played, and the [[Spellweaver]] surrenders to the song entirely. Then the four lock into a single [[Fundamental Frequency]], the denominator is zero, and the spell has no ceiling left to approach.
+When music handles the denominator through offloading, the numerator's factors determine the ceiling. When fuel quality reaches Tier 4, thematic resonance aligns perfectly, and performance achieves flawless emotional authenticity — the denominator approaches zero, and the spell's potential approaches infinity.
 
 This is the mathematics of miracles.
-
-What the equation does not show is [[Discordant Interference]]: the risk of a spell turning on its own [[Spellweaver]]. It rises with what the principles *lack* rather than with what the spell outputs, and heavier fuel magnifies it. The full derivation, the interference ledger and the worked examples (canon's war-scissors failure from [[The Principles of Magic]] and [[Elara]]'s miracle) are in [[Soliton]], under *Spell Potency*.

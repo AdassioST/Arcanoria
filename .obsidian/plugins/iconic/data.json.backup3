@@ -168,9 +168,6 @@
         "f8df02be78b7f2d8"
       ]
     },
-    "Worldbuilding/Events/My Statement on AI.md": {
-      "icon": "🤖"
-    },
     "Worldbuilding/Events/World Events": {
       "icon": "lucide-globe-2",
       "unsynced": [
@@ -198,6 +195,9 @@
     },
     "Worldbuilding/Game Systems/Government Logic.md": {
       "icon": "lucide-crown"
+    },
+    "Worldbuilding/Game Systems/My Statement on AI.md": {
+      "icon": "🤖"
     },
     "Worldbuilding/Gateway To Genesis.md": {
       "icon": "⚓"

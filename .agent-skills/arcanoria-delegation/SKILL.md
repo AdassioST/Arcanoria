@@ -79,6 +79,11 @@ Include:
 Both agents load `arcanoria-canon`, so you can reference its rules by name
 rather than restating them in full.
 
+When the delegation continues an interrupted task, open the prompt with the
+`RESUME:` header from `arcanoria-handoff` (section 8) and pass the previous
+agent's log verbatim; the receiving agent follows that skill to rebuild the
+state from disk before editing.
+
 ## Tool Permissions
 
 Print mode skips interactive permission prompts, so `--allowedTools` is the

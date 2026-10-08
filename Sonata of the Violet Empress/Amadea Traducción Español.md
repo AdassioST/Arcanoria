@@ -107,7 +107,7 @@ En ese instante, el peso seguía siendo calor. La respiración de su madre vení
 
 Esos brazos la apretaron cerca una última vez.
 
-Todo en ese abrazo estaba mal. Demasiado fuerte. Demasiado breve. El último.
+Todo en ese abrazo estaba mal. Demasiado apretado. Demasiado breve. El último.
 
 Luego su madre se retiró. Justo lo suficiente para mirarla. Ese rostro estaba arruinado por la sangre, la fiebre, el cruce — y algo peor que todo eso. Algo que hacía que cada vello se erizara a lo largo de sus frágiles brazos.
 
@@ -1988,7 +1988,7 @@ Corvin finalmente relajó los hombros una fracción, cediéndole al aire el espa
 
 Kay entendió su lenguaje corporal, y lo usó como señal para volverse y centrar su mirada en Elaine, cuyas lágrimas finalmente comenzaban a filtrarse a través de sus ojos vacíos y sedosos.
 
-—También tú tienes razón, mi cantora—dijo Kay, suave, a Elaine—. No deberíamos tener que dejar a nadie. Pero no estás en estado de discutir esto bien ahorita. Es demasiado peligroso intentar jugar a rescate. Si de verdad vamos a ser héroes, encontremos el camino adelante.
+—También tú tienes razón, mi cantante—dijo Kay, suave, a Elaine—. No deberíamos tener que dejar a nadie. Pero no estás en estado de discutir esto bien ahorita. Es demasiado peligroso intentar jugar a rescate. Si de verdad vamos a ser héroes, encontremos el camino adelante.
 
 Kay relajó por completo la postura. El terciopelo de su tono recuperó la nota conocida, ancladora.
 
@@ -3726,8 +3726,10 @@ Incluso cuando el universo estaba catastróficamente roto, si estabas dispuesto 
 
 #### Capítulo 5 — El Mito Aúrico de los Siete Ciclos de Vacío y Luminancia (Acto 3 | Parte I)
 
+##### 5.1 El Cielo Lloroso | Melodía Principal
+
 _Movimiento 1: El Sueño | Partitura I: Una Balada Antes de Iridia_
-_Act 3: Restos de Esperanza y Baladas_
+_Acto 3: Restos de Esperanza y Baladas_
 
 _Resonancia | Clave de Afinación_
 
@@ -3755,130 +3757,495 @@ In the aftermath, [[Artus]] asks [[Kay]] how does his magic even work. And [[Kay
 
 A moved Corvin then explains the [[Auric Mythos of Creation]] as they have no other option but to hide from the weeping sky. He explains the seven elements, the origin of magic, and how to survive through hardship as the [[Auric Order]] intended to find meaning, this is the first mention of [[Piety]], [[Contrition]], [[Sacrifice]], and [[Revelation]].
 
+##### 5.2 El Mito Áurico de la Creación | Armonía Superior
+
+_Movimiento 1: El Sueño | Partitura I: Una Balada Antes de Iridia_
+_Acto 3: Restos de Esperanza y Baladas_
+
+_Resonancia | Clave de Afinación_
+
+—Antes de la existencia, antes de la materia, antes del pensamiento — antes incluso de los cielos mismos — no había nada. Y antes de que hubiera nada —Corvin hizo una pausa, y campanadas resonaron de ninguna parte—, existía la Sinfonía Eterna.
+
+_Ting._
+
+Otra brasa golpeó el techo roto.
+
+No sonaba como la lluvia, pues la lluvia guardaba cierta suavidad en algún lugar de su interior. Esto era un repiqueteo quebradizo contra la piedra y el latón expuesto, que se apagaba hasta volverse un siseo tenue mientras el Susurro de Brasas devoraba el poco musgo muerto que aún quedaba entre las fisuras.
+
+Los niños se habían reunido tan juntos como lo permitía el Resonador Áurico en ruinas, acurrucados bajo todas las cobijas reaprovechadas de las que la caravana podía prescindir. Algunos se sentaban pegados a los costados de pelaje blanco de los búfalos, donde aún perduraba el calor del coro.
+
+Amadea notó el lugar vacío.
+
+Intentó no hacerlo.
+
+_Ting._
+
+Las llamas caían una a una, hasta que el Cielo Lloroso encontró su propia percusión. Nadie se movió para acompañarla.
+
+Corvin estaba sentado frente a ellos, sin su violonchelo. Eso, por sí solo, ya se sentía extraño; por poco que fingiera que le importaba, su arco siempre encontraba las cuerdas antes de que terminara una Balada. Esta noche, el violonchelo se quedó dentro de la luz naranja de su anillo.
+
+En cambio, sostenía el pendiente que Amadea le había dado, y su sigilo del círculo cruzado descansaba sobre la sangre que se secaba en el reverso de su mano, donde se había clavado su propio anillo después del ataque. No había limpiado ninguno de los dos.
+
+Abrió los ojos y colocó el astrolabio celestial en la otra palma.
+
+—Una extensión infinita de potencial silencioso —dijo, con la voz ahumada tan quieta como el latón.
+
+—Todavía no era sonido, todavía no era piedra — solo un silencio absoluto e interminable. El hilo que nadie había tocado aún. La santidad antes de la santidad. La única cuerda de instrumento que guardaba todo el potencial latente de la creación.
+
+Artus se inclinó hacia adelante y susurró a cualquier silueta que respondiera.
+
+—¿Cómo puede un instrumento estar en silencio?
+
+Desde una columna fracturada junto a Elaine, Kay lo miró con los ojos pesados que todos los adultos cargaban esta noche.
+
+—De la misma forma en que una espada puede estar envainada.
+
+Artus lo pensó con seriedad.
+
+Amadea también.
+
+Ella conocía el silencio de otra manera: como el peso que había dejado de responder el apretón, o como el instante posterior a una detonación, cuando la luz te alcanzaba antes que el zumbido en los oídos. El silencio era un niño al que los búfalos le habían cantado, y cuya propia voz no estaba en ninguna parte de su coro.
+
+Para ella, el potencial no se sentía silencioso. Se sentía pesado.
+
+—La única partitura en blanco —continuó Corvin—. Todo lo que podía llegar a ser, sin forma, sin figura y sin conciencia. Preexistente, más allá del tiempo.
+
+_Click._
+
+El astrolabio comenzó a moverse.
+
+—La partitura en blanco —susurró Artus, como si memorizara una línea para algún verso futuro.
+
+Junto a su rodilla, la niña pequeña del trozo de carbón, trazó un rectángulo en el polvo, como si el suelo fuera otro retazo de tela.
+
+—Un vacío infinito y sin sonido — hasta que un solo instante de causalidad lo abrió de golpe. El Primer Armónico. Una vibración que despertó al vacío entero. Pero no despertó a la estructura. Despertó al caos. Un caos sin filtro, inconcebible.
+
+Corvin alzó la mirada hacia todos los que seguían presentes.
+
+—Un mar sin descanso de Ruido Blanco Primordial.
+
+Los dedos de Amadea se tensaron dentro de su abrigo.
+
+Ruido blanco. Estática.
+
+Eso sí lo entendía.
+
+—Todo estaba arriba y abajo a la vez. Sin distancia, sin duración. Solo un todo ensordecedor — demasiado de todo. Y en el seno de ese todo se agitó la primera voluntad, un ancla dorada que destelló en la estática en un estallido áurico de resplandor.
+
+Una luz lejana del Susurro de Brasas pintó de blanco la rendija de la cámara en ruinas. Los niños más pequeños se asustaron. Los adultos no.
+
+—La Aria Áurica. La Soberana de Oro. La Canción Dorada.
+
+Elaine bajó la mirada.
+
+Amadea solo lo notó porque estaba mirando aquella columna en ruinas y no a Corvin. Elaine conocía este mito. No de la forma en que Artus conocía las Baladas, sino como si su cadencia hubiera vivido en su pecho mucho antes de que Corvin le diera voz.
+
+Resonancia, quizá, sin música.
+
+Los labios de Elaine formaron el título después de Corvin, sin emitir sonido. Los de Kay también. Por una vez, se guardó la mirada para si mismo.
+
+Un Latido.
+
+_Click._
+
+—Y entonces la Aria Áurica cantó.
+
+Corvin se puso de pie. La llama de su anillo alcanzó el latón del techo, y la cámara entera se llenó de motas de oro.
+
+—Cantó la canción de la creación. Su hermoso orden atravesó el caos — su voz era la luz estructurada, el primer compás de la partitura, el único faro dorado en el vasto mar de ruido.
+
+Hizo una pausa para recobrar el aliento y continuó con una voz más firme; una voz que desvelaba el cosmos.
+
+—Sobre las siete notas de su voz, afinó la estática primordial hasta convertirla en el Heptacódigo Áurico: la fundación de Arcanoria y la suprema maestría de su voluntad.
+
+—Siete —murmuró entre las cobijas la chica mayor, la mandona, mientras sus dedos marcaban la cuenta que Corvin usualmente llevaba como suya.
+
+—Siete hilos dorados que entretejen la realidad. Siete ataduras que filtraron la vibración informe hasta convertirla en las leyes de la materia, el espacio y la estabilidad. Cada una transformando la fisicidad en polvo estelar y a la energía en forma.
+
+En ese momento, el pulgar de Corvin se movió. Abrió el astrolabio.
+
+Sus anillos concéntricos se separaron en una suave secuencia de chasquidos y se inclinaron cada uno, hasta que el dispositivo pareció demasiado grande para reposar en su palma. Las siete manos se desplegaron entre ellos y dejaron al descubierto canales vacíos.
+
+Todos se acercaron para ver. Incluso los rostros sin nombre que apenas habían levantado la vista desde el ataque.
+
+Puso en marcha la primera manecilla. Su cristal proyectó un arco verde azulado, del mismo tono que la banda de su anillo.
+
+—Resonancia. El primer hilo áurico, la Clave de Afinación, desde la cual toda Consonancia comienza al sonar fiel a tu propia alma y clave del ser.
+
+El arco verde azulado barrió el círculo y alcanzó al búfalo más cercano, que respondió con una vibración grave y gutural desde el pecho. Uno de los niños sonrió — la primera sonrisa que Amadea había visto desde que entraron en las ruinas.
+
+El segundo arco destelló en amarillo crema, la luz de la gema de Elaine.
+
+—Luminancia. El segundo hilo áurico, la Precisión Suficiente de la música ordenada. Un intervalo preciso da forma a la frecuencia de la claridad pura.
+
+Cruzó el rostro de Elaine, y la gema de su gorra alada respondió débilmente.
+
+El siguiente destelló en un tono azul profundo y cambiante.
+
+—Flujo. El tercer hilo áurico, la Autenticidad Emocional que impregna una interpretación virtuosa. Una expresión solo transmite sentimiento cuando nace de una intención honesta.
+
+El azul captó el brillo húmedo bajo las pestañas de Elaine. Lo apartó con un parpadeo antes de que pudiera derramarse. En su lugar, el degradado se vertió en las espirales que cada búfalo albergaba en los remolinos de su pelaje azur.
+
+Después, otro destelló en púrpura y se oscureció hasta el negro.
+
+—Vacío. El cuarto hilo áurico, el Sacrificio de Esencia: la fuerza que cuesta dar a la realidad dinámicas y movimiento magistrales.
+
+Se detuvo más tiempo sobre las manos de Amadea, donde el púrpura se disolvía en negro sobre sus nudillos amoratados. Todos los demás heridos también tenían esa misma luz. Ella la observó hasta que el arco se alejó.
+
+Un nuevo arco destelló de naranja a carmesí — el color del anillo de Corvin.
+
+—Viento Ígneo. El quinto hilo áurico, el Enfoque Perfecto y la disciplina para sostener sin quebrar la interpretación desafiante de la existencia.
+
+El resplandor cruzó la sangre reseca bajo su anillo. Él no la escondió. Los ojos gélidos de Amadea se preguntaron si lo hacía a propósito.
+
+El siguiente destelló en rosa, prismático como la gema del guantelete de Kay.
+
+—Cristal. El sexto hilo áurico, la Certeza Absoluta que necesita la melodía para elevarse cuando sabe dónde colapsar todos sus futuros posibles.
+
+Artus se volvió hacia Kay. —Así que eso fue lo que hiciste.
+
+Kay le lanzó una mirada de reojo. —En parte, caballero.
+
+—La visualización.
+
+—Sí.
+
+Artus entrecerró los ojos.
+
+Kay lo captó al instante. —No.
+
+—No dije nada.
+
+—Estabas imaginando que me ganabas.
+
+—Podría.
+
+—Eso no es Certeza Absoluta. Eso es delirio puro.
+
+Algunos niños se rieron, aunque las paredes húmedas del Resonador Áurico se tragaron el sonido. Elaine soltó por la nariz un resoplido que, en otra noche, habría sido una sonrisa de verdad.
+
+—Puedo visualizarlo —insistió Artus.
+
+—Entonces sobrevive lo suficiente para demostrarme que me equivoco —dijo Kay con suavidad.
+
+Su gema siguió encendida mucho después de que el arco rosa se alejara. Amadea vio cómo su mirada se desviaba de la gema hacia Elaine. Fuera lo que fuera la Certeza Absoluta para él, pensó, no se trataba de ganar peleas.
+
+Por último apareció un dorado trenzado.
+
+—Hilo. El séptimo hilo áurico, los Lazos Resonantes de la armonía que mantiene unido al universo.
+
+Ese dorado se movía de otra manera. Los demás habían trazado curvas nítidas; este se trenzaba entre ellos, y por un Latido sus reflejos parecieron llegar más allá del latón — sobre manos, cuernos, rostros y el pendiente bajo los dedos de Corvin.
+
+Elaine se quedó mirando el dorado.
+
+—Un leitmotiv por sí solo es simple —dijo, en voz tan baja que no parecía hablarle a nadie—. Pero cuando carga peso e historia, se vuelve magistral.
+
+Kay deslizó la mano sobre la piedra fría hasta que su meñique tocó el de ella. Elaine no bajó la mirada; su dedo se enganchó al de él.
+
+—Tocada en conjunto, la partitura entera permitió que la existencia escuchara por primera vez la Sinfonía Eterna, y el cosmos se agitó al ritmo que lo gobernaría todo.
+
+Los siete colores giraban sobre la palma de Corvin, se cruzaban sin mezclarse y llenaban los huecos de un techo que el cielo había abandonado.
+
+Junto a Artus, la niña que dibujaba empezó a copiar el astrolabio sobre las losas. No con exactitud, pero de todos modos trazó siete líneas.
+
+—Era bueno, pero ella no se detuvo ahí. A partir del entramado sagrado de la realidad, dio forma a la Armonía de la Trinidad como la ley final que dividió el caos del todo y lo ató, por medio del Heptacódigo Áurico, a una ley triple.
+
+Corvin abrió los brazos, y su abrigo de retazos hizo eco del movimiento.
+
+Levantó el izquierdo.
+
+—El pasado que precedió a la existencia: Potencial de la Creación — Hilo, Vacío, Flujo.
+
+Levantó el derecho.
+
+—El futuro de su universo: Maestría sobre el Caos — Viento Ígneo, Luminancia, Cristal.
+
+Después alzó las dos manos a la vez, como un faro inclinado hacia la lluvia del Susurro de Brasas.
+
+—Y el presente, la Clave de Afinación que extrajo de su propia alma — Resonancia.
+
+La línea verde azulada se mantuvo erguida entre sus manos.
+
+_Ting._
+
+Otra brasa destelló desde lo alto; solo Amadea pareció oírla. Todas las demás miradas estaban puestas en Corvin.
+
+—Pasado. Futuro. Presente. —Artus murmuró la tríada.
+
+La niña que dibujaba trazó tres círculos alrededor de sus siete marcas torcidas. La chica mayor, a su lado, se inclinó hacia ella.
+
+—Ese somos nosotros.
+
+Negó furiosa con la cabeza.
+
+—¿El del medio?
+
+Otra negación.
+
+—¿La Aria?
+
+El carbón volvió a moverse. Fuera cual fuera la intención de la niña, su compañera ya había decidido que significaba algo.
+
+—Y el universo le devolvió el canto. La memoria, la causalidad y el destino fluyeron hasta formar un único continuo de orden. Pero al concierto aún le faltaba algo tan hermoso y cautivador como ella.
+
+Corvin giró el astrolabio. Sus arcos se aplanaron en un solo horizonte que giraba.
+
+—Así que, desde lo más puro de su amor sin límites, dio forma a un lugar a su imagen y semejanza: Arcanoria.
+
+Afuera, algo en llamas se derrumbó a lo lejos. El sonido rodó por el páramo como un trueno amortiguado.
+
+—Así comenzó la Creación de los Siete Ciclos de Vacío y Luminancia, la danza de la luz y la sombra.
+
+Elaine se quitó la gorra alada y la sostuvo contra las rodillas.
+
+—En el Primer Ciclo, a partir de la Resonancia, construyó la tierra, los mares y los cielos. En el Segundo Ciclo, a partir de la Luminancia, tejió el Gran Telar Armónico en las alturas, una vasta red que se extendía sobre el mundo, e hizo que la magia y la Resonancia fluyeran como las venas sinfónicas de las Líneas Ley.
+
+La luz amarillo crema trepó por los muros en ruinas en líneas ramificadas, de grieta en grieta.
+
+—En el Tercer Ciclo, a partir del Flujo, vertió los ríos, las llanuras, las montañas — y cada contorno llevaba la sangre vital de la Sinfonía Eterna.
+
+En algún lugar bajo el suelo, el agua seguía goteando. Su sonido fluía como si Corvin lo hubiera invocado desde la tierra.
+
+—En el Cuarto Ciclo, a partir del Vacío, dio ritmo a los cuerpos celestes y ató las estrellas al Movimiento Cósmico como una orquesta a través de los ecos de las estaciones.
+
+Amadea miró hacia arriba a través de la abertura fracturada de la cámara. No había estrellas. Solo el Susurro de Brasas a la deriva, que cruzaba la oscuridad como las constelaciones moribundas del Cielo Lloroso.
+
+—El paraíso que había vislumbrado avanzaba con exactitud hacia su perfección. Pero aún le faltaba su núcleo: intérpretes lo bastante libres para habitarlo. —Su voz descendió hasta un susurro triunfante—. Y así, el sueño de la vida se convirtió en el amanecer del más consonante, el Quinto Ciclo.
+
+Elaine se quebró.
+
+No hubo sollozo. Eso lo hizo peor. Comenzó con una sola lágrima que resbaló por su rostro tan en silencio que Amadea al principio la tomó por otro reflejo de las capas superiores de latón. Luego le siguió otra. Luego la presa se desgarró.
+
+Elaine apartó la cabeza. Kay no apartó la mirada; lo había visto.
+
+—Me encantaba esta parte —susurró Elaine.
+
+El pulgar de Kay recorrió una vez el costado de su mano. —Todavía te encanta.
+
+Ella rio por la nariz, y el sonido se quebró antes de poder convertirse en algo.
+
+—Si tan solo…
+
 ***
-"Before existence, before matter, before even the heavens themselves, there was nothing — and before there was nothing." 
 
-Corvin paused, echoing the chimes from nowhere.
+Un Latido.
 
-"There was the Eternal Symphony."
+Corvin los escuchó. La historia contuvo el aliento.
 
-He opened his eyes, and placed the astrolabe in the middle of his palm.
+—La Aria Áurica descendió al mundo recién nacido con el Viento Ígneo y el Enfoque Perfecto, sus manos más cerca que nunca. Fue el Primer Tejido de la Vida.
 
-"An infinite expanse of silent potential. Not yet sound, not yet stone — only unending absolute silence. The thread not yet plucked, the holiness before holiness, the instrument with all the latent potential of creation."
+Elaine cerró los ojos; Kay también.
 
-His words mirrored a crescendo until they stood still to deliver the final Beat.
+—Cantó a las aguas, y cada ola se volvió elocuente de vida plateada. Cantó al suelo, y cada trozo de tierra abrió sus costuras para recibir el verde. Cantó a los vientos, y el aire aprendió el oro de las alas. Cantó a la piedra dormida, y esta soñó con bosques que un día se alzarían del polvo.
 
-"The one blank score, containing all that could bet, without form, shape, or consciousness, preexistent beyond time."
+Al oír mencionar las alas, los dedos de Elaine recorrieron las plumas de cuero de su gorra.
 
-"An infinite void without sound. Until a single instant of causality broke the silence open: the First Overtone, a singular vibration that awakened all of that void. But it did not awaken to structure, it awakened to chaos, unfiltered, unthinkable chaos. A restless sea of Primal White Noise."
+Amadea había visto aquel par de alas todos los días, y apenas ahora se daba cuenta de que nunca se había preguntado de dónde venían.
 
-"All was above and below at once. There was no distance nor duration. There was deafening everything — too much of everything — and from everything, stirred the first will on a gilded anchor that flared on the static."
+Las lágrimas de Elaine no dejaban de brotar; intentaba contenerlas lo mejor que podía, a veces violentas, a veces una reverencia silenciosa.
 
-"The Auric Aria, the Golden Sovereign."
+—Formó a las bestias de la tierra, del cielo y del mar, y a cada una le dio su propia medida: la fuerza de los grandes astados, la paciencia de todos los que cavan madrigueras, el brillo de todo lo que tiene escamas y la rapidez de todo lo que puede desplegar sus alas. Enseñó al diente a no despreciar la hierba, y a la hierba a no temer a la lluvia. Enseñó a cada criatura dónde su sonido podía bendecir a la sinfonía mayor, tal como ella misma había aprendido alguna vez a hacer sonar su nota desde el ruido primordial.
 
-"And so the Auric Aria sang — she sang the song of creation. Its beautiful order pierced the chaos, her voice the structured light, the first bar of the score, the golden beacon across the vast sea of noise."
+Uno de los búfalos se movió, y su pezuña golpeó la piedra.
 
-"On the seven notes of her voice she yielded the primal static into the Auric Heptacode, the foundation of Arcanoria, and the ultimate mastery of her will."
+_Bump._
 
-"Her heptacode were the seven golden threads that wove reality together, the seven bindings that filtered structure into the laws of matter, space, and stability to subdue the formless vibrations, shaping physicality into stardust and energy itself."
+Un rostro sin nombre señaló. —Los grandes astados.
 
-He set the first of the ticking hands of the astrolabe in motion. The Emberwhisper crystal made an arc of teal green light, the one in the band of Corvin's ring.
+Elaine se cubrió la boca, con una sonrisa que brillaba a través de las lágrimas.
 
-"Resonance, the first auric thread of the Key of Attunement, the origin of Consonance lies in ringing true to your soul and key."
+—Sobre todo ellos —susurró.
 
-Then the second flared a yellow-cream arc, the same light as Elaine's gem.
+—Y cuando las primeras criaturas temblaron ante su propio ser, la Aria no las abandonó al miedo. Reunió sus voces inciertas en la palma de su mano y las trenzó con Resonancia. Esa fue la Flor de Eleos original, la primera Flor del Destino, una manifestación perfecta de la vida para que Arcanoria aprendiera, a través de la emoción, a llamar hogar a la tierra.
 
-"Luminance, the second auric thread of the Sufficient Precision of ordered music, playing a precise interval shapes the frequency of pure clarity."
+Corvin miró más allá de los niños, y todos siguieron su mirada.
 
-Then the third flared a hue of deep, shifting blue.
+Bajo la estructura colapsada, más allá del umbral donde antes había estado el Atonalis, varias pequeñas Flores del Destino brillaban entre los escombros. Llevaban ahí desde mucho antes de que comenzara la historia, quizá incluso desde antes del monstruo.
 
-"Flux, the third auric thread of the Emotional Authenticity imbued in a virtuosic performance, an expression only carries feeling when born of honest intent."
+Entre dos de ellas, algo, un brote de helecho centelleante, se abría paso a través de la roca.
 
-Then the fourth flared an a shadow of purple with black undertones.
+Nadie habló. El pulgar de Corvin pasó lentamente sobre el pendiente. Amadea reconoció su expresión — demasiado apretado, demasiado breve.
 
-"Void, the fourth auric thread of the Essence Sacrifice in the strength required to apply masterful dynamics and motion to reality."
+—Esta fue la misericordia del Quinto Ciclo: que ninguna vida naciera sin una nota de retorno. Semillas de Piedad, Contrición y Sacrificio, que encuentran su sentido en el peso del propósito.
 
-Then the fifth flared, warm orange to a crimson ember-glow, exactly like Corvin's ring.
+_Piedad. Contrición. Sacrificio._
 
-"Cindergale, the fifth auric thread of the Perfect Focus meant sustain the full potential of the unwavering, defiant performance of existence."
+Amadea guardó las palabras sin entenderlas. Artus movió los labios una vez alrededor de _Contrición_, para comprobar si pertenecían a una Balada.
 
-Then the sixth flared, a pink with a slightly prismatic radiance like Kay's gem.
+Los adultos no necesitaban comprobarlo. Elaine bajó la cabeza. La mandíbula de Kay se tensó. Corvin miró hacia el vacío entre las cobijas. Amadea apretó un puño contra el pecho y el otro contra su trenza, con los dedos entrelazados en su Nudo del Cielo.
 
-"Crystal, the sixth auric thread of the Absolute Certainty required for the melody to soar when it knows where to collapse its resolve of all possible futures."
+Si los niños recibían las palabras como nombres, los adultos ya las habían pagado con sangre. Corvin había cruzado su mirada con la de ella una vez.
 
-Then a braided gold that seemed to move across the surface.
+Esta vez no fue distinto; Corvin seguía mirándola.
 
-"Strand, the seventh auric thread of the Echoing Bonds that harmonize the entire universe together. A leitmotif by itself is simple, but when it carries weight and history, it is masterful."
+—En el Sexto Ciclo, a partir del Cristal, construyó el potencial infinito de la vida: los primeros linajes, con libre albedrío para reproducir su propia firma en armonía unos con otros. Y mientras poblaban su palacio celestial, sus salones eran compases de luz; sus jardines, armonías de la creación; sus torres resonaban con un nuevo amanecer.
 
-"On the entire score together, it was the first time existence could hear the Eternal Symphony, stirring the cosmos on the rhythm that would govern all."
+—Jardines. Torres. Un nuevo amanecer. —A Elaine se le cortó la respiración.
 
-"It was good, but she did not stop there. From the sacred lattice of reality, she shaped the Trinity Harmony, the law that divided the chaos of everything by the heptacode, and bound it to a threefold law:
+Una lágrima cayó sobre el cuero pulido de su gorra alada. La limpió de inmediato, con un cuidado absurdo para que no se asentara en la tela.
 
-"The past that preceded existence: Potential of Creation — Strand, Void, Flux."
+—Aberacorde tenía jardines —dijo.
 
-"The future of her universe: Mastery Over Chaos — Cindergale, Luminance, Crystal."
+—Tú me los mostraste —respondió Kay.
 
-"And the Key of Attunement from her own soul, the present — Resonance."
+—No eran así.
 
-"The universe sung back in the flowing continuum that established, memory, causality, and destiny, in a rhythm that found the patterns of order. However, the concert missed something as beautiful and mesmerizing as her beyond the stars."
+—Lo sé, mi cantante.
 
-"She decided for the purest of her boundless love to shape a place unique and in her image, Arcanoria."
+Elaine bajó la vista hacia la gorra. —Aun así, eran nuestros.
 
-"On this determination, the Auric Aria began the Seven-Cycle creation of Void and Luminance, the dance of light and shadow born from each ordered thread."
+—Sí —susurró su voz, sin titubear.
 
-"On the First Cycle, she built from Resonance, to shape the crust, the land, the seas, and the skies, giving Arcanoria a tangible form."
+Asintió una vez, con un jadeo brusco.
 
-"On the Second Cycle, she built from Luminance, to weave the Great Harmonic Loom as the celestial network of the skies that descends in a vast web across the world, making magic and Resonance flow as the symphonic veins of the Leylines.
+—En el Séptimo Ciclo, con toda la fuerza del Heptacódigo Áurico en el número de la perfección, construyó la pieza final de su corona a partir de un amor inquebrantable y de los lazos del Hilo.
 
-"On the Third Cycle, she built from Flux the fluidity of rivers, plains, mountains, and all the relief from the lifeblood of the Eternal Symphony."
+La línea dorada regresó y pasó entre los colores que giraban, hasta que los siete se movieron en relación con ella.
 
-"On the Fourth Cycle, she built from Void the rhythm and dynamics of the celestial bodies, binding the stars into a moving orchestra across the echoes of seasons."
+—Por fin, concibió a la Humanidad como el Reflejo Perfecto de su voluntad. Erguida. Única. Lo bastante sapiente para ver el mundo como ella lo veía, a través de ojos que heredaron su sagrada geometría áurica.
 
-"The paradise she dreamt about was going exactly to her perfection. However, it was still missing the reflection of an autonomous performers that would inhabit, and thus, this dream of creative life was the dawn of the Fifth Cycle."
+—¿Nosotros? —preguntó Artus.
 
-"The Auric Aria descended with Cindergale and Perfect Focus into the newborn world, and sang nearer than ever before."
+Kay se miró a sí mismo. —Al parecer.
 
-"She sang into the waters, and the waters became fluent with silver life. She sang into the soil, and the soil opened its dark hands to receive green. She sang into the winds, and the winds learned the golden of wings. She sang into the sleeping stone, and the stone dreamed of forests that would done day rise from dust."
+Elaine le dio un codazo.
 
-"At the edge of the first green places. She fashioned the beasts of field and cloud and sea. She gave each its own measure and purpose: The strength of the great horned ones, the patience of the burrowing ones, the brilliance of the scaled ones, the swiftness of the winged ones. She taught tooth not to despise grass, and grass not to fear the rain. She taught every creature the place from which its sound could bless the greater symphony, just as she once learned from the primal noise."
+—¿Qué? —respondió él.
 
-"And where the first creatures trembled before their own new being, the Auric Aria did not abandon them in fear. She gathered their uncertain voices into her palm and braided them with Resonance. That, was the first Fated Flower, which bloomed on the emotional residue that might know how to call the soil home."
+—No les arruines la humanidad tan pronto.
 
-"This was the mercy of the Fifth Cycle: that no life was made without a note of return. The seed of Piety, Contrition, and Sacrifice to find their meaning on the weight of purpose."
+—Yo no fui quien inventó la humanidad.
 
-"In the Sixth Cycle, she built from Crystal the infinite potential of all life, creating the first lineages and the free will for creatures to reproduce their own signature, bound in harmony as they populated her celestial palace. Its halls were measures of light, its gardens were harmonies of creation, and its towers rang softly with the measure of a new dawn."
+Aparecieron algunas sonrisas más. Incluso la boca de Corvin amenazó con esbozar una.
 
-"In the Seventh Cycle, the one carrying the entire strength of the Auric Heptacode, she built the final piece of the crown with her unyielding love, and the bonds of Strand."
+Amadea recorrió la cámara con la mirada. Un hombre con sangre seca bajo el anillo. Una mujer que lloraba sobre una gorra alada desgastada. Un espadachín con ceniza y sangre ajena en el abrigo. Niños envueltos en telas rescatadas. Búfalos blancos que los resguardaban de la lluvia ardiente. Un asiento vacío en la media luna de una catedral en ruinas.
 
-"She envisioned at last Humanity, as a Perfect Reflection of her will. She decided to make them upright, different, sapient enough to see the world as she saw."
+_Reflejo Perfecto._
 
-"When the first humans looked back at her, they spoke, and as they spoke, they understood the underlying fabric of her universe. She was overjoyed with emotion, and upon the highest cliff of the land, she entrusted humanity with the tenet of Revelation in one last gift."
+—¿A qué parte de la Aria debían parecerse? —se dijo Amadea a sí misma, y a nadie.
 
-"From the Auric Aria's deepest well of her devotion, she drew forth a singular miracle. She forged a great luminous mirror, placing it carefully beneath the turning heavens. 'Let the stars keep the time of the universe' She decreed, 'but this alone shall not dance to the rigid tempo of Cosmic Motion. for it is excluded as a gift solely given to the sentience of my children."
+—Revelación.
 
-"So she bound the Moon to the night, a captive light held fast in a silver snare so that it might never wander from humanity's gaze. It was placed as a personal guide, weeping its gentle, silver light upon the dark."
+Corvin había respondido con orgullo, en medio del relato.
 
-"The Aria sang one last time. She called Luminance Day, and the Void she called Night. And there was evening and there was morning. The Resonance of her song seeded the last of magic in the Leylines, Aetherlight as her own essence of Luminance, and Lunehymn as the silver moon that signaled the Void."
+Solo entonces se dio cuenta de que lo había interrumpido. Amadea se encogió sobre sus rodillas, queriendo que se la tragara la tierra. Corvin exhaló una sonrisa para tranquilizarla y continuó.
 
-"The Moon became the visible covenant of that protection. It watched without sleeping, it shone without consuming. For all power flowed according to the first lesson she imparted to the universe."
+—Cuando los primeros humanos le devolvieron la mirada, hablaron — y al hablar, comprendieron el tejido de su universo. Llena de júbilo, ella se irguió sobre el acantilado más alto de la tierra y les confió el principio de la Revelación.
 
-"The chaos is not conquered by force, it is taught by order how to sing."
+Amadea se apretó la muñeca. Ya no le dolía. Quizá la Revelación, más allá de lo que significara, era negarse a seguir ignotante ante lo que intentaba matarte.
 
-"And so Arcanoria endured beneath the Moon. The seas kept their measure. The living sang in a thousand voices."
+—Entonces, desde el pozo más profundo de su devoción, forjó un gran espejo luminoso bajo los cielos que giraban. «Que las estrellas marquen el tiempo del universo», decretó, «pero solo este no danzará al rígido tempo del Movimiento Cósmico, porque es un don que entrego única y exclusivamente a la conciencia de mis hijos».
 
-"Then, when the final strand had been set in its place, the Auric Aria stood upon the highest balcony of the heavens. Below her lay Arcanoria, bright with the music she had ordered from chaos."
+Elaine alzó los ojos luminosos antes del siguiente verso. Lo conocía.
 
-"Above her lay the Eternal Symphony, vast and listening. She lifted her face as though hearing a song no other being could hear."
+—Así que ató la luna a la noche, una luz cautiva sujeta con firmeza en un lazo de plata para que nunca se apartara de la mirada de la humanidad. Una guía personal que lloraba su suave luz plateada sobre la oscuridad.
 
-"And afterward"
+_Ting._
 
-"The Auric Aria was silent."
+La palabra «lloraba» quedó suspendida en el refugio. Afuera, el cielo respondía con fuego.
 
-"No one can hear her voice anymore, but if she left us the motion of the skies, and the tools to understand, she entrusted us with the Revelation of hearing that song too."
+Una brasa se coló por la grieta y prendió una raíz muerta. Kay se levantó sin decir palabra y la aplastó bajo la bota. Cuando volvió a sentarse, Elaine seguía mirando a través del hueco.
 
-***
+No había luna. Solo hollín que caía.
 
-As the fire continues, some other ballads play out, particularly the one about the Mother of All Bards. Amadea stays close to Corvin who is reminiscing about the cloth patches.
+—¿Todavía puede vernos?
+
+Uno de los niños siguió su mirada.
+
+Por un momento, Amadea esperó que Elaine dijera que sí. Siempre decía que sí a ese tipo de cosas, para que nadie temblara.
+
+—No... lo sé —dijo Elaine con dificultad, y ajustó la cobija sobre los hombros del niño—. Pero todavía podemos vernos unos a otros.
+
+Kay tomó la mano entera de ella en la suya.
+
+—La Aria cantó una última vez. A la Luminancia la llamó Día, y al Vacío lo llamó Noche. Y fue la tarde, y fue la mañana — el primer día. La Resonancia de su canto sembró en las Líneas Ley lo último de la magia: la Luz Etérea, su esencia de Luminancia, y el Himno Lunar, la plata de la Luna, que señalaba el vacío infinito del más allá.
+
+El astrolabio se dividió en luz y sombra. Un resplandor crema cruzó un lado del rostro de Corvin; un negro púrpura se tragó el otro. La frontera lo partía justo por el centro, de arriba abajo.
+
+—La luna se convirtió en el pacto de su protección. Vigilaba sin dormir. Brillaba sin consumir. Porque todo poder fluía de la primera lección que ella le enseñó al universo.
+
+Su tono cambió; ya no era para los niños. Si era para Elaine, para sí mismo o para los muros podridos — Amadea no sabría decirlo.
+
+—El caos no se conquista con la fuerza.
+
+_Bump._
+
+Un búfalo golpeó la piedra.
+
+—El orden le enseña a cantar.
+
+_Bump._
+
+Otro respondió desde el fondo.
+
+Amadea sintió que se le cortaba la respiración. Hacía unas lunas, esta misma historia le habría llegado solo como estática. Ahora el golpeteo de las pezuñas era lo bastante vívido para ser real.
+
+—Y así, Arcanoria perduró bajo la luna. Los mares guardaron su compás. Los vivos cantaron en el coro de mil voces.
+
+El astrolabio se plegó hacia dentro, anillo por anillo, y sus luces se apagaron en orden inverso: dorado, rosa, naranja, púrpura, azul, crema.
+
+Solo quedó el verde azulado.
+
+—Cuando colocó el último hilo en su lugar, la Aria Áurica se irguió en el balcón más alto de los cielos. Bajo ella se extendía Arcanoria, resplandeciente con la música que había ordenado a partir del caos.
+
+Corvin contempló el pendiente durante un largo momento, hasta que el aliento se le quedó atrapado en la garganta, y luego lo prendió bajo el forro de su abrigo de retazos, apretado contra el pecho.
+
+—Sobre ella se extendía la Sinfonía Eterna, vasta y escuchando. Alzó el rostro, como si oyera una canción que ningún otro ser podía oír.
+
+El último anillo se ralentizó. Corvin alzó la barbilla hacia el hueco dentado del techo.
+
+—Y después—
+
+_Click._
+
+Sus ojos viajaron hasta el asiento vacío. Su mano ensangrentada se cerró sobre el lugar donde descansaba el sigilo áurico. La última luz se hundió en el latón oscuro.
+
+Su voz se quebró.
+
+Un Latido.
+
+—…la Aria Áurica quedó en silencio.
+
+Este silencio entró de otra manera. No vacío. Nunca vacío.
+
+Los tres adultos inclinaron la cabeza, con los dedos entrelazados en oración. El fuego respiró; acarició el rostro de Amadea.
+
+Afuera, el Cielo Lloroso retumbaba en su trueno susurrante. Ninguna voz divina le respondió. Corvin nunca había afirmado que alguna lo haría.
+
+Cuando volvió a hablar, su voz ahumada había dejado atrás el mito.
+
+—Ya nadie puede oír su voz, pero —Corvin tropezó con sus propias palabras—, si nos dejó el movimiento de los cielos y las herramientas para entenderlos… Nos confió la Revelación, para que pudiéramos escuchar esa canción por nosotros mismos.
+
+Bajó la mirada hacia el astrolabio, luego hacia Artus y luego hacia Amadea.
+
+—Y quizá algún día también nosotros entendamos en qué se ha convertido este mundo.
+
+Ninguno de los niños respondió. Todos miraban el astrolabio inmóvil.
+
+Los ojos vibrantes de Artus tenían una docena de preguntas formadas detrás de sus pensamientos. La niña que dibujaba había cubierto una losa con siete líneas torcidas y tres círculos, y su compañera leía cada marca con una confianza inquebrantable. Alguien dio unas palmadas en el costado de un búfalo.
+
+_Ting._
+
+Una última brasa flotó a través de la abertura y desapareció. Amadea vio su silueta grabarse en los muros y se preguntó qué lugar ocupaba en el mito. La historia nunca había hablado de un cielo muerto.
+
+Le dedicó una última mirada al círculo del Reflejo Perfecto.
+
+Para los niños, la creación se había convertido en algo que estudiar.
+
+Para Kay y Elaine, en algo que defender, y que llorar.
+
+Para Corvin, en algo mucho más profundo, en sus ojos indescifrables.
+
+Si esa diferencia de perspectiva era el verdadero significado de la canción de la Aria Áurica, entonces para Amadea — quizá, algún día, esperanza.
+
+##### 5.3 Un Mundo Sin Rostros Anónimos | Armonía Inferior
+
+_Movimiento 1: El Sueño | Partitura I: Una Balada Antes de Iridia_
+_Acto 3: Restos de Esperanza y Baladas_
+
+_Resonancia | Clave de Afinación_
+
+As the fire continues, some other ballads play out, it's the closing one of Daedalus and Aurelian. However, Amadea stays close to Corvin who is reminiscing about the cloth patches.
 
 - [[Corvin]] shows Amadea his coat, and he begins naming each of the names he forgets to disappear, showing the patches are from different caravans, different survivors. He points to one: _"This was from a boy who wanted to be craftsman. He didn't make it."_
 

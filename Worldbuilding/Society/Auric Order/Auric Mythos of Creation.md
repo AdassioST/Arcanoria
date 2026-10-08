@@ -8,100 +8,107 @@ The Auric symbol originated from what happened to the [[Auric Aria]] during the 
 
 ### The Mythos
 
-Before existence, before matter, before even the heavens themselves, there was nothing — and before there was nothing there was [[The Eternal Symphony]].
+Before existence, before matter, before thought — before even the heavens themselves — there was nothing. And before there was nothing there was the Eternal Symphony.
 
-An infinite expanse of silent potential. Not yet sound, not yet stone — only unending absolute silence. The thread not yet plucked, the holiness before holiness, the instrument with all the latent potential of creation.
 
-The one blank score, containing all that could bet, without form, shape, or [[Consciousness]], preexistent beyond time.
+An infinite expanse of silent potential. Not yet sound, not yet stone — only absolute, unending silence. The thread not yet plucked. The holiness before holiness. The one instrument string holding all the latent potential of creation.
 
-[[The Infinite Void]] without sound. Until a single instant of causality broke the silence open: [[The First Overtone]], a singular vibration that awakened all of [[The Infinite Void]]. But it did not awaken to structure, it awakened to chaos, unfiltered, unthinkable chaos. A restless sea of [[Primal White Noise]].
+The one blank score. All that could be, without form, shape, or [[Consciousness]]. Preexistent, beyond time.
 
-All was above and below at once. There was no distance nor duration. There was deafening everything — too much of everything — and from everything, stirred the first will on a gilded anchor that flared on the static in an Auric Burst of Radiance.
+An infinite void without sound — until a single instant of causality broke it open. [[The First Overtone]]. One vibration that woke the whole [[Void]]. But it did not wake to structure. It woke to chaos. Unfiltered, unthinkable chaos.
 
-The [[Auric Aria]], the Golden Sovereign.
+A restless sea of [[Primal White Noise]].
 
-And so the [[Auric Aria]] sang — she sang the song of creation. Its beautiful order pierced the chaos, her voice the structured light, the first bar of the score, the golden beacon across the vast sea of noise.
+All was above and below at once. No distance, no duration. Only deafening everything — too much of everything. And from everything, it stirred the first will, a gilded anchor flaring in the static.
 
-On the seven notes of her voice she yielded the primal static into the [[Auric Heptacode]], the foundation of [[Arcanoria]], and the ultimate mastery of her will.
+All was above and below at once. No distance, no duration. Only deafening everything — too much of everything. And from everything, it stirred the first will, a gilded anchor flaring in the static in an [[Auric Burst]] of radiance.
 
-Her [[Auric Heptacode]] were the seven golden threads that wove reality together, the seven bindings that filtered structure into the laws of matter, space, and stability to subdue the formless vibrations, shaping physicality into stardust and energy itself.
+The [[Auric Aria]]. The Golden Sovereign. The Song of Gold.
 
-[[Resonance]], the first auric thread of the [[Key of Attunement]], the origin of [[Consonance]] lies in ringing true to your [[Soul-Key]].
+And so the [[Auric Aria]] sang.
 
-[[Luminance]], the second auric thread of the [[Sufficient Precision]] of ordered music, playing a precise interval shapes the frequency of pure clarity.
+She sang the song of creation. Its beautiful order pierced the chaos — her voice the structured light, the first bar of the score, the one golden beacon across the vast sea of noise.
 
-[[Flux]], the third auric thread of the [[Emotional Authenticity]] imbued in a virtuosic performance, an expression only carries feeling when born of honest intent.
+Upon the seven notes of her voice, she tuned the primal static into the [[Auric Heptacode]]: the foundation of [[Arcanoria]], and the supreme mastery of her will.
 
-[[Void]], the fourth auric thread of the [[Essence Sacrifice]] in the strength required to apply masterful dynamics and motion to reality.
+Seven golden threads weaving reality together. Seven bindings that filtered formless vibration into the laws of matter, space, and stability. Each shaping physicality into stardust and energy to shape.
 
-[[Cindergale]], the fifth auric thread of the [[Perfect Focus]] meant sustain the full potential of the unwavering, defiant performance of existence.
+[[Resonance]]. The first auric thread, the [[Key of Attunement]] from which all [[Consonance]] begins by ringing true to your own soul and key.
 
-[[Crystal]], the sixth auric thread of the [[Absolute Certainty]] required for the melody to soar when it knows where to collapse its resolve of all possible futures.
+[[Luminance]]. The second auric thread, the [[Sufficient Precision]] of ordered music. A precise interval shapes the frequency of pure clarity.
 
-[[Strand]], the seventh auric thread of the [[Echoing Bonds]] that harmonize the entire universe together. A leitmotif by itself is simple, but when it carries weight and history, it is masterful.
+[[Flux]]. The third auric thread, the [[Emotional Authenticity]] imbued in a virtuosic performance. An expression only carries feeling when born of honest intent.
 
-On the entire score together, it was the first time existence could hear [[The Eternal Symphony]], stirring the cosmos on the rhythm that would govern all.
+[[Void]]. The fourth auric thread, the [[Essence Sacrifice]] in the strength it costs to give masterful dynamics and motion to reality.
 
-It was good, but she did not stop there. From the sacred lattice of reality, she shaped the [[Trinity Harmony]], the law that divided the chaos of everything by the heptacode, and bound it to a threefold law:
+[[Cindergale]]. The fifth auric thread, the [[Perfect Focus]] and discipline to sustain the defiant performance of existence without wavering.
+
+[[Crystal]]. The sixth auric thread, the [[Absolute Certainty]] required for the melody to soar when it knows where to collapse all its possible futures.”
+
+[[Strand]]. The seventh auric thread, the [[Echoing Bonds]] of the harmony that holds the universe together. A leitmotif by itself is simple, but when it carries weight and history, it becomes masterful.
+
+Played together, the entire score let existence hear [[The Eternal Symphony]] for the first time, and the cosmos stirred to the rhythm that would govern all.
+
+It was good, but she did not stop there. From the sacred lattice of reality, she shaped the [[Trinity Harmony]] as the final law that divided the chaos of everything, binding it by the [[Auric Heptacode]] to a threefold law.
 
 The past that preceded existence: [[Potential of Creation]] — [[Strand]], [[Void]], [[Flux]].
 
 The future of her universe: [[Mastery Over Chaos]] — [[Cindergale]], [[Luminance]], [[Crystal]].
 
-And the [[Key of Attunement]] from her own soul, the present — [[Resonance]].
+And the present, the [[Key of Attunement]] drawn from her own soul — [[Resonance]].
 
-The [[Known Universe]] sung back in the flowing continuum that established, memory, causality, and destiny, in a rhythm that found the patterns of order. However, the concert missed something as beautiful and mesmerizing as her beyond the stars.
+And the universe sang back. Memory, causality, and destiny flowed into a single flowing continuum of order. Yet the concert still lacked something as beautiful and mesmerizing as she was.
 
-She decided for the purest of her boundless love to shape a place unique and in her image, [[Arcanoria]].
+So, from the purest of her boundless love, she shaped a place in her image and likeness: [[Arcanoria]].
 
-On this determination, the [[Auric Aria]] began the [[Seven-Cycle Creation]] of [[Void]] and [[Luminance]], the [[Dance]] of light and shadow born from each ordered thread.
+Thus began the [[Seven-Cycle Creation]] of [[Void]] and [[Luminance]], the dance of light and shadow.
 
-On the [[First Cycle]], she built from [[Resonance]], to shape the crust, the land, the seas, and the skies, giving [[Arcanoria]] a tangible form.
+In the [[First Cycle]], she built from [[Resonance]] the land, the seas, and the skies. 
 
-On the [[Second Cycle]], she built from Luminance, to weave the Great Harmonic Loom as the celestial network of the skies that descends in a vast web across the world, making magic and Resonance flow as the symphonic veins of the Leylines.
+In the [[Second Cycle]], from [[Luminance]], she wove the [[Great Harmonic Loom]] across the heavens, in a vast web across the world, making magic and [[Resonance]] flow as the symphonic veins of the [[Leylines]].
 
-On the Third Cycle, she built from Flux the fluidity of rivers, plains, mountains, and all the relief from the lifeblood of the Eternal Symphony.
+In the [[Third Cycle]], from [[Flux]], she poured the rivers, the plains, the mountains — every contour carrying the lifeblood of [[The Eternal Symphony]].
 
-On the Fourth Cycle, she built from Void the rhythm and dynamics of the celestial bodies, binding the stars into a moving orchestra across the echoes of seasons.
+In the [[Fourth Cycle]], from [[Void]], she gave rhythm to the celestial bodies, binding the stars into [[Cosmic Motion]] as an orchestra across the echoes of the seasons.
 
-The paradise she dreamt about was going exactly to her perfection. However, it was still missing the reflection of an autonomous performers that would inhabit, and thus, this dream of creative life was the dawn of the Fifth Cycle.
+The paradise she envisioned was going exactly to her perfection. Yet it still lacked its core — performers free enough to inhabit it. His voice lowered to a triumphant whisper. And so the dream of life became the dawn of the most consonant, the [[Fifth Cycle]].
 
-The Auric Aria descended with Cindergale and Perfect Focus into the newborn world, and sang nearer than ever before.
+The Auric Aria descended into the newborn world with Cindergale and Perfect Focus, and sang nearer than ever before. It was the First Weaving of Life.
 
-She sang into the waters, and the waters became fluent with silver life. She sang into the soil, and the soil opened its dark hands to receive green. She sang into the winds, and the winds learned the golden of wings. She sang into the sleeping stone, and the stone dreamed of forests that would done day rise from dust.
+She sang into the waters, and each wave grew fluent with silver life. She sang into the soil, and each patch of dirt opened its seams to receive green. She sang into the winds, and the air learned the gold of wings. She sang into the sleeping stone, and it dreamed of forests that would one day rise from dust.
 
-At the edge of the first green places. She fashioned the beasts of field and cloud and sea. She gave each its own measure and purpose: The strength of the great horned ones, the patience of the burrowing ones, the brilliance of the scaled ones, the swiftness of the winged ones. She taught tooth not to despise grass, and grass not to fear the rain. She taught every creature the place from which its sound could bless the greater symphony, just as she once learned from the primal noise.
+She fashioned the beasts of land and sky and sea, and gave each its own measure: the strength of the great horned ones, the patience of all the burrowing ones, the brilliance of anything scaled, and the swiftness of everything that could spread its wings. She taught tooth not to despise grass, and grass not to fear the rain. She taught every creature where its sound could bless the greater symphony, just as she once had learned to ring her note from the primal noise.
 
-And where the first creatures trembled before their own new being, the Auric Aria did not abandon them in fear. She gathered their uncertain voices into her palm and braided them with Resonance. That, was the first Fated Flower, which bloomed on the emotional residue that might know how to call the soil home.
+And when the first creatures trembled before their own being, the [[Auric Aria]] did not leave them to fear. She gathered their uncertain voices into her palm and braided them with [[Resonance]]. That was the original [[Eleos Bloom]], the first [[Fated Flower]], a [[Perfect manifestation of Life]] so that Arcanoria might learn from emotion to call the soil home.
 
-This was the mercy of the Fifth Cycle: that no life was made without a note of return. The seed of Piety, Contrition, and Sacrifice to find their meaning on the weight of purpose.
+This was the mercy of the [[Fifth Cycle]]: that no life was made without a note of return. Seeds of [[Piety]], [[Contrition]], and [[Sacrifice]], which find their meaning in the [[Weight of Purpose]].
 
-In the Sixth Cycle, she built from Crystal the infinite potential of all life, creating the first lineages and the free will for creatures to reproduce their own signature, bound in harmony as they populated her celestial palace. Its halls were measures of light, its gardens were harmonies of creation, and its towers rang softly with the measure of a new dawn.
+In the [[Sixth Cycle]], she built from [[Crystal]] the infinite potential of life: the first lineages, with free will to reproduce their own signature in harmony with one another. And as they populated her celestial palace, its halls were measures of light, its gardens harmonies of creation, its towers ringing with a new dawn.
 
-In the Seventh Cycle, the one carrying the entire strength of the Auric Heptacode, she built the final piece of the crown with her unyielding love, and the bonds of Strand.
+In the [[Seventh Cycle]], carrying the full strength of the Auric Heptacode in the number of perfection, she built the final piece of her crown from unyielding love and the bonds of Strand.
 
-She envisioned at last Humanity, as a Perfect Reflection of her will. She decided to make them upright, different, sapient enough to see the world as she saw.
+At last, she envisioned [[Humanity]] as the [[Perfect Reflection]] of her will. Upright. Unique. Sapient enough to see the world as she saw it, through eyes that inherited her own sacred [[Auric Geometry]].
 
-When the first humans looked back at her, they spoke, and as they spoke, they understood the underlying fabric of her universe. She was overjoyed with emotion, and upon the highest cliff of the land, she entrusted humanity with the tenet of Revelation in one last gift.
+When the first humans looked back at her, they spoke — and in speaking, they understood the fabric of her universe. Overjoyed, she stood upon the highest cliff of the land and entrusted them with the tenet of [[Revelation]].
 
-From the Auric Aria's deepest well of her devotion, she drew forth a singular miracle. She forged a great luminous mirror, placing it carefully beneath the turning heavens. 'Let the stars keep the time of the universe' She decreed, 'but this alone shall not dance to the rigid tempo of Cosmic Motion. for it is excluded as a gift solely given to the sentience of my children.
+Then, from the deepest well of her devotion, she forged a great luminous mirror beneath the turning heavens. ‘Let the stars keep the time of the universe,’ she decreed, ‘but this alone shall not dance to the rigid tempo of [[Cosmic Motion]], for it is exclusively a gift solely given to the sentience of my children.’
 
-So she bound the Moon to the night, a captive light held fast in a silver snare so that it might never wander from humanity's gaze. It was placed as a personal guide, weeping its gentle, silver light upon the dark.
+So she bound the [[Moon]] to the night, a captive light held fast in a silver snare so it might never wander from [[Humanity]]’s gaze. A personal guide, weeping its gentle silver light upon the dark.
 
-The Aria sang one last time. She called Luminance Day, and the Void she called Night. And there was evening and there was morning. The Resonance of her song seeded the last of magic in the Leylines, Aetherlight as her own essence of Luminance, and Lunehymn as the silver moon that signaled the Void.
+The Aria sang one last time. She called [[Luminance]] Day, and [[Void]] she called [[Night]]. And there was evening, and there was morning — the first day. The [[Resonance]] of her song seeded the last of magic into the [[Leylines]]: [[Aetherlight]], her essence of [[Luminance]], and [[Lunehymn]], the [[Moon]]’s silver, signaling [[The Infinite Void]] beyond.
 
-The Moon became the visible covenant of that protection. It watched without sleeping, it shone without consuming. For all power flowed according to the first lesson she imparted to the universe.
+The [[Moon]] became the covenant of her protection. It watched without sleeping. It shone without consuming. For all power flowed from the first lesson she taught the universe.
 
-The chaos is not conquered by force, it is taught by order how to sing.
+Chaos is not conquered by force. It is taught by order how to sing.
 
-And so Arcanoria endured beneath the Moon. The seas kept their measure. The living sang in a thousand voices.
+And so Arcanoria endured beneath the [[Moon]]. The seas kept their measure. The living sang in a thousand voices.
 
-Then, when the final strand had been set in its place, the Auric Aria stood upon the highest balcony of the heavens. Below her lay Arcanoria, bright with the music she had ordered from chaos.
+When the final thread was set in its place, the [[Auric Aria]] stood upon the highest balcony of the heavens. Below her lay [[Arcanoria]], bright with the music she had ordered from chaos.
 
-Above her lay the Eternal Symphony, vast and listening. She lifted her face as though hearing a song no other being could hear.
+Above her lay the Eternal Symphony, vast and listening. She lifted her face, as though hearing a song no other being could hear.
 
-And afterward, the Auric Aria was silent.
+And afterward, the [[Auric Aria]] was silent.
 
-No one can hear her voice anymore, but if she left us the motion of the skies, and the tools to understand, she entrusted us with the Revelation of hearing that song too.
+No one can hear her voice anymore, but she left us the motion of the skies, and the tools to understand them. She entrusted us with [[Revelation]], so that we might hear that song ourselves.
 
 ![[Auric Mythos of Creation-1.png]]

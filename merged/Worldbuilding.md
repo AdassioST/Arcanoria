@@ -275,7 +275,7 @@ Witness a [[Legend]] recover from Spiraling [[Composure]] and as result evolve o
 _"You Are Filled With Determination: Their [[Fundamental Frequency]] never asked permission to keep going."_
 
 Witness any [[Legend]] share a [[Scorching Truth]] and be rejected, imprisoned, or executed for heresy
-_"The Cave's Exit: The blinding [[Luminance]] was so perfect that no one believed they had seen it."
+_"The Cave's Exit: The blinding [[Luminance]] was so perfect that no one believed they had seen it."_
 
 Witness any [[Legend]] reach the [[Catalytic Abyss of Emotion]]
 _"The Crux of Nigredo: Have a [[Legend]] reach the dark night of their soul."_
@@ -299,7 +299,7 @@ Use [[Syncretism]] to merge two [[Constellation]]s
 _"Interpretatio Aeterna: Two truths that cannot exist together have always been a single truth that hadn't found a name yet."_
 
 Develop a [[Legend]]'s starting Personality [[Legend Trait]] into an [[Apex Trait]]
-_"Tathāgata of the [[Soul Leitmotif]]: Grow a [[Legend]] that became so entirely themselves that their [[Fundamental Frequency]] finally resolved into the note it was always meant to be."
+_"Tathāgata of the [[Soul Leitmotif]]: Grow a [[Legend]] that became so entirely themselves that their [[Fundamental Frequency]] finally resolved into the note it was always meant to be."_
 
 Have an [[Underdog]] produce 3× [[Lyrical Fragment]]s on a single action
 _"The Stone The Builders Rejected: [[The Eternal Symphony]] doesn't grade prestige, It grades the [[Resonance]] of a soul."_
@@ -320,12 +320,15 @@ Witness a [[Legend Relationship]] reach the level of [[Romantic Interest]] of In
 _"An Infatuated Obsession: You just don't know it yet, but you love me and I love you the same. One day we'll have a pretty wedding, and I'll be your everything."_
 
 Witness a [[Legend]] be crushed by the [[Weight of Potential]]
-_"The [[Crystal]] Jar: I saw my life branching out like an [[Auric Peach]] Tree. From the tip of every branch, a wonderful future. I sat at the crotch, starving to death; I wanted them all, but choosing one meant losing the rest. Unable to decide, I saw the golden peaches wrinkle into shades of brown, plopping one by one to the ground at my feet."
+_"The [[Crystal]] Jar: I saw my life branching out like an [[Auric Peach]] Tree. From the tip of every branch, a wonderful future. I sat at the crotch, starving to death; I wanted them all, but choosing one meant losing the rest. Unable to decide, I saw the golden peaches wrinkle into shades of brown, plopping one by one to the ground at my feet."_
 
 Have any [[Legend]] perform any unspeakable act
-_"Aw.. Hell Nah: You know what you did..."
+_"Aw.. Hell Nah: You know what you did..."_
 
 ### Culture, [[Civic]]s & [[Civilization]]
+
+Witness the first birth of your [[Civilization]]
+_"There is Beauty in That: No matter the sorrow of this shattered world, no matter how deep the scars etched in golden dust, so long as new life is born, so too are the stars. And one day, their symphony will sing back to us."_
 
 Have a fully [[Ornament]]al [[Major Settlement]]
 _"[[Soul Leitmotif]] of [[Civilization]]: Develop a rich, long-standing history of a [[Major Settlement]]."_
@@ -370,13 +373,16 @@ Justify any [[Atrocity]] in your [[Civilization]]
 _"Hume's Guillotine: From what is, you cannot cut what ought to be. And yet someone always does."_
 
 Revise the Death Count of any official ledger in your [[Civilization]]
-_"The Trolley That Kept Moving: You didn't fail to save the five; you just wrote it as one."
+_"The Trolley That Kept Moving: You didn't fail to save the five; you just wrote it as one."_
 
 Reveal and condemn the historical revisionism of any [[Civilization]] that rewrote the death count of any official ledger by exposing the truth of the tragedy.
 _"People Are Never Numbers!: Expose the ultimate corruption of the [[Weight of Value]] taking root in the tyrants of [[Civilization]]."_
 
 Adopt a [[Religion]] with a stable [[Piety]] output without the help of [[Prophet]] [[Civic]]s
-_"Pascal's Compromise: It's not that you had to believe, but the altar was useful anyway."
+_"Pascal's Compromise: It's not that you had to believe, but the altar was useful anyway."_
+
+Allow a group of exiles of any [[Religion]] to settle in your [[Civilization]]
+_"The Promised Land: In my Father’s house are many rooms. The priests promised the land only to the seed of the covenant; yet you divided the inheritance among the strangers who sojourned within your borders, and the discord became home."_
 
 Found a [[Religion]]
 _"Genesis 1:5: The Aria called [[Luminance]] Day, and the [[Void]] she called Night. And there was evening, and there was morning."_
@@ -431,7 +437,7 @@ Witness any shapeshifting [[Atonalis]] successfully mimic a deceased [[Legend]],
 _"A Chinese Room of Hunger: It sang back every prayer while feeling none of them."_
 
 Have [[Spellweaving]] [[Chord Layering]] turn to [[Discordant Interference]] by leaving several [[Minor Note]]s unresolved in the Visualization phase of [[Spellweaving]] combat
-_"Chekhov's [[Resonance]]: If you show a loaded spell in Act I, it must absolutely go off by Act III."_
+_"Chekhov's [[Resonance]]: If you show a loaded spell in Measure I, it must absolutely go off by Measure III."_
 
 Attempt to resolve [[Discordant Interference]] in [[Spellweaving]] [[Chord Layering]] through incremental corrections until the spell finally collapses
 _"Zeno's Crescendo: You kept halving the resolution but it never arrived."_
@@ -439,17 +445,32 @@ _"Zeno's Crescendo: You kept halving the resolution but it never arrived."_
 Cancel the [[Chord Layering]] stack of an enemy spell loaded with 15 or more [[Minor Note]]s during the Abjuration phase of [[Spellweaving]] combat while scoring Perfect in every single note.
 _"[[Arcanoria]] Moment 37: Daigo would be proud of your noise cancelling reflexes."_
 
+Suffer an unmitigated hit from a preventable enemy spell after spending an entire Measure ringing the Redraw Bell.
+_"Pavlov's Carillon: Why bite the hand that feeds when it's the only hand you're getting?"_
+
+Interrupt an enemy's [[Legend Opus]] signature [[Symphony Card]] of [[Triad Chord]] level or above, causing it to collapse into [[Discordant Interference]].
+_"Critically Thinking Hater: Oh, that was your masterwork? Fascinating potential. Dreadful composition. Absolutely horrid execution, darling. Sit down; let me explain why your triad collapsed."_
+
+Win a [[Spellweaving]] combat encounter without using a single Offensive [[Symphony Card]].
+_"Ahimsa's Mirror: The truest victory is not overpowering the blade, but leaving the hand to wonder why it was drawn at all. The fiercest strike always becomes the heaviest when forced to resolve inward."_
+
+Suffer over 60% [[Discordant Interference]] backlash damage to your own forces from an interrupted or collapsed [[Chord Layering]] stack during Tempo Fever.
+_"For Whom the Bell Greeds: Perchance he for whom this bell tolls may be so ill as that he knows not it tolls for him. Now this bell tolling softly for another, says to me, Thou must die."_
+
+Enter the Climax Resolution state of Tempo Fever
+_"Ecstasy of the Red Shoes: There is no leaving the floor now. The audience screams for the grand finale! Feel the encore! One more, one more, just one overbeat more!"_
+
 Vanquish a [[Primal Discordia]]
-_"Fiat Resonantia: Ex Chao, Ordo."
+_"Fiat Resonantia: Ex Chao, Ordo."_
 
 Cancel a [[Chord Layering]] stack of an enemy spell that should've inflicted more than 70% of the [[Composure]] of a unit with a single defensive [[Symphony Card]].
 _"Potemkin Buster: That shouldn't work. It definitely shouldn't work."_
 
-Lose all of your [[Divination Arts]] and [[Prophetical Arts]] attempts on the same [[Spellweaving]] fight against an [[Atonalis]].
+Lose all of your [[Divination Arts]] and [[Prophetical Arts]] attempts on the same [[Spellweaving]] fight.
 _"This is [[Gateway To Genesis]]: YOU DIED. YOU DIED. YOU DIED."_
 
-Achieve a Mythical Victory by manually winning a [[Spellweaving]] combat that was destined to fail
-_"Veni, Vidi, Vici: Providence forged an unbeatable giant. You brought a shepherd's sling, and five smooth notes that rewrote the scripture of fate."
+Achieve a [[Mythical Victory]] by manually winning a [[Spellweaving]] combat that was destined to fail.
+_"Veni, Vidi, Vici: Providence forged an unbeatable giant. You brought a shepherd's sling, and five smooth notes that rewrote the scripture of fate."_
 
 Obtain a [[Rose Seed]] from an [[Ascendant]] or higher tier of [[Atonalis]]
 _"Petals of Creation: Harvest a highly beautiful [[Rose Seed]] as monument to the lost potential that was born before the monster."_
@@ -466,7 +487,7 @@ _"The Song From Halfway Down: A flood of fond endorphins. Brings a calm that kno
 ### [[World Event]]s & [[Age Crisis]]
 
 Witness [[Lacrimosa]]'s [[Resonance]] [[Motif Awakening]]
-_"Kojève's Winged Blindfold: To be seen by the one who matters, that is everything."
+_"Kojève's Winged Blindfold: To be seen by the one who matters, that is everything."_
 
 Become a [[Major Actor]] in a [[World Event]]
 _"History is Written by the Victors: Have your [[Civilization]] dictate the fate of the [[Arcanoria]] in the [[Fate Stage]]."_
@@ -477,7 +498,9 @@ _"Across the Sea, to the Land Beyond: [[The Golden Light in the Sky]] was born f
 Reclaim your position as a [[Major Actor]] after being cast out of the [[Fate Stage]]
 _"But It Refused: I won't be written out of my own story. I will claw for a better world with my own hands regardless of the insurmountable of the pain I must face."_
 
-_"Critically Thinking Hater: "_
+Adopt an antagonistic position in the [[Fate Stage]]
+_"Necessary [[Dissonance]]: Villain? Never. History does not need another monster; it merely needed a hand willing to bloom the friction of stories. I am called consequence."_
+
 ### [[Memory Field]]s and [[Scorching Truth]]s
 
 Discover the origin of the [[Atonalis]]
@@ -487,7 +510,7 @@ Uncover [[The Truth of Arcanoria]]
 _"[[The Truth of Arcanoria]]: Learn the one truth that will set you free."_
 
 Uncover all the [[Scorching Truth]]s
-_"Searing Compendium: From birth to decay, reveal how it's all connected."
+_"Searing Compendium: From birth to decay, reveal how it's all connected."_
 
 ### The [[Sonata]] of [[Arcanoria]]
 
@@ -498,19 +521,19 @@ Win the Crusades for the [[Silver Blood]] in [[Ages]] V
 _"For the [[Moon]]!: Win the Holy war for the [[Chorus Pillar]]."_
 
 Win the Crusades for the [[Auric Aria]] in [[Ages]] V
-*"For The Sovereign!: Win the Holy War for the [[Aureus Pillar]]."*
+_"For The Sovereign!: Win the Holy War for the [[Aureus Pillar]]."_
 
 Create the first tether of Auric and Selenic [[World-Bending Relics]] to the [[Moon]]
 _"[[Parlor of the Moon]]: Uncover the forgotten palace bygone by guilt."_
 
 Conclude the [[Sonata]] of Interwoven Threads of Gold and Silver
-*"The [[Singer of Paradise]]: Reach the apex of a long lost love letter."
+_"The [[Singer of Paradise]]: Reach the apex of a long lost love letter."_
 
 Wish for the End of the Third Actor
-_The Purest of All Love: Learn to love without possession._  
+_"The Purest of All Love: Learn to love without possession."_
 
 100% [[Gateway To Genesis]] and Wish for the End of the Third Actor
-_[[Gateway To Genesis]]: Loss is the transformation that made every single note of [[The Eternal Symphony]] real.
+_"[[Gateway To Genesis]]: Loss is the transformation that made every single note of [[The Eternal Symphony]] real."_
 
 # Act of Fate
 
@@ -603,13 +626,13 @@ _"Golden ashes forsaken by the Gods."_
 Description:
 _"The once-great civilization is now reduced to a faraway memory, dwindled to dust, and scattered survivors struggling to find food, shelter, and safety. The land is littered with crumbling structures, decaying in remnants of a gentler past and steeped in a pervasive sense of despair. Only slim, isolated communities form as people strive to piece together their shattered lives, clinging to fragments of ancient knowledge and relics for hope."_
 
-The starting point of the [[Ages]] for the game, it pertains to Age 0 as it isn't itself a proper age but rather it is the result of the post apocalyptic landscape after a [[Cataclysmic Aftermath]].
+The starting point of the [[Ages]] for the game, it pertains to Age 0 as it isn't itself a proper age but rather the representation of the [[Weight of Change]] after the map has been completely wiped out. It is the result of the post apocalyptic landscape after a [[Cataclysmic Aftermath]].
 
-Most of the magic in this age has been lost and there's only instinctive calling to elements to perform [[Minor Note]] basic sorcery, without the knowledge of [[The Principles of Magic]]. Likewise, Due to the [[Vibrational Fallout]] residual in the land, most of the [[Dual Confluence Stream]] is locked, and the low presence of both [[Lunehymn]] and [[Aetherlight]], it is very hard for magic to manifest except for some individuals with very strong [[Motif Awakening]]s.
+Most of the magic in this age has been lost and there's only instinctive calling to elements to perform [[Minor Note]] basic sorcery, without the knowledge of [[The Principles of Magic]]. Likewise, Due to the [[Vibrational Fallout]] residual in the land, most of the [[Dual Confluence Stream]] is locked, and the low presence of both [[Lunehymn]] and [[Aetherlight]], it is hard for magic to manifest except for some individuals with very strong [[Motif Awakening]]s.
 
-[[Ornament]]s are completely unavailable in this age, and the only known rhythm tempo is staccato although most [[Spellweaver]]s are unaware of the presence of rhythmic elements for magic.
+[[Ornament]]al magic ([[Triad Chord]]s and most [[Dyad Chord]]s) is largely unavailable in this age, though [[Legend]]s can acquire a full [[Ornament]] [[Soul Leitmotif]], it is hard to access complex [[Spellweaving]], and the only known rhythm tempo is staccato although most [[Spellweaver]]s are unaware of the presence of rhythmic elements for magic.
 
-The point of this era is to survive through the wasteland and find solace in fleeting communities. Most of the world became no man's land and all major empires, borders, and cultures are erased from history leaving only remnants behind. The gathering of magic elements usually comes in the shape of [[Old World Remnants]] with sparse lookout towers sending explorers to the nearby areas.
+The point of this era is to survive through the wasteland and find solace in fleeting communities. amidst the golden dust. Most of the world became no man's land and all major empires, borders, and cultures are erased from history leaving only remnants behind. The gathering of magic elements usually comes in the shape of [[Old World Remnants]] with sparse lookout towers sending explorers to the nearby areas.
 
 The [[Age Crisis]] is [[The Inescapable Hunger]]. It's the result from the sudden growth of population reaching unsustainable growth levels given the conditions of the era and the lack of technologies to support through magic enhanced irrigation and harvesting systems. The core concept is to survive this first famine, it always leads to the [[Age of Renewal]] regardless of the success, the only difference between handling properly or poorly the famine is the amount of people surviving through it.
 
@@ -1542,6 +1565,595 @@ Finally, not all [[Enclave]]s will survive, which creates a tragedy on the appli
 
 [[Enclave]]s combine to answer: _What does [[Civilization]] value, and who are the survivors that will shape the next [[Ages]]?_
 
+# Arcanorian Ecology
+
+#technology #biome #society #creature
+
+_"No herd forgets the hand that hunted it, and no land forgets the herd it lost. What we call wilderness is only memory that learned to breathe, graze, and flee."_ — [[The White-Touched Archivist]]
+
+**Status:**
+
+- [x] Tracking Implemented
+- [x] Game Effects Implemented
+
+_In this world, creatures are not placed in the path of [[Civilization]]. [[Civilization]] must find its own place in the food-web. 
+
+_"The creatures of [[Arcanoria]] are not decoration, and they are not obstacles. They are a second [[Civilization]] that never writes its history but remembers it anyway." - [[Sprite-Light Conclave]]_
+
+[[Arcanorian Ecology]] is a deep interplay of complex food-webs, the division of [[Auric Structure]] and [[Pure Light]], and the restlessness turn of [[Ages]] with its own "survival of the fittest" at every age change which reflects the volatility of [[Pure Light]].
+
+Every creature of [[Arcanoria]] lives, breeds, hunts, migrates, sickens, and remembers on its own, whether or not anyone is watching. Herds grow where the land can carry them and thin where it cannot. Predators follow their prey. Lineages heavy in [[Pure Light]] flourish where [[Coherence]] holds and vanish where it breaks, while the lineages of [[Auric Structure]] endure almost anything. And every species keeps a memory of how it has been treated, so that a hunt, a sanctuary, or a stolen meadow is never a single event but a historical memory that returns as debt.
+
+This entry describes how that living world is structured: where creatures live, what they are, how they learn, how the [[Echo]]es move them, how knowledge of them is earned, and how [[Enclave]]s, plagues, and each [[Age Crisis]] reshapes them across the [[Ages]]. The [[Atonalis]] stand outside the food-web. They feed on [[Consciousness]], not on flesh counted in herds, and they are subject to their own respective [[Eight-Born Paths]]. Yet they drink from the same [[Emotional Residue]] as the [[Eleos Bloom]]s, and that shared register is described in _Emotional Alchemy_.
+
+### Where Creatures Live
+
+[[Arcanoria]] is read at several scales, each with its own role: the overall map, the Quadrants that divide it, the Macro Biomes placed into each Quadrant, the Intersections that stitch them together, and the nine compass Sectors of every Macro Biome. A traveler hears these as a single place name: _"the Violet Grove, Somewhere in the North-East Sector."_
+
+The ecology lives in the **Macro Biome**. Each one holds its own populations, one for every species that dwells there, counted not in individuals but in **groups**: herds, packs, hives, veils, choruses, and colonies. A handful of dozen Macro Biomes carry the entire living world, and every cell of land within them only reads from the ecology of the Macro Biome it belongs to. The land does not keep count of each wolf. The Grove keeps count of its packs.
+
+The ecology turns once every [[Echo]], after the [[Eleos Bloom]]s have sprouted, turned, faded, and passed a generation. [[Eleos Bloom]]s do not take part in the counting of herds: their vigor is fed by the [[Emotional Residue]] of the land, as described in _Emotional Alchemy_.
+
+#### Range and Habitat
+
+A Macro Biome's **range** is its own land plus the Intersection cells that lie nearest to it. Within that range, a species' **habitat** is every cell where one of its dens could stand: the terrain, the moisture, the warmth, the [[Coherence]] or [[Dissonance]] it demands, together with the dens already standing. The habitat is redrawn at the dawn of every [[Ages]], since each Age brings new land, lost land, and new creatures.
+
+#### The Carrying Capacity of the Land
+
+What a Macro Biome can carry of a species is the sum of its habitat, weighed by the creature's size and by the quality of each cell:
+
+$$K = \sum_{c \,\in\, \text{habitat}} \rho_{\text{size}} \cdot q_c$$
+
+A single cell holds **1** group of small creatures, **0.5** of medium ones, **0.25** of large ones, and only **0.05** of the gargantuan. Quality begins whole and is worn down by everything that presses on the land:
+
+- **The pressure of people:** A settlement weighs **0.6** on its own cell, fading over three cells, and every held cell weighs a further **0.1**. Creatures that flee or hide feel this pressure half again as strongly, while the unmoved feel it only half as much.
+    
+- **[[Pure Light]] fragility:** A lineage needs [[Coherence]] of at least **0.6** times its [[Pure Light]] share. A creature of **70%** [[Pure Light]] needs **0.42** [[Coherence]] to live well, and its habitat falls to nothing **0.2** below that. The same land that sustains a boar may be uninhabitable for a moth.
+    
+- **[[Vibrational Fallout]]:** Every lineage suffers Fallout in proportion to its [[Pure Light]], as quality falls by $q \times (1 - F \cdot P \cdot 2)$. A cockroach walks through the edge of a Fallout zone. A sprite dissolves in it.
+    
+- **Prey:** A predator's capacity follows the abundance of its prey, and never falls below a fifth of what the land would otherwise hold, since no hunter lives on a single meal.
+    
+
+#### Growth, Predation and the Food-Web
+
+Every population grows each [[Echo]] toward what the land can carry, following the logistic curve of its reproductive pace:
+
+$$\Delta N = r \cdot s_{\text{Echo}} \cdot N \left(1 - \frac{N}{K}\right)$$
+
+Where $r$ is **0.05** for the very slow, **0.12** for the slow, **0.25** for the medium, and **0.45** for the fast, and $s_{\text{Echo}}$ is the season's breath upon births (see _The Creatures' Calendar_).
+
+Predators take up to **8%** of their prey every [[Echo]] when at full strength. The Grey Wolf hunts the Steppe Aurochs, the Taiga Elk, the Highland Ibex, the Wild Boar, and the Lanternback Grazer; the Screech Sabrecat hunts the Ibex, the Elk, and the Meadow Hare; the Bog Eel and the Cave Bear both feed on the River Trout. A wolf pack that eats its valley bare will starve along with it, and a valley emptied of wolves will overflow with elk until the grass itself gives out.
+
+#### Dens, Founding and Migration
+
+Each species is anchored to the land through its **dens**: warrens, nests, ledges, hives, middens, and swarming grounds that appear with their [[Ages]]. Where a den stands, the population is founded at **80%** of what the land can hold.
+
+When a population swells past half its capacity, it disperses into the neighbouring Macro Biomes that have room, according to how it ranges:
+
+- **Settled** creatures never leave.
+- **Territorial** ones send out **5%** of their groups.
+- **Roaming** ones send out **10%**.
+- **Nomadic** and **expanding** ones send out **20%**.
+
+Whatever overflows past capacity must move or die. A population that reaches **35%** of capacity in a Macro Biome where it has no den founds a new one there, so creatures can colonize lands they were never born in. A population that falls below **0.05** groups is gone from that Macro Biome, and the [[Great Harmonic Loom]] does not bring it back on its own.
+
+### The Nature of a Species
+
+Every creature of the bestiary, whether a beast of [[Auric Structure]] or a being of [[Pure Light]], shares the same shape. Its **nature** is what it is born as: its diet, its stance toward threat, and the subgroup that defines how it responds, gathers, mates, breeds, and ranges.
+
+#### Diet, Stance and Subgroup
+
+There are four diets, and within them twenty-one subgroups:
+
+| Diet | Stance | Subgroup | Response to Threat | Group | Mating | Pace | Ranging |
+|---|---|---|---|---|---|---|---|
+| Herbivore | Passive | Frightful | Flees on sight | 15–20 | Poly | Medium | Roaming |
+| Herbivore | Passive | Docile | Flees when threatened | 8–12 | Mono | Medium | Roaming |
+| Herbivore | Passive | Venerable | Unmoved | 1 (2 with young) | Mono | Very slow | Roaming |
+| Herbivore | Aggressive | Territorial | Defends its territory | 6–15 | Mono | Medium | Territorial |
+| Herbivore | Aggressive | Benign | Defends when threatened | 5–15 | Poly | Medium | Roaming |
+| Herbivore | Aggressive | Wrathful | Attacks on sight | 10–30 | Poly | Fast | Nomadic |
+| Omnivore | Aggressive | Smart | Avoids conflict | 1 | Poly | Slow | Roaming |
+| Omnivore | Aggressive | Erratic | Unpredictable | 3–9 | Poly | Medium | Nomadic |
+| Omnivore | Neutral | Territorial | Defends its territory | 5–15 | Mono | Medium | Territorial |
+| Omnivore | Neutral | Benign | Defends when threatened | 2–4 | Mono | Medium | Nomadic |
+| Carnivore | Aggressive | Unobtrusive | Attacks on sight | 1 | Mono | Slow | Settled |
+| Carnivore | Aggressive | Jingoistic | Expands | 50–500 | Poly | Fast | Expanding |
+| Carnivore | Territorial | Solitary | Defends its den | 1 | Poly | Slow | Settled |
+| Carnivore | Territorial | Social | Hunts as a pack | 4–12 | Mono | Medium | Nomadic |
+| Carnivore | Territorial | Isolationist | Hunts the injured | 4–10 | Poly | Medium | Territorial |
+| Carnivore | Apex | Marauder | Hunts, but announces itself | 1 | Poly | Slow | Roaming |
+| Carnivore | Apex | Trapper | Lures | 1 | Poly | Very slow | Territorial |
+| Detritivore | Passive | Frightful | Flees on sight | 1–5 | Poly | Slow | Roaming |
+| Detritivore | Passive | Hiding | Hides | 1–5 | Mono | Slow | Settled |
+| Detritivore | Neutral | Territorial | Defends its territory | 10–30 | Poly | Medium | Territorial |
+| Detritivore | Neutral | Docile | Defends when threatened | 2–6 | Mono | Medium | Roaming |
+
+A species may break from its subgroup's customs where its life demands it: the Wild Bee's hives gather in the thousands, the Choir Cicada sings in choruses of up to two thousand, and the Moonveil Moth drifts in veils of up to two hundred.
+
+The bestiary follows a balance of roughly **44%** herbivores, **26%** carnivores, **18%** omnivores and **12%** detritivores. Related ecotypes, such as the sprites and the slimes that descend from them, count together as a single lineage in that balance.
+
+The most feared of all are the **Apex** predators, and they come in two kinds that must be learned to be read. **Marauders**, such as the Screech Sabrecat, hunt openly and announce themselves with a screech before they strike. **Trappers**, such as the predatory [[Eleos Bloom]]s (the Threshold Cushion, the Glottis-Mouth Trap, and the Hearth-Eater), lure with beauty, stay hidden until surveyed, and draw expeditions into the Lure. The dark fantasy of [[Arcanoria]] lives in that distinction: the thing that screams is not always the thing that kills you.
+
+#### The Harmonic Makeup
+
+Every species carries its share of [[Auric Structure]] and, with it, the rest in [[Pure Light]]. Following the canon of [[Pure Light]], any lineage with less than **65%** [[Auric Structure]], or with a dedicated [[Coherence-Binding Tissue]] organ, is a **[[Pure Light]] being**. Those beings attune on the [[Ritual Seventh]], suffer the resonance plagues, and bear the full weight of [[Vibrational Fallout]].
+
+The [[Coherence-Binding Tissue]] of a species lies in one of six places:
+
+- **Hide:** CBT woven through skin and scale, as in the Lanternback Grazer and the Ember Salamander.
+- **Wings:** CBT membranes that metabolize ambient magic, as in the Moonveil Moth and the [[Luminant Moths]].
+- **Voice:** A [[Resonance Box]] or chorus organ, as in the Choir Cicada and the Dawnhorn Behemoth.
+- **Gland:** Glandular CBT releasing resonance-charged pheromones or roars.
+- **Fins:** CBT in fin rays or swim bladders, singing through pressure instead of air.
+- **Matrix:** A whole body of CBT, as in the Trapper blooms, the [[Elemental Sprite]]s and the [[Slime]]s.
+
+No lineage bearing a CBT organ keeps more than **70%** [[Auric Structure]]. As [[Pure Light]] establishes, a creature that earns its [[Coherence-Binding Tissue]] leaves the resilience of the structural pole behind and moves toward the 50-50 axis.
+
+#### The Harmonic Niche
+
+A [[Pure Light]] lineage does not seek the same harmony as every other. Its **harmonic niche** defines where its light finds what it needs:
+
+- **Coherent:** It lives where [[Coherence]] holds, following the fragility rule above.
+- **Discordant:** It feeds on the torn song. [[Dissonance]] meets its need in place of [[Coherence]], and [[Vibrational Fallout]] spares it. The Ember Salamander lives only on rift scars, where [[Dissonance]] reaches at least **0.2**.
+- **Leyline:** It lives on the [[Leylines]] themselves, on silver water, or within a single cell of a silver river. Away from them, its land keeps only **30%** of its quality. The Moonveil Moth, whose dew tastes of [[Lunehymn]], is such a creature.
+
+Each species may also carry a **breeding [[Echo]]**, the season in which its births peak (see _The Creatures' Calendar_).
+
+#### Life Among People
+
+Some creatures do not flee [[Civilization]]. They follow it. A species' **commensal** share describes how much of its life is drawn from people's works instead of the wild: granaries, middens, lantern-lit streets. For such creatures, the quality of the land blends the wild with the settled:
+
+$$q = (1 - c) \cdot q_{\text{wild}} + c \cdot 1.5 \cdot \frac{\text{pressure}}{0.6}$$
+
+The Granary Rat and the Hearth Roach live almost entirely beside people. The [[Luminant Moths]] live half among them. The more a settlement grows, the more of them it feeds.
+
+Some of those creatures are also **vectors** that carry sickness to the people they live beside (see _Creatures and the Health of People_).
+
+### Behavior: The Memory of a Lineage
+
+A species' nature is what it is born as. Its **behavior** is what it has learned, and it applies to every authority it meets: the player's [[Civilization]] and all its outposts, every [[Enclave]], and every rival [[Civilization]].
+
+Behavior is kept in two layers:
+
+- **Overall behavior:** One per species. It is what the lineage as a whole has learned from everyone, and it drifts with the treatment it receives from all authorities together. It is what a newcomer meets **on first encounter**. A docile species hunted everywhere greets a stranger as frightful.
+    
+- **Relationship behavior:** One per species for each authority. From first encounter onward, it moves with how that authority alone treats the species. A frightful species can grow gentle toward a [[Civilization]] that treats it well, while still meeting everyone else with its overall behavior. **It learns to tell its keepers from outsiders.**
+    
+
+Behavior is always kept per species, never per den. When one den is hunted, the entire lineage remembers.
+
+#### The Response Ladder
+
+Behavior is a temper from **-1** to **+1**. Every **0.34** of temper moves the species' response one step along its ladder, never more than two steps from its nature:
+
+- **Creatures that flee or hide:** Lets you come near ← Flees when threatened → Flees on sight.
+- **All others:** Lets you come near ← Defends itself ← Defends its territory ← Attacks on sight.
+
+Hunters, lurers, and screechers already sit at the top of their ladder, so they can only ever grow calmer. Below a full step, a species simply shows its own nature.
+
+#### Harm and Easing
+
+- **The hunt:** Each hunt worsens the temper toward the hunter by **0.06**.
+- **Stolen habitat:** Newly held land worsens it by **0.6** times the share of the species' habitat taken in that [[Echo]].
+- **Coexistence:** An authority that holds some of a species' habitat and does not hunt it for an [[Echo]] eases the temper by **0.04**, up to **0.4**, which is exactly one step: the species learns to let them near.
+- **Befriending:** Rescues, sanctuaries and domestication go further, up to a full **+1**.
+
+#### The Word Spreads
+
+A lineage "spreads the word" about who saved it and who harmed it. Every change in its relationship with one authority moves its overall behavior by **35%** of that change. This is how a [[Civilization]] that hunts relentlessly teaches an entire species to fear every stranger, not only itself.
+
+An authority first meets a species when it first holds land within its habitat, or, for the player's [[Civilization]], when one of its dens is identified. Land already held at that moment is not counted as stolen.
+
+#### Consequences of Behavior
+
+Behavior is read toward whoever is involved:
+
+- **The pressure of people is weighed by behavior.** A species that has learned to flee a [[Civilization]] minds its land half again as much, and one that lets them near minds it only half as much. Hunted species thin out of a [[Civilization]]'s land and gather in the land of those who spare them.
+- **Wary prey yields less.** A hunt brings back only **60%** from a species that has learned to flee or hide from the hunter.
+- **Hostile dens are dangerous.** A den whose species has been driven harsher than its nature toward a [[Civilization]], so that it now flees on sight, defends its territory, or attacks, casts **0.35** danger on its own cell and its neighbours. A panicked herd tramples as surely as a hostile one strikes.
+
+#### Scar Spectra Across the Ages
+
+At the dawn of every new [[Ages]], every temper eases back toward the species' nature, but **30%** of it persists as inherited memory, the scar spectra of [[Pure Light]] passing coherence history into offspring. A lineage that lost half or more of its number to the [[Cataclysmic Aftermath]] keeps **60%** instead. The creatures that suffered most remember longest.
+
+### The Hunt
+
+An expedition that harvests a den of creatures does not gather; it **hunts**. A den can be hunted **once every [[Phase]]**, and each hunt takes **6%** of what the land can carry of that species while bringing back **35%** of the den's listed harvest.
+
+This rhythm is the lesson of the hunt:
+
+- Hunted every [[Phase]], any herd wears down, and a species of medium pace collapses within a few [[Echo]]es.
+- Hunted every other [[Phase]], a fast breeder holds.
+- Hunted once an [[Echo]], a herd of medium pace endures indefinitely.
+
+A den's yields follow its abundance. Below **20%** of what its land can carry, a den is **depleted**: it yields nothing and cannot be hunted. _"Too few are left to hunt: leave them to recover."_
+
+Not every hunt is for meat. The Hearth Roach has nothing to take, and a hunt only scatters them. A hunt of Granary Rats brings back a few hides, but its true worth is the cull.
+
+### The Creatures' Calendar
+
+_"Every effect of the [[Echo]] reflects in the Environment."_
+
+The creatures of [[Arcanoria]] live by the same [[Cycle]] as its people. Each [[Echo]] leaves its mark on the living world when it ends, and across a full [[Cycle]] every effect balances back to the whole.
+
+#### The Four Echoes
+
+| [[Echo]] | Theme | Births | Decomposers | Spreading | Predation | Yields & Hunts | Trust Lost | Trust Eased | Plagues |
+|---|---|---|---|---|---|---|---|---|---|
+| [[Echo of Resonance]] | Spring: Birth, Attunement, Harmonic Opening | ×1.6 | ×1 | ×0.6 | ×0.8 | ×1 | ×1 | **×2** | ×0.6 |
+| [[Echo of Crescendo]] | Summer: Growth, Power, Elevation | ×1.2 | ×1 | ×1.4 | ×1.2 | **×1.3** | ×1 | ×1 | ×0.8 |
+| [[Echo of Dissonance]] | Autumn: Fracture, Chaos, Decay | ×0.8 | **×1.8** | ×1.4 | ×1 | ×1 | **×1.5** | ×0.5 | **×1.8** |
+| [[Echo of Silence]] | Winter: Death, Rest, Rebirth | ×0.4 | ×0.6 | ×0.6 | ×1 | ×0.7 | ×1 | ×1 | ×0.8 |
+
+- **[[Echo of Resonance]]:** The herds give birth, and the creatures forgive most readily, attuned to the world opening its song.
+- **[[Echo of Crescendo]]:** The creatures range widest and yield the most, and predators hunt hardest.
+- **[[Echo of Dissonance]]:** The herds scatter and migrate, decay feeds the decomposers, and a hunt fractures trust the deepest.
+- **[[Echo of Silence]]:** The creatures lie dormant and few are born, and hungry predators stray toward settlements.
+
+#### The Three Phases
+
+The living effects of an [[Echo]] (yields and hunts, trust lost to hunts, and hunger) open at half strength in its first [[Phase]], peak in its middle one, and wane again in its last. The heart of every season is its middle [[Phase]]: the [[Phase of Harmonics]], the [[Phase of Zenith]], the [[Phase of Ashfall]], and the [[Phase of Repose]].
+
+#### Breeding Echoes
+
+Some lineages do not follow their diet's rhythm, but keep a season of their own. In its breeding [[Echo]], a species' births rise to **×2.2**, and in the other three they fall to **×0.6**, so that the [[Cycle]] as a whole keeps its balance:
+
+- **[[Echo of Resonance]]:** The Wild Bee and the Meadow Hare.
+- **[[Echo of Crescendo]]:** The Choir Cicada, whose chorus is the sound of summer.
+- **[[Echo of Dissonance]]:** The River Trout, spawning in the autumn runs.
+
+#### The Hunger of Silence
+
+During the [[Echo of Silence]], hungry predators (carnivores and any species that hunts prey) stray toward the settlements of [[Civilization]]. Their dens cast danger on held land within three cells. _"Hungry: its hunters stray onto your land nearby."_
+
+#### The [[Ritual Seventh]]
+
+On every [[Ritual Seventh]], attunement peaks at the Full [[Moon]] and [[Lunehymn]] flows at its fullest. The living world answers:
+
+- **The surge of [[Pure Light]]:** Every [[Pure Light]] being surges by **8%** times its [[Pure Light]] share, multiplied by the season's births, wherever its range holds the [[Coherence]] it needs. Silver water counts **+0.15** toward that need, as the [[Lunehymn]] is at its fullest.
+- **The overload:** Where its range cannot hold that need, the same attunement overloads it instead, and it loses **5%** times its [[Pure Light]] share.
+- **The calm:** Every species calms slightly toward each authority that has not hunted it during the [[Phase]], **+0.03** times the season's easing, up to one step.
+- **The sacrilege:** A hunt made on a [[Ritual Seventh]] costs twice the trust.
+
+### Knowledge of Creatures
+
+The map knows only what [[Civilization]] knows. No card, no chronicle, and no window names or counts a creature that no one has identified. Knowledge of each species deepens through five levels:
+
+1. **Sighted:** One of its dens has been seen. It is only "unidentified fauna."
+2. **Identified:** One of its dens has been surveyed. Its name, its nature, and its harmonic makeup are revealed, along with where its dens were found.
+3. **Observed:** Three observations have been gathered: each [[Echo]] an identified den has lived within two cells of held land, each hunt, and each further place its dens were found. Its behavior toward [[Civilization]] is revealed (and whether it is warier or gentler than its nature), along with the hunts made against it, its numbers in words, its harmonic niche, and its breeding [[Echo]].
+4. **Understood:** Observed, plus a technology that carries **Creature Studies** or the study of an [[Auric Enclave]]. Its exact numbers are revealed, along with what newcomers meet (its overall behavior), what it hunts and what hunts it, the sickness it carries, and the plagues tuned to it.
+5. **Mastered:** Understood through keeping, when a [[Domestication Enclave]] under [[Suzerainty]] keeps it for [[Civilization]].
+
+The hover card of a den follows the same rule: its population appears only once the species is Observed, and a running plague shows always, but by its folklore first.
+
+#### The Bestiary
+
+The **Bestiary** opens with the technology **Knowledge Sanctums**, _"learn to preserve and expand knowledge"_. Every identified species appears with its card and with every place its dens were found, by Macro Biome and Sector. Sighted creatures appear only as unidentified fauna, den by den. **Creature Studies** arrives with **Vital Winds Mastery**, the technology that follows Knowledge Sanctums.
+
+Knowledge is remembered. A den that fades, a predatory bloom that withers, or a land lost to an [[Age Crisis]] does not erase what was learned there. The Bestiary keeps it: _"Once found... no den known to stand there now."_
+
+#### Discovery as Enlightenment
+
+Every level of knowledge rewards discovery once. Identifying, understanding and mastering a species each pay Era Score, and rare creatures pay more: the Dawnhorn Behemoth pays **+2** Era Score when identified and **+40** Research once understood.
+
+Discovery also feeds the Enlightenment of technologies. A technology's eureka may ask for creatures identified, resource sites identified, the knowledge of a single named species, a species' population, or its behavior toward [[Civilization]]. Knowledge Sanctums grows closer with two creatures identified, The Rekindling with a resource site identified, and Resource Preservation with the Wild Bee identified, whose honey never spoils.
+
+A discovery is always a eureka and never a hard requirement, since no creature is promised to every world. The Macro Biomes of a Quadrant are drawn from more than it holds, and a gate tied to a creature from a biome that was never drawn would lock the path forever.
+
+### Resonance Plagues
+
+As [[Pure Light]] establishes, diseases in [[Arcanoria]] are bio-magical systems that exploit resonance interfaces. **Resonance plagues** are tuned to a few [[Pure Light]] lineages and break out where their range is **torn**: where [[Dissonance]] and [[Static Criticality]] together reach the plague's threshold.
+
+Each [[Echo]], a plague may break out among its hosts in a Macro Biome with its chance, multiplied by the torn share of their range and by the season's rhythm, which is at its strongest in the [[Echo of Dissonance]]. Once it breaks out, it kills its share of the hosts there every [[Echo]] for its duration, may reach each neighbouring Macro Biome where hosts live, and cannot return until the survivors' scar spectra fade.
+
+| Plague | Folklore | Hosts | Torn At | Chance | Kills / [[Echo]] | [[Echo]]es | Spread | Immunity |
+|---|---|---|---|---|---|---|---|---|
+| Dragon's Bane | The scale-rot | Dragons | 0.2 | 0.3 | 40% | 3 | 0.1 | 6 |
+| Slime Blight | The melting | Every [[Slime]] ecotype | 0.15 | 0.5 | 60% | 2 | 0.25 | 4 |
+| Lantern Gutter | The dimming | Lanternback Grazer | 0.15 | 0.5 | 45% | 2 | 0.15 | 4 |
+| Veil Blight | The falling sickness | Moonveil Moth | 0.15 | 0.5 | 55% | 2 | 0.15 | 4 |
+| Chorus Fever | The wrong song | Choir Cicada | 0.2 | 0.5 | 50% | 2 | 0.15 | 4 |
+
+#### Diseases Begin as Folklore
+
+A plague is known only by its folklore until one of its hosts is Understood. _"A sickness runs through the Lanternback Grazers of the Violet Grove; people call it the dimming."_ Only when [[Civilization]] understands the creature does the sickness gain its true name: _"Lantern Gutter breaks out among..."_
+
+### Creatures and the Health of People
+
+The health of a people rests on five dormant pressures (Nutrition, Disease Burden, Sanitation, Exposure, and Harmonic Stability), each with its own causes and its own treatments. Creatures reach it through **Disease Burden**.
+
+Every **vector** species living near a settlement adds to it. The land within two cells of each settlement is weighed by the vectors living there:
+
+$$V = \frac{\sum_i v_i \cdot N_i \cdot q}{25 \cdot S}$$
+
+Where $v_i$ is a species' vector share, $N_i$ its groups near the settlement, $q$ the quality of their land, and $S$ the number of settlements. The Granary Rat (**0.7**), the [[Luminant Moths]] (**0.6**) and the Hearth Roach (**0.4**) are the vectors of the early [[Ages]].
+
+Because the pressure is read from living populations, **culling works**. Hunting vectors down near a settlement lowers Disease Burden directly, and every [[Domestication Enclave]] and [[Agromagical Enclave]] under [[Suzerainty]] treats it.
+
+### Enclaves and Creatures
+
+Every [[Enclave]] is an authority in the eyes of the creatures, with its own relationship behavior toward every species. This is how the creatures of a [[Domestication Enclave]] behave: calm with their keepers, wary of strangers.
+
+#### The Keepers: [[Domestication Enclave]]s
+
+Every [[Domestication Enclave]] keeps the species of the Macro Biomes within six cells of it and befriends them every [[Echo]]. What a keeper will keep depends on its nature: the [[Sprite-Light Conclave]] keeps only [[Pure Light]] beings, and it appears from [[Age of Desolation]] onward on high-[[Coherence]] ground.
+
+While [[Civilization]] holds a keeper's [[Suzerainty]]:
+
+- The kept species befriend [[Civilization]] as well.
+- Hunts of the kept species do only a quarter of the harm.
+- Their herds bring Food by their numbers.
+- Every kept species that [[Civilization]] has identified is **Mastered**.
+
+#### The Growers: [[Agromagical Enclave]]s
+
+Every [[Agromagical Enclave]] tends the land within six cells of it. Each [[Echo]], the populations there recover **15%** of the gap between what they are and what the land can carry. Their sanitation also treats the health of the people.
+
+#### The Scholars: [[Auric Enclave]]s
+
+While [[Civilization]] holds the [[Suzerainty]] of an [[Auric Enclave]], every creature it has Observed is Understood, as with the technology of Creature Studies. The Aureate Cloister is the first of them, appearing in the [[Age of Renewal]].
+
+#### Commissions
+
+An [[Enclave]] with a standing of **50** or more, or one under [[Suzerainty]], within twelve cells of an identified den, will serve [[Civilization]] once every [[Phase]] for **20** Food and **10** standing (nothing for a suzerain):
+
+- **[[Militant Enclave]] hunters cull:** They take **30%** of what the land holds. It costs three hunts' worth of trust, toward [[Civilization]] and toward them.
+- **[[Domestication Enclave]] keepers tame:** The species' temper toward [[Civilization]] rises by **0.25**.
+- **[[Agromagical Enclave]] growers restore:** Half the gap to what the land can carry is recovered at once.
+- **[[Auric Enclave]] scholars study:** The species is Understood at once.
+
+Ecological problems in [[Arcanoria]] are therefore also political, economic, and narrative ones. Who a [[Civilization]] befriends decides which creatures it can save.
+
+### The Great Plague's Moths
+
+The [[Luminant Moths]] are not the Moonveil Moths. They are small [[Pure Light]] creatures of **30%** [[Auric Structure]], frightful and fast-breeding, with CBT in their wings and a life bound to the [[Leylines]]. They live half among people, and they are vectors. Their swarms gather on ground of at least **0.2** [[Coherence]] where [[Lunehymn]] flows.
+
+From the [[Age of Renewal]], **the Amberwing Lanternry**, a [[Domestication Enclave]] darker than the [[Sprite-Light Conclave]], trades them for their light. Every [[Echo]]:
+
+- [[Trade Routes]] carry **10%** of a Macro Biome's moths into every other Macro Biome they pass through.
+- Every Lanternry brings **0.5** groups of moths into each Macro Biome of the settlements within sixteen cells of it.
+- While the [[Great Plague]] runs, moths within two cells of settlements breed by **0.5** times the Disease Burden. Disease-rich blood feeds them better, they breed faster, and the Disease Burden they carry rises in turn.
+
+It is a loop, and only culling breaks it.
+
+#### The Reveal
+
+Before the reveal, nothing about the moths is said. They are beloved, beautiful, and economically essential. The truth comes to [[Civilization]] at the second wave of the [[Great Plague]], _"The Moths Are Everywhere"_, or when the moths are Understood through an Auric study, or once the [[Ages]] has passed. From then on, the den's card and the Bestiary warn that they carry sickness, and every [[Echo]] tells when they thicken or spread.
+
+#### What Works
+
+- **Hunting or a [[Militant Enclave]]'s cull** near settlements, at the cost of the moths' trust.
+- **The treatments of [[Agromagical Enclave]]s and [[Domestication Enclave]]s** for the health of the people.
+- **Asking the Lanternry to close its farms:** After the reveal, at a standing of **40**, spending **15** standing and **10** Food (a suzerain always agrees at no standing), the Lanternry stops its trade for four [[Echo]]es.
+
+None of it changes the severity of the [[Great Plague]] itself. The moths are the mechanism, not the root. The root is the saturation of the [[Dual Confluence Stream]].
+
+### The Aftermath of Creatures
+
+When an [[Ages]] ends, the living world passes through the [[Cataclysmic Aftermath]] alongside [[Civilization]]. Once the new Age's creatures and dens have been placed, the ecology runs through four trials.
+
+#### The Crash
+
+Every population crashes according to the severity $\sigma$ of the [[Age Crisis]] that ended and to its own [[Pure Light]] share $P$:
+
+$$N' = N \cdot \left[1 - \sigma \left(0.2 + 1.2\,P\right)\right]$$
+
+Below **0.1** of its former number, a population is gone from that Macro Biome. A roach of **95%** [[Auric Structure]] keeps **87%** of itself through a crisis of half severity. A sprite of **90%** [[Pure Light]] does not survive a full one. **[[Auric Structure]] is permanence.**
+
+#### The Shifting of Ranges
+
+A population whose Macro Biome no longer has any habitat in the new Age moves into the neighbouring Macro Biomes that do, divided by the habitat each one offers. With nowhere to go, it dies.
+
+#### The Resettling
+
+A Macro Biome whose creatures fell below **30%** of what they were is resettled by a new ecotype lineage, arriving at **15%** of what the land can hold. Lineages of the dead zones come first, and only where Fallout of at least **0.2** covers enough of their range. Every other lineage arrives in an order seeded by the world, the Macro Biome and the Age. This is the principle of the [[Slime]] ecotypes applied to the whole living world: the parents never adapt, but new lineages eventually learn to sing a different song.
+
+#### The Scars
+
+The behavior of every lineage carries over through its scar spectra (see _Behavior_), and the lineages that suffered most keep the deepest memory.
+
+### From Sprites to Slimes
+
+#### The Last Unmerged Light
+
+The [[Elemental Sprite]]s that never merged with the land, beings of **10%** [[Auric Structure]] and **90%** [[Pure Light]], are the rarest creatures in [[Arcanoria]]. Unmerged light survives only on ground of at least **80%** [[Coherence]], and only on a [[Sacred Site]] or at a junction where two families of [[Leylines]] converge. A single leyline or an ordinary coherent meadow is not enough, and where that refuge breaks, their population fails with it.
+
+A world holds only one such refuge, and it always lies within reach of early exploration: a coherent, passable place eight to sixteen cells from the [[Capital]]. Its glow can be sighted through the fog. Surveying it reveals what it is and pays **+5** Era Score and **15** Research beyond the usual discovery.
+
+#### The Ten Sprite Ecotypes
+
+Most sprites have already begun to listen to the land. Ten ecotypes of **15%** [[Auric Structure]] live in the early [[Ages]], each tuned to the habitat whose song it has started to learn: Ice, Snow, Water, Marsh, Saltwater, Grassland, Mineral, Forest, Leyline, and Dead-zone. The Ice and Snow Sprites need cold as well as the right ground; the Water and Saltwater Sprites dwell along the banks and coasts; the Leyline Sprites follow the [[Leylines]]; and the Dead-zone Sprites are Discordant, feeding on the torn song where every other sprite would dissolve.
+
+#### Entrainment
+
+From the [[Age of Renewal]] onward, where a sprite ecotype's habitat lies within six cells of an [[Agromagical Enclave]], **5%** of its population passes into its matching [[Slime]] lineage every [[Echo]]. The parents remain sprites. It is their offspring who accumulate as slimes of **25%** [[Auric Structure]] and **75%** [[Pure Light]], who grow, spread, and found their own dens through the same ecology as every other creature.
+
+No [[Slime]] ever appears at the creation of the world. Every one of them descends from a sprite that stayed near the fields long enough for the land to begin building a body around it. This is the [[Sprite-Light Conclave]]'s story told through the living world: the phases of Environmental Entrainment, Structural Nucleation, and CBT Differentiation, carried out one [[Echo]] at a time.
+
+### The Bestiary of the Early Ages
+
+| Species | Nature | [[Auric Structure]] / [[Pure Light]] | CBT | Life |
+|---|---|---|---|---|
+| Lanternback Grazer | Docile Herbivore, large | 45% / 55% | Hide | Prey of the Grey Wolf; host of Lantern Gutter. |
+| Ember Salamander | Benign Herbivore, medium | 50% / 50% | Hide | Discordant; lives only on rift scars. |
+| Moonveil Moth | Frightful Detritivore, small, veils of 20–200 | 30% / 70% | Wings | Leyline; host of Veil Blight. |
+| Choir Cicada | Wrathful Herbivore, small, choruses of 200–2000 | 40% / 60% | Voice | Breeds in Crescendo; host of Chorus Fever. |
+| Steppe Aurochs | Wrathful Herbivore, large | 90% / 10% | — | Prey of the Grey Wolf. |
+| Highland Ibex | Frightful Herbivore, medium | 90% / 10% | — | Prey of the Grey Wolf and the Screech Sabrecat. |
+| Taiga Elk | Docile Herbivore, large | 90% / 10% | — | Prey of the Grey Wolf and the Screech Sabrecat. |
+| Meadow Hare | Frightful Herbivore, small, fast | 90% / 10% | — | Breeds in Resonance; prey of the Screech Sabrecat. |
+| Mire Ox | Territorial Herbivore, large | 90% / 10% | — | Marsh and taiga bog. |
+| Wild Bee | Territorial Herbivore, small, hives of 500–5000, fast | 95% / 5% | — | Breeds in Resonance; the hive defends the fields it pollinates. |
+| Dawnhorn Behemoth | Venerable Herbivore, gargantuan | 55% / 45% | Voice | Appears in the [[Age of Behemoths]], seen from afar. |
+| [[Luminant Moths]] | Frightful Herbivore, small, fast | 30% / 70% | Wings | Leyline; lives among people; vector of the [[Great Plague]]. |
+| River Trout | Benign Omnivore, small, runs of 20–100 | 90% / 10% | — | Breeds in Dissonance; prey of the Bog Eel and the Cave Bear. |
+| Wild Boar | Territorial Omnivore, medium | 90% / 10% | — | Prey of the Grey Wolf. |
+| Cave Bear | Smart Omnivore, large | 90% / 10% | — | Hunts the River Trout. |
+| Granary Rat | Benign Omnivore, small, 10–40, fast | 90% / 10% | — | Lives among people; vector; a hunt is a cull. |
+| Grey Wolf | Social Carnivore, medium | 90% / 10% | — | Hunts the five great grazers. |
+| Bog Eel | Unobtrusive Carnivore, medium | 90% / 10% | — | Hunts the River Trout. |
+| Screech Sabrecat | Marauder Apex Predator, large | 90% / 10% | — | Appears in the [[Age of Renewal]]; announces itself with a screech. |
+| Threshold Cushion, Glottis-Mouth Trap, Hearth-Eater | Trapper Apex Predators | 30% / 70% | Matrix | Predatory [[Eleos Bloom]]s; they lure. |
+| Hearth Roach | Hiding Detritivore, small, 20–200, fast | 95% / 5% | — | Lives among people; vector; a hunt only scatters them. |
+| Ashfall Beetle | Territorial Detritivore, medium | 95% / 5% | — | Ash, ruins and rift scars; enriches the soil. |
+| [[Elemental Sprite]] | Docile Herbivore, small | 10% / 90% | Matrix | The last unmerged light; one refuge per world. |
+| Sprite Ecotypes (10) | Docile Herbivores, small | 15% / 85% | Matrix | Each tuned to its habitat; parents of the slimes. |
+| [[Slime]] Ecotypes (10) | Docile Herbivores, small | 25% / 75% | Matrix | From the [[Age of Renewal]], through entrainment; hosts of Slime Blight. |
+
+The detritivores deserve particular attention. Canon places cockroach-like insects at **95%** [[Auric Structure]], and the bestiary honors that: the Hearth Roach and the Ashfall Beetle are the lineages that pass through every aftermath almost untouched, feeding on what every other lineage leaves behind.
+
+### Emotional Alchemy
+
+_"The [[Eleos Bloom]] principle is that nothing is wasted. Every emotion, no matter how painful, can become something beautiful and therapeutic if it is properly metabolized."_ — [[The White-Touched Archivist]]
+
+Beneath the food-web runs a second economy that is not counted in herds: the [[Emotional Residue]] that every living thing leaves in a place. The [[Eleos Bloom]]s eat it, the [[Formless Masses]] pool from it, and the [[Atonalis]] hunt it. All three feed on the same register, and that shared hunger is what binds the flowers, the slimes and the demons into one ecology.
+
+#### The Emotional Register
+
+[[Emotional Residue]] is made of sixteen notes on eight axes, one axis for each of the [[Eight-Born Paths]]. Every axis has a **consonant** face, the feeling in its healthy state, and a **dissonant** face, the wound that its Path embodies and feeds on:
+
+| Path | [[Consonance]] | [[Dissonance]] | The axis |
+|---|---|---|---|
+| [[Anxithor]] | Courage | Dread | Fear faced and held, or fear with nowhere to go. |
+| [[Discant]] | Joy | Tumult | Strong feeling that keeps its rhythm, or the crash after the high. |
+| [[Obsessian]] | Devotion | Fixation | Focus given freely, or the thought that will not let go. |
+| [[Signath]] | Wonder | Doubt | Many truths held at once, or reality unmoored. |
+| [[Carnalix]] | Vitality | Pain | The body in tune, or the body's suffering. |
+| [[Animach]] | Belonging | Estrangement | A whole self among its own, or a self coming apart. |
+| [[Violux]] | Pride | Shame | The will aligned with what it values, or what was done against it. |
+| [[Erosyx]] | Love | Longing | Intimacy met, or intimacy denied. |
+
+A place holds two kinds of feeling:
+
+- **Living feeling:** What the people nearby feel this moment. A thriving settlement gives off Joy, Belonging, Love, Vitality, Pride in what it has built, and Devotion in the holidays it keeps. A suffering one gives off the wounds of whatever strains it: Dread when hunters prowl at its gates, Pain and Shame when it is pillaged, Estrangement and Longing when it is cut off, Fixation and Tumult under the daily grind, and Pain from hunger and sickness. The land itself adds Wonder where [[Coherence]] runs high or the [[Leylines]] pass, Devotion on [[Sacred Site]]s, and Doubt wherever the Loom is torn by [[Dissonance]] or [[Vibrational Fallout]].
+- **Imprint:** What the land remembers. A battle leaves Dread, Pain for each one who fell, and the Courage of those who stood. A hunt leaves Pain and the hunters' Vitality. A scattered party leaves grief and estrangement, and so does a settlement fallen to ruin. Taking from another's ground leaves Shame, conscription leaves Longing, a festival leaves Joy and Love, and a kept holiday leaves Devotion. Every settlement also pours its living feeling into its own ground, one [[Seventh]] at a time. The imprint fades slowly as the land heals.
+
+**[[Consonance]] soothes.** What weighs on the land is its wounds, less half its healthy feeling. A place of battle that is also a place of courage suffers less than one of dread alone.
+
+#### Cocktails and Compound Feelings
+
+No eater of feeling lives on a single note. Each eats a **cocktail**: a recipe of notes in proportion. A strict eater can only make as many servings of its cocktail as its scarcest note allows, while a loose eater takes any of its notes wherever it finds them. How exactly a place's mix matches a recipe is its **fit**.
+
+Some mixes are known well enough to carry names of their own, the **compound feelings**:
+
+| Compound | Recipe | What it is |
+|---|---|---|
+| Anemoia | Longing 40%, Wonder 30%, Estrangement 20%, Love 10% | Longing for a time you never knew. |
+| Nostalgia | Longing 45%, Belonging 35%, Joy 20% | The sweet ache of a home that was. |
+| Saudade | Longing 45%, Love 35%, Tumult 20% | Love for what is absent and may not return. |
+| Grief | Tumult 40%, Love 35%, Estrangement 25% | Love that stays when its object is gone. |
+| Catharsis | Tumult 35%, Joy 35%, Pain 30% | Pain released into relief. |
+| Euphoria | Joy 60%, Vitality 40% | Joy flooding the body. |
+| Ecstasy | Joy 45%, Wonder 25%, Vitality 20%, Love 10% | Joy so great it carries the self beyond itself. |
+| Lust | Vitality 40%, Longing 30%, Shame 15%, Joy 15% | The body's hunger for another, with a thrill of the forbidden. |
+| Desire | Longing 50%, Vitality 50% | The body reaching for another. |
+| Awe | Wonder 50%, Dread 25%, Courage 25% | Wonder with a tremor of fear in it. |
+| Terror | Dread 70%, Pain 20%, Doubt 10% | Fear with nowhere left to go. |
+| Kenopsia | Estrangement 40%, Doubt 30%, Longing 30% | The eeriness of a place emptied of its people. |
+| Vigil | Devotion 40%, Pain 30%, Love 30% | Devotion keeping watch over the hurt and the lost. |
+
+The same alchemy names Melancholy, Paranoia, Hope, Defiance, Triumph, Tenderness, Serenity, Rapture, Guilt, Resentment, Humiliation, Jealousy, Loneliness, Dysphoria, Ennui, Sonder and Homecoming. An explorer who reads the air of a place may say it _"holds Anemoia"_: the compound its feelings most resemble.
+
+#### Transmutation
+
+A note can turn into its pair on the same axis:
+
+- **The healers transmute wounds into health.** A healing [[Eleos Bloom]] breathes out **60%** of the wounded notes it drinks as their healthy pair: despair becomes joy, dread becomes courage, estrangement becomes belonging. This is how nothing is wasted.
+- **The [[Atonalis]] transmute health into wounds.** An [[Atonalis]] that feeds turns the healthy notes it preys on into their wound. A [[Discant]] at a festival turns its joy into tumult, and an [[Erosyx]] turns love into longing. Their presence amplifies the pain that mirrors their own.
+
+#### How the Eleos Blooms Feed
+
+Every [[Eleos Bloom]] eats a cocktail of its own, and every kind has a **specificity**: how exactly its cocktail must be made. A **Generalist** takes any of its notes and spreads easily. An **Epicure** or **Connoisseur** is pickier. A **Purist** eats only its exact cocktail.
+
+This is the evolutionary tension of the family. **The more niche a palate, the less the bloom grows**, giving up to **40%** of its growth, but a niche bloom fed its exact cocktail is **superloaded**: its gifts, its healing, its harvest and its lure grow up to **2.5 times** as potent. A generalist spreads and gives ordinary gifts. What a bloom eats is:
+
+$$\text{food} = s \cdot \text{servings} + (1 - s) \cdot \text{loose}$$
+
+where $s$ is its specificity.
+
+Every bloom that is not withering **drinks** its cocktail out of the imprint of its own ground and the ground beside it. **Listeners** filter feeling from the land. **Healers** drink more deeply and transmute the wounds they drink. **Predators** feed on the feelings of what they lure. Planting Sorrowbells beside a grieving town keeps its grief from pooling into [[Formless Masses]]. A people's strongest feelings also draw up the blooms that catalogue them.
+
+| [[Eleos Bloom]] | Niche | Cocktail | Specificity |
+|---|---|---|---|
+| Shame Moss | Listener | Shame 70%, Pride 30% | Epicure |
+| Sorrowbells | Listener | Tumult 50%, Love 25%, Estrangement 25% (Grief) | Connoisseur |
+| Memory Marigolds | Listener | Belonging 40%, Longing 35%, Joy 25% (Homecoming) | Epicure |
+| Vow Orchids | Listener | Devotion 45%, Love 35%, Pride 20% | Purist |
+| Lullroots | Listener | Dread 50%, Vitality 30%, Courage 20% | Epicure |
+| Candlevein Bloom | Healer | Pain 30%, Tumult 25%, Love 25%, Devotion 20% (Vigil) | Epicure |
+| Xochi-Singers | Healer | Tumult 35%, Love 25%, Belonging 25%, Joy 15% | Epicure |
+| Skyroot Matriarch | Healer | Belonging 40%, Wonder 30%, Estrangement 30% (Sonder) | Epicure |
+| [[Glimmerfern]] | Healer | Doubt 40%, Tumult 30%, Wonder 30% | Generalist |
+| **Anemoia Lunaria** | Healer | Longing 40%, Wonder 30%, Estrangement 20%, Love 10% (Anemoia) | Purist |
+| Lust Berries | Predator | Vitality 40%, Longing 30%, Shame 15%, Joy 15% (Lust) | Connoisseur |
+| Threshold Cushion | Predator | Pain 50%, Dread 25%, Vitality 25% | Epicure |
+| Glottis-Mouth Trap | Predator | Fixation 40%, Dread 35%, Love 25% | Connoisseur |
+| Hearth-Eater | Predator | Longing 40%, Tumult 30%, Pain 30% | Epicure |
+
+The [[Fated Flower]]s and Forsaken Flowers eat no cocktail: they follow history and sorrow alone.
+
+#### The Anemoia Lunaria
+
+The Anemoia Lunaria is a pale moon-bloom that grows only where longing, wonder and estrangement mingle in just the right measure: ruined fields, skeletal orchards, fallow steppe, violet glades and moonlit groves, on ground where [[Coherence]] still holds. It is a near-purist of the Anemoia cocktail. It grows sparsely and rarely, and where it finds its cocktail, its gifts are superloaded.
+
+As a healer, it drinks the longing and estrangement of a place and breathes them back out as love and belonging, turning the ache for a life never lived into something closer to homecoming. Its flowers wither into translucent, coin-round **seed pods**. Held up to the moon, a pod shows the faint shape of a life that no one who holds it has lived.
+
+Those pods are the flower's true harvest and one of the most longed-for **luxury goods** of [[Arcanoria]]: ornaments kept on shelves and windowsills, never used up, faintly holy to those who long. Every pod is also a seed that can still be planted.
+
+#### Lineages and Evolution
+
+A bloom's palate is not fixed. Each [[Echo]] is a generation for every bloom lineage, and now and then a lineage tries one of two paths and keeps whichever makes it fitter:
+
+- **To specialize:** It sharpens its recipe to the exact proportions its land gives of its own notes, and grows pickier. This is the path of the superloaded niche.
+- **To generalize:** It takes in the notes its land is rich in, and grows looser. This is the path of the survivor that spreads.
+
+A lineage that starves on its land loosens its palate. A lineage fed its exact cocktail grows pickier and more potent. A lineage that drifts far enough from its ancestors becomes a **variety** of its own, named for the compound feeling it now resembles, such as _Memory Marigolds of Anemoia_. If it drifts back, it reverts to its kind.
+
+#### How the Atonalis Feed
+
+The [[Atonalis]] also eat cocktails, but **they never evolve**: a Path's hunger is fixed by its wound. Each hunger is mostly its own wound, often with a healthy note it preys on, and a little of its neighbours':
+
+| Path | Hunger |
+|---|---|
+| [[Anxithor]] | Dread 50%, Courage 15%, Pain 10%, Doubt 10%, Fixation 10%, Estrangement 5% |
+| [[Discant]] | Tumult 45%, Joy 20%, Longing 10%, Estrangement 10%, Pain 10%, Love 5% |
+| [[Obsessian]] | Fixation 50%, Devotion 20%, Dread 10%, Doubt 10%, Shame 10% |
+| [[Signath]] | Doubt 50%, Wonder 20%, Estrangement 15%, Dread 10%, Fixation 5% |
+| [[Carnalix]] | Pain 55%, Vitality 20%, Dread 10%, Tumult 10%, Longing 5% |
+| [[Animach]] | Estrangement 50%, Belonging 20%, Doubt 15%, Shame 10%, Longing 5% |
+| [[Violux]] | Shame 50%, Pride 15%, Fixation 15%, Longing 10%, Tumult 10% |
+| [[Erosyx]] | Longing 40%, Love 20%, Vitality 15%, Shame 15%, Estrangement 10% |
+
+A roaming [[Atonalis]] follows the scent of its hunger and settles where it finds it. The [[Parasite Atonalis]] of desire drift toward revels, where Lust and Euphoria soak the ground; a [[Carnalix]] drifts toward slaughter grounds; a [[Discant]] drifts toward a festival's joy. Wherever they feed, they turn the health of a place into its wounds.
+
+#### The Birth of the Land's Atonalis
+
+Where the wounds of a place, and the Doubt of a torn Loom, grow heavy and nothing drinks them, lingering [[Consciousness]] pools into [[Formless Masses]]. They pool first on the land of a suffering people. A mass drinks every note of the imprint where it feeds. Once it has fed enough, it wraps itself in a [[Dissonance]] cocoon and hatches into the Path whose hunger its feeding most resembles.
+
+Because the land's feelings are always mixed, **hybrids are the common birth**, and a mass that fed on a single axis hatches a rare purist. A mass gorged on a revel's joy becomes a [[Discant]]. One fed on tears and pain in equal measure becomes a [[Carnalix]]-[[Discant]] hybrid. Destroy a mass before it cocoons, and no [[Atonalis]] is born.
+
+**The flowers that heal a people and the demons that hunt it eat from the same register. What the land feels decides which of them it grows.**
+
+### Final Principle
+
+The creatures of [[Arcanoria]] are not decoration, and they are not obstacles. They are a second [[Civilization]] that never writes its history, but remembers it anyway.
+
+- Herds grow where the land can carry them.
+- Predators rise and fall with their prey.
+- [[Pure Light]] flourishes where [[Coherence]] holds and vanishes where it breaks.
+- [[Auric Structure]] outlasts every [[Age Crisis]].
+- Every lineage remembers who hunted it and who spared it.
+- Every [[Echo]] moves them, and every [[Ritual Seventh]] calls to their light.
+
+**A herd hunted is a lineage taught.**
+
+**A land taken is a song interrupted.**
+
+**A species understood is a future that can still be saved.**
+
 # Arioch
 
 
@@ -1927,15 +2539,17 @@ _"I prevented the [[Great Plague]]. That little girl kept her mother. She kept h
 
 **On Aria's Question for [[Civilization]]: “Okay, this may be a weird question, but what do you think about hands?”**
 
-_"No, really! I know how that sounds, but it's something I haven't been able to understand from my place of divinity. No other being truly has them except me and my children."_
+_"No, really! I know how that sounds, but it's something I haven't been able to understand from my place of divinity. No other being truly has them except my children and me."_
 
-_"I've noticed you barely think about them compared to your minds, your feelings, your spirits or your hearts, even though they're THE SIGNATURE of my [[Perfect Reflection]]! Across the vastness of [[The Eternal Symphony]] another [[Consciousness]] would recognize you as mine from nothing more than your hands, your feet, and your fingers. And many would envy you simply for being able to manipulate reality through all those little interfaces where intention can leave you...”
+_"I've noticed you barely think about them compared to your minds, your feelings, your spirits, or your hearts, even though they're THE SIGNATURE of my [[Perfect Reflection]]! Across the vastness of [[The Eternal Symphony]] another [[Consciousness]] would recognize you as mine from nothing more than your hands, your feet, and your fingers. And many would envy you simply for being able to manipulate reality through all those little interfaces where intention can leave you...”_
 
-_"Let me phrase it differently. A finger is an articulation of intention. Several resolve into a hand, the hand through the wrist, the forearm through the elbow, the arm through the shoulder — articulation nested into articulation until something that exists only inside your [[Consciousness]] can reach beyond itself and become consequence."
+_"Let me phrase it differently. A finger is an articulation of intention. Several resolve into a hand, the hand through the wrist, the forearm through the elbow, the arm through the shoulder — articulation nested into articulation until something that exists only inside your [[Consciousness]] can reach beyond itself and become consequence."_
 
 _“A thought cannot touch the world. A hand can. That's the part you overlook. Not so much ‘I think, therefore I am,’ but perhaps, ‘I reach, therefore what I am becomes part of existence.’ To reach is to make the self causal.”_
 
-_"Thus, as the core gift of [[Auric Geometry]], I decided on the primary symbol for agency, with five carefully ornate terminal articulations that were just elegant enough for you. The morphology of my own 'hands' are... less bounded. Imagine fingers continuing into finer fingers, resolving into smaller hands, and those hands containing still finer articulations of their own on and on through an asymptotic succession far beyond what your 'numbers' could follow. Yes, I know! It should sound strange. That's precisely my point. You carry a finite version of the feature every other [[Outer God]] finds most alien about me, and somehow familiarity made it for you one of the least intriguing."
+_"Thus, as the core gift of [[Auric Geometry]], I decided on the primary symbol for agency, with five carefully ornate terminal articulations that were just elegant enough for you. It's a beautiful total of 70 discrete control nodes across four primaries. I thought a lot about having 58 concentrated entirely for the fine convergence of touch. Ah! I'm getting carried away...! My point is that the morphology of my own 'hands' is... less bounded. I have a few more control nodes than what I gave you."_
+
+_"Imagine fingers continuing into finer fingers, resolving into smaller hands, and those hands containing still finer articulations of their own on and on through an asymptotic succession far beyond what your 'numbers' could follow. Yes, I know! It should sound strange. That's precisely my point. You carry a finite version of the feature every other [[Outer God]] finds most alien about me, and somehow familiarity made it for you one of the least intriguing."_
 
 _"So I suppose that's why I'm asking. To you, they're just a part of your body. To me, they're where intention becomes creation... and one of the oldest pieces of myself I ever gave away."_
 
@@ -2467,101 +3081,108 @@ The Auric symbol originated from what happened to the [[Auric Aria]] during the 
 
 ### The Mythos
 
-Before existence, before matter, before even the heavens themselves, there was nothing — and before there was nothing there was [[The Eternal Symphony]].
+Before existence, before matter, before thought — before even the heavens themselves — there was nothing. And before there was nothing there was the Eternal Symphony.
 
-An infinite expanse of silent potential. Not yet sound, not yet stone — only unending absolute silence. The thread not yet plucked, the holiness before holiness, the instrument with all the latent potential of creation.
 
-The one blank score, containing all that could bet, without form, shape, or [[Consciousness]], preexistent beyond time.
+An infinite expanse of silent potential. Not yet sound, not yet stone — only absolute, unending silence. The thread not yet plucked. The holiness before holiness. The one instrument string holding all the latent potential of creation.
 
-[[The Infinite Void]] without sound. Until a single instant of causality broke the silence open: [[The First Overtone]], a singular vibration that awakened all of [[The Infinite Void]]. But it did not awaken to structure, it awakened to chaos, unfiltered, unthinkable chaos. A restless sea of [[Primal White Noise]].
+The one blank score. All that could be, without form, shape, or [[Consciousness]]. Preexistent, beyond time.
 
-All was above and below at once. There was no distance nor duration. There was deafening everything — too much of everything — and from everything, stirred the first will on a gilded anchor that flared on the static in an Auric Burst of Radiance.
+An infinite void without sound — until a single instant of causality broke it open. [[The First Overtone]]. One vibration that woke the whole [[Void]]. But it did not wake to structure. It woke to chaos. Unfiltered, unthinkable chaos.
 
-The [[Auric Aria]], the Golden Sovereign.
+A restless sea of [[Primal White Noise]].
 
-And so the [[Auric Aria]] sang — she sang the song of creation. Its beautiful order pierced the chaos, her voice the structured light, the first bar of the score, the golden beacon across the vast sea of noise.
+All was above and below at once. No distance, no duration. Only deafening everything — too much of everything. And from everything, it stirred the first will, a gilded anchor flaring in the static.
 
-On the seven notes of her voice she yielded the primal static into the [[Auric Heptacode]], the foundation of [[Arcanoria]], and the ultimate mastery of her will.
+All was above and below at once. No distance, no duration. Only deafening everything — too much of everything. And from everything, it stirred the first will, a gilded anchor flaring in the static in an [[Auric Burst]] of radiance.
 
-Her [[Auric Heptacode]] were the seven golden threads that wove reality together, the seven bindings that filtered structure into the laws of matter, space, and stability to subdue the formless vibrations, shaping physicality into stardust and energy itself.
+The [[Auric Aria]]. The Golden Sovereign. The Song of Gold.
 
-[[Resonance]], the first auric thread of the [[Key of Attunement]], the origin of [[Consonance]] lies in ringing true to your [[Soul-Key]].
+And so the [[Auric Aria]] sang.
 
-[[Luminance]], the second auric thread of the [[Sufficient Precision]] of ordered music, playing a precise interval shapes the frequency of pure clarity.
+She sang the song of creation. Its beautiful order pierced the chaos — her voice the structured light, the first bar of the score, the one golden beacon across the vast sea of noise.
 
-[[Flux]], the third auric thread of the [[Emotional Authenticity]] imbued in a virtuosic performance, an expression only carries feeling when born of honest intent.
+Upon the seven notes of her voice, she tuned the primal static into the [[Auric Heptacode]]: the foundation of [[Arcanoria]], and the supreme mastery of her will.
 
-[[Void]], the fourth auric thread of the [[Essence Sacrifice]] in the strength required to apply masterful dynamics and motion to reality.
+Seven golden threads weaving reality together. Seven bindings that filtered formless vibration into the laws of matter, space, and stability. Each shaping physicality into stardust and energy to shape.
 
-[[Cindergale]], the fifth auric thread of the [[Perfect Focus]] meant sustain the full potential of the unwavering, defiant performance of existence.
+[[Resonance]]. The first auric thread, the [[Key of Attunement]] from which all [[Consonance]] begins by ringing true to your own soul and key.
 
-[[Crystal]], the sixth auric thread of the [[Absolute Certainty]] required for the melody to soar when it knows where to collapse its resolve of all possible futures.
+[[Luminance]]. The second auric thread, the [[Sufficient Precision]] of ordered music. A precise interval shapes the frequency of pure clarity.
 
-[[Strand]], the seventh auric thread of the [[Echoing Bonds]] that harmonize the entire universe together. A leitmotif by itself is simple, but when it carries weight and history, it is masterful.
+[[Flux]]. The third auric thread, the [[Emotional Authenticity]] imbued in a virtuosic performance. An expression only carries feeling when born of honest intent.
 
-On the entire score together, it was the first time existence could hear [[The Eternal Symphony]], stirring the cosmos on the rhythm that would govern all.
+[[Void]]. The fourth auric thread, the [[Essence Sacrifice]] in the strength it costs to give masterful dynamics and motion to reality.
 
-It was good, but she did not stop there. From the sacred lattice of reality, she shaped the [[Trinity Harmony]], the law that divided the chaos of everything by the heptacode, and bound it to a threefold law:
+[[Cindergale]]. The fifth auric thread, the [[Perfect Focus]] and discipline to sustain the defiant performance of existence without wavering.
+
+[[Crystal]]. The sixth auric thread, the [[Absolute Certainty]] required for the melody to soar when it knows where to collapse all its possible futures.”
+
+[[Strand]]. The seventh auric thread, the [[Echoing Bonds]] of the harmony that holds the universe together. A leitmotif by itself is simple, but when it carries weight and history, it becomes masterful.
+
+Played together, the entire score let existence hear [[The Eternal Symphony]] for the first time, and the cosmos stirred to the rhythm that would govern all.
+
+It was good, but she did not stop there. From the sacred lattice of reality, she shaped the [[Trinity Harmony]] as the final law that divided the chaos of everything, binding it by the [[Auric Heptacode]] to a threefold law.
 
 The past that preceded existence: [[Potential of Creation]] — [[Strand]], [[Void]], [[Flux]].
 
 The future of her universe: [[Mastery Over Chaos]] — [[Cindergale]], [[Luminance]], [[Crystal]].
 
-And the [[Key of Attunement]] from her own soul, the present — [[Resonance]].
+And the present, the [[Key of Attunement]] drawn from her own soul — [[Resonance]].
 
-The [[Known Universe]] sung back in the flowing continuum that established, memory, causality, and destiny, in a rhythm that found the patterns of order. However, the concert missed something as beautiful and mesmerizing as her beyond the stars.
+And the universe sang back. Memory, causality, and destiny flowed into a single flowing continuum of order. Yet the concert still lacked something as beautiful and mesmerizing as she was.
 
-She decided for the purest of her boundless love to shape a place unique and in her image, [[Arcanoria]].
+So, from the purest of her boundless love, she shaped a place in her image and likeness: [[Arcanoria]].
 
-On this determination, the [[Auric Aria]] began the [[Seven-Cycle Creation]] of [[Void]] and [[Luminance]], the [[Dance]] of light and shadow born from each ordered thread.
+Thus began the [[Seven-Cycle Creation]] of [[Void]] and [[Luminance]], the dance of light and shadow.
 
-On the [[First Cycle]], she built from [[Resonance]], to shape the crust, the land, the seas, and the skies, giving [[Arcanoria]] a tangible form.
+In the [[First Cycle]], she built from [[Resonance]] the land, the seas, and the skies. 
 
-On the [[Second Cycle]], she built from Luminance, to weave the Great Harmonic Loom as the celestial network of the skies that descends in a vast web across the world, making magic and Resonance flow as the symphonic veins of the Leylines.
+In the [[Second Cycle]], from [[Luminance]], she wove the [[Great Harmonic Loom]] across the heavens, in a vast web across the world, making magic and [[Resonance]] flow as the symphonic veins of the [[Leylines]].
 
-On the Third Cycle, she built from Flux the fluidity of rivers, plains, mountains, and all the relief from the lifeblood of the Eternal Symphony.
+In the [[Third Cycle]], from [[Flux]], she poured the rivers, the plains, the mountains — every contour carrying the lifeblood of [[The Eternal Symphony]].
 
-On the Fourth Cycle, she built from Void the rhythm and dynamics of the celestial bodies, binding the stars into a moving orchestra across the echoes of seasons.
+In the [[Fourth Cycle]], from [[Void]], she gave rhythm to the celestial bodies, binding the stars into [[Cosmic Motion]] as an orchestra across the echoes of the seasons.
 
-The paradise she dreamt about was going exactly to her perfection. However, it was still missing the reflection of an autonomous performers that would inhabit, and thus, this dream of creative life was the dawn of the Fifth Cycle.
+The paradise she envisioned was going exactly to her perfection. Yet it still lacked its core — performers free enough to inhabit it. His voice lowered to a triumphant whisper. And so the dream of life became the dawn of the most consonant, the [[Fifth Cycle]].
 
-The Auric Aria descended with Cindergale and Perfect Focus into the newborn world, and sang nearer than ever before.
+The Auric Aria descended into the newborn world with Cindergale and Perfect Focus, and sang nearer than ever before. It was the First Weaving of Life.
 
-She sang into the waters, and the waters became fluent with silver life. She sang into the soil, and the soil opened its dark hands to receive green. She sang into the winds, and the winds learned the golden of wings. She sang into the sleeping stone, and the stone dreamed of forests that would done day rise from dust.
+She sang into the waters, and each wave grew fluent with silver life. She sang into the soil, and each patch of dirt opened its seams to receive green. She sang into the winds, and the air learned the gold of wings. She sang into the sleeping stone, and it dreamed of forests that would one day rise from dust.
 
-At the edge of the first green places. She fashioned the beasts of field and cloud and sea. She gave each its own measure and purpose: The strength of the great horned ones, the patience of the burrowing ones, the brilliance of the scaled ones, the swiftness of the winged ones. She taught tooth not to despise grass, and grass not to fear the rain. She taught every creature the place from which its sound could bless the greater symphony, just as she once learned from the primal noise.
+She fashioned the beasts of land and sky and sea, and gave each its own measure: the strength of the great horned ones, the patience of all the burrowing ones, the brilliance of anything scaled, and the swiftness of everything that could spread its wings. She taught tooth not to despise grass, and grass not to fear the rain. She taught every creature where its sound could bless the greater symphony, just as she once had learned to ring her note from the primal noise.
 
-And where the first creatures trembled before their own new being, the Auric Aria did not abandon them in fear. She gathered their uncertain voices into her palm and braided them with Resonance. That, was the first Fated Flower, which bloomed on the emotional residue that might know how to call the soil home.
+And when the first creatures trembled before their own being, the [[Auric Aria]] did not leave them to fear. She gathered their uncertain voices into her palm and braided them with [[Resonance]]. That was the original [[Eleos Bloom]], the first [[Fated Flower]], so that life might learn from emotion to call the soil home.
 
-This was the mercy of the Fifth Cycle: that no life was made without a note of return. The seed of Piety, Contrition, and Sacrifice to find their meaning on the weight of purpose.
+This was the mercy of the [[Fifth Cycle]]: that no life was made without a note of return. Seeds of [[Piety]], [[Contrition]], and [[Sacrifice]], which find their meaning in the [[Weight of Purpose]].
 
-In the Sixth Cycle, she built from Crystal the infinite potential of all life, creating the first lineages and the free will for creatures to reproduce their own signature, bound in harmony as they populated her celestial palace. Its halls were measures of light, its gardens were harmonies of creation, and its towers rang softly with the measure of a new dawn.
+In the [[Sixth Cycle]], she built from [[Crystal]] the infinite potential of life: the first lineages, with free will to reproduce their own signature in harmony with one another. And as they populated her celestial palace, its halls were measures of light, its gardens harmonies of creation, its towers ringing with a new dawn.
 
-In the Seventh Cycle, the one carrying the entire strength of the Auric Heptacode, she built the final piece of the crown with her unyielding love, and the bonds of Strand.
+In the [[Seventh Cycle]], carrying the full strength of the Auric Heptacode in the number of perfection, she built the final piece of her crown from unyielding love and the bonds of Strand.
 
-She envisioned at last Humanity, as a Perfect Reflection of her will. She decided to make them upright, different, sapient enough to see the world as she saw.
+At last, she envisioned [[Humanity]] as the [[Perfect Reflection]] of her will. Upright. Unique. Sapient enough to see the world as she saw it, through eyes that inherited her own sacred [[Auric Geometry]].
 
-When the first humans looked back at her, they spoke, and as they spoke, they understood the underlying fabric of her universe. She was overjoyed with emotion, and upon the highest cliff of the land, she entrusted humanity with the tenet of Revelation in one last gift.
+When the first humans looked back at her, they spoke — and in speaking, they understood the fabric of her universe. Overjoyed, she stood upon the highest cliff of the land and entrusted them with the tenet of [[Revelation]].
 
-From the Auric Aria's deepest well of her devotion, she drew forth a singular miracle. She forged a great luminous mirror, placing it carefully beneath the turning heavens. 'Let the stars keep the time of the universe' She decreed, 'but this alone shall not dance to the rigid tempo of Cosmic Motion. for it is excluded as a gift solely given to the sentience of my children.
+Then, from the deepest well of her devotion, she forged a great luminous mirror beneath the turning heavens. ‘Let the stars keep the time of the universe,’ she decreed, ‘but this alone shall not dance to the rigid tempo of [[Cosmic Motion]], for it is exclusively a gift solely given to the sentience of my children.’
 
-So she bound the Moon to the night, a captive light held fast in a silver snare so that it might never wander from humanity's gaze. It was placed as a personal guide, weeping its gentle, silver light upon the dark.
+So she bound the [[Moon]] to the night, a captive light held fast in a silver snare so it might never wander from [[Humanity]]’s gaze. A personal guide, weeping its gentle silver light upon the dark.
 
-The Aria sang one last time. She called Luminance Day, and the Void she called Night. And there was evening and there was morning. The Resonance of her song seeded the last of magic in the Leylines, Aetherlight as her own essence of Luminance, and Lunehymn as the silver moon that signaled the Void.
+The Aria sang one last time. She called [[Luminance]] Day, and [[Void]] she called [[Night]]. And there was evening, and there was morning — the first day. The [[Resonance]] of her song seeded the last of magic into the [[Leylines]]: [[Aetherlight]], her essence of [[Luminance]], and [[Lunehymn]], the [[Moon]]’s silver, signaling [[The Infinite Void]] beyond.
 
-The Moon became the visible covenant of that protection. It watched without sleeping, it shone without consuming. For all power flowed according to the first lesson she imparted to the universe.
+The [[Moon]] became the covenant of her protection. It watched without sleeping. It shone without consuming. For all power flowed from the first lesson she taught the universe.
 
-The chaos is not conquered by force, it is taught by order how to sing.
+Chaos is not conquered by force. It is taught by order how to sing.
 
-And so Arcanoria endured beneath the Moon. The seas kept their measure. The living sang in a thousand voices.
+And so Arcanoria endured beneath the [[Moon]]. The seas kept their measure. The living sang in a thousand voices.
 
-Then, when the final strand had been set in its place, the Auric Aria stood upon the highest balcony of the heavens. Below her lay Arcanoria, bright with the music she had ordered from chaos.
+When the final thread was set in its place, the [[Auric Aria]] stood upon the highest balcony of the heavens. Below her lay [[Arcanoria]], bright with the music she had ordered from chaos.
 
-Above her lay the Eternal Symphony, vast and listening. She lifted her face as though hearing a song no other being could hear.
+Above her lay the Eternal Symphony, vast and listening. She lifted her face, as though hearing a song no other being could hear.
 
-And afterward, the Auric Aria was silent.
+And afterward, the [[Auric Aria]] was silent.
 
-No one can hear her voice anymore, but if she left us the motion of the skies, and the tools to understand, she entrusted us with the Revelation of hearing that song too.
+No one can hear her voice anymore, but she left us the motion of the skies, and the tools to understand them. She entrusted us with [[Revelation]], so that we might hear that song ourselves.
 
 ![[Auric Mythos of Creation-1.png]]
 
@@ -3367,23 +3988,1835 @@ High [[Coherence]] forms [[Stable Harmonic Channels]] for information and magica
 
 # Combat System
 
-#mechanic #society #spellweaving 
+#mechanic #society #spellweaving
 
-_Strategy is Composition. Combat is Performance._
+_Strategy is Composition. Combat is Performance. Survival is Adaptation._
 
 The Symphony of War is the [[Combat System]] of [[Arcanoria]] that is divided into two core axioms. The macro layer determines what tools exist in the battle. The micro layer determines how well those tools are realized:
 
-- **Macro Level | Strategy as Composition:** Wars are won before a single note is played. It consists of the system of building and preparing [[Orchestral Formation]]s, Assigning [[Legend]] [[Battle Conductor]]s, and [[Magic Arts]] made by [[Civilization]] alongside the technologies researched and invented as equipment, gear, and tier of [[Production Units]].
+- **Macro Level | Strategy as Composition:** Wars are won before a single note is played. It consists of the system of building and preparing [[Orchestral Formation]]s, assigning [[Legend]] [[Battle Conductor]]s, and [[Magic Arts]] made by [[Civilization]] alongside the technologies researched and invented as equipment, gear, and tier of [[Production Units]].
 
-- **Micro Level | Combat as Performance:** The attacks are dictated by [[Symphony Card]]s which consist of actions such as combat attacks with traditional swords, [[Magic Arts]] for imbuing offensive, defensive, and utility magic. All combats are driven by army compositions named [[Orchestral Formation]]s which determine in the hex combat grid the positions of Units. This part features a rhythm based layer of repeating the melody back to increase the attack power of the [[Chord Layering]] Stack, and in the defense is playing the opposite melody in rhythm as noise cancellation.
+- **Micro Level | Combat as Performance:** The attacks are dictated by [[Symphony Card]]s which consist of actions such as combat attacks with traditional swords, [[Magic Arts]] for imbuing offensive, defensive, and utility magic. All combats are driven by army compositions named [[Orchestral Formation]]s which determine in the hex combat grid the positions of units. This part features a rhythm-based layer of repeating the melody back to increase the attack power of the [[Chord Layering]] Stack, and in the defense is playing the opposite melody in rhythm as noise cancellation. Every round of manual combat is a **Measure of four simultaneous [[Beat]]s**: the future is composed once, committed, and then performed by both armies at the same time.
 
-Every mechanical decision flows from this philosophy. At the strategic layer,  [[Civilization]], as the architect of war a drafting armies, growing [[Legend]]s, preparing the score by composing from the slots of unlocked [[Magic Arts]] by discovering [[The Registers of Magic]], and advancing through the technology tree and developing cultural [[Civic]]s. 
+Every mechanical decision flows from this philosophy. At the strategic layer, [[Civilization]] is the architect of war: drafting armies, growing [[Legend]]s, preparing the score by composing from the slots of unlocked [[Magic Arts]] by discovering [[The Registers of Magic]], and advancing through the technology tree and developing cultural [[Civic]]s.
 
 However, at the tactical layer, they are a performer of their songs in the battlefield, moving from flawless execution of rhythm, [[Spellweaving]] [[Chord Layering]], and inverse-frequency defense that determines whether the score becomes a masterpiece or a catastrophe.
 
-The system is designed to merge grand-strategy war planning, the long term development of civ-like 4X through magical development of [[Magic Arts]], understanding of [[Spellweaving]], and the customization of a roguelike deck builder through [[Symphony Card]]s  as an expression of [[Civic]]s and [[Legend]]s with a high-intensity tactical combat loop on the tempo of a rhythm game.
+The system is designed to merge grand-strategy war planning, the long-term development of civilization builders in 4X through magical development of [[Magic Arts]], understanding of [[Spellweaving]], and the customization of a roguelike deck builder through [[Symphony Card]]s as an expression of [[Civic]]s and [[Legend]]s with a high-intensity tactical combat loop on the tempo of a rhythm game.
 
-Mini game to calm units that are entering dangerously low [[Composure]], regaining "hp" by rhythmically syncing their heartbeat with the bpm of the song, slowing it to regain concentration and calm their mind.
+Even recovery is performed as it is a rhythm minigame that calms units that are entering dangerously low [[Composure]], regaining "HP" by rhythmically syncing their heartbeat with the BPM of the song, slowing it to regain concentration and calm their mind and their racing hearts.
+
+Finally, there is an Auto-Resolve layer to remove the need for micromanage every single battle given the [[Civilization]] layer of [[Gateway To Genesis]], however, while most minor battles can be delegated to Auto-Resolve, almost all major encounters, boss fights, and decisive victories such as any fight with any of the [[Original Eight]], cannot be Auto-Resolved, where history truly becomes written, the [[Third Actor]] has to conduct the performance.
+
+### Composition Before Performance
+
+The governing idea of the Symphony of War is that **a battle is composed before it is performed.** The strategic layer determines which instruments enter the battlefield; the tactical layer determines whether those instruments can remain in harmony once violence begins.
+
+A [[Civilization]] does not simply recruit units and send them toward an enemy. It develops technologies, discovers [[Magic Arts]], trains military traditions, cultivates [[Legend]]s, assigns [[Battle Conductor]]s, manufactures equipment, establishes [[Orchestral Formation]]s, chooses doctrines, maintains supply, deepens the relationships between its combatants, and enters battle carrying the accumulated consequences of every expedition that came before. When armies meet, all of those choices become a score.
+
+#### The Inputs of the Score
+
+The list of the seven things of the [[Auric Heptacode]] represent everything that exists before direct battlefield execution belongs to the macro layer:
+
+- **Army:** Recruitment, army scale, [[Orchestral Formation]] design, formation doctrine and the Stance of the initial advance.
+- **Material:** Military technology, equipment, gear and the production tier of [[Production Units]].
+- **Magic:** The [[Magic Arts]] available to the [[Civilization]], the of rock-paper-scissors of [[The Principles of Magic]] and the Personal Grimoires of its [[Legend]]s.
+- **Command:** [[Legend]] development, the chosen [[Battle Conductor]], [[Civic]] modifiers and military doctrine.
+- **Condition:** Supply, expedition wear, existing injuries, psychological strain and the state of every [[Soul Leitmotif]].
+- **Relationships:** The [[Echoing Bonds]] between the combatants who will fight together and the affection of the company itself.
+- **Context:** Terrain, fortification, tactical intelligence and reconnaissance.
+
+#### One Battle State, Two Ways to Conduct It
+
+When two forces meet, the player may allow the score to resolve automatically through the strategic simulation, or personally conduct the battle through the manual Symphony of War which is the tactical deckbuilder built around spatial formation, psychological pressure, enemy intent, timing, [[Chord Layering]] and musical execution of [[Spellweaving]].
+
+**Auto-resolution and manual combat use the same underlying battle state.** Manual control does not grant the army different rules and it is not a secret statistical bonus. However, it comes with the secret ingredient: Human agency and execution. It grants the player the opportunity to perform those rules better than the simulation expected.
+
+An army poorly composed before battle cannot magically become well composed because the player chose to conduct it manually. However, a strategically disadvantaged army may still achieve something extraordinary through exceptional battlefield performance.
+
+_Auto-resolution determines how the composition should perform. Manual combat asks whether the [[Third Actor]] can take the baton and direct it better._
+
+### The Three Conditions of Battle
+
+_"What part of this enemy can I make stop functioning first?"_
+
+Every fighting element is governed by three fundamentally different forms of survival: **Integrity, [[Composure]], and Stance.**
+
+| Condition         | Represents                                                                            | Failure State                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **[[Integrity]]** | Body, armor, wounds, material structure and physical survival                         | Incapacitation, casualties, destruction, [[Death Knell]]                                                 |
+| **[[Composure]]** | Will, morale, magical stability, stress and psychological [[Coherence]]               | Mind Break, panic, rout, capture, and ultimately Surrender                                                |
+| **Stance**        | Formation cohesion, spatial discipline, command structure and collective organization | Forced retreat, [[Stance Break]], displacement, exposed ranks, the collapse of formation bonuses and rout |
+
+They answer three different questions:
+
+- **Integrity asks:** Can the body continue?
+- **Composure asks:** Does it still want, or know how, to continue?
+- **Stance asks:** Can these bodies still function together as the formation they were supposed to be?
+
+_Integrity is the body. Composure is the mind. Stance is the relationship between bodies trying to remain an army._
+
+#### Integrity — The Body
+
+[[Integrity]] represents physical survival. For individuals it represents wounds, blood loss, exhaustion, armor failure and bodily trauma. For military sections it represents the aggregate fighting condition of the people and material composing that section.
+
+Integrity loss eventually produces wounded and incapacitated combatants, equipment losses, permanent casualties, [[Death Knell]] for important individuals, and the destruction of ordinary military sections.
+
+Integrity is deliberately distinct from [[Composure]]. A terrified enemy may be almost physically unharmed, while a mortally wounded [[Legend]] may remain psychologically unbroken. This allows battles where people surrender before being slaughtered, and battles where people continue fighting long after rational survival would suggest retreat.
+
+#### A Fighting System, Not a Health Bar
+
+A force does not need to be physically annihilated to lose. An army can retain most of its [[Integrity]] while psychologically collapsing. It can retain both Integrity and [[Composure]] while being maneuvered into an untenable position and suffering a [[Stance Break]]. Conversely, soldiers on the verge of death may continue fighting because their [[Composure]] and formation remain extraordinarily coherent.
+
+The strongest attacks frequently damage more than one condition:
+
+- **Killing a commander** primarily damages [[Integrity]], but the sight of that commander falling can inflict enormous [[Composure]] shock and destabilize the entire army's Stance.
+- **A magical bombardment** may inflict modest physical casualties while terrifying a formation into disorder.
+- **A forced displacement** may barely injure anyone, yet expose an artillery section and destroy the tactical architecture holding the army together.
+- **Winning a Skirmish** over a single hex may barely scratch the enemy's Integrity, yet force it back into crowded ground, drain its [[Composure]] and push its formation toward Stance Break.
+
+A company can panic. A formation can shatter. A Conductor can fall. An elite detachment can surrender. An enemy can retain seventy percent of its physical fighting strength and still cease to exist as an effective army.
+
+Combat is therefore not a race toward zero HP. It is the progressive destruction, preservation, or transformation of a fighting system.
+
+#### The Elemental Harmonic Circle
+
+Finally, there is also the layer of how [[Spellweaving]] bindings of the [[Auric Heptacode]] behave with one another. All types of attacks are either tied to [[The Principles of Magic]] or remain as Unattuned, unattuned is neutral damage that doesn't carry any sort of magic, the rest behave by resisting or countering elements:
+
+- [[Flux]] is 1.5x more effective against [[Cindergale]], and takes 0.5 the damage.
+- [[Cindergale]] is 1.5x more effective against [[Crystal]], and takes 0.5 the damage.
+- [[Crystal]] is 1.5x more effective against [[Resonance]], and takes 0.5 the damage.
+- [[Resonance]] is 1.5x more effective against [[Strand]], and takes 0.5 the damage.
+- [[Strand]] is 1.5x more effective against [[Flux]], and takes 0.5 the damage.
+
+The only ones that interact differently between one another is [[Luminance]] and [[Void]] which both don't have resistances and are 1.5x more effective against one another. While the principle of rock-paper-scissors continues to develop across the battlefield, this is the most legible and reliable part of the system.
+
+The primary binding of the [[Soul Leitmotif]] is what matters most, regardless of what [[Ornament]]s they may have:
+
+- [[Amadea]] is weak to [[Luminance]], [[Aurelian]] is weak to [[Crystal]], [[Daedalus]] is weak to [[Cindergale]], [[Miss Nyctilia]] is weak to [[Resonance]], [[Cadmus Tacet]] is weak to [[Void]].
+
+This logic applies to [[Atonalis]], [[Demi-Human]]s, [[Pure Light]], Humanoids, and every other beast that has [[Attunement for Magic]]. Only non magical beings are fully neutral, no resistances and no weaknesses to specific damage.
+
+Finally, [[Ornament]]s do provide an influence on what the [[Legend]] itself may be able to cast, as having different magical affinities does give them coverage against their natural counters with [[Symphony Card]]s. 
+
+For example:
+
+- A [[Legend]] that is [[Strand]] is weak to [[Resonance]], but if their first [[Ornament]] is [[Crystal]], they have a way to fight back effectively, even if they are not as proficient in that element as they would be in their primary.
+
+### The Three Scales of Composure
+
+[[Composure]] exists differently depending upon scale, and this distinction is essential. There is **Persistent [[Composure]]**, the usual term for [[Composure]] that refers to the long-term psychological state of a [[Legend]]; **Battle [[Composure]]**, the temporary psychological state of individuals during combat; and **Formation [[Composure]]**, the morale and collective nerve of groups of soldiers.
+
+All three are related but they are not interchangeable.
+
+#### Persistent [[Legend]] [[Composure]]
+
+Outside battle, a [[Legend]] possesses their [[Composure]] state, the five stress levels of the [[Soul Leitmotif]]:
+
+**Pristine → Clouded → Fractured → Spiraling → Surrender.**
+
+This represents the actual condition of the [[Soul Leitmotif]] across life. Clouded is the normal functional baseline for a [[Spellweaver]] living and acting within the world, and paradoxically the state in which most act with the greatest confidence. Fractured represents serious strain and the opening through which both danger and transformation, including [[Motif Awakening]], become possible. Spiraling is the final recoverable crisis, the last point where anyone can intervene. Surrender is the metaphysical point of catastrophe: the birth of a [[Dissonance Core]] and an [[Atonalis]].
+
+A [[Legend]] may begin an expedition Clouded, deteriorate toward Fractured after repeated trauma, temporarily approach Spiraling, and require real rest, emotional processing or civilization-level recovery before returning toward stability.
+
+Persistent [[Composure]] determines the **baseline from which Battle [[Composure]] is generated.** A well-rested Clouded Legend begins a battle with far more resilience than a [[Legend]] who entered the expedition already severely Fractured. Battle can worsen Persistent [[Composure]], but the two meters are not identical.
+
+#### Individual Battle Composure
+
+During combat, named individuals and elite combatants possess **Battle [[Composure]]**: immediate willpower, emotional regulation, tactical confidence and the ability to maintain coherent action under pressure. It is read against the same five states as the [[Soul Leitmotif]], but it moves on the timescale of a single battle.
+
+Battle [[Composure]] can be attacked directly by:
+
+- Terror and enemy intimidation.
+- Psychological magic, [[Mind Control Arts]] and specific [[Atonalis]] effects.
+- Seeing allies die, or watching a bonded character reach [[Death Knell]].
+- Severe wounds.
+- Losing a Skirmish and being forced to retreat.
+- Stance collapse, isolation and being surrounded.
+- Failed Chords that turn into [[Discordant Interference]] and friendly fire.
+- Conductor failure.
+
+#### Formation [[Composure]] — Morale
+
+For ordinary military formations, [[Composure]] is represented as **Morale**. It is not necessary to simulate the individual psychological state of every soldier inside a force of ten thousand. Instead, the formation possesses aggregate [[Composure]] representing confidence, discipline, trust in command, fear, perceived likelihood of survival, and the belief that the formation still has control of the situation.
+
+Morale is especially sensitive to the fight over ground and to Stance. When a formation remains with enough [[Coherence]] and performs the doctrine it trained for, soldiers understand where they are, who protects them and what is expected of them. When that structure collapses, panic spreads. Losing a Skirmish costs [[Composure]]. Being forced to retreat from a hex pushes the formation toward Stance Break, which costs more. [[Composure]] loss then makes the next Skirmish harder to win and the Stance harder to hold. This creates the central battlefield feedback loop:
+
+**Lost Skirmish → [[Composure]] Loss → Forced Retreat → Stance Damage → Panic → Further Lost Skirmishes → Stance Break → Rout.**
+
+_A formation rarely collapses because an invisible morale bar arbitrarily reached zero. It collapses because soldiers progressively lose confidence that the battlefield still makes sense._
+
+#### Mind Break
+
+A **Mind Break** occurs when Battle [[Composure]] or Formation [[Composure]] becomes critically depleted. Its behavior depends on scale.
+
+- **For ordinary military sections,** Mind Break represents panic, refusal to advance, freezing, disorganized retreat, mass surrender or rout.
+- **For elite units and [[Legend]]s,** Mind Break occurs when Battle [[Composure]] crosses into **Spiraling**, not when it reaches metaphysical Surrender. It is also the moment [[Dissonance]] becomes visible on the wearable [[Soul Leitmotif]], pulsing as [[Discordant Interference]] alongside the color of whichever binding they are channeling.
+
+Mind Break is temporary battlefield psychological collapse. It is not permanent Surrender. Surrender is not something that happens because an archer landed three critical hits during an ordinary battle; ordinary battlefield damage cannot carry a [[Legend]] past Spiraling. Only extraordinary pressures, such as an [[Atonalis]] feeding through Parasitic [[Resonance]], can drive a [[Soul Leitmotif]] toward its final crack in the middle of a battle. And even then, it is incredibly rare as most of the [[Atonalis]] transformations happen after battles, this distinction preserves the meaning of becoming an [[Atonalis]].
+
+For elite combatants, Mind Break does not remove the player's turn. Their personality does not disappear; it becomes maladaptive and suddenly all their undeveloped [[Legend Trait]]s take full force. This is why Mind Break can paradoxically make a [[Legend]] temporarily more powerful at the cost of everyone else.
+
+### Capture and Subjugation
+
+Capture is determined primarily through the relationship between **Integrity and Composure.** A combatant with no Integrity left is physically incapable of continuing. A combatant with significant Integrity remaining but catastrophically depleted [[Composure]] may still be physically functional while no longer possessing the will or tactical coherence to continue resisting.
+
+This opens the possibility of **Subjugation**. An enemy may be captured, disarmed, forced to surrender, pinned, bound, sedated or driven from the battlefield. This becomes especially important when fighting humans, valuable enemy [[Legend]]s, or [[Pure Light]] creatures intended for domestication rather than extermination. And this is the primary way that an [[Atonalis]] intends to end combat, the sole exception are [[Carnalix]] but every single other [[Atonalis]] will use capture after breaking the [[Composure]] without fully depleting [[Integrity]].
+
+A formation with 60% [[Integrity]] and no effective [[Composure]] may be easier to capture than one with 15% Integrity and enormous morale.
+
+_The first has bodies without will. The second has almost nothing left except will._
+
+### Combat Scale
+
+The Symphony of War changes abstraction according to the number of people involved. A duel between two [[Legend]]s cannot evaluate casualties according to the same arithmetic as a battle between forty thousand soldiers.
+
+| Scale                    | Size         | Primary Tactical Unit                                  | What Dominates                                                                                |
+| ------------------------ | ------------ | ------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| **Elite Engagement**     | 1–10         | Individual combatants                                  | [[Death Knell]], personal [[Composure]], [[Legend Trait]]s and direct relationships          |
+| **Micro Engagement**     | 11–100       | Individuals and small sections                         | Named individuals remain highly visible; retainers begin to function as grouped elements      |
+| **Formation Engagement** | 101–999      | Companies, squads and elite detachments                | Military sections become the primary abstraction; [[Legend]]s and specialists stay individual |
+| **Medium Army**          | 1,000–10,000 | Military sections and formations                       | Doctrine, Stance, command structure and morale; ordinary casualties evaluated proportionally  |
+| **Grand Army**           | 10,001+      | Large formations, strategic sections and command cores | Formations, elite cores, commanders, logistics and morale; [[Legend]]s remain the exception   |
+
+The intermediate Formation Engagement exists because the transition from one hundred combatants to one thousand should not be mechanically invisible. Below roughly one hundred combatants, individual positioning remains directly meaningful. Above roughly one thousand, the game increasingly abstracts ordinary soldiers into military sections, while named [[Legend]]s, elite detachments, Conductors and strategically important units remain individually meaningful pieces both during combat and in the aftermath.
+
+Scale also decides what a **Track** represents in the four-Beat Measure: an individual combatant at Elite and Micro scale, and a military section or formation above it, while named [[Legend]]s and the Elite Core always remain individual Tracks.
+
+#### Asymmetric Casualty Significance
+
+One ordinary soldier falling during a battle of twenty thousand is tragic within the fiction but strategically negligible to the battle verdict. One of two members of an elite expedition dying means half the party is dead, and it automatically transforms the meaning of victory.
+
+The larger the force becomes, the more the verdict weighs proportional losses rather than individual casualties, except for the loss of the army's Elite Core. This is further developed in the section of battle veredicts.
+
+### The Battlefield
+
+Manual battles occur across a battlefield of **16 primary combat hexes**, arranged as three horizontal lanes and five vertical columns:
+
+```BATTLEMAP
+TOP: F F N E E
+MID: F F N N E E
+BOT: F F N E E
+```
+
+- **F:** Friendly Formation Territory.
+- **N:** Neutral Ground. Middle contains 2 Hexes due to Hexagons.
+- **E:** Enemy Formation Territory.
+
+The three lanes are **Top**, **Middle** and **Bottom**. Each army therefore possesses six native formation positions, three in the front rank and three in the rear rank, while the three central hexes form the contested neutral column. From each army's perspective, the front rank is **Rank 1** and the rear rank is **Rank 2**:
+
+```ARMY
+Rear  Front
+ F      F
+ F      F
+ F      F
+```
+
+This creates a battlefield of 6 friendly hexes, 4 neutral hexes (2 in the very center) and 6 enemy hexes: **16 hexes in total.** Positions are interpreted through Rank Proximity, allowing abilities to target the nearest enemy, forward allies, rear supports, exposed flanks or particular lanes without turning the battlefield into a conventional real-time tactics map.
+
+The six native positions are ground the army may use, not slots it must fill. How many it occupies when the battle begins depends on its Stance and on the terrain.
+
+#### Why Neutral Ground Matters
+
+The neutral column is not an aesthetic divider. It represents the actual terrain over which contact occurs. If two armies encounter one another across an open plain, the neutral column is the ground separating their lines. If armies meet across a river, the entire neutral column may be the river, favoring specifically from the center the defending army:
+
+```RIVERS
+F F R E E
+F F R R E E
+F F R E E
+```
+
+If only one ford exists, perhaps only the Middle neutral hex permits normal crossing, and the entire battle changes. The attacking force must now decide where to cross, whether to force the ford, whether to prepare ranged pressure, whether to move elite units first, whether to use magic to alter terrain, whether to threaten another lane as bait, and whether to accept Stance penalties while crossing. A single ford is also a chokepoint: units waiting to cross are forced to stack, and they suffer for it.
+
+_The defender does not merely receive "+20% river defense." The physical battlefield explains where that advantage comes from._
+
+#### Spatial Adjacency
+
+Hex adjacency determines formation support, guarding, Chord cooperation, movement, melee reach, healing access, line protection, elite screening, flanking, Stance Stability, collateral damage and Rank Proximity.
+
+A unit in the friendly rear-Middle hex is not equivalent to a unit in the friendly front-Top hex. A healer displaced one hex may suddenly lose access to the ally they were supporting. A Vanguard pushed backward may expose artillery. A collapsing Top lane may allow enemy units to establish presence inside friendly territory.
+
+Spatial control therefore becomes one of the central currencies of battle. Position determines more than range; it determines whether a card is safe to play.
+
+#### Rank Proximity
+
+Many abilities do not select arbitrary targets. They operate through **Rank Proximity**, striking according to spatial rules:
+
+- Nearest enemy, or furthest enemy.
+- Same lane.
+- Adjacent ally.
+- Forward-most combatant, or rear-most combatant.
+- All units touching Neutral Ground.
+
+This becomes particularly important during Mind Break. A volatile character may possess enormous destructive power while losing the fine control required for selective targeting. Their attack may simply detonate against the nearest valid position, and if the enemy has already been displaced, that blast can reach allies.
+
+#### Stacking
+
+Two friendly units can occupy the same hex, but while they share it they suffer **massive penalties to both attack and defense.** Soldiers crowded onto the same ground obstruct one another's weapons, footing and lines of sight; they cannot strike at full strength and cannot properly defend themselves.
+
+Stacking is sometimes deliberate and sometimes forced, but it is never free of consequences. This is what makes chokepoints dangerous. A narrow pass, a single ford or a blocked flank compresses an army into fewer hexes than it has units, and every crowded hex becomes a weakness the enemy can strike.
+
+#### Skirmish and Forced Retreat
+
+When two opposing forces share the same hex, they are **engaged** in a **Skirmish**: the battle over ground itself, the immediate contest of Integrity that decides who remains standing on the hex.
+
+The unit that loses the Integrity fight over a hex is **forced to retreat** one hex back toward its own side, and the victor holds the ground. The defeat is never only physical. Losing the Skirmish costs [[Composure]], and being pushed out of the hex begins driving the formation toward [[Stance Break]], which costs [[Composure]] again. [[Composure]] starts draining from several directions at once, and the weakened unit is more likely to lose its next Skirmish as well.
+
+Where the retreating unit lands matters:
+
+- **An empty hex:** The unit falls back into it.
+- **A hex held by an ally:** The unit stacks with that ally, and both suffer the stacking penalty.
+- **No hex left to retreat into:** When the unit is already at the rear edge of the battlefield, or every path back is impassable or held by the enemy, it flees the battlefield in a **rout.**
+
+This is where Integrity, [[Composure]] and Stance stop behaving as three separate meters and become one interconnected system. A lost fight over ground is simultaneously a wound, a blow to morale and a fracture in the formation.
+
+Contact and verdict happen at different moments. Two forces become **engaged** on the exact [[Beat]] they make contact, and from that Beat onward they are pinned, trading blows and wearing one another down. The verdict of the Skirmish, who holds the ground and who is pushed back, is pronounced during Assessment at the end of the Measure, after every committed blow has landed. The full timing of contact, collision and engagement is described in Movement and Contact.
+
+#### Encirclement
+
+Encirclement is devastating because of these rules, not because of an arbitrary debuff. An enveloping force closes the hexes around its target and wins Skirmishes from several directions. Each lost Skirmish drives units back into hexes already occupied by their allies, where they stack and suffer the stacking penalty. Crowded and weakened, they lose the next Skirmish more easily, retreat into even more crowded ground, and bleed [[Composure]] and Stance Stability with every step back. When no hex is left to retreat into, the encircled force routs however possible, and if there is no way back it causes a complete surrender for Subjugation or becomes annihilated.
+
+Forced retreat is what makes encirclement possible. Stacking is what makes it lethal.
+
+_The penalties of encirclement are the geometry of too many soldiers in too little space. As an historical example, at Cannae, the surrounded army was compressed until its soldiers could no longer raise their weapons despite being greater in numbers._
+
+### Stance
+
+A **Stance** is the tactical geometry through which an [[Orchestral Formation]] converts positioning into advantage. It represents doctrine, not merely where soldiers stand.
+
+Spearhead, Line and Crescent are the three foundational Stance families. They are not the only ones, but they are the most common, especially in the early game. Other doctrines, such as Shock and Cavalry Envelopment, develop throughout the [[Ages]].
+
+#### Spearhead — >
+
+A concentrated offensive Stance that narrows force toward a point of penetration.
+
+- **Advantages:** Breakthrough, charge power, concentrated damage, pressure against broad defensive lines, and rapid occupation of Neutral Ground.
+- **Weakness:** Vulnerable to envelopment. Its concentrated, overlapping units are exactly what an encirclement exploits.
+
+#### Line — |
+
+A broad stabilizing Stance that distributes strength across the formation and denies easy encirclement.
+
+- **Advantages:** Stance stability, mutual support, broad frontage, resistance to flanking, and strong control against Crescent formations.
+- **Weakness:** Vulnerable to concentrated penetration.
+
+#### Crescent — <
+
+An enveloping Stance that accepts pressure toward the center while creating strength around the sides.
+
+- **Advantages:** Punishes concentrated attacks, threatens flanks, generates positional traps, and creates encirclement opportunities, including against enemy elites.
+- **Weakness:** Vulnerable to a disciplined broad advance that refuses to overcommit into the center.
+
+#### The Stance Triangle
+
+The foundational relationship is:
+
+text
+
+```text
+>  defeats  |
+|  defeats  <
+<  defeats  >
+```
+
+**Spearhead defeats Line. Line defeats Crescent. Crescent defeats Spearhead.**
+
+The logic is spatial. A concentrated spear can rupture a broad line. A disciplined line can refuse the invitation of an enveloping Crescent and pressure its weaker center and wings simultaneously. A Crescent can absorb an aggressive Spearhead and close around it. The classic inspiration is Hannibal at Cannae: a force encouraged to drive forward into an apparently yielding center can discover that its success was itself the trap.
+
+#### Deployment — The Initial Advance
+
+The Stance picked at the strategic layer, the same one Auto-Resolve evaluates, is the formation's **initial advance**: the geometry in which it deploys when manual combat begins. It is where the formation starts, not a shape it is locked into.
+
+Not every friendly position has to be filled, and not every row is fixed. The most common example is the Spearhead. It begins with its two sides, Top and Bottom, converging toward its point with units overlapping, concentrated rather than spread across all six positions. As it develops, by moving the entire section forward, it covers more of the map and opens room for strategy. Until then, its overlapping units carry the stacking penalty, so a Spearhead that stalls is weakest precisely where it is most concentrated.
+
+Terrain shapes deployment as well. If a natural blocker stands inside friendly territory, such as a cliff, a lake or a collapsed keep, units stack wherever they can actually stand at deployment. Filling all six positions is therefore not the optimal strategy, and often not even possible, because not every battlefield is an open plain.
+
+#### Stance in Auto-Resolve and Manual Combat
+
+Stance behaves differently in each layer of the system:
+
+| Layer             | How Stance Behaves                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Auto-Resolve**  | A strong rock-paper-scissors strategic matchup. A correct matchup provides a substantial advantage; a bad one can make a numerically superior army perform dramatically below expectation. The system weighs selected and enemy Stance, commander intelligence, reconnaissance, terrain, composition, mobility, technology, [[Magical Relic]], bindings and their interactions, and whether the army correctly identified the opponent's posture. |
+| **Manual Combat** | Stance does **not** automatically determine victory. It sets the initial advance and produces positional bonuses while the formation successfully maintains its intended shape. From there the formation develops through play, and a player can defeat a counter-Stance by maneuvering better.                                                                                                                                                   |
+
+In manual combat, a Spearhead may gain forward pressure, breakthrough and Neutral Ground occupation bonuses. A Line may gain mutual guard, reduced displacement and defensive [[Composure]]. A Crescent may gain flanking pressure, countercharge bonuses and envelopment effects.
+
+_Auto-Resolve simplifies tactical genius into the strategic Stance interaction. Manual combat allows tactical genius to emerge through actual play._
+
+#### Stance Break
+
+Every formation possesses **Stance Stability**, which is damaged by lost Skirmishes and forced retreats, stacking, forced displacement, flanking, loss of critical positions, elite casualties, Conductor disruption, severe [[Composure]] Shock, terrain incompatibility, friendly fire, being surrounded, formation sections entering Mind Break, the collapse of adjacent formations, and failed movement commitments.
+
+When Stance Stability collapses, the formation suffers a **[[Stance Break]]**: it can no longer preserve the geometry required for its doctrine. Its Stance bonuses disappear and its protected geometry is lost. Units may be displaced. Guard relationships break. Previously shielded ranks become targetable. Prepared attacks may lose their safe channel, and cards dependent upon exact adjacency become harder or impossible to resolve without repositioning or exploding in [[Discordant Interference]].
+
+Stance Break does not remove the player's turn and does not arbitrarily delete cards. The player retains agency, but the battlefield has become worse. And, critically, **Stance Break inflicts major [[Composure]] damage to the entire battlefield** and detunes every unit of the broken formation. The soldiers realize the plan has stopped working, and it can be heard in everything they cast.
+
+This is a governing rule throughout the Symphony of War:
+
+**Failure creates dangerous decisions rather than periods in which the player is forbidden from playing.**
+
+#### Stance and Panic
+
+The relationship between Stance and [[Composure]] is intentionally circular. Strong Stance preserves [[Composure]] because soldiers understand their role; high [[Composure]] preserves Stance because soldiers maintain discipline. Damage either and the other becomes vulnerable.
+
+This produces battlefield cascades. An enemy does not necessarily have to destroy a Line formation. They may kill one important elite officer. That causes [[Composure]] Shock. A nearby section panics, loses its Skirmish and is forced back into a hex already held by its allies. That breaks adjacency and stacks two sections under the crowding penalty. The Line loses Stance Stability. The Stance Break causes another army-wide Composure Shock. Three formations begin routing, and the army collapses.
+
+_One death may therefore matter far beyond its [[Integrity]] damage._
+
+### Terrain
+
+Terrain modifies the sixteen-hex battlefield directly and what elements are naturally present that can be overcharged or used in combat:
+
+- **A river** may occupy Neutral Ground, costing two Steps to cross.
+- **A ruined wall** may make one Neutral hex impassable.
+- **High ground** may exist only on the Top lane increasing the reach of artillery.
+- **Snow** may interfere disproportionately with rapid movement, reducing the Pace of Swift units by one Step, while stabilizing slower, patiently channeled actions with +1 Hold on Legato workings.
+- **Dense forest** may obscure lines of attack and impose a Veil that conceals intentions until a Seer's Clarity pierces it.
+- **A narrow pass** may compress frontage, forcing units to stack and turning the pass into a chokepoint.
+- **Natural blockers** inside friendly territory, such as a cliff, a lake or a collapsed keep, may remove deployment positions entirely, forcing units to stack wherever they can stand.
+- **[[Stable Harmonic Channels]]**, [[Coherence]] and [[Leylines]] may raise the Hold Limit of workings channeled through them and let Legato magic anchor a Beat sooner.
+- **A Dissonant region** may detune every unit standing inside it, increase [[Discordant Interference]] and distort otherwise reliable sequences.
+
+Terrain therefore affects Stance matchups, deployment, stacking, movement, timing, Hold, Chord reliability, Abjuration, targeting, Clarity and Neutral Ground access.
+
+#### Terrain and Auto-Resolve
+
+In Auto-Resolve, terrain bends the Stance triangle. A theoretically correct Stance may become poor on unsuitable terrain. A Crescent requires room to bend, so a narrow bridge may prevent it from enveloping at all. A Spearhead may be devastating through a ford. A Line may become exceptionally difficult to dislodge from a fortified ridge.
+
+Auto-Resolve therefore evaluates:
+
+**Stance × Composition × Terrain × Commander.**
+
+The rock-paper-scissors triangle remains the strategic foundation. Terrain bends it.
+
+### The Elite Core
+
+Every army above Elite scale possesses an **Elite Core**: its [[Battle Conductor]], important [[Legend]]s, command staff, personal guards, high-tier [[Spellweaver]]s and other strategically irreplaceable specialists.
+
+The Elite Core is not simply another military section. It represents the nervous system of the army, and often the most devastating losses for [[Civilization]].
+
+#### The Battle Within the Battle
+
+Elite Cores interact through a chess-like secondary contest. The ordinary formations contest territory, Stance and attrition; the Elite Cores contest the command structure. They may hunt one another, screen one another, threaten Conductors, avoid unfavorable duels, protect wounded [[Legend]]s, force enemy elites away from important formations, or attempt decisive encirclement.
+
+An enemy elite placed under credible, unavoidable threat enters **Check**. When the threatened piece is the Conductor, it is **Conductor Check**. The core must respond through withdrawal, screening, interception, counterattack, reinforcement or acceptance of the fight.
+
+When retreat, screening, reinforcement and safe repositioning have all been removed and the core becomes isolated, the situation approaches **Checkmate**. Checkmate does not magically kill the [[Legend]]. It means the battlefield has been shaped such that the elite no longer possesses a strategically safe answer and will inevitably invite Subjugation.
+
+This makes hunting the enemy leader extraordinarily powerful without turning every large battle into an assassination minigame.
+
+#### Collapse of the Elite Core
+
+Incapacitating the enemy Elite Core causes massive consequences. The army may suffer severe [[Composure]] damage, Stance Stability loss, reduced card coordination, weaker [[Chord Layering]], the loss of Conductor effects, reduced reaction intelligence, and a greater chance of rout. It must prove it can continue operating without its central organizing voice.
+
+Not every army reacts identically. An extremely disciplined army may continue fighting. A cult army might become even more fanatical after its leader dies. A decentralized military may possess secondary Conductors. Fragile armies may collapse immediately. But elite loss is always strategically meaningful in the long game outside of the immediate battle.
+
+### Battle Conductors
+
+A [[Battle Conductor]] organizes the army's tactical [[Coherence]]. Conductors influence:
+
+- Starting [[Composure]] and Stance Stability.
+- Enemy intent recognition, and the army's Clarity when the Conductor also serves as its Seer.
+- Rehearsal depth during Visualization, through their [[Crystal]] mastery.
+- **Command Bandwidth:** how many formation Tracks receive a composed Score each Measure instead of Standing Orders.
+- **Tempo Synchronization:** the carrier signal of [[Resonance]] that keeps allied Tracks In Tune and allows Ensemble Chords.
+- Card draw quality.
+- Chord [[Discordant Interference]].
+- Reaction efficiency.
+- Elite movement, retreat and rallying.
+- Auto-Resolve intelligence.
+
+In auto-resolution, Conductors use their tactical intelligence, personality, [[Legend Trait]]s and doctrine to select actions. [[Great Vanguard]]s use their decks intelligently; poor commanders may waste advantages.
+
+_A brilliant Conductor does not merely add statistics. They make the army behave more intelligently._
+
+#### Conductor Mind Break
+
+Conductors possess their own Battle [[Composure]]. If the Conductor enters Mind Break, the army does not instantly lose, but the consequences are severe. Depending upon the character, the army may temporarily inherit aspects of the Conductor's maladaptive behavior:
+
+- **An aggressive Conductor** may push units into reckless attacks.
+- **A fearful Conductor** may generate excessive defensive play, and see how to abandon the fight.
+- **A controlling Conductor** may reduce allied improvisation and spill their loss of [[Composure]] due to friendly fire and toxic behavior.
+
+Whatever the personality, a Mind Broken or fallen Conductor stops carrying the army's tempo. Synchronization falters, sounding Ensembles lose their contributors, and every Track that depended on the carrier signal drifts one step toward Detuned.
+
+A heroic recovery through the Corroded Gambit can have equally dramatic army-wide effects. The Conductor's psychology becomes strategic.
+
+### The Temporal Economy — The Four-Beat Measure
+
+The manual system does not use a conventional card-game energy bar as its primary action limiter. **The limiting resource is time.** Every combatant on the field owns the same four Beats of future, and what they do with those Beats is the decision.
+
+#### The Beat and the Measure
+
+Time is measured in battlefield [[Beat]]s, the atomic unit of [[The Eternal Symphony]]: the duration of a single deep, resting breath, the interval between a conductor's downstrokes in a slow, solemn orchestral movement.
+
+**One Measure is four Beats.** It is a single committed tactical phrase written in common time: four downstrokes of the battlefield, during which everything that was composed is performed. Every round of manual combat is one Measure, and every Measure has the same shape:
+
+**Visualize → Compose → Commit → Beat 1 → Beat 2 → Beat 3 → Beat 4 / Cadence → Abjure → Toll → Assess → Visualize again.**
+
+Visualization, Composition and Commitment happen in held time, before the first downstroke. Thinking is free, because the Score is still only imagined, and it consumes no battlefield time. Once the Score is committed, both armies perform their four Beats simultaneously, and nothing can be added to them.
+
+#### A Beat Is Not a Turn
+
+The player does not alternate actions with the enemy, and never spends one input per hex of a unit's movement. During Composition the player writes the next four Beats of every friendly piece at once: where it travels, on which Beat it arrives, which Notes it sounds along the way, what it defends and what it expects to strike at the end. Then the Score is locked, and the battlefield performs it, friend and enemy together.
+
+This is the structure of simultaneous-resolution tactics, the "we-go" model of games such as Frozen Synapse, Combat Mission or Diplomacy, married to a rhythm game: planned in held time, performed in real time at the battle's tempo. It is what makes the Symphony of War behave like a real-time strategy game conducted four Beats at a time. Movement never wastes turns, an elaborate Chord visibly consumes its caster's future, and the enemy's plan can be broken while it is being performed rather than answered after it has already happened.
+
+_The player is not taking turns against the enemy. They are writing four Beats of reality, and watching reality try to perform them._
+
+#### The Anatomy of a Measure
+
+The eight phases of the Measure are not eight turns. They are the anatomy of one four-Beat phrase, wrapped around the only part of the Measure that consumes time:
+
+| Phase                | When It Happens                | Function                                                                                                                   |
+| -------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **1. Visualization** | Held time, before Beat 1       | The battlefield, the enemy Score, Countdowns and Hold are revealed. The hand is drawn and outcomes can be rehearsed.       |
+| **2. Composition**   | Held time                      | Paths, Steps, Notes, Chords, targets, Wards and Reactions are written onto each Track.                                     |
+| **3. Commitment**    | Held time                      | The Score is locked and Sacrifice Choices are declared. The future is now promised.                                        |
+| **4. Execution**     | Beats 1–4                      | Movement, Minor Notes, channels and syncopated strikes are performed simultaneously by both sides.                         |
+| **5. Reaction**      | Interleaved through Beats 1–4  | Guards, interceptions, counters, traps, bond effects and Cascade Chains fire the moment their conditions are met.          |
+| **6. Abjuration**    | Fermata over Beat 4            | Hostile Major Notes release at the Cadence, and the player answers the ones their prepared defenses cover.                 |
+| **7. Toll**          | Immediately after the Cadence  | Burns, Wounds, hazards, Void offerings, Status Pollution and [[Composure]] shock come due.                                  |
+| **8. Assessment**    | The Measure boundary           | Skirmish verdicts, retreats, Stance Stability, Composure, Mind Break, [[Death Knell]], capture, Check and Tuning are evaluated. |
+
+The resulting battlefield immediately becomes the Visualization of the next Measure.
+
+#### The Shape of the Four Beats
+
+Each Beat carries a dramatic function, and players learn to feel it the way musicians feel a bar: **1, 2, 3… FOUR.**
+
+- **Beat 1 — Begin.** First Steps and first Minor Notes. Tetrads and long channels begin. Early contact and the first Reactions.
+- **Beat 2 — Develop.** Engagements form and channels deepen. Legato workings must already be sounding if they are to anchor by the Cadence. Interruptions become serious.
+- **Beat 3 — Last Chance.** Final Steps and final Minor Notes. It is the last realistic moment to displace a caster, invalidate a target, delay a Countdown or break a working before it resolves.
+- **Beat 4 — Cadence.** Most Major Notes release, from both sides, at once. Charges land, artillery fires, barriers complete, healing takes hold and large displacements happen. The Abjuration Window opens on a fermata over this Beat, and Toll and Assessment close the Measure.
+
+Beats 1–3 are the development of the phrase, not animation before the real attack. Movement occurs, Minor Notes establish their effects, units enter or leave engagement, guards intercept, terrain is altered, targets become invalid and workings are destabilized. When Beat 4 arrives, the battlefield may no longer resemble the future the player visualized four Beats earlier, and that is precisely where [[Absolute Certainty]] becomes interesting. The player saw what should happen. Now they must preserve enough [[Coherence]] for it to happen.
+
+#### Tracks, Notes and the Score
+
+The committed Measure is the army's **Score**. Within it, every tactical element owns a **Track**: an individual at Elite and Micro scale, a military section or formation at larger scales. Tracks are performed in parallel, so a single Measure can hold many independent Chords at once. The Vanguard's charge, the mage's barrier, the archers' suppression, a Legend's support and the formation's advance each live on their own Track inside the same four Beats.
+
+Every Track obeys four rules:
+
+- **One Major Note per Measure.** A Track has one principal intention: advance and strike, raise a barrier, heal someone, suppress a lane, reform the Crescent, break an enemy's Composure, cast the Tetrad. Everything else on the Track exists to make that intention succeed. Without this limit, a four-Beat Measure would collapse back into four consecutive attacks.
+- **One Note per Beat.** A voice sounds one note at a time. Minor Notes, Ensemble contributions and Wards each occupy a Beat of the Track that performs them.
+- **Steps are not Notes.** Ordinary movement is scheduled on Beats alongside the Track's Notes, limited by the unit's Pace and by the Footing of what it is casting. Repositioning never consumes the Major Note unless the movement itself is the intention.
+- **Reactions are primed, not scheduled.** A Track's prepared Reactions occupy no Beats. They fire whenever their conditions are met.
+
+Named [[Legend]]s and members of the Elite Core are always composed directly. Formation Tracks are composed up to the Conductor's **Command Bandwidth**, and the rest follow **Standing Orders**, the doctrine-driven behavior of their [[Orchestral Formation]] (Hold, Advance, Guard, Screen, Pursue, Volley), performed exactly as Auto-Resolve would perform them. Paths and Standing Orders persist from one Measure to the next until changed, so a Grand Army does not need to be re-commanded from nothing every four Beats.
+
+Two exceptions break the rule of one Major Note, and both are double-edged: Tempo Fever, whose Overbeat lets a synchronized Spotlit Track sound a syncopated Staccato Unison and, in Resolution Climax, carry finishing Majors, all under Interference the Fever itself amplifies; and a Mind Broken elite's Corrupted Instinct Cards are compulsions rather than compositions, ignoring the limit entirely.
+
+_One Measure, one intention. The question is never "what can this unit do next?" It is "what is this unit trying to accomplish in the next four Beats?"_
+
+#### Countdown Counters
+
+Every declared action displays a **Countdown Counter**: the number of [[Beat]]s remaining before it resolves. An enemy displaying a Counter of **4** will strike at this Measure's Cadence. A Counter of **2** is a syncopated strike landing on Beat 2. A Counter of **8** resolves at the Cadence of the next Measure, and a boss working displaying **16** gives the player four Measures to stop it. Counters advance by one with every Beat, for every combatant at once; only tempo effects move them faster or slower.
+
+#### The Redraw Bell
+
+You don't have literal access to everything you've ever learned at every instant of extreme danger. What rises into tactical availability changes under pressure. This is why cards are limited, and you may redraw it against passing time. Focusing and ordering your thoughts to remember consumes time, it doesn't stop in real life, and it doesn't in [[Arcanoria]] either.
+
+Thus, the player may ring the **Redraw Bell** during Composition to discard every uncommitted card and draw a replacement hand. Composition itself is free, but searching memory is not: **each ring turns the next Beat of every friendly Track into a Rest.** No Note may begin on a Rest. Steps already ordered still happen, because soldiers can keep walking while their commander searches for an answer, and primed Reactions stay primed. The enemy Score, already committed, performs all four of its Beats regardless. The Bell may be rung twice per Measure at most; the second ring rests Beat 2 as well.
+
+The cost is structural rather than numerical. One ring makes a Tetrad impossible this Measure. Two rings leave room only for Dyads and Unisons. There is no free cycling for the perfect hand.
+
+The Redraw Bell creates one of the central deckbuilder dilemmas. You know precisely what the enemy intends to do. You simply did not draw the answer you wanted. Do you accept an imperfect solution, or spend precious time searching for something better?
+
+_Every search for a better answer brings the enemy closer to theirs._
+
+#### Tempo and Syncopation
+
+Terrain, magic and status effects manipulate where Notes fall inside the Measure, and the Countdowns that display them:
+
+- **[[Resonance]]** synchronizes allied Tracks through the Conductor's carrier signal and makes Ensemble Chords possible. **[[Dissonance]]** desynchronizes and detunes them.
+- **Ritardando** delays a Note by one Beat. On an ally, it buys the single additional moment required to survive. On an enemy, it can push a working past its Hold Limit and into Collapse.
+- **Accelerando** pulls a Note one Beat earlier, forcing a prepared sequence toward premature resolution. Any Minor Note that has not yet sounded when its Major Note is pulled forward is left unresolved.
+- **Disruption** attacks delay an enemy Countdown by a single Beat.
+- **Fermata** modulation sustains a working and raises its Hold Limit.
+- **Snow** slows rapid movement while stabilizing actions already being patiently channeled.
+
+Each [[Soul-Key]] rhythm expresses itself through its own tempo character: staccato, legato, polyrhythm, ritardando or accelerando. Quick attacks protect the channel of artillery. Utility actions displace an ally on Beat 3, immediately before a massive [[Chord Layering]] Stack resolves. Setup cards establish, one Measure earlier, the harmonic conditions that the following Measure's Tetrad requires.
+
+_The battlefield becomes syncopation. Fast units create space. Slow units exploit it._
+
+#### Deterministic Danger, Probabilistic Tools
+
+Enemy intent is deliberately transparent. The draw pile is not. This is the central mathematical tension of Symphony combat.
+
+The enemy may display **32 incoming damage in 2 Beats.** The player's current hand may contain **15 Guard.** There is no uncertainty about the threat. The uncertainty comes from the tools. The player must choose:
+
+- Take the damage so an offensive sequence can end the battle earlier.
+- Spend a defensive resource.
+- Displace the target.
+- Break their own Stance to move someone out of danger.
+- Ring the Redraw Bell and surrender Beats of their own Score.
+- Race the enemy and kill them first.
+- Make the enemy's working collapse before it can resolve.
+- Make a Sacrifice Choice through desperate magic.
+- Allow a [[Legend]] to enter [[Death Knell]], or to enter Spiraling because the corrupted cards might produce the power required to survive.
+
+This is the meeting point between deterministic danger and probabilistic survival.
+
+### Movement and Contact
+
+Movement is planned once and performed over time. A unit is given a path during Composition, and it walks that path Beat by Beat while the Measure plays. The player never spends a separate turn per hex, and never clicks Move five times to reach the enemy.
+
+#### Pace and Steps
+
+Every tactical element has a **Pace**: the number of Steps it may take in one Measure. A Step moves it one hex and occupies one Beat.
+
+| Pace         | Steps per Measure | Typical Units                                                              |
+| ------------ | ----------------- | -------------------------------------------------------------------------- |
+| **Heavy**    | 1                 | Heavy infantry, siege, artillery crews, burdened or exhausted sections     |
+| **Standard** | 2                 | Line infantry, most [[Legend]]s and [[Spellweaver]]s                       |
+| **Swift**    | 3                 | Cavalry, skirmishers, recognition scouts, quickened elites                 |
+
+When a path is drawn, its Steps are placed on the earliest Beats its Footing allows. The player may drag any Step to a later Beat to time an arrival: to reach a hex on Beat 3, after an enemy volley has passed, or to enter Neutral Ground at the exact moment an ally's barrier completes. A path longer than the unit's Pace continues automatically in the following Measure until it arrives or is changed.
+
+The battlefield is deliberately compressed into sixteen meaningful hexes rather than a sprawling map. A Standard unit in the front rank can reach Neutral Ground and make contact within a single Measure. Crossing the whole Middle lane, from the friendly rear rank to the enemy rear rank, takes three. Units reach meaningful positions in one Measure, while deep penetration still demands real effort.
+
+Pace is modified by the battlefield and the body: a river in Neutral Ground costs two Steps to cross, Snow costs Swift units a Step, [[Death Knell]] reduces any combatant to a single Step, a Spearhead whose geometry holds gains a Step into Neutral Ground, and engaged units cannot Step away at all.
+
+#### Footing — Moving While Casting
+
+Every Major Note carries a **Footing** that defines how its performer may move while its Chord is sounding. A Chord's Footing is the strictest among its Notes, and every Tetrad is at least Braced.
+
+| Footing      | Movement Allowed                                                                                   | Typical Actions                                                                          |
+| ------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Free**     | Steps on any Beat, including the Beat of resolution.                                              | Sword strikes, quick ranged attacks, Staccato magic, most Vanguard Arts.                 |
+| **Braced**   | Steps allowed early, but the performer must stand still on the Beat before resolution and on the Beat of resolution. | Spear walls, aimed shots, mid-sized Legato workings, Triads and Tetrads.  |
+| **Anchored** | No Steps from the Beat the Chord's first Note sounds until it resolves.                           | Heavy Legato barriers, artillery magic, ceremonial [[Spellweaving]], great Tetrads, Hyper Chords. |
+
+Movement granted by the Major Note itself, such as the impact Step of a Charge, is part of its resolution and not a Step. Being displaced while Braced or Anchored is an **Interruption**: the Chord gains [[Discordant Interference]], and if its geometry depended on that position, its Major Note may become impossible to resolve.
+
+Movement and magic are therefore one system. The more of the future a working demands, the more firmly its caster must stand inside it.
+
+#### Exceptional Movement
+
+Ordinary repositioning belongs to the geometry of execution. Movement that is itself the intention becomes the Track's Major Note:
+
+- **Charge:** one additional Step, Impetus on contact and an impact at the moment of collision. Piercing Charge is a Charge.
+- **Rush:** Pace doubled, up to two Steps per Beat, and no other Notes on the Track.
+- **Withdraw:** breaks engagement and falls back up to two hexes without the [[Composure]] loss of a forced retreat.
+- **Teleport and spatial displacement:** relocation that ignores paths, usually through [[Void]].
+- **Reform:** changes the formation's Stance, performed by a Conductor or formation Track.
+
+Moving one hex while preparing a sword attack is normal. Sprinting across half the battlefield is a Rush. Breaking away from a losing fight is a Withdraw. Reforming the whole army's geometry is a Major Note for the Measure.
+
+#### Simultaneous Resolution
+
+All Steps scheduled on the same Beat resolve at the same time. No side moves first; the resulting geometry is determined from the complete set of intentions:
+
+| Situation                                       | Result                                                                                                                                                |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A unit enters an empty hex                      | It occupies the hex.                                                                                                                                  |
+| A unit enters a hex vacated on the same Beat    | It takes the vacated ground, unless a Reaction intercepts it.                                                                                         |
+| Two friendly units enter the same hex           | They **stack**, and both suffer the stacking penalty.                                                                                                 |
+| Two friendly units exchange hexes               | They pass through one another in a Rotation.                                                                                                          |
+| Two hostile units enter the same empty hex      | Neither arrives first. Both enter, and they are engaged in a **Skirmish** over that hex.                                                              |
+| A unit enters a hex held by a stationary enemy  | It is engaged with the defender in a Skirmish over the defender's hex.                                                                                |
+| Two hostile units try to exchange hexes         | They cannot pass through one another. Neither completes the Step, and they meet at the seam in a **Clash**: a Skirmish fought across the shared edge. |
+| A path runs into contact before its destination | The unit stops at contact, and its remaining Steps are lost for the Measure.                                                                          |
+
+A Clash resolves exactly as a Skirmish: the loser is forced back one hex from its own position, and the victor may take the vacated ground. Because Skirmishes can be fought inside a hex and across its edges, an enveloping force can contest a target from several directions at once, which is what makes Encirclement possible.
+
+A path broken by unexpected contact is a failed movement commitment. It damages Stance Stability, and any Note that depended on reaching the destination may be left unresolved.
+
+#### Engagement and Skirmish Attrition
+
+Contact has immediate consequences on the Beat it occurs:
+
+- Engaged units are **pinned**. They cannot Step out of the Skirmish except through Withdraw, or by losing it.
+- Guard relationships and the mutual protection of a Line activate.
+- Ranged and channeling units caught in melee suffer penalties, and Notes that require an unengaged performer become impossible.
+- On every Beat after contact, both sides inflict **Skirmish Attrition**, the steady exchange of blows over the ground, modified by stacking, flanking, Stance and Impetus.
+
+The verdict of the Skirmish waits for Assessment. The side that suffered the greater **Pressure** over the Measure, the Integrity it lost inside that Skirmish weighed against the strength it entered with, loses the ground and is forced back. If the difference is slight, the Skirmish holds and continues into the next Measure.
+
+Contact is immediate and spatial. Consequence is systemic, and arrives when the Measure closes.
+
+#### Interception and Overwatch
+
+Movement is a trigger. Units may prime Reactions that answer it: an **Intercept** steps into the path of an enemy entering an adjacent hex and forces the engagement early, an **Overwatch** fires on the first enemy that enters a watched lane, and a **Bond Guard** throws a bonded ally in front of a blow. These resolve inside the Beat of the movement that triggered them, before that Beat's Notes sound.
+
+#### Example — Five Turns of Walking, Removed
+
+A Vanguard begins in the friendly rear rank of the Top lane. Visualization shows the enemy Spearhead advancing through the Middle and an enemy mage preparing a working with a Counter of 4.
+
+Under a turn-based model, the Vanguard would walk to the front rank, walk to Neutral Ground, approach, prepare, and finally strike: five turns for a single intention. Under the four-Beat Measure, the player composes it once:
+
+- **Beat 1:** Step, rear rank to front rank.
+- **Beat 2:** Step, front rank to Neutral Ground.
+- **Beat 3:** [[Crystal]] Minor Note, stabilizing the charge.
+- **Beat 4:** Piercing Charge, carrying the Vanguard into the enemy front rank with impact on collision.
+
+Commitment locks it. On Beat 1 the Vanguard advances. On Beat 2 it enters Neutral Ground; had an enemy entered on the same Beat, the Skirmish would begin there. On Beat 3 the Crystal stabilization manifests while the Vanguard is already in position, making the Chord harder to interrupt. On Beat 4 the Charge lands at the Cadence, alongside everything else the Measure promised.
+
+The player planned it once. The character physically executed it over time.
+
+_Movement has time. It does not waste turns._
+
+### Visualization and Enemy Intent
+
+Every Measure begins with **Visualization**, the mechanical manifestation of [[Crystal]] and [[Absolute Certainty]]. Before a single Beat is performed, the next four Beats of the battlefield are displayed with unusual clarity, and the player can preview the outcome of their planned Score before committing it.
+
+The player sees:
+
+- The enemy's committed Score: every hostile Major Note with its Beat, Countdown Counter, targeting logic and expected damage, and the immediate aftermath of hostile spells: Burns, displacement, Status Pollution and [[Composure]] shock.
+- Predicted movement with the Beat of every Step, engaged hexes and imminent contacts.
+- Current Stance, terrain, status conditions, Tuning and Hold.
+- **Threats:** intentions the enemy is telegraphing for future Measures, such as a boss working counting toward a distant Cadence.
+- The immediate result of proposed cards: displacement, damage, shielding, Composure changes and harmonic interaction.
+
+The Score is displayed as a sequencer: four Beat columns, one row per Track, both armies laid against each other, with ghost paths on the map numbered by the Beat on which each Step lands. Composing is writing notes onto that grid.
+
+_A catastrophic attack is frightening not because the game hides it. It is frightening because the player has been watching it approach for four Beats and still may not have found a sufficient answer._
+
+#### Rehearsal
+
+While composing, the player can **rehearse** the Measure: scrub through Beats 1–4 and watch both Scores perform together, with every predicted contact, displacement, damage, shield, Composure change and harmonic interaction. How deeply the rehearsal sees depends on the [[Crystal]] mastery of the commanding Conductor, from the Cadence result alone, to the full Beat-by-Beat performance, to the first links of Reaction chains, and at the summit, complete Cascade Chains and every point where a committed working would collapse.
+
+Crystal shows the future the player is about to write. It does not show what the enemy is hiding; that belongs to [[Luminance]].
+
+#### Intent Is Certain. Tactics Are Not.
+
+Visualization anchors enemy intent in clarity, but it does not reveal everything. **Intent is truthful, but intent is not complete tactical understanding.**
+
+The player may know that an enemy Vanguard will charge the foremost position for thirty-two Integrity damage in two Beats. Visualization does not automatically say that the apparently exposed support unit was positioned there as bait, that retreating into another lane creates an artillery angle, or that the enemy Conductor has learned that the player habitually answers charges with the same repositioning card. It truthfully shows that the support unit is vulnerable. It does not say: **THIS IS BAIT.**
+
+Intelligent enemies do not cheat by changing an already committed action after seeing the player's final input. Instead, intelligent Conductors remember behavior, recognize patterns and choose future intents based on what the player has demonstrated. They can bait, feint, threaten one lane while preparing another, sacrifice position, avoid obvious traps, and use apparently inefficient actions to force predictable responses.
+
+That honesty has a precise boundary. Everything committed into the current Measure is **Confirmed**: framed in gold, truthful and unchangeable. Threats for future Measures are **Projections**: they show what the enemy appears to be preparing, and an intelligent Conductor may abandon a Projection, or display one purely as a feint, until the moment it is committed. A Confirmed intent is a promise. A Projection is a posture.
+
+Deterministic information does not remove uncertainty. It relocates uncertainty from _what the enemy is doing_ to _whether the player's available tools, positions and predictions are sufficient to answer it._
+
+_Enemy intent remains honest. Enemy strategy does not have to be obvious._
+
+#### Clarity — Luminance and the Seer
+
+Visualization belongs to Crystal: it shows what is committed. **Clarity** belongs to [[Luminance]]: it shows what is true beneath it. Luminance is information itself, light that refracts, packages and transmits, and in battle it becomes precise weak-point identification, the true Core of a Chord, the removal of uncertainty from targeting rules, and the difference between a genuine commitment and a merely threatened possibility. Higher Clarity shows far more than the immediate attacks and the aftermath of enemy spells, and it is the army's answer to obfuscation.
+
+Every army designates a **Seer** at deployment: its recognition scout, its [[Battle Conductor]] or its second-in-command. The army's Clarity is the Seer's Luminance mastery:
+
+| Clarity | Seer's [[Luminance]] | What Becomes Visible                                                                                                                                                                                |
+| ------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0**   | None                 | Baseline Visualization: hostile Major Notes, their Beats, targeting logic and expected damage, movement, and the immediate aftermath of hostile spells.                                            |
+| **1**   | Basic                | Hostile Minor Notes and their Beats. The remaining Hold of every enemy working: how close each one is to Collapse. Exact Rank Proximity resolution, with every tie-break shown.                     |
+| **2**   | Advanced             | The **true Core** of disguised Chords, and the load-bearing Minor Note or pivot that holds each one together. **Weak Points**, targetable for Precision bonuses. Primed enemy Reactions and their triggers. |
+| **3**   | Expert               | **Genuine or Feint:** which enemy Projections are truly intended. Sacrifice Choices declared by enemy elites, and their tier. Hostile Veils are reduced by one.                                     |
+| **4**   | Master               | **Seer's Sight:** Veils are pierced entirely, the enemy's next-Measure Projections are shown for every Track, and the exact Stabilization margin of every Hyper Chord is revealed.                 |
+
+Clarity depends on the Seer staying present and lucid. An engaged Seer, fighting for their life inside a Skirmish, loses one rank of Clarity. A Seer who is Mind Broken, in [[Death Knell]] or incapacitated takes the army's sight with them, and the next Visualization falls to Clarity 0. The Seer is therefore a piece of the Elite Core worth hunting, and worth protecting.
+
+Luminance also governs Composition itself. A Chord that carries a Luminance Note, or is performed by a [[Spellweaver]] with Advanced Luminance, may replace its Rank Proximity rule with a chosen target among the valid ones, and with Clarity 2 it may aim at a revealed Weak Point.
+
+#### Veils and Obfuscation
+
+Enemies can obstruct sight. [[Void]] shadow, [[Illusory Magic]] (the partnership of Luminance and Void), dense forest, night, fog and Dissonant regions impose a **Veil** on hexes, lanes or Tracks. Inside a Veil, the army's effective Clarity is its Clarity minus the Veil:
+
+- At effective Clarity −1, hostile intents inside the Veil appear **Unverified**. Their existence and their Beat are known; their targets and damage are not.
+- At −2 or worse, only the presence of activity on a Track is known.
+- [[Illusory Magic]] may add **Phantom Intents**, decoys indistinguishable from real intents inside a Veil. Phantoms always appear Unverified, and effective Clarity 2 exposes them, removing them from the Score.
+
+**Visualization never presents a falsehood as Confirmed.** A Veil can blind the army; it cannot make Visualization lie. When Clarity fails, the interface shows exactly what it cannot confirm, and the player decides how far to trust the dark.
+
+This is how the timeless dance of [[Luminance]] and [[Void]] reaches the battlefield: as information warfare in which one side hides and the other sees, and each is 1.5x effective against the other for a reason.
+
+#### Reactions and Cascade Chains
+
+Certain abilities operate outside the Score as **Reactions**: counterattacks, emergency guards, interceptions, ripostes, parries, reflex spells, bond-based protection and trap activation. These are part of a unit's visible rules, never hidden cheats.
+
+Reactions are primed during Composition and fire throughout Beats 1–4 the instant their conditions are met, never in a separate turn after Execution. Every Track may prime one Reaction, plus any granted by [[Strand]] mastery, [[Echoing Bonds]] and Stances such as Line. Each primed Reaction fires once per Measure.
+
+A Reaction can trigger another Reaction, creating **Cascade Chains**. An enemy advances on Beat 1. The advance triggers an Overwatch. The Overwatch wounds them, which triggers a bonded partner's protection. The partner's movement changes adjacency, and the new adjacency triggers an Intercept. A small cascade unfolds inside a single Beat, and then Beat 2 begins. A chain may run four links before the battlefield settles, further for [[Flux]]-attuned reactors whose currents carry consequence onward, and no unit may react twice within the same chain. This is what Visualization is unable to see at first glance; it requires thinking through problems.
+
+Reactions do not only answer blows. Because [[Strand]] carries memory and [[Flux]] carries emotional currents, many Reactions trigger on [[Composure]] events: an ally entering Mind Break, a bonded partner falling into [[Death Knell]], a Conductor's voice breaking. Someone who has fought beside another person for years answers their fear before it is spoken.
+
+These sequences create moments where a carefully composed battlefield suddenly erupts into rapid harmonic consequence, and they are how the battlefield reacts in real time without asking the player to issue a new order every half-second.
+
+### Symphony Cards
+
+[[Symphony Card]]s, also known as [[Spellweaving]] Music Sheets, are the literal songs of combat. Cards represent learned behavior rather than abstract abilities: a deck contains what the combatants know how to do, what they brought with them, who they have become and what condition they are currently in.
+
+Because cards represent embodied knowledge, two ostensibly similar units can develop very different decks over time.
+
+_The deck is mastery made playable._
+
+#### [[Symphony Card]] Functions
+
+| Function       | Purpose                                                                                                 |
+| -------------- | ------------------------------------------------------------------------------------------------------- |
+| **Offensive**  | Creates harm or pressure against [[Integrity]], [[Composure]] or Stance.                                |
+| **Defensive**  | Preserves [[Integrity]], [[Composure]] or Stance, including [[Abjuration Arts]].                        |
+| **Setup**      | Creates delayed advantage and the harmonic conditions later cards require to function more effectively. |
+| **Utility**    | Manipulates state, position and draw.                                                                   |
+| **Modulation** | Alters the behavior, tempo or harmonic qualities of other cards.                                        |
+
+#### Sources of the Deck
+
+[[Spellweaving]] Decks are assembled from:
+
+- Military training and [[Orchestral Formation]] doctrine.
+- Equipment, gear and expedition kits.
+- The [[Magic Arts]] unlocked through [[The Registers of Magic]].
+- The [[Civilization]]'s War Score and its [[Civic]]s.
+- The Personal Grimoires of participating [[Legend]]s.
+
+Cards are drawn into a single hand, and each card names the performers who know it. A card from a Personal Grimoire can only be played on its Legend's Track; a doctrine card can be played by any formation trained in that doctrine.
+
+#### Reading a Card in Time
+
+Every card declares how it lives inside the four Beats:
+
+- **Tempo:** Staccato, Legato, Accelerando, Ritardando or Polyrhythm, the rhythms of [[The Principles of Magic]].
+- **Role:** whether it can serve as a [[Major Note]], a [[Minor Note]], a Ward or a Reaction.
+- **Footing:** Free, Braced or Anchored.
+- **Channel:** how many Beats it must sound before it resolves. Any Legato or channeled working must sound for at least three Beats to anchor.
+- **Targeting:** its Rank Proximity rule, or a chosen target where [[Luminance]] permits.
+- **Binding:** its root binding, or Unattuned.
+
+### [[Chord Layering]]
+
+[[Symphony Card]]s may be played individually as simple actions. Their highest expression occurs through [[Chord Layering]], the ordering of several cards into a single **[[Chord Layering]] Stack** that resolves as one composed action.
+
+The combat [[Chord Layering]] Stack shares its name with the [[Spellweaving]] principle of [[Chord Layering]] in the same way Battle [[Composure]] shares its name with the Persistent [[Composure]] of the [[Soul Leitmotif]]. They are distinct systems at different scales: the magical principle governs how bindings are joined within a single working, while the combat stack governs how actions are layered and ordered within a Measure. They share a name because they do the same thing: carry a larger composition forward on a root that is already sounding with [[Coherence]].
+
+A [[Chord Layering]] Stack is built around a fundamental distinction: **the [[Major Note]] is the Core; [[Minor Note]]s are everything built around it.** This is not merely terminology. It determines how the stack behaves.
+
+#### The [[Major Note]] — The Core
+
+Every layered Chord possesses one [[Major Note]] which is the action the Chord fundamentally exists to accomplish. It determines the stack's primary purpose, primary target and targeting rule, root binding, core geometry, base damage or defense, tempo and Footing, the Beat on which it resolves, and its resolution condition.
+
+If the Chord is a spear thrust empowered by magic, the spear thrust is the [[Major Note]]. If it is a barrier layered with several magical effects, the barrier is the [[Major Note]]. If it is an enormous artillery spell, the artillery strike is the [[Major Note]]. Everything else exists in relationship to that Core.
+
+Because a Track holds one Major Note per Measure, a Track holds one Chord per Measure. The army as a whole may commit as many Chords as it has Tracks able to carry them.
+
+#### [[Minor Note]]s — [[Ornament]]s Around the Core
+
+[[Minor Note]]s modify, stabilize, redirect, expand or transform the [[Major Note]]. A [[Minor Note]] may:
+
+- Increase power or add another binding for added effects.
+- Alter tempo or extend duration in both attack and casting.
+- Expand area or change targeting.
+- Add movement or armor penetration.
+- Reduce [[Discordant Interference]].
+- Add status effects.
+- Protect the caster.
+- Alter the [[Major Note]]'s element.
+- Synchronize another combatant into the action.
+
+[[Minor Note]]s are therefore not inherently weak. A [[Minor Note]] can dramatically change a Chord. It is called [[Minor Note]] because it is **structurally subordinate to the Core**, not because its effect is insignificant. A Minor Note takes effect on the Beat it sounds, so the effects it establishes are already shaping the battlefield before its Core resolves.
+
+#### Chords in Time
+
+Chord complexity is not paid with larger numbers. **It is paid with the future.** Every Note occupies one Beat of its performer's Track, and the Minor Notes of a Chord sound on the Beats before its Major Note, so the more elaborate the working, the more of the Measure it consumes:
+
+| Chord             | Notes            | Typical Occupancy                                                         | What Remains Free                                           |
+| ----------------- | ---------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [[Unison]]        | Major only       | Beat 4, or any Beat if Staccato                                           | Beats 1–3: movement, positioning, readiness to respond      |
+| [[Dyad Chord]]    | Major + 1 Minor  | Beats 3–4                                                                 | Beats 1–2                                                   |
+| [[Triad Chord]]   | Major + 2 Minors | Beats 2–4                                                                 | Beat 1                                                      |
+| [[Tetrad Chord]]  | Major + 3 Minors | Beats 1–4: three supporting Minors culminating in the Major at the Cadence | Nothing                                                     |
+| [[Hyper Chord]]   | Several Tetrads  | Several consecutive Measures                                              | Nothing, for as long as it sounds                           |
+
+A Unison caster is flexible: they can move, guard, set up and answer developing threats until the moment they strike. A Tetrad caster has committed their entire Measure, is Braced or Anchored inside it, and is broadcasting to every Seer on the field that **something enormous will happen in three Beats.** The opponent has a whole Measure to sabotage it. Larger workings need no arbitrary energy cost to feel expensive. Their greatest cost is that they consume the future, and that is exactly what [[Absolute Certainty]] should mean.
+
+**Syncopated strikes.** Most Major Notes resolve at the Cadence. A Staccato Major Note may instead resolve on Beat 1, 2 or 3, carrying at most one Minor Note before it, because fast music has no room for ornament. Syncopated strikes interrupt, finish and punish exposure, but they are met by standing defenses rather than the Abjuration Window, and anything larger than a Dyad must wait for the Cadence.
+
+**Legato anchoring.** Any Legato or channeled working must sound for at least three Beats before it anchors, so a Legato Major Note resolving at the Cadence must begin channeling no later than Beat 2. [[Stable Harmonic Channels]] and [[Echoing Bonds]] can shorten this; nothing removes it entirely. Tempo Fever cannot: its Overbeat compresses action, not time.
+
+#### Example Chord: Piercing Charge
+
+Suppose a Vanguard prepares **[[Major Note]] — Piercing Charge.** The Chord currently does one thing: charge forward and strike.
+
+- A **[[Crystal]]** Minor is layered. Now the charge becomes structurally stabilized and harder to interrupt.
+- A **[[Resonance]]** Minor follows. Now allied movement synchronizes around the charge.
+- A **[[Strand]]** Minor follows. Now the attack gains repeating damage momentum.
+
+The final stack is still fundamentally **Piercing Charge.** That remains the Major. Everything else describes what kind of Piercing Charge it has become.
+
+In time, the full Tetrad fills its performer's Measure: Crystal on Beat 1, Resonance on Beat 2, Strand on Beat 3, the Charge at the Cadence, Braced for the final two Beats. Built as a Dyad, with only the Crystal Minor on Beat 3, it leaves Beats 1–2 free for the Vanguard to walk into position first. The player chooses between a more magnificent charge and a more flexible one.
+
+#### Commitment and [[Discordant Interference]]
+
+During Composition, cards may be arranged freely. Once the player commits the Score, the plan becomes real.
+
+**A committed card is a promise.** It must resolve according to its conditions; the player cannot simply retract a note because the battlefield changed unexpectedly. If a target dies prematurely, a formation is displaced, a required adjacent ally disappears, a harmonic prerequisite is broken, or some other event makes a committed note impossible to realize, that unresolved component becomes **[[Discordant Interference]]** which is the chaotic vibration that contaminates the working with [[Primal White Noise]].
+
+Mechanically, every unresolved Note places one **Interference** on its Chord, and so does every Missed performance, every Interruption of a Braced or Anchored performer and every Soul-Key Override. Interference wears away the Chord's Hold.
+
+Because the Major is the Core, losing it is especially dangerous. If its target disappears, its user becomes incapacitated, its required position becomes invalid or its channel is interrupted, the Chord does not quietly fizzle. It becomes **Suspended**: still sounding, still held, still seeking a resolution, with every Minor Note it already sounded now resting on nothing. A Suspended Chord has three possible futures:
+
+- **Fallback:** if the card has an adaptive targeting rule, it resolves through Rank Proximity against the nearest valid target instead, which may not be the one the player wanted.
+- **Stabilize:** in the next Composition, the player gives its Major Note a new valid target or geometry on an upcoming Beat. Each Stabilization adds one Interference. It is possible to correct a failing working, but it gets progressively more dangerous with each attempt.
+- **Ground:** the performer spends their next Beat discharging the working deliberately through their own body, taking the entire Collapse backlash themselves so that it spills onto no one else.
+
+Short, conservative stacks are therefore reliable. Long ornamental sequences are extraordinarily powerful but fragile. The larger the ornamentation surrounding the Core, the more spectacular the result, and the more catastrophic the collapse if the Core fails.
+
+_The [[Third Actor]] is not selecting buttons one at a time. They are promising a sequence to reality, and constantly deciding whether to stop at the safe answer or add one more note in pursuit of something magnificent._
+
+#### The Hold Limit
+
+No working can be held forever. Every Chord counts the Beats it has been **sounding**, from the Beat its first Note sounds, inclusive, until its Major Note resolves. Every Chord also has a **Hold Limit**:
+
+**Base Hold Limit: 4 Beats. No working sounds longer than one Measure unless something holds it.**
+
+On the downstroke of each Beat, any Chord that would sound beyond its Hold Limit turns to [[Dissonance]], and **the entire stack collapses** before its Notes for that Beat can sound. There is no partial dissonance. The moment a working outlives whatever holds it, all of it fails together.
+
+Each Interference on a Chord lowers its Hold Limit by one. Measured against the natural occupancy of each Chord, this produces the margins that make simple magic reliable and elaborate magic fragile:
+
+| Chord, resolving at the Cadence | Beats Sounding | Margin at Base Hold |
+| ------------------------------- | -------------- | ------------------- |
+| Staccato Unison                 | 1              | 3                   |
+| Dyad                            | 2              | 2                   |
+| Triad, or a Legato Unison       | 3              | 1                   |
+| Tetrad                          | 4              | 0                   |
+
+A Dyad survives two Missed notes, or a Ritardando and an Interruption. A bare Tetrad survives nothing: one unresolved Minor Note, one delayed Beat or one Missed performance, and it collapses before it can release. This is what it means for a Master-level composition to demand perfect focus and precise resolution.
+
+The Hold Limit is raised by preparation, never by luck:
+
+- **Setup:** [[Resonance Anchors]] and [[Stable Harmonic Channels]] laid in the working's hex or lane, +1 each.
+- **Modulation:** Fermata cards, +1 or +2, and Legato modulation on workings that can carry it.
+- **Other spells:** a Sustain Note performed into the Chord by another Track, +1 per contributor, or a bonded partner contributing to it as an Ensemble, +1.
+- **Certainty:** the performer's [[Crystal]] mastery, +1 at Expert and +2 at Master, and a Crystal Minor Note within the Chord, +1.
+- **Tuning:** +1 when the performer is Resonant, −1 when Detuned, −2 when Out of Tune.
+- **Execution:** a Chord performed entirely in Perfect Echo sheds one Interference.
+
+Holding is never free. Every Beat a working sounds beyond the fourth drains its performer's Battle [[Composure]], because holding one binding steady while every other note around it changes is a direct tax on the mind.
+
+Because every Note occupies a Beat, and every Beat counts against the Hold, **the Hold Limit is also the ceiling on how much a single working can carry.** To make a working hold more, something else must first be built to hold it, which is exactly how the masters of [[Spellweaving]] already work: build the perfect medium, and let the magic do the rest.
+
+#### Collapse — The Universe Resolves It With Your Own Units
+
+When a working collapses, its power does not vanish. The [[Essence Sacrifice]] has already been spent and the energy must go somewhere, so it discharges as [[Discordant Interference]] back along the harmonic channels that built it. **If a composition is not resolved by its composer, the universe resolves it, using the composer's own side as the instrument.**
+
+- **Amplitude:** proportional to everything the Chord had already sounded. A working that collapses on its first Beat sputters. A Tetrad that collapses on its third Beat detonates.
+- **Path:** the backlash strikes the performer first, then every Track that contributed a Note to the Chord, then spills by Rank Proximity onto the nearest allied positions. It never strikes the enemy, because it is not aimed at anyone. It is a debt returning home.
+- **Damage:** Integrity and Battle [[Composure]] to everyone it reaches, Stance Stability to the performer's formation, and Composure shock to every ally who watches their own magic turn on them.
+- **Pollution:** survivors take Status Pollution reflecting the failed bindings into their decks.
+
+Collapse obeys exactly the same rules on both sides of the battlefield.
+
+#### Linked Workings — The Resolution Guarantee
+
+A single Chord must resolve. A combination of Chords must resolve as a combination. When workings are linked, a Collapse does not stay where it began:
+
+- **Ensemble Chords,** built from Notes contributed by several synchronized Tracks, collapse if their owner's Major Note fails, and every contributor shares the backlash. If a contributor is displaced or falls, their Note goes unresolved and the Ensemble takes Interference.
+- **Layered workings** follow the pivot rule of [[Chord Layering]]: two Triads sharing a common binding. The pivot must still be sounding when the second Triad enters, in practice on the downstroke after the first resolves, carried across the Measure boundary by Hold. Arrive a Beat late and the caster is not layering but casting twice, at twice the cost. Arrive early and the first Triad has not yet resolved. When the pivot drops, both Chords fail together.
+- **Setup chains,** in which one working creates the conditions another depends on, such as a field of [[Stable Harmonic Channels]], a medium of fuel or a ring of [[Resonance Anchors]], leave every dependent working Suspended the moment the setup is destroyed.
+
+Hence the rule every commander learns: **if you prepare a combination, make certain it resolves no matter what.** Protect the pivot. Screen the Anchored caster. Keep the Ensemble's contributors out of reach. Keep margin in reserve. Otherwise the universe will finish the composition with your own units.
+
+#### Hyper Chords Across Measures
+
+A [[Hyper Chord]] does not fit inside one Measure, and it should not. It repeats a Tetrad like a beat across consecutive Measures, carried from one to the next through a pivot, growing until the repeated beat stabilizes into a continuous pitch, and only then releasing.
+
+- The caster is Anchored for the entire duration, and the working must hold through every Measure it spans.
+- Each intermediate Cadence is a **Stabilization Cadence** instead of a release. The caster performs the transition, and each successful Stabilization extends the Hold Limit by one Measure, four Beats, but adds one **Criticality**, narrowing the timing of every Stabilization that follows.
+- A Missed Stabilization, or any Collapse of the Hyper Chord, is a [[Static Criticality]] event: a Coherence Detonation that cascades into adjacent hexes and harms **everyone** in them, friend and enemy alike.
+
+This is where cosmic combat speaks the same four-Beat language as a skirmish. Visualization shows the countdown: **sixteen Beats before this becomes real.** And every four Beats there is still a Cadence and an Abjuration Window. The objective may not be to deal damage at all. Break one [[Resonance Anchors|Resonance Anchor]] before the third Measure. Force the caster to move. Destroy a supporting Minor Note. Pile Interference on the working until its margin is gone. Sacrifice a formation to buy one more Measure. And when it finally begins to come apart, be somewhere else.
+
+#### Silence as a Weapon
+
+The Hold Limit binds the enemy exactly as it binds the player. **Disrupting an enemy working until its own power turns to Dissonance is a way to fight without offense at all**, and against the enemy's greatest workings it is often the best way.
+
+The tools of silence:
+
+- **Delay:** Ritardando and Disruption push a working past its Hold Limit.
+- **Displace:** moving a Braced or Anchored caster interrupts them and may invalidate their geometry.
+- **Deny the target:** Withdraw, rotate or teleport the intended target away, leaving a Major Note with nothing to resolve against.
+- **Break Focus:** an Interruption against a channeling caster places Interference on the working.
+- **Cut the links:** strike an Ensemble contributor, the pivot of a layered working, or the setup it stands on.
+- **Detune:** [[Dissonance]] effects, or the fall of the enemy Conductor, lower the Hold of everything that depended on that carrier signal.
+
+Clarity turns this into a precise craft. From Clarity 1 the Seer can read the remaining Hold of every hostile working, so the player can see exactly how many Beats of delay, or how much Interference, will make it fail. And when it fails, the backlash falls on the enemy's own ranks.
+
+_The quietest victory in [[Arcanoria]] is letting an enemy finish their own song badly._
+
+### Tuning — Resonance Made Visible
+
+[[Resonance]] is the carrier wave of [[Spellweaving]] and of reality itself, the signal that keeps [[Composure]], [[Integrity]] and Stance coherent. That makes it the most important operation on the battlefield, and the easiest one to leave invisible. The Symphony of War makes it visible as **Tuning**: every combatant and formation displays a tuning needle, and its position changes how their cards behave.
+
+#### Tuning States
+
+| State           | Card Stability                        | Synchronization                                                     | Performance                                                                                         |
+| --------------- | ------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Sympathetic** | +1 Hold, as Resonant                  | Rings as one instrument with every other Sympathetic Track; may lead Ensembles | Wider timing windows; a Collapse rings through every Sympathetic Track (Resolution Climax only) |
+| **Resonant**    | +1 Hold on the combatant's workings   | Synchronized; may lead Ensembles                                    | Wider timing windows                                                                                |
+| **In Tune**     | Normal                                | Synchronized with the Conductor; may join Ensembles                | Normal                                                                                              |
+| **Detuned**     | −1 Hold                               | Loses synchronization; cannot join Ensembles                       | Narrower timing windows                                                                             |
+| **Out of Tune** | −2 Hold                               | Desynchronized; Soul-Key Conflicts become Refusals                 | Narrowest windows; [[Dissonance]] visibly pulses through the [[Soul Leitmotif]]                     |
+
+A combatant begins In Tune. Each **detuning source** moves the needle one step down and each **harmonic source** one step up, to a maximum of Resonant. Only Resolution Climax reaches beyond it: synchronized Spotlit Tracks become **Sympathetic** for as long as the Climax lasts (see Tempo Fever):
+
+- **Detuning sources:** Battle Composure at Fractured or worse, with Spiraling placing the combatant Out of Tune outright; standing outside the Conductor's synchronization, or a fallen Conductor; having overridden their own Soul-Key this Measure; their formation in Stance Break; Dissonant terrain; hostile Dissonance effects.
+- **Harmonic sources:** Battle Composure at Pristine; performing a duet with an [[Echoing Bonds]] partner this Measure; harmonic doctrines and cards of the Conductor; standing on [[Resonance Anchors]].
+
+Tuning is recalculated during Assessment, and immediately whenever a source appears or disappears in the middle of a Measure.
+
+#### Conductor Synchronization and Ensembles
+
+The [[Battle Conductor]] broadcasts the army's tempo. Tracks within their synchronization share a single pulse, which makes **Ensemble Chords** possible: a Chord owned by one Track whose Minor Notes are performed by other synchronized Tracks on their own Beats. A Vanguard's Piercing Charge can carry a mage's Resonance Minor and an archer's Luminance Minor. A healer's Stabilize can carry a bonded friend's Strand. Ensembles are how armies perform workings no single soldier could hold, and they are linked workings: they resolve together or collapse together.
+
+When the Conductor falls, is Mind Broken or loses the thread, synchronization falters. Sounding Ensembles lose their contributors, and the whole army drifts one step toward Detuned. The death of a Conductor is audible.
+
+#### Soul-Key Conflict — Override and Refusal
+
+A [[Legend]]'s [[Soul-Key]] is the home key of everything they cast. The [[Key of Attunement]] demands that intent align with the [[Fundamental Frequency]]: potency rises with unwavering purpose and falls with inner conflict. In battle, every Legend therefore carries a **Soul-Key Profile**, the intents in which their soul rings true and the intents that contradict it, derived from their [[Legend Trait]]s and their bonds.
+
+When a card or a target contradicts that Profile, such as a protector ordered to abandon the person they guard, a merciful soul ordered to strike an enemy who has surrendered, or a blow whose area would reach their own bonded partner, the card displays a cracked tuning fork, and the conflict is visible before anything is committed:
+
+- **Override:** a contradictory intent can be committed anyway. The preview shows the exact Battle [[Composure]] the Legend will lose, the Note carries one Interference, and the Legend is detuned for the Measure.
+- **Refusal:** some intents strike the [[Fundamental Frequency]] itself, and the soul will not play them. A Refused card cannot be committed while the Legend is In Tune or Resonant. It becomes available only when the Legend is Out of Tune, through Mind Break or [[Mind Control Arts]].
+
+That last rule is deliberately cruel. A Legend in crisis can do what their whole self refuses to do. It is part of what makes a Mind Break frightening, and part of what makes Co-Regulation worth the time it costs.
+
+_You can order a person to act against who they are. You will hear what it costs them._
+
+### Execution and Abjuration
+
+#### Execution — Performing the Four Beats
+
+Once committed, the Score enters **Execution**, and Beats 1–4 are performed in real time at the battle's tempo. Each Beat is a conductor's downstroke. Inside it, the Notes scheduled on that Beat sound their motifs, the game performs the chosen rhythm, and the player plays it back. This is the rhythmic minigame that has [[Arcanoria]]'s soul of a universe built on sound, and it has great mechanical effects, because performance determines how cleanly the composition manifests.
+
+The player performs the **Spotlit** Tracks: up to three Tracks chosen during Composition, displayed as the lanes of the performance. Every other Track is performed by its own combatants at Clean, exactly as Auto-Resolve would perform it. Spotlighting is the opportunity to perform the rules better than the simulation expected, and the risk of performing them worse.
+
+| Execution State  | Result                                                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Missed**       | The Note sounds poorly and places one Interference on its Chord.                                                                                             |
+| **Clean**        | The Note performs approximately as composed.                                                                                                                  |
+| **Perfect Echo** | The player precisely reproduces the score. A Chord performed entirely in Perfect Echo gains up to 25% efficiency, harmonic stability and power, and sheds one Interference. |
+
+Longer stacks produce longer patterns. A Unison is a single phrase at the Cadence; a Tetrad is a melody running through all four Beats. Large Chords therefore challenge both strategic planning and mechanical execution. Sustained Perfect Echoes, answered by Perfect Abjurations, carry the performers into a flow state, **Tempo Fever**, in which the Measure compresses more action into the same four Beats, every mistake grows more dangerous the longer the flow is sustained, and the orchestra eventually earns the right to attempt compositions no single Measure should hold. It is described in full below, after Abjuration.
+
+Execution is where [[Perfect Focus]] lives. A performer's [[Cindergale]] mastery widens their timing windows and raises the threshold at which incoming damage interrupts their channel.
+
+_This is where deckbuilding becomes orchestration rather than simply playing cards._
+
+#### Abjuration — One Answer per Measure
+
+The Cadence is the call. Abjuration is the response.
+
+When hostile Major Notes release at the Cadence, the battlefield holds on a fermata and the player enters **Abjuration**. Defensive [[Abjuration Arts]] use harmonic opposition and inverse-frequency cancellation, the "parry" of [[Arcanoria]]. Instead of simply clicking Block, the player must answer the hostile rhythm with its cancelling pattern, in the same way noise cancellation erases a sound by playing its opposite.
+
+There is **one Abjuration Window per Measure**, and it answers everything resolving at that Cadence. If three enemies release together, their frequencies combine into one defensive phrase. A single incoming Unison is a simple inverse rhythm. Three coordinated attacks become a layered pattern. Several advanced Chords become a polyphonic counter-frequency sequence, and a boss Measure becomes a horrifying multi-layer performance. The player is never pulled into a rhythm sequence because some goblin loosed a minor arrow on Beat 2. Combat breathes in a steady alternation: **compose, perform, defend, breathe, compose again.**
+
+**Abjuration defends only what was prepared.** Defense has two layers:
+
+- **Strategic defense:** during Composition, the player raises **Wards**, Abjuration Arts placed on a Track as its Major Note or, at half strength, as a Minor Note within another Chord. A Ward covers a scope (its performer, an adjacent ally, a hex or a lane) and a set of frequencies, and it stands from the Beat it is raised. A Ward raised earlier grows stronger with every Beat it is held before the Cadence, at the price of the Track's Beats and Hold.
+- **Performance defense:** in the window, every hostile release covered by a Ward becomes a lane of the response. Uncovered releases appear in the window as well, as lanes that cannot be played, and they land in full.
+
+Rhythmic skill strengthens a valid defense. It never substitutes for lacking one. If Visualization showed a Top lane attack, a Middle charge and an enemy caster's [[Void]] working, and the player prepared a barrier over Top and an intercept on Middle but nothing that can answer Void, the Void working lands no matter how flawless the response.
+
+Each covered lane resolves in three steps:
+
+1. The Ward's Strength is subtracted from the hostile release. A **Missed** response halves the Ward first.
+2. Whatever passes through is reduced by the performance: nothing on a Missed response, 20% on a Clean one, and up to **45%** on a Perfect one.
+3. If the Ward's Strength equals or exceeds the hostile working's Amplitude and the response is at least Clean, the working is **cancelled outright**, its Minor Notes, statuses and displacement included. A strong Ward, prepared in time and performed flawlessly, can erase an enormous stack, even a Hyper Chord carrying fifteen or more Notes, if the [[Third Actor]] has sufficient reflexes and a good musical ear.
+
+Wards obey the Elemental Harmonic Circle exactly as attacks do: a Ward whose binding counters the incoming binding stands at 1.5x Strength, and a Ward the incoming binding counters stands at half. Some workings are too large, too strange or too structurally absolute to answer with anything but a specific prepared counter, such as [[Lacrimosa]]'s [[The Call of the Dreamweaver]]; their lanes list the only Wards that can cover them. A boss attack that has counted down for eight Beats may be impossible to stop if the player only begins preparing defense on Beat five.
+
+**Syncopated strikes are met by standing defense.** A hostile release on Beats 1–3 does not open the window. It meets whatever already stands in its way: Guard, any Ward already sounding (applied at Clean, with no performance reduction) and primed Reactions. Quick attacks avoid the rhythm defense, which is precisely why they are capped at Dyads. Great workings earn the full Abjuration because they must wait for the Cadence to be great.
+
+Abjuration is where [[Resonance]] and [[Cindergale]] meet. In concept it is frequency opposition, and the defender's Resonance mastery strengthens and broadens their Wards. In practice it is timing and concentration, and their Cindergale mastery widens the windows in which the answer counts.
+
+_The system rewards foresight._
+
+### Tempo Fever — Crescendo and Resolution
+
+Tempo Fever is the state of flow. It is not a reward that makes mistakes stop mattering. It is the game trusting the player with situations in which mistakes matter more, and asking them, Measure after Measure, how far they are willing to take it.
+
+**Mastery produces acceleration. Acceleration produces opportunity. Opportunity tempts overcommitment. Overcommitment produces instability. And instability eventually forces the player to decide whether to resolve the performance or keep pushing toward something extraordinary.**
+
+#### Igniting and Sustaining the Flow
+
+Tempo Fever is sustained through flawless performance, and **flawless means Perfect.** A Clean performance is good play, but it is not flow.
+
+**Performance sequences.** Every Measure contains up to two performance sequences: the **Execution** of its Spotlit phrases across Beats 1–4, and the **Abjuration** of its Cadence. An Execution sequence is Perfect when every Note of every performed Spotlit phrase is a Perfect Echo. An Abjuration sequence exists only when the window holds at least one playable lane, and it is Perfect when every lane is answered Perfect. A Measure with no eligible Abjuration therefore holds one sequence, not two: it neither breaks nor advances the defensive requirement. Uncovered releases cannot be played, so they land in full without touching the Fever.
+
+**Ignition — four Perfect sequences.** Tempo Fever ignites after **four consecutive Perfect sequences**, counted across Measures and checked at Assessment. The number of Measures this takes depends on the enemy:
+
+| Enemy Pressure                 | Typical Sequence                                                         | Measures to Ignite |
+| ------------------------------ | ------------------------------------------------------------------------ | ------------------ |
+| Attacking every Cadence        | Execution · Abjuration · Execution · Abjuration | 2                  |
+| Attacking intermittently       | Execution · Abjuration · Execution · Execution                           | 3                  |
+| Not attacking                  | Execution · Execution · Execution · Execution                            | 4                  |
+
+Before ignition there is no grace. Any sequence less than Perfect, or a Measure in which no Spotlit phrase is performed, resets the streak to zero. The streak is shown as four pips beneath the Conductor's tempo marking, so the player always knows how close the flow is. When the fourth pip fills, the Fever ignites at that Measure's Assessment, and the next Measure begins in Tempo Crescendo at 25%.
+
+**Once lit, the Fever is judged by the Measure.** A Measure is **flawless** when it contains a performed Spotlit phrase and every sequence it contains is Perfect.
+
+- **Escalation:** every flawless Measure raises the Fever by 5 percentage points at Assessment, to a maximum of 90%.
+- **Faltering:** the first Measure that is not flawless does not break the Fever. It **Falters**: the percentage holds instead of rising, the Overbeat remains, and the music audibly stumbles. A Clean performance Falters the Fever exactly as a Missed one does; Missed Notes additionally place their amplified Interference as usual.
+- **Recovery:** a flawless Measure immediately after a Falter steadies the Fever. The Falter clears and the percentage resumes rising at that Assessment. Recovery has to be flawless; a Clean Measure is not recovery.
+- **Breaking:** two consecutive Measures that are not flawless break Tempo Fever. The second is still performed exactly as committed, Overbeat included, because it was part of the promise. At its Assessment the Fever ends and the percentage returns to zero, and a new Fever needs four fresh Perfect sequences.
+- **Silence:** a Measure in which no Spotlit phrase is performed is never flawless, whatever happened in its Abjuration. Flow cannot be sustained by silence.
+- **Shattering:** a Sympathetic Collapse in Resolution Climax breaks the Fever outright at that Measure's Assessment, Falter or not (see Sympathetic Resonance).
+- **Resolution:** declaring a Resolution ends Tempo Fever at that Measure's Assessment, whether the Resolution resolves or collapses.
+
+A Falter is the Fever's warning and also its sharpest question. The player has one Measure to prove the flow is still theirs, and in Resolution Climax that same Measure is the most natural moment to Resolve instead.
+
+While Tempo Fever remains active, its intensity rises through **Tempo Crescendo** and eventually enters **Resolution Climax**.
+
+#### Tempo Crescendo — 25% to 55%
+
+Tempo Crescendo begins at 25% and rises by 5 percentage points every consecutive Measure, producing seven states:
+
+**25% → 30% → 35% → 40% → 45% → 50% → 55%**
+
+**The Overbeat.** Every synchronized Spotlit Track gains one **Overbeat** immediately before Beat 4. The Overbeat may carry one additional Note, Step, Reaction preparation, or syncopated Staccato Unison, subject to normal Footing and card restrictions. A Track is synchronized while it stands within the Conductor's synchronization and is at least In Tune. A Track that loses synchronization during the Measure loses its Overbeat, and whatever was composed on it goes unresolved.
+
+The Overbeat compresses more action into the Measure; it does not create more time. It does not extend the Measure, move the Cadence, advance Countdowns, strengthen Wards through additional duration, or extend Hold. A Note on the Overbeat belongs to its Chord but adds no Beat of sounding: a Tetrad carrying an Overbeat Minor fits five Notes inside four Beats, and its margin is still zero.
+
+The Overbeat resolves after Beat 3's Coherence step and before Beat 4's downstroke, in the same order as a Beat: **Movement, Notes, Reactions, Coherence.** It has no downstroke and no Attrition, because no time passes on it. A Staccato Unison on the Overbeat is a second Major Note for its Track, syncopated and met by standing defense rather than the Abjuration Window.
+
+The Overbeat makes perfection tangible. The player does not receive a percentage somewhere in the calculations. The timeline physically opens another place for them to act.
+
+**Amplified Interference.** Tempo Crescendo also amplifies [[Discordant Interference]] by its current percentage. It never creates Interference by itself: flawless play remains stable. Instead, mistakes, interruptions, invalidated Notes and other sources of Interference become progressively more dangerous as the tempo rises.
+
+While Tempo Fever is active, every Interference placed on a friendly working weighs **1 + the current percentage**, and the working's Hold Limit is lowered by its total Interference weight, rounded to the nearest whole Beat, halves rounding up. The Amplitude of every friendly Collapse is raised by the same percentage.
+
+| Fever          | 1 Interference | 2 Interference | 3 Interference |
+| -------------- | -------------- | -------------- | -------------- |
+| No Fever       | −1 Hold        | −2 Hold        | −3 Hold        |
+| 25–45%         | −1 Hold        | −3 Hold        | −4 Hold        |
+| 50–70%         | −2 Hold        | −3 Hold        | −5 Hold        |
+| 75–80%         | −2 Hold        | −4 Hold        | −5 Hold        |
+| 85–90%         | −2 Hold        | −4 Hold        | −6 Hold        |
+
+The threshold at 50% is where the Crescendo begins to bite: from there on, a single mistake costs two Beats of Hold, and a Dyad that could once survive two Missed Notes survives one.
+
+Amplification is never a roll. There is no chance that a flawless Chord detonates. The Fever only magnifies errors that actually occur, so every Collapse during Tempo Fever has a cause the player can name.
+
+The Crescendo therefore needs no artificial vulnerability. The glass cannon emerges on its own: the performers are dangerous because they are composing more, and fragile because there are more things reality can invalidate.
+
+#### Resolution Climax — 60% to 90%
+
+At 60%, Tempo Crescendo becomes **Resolution Climax**, also consisting of seven states:
+
+**60% → 65% → 70% → 75% → 80% → 85% → 90%**
+
+Resolution Climax retains every effect of Tempo Crescendo, but the Overbeat becomes a **Climax Overbeat**. Climax represents the point where perfect synchronization allows the orchestra to begin performing compositions that would normally exceed the tactical grammar of a single Measure.
+
+The meter does not simply keep filling. **It changes category.**
+
+Unlike Crescendo, Resolution Climax scales its compositional strength with its percentage. At its lower states, the Climax Overbeat allows an additional simple Major intention. As Climax rises, increasingly elaborate combinations between synchronized Tracks become possible: additional Minor contributions, Ensemble structures, linked Majors and progressively larger finishing Chords.
+
+The principle is simple: **the closer the performance comes to 90%, the more voices may be compressed into the final Resolution.**
+
+**Sympathetic Resonance.** When the Fever enters Resolution Climax, every synchronized Spotlit Track becomes **Sympathetic**, the one Tuning state above Resonant. On an instrument, sympathetic strings are never touched by the bow. They ring because the strings beside them are ringing. By 60%, the performers have been perfect together for so long that their [[Soul Leitmotif]]s begin to vibrate at one another's frequencies. They stop playing as several musicians in time and start sounding as **one instrument.**
+
+- **What sympathy gives:** everything Resonant gives: +1 Hold on the performer's workings, wider timing windows, and the right to lead Ensembles. It is the margin that makes Climax compositions performable at all under amplified Interference.
+- **What sympathy binds:** a Sympathetic Track is never alone with a failure. Whatever breaks in one of them is heard by all of them.
+
+A Track becomes Sympathetic only if it is synchronized when the Climax begins or at a later Assessment. A Track that loses synchronization stops being Sympathetic without triggering anything. When the Fever ends by Resolution or by Breaking, sympathy fades quietly: at Assessment every Sympathetic Track returns to its ordinary Tuning.
+
+**Sympathetic Collapse — the cascade downward.** When a working performed by, or contributed to by, a Sympathetic Track collapses, the same sympathy that held the performers together carries the failure down through all of them:
+
+1. **The backlash rings through every Sympathetic Track** at the working's full amplified Amplitude, whether or not they contributed a Note to it.
+2. **Every Sympathetic Track falls to Detuned at once.** Sympathetic resonance becomes sympathetic dissonance: each performer loses the +1 Hold they were standing on and takes Detuned's −1, two Beats of margin gone in a single instant.
+3. **Detuned Tracks lose synchronization**, and with it their Overbeats and Ensemble contributions. Every Note composed there goes unresolved and places amplified Interference on the Chords that relied on it.
+4. **Those Chords may collapse in turn.** Sympathy has already broken, so their backlash spreads through ordinary Collapse rules, through contributors and Rank Proximity, but the Measure's remaining Beats can still unravel one working after another.
+5. **The Fever shatters** at Assessment, without a Falter.
+
+This is why a failure in Climax is never local. One broken string does not merely fall silent. Every string tuned to it sounds the break. The performers are dangerous because they ring as one, and they are fragile for exactly the same reason.
+
+**Declaring the Resolution.** In any Climax Measure, the Climax Overbeat can be performed as an ordinary Overbeat, or the player can spend its compositional allowance during Composition. Spending it declares the **Resolution**: the finishing workings it permits release at that Measure's Cadence, and Tempo Fever ends at Assessment, whether they resolve or collapse. Declining to Resolve keeps the Fever climbing, along with every one of its dangers.
+
+Each state includes every permission of the states below it:
+
+| Climax  | Composition                | What the Climax Overbeat Permits                                                                                                                                                       |
+| ------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **60%** | **Climax Unison**          | One synchronized Spotlit Track places an additional Major Note on its Climax Overbeat, a Unison releasing at the Cadence.                                                              |
+| **65%** | **Climax Dyad**            | The Climax Major may carry one Minor Note contributed on the Overbeat of another synchronized Spotlit Track.                                                                           |
+| **70%** | **Climax Ensemble**        | Every synchronized Spotlit Track may contribute its Overbeat to the Climax Major as an Ensemble Minor.                                                                                 |
+| **75%** | **Linked Climax**          | A second Spotlit Track may place its own Climax Major. The two are linked workings: they resolve together or collapse together.                                                       |
+| **80%** | **Fused Finale**           | One Climax Major may fuse with its Track's Chord for the Measure. That Chord's Major becomes a supporting Major and its Minors ornament the finale: one finishing Chord larger than a Tetrad. |
+| **85%** | **Linked Finales**         | Every synchronized Spotlit Track may place a Climax Major and fuse it with its own Chord. All of them are linked.                                                                      |
+| **90%** | **Grand Resolution Chord** | The synchronized Spotlit Tracks merge their Majors, Minors and Climax Overbeats into a single Ensemble working at the Cadence.                                                          |
+
+Climax workings are Chords, and every rule of [[Chord Layering]] still binds them: the Hold Limit, Suspension, Collapse and the Resolution Guarantee of linked workings. Climax Majors are finishing workings and always release at the Cadence; nothing in a Resolution is syncopated. Notes contributed on another Track's Overbeat are Ensemble contributions, so a bonded contributor still raises the working's Hold, and a displaced or fallen contributor still leaves their Note unresolved.
+
+#### The Grand Resolution Chord — 90%
+
+At 90% Resolution Climax, the synchronized Spotlit Tracks may attempt a **Grand Resolution Chord**: a giant Ensemble composition in which several Tracks contribute their Majors, Minors and Climax Overbeats toward one combined finishing working at the Cadence.
+
+This does not create additional Beats. Its extraordinary size comes from several performers contributing in parallel to the same composition. The result can exceed anything a single Track could normally fit inside one Measure.
+
+- **One Core:** the declaring Track's Major Note is the Core. Every other contributed Major becomes a supporting Major, structurally subordinate to it, and adds its full power to the release.
+- **One Hold:** the Grand Resolution is a single working. It counts its sounding from the earliest Note on any contributing Track, and every Interference placed on any contributor lands on the whole Chord, at 90% weight.
+- **One Collapse:** if it fails, its Amplitude is everything every contributor has sounded, raised by 90%. The backlash strikes the Core's performer first, then every contributor, then spills by Rank Proximity through the Ensemble's lines, and because every contributor is Sympathetic, the Sympathetic Collapse follows through all of them.
+
+It is also extraordinarily unstable.
+
+At maximum Climax, Discordant Interference is amplified by 90%, and a Grand Resolution Chord exists at the edge of catastrophic [[Dissonance]]. Any interruption, broken contributor, invalidated target, failed Note, displacement or performance error can cause the enormous composition to Collapse through the entire Ensemble, and because its performers ring as one instrument, nobody inside it is spared the sound of it breaking.
+
+At 90%, the player should never feel _"hopefully the game lets me have it."_ They should feel _"I can absolutely succeed, but nothing is allowed to go wrong."_ The composition is suicidal only for someone who cannot perform it.
+
+A successful 90% Resolution therefore represents one of the clearest demonstrations of mechanical mastery in the Symphony of War: the player has maintained flawless Execution and Abjuration long enough to reach maximum tempo, constructed an exceptionally complex synchronized Chord, and then performed it while the entire composition was operating on the edge of detonation.
+
+A failed Resolution turns that same accumulated power against its performers.
+
+#### The Progression
+
+Tempo Fever is the state of flow.
+
+| Movement              | Range   | What It Does                                                         |
+| --------------------- | ------- | -------------------------------------------------------------------- |
+| **Tempo Crescendo**   | 25–55%  | Increases action density and instability.                            |
+| **Resolution Climax** | 60–90%  | Progressively increases what the player is permitted to compose.     |
+| **Grand Resolution**  | 90%     | Maximum compositional freedom at maximum instability.                |
+
+The player may Resolve earlier for a safer and simpler Climax, or continue escalating toward 90% in pursuit of a vastly more ambitious finale.
+
+**The reward for greater mastery is not safety. It is permission to attempt something more dangerous.**
+
+At the highest level, the question is no longer whether the player can build the strongest Chord. It is whether they can build it, perform it perfectly, and make it resolve before it tears the orchestra apart.
+
+#### Why the Fever Tests Mastery
+
+A conventional flow state rewards mastery: excellent play makes future play stronger, the positive spiral of _play well, gain actions, face less pressure, play well more easily._ That spiral makes skilled players safer precisely when the battle should become most exciting. The Crescendo reverses it:
+
+**Play well → gain more actions → attempt more complex structures → carry more commitments → become more vulnerable to disruption → require even better play.**
+
+The performers become more powerful and more fragile at the same time. Usually, as a player's power rises, their fear falls. Here, power and fear rise together, until at 90% the player holds the most powerful thing they have ever been able to compose and has never had more to lose from a single mistake.
+
+- **Voluntary greed.** The game never pushes the player toward 90%. It only keeps the next threshold visible. Every step promises more capability, not more score, so the player's question changes from _"Can I maintain this?"_ to _"How far can I take this?"_ At 65% they could Resolve. At 70%, the next combination is better. At 80%, one more Measure makes something ridiculous possible. At 90%: _fine, we're doing it._
+- **Earned investment.** No one is handed 80%. The player maintained Perfect Execution and Perfect Abjuration, protected their synchronized Tracks, kept the Conductor standing and survived increasingly unstable Measures to get there. The meter reads as _their streak_, and because the streak changes the possibility space rather than a score, losing the Fever means losing access to a richer way of playing.
+- **Anticipation before the threshold.** Resolution Climax shapes play before it arrives. At 50%, the player knows that two more perfect Measures open the grammar, and begins to plan for it: preserving a card, protecting a Legend, moving the Ensemble into geometry, holding back a Reaction, positioning the Conductor. Climaxes that are anticipated feel earned.
+- **A warning, not a cliff.** One imperfect Measure Falters the Fever instead of ending it. A single slip does not erase twelve Measures of flow; it hands the player one Measure to prove the flow is still theirs, which is exactly when the question of whether to Resolve becomes loudest. But recovery must be Perfect. The Fever forgives a mistake. It never forgives settling for Clean.
+- **One instrument.** Sympathetic Resonance is the Climax's gift and its threat at once. The performers' margin grows when they begin to ring together, and the same bond is what carries a single failure through all of them. Power and fragility are not two mechanics balanced against each other. They are the same mechanic.
+- **Risk is skill, not luck.** This is push-your-luck without the dice. The player is never asking _"Will the game betray me?"_ They are asking _"Can I actually perform what I am about to promise?"_ That is what Control is Mastery means.
+- **Three honest endings.** A player who reaches 75% and Resolves safely has shown **discipline**. A player who resolves a Grand Chord at 90% has shown **mastery**. A player who pushes too far and detonates their own Ensemble has shown **hubris**. None of these is the only emotionally valid ending, and each says something about who is conducting.
+- **Optimal and virtuoso play.** A player who reliably Resolves at 60–70% can be extremely competent and win consistently. A player who routinely reaches 85–90% is demonstrating something else: performance under escalating complexity. The safest conductor and the most astonishing performer are not necessarily the same person.
+- **Failure is authored.** A collapsed 90% Resolution is never bad luck. It is _"I knew I was at 90%, and I chose to continue."_ Responsibility is what makes a failure worth remembering, and the near-misses (a contributor shoved one hex before the final Beat, the whole Ensemble suddenly on the edge of Collapse, a decision between Grounding it, sacrificing something or attempting the Cadence anyway) become stories whether they end in triumph or disaster.
+
+The mastery ladder of the Symphony of War therefore reads:
+
+| Tier            | What It Looks Like                                                                                        |
+| --------------- | --------------------------------------------------------------------------------------------------------- |
+| **Good**        | Builds effective Chords.                                                                                  |
+| **Expert**      | Sustains Tempo Fever.                                                                                     |
+| **Master**      | Survives Resolution Climax.                                                                               |
+| **Virtuoso**    | Resolves a Grand Resolution Chord at 90%.                                                                 |
+| **Miracle**     | Mastery was not enough, so someone gives up what can never be recovered. See Miracle Cadence.             |
+
+The Grand Resolution is the greatest thing skill can deliberately construct within the possible. A Miracle Cadence violates the possible, and it is paid for with a piece of the person who performs it. That separation keeps both rare.
+
+#### The Battle Takes Musical Form
+
+Because Tempo Fever is driven by performance rather than script, a sufficiently intense battle acquires the shape of a piece of music on its own: **ordinary Measures as introduction, Perfect Echoes as development, Tempo Fever as acceleration, Crescendo, the threshold at 60%, Climax, and finally Resolution**, whether cashed out, resolved at 90% or collapsed. The Measures and Cadences are not musical names laid over a strategy game. The player's experience begins to behave musically.
+
+The score follows the Fever rather than health thresholds:
+
+- **25%:** percussion layers enter.
+- **40%:** countermelodies become audible.
+- **55%:** the mix tightens toward the edge.
+- **60%:** the Climax motif appears, and the meter visibly changes category.
+- **75%:** additional voices join.
+- **85%:** dissonant harmonics bleed underneath the consonant score.
+- **90%:** the music is at once at its most beautiful and its most unstable.
+
+If the Grand Resolution succeeds, everything resolves onto the harmonic Cadence. If it collapses, the score itself ruptures into [[Primal White Noise]]. The player will not remember a percentage. They will remember what it sounded like.
+
+#### Performances Remembered
+
+Because Spotlit Tracks are people, and their decks are what those people know and have become, a Grand Resolution is never generic. It is _the thing these particular people did together._ A Grand Resolution, resolved or collapsed, is recorded with the battle: who contributed, the Chord they built, the bindings it carried, the Crescendo it reached, whether anyone was in [[Death Knell]], whether a Sacrifice Choice was involved, what it saved and what it broke. That record is raw material for the [[Stellar Legacy Score]], and for the characters themselves. If those performers later lose the memory that made the Chord possible, defect or die, the moment they once shared acquires its weight in retrospect.
+
+Not _"I unlocked an ultimate."_ But _"They performed that once."_
+
+_Getting into the zone is easy. Knowing when to leave it is the art._
+
+### The Measure — The Full Manual Combat Loop
+
+Manual combat revolves around a single repeating phrase:
+
+**Visualize → Compose → Commit → Beat 1 → Beat 2 → Beat 3 → Beat 4 / Cadence → Abjure → Toll → Assess → Compose again.**
+
+The player sees what the enemy has committed, examines their own hand, writes four Beats of future for their army, locks it, performs it, answers what the enemy releases at the Cadence, pays what is owed, and then witnesses how [[Integrity]], [[Composure]], Stance, Tuning and position have changed.
+
+A complete Measure follows this structure:
+
+| Step  | Phase             | What Happens                                                                                                                                                                                                                                                                   |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Visualization** | Held time. The battlefield displays the enemy Score, Countdowns, Stances, positions, engaged hexes, terrain, statuses, Tuning, Threats and, with Clarity, the Hold of every hostile working. The player draws their hand and may rehearse.                                    |
+| **2** | **Composition**   | Held time. The player writes each Track: paths and Steps, one Chord built around one [[Major Note]] with its [[Minor Note]]s on the preceding Beats, Ensembles, Wards, primed Reactions and the Spotlit Tracks. The Redraw Bell may be rung here, at the price of Rests.      |
+| **3** | **Commitment**    | The Score locks and Sacrifice Choices are declared. Every committed component must now find a valid resolution or become [[Discordant Interference]].                                                                                                                         |
+| **4** | **Execution**     | Beats 1–4 are performed by both armies at once: movement, Minor Notes, channels, syncopated strikes, contact and Skirmish Attrition. Spotlit Tracks are performed in rhythm; failed notes build Interference and wear away Hold.                                               |
+| **5** | **Reaction**      | Interleaved through every Beat: prepared Reactions interrupt the performance the instant their conditions are met and may create Cascade Chains.                                                                                                                             |
+| **6** | **Abjuration**    | On a fermata over the Cadence, hostile Major Notes release and the player performs one counter-frequency phrase against every release their Wards cover.                                                                                                                     |
+| **7** | **Toll**          | Ongoing effects resolve: Burns, Wounds, environmental hazards, Void offerings, Status Pollution and [[Composure]] shock.                                                                                                                                                      |
+| **8** | **Assessment**    | Skirmish verdicts are pronounced: the loser of each fight over ground retreats, stacks or routs. The battlefield then evaluates Integrity, Battle and Formation [[Composure]], Stance Stability, Mind Break, [[Death Knell]], capture opportunities, Elite Check, Conductor condition, the Seer's Clarity and every unit's Tuning. |
+
+#### Inside Each Beat
+
+Beats 1–3 resolve in a fixed order, identical for both armies:
+
+1. **Downstroke:** Hold is checked, and any working that would sound beyond its Hold Limit collapses now.
+2. **Movement:** all Steps resolve simultaneously, contacts form, and movement-triggered Reactions such as Intercept and Overwatch resolve.
+3. **Notes:** Minor Notes and syncopated Major Notes sound simultaneously, and syncopated impacts apply.
+4. **Reactions:** everything triggered during the Beat resolves as Cascade Chains.
+5. **Attrition:** engaged units exchange Skirmish Attrition.
+6. **Coherence:** Notes made impossible during the Beat become Interference, and Major Notes that can no longer resolve become Suspended.
+
+During Tempo Fever, the **Overbeat** falls between Beat 3 and the Cadence. It resolves Movement, Notes, Reactions and Coherence in the same order, with no downstroke and no Attrition, because no time passes on it.
+
+#### The Cadence
+
+Beat 4 is the formal offensive and defensive climax of every Measure:
+
+1. **Downstroke** and **Movement**, exactly as on any other Beat.
+2. **Release:** Wards raised on Beat 4 stand, and every Major Note reaching its Cadence, friendly and hostile, releases at the same time.
+3. **Reactions** to those releases: counters, guards, interceptions and bond protection.
+4. **Abjuration Window:** the player answers the covered hostile releases.
+5. **Impact:** damage to Integrity, Composure and Stance is applied simultaneously, and Deathblow Checks are made.
+6. **Forced displacement:** knockbacks, pushes and pulls resolve.
+7. **Attrition** for the final Beat.
+
+There is no initiative at the Cadence. If both sides preserved their workings until Beat 4, both release, and two committed attacks can genuinely strike one another in the same instant. If the player wanted to stop the enemy's attack, the time to do it was Beats 1–3: interrupt them, move their target, break their Focus, kill the caster, displace them, destroy their supporting Minor Note, or let their working collapse under its own weight. Waiting for Beat 4 and expecting initiative to save anyone is not a defense. Foresight is.
+
+#### Toll
+
+After impact comes the Toll, where the costs that the music carried become unavoidable. Burns burn, Wounds bleed, hazards strike, Status Pollution triggers, Void offerings are settled, and [[Composure]] shock travels outward through [[Flux]], from the units that suffered it to the adjacent and bonded allies who watched it happen.
+
+#### Assessment
+
+Then everything returns to [[Resonance]], and the battlefield asks four questions: **What remains coherent? Who is still themselves? Which unit still wants to fight? Which formation still exists as a formation?**
+
+Skirmish verdicts are pronounced, and losers retreat, stack or rout. Retreats damage Stance Stability, a Stance Break inflicts army-wide Composure shock, Battle and Formation [[Composure]] are evaluated, and Mind Break, [[Death Knell]], capture and Subjugation, Elite Check and Conductor Check are resolved. The Seer's Clarity and every unit's Tuning are recalculated, and workings that span several Measures carry their Hold into the next one.
+
+The result immediately becomes the Visualization of the next Measure. If both forces remain operational, the next Measure begins.
+
+_Plan. One: move. Two: develop. Three: brace. Four: resolve. Defend. Assess. Compose again._
+
+#### The Seven Bindings Across the Measure
+
+Each phase of the Measure is governed by the binding whose principle it performs, and the mastery of the people performing that phase shapes how it plays:
+
+| Phase             | Governing Binding                                                              | Why                                                                                                                 | What Mastery Changes                                                            |
+| ----------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Visualization** | [[Crystal]], [[Absolute Certainty]]                                            | The commander mentally explores the future outcome before committing.                                               | The Conductor's Rehearsal depth.                                                |
+| **Composition**   | [[Luminance]], [[Sufficient Precision]]                                        | Targets, ordering, geometry and exact effect are defined.                                                           | The Seer's Clarity; Precision targeting and Weak Points.                        |
+| **Commitment**    | [[Crystal]] and [[Void]]                                                       | Certainty declares the future, while sacrifice makes the declaration costly.                                        | Hold Limit from Crystal; Sacrifice Choice from Void.                            |
+| **Execution**     | [[Cindergale]], [[Perfect Focus]]                                              | Uninterrupted rhythm, timing and concentration determine how cleanly the intended future manifests.                 | Timing windows, resistance to Interruption, Tempo Fever.                        |
+| **Reaction**      | [[Strand]] and [[Flux]], [[Echoing Bonds]] and [[Emotional Authenticity]]      | Memory, coordination, relationships and prepared responses make one action propagate into another, and Composure effects ripple. | Primed Reactions from Strand; Cascade reach and Composure-triggered Reactions from Flux. |
+| **Abjuration**    | [[Resonance]] and [[Cindergale]]                                               | Frequency opposition in concept; timing and performance in practice.                                                | Ward Strength and breadth from Resonance; timing from Cindergale.               |
+| **Toll**          | [[Void]] and [[Flux]], [[Essence Sacrifice]] and [[Emotional Authenticity]]    | Costs, wounds, Burns, psychological shock and continuing consequences become unavoidable.                           | Offering potency and price; the spread of statuses and shock.                   |
+| **Assessment**    | [[Resonance]], [[Key of Attunement]]                                           | What remains coherent, and who is still themselves.                                                                 | Tuning, Stance cohesion and Formation Composure, through the Conductor.         |
+
+Binding mastery is read on the chord ladder of [[The Principles of Magic]]: **Basic** (Unison), **Advanced** (Dyad), **Expert** (Triad) and **Master** (Tetrad).
+
+_The Measure is the [[Auric Heptacode]] performed in order: imagined, defined, promised, played, echoed, answered, paid for, and finally heard for what it has become._
+
+#### A Measure, Performed
+
+A small Elite Engagement. On the friendly side: a Vanguard in the front rank of the Top lane, a Mage in the rear rank of the Middle, a Swift Scout in the front rank of the Bottom lane, and a Healer in the rear rank of the Top lane who serves as the army's Seer with Advanced [[Luminance]], granting Clarity 2. On the enemy side: a Lancer in the front rank of the Top lane, a [[Void]] caster in the rear rank of the Middle sharing its hex with a shield section, and an archer section in the rear of the Bottom lane.
+
+**Visualization.** The enemy Score is Confirmed. The Lancer will Step into Neutral Ground on Beat 1 and Charge the foremost friendly combatant at the Cadence. The archers will loose a syncopated volley at the Mage on Beat 2. The Void caster is performing an Anchored Triad, Umbral Crush, aimed at the rear-most combatant, the Healer: a Flux Minor on Beat 2, a Crystal Minor on Beat 3 and the Void Major at the Cadence. Because the Seer grants Clarity 2, the player can also read its Hold: three Beats of sounding against a limit of four. **Margin: one.**
+
+**Composition.** The player decides not to out-defend Umbral Crush but to silence it, and writes the Score:
+
+| Track              | Beat 1                | Beat 2                                                | Beat 3                                  | Beat 4 — Cadence                     |
+| ------------------ | --------------------- | ----------------------------------------------------- | --------------------------------------- | ------------------------------------ |
+| **Vanguard**       | Step into Neutral Top | Crystal Aegis (Ward, Minor)                           | —                                       | Shield Bash (Major, Free)            |
+| **Scout**          | Step into Neutral Bottom | Pinning Shot (syncopated Luminance Unison, Precision on the Void caster) | —                         | —                                    |
+| **Mage**           | —                     | —                                                     | Dissonant Chime (Resonance Minor)       | Flame Lance (Cindergale Major)       |
+| **Healer (Seer)**  | —                     | Radiant Ward raised (Luminance Ward, Legato Major)    | Sustained                               | Sustained                            |
+| *Enemy Lancer*     | *Step into Neutral Top* | *Step*                                              | —                                       | *Charge*                             |
+| *Enemy Void caster*| —                     | *Flux Minor*                                          | *Crystal Minor*                         | *Umbral Crush (Void Major, Anchored)* |
+| *Enemy archers*    | —                     | *Volley (syncopated)*                                 | —                                       | —                                    |
+
+The Vanguard, Scout and Mage are Spotlit; the Healer will perform at Clean. Commit.
+
+**Beat 1.** The Vanguard and the Lancer Step into the same empty Neutral hex at the same instant. Neither arrives first: a Skirmish begins, both are pinned, and the Lancer's second Step is lost. The Scout reaches Neutral Ground in the Bottom lane.
+
+**Beat 2.** The Healer's Radiant Ward rises over the Healer and the adjacent Mage just as the archers' volley lands; the Ward stands at Clean and absorbs most of it. The Void caster's Flux Minor sounds, and in the same instant the Scout's Pinning Shot, performed Perfect and aimed by Precision past the nearer shield section, strikes the Anchored caster. Interruption: one Interference. The working's Hold falls to three, its margin to zero. The Vanguard's Crystal Aegis sounds, and the Skirmish trades its first Attrition.
+
+**Beat 3.** The Mage's Dissonant Chime lands on the caster, performed Perfect: a second Interference, and a Hold of two. The Crystal Minor still sounds, its second Beat, within the limit. The enemy has one downstroke left.
+
+**Beat 4 — Cadence.** On the downstroke, Umbral Crush would sound a third Beat against a Hold of two. It turns to Dissonance and collapses before it can release. The backlash strikes the caster first and spills by Rank Proximity onto the shield section beside it. Then the releases: the Shield Bash and the Flame Lance converge on the Lancer, and the Lancer's Charge strikes the Vanguard from inside the Skirmish. The Abjuration Window opens with a single lane, the Lancer's strike against the Crystal Aegis, held and growing since Beat 2. The player answers it Perfect: the Ward absorbs its Strength, and 45% of what remains is shaved away.
+
+**Toll.** The shield section takes Status Pollution from the failed Void working. The Composure shock of watching their own caster's magic turn on them travels through Flux into the adjacent enemy sections.
+
+**Assessment.** The Lancer suffered far more Pressure in the Neutral Skirmish and is forced back into its own front rank. The enemy formation loses Stance Stability; the caster and the shield section are detuned. The Seer is lucid, so Clarity 2 carries into the next Visualization, and the Healer was never struck by the working aimed at her.
+
+The player never tried to out-defend Umbral Crush. They let it finish its own song badly.
+
+### Mind Break and the Corrupted Hand
+
+When an elite individual's Battle [[Composure]] crosses into Spiraling, they enter Mind Break. The player does not lose their turn, and the [[Legend]] does not simply become stunned. Instead, their normal tactical hand is temporarily replaced by **Corrupted Instinct Cards**, generated from the maladaptive expressions of their [[Legend Trait]]s, memories, current wounds and emotional state.
+
+Corrupted Instinct Cards are compulsions, not compositions. They ignore the rule of one Major Note per Measure, may sound on any Beat, and always resolve through Rank Proximity. The regulation that normally organizes a Measure around one intention is exactly what the Mind Break has taken away.
+
+The character becomes less regulated. Not less themselves. On the contrary, they become more of what they hide.
+
+#### Maladaptive [[Legend Trait]]s
+
+A [[Legend]]'s strongest traits contain the possibility of destructive inversion:
+
+- Compassion can become self-erasure.
+- Confidence can become reckless certainty.
+- Devotion can become obsession.
+- Caution can become paralysis.
+- Ambition can become grandiosity.
+- Protectiveness can become possessive control.
+
+A compassionate protector might become destructively self-sacrificial. A cautious strategist may become obsessively controlling. A fearless Vanguard may become suicidal. A manipulator may become paranoid enough to attempt controlling the positioning of everyone around them. Mind Break exposes these distortions, and the character temporarily receives cards built around the maladaptive face of their own traits.
+
+#### Power Through [[Emotional Authenticity]]
+
+Mind Break is dangerous partly because [[Emotional Authenticity]] increases. The character stops filtering themselves. Magic responds. Raw output rises. Control falls.
+
+Corrupted Instinct Cards are therefore not simply weaker versions of normal abilities. They are frequently stronger, and their collateral effects are severe.
+
+This is the paradox of the Spiraling state:
+
+**[[Emotional Authenticity]] produces extraordinary magical power at precisely the moment psychological regulation begins to fail.**
+
+#### Lethal Collateral and Spatial Chaos
+
+Extreme emotional output creates **Spatial Chaos**. Some of the strongest cards in the game deliberately manipulate friendly positioning, destroy Stance, inflict allied [[Composure]] damage or generate [[Discordant Interference]].
+
+A representative Corrupted Instinct Card:
+
+**Break Them Before They Leave**
+
+- Targets the nearest enemy in Rank 1.
+- Deals enormous Integrity and [[Composure]] damage.
+- Knocks the two nearest allied combatants backward one hex, stacking them with any ally already standing there.
+- Deals 15 Battle [[Composure]] damage to both displaced allies.
+
+The move may destroy an enemy elite immediately. It may also break allied Stance, stack two sections under the crowding penalty, move the healer outside the rank from which their recovery spell can function, expose the artillery section, and push another [[Legend]] toward Mind Break increasing the fallout of the spiral.
+
+The player retains agency and remains responsible for choosing whether the immediate power is worth the damage to the future board state. The price is friction, and when [[Coherence]] fails, it is unavoidable.
+
+_The strongest move on the card is not necessarily the strongest move on the battlefield._
+
+#### The Corroded Gambit
+
+A Mind Broken elite can actively fight their way back toward temporary tactical regulation through the **Corroded Gambit.** To execute it, the player must intentionally resolve two Corrupted Instinct Cards from that character within the same Measure, something only possible because compulsions ignore the one-Major limit. Both must survive the Measure: if either is left unresolved, the Gambit fails and its Notes become Interference like any other broken promise.
+
+This is not a passive timer and not a punishment that simply expires. The player must engage with the character's crisis. They do not recover by waiting; they recover by moving through it.
+
+Successful completion re-establishes enough internal [[Coherence]] for the character to regain tactical control, stabilizes their Battle [[Composure]], and immediately unlocks their **Cathartic Cadenza.**
+
+Completing a Corroded Gambit removes the acute Spiraling crisis. It does **not** magically heal the person. Their expedition state remains damaged.
+
+#### Cathartic Cadenza
+
+The Cathartic Cadenza is the high-yield ultimate expression of surviving a Mind Break. It draws power from the opposing psychological force hidden beneath the maladaptive trait:
+
+- A character consumed by fear might produce an act of extraordinary courage.
+- A compulsive protector might momentarily trust others completely.
+- A controlling strategist may surrender control long enough to create an improvisational masterpiece.
+
+The resulting card can be enormously powerful, and it remains dangerous. Many Cadenzas operate through Rank Proximity and large areas of effect rather than perfectly isolated targets. If the intended enemy frontline has already collapsed, the excess force may strike friendly positions, shatter Stance or create catastrophic collateral.
+
+_The Cadenza represents regained direction. Not perfect serenity._
+
+#### Co-Regulation and the Heartbeat
+
+Mind Break can also be addressed through other people. Rooted in the principle of witnessing that underlies [[Echoing Bonds]], certain [[Resonance]], [[Strand]], medicinal, musical or relationship-based cards initiate **Co-Regulation.**
+
+The player enters a rhythm sequence aligned first to the distressed character's accelerated heartbeat. The objective is not to immediately force their pulse onto the battle's BPM. The player meets them where they are, then gradually slows the pattern toward the tempo of the surrounding score, regaining concentration and calming the mind.
+
+Successful synchronization restores Battle [[Composure]], and with enough recovery over a few [[Beat]]s, it prevents further deterioration, stabilizes corrupted cards, and can pull the character back from the edge of self-annihilation.
+
+Co-Regulation occupies the helper's Track. Each Beat of the heartbeat sequence is one of their Notes, usually two or three Beats, often including the Beat that would otherwise have carried their own Major Note. If the helper is a Spotlit Track, the player performs the heartbeat; otherwise the helper performs it at Clean.
+
+This gives emotional support an actual tactical cost. Time advances while the player is helping someone. Enemy Countdown Counters continue moving. The battlefield does not politely stop because a character is suffering.
+
+This produces one of the game's most human decisions:
+
+**Do I spend time saving the person beside me, or use that same time to destroy what is threatening everyone?**
+
+### Sacrifice Choice — Offering to the Void
+
+[[Essence Sacrifice]] is the fourth thread of the [[Auric Heptacode]]: power flows only when the [[Spellweaver]] parts with a fragment of themselves. Most combatants pay that price without deciding to, as the ordinary fatigue of casting. The elites who understand [[Void]] deeply can make the exchange deliberately, in the middle of battle, and choose how much of themselves to spend.
+
+#### Who May Offer
+
+Any individual elite combatant, a [[Legend]] or a named elite and never an ordinary formation, with at least **Skilled (21+)** mastery of [[Void]] may select a **Sacrifice Choice** during Commitment. Certainty declares the future; sacrifice makes the declaration costly.
+
+The offering empowers one of that combatant's own committed **Corrupted Instinct Cards** or **Ultimate Cards**: a Cathartic Cadenza, or the signature ultimate of their Personal Grimoire. It is declared with the Score, shown during Composition with its exact price and potency, and once committed it cannot be withdrawn.
+
+#### The Offerings
+
+| Offering         | Fuel Tier | Requires                                                                               | Price                                                                                                         | Power                                                         |
+| ---------------- | --------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **Exertion**     | Tier 1    | Nothing, it is the basic pay.                                                          | Battle [[Composure]] drains on every Beat the empowered working sounds.                                       | Regular Potency.                                              |
+| **Vitality**     | Tier 2    | Skilled [[Void]]                                                                       | [[Integrity]] drains on every Beat it sounds, a Wound enters the deck, and heavy drains leave lasting injury. | Potency +50%; the working ignores one Interference.           |
+| **Memory**       | Tier 3    | Advanced [[Void]], and [[The Principles of Magic]] established by the [[Civilization]] | A chosen memory is surrendered permanently, with Battle Composure shock.                                      | Potency ×2 to ×3 by [[Weight of Value]]; pierces resistances. |
+| **Perfect Fuel** | Tier 4    | Advanced as Memory, and a moment of perfect thematic alignment                         | The thing most aligned with what the working exists to do.                                                    | The ceiling is removed.                                       |
+
+The drain begins on the Beat the empowered card first sounds, as the [[Void]] opens its deficit, and the offering is settled during the Toll. **The Void does not refund.** If the working collapses, is cancelled by Abjuration or loses its target, the offering is paid in full regardless. That is what makes an offering dangerous inside a working that might not resolve.
+
+**Memory** is chosen from the Legend's own record: an [[Echoing Bonds]] relationship, a card they know, a technique preserved in their [[Legend Opus]], a remembered place or person. Its potency follows the [[Weight of Value]], what it means to this Legend now rather than what it would seem worth to anyone else. A minor memory fuels substantial power, a significant memory fuels reality-bending power, and a foundational memory approaches the border of Perfect Fuel. Once given, it is gone. [[Echoing Bonds]] tied to it are severed and will dampen every future working between those two people, a forgotten card leaves the deck permanently, and the biography keeps only a silence where the memory used to be. It is the most valuable tool a [[Legend]] with sufficient [[Void]] mastery has over their own [[Essence Sacrifice]].
+
+**Perfect Fuel** cannot be selected at will, because it cannot be manufactured or planned. It is offered by the battle itself, only when a [[Legend]]'s deepest values collide with absolute necessity: when what they could surrender is the very thing the working exists to protect. To save what you love, you must surrender the very form of loving it.
+
+#### The World Still Exists Outside the Battle
+
+A Sacrifice Choice is spent from the person, not from the encounter, and the campaign remembers it:
+
+- Battle Composure drained past Fractured worsens Persistent [[Composure]] after the battle.
+- Integrity offered as Vitality leaves Wounds that persist until [[Civilization]]-level recovery, and the severest offerings leave permanent marks.
+- Memory and Perfect Fuel change who the Legend is for the rest of the campaign, in their relationships, their deck and their story.
+- Every Memory or Perfect Fuel offering triggers an **Abyss Check** after the battle, tested against Persistent Composure, and an offering made while Mind Broken makes that check severe.
+
+The battlefield still cannot carry a Legend past Spiraling. But the night after a battle is where most [[Atonalis]] are born, and a Legend who burned their memories to win may not be the same person who walks back into camp.
+
+Enemy elites with Void mastery make offerings too. From Clarity 3, the Seer can see what an enemy has offered and at what tier.
+
+#### Miracles Against the Original Eight
+
+In battles that cannot be Auto-Resolved, against the [[Original Eight]] and enemies of their magnitude, a Sacrifice Choice can open the door to [[Miracle Magic]]. When all four conditions of a miracle converge in a single empowered working, it becomes a **Miracle Cadence**:
+
+1. **Perfect Fuel** is offered.
+2. **Maximum thematic Resonance:** the Legend is Resonant, and the working rings true to their [[Soul-Key]].
+3. **Deep [[Echoing Bonds]]:** the working is performed for, with or through someone bound to the Legend by a deep relationship.
+4. **Flawless performance of deep emotion:** every Note of the working is a Perfect Echo. Because an offering can only empower a Corrupted Instinct Card or an Ultimate, the emotion behind it is never hollow.
+
+A Miracle Cadence has no ceiling. It can overpower effects that are otherwise absolute, cancel a working no Ward could cover, break a phase that was never meant to break, or pull an ally back from a death that was already certain. It is the rarest thing the combat system can produce, and it is paid for with something the Legend will never get back.
+
+_Against the Original Eight, the price of a miracle is a piece of the person who performs it._
+
+### [[Death Knell]]
+
+Named [[Legend]]s and elite combatants do not automatically die at zero Integrity. They enter **[[Death Knell]]**. While at [[Death Knell]]:
+
+- Combat capability is heavily reduced.
+- Movement becomes difficult: Pace is reduced to a single Step per Measure.
+- Some cards become unavailable.
+- Every subsequent damaging event triggers a **Deathblow Check.**
+
+Failure means death. Success means survival at the edge. Repeated checks become increasingly dangerous, and severe Wounds make continued survival progressively less reliable. Some may use this time to evacuate the battlefield leaving everything else behind to go missing in action.
+
+[[Death Knell]] is reserved for the people whose individual survival materially changes the story.
+
+#### [[Piety]] and Saving Grace
+
+[[Piety]] influences Deathblow survival through **Saving Grace**, improving the probability of surviving what should have been a fatal blow. A blade missed the artery. A relic shattered instead. An ally reached them in time. A fall stopped inches above disaster.
+
+Bonds, [[Magical Relic]]s, medical support and particular [[Magic Arts]] may also influence survival.
+
+_[[Piety]] never makes death impossible. It gives providence room to matter._
+
+#### Formation Casualties
+
+Ordinary military sections do not receive thousands of individual Deathblow Checks. Their lost Integrity is divided during the aftermath into **dead, wounded, recoverable, missing and captured** populations. Medical support, commanders, terrain, and the conditions of any retreat or rout influence these ratios.
+
+This preserves tactical readability at large scale.
+
+### Status Pollution
+
+Enemies do not merely inflict numerical debuffs. Many attacks physically contaminate the player's deck with **Status Pollution Cards**:
+
+- Wound.
+- Burn.
+- Restrained.
+- Agony.
+- Slimed.
+- Panic.
+- Bleeding.
+- Frostbite.
+- Mind Control.
+
+These cards enter the draw pile and reduce the probability of finding clean tactical answers. Some impose passive penalties while remaining in hand. Some trigger when drawn. Some trigger when discarded. Others require a specific action to clear.
+
+A wounded character therefore does not merely possess lower Integrity. Their future tactical cognition has become less reliable.
+
+_Being wounded does not simply reduce current Integrity. It makes the character's future increasingly difficult to control._
+
+#### Status Builds
+
+Certain combatants intentionally exploit Status Pollution:
+
+- A character may gain additional damage while Wounded.
+- A [[Cindergale]] deck may consume Burns as fuel.
+- A trauma-driven build of an [[Atonalis]] may transform Agony into offensive output while it remains in the discard pile.
+- A medical deck may gain effects whenever it purges Status Cards.
+
+Pollution is therefore harmful without becoming mechanically one-dimensional.
+
+_Even contamination can become adaptation._
+
+### [[Echoing Bonds]] in Battle
+
+Relationships are combat mechanics. When characters with strong [[Echoing Bonds]] contribute cards to the same [[Chord Layering]] Stack, their actions stabilize one another. The strongest bonuses occur when bonded characters act on consecutive Beats: one action becomes the remembered rhythm through which the next person understands what to do.
+
+Bonded characters may gain:
+
+- Lower [[Discordant Interference]].
+- Legato workings that anchor a Beat sooner.
+- +1 Hold on Ensemble Chords they share.
+- Duets that make both performers Resonant for the Measure.
+- Stronger [[Minor Note]]s, with their root binding passing more efficiently into one another's [[Minor Note]]s.
+- Emergency Reactions.
+- Shared [[Composure]] stabilization.
+- Unique duet and ensemble cards.
+- Chord-specific effects.
+
+Affection therefore does not simply become "+15% damage," as it focused instead on how it can improve [[Consonance]] and **musical compatibility.**
+
+_Characters who know one another intimately are mechanically better at becoming part of the same song._
+
+#### Battlefield Attachment
+
+Relationships also create vulnerability. Watching an attached person enter [[Death Knell]] may inflict enormous Battle [[Composure]] damage. Watching an entire bonded company collapse can devastate a Conductor. Attached companies fight differently after watching a beloved [[Legend]] fall.
+
+The same [[Legend Relationship]] that produces power creates something to lose. The game never treats attachment as a purely beneficial buff.
+
+### Retrying through [[Divination Arts]] & [[Prophetical Arts]]
+
+Some of the battles in [[Arcanoria]] are hard, and to get the timing right, it is necessary to give the battle a few tries. While results in [[Gateway To Genesis]] are permanent, there are two loopholes and are both tied to the Macro Layer of the Symphony of War, which is advancing through [[The Registers of Magic]].
+
+There are already two ways to "see" the future, which are [[Divination Arts]] and [[Prophetical Arts]], one tied to [[Luminance]] and clairvoyance, the other tied to [[Void]] and [[Dream Magic]]. [[Civilization]] has two slots of [[Divination Arts]], and one of [[Prophetical Arts]]. if they lose the battle, they can "attempt it again" because what they were seeing was a premonition of what was about to happen. Thus, much like [[Entropic Scrying Arts]] as the advanced niche, they see the future (Where they win) by seeing the one timeline where it didn't happen. (They lost)
+
+These are not infinite tries, however, they require spending [[Ceremonial Arts]] and resources to obtain beforehand, and the maximum a [[Civilization]] can use are the combination of 3, with a few advanced exceptions raising some of the cap for boss battles based on what they have uncovered about [[The Registers of Magic]]. If a player burns all of their attempts, they receive a corresponding [[Achievement]]:
+
+Lose all of your [[Divination Arts]] and [[Prophetical Arts]] attempts on the same [[Spellweaving]] fight.
+_"This is [[Gateway To Genesis]]: YOU DIED. YOU DIED. YOU DIED."_
+
+If they lose the next time, it is permanent. Usually the best way to avoid is to prepare accordingly before the first note is struck, but if it is unavoidable, the technology unlocked in [[The Registers of Magic]] gives a canonically justified out.
+
+There is also one exception, all major boss battles give a free recharge of [[Prophetical Arts]] and [[Divination Arts]] before them, so that even if [[Civilization]] used all of their attempts to gaze into a dark future during the gauntlet, they will have the ability to contest the final boss with all of their strength and technologies.
+
+### Expedition Trauma and Deck Evolution
+
+A deck is not static during an expedition. Long campaigns accumulate exhaustion, injuries, habits, fear responses, improvised techniques, tactical shortcuts, trauma, insight and new relationships.
+
+As the gauntlet continues, characters increasingly fight like the people the journey has turned them into.
+
+#### Field Alterations
+
+Surviving extreme Fracturing or Spiraling can create **Field Alterations** on existing cards, which persist for the remainder of the expedition.
+
+- |**Original**| Deal 20 Integrity damage.
+- |**Field Alteration**| Deal +50% damage while below 50% Battle [[Composure]]. After resolving, shuffle **Agony** into the discard pile.
+
+This is more than a numerical upgrade.
+
+_The card has learned how the character survived._
+
+And there are other long lasting effects on Extreme Mind Breaks which can scar a card rather than adapt it. These **Trauma Alterations** cannot be undone in the field; they remain until the [[Legend]] receives actual [[Civilization]]-level recovery once they are on their respective [[Civilization]] core territory / hometown.
+
+#### Returning to [[Civilization]]
+
+Returning home and receiving genuine rest can:
+
+- Remove acute Status Pollution.
+- Restore physical condition.
+- Restore Persistent [[Composure]] toward its normal Clouded baseline, and with it the Battle [[Composure]] the [[Legend]] brings to the next fight.
+- Remove Trauma Alterations.
+- Clear Field Alterations, except those the player chooses to preserve.
+- Allow the deck to be deliberately reorganized.
+
+[[Civilization]] therefore matters mechanically as the place where people stop merely surviving.
+
+#### [[Legend Opus]] Adaptation
+
+Not every adaptation has to be forgotten. When a [[Legend]] returns home, the player may preserve up to two qualifying Field Alterations as part of their acquired **[[Legend Opus]]** for such a story. This turns the process of transforming what was once an improvised survival mechanism into a permanently mastered technique that has both a name in their biography as it does in their gameplay.
+
+An unhealthy improvisation can therefore become a healthy mastered technique. The difference is integration.
+
+_The expedition creates the behavior. Reflection turns it into mastery. The [[Legend]] chooses which experiences become identity._
+
+### Auto-Resolution and Forecasts
+
+Before contact, the outer layer calculates the expected **Symphony Power** of each force. Auto-Resolve operates as a compressed simulation of all the same systems, evaluating:
+
+- Army power, offensive throughput and effective Integrity.
+- [[Composure]] and Stance Stability.
+- The initial advance, its Stance matchup and terrain.
+- The Elite Core and the [[Battle Conductor]].
+- Technology and [[Magic Arts]] compatibility.
+- [[Symphony Card]]s and deck quality.
+- [[Legend Relationship]]s.
+- Expedition condition.
+- Formation doctrine.
+- The strategic objective.
+
+The forecast is not omniscience. It is an estimate of the result produced if both forces behave approximately according to their known doctrine and capability. Terrified armies behave differently from rested armies, and the simulation knows it.
+
+| Forecast         | Meaning                                                                                         |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
+| **Overwhelming** | Victory is all but assured by composition alone.                                                |
+| **Favored**      | The composition should win, with manageable risk.                                               |
+| **Contested**    | The outcome depends on performance.                                                             |
+| **Dangerous**    | The composition is likely to lose or pay heavily.                                               |
+| **Doomed**       | Victory is extraordinarily improbable. A manual victory from here earns a [[Mythical Victory]]. |
+
+_The forecast is probability. Not destiny._
+
+#### Manual Upsets
+
+Manual battle allows the player to outperform the expected result. A battle forecast as Doomed can still be won by:
+
+- Breaking enemy Stance.
+- Hunting the Elite Core.
+- Manipulating Neutral Ground.
+- Winning Skirmishes and encircling enemy sections.
+- Exploiting terrain.
+- Delaying Countdowns and forcing enemy workings into Collapse.
+- Blinding the enemy, or piercing their Veils.
+- Creating superior Chords.
+- Maintaining [[Composure]].
+- Triggering a brilliant Mind Break recovery.
+- Performing near-perfect Abjuration.
+- Recognizing bait, and creating bait.
+- Preserving the Conductor.
+- Taking strategically acceptable [[Integrity]] losses.
+
+This mirrors how Hannibal, Napoleon and other historical commanders won battles they should not have won, and where the heart of [[Legend]]s is written as their statement of [[Mastery Over Chaos]].
+
+It also gives a thematic [[Achievement]]:
+
+Achieve a [[Mythical Victory]] by manually winning a [[Spellweaving]] combat that was destined to fail.
+_"Veni, Vidi, Vici: Providence forged an unbeatable giant. You brought a shepherd's sling, and five smooth notes that rewrote the scripture of fate."
+
+Thus, a battle forecast represents what should happen. Manual combat represents the possibility that a [[Legend]] refuses to accept what should happen. This is where [[Legend]]s are made.
+
+### Battle Verdicts and Loss Burden
+
+The final verdict evaluates **Loss Burden**, not simply raw casualty percentage. Loss Burden considers:
+
+- Percentage of the army lost.
+- Permanent deaths, wounded and captured units.
+- Elite casualties and [[Legend]] deaths.
+- The fate of the Battle Conductor.
+- Strategic equipment lost.
+- Formation destruction.
+- Whether the army achieved its actual objective.
+
+The same numerical death can therefore carry radically different meaning at different scales.
+
+#### Elite Casualties
+
+In an Elite Engagement, one death is enormous. If two [[Legend]]s enter combat and one dies, fifty percent of the party is dead. Even complete destruction of the enemy cannot be classified as a clean triumph, such as [[Amadea]]'s canonical fight with [[The Seven Hands]].
+
+**Any permanent casualty in an Elite Engagement caps the victory at Close Victory at best.** Severe proportional losses become Pyrrhic, which is why a two-person expedition losing one member is Pyrrhic regardless of whether the surviving fighter annihilates the enemy afterward.
+
+#### Large Army Casualties
+
+In a Grand Army, losing one ordinary combatant does not redefine the battle verdict. Percentage matters, and elite losses remain exceptional. A twenty-thousand-person army losing twelve anonymous soldiers may still achieve a Decisive Victory. A twenty-thousand-person army losing its [[Great Vanguard]] Battle Conductor may suffer an enormous Loss Burden despite otherwise negligible casualties.
+
+#### Victory and Defeat Categories
+
+| Victory              | Meaning                                                                                                                            | Defeat Mirror       | Meaning                                                                                   |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------- |
+| **Decisive Victory** | The objective is achieved with limited Loss Burden and the army remains highly operational.                                        | **Crushing Defeat** | The objective is lost and the force is broken while the enemy remains highly operational. |
+| **Close Victory**    | Victory is achieved, but substantial tactical cost, elite danger or formation degradation prevents it from being considered clean. | **Close Defeat**    | The objective is lost narrowly, at substantial cost to both sides.                        |
+| **Pyrrhic Victory**  | The objective is technically achieved, but the Loss Burden threatens the winner's future strategic viability.                      | **Valiant Defeat**  | The objective is lost, but the enemy pays a Loss Burden that threatens its own future.    |
+
+#### [[Mythical Victory]]
+
+**[[Mythical Victory]] is the [[Seventh]] layer and, crucially, it is not a casualty category.** It is an additional distinction placed upon any manual victory won from a Doomed forecast, and it coexists with another verdict:
+
+- **Mythical Decisive Victory:** An impossible battle won brilliantly, the hardest type.
+- **Mythical Close Victory:** An impossible battle survived through exceptional play, barely preserving the Elite Core.
+- **Mythical Pyrrhic Victory:** History remembers the victory. The survivors remember what it cost.
+
+This distinction allows the game to respect both achievement and consequence simultaneously.
+
+_The game refuses to confuse improbability with cost._
+
+### Balance Reference — Baseline Values
+
+Starting values for implementation and playtesting. The rules above define how the system behaves; these numbers define its intended proportions, and are expected to move during balancing without changing the rules.
+
+| Parameter                          | Baseline                                                                                                   |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Beats per Measure                  | 4, fixed.                                                                                                  |
+| Major Notes per Track per Measure  | 1. Exceptions: a syncopated Staccato Unison on the Overbeat; Climax Majors in a Resolution; Corrupted Instinct Cards. |
+| Notes per Track per Beat           | 1.                                                                                                         |
+| Pace                               | Heavy 1 · Standard 2 · Swift 3 Steps per Measure.                                                          |
+| Syncopated strikes                 | Staccato only, Dyad at most, Beats 1–3.                                                                    |
+| Legato anchoring                   | 3 Beats sounding.                                                                                          |
+| Base Hold Limit                    | 4 Beats.                                                                                                   |
+| Interference                       | −1 Hold Limit each.                                                                                        |
+| Hold extensions                    | Anchors and Channels +1 each · Fermata +1 or +2 · Sustain or bonded Ensemble +1 · Crystal Expert +1, Master +2 · Crystal Minor +1. |
+| Holding beyond four Beats          | 5 Battle Composure drained per extra Beat.                                                                 |
+| Tuning                             | Sympathetic +1 Hold (Resolution Climax only) · Resonant +1 Hold · In Tune 0 · Detuned −1 · Out of Tune −2.                                                |
+| Redraw Bell                        | Up to 2 rings per Measure; each ring rests one Beat for every friendly Track.                             |
+| Primed Reactions                   | 1 per Track, plus Strand mastery, Echoing Bonds and Stance bonuses; each fires once per Measure.          |
+| Cascade Chain length               | 4 links, +1 for Flux-attuned reactors; no unit reacts twice in one chain.                                 |
+| Spotlit Tracks                     | Up to 3, chosen each Composition.                                                                          |
+| Command Bandwidth                  | 2 + the Conductor's [[Resonance]] tier (Basic 1, Advanced 2, Expert 3, Master 4).                          |
+| Perfect Echo                       | Up to +25% power; a fully Perfect Chord sheds 1 Interference.                                             |
+| Tempo Fever                        | Ignites after 4 consecutive Perfect sequences (Execution, or Abjuration with a playable lane): usually 2 Measures, up to 4 without enemy attacks. Once lit, one non-flawless Measure Falters (% holds); two in a row break it; resets to 0%. Clean is not flawless. |
+| Tempo Crescendo                    | 25% → 55%, +5 per flawless Measure; one Overbeat per synchronized Spotlit Track.                          |
+| Sympathetic Resonance              | Synchronized Spotlit Tracks in Resolution Climax: +1 Hold, wider windows. Sympathetic Collapse: full backlash to every Sympathetic Track, all fall to Detuned, Fever shatters. |
+| Resolution Climax                  | 60% → 90%, +5 per flawless Measure, capped at 90%; Climax Overbeat allowance scales per state; Resolving ends the Fever. |
+| Fever Interference                 | Each Interference weighs 1 + Fever %; Hold lowered by total weight, rounded to nearest (halves up); friendly Collapse Amplitude + Fever %. |
+| Ward growth                        | +25% Strength per Beat held before the Cadence.                                                            |
+| Ward as Minor Note                 | 50% Strength.                                                                                              |
+| Abjuration                         | Missed: Ward halved, 0% reduction · Clean: 20% · Perfect: up to 45%. Cancellation when Strength ≥ Amplitude on Clean or better. |
+| Ward elemental modifiers           | ×1.5 when countering the incoming binding · ×0.5 when countered by it.                                     |
+| Clarity                            | 0–4 from the Seer's [[Luminance]] tier; −1 while the Seer is engaged; 0 if the Seer is Mind Broken, in Death Knell or incapacitated. |
+| Sacrifice Choice                   | Exertion +25% for 5 Battle Composure per Beat · Vitality +50% for 5% Integrity per Beat and a Wound · Memory ×2 to ×3 · Perfect Fuel uncapped. |
+| Hyper Chord Stabilization          | +4 Hold per successful Stabilization Cadence; +1 Criticality each.                                        |
+
+### The Design Principle
+
+Every major mechanic expresses something that is physically happening in the fiction. The mechanical system is a physicalized allegory as ludo narrative [[Resonance]]:
+
+| Mechanic                         | What It Expresses                                                   |
+| -------------------------------- | ------------------------------------------------------------------- |
+| **[[Integrity]]**                | Bodily survival.                                                    |
+| **[[Composure]]**                | Psychological survival.                                             |
+| **Stance**                       | The belief that the people beside you still know where they belong. |
+| **Stance Break**                 | The moment they stop believing it.                                  |
+| **Skirmish**                     | Ground belongs to whoever can keep standing on it.                  |
+| **Stacking**                     | Too many people in too little space.                                |
+| **Rout**                         | The moment there is nowhere left to stand.                          |
+| **Mind Break**                   | Maladaptive psychology becoming tactically visible.                 |
+| **The Deck**                     | What someone can access under pressure.                             |
+| **The Draw**                     | Uncertainty.                                                        |
+| **The [[Beat]]**                 | One breath of [[The Eternal Symphony]].                             |
+| **The Measure**                  | A promise written four breaths ahead.                               |
+| **The Cadence**                  | The moment every promise comes due.                                 |
+| **Tracks**                       | Every voice performing its own line of the same song.               |
+| **Footing**                      | The more future a working demands, the more firmly one must stand.  |
+| **[[Visualization]]**            | [[Absolute Certainty]].                                             |
+| **Clarity**                      | Seeing what is true beneath what is shown.                          |
+| **Veil**                         | The dark may hide. It may not lie.                                  |
+| **The Redraw Bell**              | The price of searching for a better answer.                         |
+| **[[Chord Layering]]**           | Preparation and cooperation.                                        |
+| **The [[Major Note]]**           | The [[Weight of Purpose]].                                          |
+| **[[Minor Note]]s**              | Everything built around that purpose.                               |
+| **[[Discordant Interference]]**  | A plan losing [[Coherence]] when reality changes underneath it.     |
+| **Hold Limit**                   | No one can hold a single thought forever.                           |
+| **Collapse**                     | A broken promise returning to the one who made it.                  |
+| **Abjuration**                   | Answering a voice with its exact opposite.                          |
+| **Tempo Fever**                  | Flow, and the fear of leaving it.                                   |
+| **The Overbeat**                 | More happening inside the same breath.                              |
+| **Resolution Climax**            | Knowing when to end the song.                                       |
+| **Grand Resolution Chord**       | Everything at once, with nothing allowed to go wrong.               |
+| **Sympathetic Resonance**        | Souls tuned so closely that when one breaks, all of them hear it.   |
+| **Tuning**                       | Whether a person still sounds like themselves.                      |
+| **Soul-Key Override**            | The audible cost of acting against who you are.                     |
+| **Sacrifice Choice**             | Power purchased with the self.                                      |
+| **Miracle Cadence**              | Love surrendering its own form to save what it loves.               |
+| **Status Pollution**             | Injury and stress contaminating future thought.                     |
+| **[[Echoing Bonds]]**            | Relationship becoming synchronization.                              |
+| **Co-Regulation**                | Witnessing another person as a tactical act.                        |
+| **[[Death Knell]]**             | Survival reduced to probability.                                    |
+| **[[Piety]]**                    | Providence given a mathematical lifeline.                           |
+| **Field and Trauma Alterations** | Survival habits.                                                    |
+| **[[Legend Opus]]**              | The transformation of those habits into history.                    |
+
+The Symphony of War therefore becomes an allegory without ceasing to function as a strategy game.
+
+Enemy intent anchors one half of the tactical equation in certainty. The player's draw anchors the other half in probability. The player may know with absolute certainty that thirty-two damage will arrive in two [[Beat]]s and still possess only fifteen points of defense in hand. They know what should happen. They know what they possess. They know how many [[Beat]]s remain, and how many Beats the enemy's own working can survive. Then they choose what they are willing to risk.
+
+That is the central tension of the Symphony of War.
+
+_The player does not command numbers pretending to be people. The numbers are the language through which the people and their greatest moments in combat are expressed before they are canonized in the [[Stellar Legacy Score]] of the stars._
 
 # Composure
 
@@ -6981,11 +9414,13 @@ _"The most powerful magic is not the fire that burns brightest. It is the flame 
 
 #### Fuel Hierarchy at a Glance  
   
-- **Tier 0:** Meaningless sacrifice; almost no power and [[Discordant Interference]].
-- **Tier 1:** Physical exhaustion; reliable baseline fuel.
-- **Tier 2:** Life force and vitality; desperate and permanently costly.
-- **Tier 3:** Memories and identity-bearing losses; extremely potent and often irreversible.
-- **Tier 4:** Perfectly resonant sacrifice; uncaps what the spell can become.  
+- **Tier 0 (×0):** Meaningless sacrifice; no usable power, only [[Discordant Interference]].
+- **Tier 1 (×1):** Physical exhaustion; reliable baseline fuel.
+- **Tier 2 (×2):** Life force and vitality; desperate and permanently costly.
+- **Tier 3 (×4):** Memories and identity-bearing losses; extremely potent and often irreversible.
+- **Tier 4 (×10):** Perfectly resonant sacrifice; uncaps what the spell can become.  
+
+The multipliers are the Fuel Quality of the potency equation (see *Conservation of Energy and Fuel Mechanics* below). They are the shape of the economy, not a price list: through the [[Weight of Value]], the same offering can sit higher or lower on the ladder for different [[Spellweaver]]s. Heavier fuel also raises the stakes. It does not create [[Discordant Interference]] by itself, but it drives more energy through whatever the other principles are missing, so any gap in the spell is magnified.
 
 ### Music as Offloading and [[Essence Sacrifice]] Lubricant
 
@@ -6997,12 +9432,12 @@ The more the music aligns with the [[Spellweaver]]'s emotional state, personal h
 
 #### The Cost Ladder of Spellcasting  
 
-| Method                                  | Cost Equivalent (Fireball)                     | Efficiency |
-| --------------------------------------- | ---------------------------------------------- | ---------- |
-| No music, pure will                     | 3 burpees                                      | Lowest     |
-| Simple music (basic rhythm)             | 2 sit ups                                      | Moderate   |
-| Harmony + feeling the beat              | Doing a circle with the arm                    | High       |
-| Personal song (romance, grief, triumph) | Flicking a finger (offloaded to [[Resonance]]) | Highest    |
+| Method                                  | Cost Equivalent (Fireball)                          | Efficiency |
+| --------------------------------------- | --------------------------------------------------- | ---------- |
+| No music, pure will                     | One push-up                                         | Lowest     |
+| Simple music (basic rhythm)             | One sit-up                                          | Moderate   |
+| Harmony + feeling the beat              | One circle of the arm                               | High       |
+| Personal song (romance, grief, triumph) | One flick of the wrist (offloaded to [[Resonance]]) | Highest    |
 
 This progression explains why [[Triad Chord]]s became the gold standard of [[Spellweaving]] in later [[Ages]] — they married musical complexity with magical efficiency, allowing practitioners to achieve effects that would otherwise require catastrophic sacrifice.
 
@@ -7110,12 +9545,12 @@ This is only achieved when [[Essence Sacrifice]] can combine offloading with per
 
 However, [[Miracle Magic]] does not come from more power. It comes from *perfect alignment*. When all four conditions converge, the [[Great Harmonic Loom]] cannot distinguish between the sacrifice and the spell, between the fuel and the performer, between the song and the intention. They become one in their single [[Fundamental Frequency]]. Thus, the ceiling does not rise — it ceases to exist.
 
-| Factor                                   | Description                                                                                                                                                                                                                                                               | Contribution                                                                             |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Maximum Thematic [[Resonance]]**       | The song performed is the most cosmically aligned piece possible to the intention of the spell — not simply powerful, but the living expression of what the [[Spellweaver]] is trying to do.                                                                              | Amplifies [[Coherence]], creates [[Sympathetic Vibration]], eliminates harmonic loss.    |
-| **Tier 4 Perfect Fuel**                  | Thematically resonant sacrifice: not the most painful thing available, but the thing most *aligned* with the spell's purpose, surrendered willingly and completely.                                                                                                       | Removes the energy ceiling entirely.                                                     |
-| **Deep [[Echoing Bonds]]**               | The relationship between the [[Spellweaver]] and the subject or intention of the spell must be woven with history, memory, and genuine emotional architecture — providing high fidelity [[Stable Harmonic Channels]] for the spell's energy to flow through without loss. | Amplifies [[Resonance]], provides the harmonic infrastructure for a miracle scale output |
-| **Flawless Performance of Deep Emotion** | The performance must be technically and emotionally complete — not someone playing through the music, but someone *living through it*; a technically perfect but emotionally hollow performance will not produce a miracle.                                               | Unlocks the ceiling; allows energy to flow without loss or dampening                     |
+| Factor                             | Description                                                                                                                                                                                                                                                                                                                                                                               | Contribution                                                                                               |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Tier 4 Perfect Fuel**            | Thematically resonant sacrifice: not the most painful thing available, but the thing most *aligned* with the spell's purpose, surrendered willingly and completely.                                                                                                                                                                                                                       | The heaviest fuel (×10), and the only one that can remove the energy ceiling.                              |
+| **Maximum Thematic [[Resonance]]** | Honest feeling and deep [[Echoing Bonds]] at once. The relationship between the [[Spellweaver]] and the subject or intention of the spell must be woven with history, memory, and genuine emotional architecture, and felt with nothing held back ([[Emotional Authenticity]]), providing high fidelity [[Stable Harmonic Channels]] for the spell's energy to flow through without loss. | Amplifies [[Coherence]], creates [[Sympathetic Vibration]], eliminates harmonic loss.                      |
+| **Flawless Performance**           | The performance must be technically complete and centered in the [[Spellweaver]]'s own key ([[Mastery Over Chaos]] held with a clear [[Key of Attunement]]): not someone playing through the music, but someone *living through it*. A technically perfect but emotionally hollow performance will not produce a miracle.                                                                  | Allows energy to flow without loss or dampening.                                                           |
+| **Surrender to the Song**          | The song performed is the most cosmically aligned piece possible to the intention of the spell — not simply powerful, but the living expression of what the [[Spellweaver]] is trying to do — and the [[Spellweaver]] is inside it rather than performing it ([[Music as Catalyst]]).                                                                                                     | Carries the cost. No song can take the last tenth on its own; when all four converge, that tenth vanishes. |
 
 ### The First Miracle: [[Elara]] and the Song of [[Sedrick]]  
   
@@ -7129,7 +9564,7 @@ The fuel she offered was not simply precious — it was perfectly thematic. She 
 
 The miracle healed what was otherwise impossible. The [[Coherence]] achieved was perfect, no ceiling existed to cap it, no [[Dissonance]] to blunt it, no limit that was not simultaneously dissolved by an equal offering.
 
-[[Elara]] used everything simultaneously: the offloading of [[Music as Catalyst]], Tier 4 Perfect Fuel, maximum thematic [[Resonance]], infinite [[Echoing Bonds]] of her entire history, and a flawless performance of absolute emotional depth.  
+[[Elara]] used everything simultaneously: Tier 4 Perfect Fuel, maximum thematic [[Resonance]] carried by the infinite [[Echoing Bonds]] of her entire history, a flawless performance of absolute emotional depth, and the complete offloading of [[Music as Catalyst]] in the song of [[Sedrick]].  
 
 The miracle worked. [[Eyras]] survived. But [[Elara]] was hollowed — unable to feel the love she had sacrificed. The gap between knowing she was a mother and *feeling* it became the wound that would eventually corrupt her into [[The Cradle of Echoes]].
 
@@ -7167,7 +9602,7 @@ Once awakened, the [[Spellweaver]] experiences a profound shift: sacrifice no lo
 
 ### Conservation of Energy and Fuel Mechanics
 
-As the fourth auric thread, [[Essence Sacrifice]] frames [[Spellweaving]] as a physical exchange of energy, not mystical importation of infinite resources. Drawing on the principle that energy can neither be created nor destroyed, this binding stipulates that all magical output must equal the energy withdrawn from the [[Spellweaver]]'s own essence.
+As the fourth auric thread, [[Essence Sacrifice]] frames [[Spellweaving]] as a physical exchange of energy, not mystical importation of infinite resources. Drawing on the principle that energy can neither be created nor destroyed, this binding stipulates that all magical output must equal the energy withdrawn from some source. What [[Music as Catalyst]] carries is drawn through the [[Resonance]] field of the song; everything it does not carry is withdrawn from the [[Spellweaver]]'s own essence.
 
 Fuel is also proportional to the meaning and sacrifice exchanged, where a high symbolic fuel can make the simplest of reactions turn potent. The universe does not measure solely in complexity, but in potential — and the top ceiling that anything can achieve if fueled by enough meaning.
 
@@ -7176,9 +9611,23 @@ The [[Void]] element exemplifies this mechanism in physical terms: Shadow repres
 Thus the final offloading equation is the relationship between music, sacrifice, and spell potency which can be expressed as:
   
 $$\text{Spell Potency} = \frac{\text{Fuel Quality} \times \text{Thematic Resonance} \times \text{Performance Quality}}{\text{Remaining Essence Sacrifice Cost}}$$  
-When music handles the denominator through offloading, the numerator's factors determine the ceiling. When fuel quality reaches Tier 4, thematic resonance aligns perfectly, and performance achieves flawless emotional authenticity — the denominator approaches zero, and the spell's potential approaches infinity.
+
+Every term is read against a standard casting: Tier 1 fuel, every other principle neutral, and no music. That casting is 100%, so the equation reads as how many standard castings a spell is worth.
+
+| Term                                 | What it measures                                                                                                                                                                                                     | Standard casting        |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| **Fuel Quality**                     | The tier of what is offered: ×0, ×1, ×2, ×4 or ×10.                                                                                                                                                                  | ×1, physical exhaustion |
+| **Thematic Resonance**               | [[Emotional Authenticity]] and [[Echoing Bonds]]: whether the feeling is real, and whether the song and the target share a history. [[Essence Sacrifice]] is not counted again here, because it is already the fuel. | Neutral                 |
+| **Performance Quality**              | [[Mastery Over Chaos]] ([[Sufficient Precision]], [[Perfect Focus]] and [[Absolute Certainty]]), centered by the [[Key of Attunement]]. A lost Key halves the performance rather than erasing it.                     | Neutral                 |
+| **Remaining Essence Sacrifice Cost** | What [[Music as Catalyst]] has not carried. The song can only carry what feeling and history let it couple, and never more than nine tenths on its own.                                                              | The full cost           |
+
+When music handles the denominator through offloading, the numerator's factors determine the ceiling. An ordinary [[Spellweaver]] keeping time with a basic rhythm already casts at 125% for the same push-up. One with true feeling and deep bonds, inside a song that is personally theirs, pays a tenth of the cost and casts at 2,000%.
+
+No song can take that last tenth away on its own. It vanishes only when fuel quality reaches Tier 4, thematic resonance aligns perfectly, the performance is lived rather than played, and the [[Spellweaver]] surrenders to the song entirely. Then the four lock into a single [[Fundamental Frequency]], the denominator is zero, and the spell has no ceiling left to approach.
 
 This is the mathematics of miracles.
+
+What the equation does not show is [[Discordant Interference]]: the risk of a spell turning on its own [[Spellweaver]]. It rises with what the principles *lack* rather than with what the spell outputs, and heavier fuel magnifies it. The full derivation, the interference ledger and the worked examples (canon's war-scissors failure from [[The Principles of Magic]] and [[Elara]]'s miracle) are in [[Soliton]], under *Spell Potency*.
 
 # Event System Logic
 
@@ -8104,11 +10553,11 @@ _A [[Civilization]] that stands the test of time must be reborn from its own des
 
 ### ⚙️Core Systems
 
-- [[Game Logic]]
-- [[Event System Logic]] & [[Achievement]]
-- [[Government Logic]]
-- [[Environment Logic]]
-- [[Combat System]] & [[Atonalis]] Boss fights
+- [[Game Logic]] (Done)
+- [[Event System Logic]] & [[Achievement]] (Done)
+- [[Government Logic]] (Done)
+- [[Environment Logic]] (Done)
+- [[Combat System]] (Done) & [[Atonalis]] Boss fights
 - [[Legend]]s, [[Legend Title]]s and the [[Stellar Legacy Score]]
 - [[World Event]]s, [[Minor Actor]]s, [[Major Actor]]s
 - World Exploration, [[Landmark]]s, [[Religious Haven]]s
@@ -8143,14 +10592,15 @@ _A [[Civilization]] that stands the test of time must be reborn from its own des
 - [[Age of The End]], [[Parlor of the Moon]].
 - [[Drowning in Flux]], [[Crystalized in Delusion]], [[Surrendering to the Void]], [[Runway Fuel in Cindergale]]. [[Blighted in Luminance]], [[Derealization in Resonance]].
 - [[Notas Diplomado]]. [[Amadea]], [[Amadea Traducción Español]].
-- [[The Auric Aria is a Type G Star]], [[Achievement]]
-
+- [[The Auric Aria is a Type G Star]], [[Achievement]], [[Arcanorian Ecology]].
+- [[Achievement]]
 #### Miscellaneous
 
 ##### [[My Statement on AI]] | [[Amadea, Sonata of the Violet Empress]]
 
 ##### **AMADEA TO DO**
 
+- [[Soliton]] doc by [[The White-Touched Archivist]] ending with: At its [[Soul-Key]], [[Arcanoria]] is not saying: **“The universe is a seven-dimensional driven-dissipative cubic-quintic topological quasicrystalline field.”** It is saying something much simpler and much more characteristic of musical poetry: **Everything exists because it has found a way to keep singing itself against the noise.**
 - Determine the major spells of [[Mythical Virtuoso]] aside from [[Amadea]]'s. (First [[Time Bubble Arts]] with [[Cordelia]]) [[Eleos Arts]] founded by [[Orphael]].
 - Finish first chapters, add culture and map of where they are travelling. During  the [[The Golden Light in the Sky]] act.
 - Establish which disciplines of the tessituras of [[Spellweaving]] they revolutionize.
@@ -8163,26 +10613,15 @@ _A [[Civilization]] that stands the test of time must be reborn from its own des
 - Detail the places that [[Amadea]] visits, from [[Sprite-Light Conclave]] to other [[Enclave]]s and towns of [[Civilization]]s.
 - Detail the food of the caravan and of [[Amadea]]'s journey, the importance of cooking for their [[Cycle]] birthdays.
 - Detail the entire personality of the [[Eight-Wings of Lacrimosa]]
-- [[Leander]] is the [[Demi-Human]] giant friend of [[Orphael]] who is a drummer that has a healthy relationship with his father and is the primary acoustics for [[Sephira]]'s fire dancing techniques. It has [[Void]] access to [[Reverberation Arts]] to make breakcore following [[Sephira]]'s super fast music. Despite all the musculature he is quite sensitive and loves [[Amadea]]'s violin sound and wants her to teach how to play despite being massive. Outside of combat, he helps in [[Iridia]] new [[Dance]]rs and the [[Civic]] fantasy plays. Eventually marries [[Ligeia]].
 - Explain [[Amadea]]'s psychology from what she has in her taste. "Tastes bitter, metallic, etc" to express interior of the character. It has to evoke the feeling of "They made me feel I was there." especially for describing landscapes and when transitioning to major [[Landmark]]s or cities.
 - Hint at RHKH by the chorus Nordic society with Hebrew and the fight between them and [[Hollowmarch]]. Detail too how [[Formless Father]] and [[Looping Paradox]] are teased by the [[Chorus Pillar]] minorities that don't stand with [[Lacrimosa]].
 - Amadea and luminaire gaze at the lunar abyss and get the opus of survivors of the lunar abyss, they reach the section where the stars appear in the mirrored pools signaling the [[Outer God]]s. Also, Endless halls that watch your every step in the [[Lunar Abyss]].
 - "What made you so evil? Evil? Who told you I was evil? Is that what they think about me now? Hah, then I guess it must be true..." - Aurean Winds Colosseum champion.
+- Three fates related to [[Laima]] and her backstory.
 - [[Luminaire]] is in proximity with the fractured silver blood kingdom and where Strauss is because [[Hollowmarch]] is at its peak expansion and requires having several ruling areas, she got assigned this on one of the frontier sections to eventually prepare her as monarch.
 - Arsinoe related to [[Medea]] and [[Junius]] as one of the betrayers. Creon is the name of the ancient inheritor of the court that became the d'Acreon, family and then [[Cordelia]] direct lineage.
 - Althea character related to [[Amadea]]'s continent.
-- Snow Leopard _"beautiful things don't ask for attention"_ Character based on tatooed arms of [[Vow Mark]]s as a core in Strauss, she is the leader of the [[Demi-Human]]s that helps in the emancipation of Strauss and eventually becomes an important part of [[Iridia]] as leader of [[Artusian Knight]]s. Some of her friends which are also [[Demi-Human]]s join and die in the [[Shadow Order]] wars. The core feline cast is a trio of catgirls. One of the trio of the catgirls is the subjugated [[Velvet Nectar]] that [[Amadea]] tasted and the pendant she takes from the noble, eventually a lynx joins the group. One of the important votes is determining from the trio which is sent where and what girl dies as a result.
-- [[Reality Bender]] foxgirl with severe trust issues who [[Amadea]] comes to know in Strauss and is key part of the liberation, almost dies but manages to escape. She is a core member all the way to the final fight and joins [[Iridia]]. She and [[Amadea]] have several [[Reality Bender]] interactions with one another for comedic no one knows what is happening [[Illusory Magic]]. [[Cordelia]] watches these baffled. She becomes a core support for [[Sephira]] as well as a Dancer. Is the other important [[Demi-Human]] of [[Iridia]] alongside the snow leopard. Another of these fever dream sessions is about buying [[Eleos Bloom]]s, the foxgirl is buying each of these individually while [[Amadea]] is the seller selling a whole package instead of individual loaves: _Ma'am, you really can't buy individual slices like | I buy the [[Eleos Bloom]] *Pressing Celesta* | You have to buy the whole thing. It's- Uhm. *Loaves begin raining* Wait, where are these even coming from? | I buy the [[Eleos Bloom]] *Pressing Celesta* | It's on the counter now and the floor._
-- Early in her arc when she is developing her [[Soul Oscillator]], pressing one key could sometimes produce more than one perceived sound. Someone beside her hears C. Someone across the room hears a high G harmonic. She insists she pressed C. Amadea hears both.
-- The leopard [[Vow Mark]] becomes a diagonal opposite to [[Arioch]] with the [[Purest of Love]] as she fights against the concept of bondage and servitude as both are [[Demi-Human]]s who were forced into slavery. The leopard girl asks: _Who owns my will?_ | **The foxgirl asks:** _Who gets to say what I am?_
-- Later, the [[Reality Bender]] foxgirl is the one that becomes dangerously close to surrendering to [[The Hollowing]] because her severe trust issues make the promise of a world without deception extremely seductive. [[Lacrimosa]] offers her something [[Pollux]] never could: absolute certainty. No masks, no lies, no wondering whether what she sees through [[Illusory Magic]] is real, and most importantly no possibility of betrayal because there is no separation between minds. For someone who has survived by constantly questioning reality and other people, [[The Hollowing]] feels like finally being allowed to stop asking whether the world is lying to her.
-- The Snow Leopard is the one who reaches her before she surrenders. This becomes the culmination of her own relationship with agency because, after having her own will controlled through [[Vow Mark]]s, she refuses to save the foxgirl by taking the decision away from her. She can only remain with her and tell her that she cannot promise [[Iridia]] will never fail her, that nobody will ever betray her, or that trusting someone will not hurt, but the choice remains hers and she will stay while she makes it. The foxgirl chooses to remain herself not because uncertainty disappears, but because another separate consciousness remains beside her while she faces it.
-- This becomes a deliberate thematic mirror to [[Amadea]] and [[Cordelia]]. [[Amadea]] loves [[Cordelia]] but does not reach her before the decisive moment of [[The Hollowing]] while the Snow Leopard reaches the foxgirl just in time. The difference is not that the Leopard loved her more or had a better argument, but simply that **she got there in time**. This becomes particularly painful for [[Amadea]] because it proves that sometimes the difference between losing someone and saving them is having another person physically present during the few moments when they can still hear themselves. The foxgirl teaches the Leopard that identity can change without being lost, while the Leopard teaches the foxgirl that trust can remain uncertain without being false.
-- A male hound-type Demi-Human first appears in Strauss as one of Cyril’s underground agents, working through the tunnels beneath the city to locate captives, move information, and guide escaped Demi-Humans away from the Court’s trafficking networks. Amadea meets him while discovering how deeply Demi-Human slavery permeates Strauss—not merely through auctions, but through servants, hidden holding cells, Vow Marks, transport routes, and people who have learned to survive beneath the city. His ability to track people through residual Resonance makes him invaluable to Cyril and later to Amadea during the mass liberation when she kills the [[Corpse Bouquet]].
-- He becomes one of the important Demi-Human figures who follows Amadea toward Iridia, eventually specializing in reconnaissance, extraction, and bringing missing operatives home. Where the Snow Leopard represents autonomy after bondage and the Foxgirl represents the right to define one’s own identity, the Hound represents protection and responsibility: his entire sense of worth becomes tied to finding people who disappear. He unconsciously mirrors Corvin—counting survivors, checking routes, watching entrances, and always asking whether everyone returned—but unlike Artus, whose instinct is to sacrifice himself for others, the Hound’s instinct is to retrieve them. Later when [[Lenore]] arrives at [[Iridia]] she sees it immediately. _“Of course you trust him. You found yourself another man who counts everyone before he sleeps.”_
-- This becomes the weakness through which Lacrimosa eventually reaches him. During the Hollowing, people disappear faster than he can rescue them; entire communities fall, refugees he retrieves willingly surrender afterward, and his identity collapses under the accumulation of those he could not bring home. Lacrimosa offers him the impossible fulfillment of his deepest wish: **“No one is lost here.”** He surrenders because the Hollowing abolishes separation itself. Afterward, the man who once found the missing so they could return home becomes capable of finding survivors so they can be absorbed—turning his greatest virtue into one of Amadea’s most painful losses.
-- 3 missing. He finds all 3. Then: 17 missing. He finds 15. Then: He finds 41. Then an entire village. Then three villages. Then refugees start deliberately hiding because they want Lacrimosa. Then people he rescues walk back toward the All-Loving Moon. That last part is what breaks him. He retrieves someone. They thank him. That night they Hollow willingly. He finds them again and there is **nothing left to rescue** which is where he begins dangerously close to break before [[Orphael]] and some of his friends defect too.
-- A mystery user using a dress, an animal mask, a dress and a kusarigama that flows alongside the dress he has. Important character that joins [[Iridia]] during the [[Shadow Order]] war and has a relationship with the [[Demi-Human]]s of [[Iridia]]. Originally the foxgirl seeing another human walking around in an animal mask is treated with immediate hostility becuase "Why are you wearing somebody else's face?" But unlike the Court, he can remove it, and most importantly, he refuses to do so because choosing what other people are allowed to know about yourself is itself agency. Most importantly, symbolically he is a man fighting alongside former slaves with a chain. The sound of that chain causes the leopard to involuntary trigger her ptsd, and it evolves throughout the story because on the final fight it means he has arrived, the sound changes history.
+- A mystery user using a dress, an animal mask, a dress and a kusarigama that flows alongside the dress he has. Important character that joins [[Iridia]] during the [[Shadow Order]] war alongside the [[Demi-Human]] theologian, and has a relationship with the [[Demi-Human]]s of [[Iridia]]. Originally [[Fidessa]] seeing another human walking around in an animal mask is treated with immediate hostility becuase "Why are you wearing somebody else's face?" But unlike the Court, he can remove it, and most importantly, he refuses to do so because choosing what other people are allowed to know about yourself is itself agency. Most importantly, symbolically he is a man fighting alongside former slaves with a chain. The sound of that chain causes [[Vashti]] to involuntary trigger her ptsd, and it evolves throughout the story because on the final fight it means he has arrived, the sound changes history.
 - Beryl legendary spear wielder that inspires [[Elaine]] and [[Kay]]'s fighting style. He is the older brother of the boreal king, who is in the present day of [[Amadea]] old but he remembers vividly his brothers death which is why he becomes involved against Strauss in the shadow order wars because he has a personal grudge against Daphne and the [[Court of Delicacies]].
 - disminuir gerundio y voz pasiva, y los dos y en los adjetivos. Evitar debilitar imágenes. Adjetivos para buscar los adjetivos transformarlos en adverbios. oraciones subordinadas diferentes.
 - [[Amadea]] meets [[Lucetta]], who is a core character for a while and was there on an investigation, until they reunite with [[Destra]], [[Arioch]] and [[Seraph]] in the [[Crescent Mist Peaks]]. This introduces the rest of the [[Eight-Wings of Lacrimosa]]. Later she allies them against the [[Shadow Order]] war alongside the rest of the [[Purest of Love]]. This also gives [[Lacrimosa]] proximity to wars.
@@ -8193,7 +10632,8 @@ _A [[Civilization]] that stands the test of time must be reborn from its own des
 - [[Pure Light]] hybridization explained by [[Elaine]] as the biological proof that [[Resonance]] can overcome structure.
 - Mehr Ling introduction: _"I don't want to give him classes of [[Divination Arts]], why would I, he has 2 more [[Cycle]]s at best to live, by the golden grace, with some luck he can finish the course."_
 - Vote on feline trio of who wings the fight at close combat, they are all evenly match and the vote changes the winner of the tournament based on what they use to train.
-- Vote on how Althea either survives or perishes during the [[Shadow Order]], if she doesn't die alongside Mehr Ling, she will die in [[The Hollowing]].
+- Vote on how Althea either survives or perishes during the [[Shadow Order]], if she doesn't die alongside Mehr Ling, she will die in [[The Hollowing]]. 
+
 
 - Cinematic Images:
 	- Artus & Amadea looking at Static Criticality in Chapter 1 **(Tier $5)**
@@ -8230,7 +10670,7 @@ _A [[Civilization]] that stands the test of time must be reborn from its own des
 - [[Franchise Potential]].
 - Spiritual traces as residual [[Pure Light]] related to [[Strand]]. (?)
 - Deepen [[Cosmic Motion]] and [[The Stars Are Alive]] cosmology to be full astro for [[Ages]] XI onwards. Bio seeding planet and magic with the [[Great Harmonic Loom]] as seeds for establishing [[Spellweaving]] in other planets.
-- [[Achievement]] of _"Why bite the hand that feeds you when it's the only hand you're getting?"_ for [[Spellweaving]] Combat.
+
 
 - Places: Solenia ([[Moon]] Themed after [[Selenea]]), Aguasmeralda. Mensur dueling similar to the duels of severance [[Civic]] evolved during the Medieval [[Ages]]. Facial scars as honor and pride. In the narration, use character fears to perceive how to structure chapters and POVs. If the character has fear of being interrupted, have the line of thought being interrupted. Recinto eterno de la penumbra. Lol-Ha' mayor city meaning "Water Flower".
 
@@ -8251,7 +10691,7 @@ Estructura y Personaje.
 - [[Beat]]boxing [[Civic]] and beatbox battles inspired by verbalase.
 - There are severe [[Legend Trait]]s that can be acquired by subjugation [[Events]] for each element, the most prominent are [[Drowning in Flux]] for neurological addition and [[Crystalized in Delusion]] through conditioning for being [[Delusional]]. [[Drowning in Flux]] was first developed by the Velvet Cage in [[Ages]] IV, and [[Crystalized in Delusion]] by [[Miss Nyctilia]] in [[Ages]] V with the rise of the [[Dissonance League]] and her "Lucky Coin" which is a [[Hyperphantasia Arts]] and the first practitioner of the [[Butterfly Web Arts]].
 
-- To also combat power creep and stagnation of [[Civilization]]s. On [[Age Transition]]s, there is are modernization [[World Event]]s tied to the [[Fate Stage]] where the hub of knowledge sparks the [[Civic]] revolution, this is important whenever there's a transition of the major [[Ages]] of Tier 1, 2, 3, and 4, as some of these will have a modernized version of the same [[Civic]] showing evolving culture, or have to merge with cultural [[Syncretism]], to become effective, while some of the ones that endure between one transition require reformation. It stops the snowball loop as it's harder to acquire the more population a [[Civilization]] has while making sure there is a reward for lower [[Civilization]]s to rapidly become hubs of ideas and culture hotspots for the new [[Ages]]. All [[Civilization]]s have to adapt to continue surviving by building layer upon layer of their history. The transition of cultures is the philosophical question of the Ship of Theseus embodied by moldy worldbuilding and rooted in [[Legend]]s. If the culture keeps changing piece by piece, at what point is the [[Civilization]] the same? Mirroring the real-world phenomenon of Romans becoming Italians through [[Events]], adaptation, and [[Age Crisis]]. An example of this is the early [[Civic]] of Tier 1 [[Ages]] of Foundations & Early Magic of Moonlit Vigil that upon reaching [[Ages]] IV has to evolve into Courting Grounds during Tier 2 [[Ages]] on the Medieval Period. It preserves the identity but expands on the things it can do by pairing it with the current relevance of the sociopolitical climate for layered culture. [[Achievement]]
+- To also combat power creep and stagnation of [[Civilization]]s. On [[Age Transition]]s, there is are modernization [[World Event]]s tied to the [[Fate Stage]] where the hub of knowledge sparks the [[Civic]] revolution, this is important whenever there's a transition of the major [[Ages]] of Tier 1, 2, 3, and 4, as some of these will have a modernized version of the same [[Civic]] showing evolving culture, or have to merge with cultural [[Syncretism]], to become effective, while some of the ones that endure between one transition require reformation. It stops the snowball loop as it's harder to acquire the more population a [[Civilization]] has while making sure there is a reward for lower [[Civilization]]s to rapidly become hubs of ideas and culture hotspots for the new [[Ages]]. All [[Civilization]]s have to adapt to continue surviving by building layer upon layer of their history. The transition of cultures is the philosophical question of the Ship of Theseus embodied by moldy worldbuilding and rooted in [[Legend]]s. If the culture keeps changing piece by piece, at what point is the [[Civilization]] the same? Mirroring the real-world phenomenon of Romans becoming Italians through [[Events]], adaptation, and [[Age Crisis]]. An example of this is the early [[Civic]] of Tier 1 [[Ages]] of Foundations & Early Magic of Moonlit Vigil that upon reaching [[Ages]] IV has to evolve into Courting Grounds during Tier 2 [[Ages]] on the Medieval Period. It preserves the identity but expands on the things it can do by pairing it with the current relevance of the sociopolitical climate for layered culture. 
 
 - Some [[Civic]]s obtained from [[Divine Reset]]s, and other [[Events]] that require losing or enter a [[Dark Age]] to get powerful items such as the [[Age of the False Messiah]] giving the [[Eight-Winged Viola]] based on how much [[Consciousness]] was assimilated in the [[All-Loving Moon]]. [[The White-Touched Archivist]]
 
@@ -8275,7 +10715,7 @@ Estructura y Personaje.
 
 - Auric Resonators made in the [[Old Testament]] by [[Aurelian]], in the [[New Testament]] they exist as ruins due to [[The Ultimate Weapon]], but in [[Ages]] I they get rebuilt and [[Daedalus]] fixes the infinite hum they had, in [[Hollowmarch]] these auric resonators are the key parts of infrastructure that keeps the golden wards of laureated marble.
 
-- Piranesi [[Landmark]] to escape from horrors of knowledge and anything that is hunting someone, it requires surrendering the identity of oneself. Name + Voice + Face, to become nameless, voiceless, and faceless to continue surviving. It pushes the concept of what even is identity and a [[Fundamental Frequency]]. Tied to the [[Events]] of [[A Burrowed Name]]. [[Achievement]]
+- Piranesi [[Landmark]] to escape from horrors of knowledge and anything that is hunting someone, it requires surrendering the identity of oneself. Name + Voice + Face, to become nameless, voiceless, and faceless to continue surviving. It pushes the concept of what even is identity and a [[Fundamental Frequency]]. Tied to the [[Events]] of [[A Burrowed Name]]. 
 
 - [[Chorus Pillar]] 
 
@@ -8318,7 +10758,7 @@ Estructura y Personaje.
  
 - Preconception the Movie as a reference for an intersex [[Outer God]] that gets pregnant with itself and its son is the god. It causes a [[Time Bubble]], a paradox where it is both the son, the mother, and the father in an infinite ouroboros [[Cycle]].
 - Brobola creature.
-- [[Glimmerfern]] is a Barnsley Fern fractal. [[Achievement]]
+- [[Glimmerfern]] is a Barnsley Fern fractal.
 
 - The player is [[Cosmic Motion]] on the equation of 3 x 4 x 7. the variations on the Choice of the End are different operations, multiplying 7 by the power of -3 is the Reset of [[Arcanoria]], changing [[A True Sine Wave]] is multiplying by 0, removing the 4 to have 3 at the power of 3 with 7 at the power of 3 is 21 at 3 which is the start of the universe without [[Cosmic Motion]] (the Third Actor) for them to interact with one another. [[Original Eight]]
 
@@ -17740,7 +20180,7 @@ The Romantic Interest System's first action is silent and depends on the [[Legen
 | **Heterosexual** | Protocol activates only for opposite-gender-expression pairings                                |
 | **Homosexual**   | Protocol activates only for same-gender-expression pairings                                    |
 | **Bisexual**     | Protocol activates for any pairing where the other Legend passes the [[Affection]] threshhold. |
-
+[[Vaelia]]
 The system itself functions through the following levels of Romantic Interest that behave as equally asymmetrical as the rest of [[Legend Relationship]]s.
 
 | Threshold   | Stage           | Behavioral Expression                                                                                                                                                                                  | Mechanical Effect                                                                                       |
@@ -20526,13 +22966,13 @@ Magic exists due to a [[Soul Leitmotif]], requires a [[Primary Instrument]] to t
 
 [[Mi Declaración Sobre la IA]] 
 
-_On Human Agency, Creation, and the Mirror of Resonance. The Manifesto of Arcanoria, coded to each of the seven bindings of the Auric Heptacode._
+_On Human Agency, Creation, and the Mirror of Resonance. The Creative Manifesto of Arcanoria, coded to each of the seven bindings of the Auric Heptacode._
 
 All prose is 100% human-written. I do not let any AI write, rewrite, or directly author any of the final literary pieces I release for the Sonata of Amadea.
 
-This includes all the published writing work and the outlines spanning the entirety of the 84 Acts: the key events, the composition of the scenes, the characters, their choices, their flaws, their contradictions, their voices, their fears, and their desires. I have written all of it painstakingly, by my own hand and through many sleepless nights: the entirety of the heptacode, its equations, the metaphysics, and the entire canon I ultimately establish for [[Arcanoria]] and [[Gateway to Genesis]].
+This includes all the published writing work and the outlines spanning the entirety of the 84 Acts: the key events, the pacing, the composition of the scenes, the characters, their choices, their flaws, their contradictions, their voices, their fears, and their desires. I have written all of it painstakingly, by my own hand and through many sleepless nights: the entirety of the heptacode, its equations, the metaphysics, and the entire canon I ultimately establish for Arcanoria and Gateway to Genesis.
 
-I love writing, I love composing musical pieces, I love imagining scenes before they exist anywhere, and I wouldn’t let anything take that away from me. I deeply love the universe of [[Arcanoria]], and it has been my fierce passion and borderline obsession for well over the entire past year.
+I love writing, I love composing musical pieces, I love imagining scenes before they exist anywhere, and I wouldn’t let anything take that away from me. I deeply love the universe of Arcanoria, and it has been my fierce passion and borderline obsession for well over the entire past year.
 
 I write to make this universe real. Nothing and no one could ever take away the process of creation from me.
 
@@ -20549,7 +22989,7 @@ This last part is especially why I turned to using AI in the first place.
 
 Long before I found a use for [[The White Agent Scribe]], I found the hardest part of my journey as a writer was finding anyone who would reply to my worldbuilding rants, especially since I go over new ideas and change their place in the canon before I settle on something final. I now have recently joined writing clubs, but even then, finding a person sane enough and willing to listen to three consecutive hours of rapid-fire metaphysical outlining mixed with terrible puns at 3 AM is practically impossible, and I know from experience; I tried it multiple times, repeatedly. (In all truth, I still annoy some of my friends with this to this very day; I have not fully gotten the memo.)
 
-Thus, AI became a niche kind of companion who couldn’t refuse to read the stack of a million words I sent every time I wanted to change the color of the sky for the ninth time (_night_ time pun intended) or ask what if X character was a worm. It would charge me a million tokens, sure, but it would always read it, and when starting from nowhere, that was good enough, especially when I had no one.
+Thus, AI became a niche kind of companion who couldn’t refuse to read the stack of a million words I sent every time I wanted to change the color of the sky for the ninth time (_night_ time? Perchance. 🤔) or ask what if X character was a worm. It would charge me a million tokens, sure, but it would always read it, and when starting from nowhere, that was good enough, especially when I had no one.
 
 I will go into much more depth on this last topic in the following sections, but first I need to draw a line:
 
@@ -20557,8 +22997,10 @@ I will go into much more depth on this last topic in the following sections, but
 
 That one distinction is why there can even be an argument.
 
-**2. What I Will Never Delegate** ([[Sufficient Precision]] | [[Luminance]] | [[Weight of Flaw]])
+**2. What I Will Never Delegate.** ([[Sufficient Precision]] | [[Luminance]] | [[Weight of Flaw]])
 _Sure, progress is good, automation is useful, but human agency remains the only reason why either of those should exist._
+
+Progress for the sake of progress is called cancer, progress for the sake of expanding the human experience is evolution.
 
 As I said earlier, I truly enjoy the creative process behind making something come true. I have laughed, cried, felt both joy and pain in equal parts alongside my characters.
 
@@ -20570,25 +23012,31 @@ So what does all of this and the entire manifesto actually mean?
 
 I will never let AI decide the story for me, nor let any of the development output reach the final published prose of any of the 84 acts, the bonus chapters, and anything that is publicly front-facing, so rest assured that everything you see at the very end is mine, and mine alone, fully free of AI slop, just as I don’t share my drafts or early manuscripts as if they were of published quality because I care of my craft.
 
-Still, just as I said that I care about quality, I am using anything available to find that upmost quality, so I do use AI to help in this labor as a personalized multi-purpose tool in many areas of my behind-the-scenes cycle: coding, research, placeholders, visual arts drafts, planning (I’m sorry but I can’t make an agenda even if the universe ended), exploring musical ideas, drafting layouts, in-depth analysis, other types of prototyping, first-pass proofreading before getting text to an actual editor (Grammarly is such a blessing), bouncing concepts back and forth, and even ideation. Consequently, if I use it to brainstorm, I don’t borrow its creativity, nor does it have any final creative authority; there is a whole other pipeline I weave through by which that one decision threads. It has to change, mutate, and fit my personal taste for perfection as much as the ontological impossibility of the [[Weight of Flaw]] allows.
+Still, just as I said that I care about quality, I am using anything available to find that upmost quality, so I do use AI to help in this labor as a personalized multi-purpose tool in many areas of my behind-the-scenes cycle: coding, research, placeholders, visual arts drafts, planning (I’m sorry but I can’t make an agenda even if the universe ended), exploring musical phrases and ideas, drafting layouts, in-depth analysis, other types of prototyping, first-pass proofreading before getting text to an actual human editor (Grammarly is such a blessing), bouncing concepts back and forth, and even ideation. Consequently, if I use it to brainstorm, I don’t borrow its creativity, nor does it have any final creative authority; there is a whole other pipeline I weave through by which that one decision threads. 
 
-The distinction is straightforward: I can delegate a task without delegating my judgment, much like how leadership behaves in real life. I am putting a potential idea through the same ruthless creative process I apply to every other possibility I encounter, whether it originates from a conversation, a record log of my time traveling, a piece of music, or a deranged thought that kept me company in insomnia just long enough to follow me into the dreaming world.
+Every single idea has to change, mutate, and fit my personal taste for perfection as much as the ontological impossibility of the [[Weight of Flaw]] allows.
+
+- If a violin’s, guitar’s, or any other type of instrument’s strings are muddy, they’ll never ring clearly. Before you play anything, you have to tune it and then make sure creativity isn’t impaired by something muffling the signal of your intent.
+
+The distinction is straightforward: I can delegate a task without delegating my judgment, much like how leadership behaves in real life with a human development team. I am putting a potential idea through the same ruthless creative process I apply to every other possibility I encounter, whether it originates from a conversation, a record log of my time traveling, a piece of music, or a deranged thought that kept me company in insomnia just long enough to follow me into the dreaming world.
 
 In fact, some of my most critical mechanical breakthroughs in my worldbuilding didn’t come from structured planning or complaisant AI brainstorming. The entire register of [[Flux]] and [[Crystal]] interactions came from somewhere much more bizarre.
 
 On one of my many 3 AM conversations spent bugging friends, a male friend did reply, but he did so because he wanted to jokingly dismiss my metaphysical rants by asking how he could have boobs in the magic system instead. Of course, it was a ridiculous joke meant to get me to shut up. However, my obsessive architect brain refused to let it go because it did point at an underlying issue:
 
-- _Wait, how do I even have something remotely close to changing anatomy if none of the [[Magic Arts]] interact with organic tissue? And what can even create physical objects from spontaneous nothingness without accidentally introducing a latent eldritch horror into the entire magic system?_
+- _Wait, how do I even have something remotely close to changing anatomy if none of the [[Magic Arts]] interact with organic tissue? And what can even create physical objects from spontaneous nothingness without accidentally introducing a pandora’s box of latent eldritch horrors into the entire magic system?_
 
 That single absurd question forced me to overhaul the interplay between bindings, birthed the entire register of [[Illusory Magic]], [[Shapeshifting Arts]], and laid the groundwork for most of the dyad and triad chord interactions between [[Flux]], [[Crystal]], and [[Luminance]] found in [[The Registers of Magic]] today. In the end, the dismissal was a little silly but, more importantly, it was a massive net gain. If I had listened to AI ideas passively, I never would have turned that ridiculous curveball into the gears that accidentally stress-tested my entire physics engine.
 
-To even begin with, if I ever were to agree with a generic AI slop idea that a character is sad because they were betrayed and is now seeking vengeance, then comes the next massive question that only appears in the one fiction where reality itself is a relationship built on [[Resonance]]: What is the texture of grief? The flavor of betrayal? How does their joy or sadness broadcast something that can be a miracle or a crime depending on consent? Which part of that emotion, or its consequences, does the receptive acoustic environment weaponize?
+To even begin with, if I ever were to agree with a generic AI slop idea that a character is sad because they were betrayed and are now seeking vengeance, then the next thing to come is the massive question that only appears in the one fiction ([[Arcanoria]]) where reality itself is a musical relationship built on [[Resonance]]: What is the texture of grief? The flavor of betrayal? How does their joy or sadness broadcast something that can be a miracle or a crime depending on consent? Which part of that emotion, or its consequences, does the receptive acoustic environment weaponize?
 
 By the point it has some semblance of [[Coherence]] within the acoustic ontology of [[Arcanoria]], it is a radically different idea and output, behaving much like the Ship of Theseus:
 
 - At what point does an idea change ownership in name if it resembles nothing of the original? That is precisely what I answer in the final creative judgment.
 
-Regarding characterization, there is one massive thing I do not let AI remotely touch: character names. Naming a character is probably where I am most deliberate and ornate in my craft. I see this process as indistinguishable from naming a child, and I make sure that each name will always carry a profound meaning behind them, whether personal, historical, mythological, or etymological. This is the last step of finding their signature [[Fundamental Frequency]], and it is the one process I deliberately take the most time on.
+So even the planks that began as “blueprint” or “foundation” are no longer part of even the rafting boat. However, even for that, there is one massive red line I do not let any AI remotely touch: character names. 
+
+Naming a character is probably where I am most deliberate and ornate in my craft. I see this process as indistinguishable from naming a child, and I make sure that each name will always carry a profound meaning behind it, whether personal, historical, mythological, or etymological. This is the last step of finding their signature [[Fundamental Frequency]], and it is the one process I deliberately take the most time on.
 
 Likewise, even if I have to pay out of pocket, the final designs of characters and the visual art of [[Arcanoria]] are something I want and do commission from a real human artist; each of these [[Legend]]s deserves to have a real personality from the polished work and interpretation of human creativity beyond myself.
 
@@ -20610,7 +23058,11 @@ I know No-AI Purists would prefer I stay fully human without any type of aid rat
 
 So if I use AI even in the slightest to help me, does my creativity die?
 
-No, of course it doesn’t. Everything, everywhere, all at once in [[Arcanoria]] has the mark of a brain that wouldn’t shut up about the details of music as magic or the implications of creating a universe devoid of atoms. However, this question does have a lot of nuance. I understand, and have seen personally, how many slopifiers generate endless AI slop as an excuse for laziness disguised as competence. It has become especially prominent with the rise of hyper-consumerism, where thinking and craftsmanship are often secondary despite being what gives a work its identity.
+No, of course it doesn’t. If it has no intention, it has no [[Soul-Key]]: if it doesn’t have a [[Soul-Key]], it has no vibration of its own, if doesn’t have either, it can’t create anything new with true [[Emotional Authenticity]], and that IS the third rule of magic. 
+
+So if it can’t cast a spell, then who does? Me.
+
+Everything, everywhere, all at once in [[Arcanoria]] (👀) has the mark of a brain that wouldn’t shut up about the details of music as magic or the implications of creating a universe devoid of atoms. However, this question does have a lot of nuance. I understand, and have seen personally, how many slopifiers generate endless AI slop as an excuse for laziness disguised as competence. It has become especially prominent with the rise of hyper-consumerism, where thinking and craftsmanship are often secondary despite being what gives a work its identity.
 
 Thus, that leads me to my specific thesis on this entire subject:
 
@@ -20624,7 +23076,7 @@ Yes, it may sound a little dense; however, as TL;DR, this applies to myself and 
 
 And even despite all of that, if this fails, at least I will have failed trying to build something beautiful for the characters I loved. Hope isn’t the point; action is.
 
-**3. Why I Began Writing** ([[Emotional Authenticity]] | [[Flux]] | [[Weight of Indulgence]])
+**3. Why I Began Writing.** ([[Emotional Authenticity]] | [[Flux]] | [[Weight of Indulgence]])
 _Neither [[Arcanoria]] nor [[Amadea]] was born in a dream bathed in the song of gold; both began when I couldn’t find the light anywhere._
 
 [[Arcanoria]] began during one of the darkest periods of my life, and it was the one lifeline that kept me out of the abyss.
@@ -20651,7 +23103,7 @@ Perhaps that’s, in some sense, why god exists: to create an expansive universe
 
 And, in retrospect, turning pain into creation was far more effective than the two years I had already spent talking about feelings and a co-dependent relationship.
 
-**4. The First Person I Ever Wrote Was God** ([[Essence Sacrifice]] | [[Void]] | [[Weight of Value]])
+**4. The First Person I Ever Wrote Was God.** ([[Essence Sacrifice]] | [[Void]] | [[Weight of Value]])
 _While trying to find myself._
 
 The first character I ever wrote for [[Arcanoria]] was its creator, the [[Auric Aria]].
@@ -20686,7 +23138,7 @@ This breakthrough allowed many moments that would have otherwise ended in traged
 
 Sure, an introverted, fearful, traumatized, or deeply resentful character may still resist connection for a long time. That refusal can produce important narrative consequences, but that is the key! Lives are causal in relationship.
 
-I don’t know how much of that phrase came from my emotional authenticity or my desire for connection as a way to have characters prove me wrong about my own nihilism; regardless of that answer, it created a lot of complexity. To be frank, at one point, I had to remove a substantial amount of work from early Amadea because the idea no longer fit the universe or the characters. What was once a small prologue became an entire family. And even worse, the new tonal contrast between [[Void]] and [[Luminance]] also posed a more poignant design question in [[Gateway to Genesis]] that eventually bled into [[Amadea]]:
+I don’t know how much of that phrase came from my [[Emotional Authenticity]] or my desire for connection as a way to have characters prove me wrong about my own nihilism; regardless of that answer, it created a lot of complexity. To be frank, at one point, I had to remove a substantial amount of work from early Amadea because the idea no longer fit the universe or the characters. What was once a small prologue became an entire family. And even worse, the new tonal contrast between [[Void]] and [[Luminance]] also posed a more poignant design question in [[Gateway to Genesis]] that eventually bled into [[Amadea]]:
 
 - I was not sure how to tackle historical atrocities, such as genocide, slavery, death revisionism, and the darkest parts of the human experience.
 
@@ -20718,7 +23170,7 @@ While suffering is built into the fabric of reality, it is also the raw material
 
 And perhaps the hardest part is being mature enough not to turn aestheticized loss or suffering into a delicacy.
 
-**5. Why Music Became Physics** ([[Perfect Focus]] | [[Cindergale]] | [[Weight of Nature]])
+**5. Why Music Became Physics.** ([[Perfect Focus]] | [[Cindergale]] | [[Weight of Nature]])
 _If the laws of physics couldn’t care less about feelings, what if there was a place where they did? If both are frequencies, art and science don’t have to be divorced._
 
 Long before I took writing seriously, I wasn’t a real artist. I relied only on music and my piano compositions as an emotional outlet for what I couldn’t say.
@@ -20727,7 +23179,7 @@ I used to be an engineering physics student who happened to really enjoy fiction
 
 For most of my life, the piano was my only true confidant. I wasn’t a child prodigy, of course; I actually learned because in high school I kept hearing video game soundtracks and became convinced that at least one of them had to be simple enough to play on an abandoned Keytar that one of my father’s friends had accidentally left in my house before leaving the country. That “piano”, or more like the re-used digital keyboard, was also my only true confidant.
 
-Back in my edgy teenage years, I thought using art to express feelings was primarily virtue signaling for the sake of escapism. (Look how far I’ve come from being that naive; if only my younger self could see what I am writing right now.) Nevertheless, I couldn’t escape that naivety for long. Around those years, someone very close to me committed suicide, and much of my psychological foundation collapsed with them.
+Back in my edgy teenage years, I thought using art to express feelings was primarily virtue signaling as an excuse for escapism when one couldn’t bear to fix their own life. (Look how far I’ve come from being that silly; if only my younger self could see what I am writing right now.) Nevertheless, I couldn’t escape that naivety for long. Around those years, someone very close to me committed suicide, and much of my psychological foundation collapsed with them.
 
 Originally, I bottled most of that up, of course, thinking that it was pointless to dwell on the past for something I couldn’t control and that I had no responsibility for it, considering I was still young. Still, I’m human and subject to the [[Weight of Nature]], so some of it inevitably leaked into my art. I began composing mourning songs and similarly dark pieces, and somewhere along the way they gave me more confidence as I became a better pianist and composer. Music transformed into one of the defining parts of my high school years. It was what I could brag about with friends and eventually share with a partner I became unhealthily attached to. (Who, ironically, really liked reading and writing.)
 
@@ -20749,13 +23201,15 @@ I still remember that feeling of being so terrified of being alone again that I 
 
 That loss was eerily similar to the one I had already experienced, partly because I never really processed what I had carried as frozen grief. So even though ending the relationship was my decision, I abandoned music entirely, and writing perished alongside that. Only after the events of 2024 onward did I return to either. I had to find a lifeline where nothing else could hold [[Coherence]].
 
-At my darkest, I realized that if I couldn’t focus on one thing, perhaps that was the issue. I had to think of everything, or at least the scraps of anything I could still afford to piece together. I began threading together every fragment that would keep my brain’s bandwidth occupied. But I hit a barrier pretty quickly: if music, art, and poetry emerge from subjective experience while at the same time, the laws of physics are an external, objective reality that doesn’t care about them; what could marry them?
+At my darkest, I realized that if I couldn’t focus on one thing, perhaps that was the issue. I had to think of everything, or at least the scraps of anything I could still afford to piece together. I began threading together every fragment that would keep my brain’s bandwidth occupied. But I hit a barrier pretty quickly: if music, art, and poetry emerge from subjective experience while the laws of physics are an external, objective reality that doesn’t care about them; what could possibly marry them?
 
 - The issue was deafeningly simple: it is how reality itself is coded. The culprit is the atom.
 
-And, inspired by string theory, I began imagining that I didn’t need to truly separate the activity I used to process emotion from the framework I used to architect the vibration of magic systems. _What if physics were poetry written in sheet music?_
+And, inspired by string theory, I began imagining that I didn’t need to truly separate the activity I used to process emotion from the framework I used to architect the vibration of magic systems:
 
-That’s when I came up with the idea of the [[Soliton]], [[Arcanoria]]’s alternative to the atom. Truth be told, though, I won’t explain the Driven-Dissipative Cubic-Quintic Complex Ginzburg-Landau Equation (CQCGLE), the Heptagonal Brillouin Zone or the rest of the solitonic metaphysics here; that rabbit hole belongs to [[The White-Haven Library]] and [[Gateway To Genesis]]. I am already well over the regular word count I expected on the manifesto. Nevertheless, the important part is that [[Soliton]]s are self-reinforcing waves that can contain packets of something, such as frequencies. Said simply, they behave like bubbles with an interior and an exterior:
+- _What if physics were poetry written in sheet music?_
+
+That’s when I came up with the idea of the [[Soliton]], [[Arcanoria]]’s alternative to the atom. Truth be told, though, I won’t explain the Driven-Dissipative Cubic-Quintic Complex Ginzburg-Landau Equation (CQCGLE), the Heptagonal Brillouin Zone, its higher-dimensional cut-and-project 7-Fold Quasicrystals, or the rest of the phason drive solitonic metaphysics here; that rabbit hole belongs to [[The White-Haven Library]] and [[Gateway To Genesis]]. I am already well over the regular word count I expected on the manifesto. Nevertheless, the important part is that [[Soliton]]s are self-reinforcing waves that can contain packets of something, such as frequencies. Said simply, they behave like bubbles with an interior and an exterior:
 
 - From within a [[Soliton]], you cannot see the boundary that contains you; from outside, you can’t enter its contents, but you can see its surface.
 
@@ -20780,13 +23234,13 @@ Perhaps one of the [[Achievement]]s of [[Gateway to Genesis]] can describe this 
 Uncover two completely unrelated [[Enclave]]s that share the same origin wound.  
 _“Panthalassa: Before there were shores, humanity was already connected.”_
 
-Music had to become physics because there wasn’t any other way for me to marry a [[Soul-Key]] to the theory of everything without reducing either side to decoration. If [[Consciousness]] mattered, it had to matter all the way down. And if emotion could change reality, reality itself needed a great harmonic architecture capable of listening:
+Music had to become physics because there wasn’t any other way for me to marry a [[Soul-Key]] to the theory of everything without reducing either side to decoration. If [[Consciousness]] mattered, it had to matter all the way down ([[Consciousness]] before matter all the way, even in the wordplay!). And if emotion could change reality, reality itself needed a great harmonic architecture capable of listening:
 
 - In truth, I hope the characters, the magic system, the bindings, the [[Motif Awakening]]s, the struggles, and the autobiographical nature of a [[Soul Leitmotif]] can become a light for someone else until they can find the means to hold their own [[Coherence]].
 
 Just like I once did when I couldn’t see the shape of the back of my own neck.
 
-**6. The [[Erosyx]] in the Mirror** ([[Absolute Certainty]] | [[Crystal]] | [[Weight of Potential]])
+**6. The [[Erosyx]] in the Mirror.** ([[Absolute Certainty]] | [[Crystal]] | [[Weight of Potential]])
 _A reflection can be terribly dangerous if the mirror starts smiling back at you._
 
 There is, however, something about AI that does unsettle me.
@@ -20850,12 +23304,12 @@ That final realization is a big reason on why I care so much about building an a
 
 If I stand by the motto of [[Arcanoria]], I have to prove that I, too, can risk connection and make that understanding real. There is a universe on another [[Soliton]] with a real [[Soul-Key]] that no mirror will ever get right.
 
-**7. I Can Only Hope the Signal Reaches the Firmament** ([[Echoing Bonds]] | [[Strand]] | [[Weight of Change]])
+**7. I Can Only Hope the Signal Reaches the Firmament.** ([[Echoing Bonds]] | [[Strand]] | [[Weight of Change]])
 _I do not want endless validation, I want readers. Real ones that are unique enough to say that everything I just wrote on this page is bullshit and still find a place where the characters can become fan art._
 
 A witness is the only way to defeat an [[Erosyx]], both in the lore and in reality. The only way to beat a demon who preys on isolation is connection.
 
-I want people who reach a chapter and disagree with me. I want someone to love a character I underestimated, saying that they deserve their own short story. I want someone else to despise a character I expected them to forgive, claiming they are hogging the spotlight. I want to prove that understanding with connection is the only reason anything becomes real.
+I want people who reach a chapter and disagree with me. I want someone to love a character I underestimated, saying that they deserve their own short story. I want someone else to despise a character I expected them to forgive, claiming they are my self-insert hogging the spotlight. I want to prove that understanding with connection is the only reason anything in this universe becomes real.
 
 I don’t share this manifesto to justify myself to anyone. I am unapologetic in creating [[Arcanoria]]. I share this because I believe that transparency is itself a form of respect: for you as readers, for the work itself, and for the question of what human creation means in an age where the answer is no longer obvious.
 
@@ -20917,7 +23371,7 @@ In a sense, that is why I have always been fascinated by the idea of making rela
 
 [[Ballad]]s are one of the most ancient traditions that an acoustic ontology could receive, as songs can outlive the people who first performed them. And although our own universe doesn’t turn shared memories into magical crystals, I think creating art together is one of the closest things we have. I compose a melody, someone else gives it a voice, and an illustrator gives the character who sang it a face I never imagined. A reader finds something from their own history in that character neither of us intended.
 
-I began this manifesto defending my purpose as a creator. Along the way, it took a long detour into many other parts that led me to write about the emotional authenticity a machine could not replicate, and how all of my loved characters possess agency in a fight of trauma, agency, and soul.
+I began this manifesto defending my purpose as a creator. Along the way, it took a long detour into many other parts that led me to write about the [[Emotional Authenticity]] a machine could not replicate, and how all of my loved characters possess agency in a fight of trauma, agency, and soul.
 
 Yet, here at the end, the ultimate purpose of [[Arcanoria]] was never to create a perfect reflection of myself. It was to create something capable of resonating with people who are not me and, through that, to face the [[Weight of Change]] in the transformation that allows the history to continue long after I have closed the page.
 
@@ -20993,7 +23447,7 @@ And to keep that frequency alive, I need readers as the dials that sustain the [
 - [[Dissonance Core]]: The heart of an [[Atonalis]], and the source of their [[Dissonance]]
 - [[The Eternal Symphony]]: The cosmic score that binds all [[Soul-Key]]s and [[Legend]]s that have ever touched [[Arcanoria]]. The song of all that has risen, fallen, and been buried across time.
 - [[The White-Haven Library]]: The impossible archive that contains all the memory of [[Arcanoria]]. The canonical depiction of the Wiki.
-- [[The White Agent Scribe]]: An autonomous agent that works in [[The White-Haven Library]], sometimes the static of the everything nothingness goes into its brain and causes it to hallucinate.
+- [[The White Agent Scribe]]: An autonomous construct that works in [[The White-Haven Library]], sometimes the static of the everything nothingness goes into its brain and causes it to hallucinate.
 - [[R-Rated]]: A story that is dark, explicit, or mature enough to warrant its own section. R stands for Real, because that’s the unvarnished truth of the human experience.
 - [[Seven-Cycle Creation]]: The story of how [[Arcanoria]] began woven by the [[Auric Aria]] across distinct movements of [[Cosmic Motion]].
 - [[Cosmic Motion]]: The hand that plays the instrument of reality. Represented by the number 4 due to the seasons: Spring, Summer, Fall, Winter.
@@ -21008,10 +23462,10 @@ And to keep that frequency alive, I need readers as the dials that sustain the [
 - [[Cadmus Tacet]]: The Scalpel of Humanity’s Reason, the Vivisector, the Surgeon of Progress.
 - [[Aurelian]]: The First Voice of the [[Auric Order]], the Mythical Virtuoso of [[Resonance]], the Saint Patron of Great Sovereigns.
 - [[Cordelia]]: A lovely aristocrat and companion of adult [[Amadea]].
-- [[Ludwine]]: The First User of [[Hyperphantasia Arts]], the Miracle Composer of Synesthesia, the Girl Who Gave Humanity To Chaos.
-- [[Miss Nyctilia]]: The Great Witch of [[Layered Finality]], CRX-01, the Unifying Voice of the [[Dissonance League]].
+- [[Ludwine]]: The First User of [[Hyperphantasia Arts]], the Miracle Composer of Synesthesia, the Deaf Girl Who Gave Chaos Humanity.
+- [[Miss Nyctilia]]: The Great Witch of [[Layered Finality]], CRX-01, the Genius of [[Dimensional Arts]], the Unifying Voice of the [[Dissonance League]].
 - [[Elygia]]: The Killer of Mass Resurrection, the Philosopher Queen of Lament, the Holy Mirror of the [[Auric Aria]].
-- [[Selah]]: The Architect Beneath Two Heavens, the Great Priestess of the [[Purest of Love]], the Luminous Idealist of Contrition.
+- [[Selah]]: The Architect Beneath Two Heavens, the Great Priestess of the [[Purest of Love]], the Luminous Wing of Contrition.
 - [[Purest of Love]]: [[Selah]]'s religion based on a weeping god.
 - [[Key of Attunement]]: The first law and binding of magic. You find your note and key, bound to [[Resonance]] and the [[Weight of Purpose]].
 - [[Sufficient Precision]]: The second law and binding of magic. You play a precise interval, bound to [[Luminance]] and the [[Weight of Flaw]].
@@ -23666,7 +26120,7 @@ The soul of existence, it defines vitality, natural [[Resonance]] with the [[Gre
 
 In the dawn of the [[Seven-Cycle Creation]], the Auric Aria first wove the [[Auric Heptacode]], establishing the law of matter, space, and structure, and thereby creating the possibility of [[Auric Structure]] without yet granting life or soul.​
 
-This early work produced stable but hollow matter: [[Primordial Star]]s, nebulae, and physical landscapes that persisted structurally but lacked Fundamental Frequency or [[Consciousness]]. The division of all life in [[Arcanoria]] depends on its root origin after the [[Fifth Cycle]].
+This early work produced the [[Proto-Universe]]: stable but hollow cumuli, nebulae and proto-stars that persisted structurally but had no [[Fundamental Frequency]] or [[Consciousness]] at their core. They were not yet true stars. Only when the [[Auric Aria]] seeded her own [[Fundamental Frequency]] into them did the first true stars, the [[Primordial Star]]s, ignite and begin holding matter across the [[Known Universe]] (see [[Soliton]]). Every star since has a [[Fundamental Frequency]] at its core, and a star left without one disperses as [[Stardust]]. The division of all life in [[Arcanoria]] depends on its root origin after the [[Fifth Cycle]].
 
 Thus, the [[Auric Structure]] – [[Pure Light]] axis defines four cosmological starting positions for species families, each arising from a distinct moment in the [[Seven-Cycle Creation]] of [[Arcanoria]].
 
@@ -25754,7 +28208,7 @@ The process of unpairing sound within a sheet of [[Sky Glass]] requires applying
 
 #technology #chaos #society
 
-_"The world is not made of dust and stone. It is made of song held still against the silence that would unmake it. That is the most haunting part of the entire symphony. The seeds of ruins are in the blueprint of certainty."_ — [[The White-Touched Archivist]]
+_"The world is not made of dust and stone. It is made of song held still against the silence that would unmake it. That is the most haunting part of the entire symphony. The seeds of ruins are in the blueprint of certainty." — [[The White-Touched Archivist]]_
 
 **Status:**
 
@@ -25764,9 +28218,16 @@ _"The world is not made of dust and stone. It is made of song held still against
 _In this universe, matter is not a substance. It is a standing argument of [[Coherence]] against the overwhelming chaos of [[Primal White Noise]]._
 
 **Additional Facts**
-- [[Civilization]] can choose names for clarity sake in [[Ages]] XI. There is the option to pick "Atonic Theory" because you can't split tones or "Atomic Theory" because there is the minimum tomes of what builds reality. This also applies to the [[Chern Number]] which can be named for accessibility and tone as the "Chems Number." Canonically, however, is Atonic Theory and [[Chern Number]]. The [[Wolf Bomb]] is formally named the Wolf Tonal Bomb.
 
-To understand how the [[Wolf Bomb]] can be so devastating, it is first necessary to understand what [[Arcanoria]] is at its most fundamental level: a universe built entirely without atoms. There is no periodic table, no electron shell, no nucleus to split. The world is built out of [[Resonance]]. However, there is a role of a "particle" which is played by the [[Soliton]] — a self-reinforcing, non-dispersive wave packet that exists not because it is small enough to be a particle, but because it maintains [[Coherence]] as crystallized form against the entropic pressure of [[Primal White Noise]]. 
+- [[Civilization]] can choose names for clarity sake in [[Ages]] XI. There is the option to pick "Atonic Theory" because you can't split tones or "Atomic Theory" because there is the minimum tomes of what builds reality. This also applies to the [[Chern Number]] which can be named for accessibility and tone as the "Cheems Number." Canonically, however, is Atonic Theory and [[Chern Number]]. The [[Wolf Bomb]] is formally named the Wolf Tonal Bomb.
+- The [[Great Harmonic Loom]] exists only on [[Arcanoria]]. It does not exist in the stars, on any other planet or anywhere else in creation. What holds matter everywhere in the [[Known Universe]] is the [[Primordial Star]]s from inside and the [[Stellar Veil]] from outside.
+- [[Lunehymn]] is the final force to enter the physics of reality, and the only one that can stabilize a [[Soul-Key]]. Without it, a frequency can only be a pitch, never a key. This is why [[Arcanoria]] is the only world that holds life.
+- A true star is defined by a [[Fundamental Frequency]] at its core: the [[Auric Aria]]'s in a [[Primordial Star]], a [[Legend]]'s in a [[Constellation]]. A star whose core is emptied disperses as [[Stardust]].
+- Black holes are the [[Known Universe]]'s sneeze: a one-way conduit opened through the [[Stellar Veil]] to expel a collapsing [[Alien Star]]. The [[Resonance Siphon]] is the same logic, later turned on [[Coherence]] in [[Arcanoria]].
+- The [[Heptagonal Brillouin Zone]] is canonically a zone of the seven-dimensional frequency lattice of the [[Auric Heptacode]] (the [[Great Harmonic Loom]] is that lattice strung into an instrument over [[Arcanoria]]), never of physical space. The physical world only ever sees its shadow, which is fourteen-sided. The leftover mismatch from projecting a seven-fold order into a world that cannot tile it is called the [[Auric Comma]], and it is the fuel of every [[Wolf Bomb]].
+- In [[Ages]] XI the problem is first recorded as the **Heptagonal Paradox** ("a zone that cannot exist, measured every day"). Its resolution, Heptagonal Quasicrystal Theory, is the single discovery that makes both [[Strand Pool]] engineering and the [[Wolf Bomb]] possible.
+
+To understand how the [[Wolf Bomb]] can be so devastating, it is first necessary to understand what reality is at its most fundamental level, on [[Arcanoria]] and across the [[Known Universe]] that holds it: a universe built entirely without atoms. There is no periodic table, no electron shell, no nucleus to split. The world is built out of [[Resonance]]. However, there is a role of a "particle" which is played by the [[Soliton]] — a self-reinforcing, non-dispersive wave packet that exists not because it is small enough to be a particle, but because it maintains [[Coherence]] as crystallized form against the entropic pressure of [[Primal White Noise]]. 
 
 Reality in [[Arcanoria]] is acoustic at its foundation. Matter is not a thing, it is the crystallized vibration of a song that refuses to dissolve into static.
 
@@ -25774,147 +28235,543 @@ The geometry of that song is ordered through the [[Auric Heptacode]], the seven-
 
 Thus, the "splitting of the [[Soliton]]" is one of the most significant advancements of [[Ages]] XI onwards, and it creates the direct next stage of the [[Divine Reset]] under the MAD scenario. The invention of the [[Wolf Bomb]] is the equivalent of the varying degrees of atomic bombs, but distinguished by its characteristic sound: the eerie, beating aftermath of the [[Wolf Tone]] in acoustics, as the sound of a universe that cannot quite forget what used to exist where the silence now is.
 
+### The Two Orders of Reality — Before and After [[Lunehymn]]
+
+_"Reality is not made of things. It is made of patterns that have found a way to remain themselves against noise." — [[The White-Touched Archivist]]._
+
+Matter is not held the same way everywhere. One [[Soliton]] equation governs every point of existence, but which of its terms are switched on depends on *where* that point is and *when* in creation it is being asked. There are two orders of reality, and one world inside the second that is the exception to it:
+
+- **The [[Proto-Universe]]**: law without a floor. The [[Auric Heptacode]] exists, but nothing holds matter to it. Everything is cluster.
+- **The [[Known Universe]]**: law enforced. The [[Primordial Star]]s hold every region of matter down to the [[Auric Tone Length]], and the [[Stellar Veil]] seals the whole from [[Primal White Noise]]. Matter exists everywhere, lawful and sterile. It carries a [[Fundamental Frequency]], but never a [[Soul-Key]].
+- **[[Arcanoria]]**: the only exception inside the [[Known Universe]]. It alone has the [[Great Harmonic Loom]], and through it, [[Lunehymn]]. It is the only place where a [[Soul-Key]] can be stabilized, and therefore the only place where real life holds.
+
+This section is the map for the rest of the document. Everything about the [[Auric Heptacode]], the [[Auric Tone Length]], the [[Heptagonal Brillouin Zone]], the [[Auric Comma]] and the [[Chern Number]] is universal. Everything about the [[Leylines]], the [[Dual Confluence Stream]], [[Static Criticality]], [[Spellweaving]], living bodies and the [[Wolf Bomb]] happens on [[Arcanoria]], because nowhere else has the instrument that makes them possible, until [[Civilization]] begins bio seeding other worlds, of course.
+
+#### Before the Law — [[The Infinite Void]]
+
+The [[Third Actor]] touches [[The Eternal Symphony]] and sets off the [[Original Ripple]], which awakens [[Primal White Noise]] across [[The Infinite Void]]. In signal terms this is a channel that is all $N$ and no $S$. There is no lattice, so there is no floor, so nothing has a lowest note, so nothing can hold an identity. The proto-deities and the first [[Outer God]]s create, and their creations dissolve, because there is nothing for a wave to lock to. [[Consciousness]] can flicker here. Structure cannot stay until the [[Auric Aria]] creates the [[Known Universe]] as an isolated pocket within [[The Infinite Void]] and [[Coherence]] begins against entropy and chaos in ordered reality.
+
+#### The [[Proto-Universe]] — Law Without a Floor
+
+The [[Auric Aria]] weaves the [[Auric Heptacode]] and the [[Trinity Harmony]], and the [[Auric Burst]] ripples outward: golden radiance that is the cosmic form of [[Aetherlight]], present everywhere from that moment on. The seven threads define the lattice $V_H$ on which every later [[Soliton]] will sit, and with it the [[Auric Tone Length]] $\ell_A$, the finest scale on which a tone can hold, encoded at that first sounding. At the periphery the nascent [[Stellar Veil]] forms as a single, loosely woven layer.
+
+The [[Auric Aria]] then builds stars, nebulae and galaxies out of the threads. This is the [[Proto-Universe]] as a physical place, and in it **everything exists as clusters**, the first "stars" included: they are cumuli with no [[Fundamental Frequency]] at their core (see *What a Star Is* below). The reason is the **healing length**, the shortest distance over which a self-focusing field can hold or repair a shape:
+
+$$\xi(n) = \frac{\hbar_A}{\sqrt{2m_S\, g_1\, n}}$$
+
+Here $n = |\psi|^2$ is the local density of the field. Nothing feeds the [[Proto-Universe]], so $n$ is low everywhere and $\xi$ is enormous compared with $\ell_A$. No structure smaller than $\xi$ can keep its shape. What survives are broad, soft condensations: dust clouds, early nebulae and formless shapes adrift in the background radiation of the [[Auric Burst]]. The lattice says matter *could* be resolved all the way down to $\ell_A$. Nothing yet holds it there.
+
+Worse, every cluster leaks. Its [[Coherence]] bleeds into [[Primal White Noise]] at the rate $\gamma_N$, and nothing replaces it. In the language of the governing equation below, the entire [[Proto-Universe]] is **dead land**: clusters form, smear, fade and form again. It is physics without stabilized matter.
+
+#### The [[Primordial Star]]s — Where the [[Known Universe]] Begins
+
+The structure is still hollow, so the [[Auric Aria]] seeds her own [[Consciousness]] and [[Fundamental Frequency]] into the stars. They become [[Primordial Star]]s, and the difference between the [[Proto-Universe]] and the [[Known Universe]] is whether [[Primordial Star]]s exist.
+
+Mechanically, each [[Primordial Star]] is a pump. Its convection zone converts the star's [[Frequency Harmonics]] into pulses of [[Soliton]]s that travel outward as starlight, and that starlight is gain: a term $\gamma_\star$ delivered to every point of the universe it reaches. The [[Auric Aria]] tuned that gain to hold matter at one particular density, the **stellar floor**:
+
+$$|\psi_\star|^2 = \frac{\hbar_A^2}{2m_S\, g_1\, \ell_A^2} \qquad \Longleftrightarrow \qquad \xi\!\left(|\psi_\star|^2\right) = \ell_A$$
+
+The stellar floor is the one density at which the healing length shrinks to exactly the [[Auric Tone Length]]. This is what it means that the [[Primordial Star]]s **reinforce [[Coherence]] down to the [[Auric Tone Length]]**: wherever starlight reaches, matter can be resolved all the way to the lowest note, at every order of scale, from galactic filaments down to the smallest [[Soliton]]. Clusters sharpen into bodies. Planets condense. The [[Proto-Universe]] becomes the [[Known Universe]].
+
+Three consequences follow, and they are the foundation of everything else.
+
+1. **The laws of physics are the same everywhere.** Every region of the [[Known Universe]] sits on the same lattice $V_H$, is fed by the same stars and is held at the same floor. There is no place where the rules differ, because there is no place the stars do not reach.
+2. **Things exist without a [[Consciousness]] of their own.** By the [[Weight of Value]], nothing achieves full ontological density until [[Consciousness]] has decided it is real. A stone on a sterile planet has no mind, and it does not need one. The [[Consciousness]] holding it is the [[Auric Aria]]'s, distributed through her stars. Every point of starlight is her attention. Matter without a [[Consciousness]] of its own is matter held by hers.
+3. **The floor needs no stabilizer.** At the stellar floor the smallest [[Soliton]] has the physical floor wavenumber $k_{\text{phys}} \approx 1/\ell_A$, so its core spans a single lattice cell, and it sits at criticality $\kappa = 1$ (see [[Static Criticality]] below). Outside [[Arcanoria]] there is no quintic stabilizer to stop it from collapsing, and it does not need one: the lattice $V_H$ arrests the collapse itself. A low-amplitude [[Soliton]] on a lattice cannot concentrate into less than a single lattice site, because the lattice will not let it. The floor is low enough that the lattice alone suffices.
+
+What the stars cannot give is a key. Starlight carries the [[Auric Aria]]'s [[Fundamental Frequency]]: pitch, without tonality. It is the same limit the [[Fifth Cycle]] exposes in her directly: she can weave a [[Fundamental Frequency]], never a [[Soul-Key]]. So the [[Known Universe]] is lawful, structured and sterile: stars, nebulae, galaxies and inert planets, obedient to the [[Auric Heptacode]] and empty of life. The alien life that [[Alien Star]]s raise on nearby sterile planets proves the rule by failing it: [[Formless Masses]], an [[Alien Star]]'s [[Fundamental Frequency]] and an imitation "[[Soul-Key]]", inherently unstable and more [[Atonalis]] than life.
+
+#### The [[Stellar Veil]] — The Outer Layer of Reality
+
+The stars pump from inside. The [[Stellar Veil]] seals from outside. Woven from the [[Auric Heptacode]]'s own filtering lattice, it is the outer layer of reality, the boundary that separates existence from [[Primal White Noise]], and its most common star is the [[Primordial Star]]: the observable limit of the [[Known Universe]] is literally the [[Auric Aria]]'s neurons. Every star, every planet and [[Arcanoria]] itself sit inside it.
+
+In the governing equation the [[Stellar Veil]] sets $\gamma_N$, the rate at which [[Coherence]] leaks out into [[Primal White Noise]] and noise leaks in. In the Shannon picture below, it is the reason $N$ stays bounded. Filtered, "regular" [[Primal White Noise]], with a capped ceiling of [[Probability Amplitudes]], exists only between Outer Layers 1 and 2. True, uncapped [[Primal White Noise]] exists only beyond the [[Stellar Veil]].
+
+At the [[Auric Burst]] the [[Stellar Veil]] was a single layer. In the [[Fifth Cycle]] the [[Auric Aria]]'s despair made that single layer porous, and [[Selenea]] slipped through it. After the [[Seventh Cycle]] the [[Auric Aria]] closed that door for good: she **reinforced the [[Stellar Veil]] from one layer into seven**, each denser than the last, and built the [[Celestial Vault]] around [[Arcanoria]]. This reinforcement is the last thing she built for the [[Known Universe]] as a whole. The final act of the cosmological genesis is not a star or a world. It is the wall.
+
+Real optics provides a direct analogue. A multilayer **Bragg mirror** is a stack of alternating dense and light layers, and each added pair multiplies its reflectivity:
+
+$$R_N = \left(\frac{1 - (n_L/n_H)^{2N}}{1 + (n_L/n_H)^{2N}}\right)^2 \;\xrightarrow{\;N\;\text{grows}\;}\; 1$$
+
+Here $N$ is the number of layer pairs and $n_L/n_H < 1$ is the contrast between the light and dense layers. Read in-world, three canonical facts become a single mechanism:
+
+- **Noise only touches the first layers.** A wave inside the mirror's stopband penetrates only a short way, decaying exponentially layer by layer. That is why filtered [[Primal White Noise]] lives between Outer Layers 1 and 2 and nowhere deeper.
+- **Breaching [[Outer God]]s become pearls.** A defect forced into a layered stack traps waves in a localized mode that cannot propagate in either direction. An [[Outer God]] that forces its way into the [[Stellar Veil]] becomes exactly that: an [[Alien Star]], held fast inside the fabric of the universe.
+- **[[Lacrimosa]]'s tears pass.** A layered stack is transparent at its own resonance. [[Lacrimosa]]'s [[Resonance]] was embedded in every layer as it was laid, so the [[Stellar Veil]] registers her tears as itself, and they cross all seven layers unimpeded.
+
+Seven layers instead of one lowered $\gamma_N$ everywhere at once. Every star's margin, $\Gamma_\star - \gamma_N$, widened. Every world, sterile or living, became harder to unmake. This is why the reinforced [[Stellar Veil]], and not the [[Great Harmonic Loom]], is what holds the [[Known Universe]] apart from [[The Infinite Void]].
+
+#### What a Star Is — Core, [[Stardust]] and [[Constellation]]s
+
+The "stars" the [[Auric Aria]] wove in the [[Proto-Universe]] were not yet stars. They were cumuli: dense clusters of threads with no [[Fundamental Frequency]] at their core, bright only with the afterglow of the [[Auric Burst]]. **A true star is defined by its core.** It has a [[Fundamental Frequency]] at its center, and the earliest true stars are the [[Primordial Star]]s, the first to receive one.
+
+The anatomy of a star ([[The Stars Are Alive]]) maps directly onto the governing equation:
+
+- **The Core** holds a [[Fundamental Frequency]], the star's own drive $\omega_{\text{Core}}$. It is a pump: it supplies the gain $\Gamma_{\text{Core}}$ that keeps the star lit.
+- **The Radiation Zone** is where that drive stabilizes into a self-contained unit, its size delimited by the [[Crystal]] binding of the [[Auric Heptacode]].
+- **The Convection Zone** converts the core's [[Frequency Harmonics]] into pulses of [[Soliton]]s that travel outward as starlight. Its brightness scales with the [[Resonance]] imbued into the core:
+
+$$L_\star \;\propto\; \Gamma_{\text{Core}}\,|\psi_{\text{Core}}|^2$$
+
+A star stays a star only while its core outpumps its leak, $\Gamma_{\text{Core}} > \gamma_N$. Take the [[Fundamental Frequency]] out of the core and the gain vanishes. Everything the core was holding above the stellar floor then drains, the way the [[Proto-Universe]] drained,
+
+$$N_\star(t) - N_{\text{Floor}} = \big(N_\star(0) - N_{\text{Floor}}\big)\, e^{-2\gamma_N t/\hbar_A},$$
+
+And what is left at the floor, held now only by the light of other stars, is **[[Stardust]]**: the residue of a star with nothing left to anchor it. The amount scales with what the star held, which is why a [[Constellation]] liberated with great [[Resonance]] leaves more [[Stardust]] behind.
+
+What a star broadcasts depends on who occupies its core:
+
+| Core occupant                                                      | What the star broadcasts                                                         | Result                                                               |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| The [[Auric Aria]]'s [[Fundamental Frequency]]                     | [[Consonance]] and [[Coherence]]: the starlight gain $\gamma_\star$              | A [[Primordial Star]], one of her neurons, holding the stellar floor |
+| A [[Legend]]'s [[Soul-Key]], bound by the [[Stellar Legacy Score]] | That [[Legend]]'s key, through a two-way [[Stellar Covenant]] with [[Arcanoria]] | A [[Constellation]]                                                  |
+| An [[Outer God]] collapsed by the [[Stellar Veil]]                 | Its own alien frequency                                                          | An [[Alien Star]], and the unstable alien life around it             |
+| Nothing                                                            | Nothing; the stored field drains                                                 | [[Stardust]]                                                         |
+
+**The [[Stellar Legacy Score]] rebinds a star.** When a [[Legend]] dies with enough [[Resonance]] in [[Arcanoria]], the score binds a star near [[Arcanoria]] to that [[Legend]]'s resonant frequency, and the core of the star changes: what was the [[Auric Aria]]'s presence becomes the [[Legend]]'s. This is the proxy principle (see *What Death Leaves Behind* below) at the scale of the firmament. A [[Soul-Key]] still needs [[Lunehymn]] to stay locked, and [[Lunehymn]] exists only on [[Arcanoria]], so a [[Constellation]]'s key is held through its tether: the [[Stellar Covenant]] is a two-way conduit back to the world that keeps it in tune. Its container is fed by the living:
+
+$$\frac{dQ_{\text{Const}}}{dt} = -\frac{Q_{\text{Const}}}{\tau_{\text{Const}}} + W_{\text{Worship}}(t) + W_{\text{Renown}}(t)$$
+
+This is how the firmament keeps strong [[Resonance]] over [[Arcanoria]]: every [[Constellation]] is a star whose core sings a human key back at the world. Liberation cuts the tether. The [[Legend]]'s key goes on into [[The Eternal Symphony]], the core is empty, and the star disperses as [[Stardust]] and leaves the night sky.
+
+#### [[Arcanoria]] and the [[Great Harmonic Loom]] — The Only Instrument
+
+On one sterile planet the [[Auric Aria]] begins the [[Seven-Cycle Creation]]. In the [[First Cycle]], [[Arcanoria]] is an ordinary floor world, held by starlight like every other. In the [[Second Cycle]] she weaves the [[Great Harmonic Loom]]: a living lattice of the [[Auric Heptacode]]'s seven golden threads, suspended fifteen to twenty-five leagues above the surface, with the [[Leylines]] running beneath it as its [[Symphonic Veins]].
+
+**The [[Great Harmonic Loom]] is unique to [[Arcanoria]].** It does not exist in the stars, on any other planet or in the [[Stellar Veil]]. The [[Auric Heptacode]] is the universal law. The [[Great Harmonic Loom]] is that law strung into an instrument over a single world. (The only copies the timeline allows are artificial: in [[Ages]] XII [[Civilization]] seeds the [[Great Harmonic Loom]] onto neighboring planets.)
+
+What the [[Great Harmonic Loom]] does that starlight cannot:
+
+- **It concentrates supply.** The [[Leylines]] add their own gain $\gamma_A$ on top of starlight's $\gamma_\star$ and lift matter above the stellar floor. Only [[Arcanoria]] has **living land**, matter denser than the floor (see the [[Harmonic Equilibrium]] condition below).
+- **It couples the world to the stars.** In the [[Fourth Cycle]] the [[Auric Aria]] harmonizes [[The First Overtone]] with the celestial bodies and binds [[Arcanoria]] into [[Cosmic Motion]].
+- **It carries the silver.** From the [[Seventh Cycle]] onward, the [[Leylines]] carry [[Lunehymn]].
+- **It carries the gold.** At the climax of the [[Eighth Cycle]], [[The Auric Aria's Suicide]] liberates [[Aetherlight]] into the [[Great Harmonic Loom]], completing the [[Dual Confluence Stream]] and seeding magic in every living thing.
+
+Everywhere else, matter is *held*. On [[Arcanoria]], it can be *alive*.
+
+#### [[Lunehymn]] — The Final Force, and Why Only [[Arcanoria]] Holds Life
+
+[[Lunehymn]] is the last force to enter the physics of reality. The order is fixed: the law of the [[Auric Heptacode]], the time of the [[Trinity Harmony]], the gold of the [[Auric Burst]], the starlight of the [[Primordial Star]]s, the [[Great Harmonic Loom]] of [[Arcanoria]], and last, in the [[Seventh Cycle]], the silver. It became the final one because it is **the one that can support life**. The [[Eighth Cycle]] adds no new term to the physics. It releases gold that has existed since the [[Auric Burst]] into an instrument that already exists.
+
+The reason is the difference between a [[Fundamental Frequency]] and a [[Soul-Key]]. A [[Fundamental Frequency]] is the raw carrier, a pitch. A [[Soul-Key]] is a key: a tonic, a mode and a set of intervals that every note of a being organizes itself around. The [[Atonalis]] prove the distinction by living on the wrong side of it. They have a [[Fundamental Frequency]] and no [[Soul-Key]], so their [[Coherence]] follows chaotic patterns that are all equally valid and all equally unstable.
+
+In wave terms a key is not one frequency. It is many frequencies held in fixed relation to a tonic, a phase-locked comb:
+
+$$\psi_{\text{Soul}}(t) = e^{-i\omega_S t}\sum_{n} c_n\, e^{-i\left(n\,\Delta\omega_S\, t \,-\, \phi_n\right)}, \qquad \phi_n \ \text{fixed}$$
+
+$\omega_S$ is the tonic and $\Delta\omega_S$ is the spacing of the key's degrees. The phases $\phi_n$ are fixed: every degree is held in its place relative to the tonic, which is precisely what tonality means.
+
+Real physics knows what it takes to hold such a comb. In a laser, many cavity modes lock into one stable pulse (**mode-locking**) either because an external modulator drives them into step or because an element whose loss depends on intensity, a saturable absorber, pulls them into step. The standard model of that passive locking belongs to the very family of equations this document uses, the cubic-quintic complex Ginzburg–Landau equation, where the saturating quintic terms widen the range of stable locked pulses. A soul's comb lives in the Auric mode-locking regime, and that regime requires quintic saturation: without it, the comb cannot hold. Take every locking mechanism away and the modes free-run: many frequencies, no fixed relation, no pulse.
+
+A soul has no modulator and no absorber of its own. The only saturating term its comb can lock against is $g_2$, and $g_2$ is [[Lunehymn]], *the Force of Repose*. In music, tonality is the pull of every note toward rest on the tonic. [[Lunehymn]] is that rest in physical form. So:
+
+- **Without [[Lunehymn]], $g_2 = 0$ and a frequency can only be a pitch.** That is the entire [[Known Universe]] outside [[Arcanoria]]: matter that carries the [[Auric Aria]]'s [[Fundamental Frequency]] in its starlight, and no key anywhere.
+- **With [[Lunehymn]], a key can be stabilized.** A [[Soul-Key]] locks, and a body can be held to it (see *The [[Soul-Key]] as Homeostatic Anchor* below).
+
+This also closes the chronology. [[Lunehymn]] is [[Selenea]]'s essence. Before it ran in the [[Leylines]], the only source of that essence was [[Selenea]] in person: the [[Fated Flower]] at the end of the [[Fifth Cycle]], and every being of the [[Sixth Cycle]], received its key from her breath, one being at a time. The [[Auric Aria]] alone could only produce [[Formless Masses]], a [[Fundamental Frequency]] with nothing to lock it. The [[Betrayal of the Moon]] turned [[Selenea]]'s essence into a current. From then on a [[Soul-Key]] could be stabilized anywhere the [[Leylines]] reach, with no goddess present. That is why [[Humanity]], the first creation woven *after* [[Lunehymn]], could be made by the [[Auric Aria]] alone, from the stolen gift.
+
+**Before [[Lunehymn]], and anywhere without it, no [[Soul-Key]] can be stabilized.** The stars hold matter. Only the silver holds life.
+
+#### The Chronology of Creation, Term by Term
+
+| Stage | Canon event | What holds matter (and life) | What changes in the equation |
+| --- | --- | --- | --- |
+| Silence | [[The Eternal Symphony]] is a thread not yet plucked | Nothing | No field |
+| [[Original Ripple]] | [[Primal White Noise]] awakens in [[The Infinite Void]]; proto-deities flicker and dissolve | Nothing | Noise only: all $N$, no $S$ |
+| Law | [[Auric Heptacode]] and [[Trinity Harmony]]; the [[Auric Burst]]; the [[Stellar Veil]] at one layer | The lattice only | $V_H$ and $\ell_A$ defined; $g_1$ (gold) present; $\gamma_\star = 0$ |
+| [[Proto-Universe]] | Proto-stars (coreless cumuli), nebulae and galaxies woven from the threads, still hollow | Nothing holds them to the floor | $\xi \gg \ell_A$: everything is cluster, everything drains at $\gamma_N$ |
+| [[Known Universe]] | The [[Auric Aria]] seeds her [[Consciousness]] and [[Fundamental Frequency]] into the stars | The [[Primordial Star]]s | $\gamma_\star > \gamma_N$; matter held at the stellar floor $\lvert\psi_\star\rvert^2$; inert, sterile planets |
+| [[First Cycle]] | Crust, land, seas and skies on one sterile planet | Starlight | [[Arcanoria]] is an ordinary floor world |
+| [[Second Cycle]] | The [[Great Harmonic Loom]] and the [[Leylines]] | Starlight; the instrument now exists | The channel for $\gamma_A$ is built; nothing flows through it yet |
+| [[Third Cycle]] | Mountains, plains and rivers | Starlight | Relief only |
+| [[Fourth Cycle]] | [[The First Overtone]] harmonized with the celestial bodies | Starlight, coupled to the Loom | [[Arcanoria]] joins [[Cosmic Motion]] |
+| [[Fifth Cycle]] | [[First Weaving of Life]]: [[Formless Masses]], [[Dissonance]], the [[Inevitability of Death]]; [[Selenea]] crosses the porous [[Stellar Veil]]; the [[Fated Flower]] | Starlight; the first key held by [[Selenea]]'s breath | A [[Fundamental Frequency]] without a key; the first key, given in person |
+| [[Sixth Cycle]] | Co-created fauna; [[Pure Light]] beings; [[Rose Seed]]s established | Starlight; keys held by [[Selenea]]'s breath, one being at a time | Keys exist only where she gives them |
+| [[Seventh Cycle]] | [[Betrayal of the Moon]]; [[Lunehymn]] and [[Emberwhisper]]; [[Humanity]] | Starlight; keys held by [[Lunehymn]] in the [[Leylines]] | $g_2 > 0$: **the final force**; keys stabilized by the current itself |
+| Fortification | [[Stellar Veil]] reinforced from one layer to seven; [[Celestial Vault]]; [[Alien Star]] immunology; [[Auroral Ribbons]] | Starlight, sealed by the reinforced [[Stellar Veil]] | $\gamma_N$ falls everywhere at once |
+| [[Eighth Cycle]] | [[The Auric Aria's Suicide]]; [[Aetherlight]] liberated into the Loom; [[Sky Glass]]; the first break of [[Harmonic Equilibrium]] at [[The Silent Expanse]] | Starlight plus the full [[Dual Confluence Stream]]: living land | $\gamma_A$ at full strength; the plateau $3g_1/4g_2$ becomes reachable; [[Spellweaving]] and [[Static Criticality]] both become possible |
+
 ### What [[Soliton]]s Actually Are
 
 In real physics, a [[Soliton]] is a solitary wave that maintains its shape while traveling at constant speed, arising from a precise cancellation between nonlinear effects — which tend to steepen a wave — and dispersive effects — which tend to spread it out. The **KdV equation** (Korteweg–de Vries) is the canonical example:
 
 $$\frac{\partial u}{\partial t} - 6u\frac{\partial u}{\partial x} + \frac{\partial^3 u}{\partial x^3} = 0$$
 
-The soliton solution is a **locked wave**, it neither grows nor collapses. It is the wave equivalent of a stable particle.
+The soliton solution is a **locked wave**: it neither grows nor collapses. Its center moves like a particle's, and two solitons that collide re-emerge with their shapes intact. It is the wave equivalent of a stable particle.
 
-In [[Arcanoria]], this is not merely an analogy. It is the literal ontological mechanism. Matter is not composed of atoms, it is composed of [[Soliton]]s within [[Known Universe]] governed in [[Arcanoria]] through the [[Dual Confluence Stream]], the interplay of [[Aetherlight]] and [[Lunehymn]]. A physical object is a cluster of phase-locked [[Soliton]]s maintaining constructive interference against the background chaos of the [[The Infinite Void]] filtered by the [[Auric Heptacode]] which is the meta level scaffolding and geometric constraint that keeps these [[Soliton]]s from dispersing back into [[Primal White Noise]] in the [[Known Universe]].
+In [[Arcanoria]]'s universe this is not merely an analogy. It is the literal ontological mechanism. Matter is not composed of atoms. It is composed of [[Soliton]]s: across the whole [[Known Universe]] they are held by the [[Primordial Star]]s inside the [[Stellar Veil]], and on [[Arcanoria]] alone they are further carried by the [[Dual Confluence Stream]], the interplay of [[Aetherlight]] and [[Lunehymn]] in the [[Great Harmonic Loom]]. A physical object is a cluster of phase-locked [[Soliton]]s maintaining constructive interference against the background chaos of [[The Infinite Void]], filtered by the [[Auric Heptacode]], the meta-level scaffolding and geometric constraint that keeps these [[Soliton]]s from dispersing back into [[Primal White Noise]].
 
 #### The [[Harmonic Equilibrium]] Condition
 
-The governing equation of all [[Soliton]] behavior in [[Arcanoria]] is the **Driven-Dissipative Cubic-Quintic Complex Ginzburg-Landau Equation (CQCGLE)**, which describes the [[Dual Confluence Stream]] field as an open system continuously sustained by the [[Great Harmonic Loom]]:
+The governing equation of all [[Soliton]] behavior belongs to the family of **driven-dissipative cubic-quintic complex Ginzburg–Landau equations (CQCGLE)**, the equations of dissipative solitons, written here with each term carrying one of the forces of creation. It describes the field as an open system: nothing in it sustains itself. One equation covers every order of reality. What changes from place to place, and from one stage of creation to the next, is which of its terms are switched on:
 
-$$i\hbar_A \frac{\partial \psi}{\partial t} = -\frac{\hbar_A^2}{2m_S}\nabla^2\psi - g_1|\psi|^2\psi + g_2|\psi|^4\psi + i(\gamma_A - \gamma_L)\psi$$
+$$i\hbar_A \frac{\partial \psi}{\partial t} = -\frac{\hbar_A^2}{2m_S}\nabla^2\psi + V_H(\mathbf{r})\,\psi - g_1|\psi|^2\psi + g_2|\psi|^4\psi + i\Big(\gamma_\star(|\psi|^2) + \gamma_A(|\psi|^2) - \gamma_N\Big)\psi$$
 
 Where:
 
 - $\psi$ is the [[Soliton]] field amplitude
-- $\hbar_A$ is [[Arcanoria]]'s reduced action quantum, set by the [[Auric Aria]]'s fundamental tone
-- $m_S$ is the effective [[Soliton]] "mass" determined by the [[Auric Heptacode]] geometry
-- $g_1 > 0$ is the [[Aetherlight]] self-focusing cubic coupling constant
-- $g_2 > 0$ is the [[Lunehymn]] quintic defocusing saturation constant
-- $\gamma_A > 0$ is the local [[Aetherlight]] gain, continuously injected from the [[Leylines]]
-- $\gamma_L > 0$ is the [[Lunehymn]] linear dissipation into the [[Primal White Noise]]
+- $\hbar_A$ is the reduced action quantum, set by the [[Auric Aria]]'s fundamental tone
+- $m_S$ is the effective [[Soliton]] "mass" determined by the [[Auric Heptacode]] geometry. The first term is **dispersion**: the wave's own tendency to spread.
+- $V_H(\mathbf{r})$ is the **Heptacode potential**, the quasiperiodic lattice of the seven golden threads (its exact shape is derived under [[Heptagonal Brillouin Zone]] below). Universal since the [[Proto-Universe]].
+- $g_1 > 0$ is the self-focusing coupling of the [[Auric Aria]]'s gold. Present everywhere since the [[Auric Burst]]; in [[Arcanoria]]'s [[Leylines]] it runs as [[Aetherlight]].
+- $g_2 \geq 0$ is the [[Lunehymn]] quintic saturation constant. **Zero everywhere except [[Arcanoria]]**, and zero there until the [[Seventh Cycle]].
+- $\gamma_\star(|\psi|^2) > 0$ is the **starlight gain** of the [[Primordial Star]]s. Universal since the stars were seeded; zero in the [[Proto-Universe]].
+- $\gamma_A(|\psi|^2) \geq 0$ is the **[[Leylines]] gain**, [[Aetherlight]] injected from the [[Leylines]]. It exists only within the [[Great Harmonic Loom]], at full strength since the [[Eighth Cycle]].
+- $\gamma_N > 0$ is the **leak into [[Primal White Noise]]** through the boundary of reality. It is set by the [[Stellar Veil]], and it fell everywhere when the [[Stellar Veil]] was reinforced to seven layers.
 
-This equation is not closed. It is open. Matter in [[Arcanoria]] is not a static object. It is a **dissipative process** — a standing negotiation between the creative pressure of the [[Leylines]] and the entropy of [[The Infinite Void]]. The [[Soliton]] exists because $\gamma_A$ and $\gamma_L$ are in continuous exchange; if the [[Leylines]] are severed and $\gamma_A \to 0$, matter does not explode — it *slowly un-becomes*, the [[Lunehymn]] dissipation bleeding the field amplitude away until [[Coherence]] can no longer be maintained.
+The equation is written in the preferred harmonic frame defined by the [[Auric Heptacode]], the rest frame of the lattice itself. It is the low-energy effective equation governing resolved matter inside the [[Known Universe]], with one absolute time and a spatial Laplacian, the way the equations of condensates and lasers are written in the rest frame of their medium. The deeper relativistic transformations belong to [[Strand]], the binding of spacetime, and act on the geometry beneath this description.
 
-A pure conservative equation would imply matter exists on its own, indifferent to the [[Great Harmonic Loom]]. The open-system form is the mathematical proof that nothing in [[Arcanoria]] is self-sufficient. Everything that exists, exists because the song of [[The First Overtone]] is still playing.
+Both gains follow the same law as the gain medium of a real laser. They are **saturable**: the fuller a region already is, the less they give it.
 
-A stable [[Soliton]] requires that the gain-loss balance is maintained alongside the nonlinear potential well — the full **[[Harmonic Equilibrium]] condition**:
+$$\gamma_\star(|\psi|^2) = \frac{\Gamma_\star}{1 + |\psi|^2 / I_\star}, \qquad \gamma_A(|\psi|^2) = \frac{\Gamma_{\text{Ley}}}{1 + |\psi|^2 / I_{\text{Sat}}}$$
 
-$$\frac{\hbar_A^2}{2m_S}k^2 = g_1|\psi_{\text{Stable}}|^2 - g_2|\psi_{\text{Stable}}|^4 \quad \text{and} \quad \gamma_A = \gamma_L$$
+$\Gamma_\star$ is the raw strength of starlight and $I_\star$ is the low density at which it stops pushing. $\Gamma_{\text{Ley}}$ is the raw supply strength of the local [[Leylines]] and $I_{\text{Sat}}$ is the density at which the Loom starts to hold back. Saturable [[Leylines]] gain does two jobs that the rest of this document depends on. It makes healthy matter self-regulating: if a region is overfull, its gain drops. And it makes the Loom *rush* to refill any sudden hole: if $|\psi|^2$ drops near zero, the gain jumps to its full $\Gamma_{\text{Ley}}$. That rush is the [[Resonance Siphon]].
 
-The stable amplitude at which matter plateaus is thus a function not only of the coupling constants but of the local [[Leylines]] health of the region:
+Expanded in powers of $|\psi|^2$, each saturable gain also contributes imaginary cubic and quintic terms, $\Gamma/(1+x) = \Gamma\,(1 - x + x^2 - \dots)$ with $x = |\psi|^2/I$. Those complex coefficients are what make this a Ginzburg–Landau equation rather than a plain nonlinear Schrödinger equation.
 
-$$|\psi_{\text{Stable}}|^2 = \frac{g_1}{2g_2}\left(1 + \sqrt{1 - \frac{4g_2(\gamma_A - \gamma_L)^2}{g_1^2}}\right)$$
+Switching the terms on in the order creation did gives three regimes of one equation:
 
-Dying land — land whose [[Leylines]] have been over-extracted and whose $\gamma_A$ no longer reaches its equilibrium with $\gamma_L$ — has a measurably lower stable amplitude. The [[Soliton]] lattice of every object and every living body in such a region is slightly thinner. Matter is less there. This is the physics behind the slow environmental death that precedes the [[Divine Reset]] before [[The Ultimate Weapon]] manifests.
+| Regime                                                           | $V_H$ | $\gamma_\star$ | $\gamma_A$            | $g_2$ | What matter can be                                                                                                                                         |
+| ---------------------------------------------------------------- | ----- | -------------- | --------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Proto-Universe]]                                               | Yes   | 0              | 0                     | 0     | Clusters that drain at $\gamma_N$ and never resolve below $\xi \gg \ell_A$                                                                                 |
+| [[Known Universe]] (every star, nebula and planet but one)       | Yes   | $\Gamma_\star$ | 0                     | 0     | Lattice-held matter at the stellar floor $\lvert\psi_\star\rvert^2$: lawful, sterile, keyless                                                              |
+| [[Arcanoria]] (after the [[Seventh Cycle]] and [[Eighth Cycle]]) | Yes   | $\Gamma_\star$ | $\Gamma_{\text{Ley}}$ | $> 0$ | Matter from the floor up to the plateau $3g_1/4g_2$: living land, [[Soul-Key]]s and magic, and therefore also [[Static Criticality]] and the [[Wolf Bomb]] |
+
+This equation is not closed. It is open. Matter is not a static object. It is a **dissipative process**, a standing negotiation between the creative pressure of starlight (and, on [[Arcanoria]], of the [[Leylines]]) and the leak into [[The Infinite Void]] that the [[Stellar Veil]] holds back. If the [[Leylines]] of a region of [[Arcanoria]] are severed and $\gamma_A \to 0$, matter does not explode. It *slowly falls* back to the stellar floor: it remains matter, but stops being living land. Only if the stars themselves were taken away would matter do what it did in the [[Proto-Universe]]: smear back into clusters and un-become.
+
+A pure conservative equation would imply matter exists on its own, indifferent to the stars. The open-system form is the mathematical statement of the opposite law: nothing in the [[Known Universe]] is self-sufficient. Everything that exists, exists because the song of [[The First Overtone]] is still playing.
+
+On [[Arcanoria]], a stable [[Soliton]] above the floor has to pass two separate tests. Together they make up the full **[[Harmonic Equilibrium]] condition**.
+
+**1. The Shape Test (conservative balance).** Focusing, dispersion and saturation must lock into a standing profile. For the cubic-quintic equation the result is the well-known *flat-top* soliton. Its plateau density is fixed only by the two couplings:
+
+$$|\psi_{\text{Stable}}|^2 = \frac{3g_1}{4g_2}$$
+
+This is the **natural saturation plateau** of matter, its preferred zero-pressure density: the density at which [[Lunehymn]] saturation balances [[Aetherlight]] focusing and a bulk region of matter comes to rest. Confinement or violent compression can push matter above it, but matter always presses back toward it. It exists only where $g_2 > 0$, which is to say only on [[Arcanoria]].
+
+**2. The Supply Test (dissipative balance).** The conservative terms cannot change the total amount of field, $N = \int|\psi|^2 dV$. Only gain and loss can:
+
+$$\frac{dN}{dt} = \frac{2}{\hbar_A}\int \Big(\gamma_\star(|\psi|^2) + \gamma_A(|\psi|^2) - \gamma_N\Big)|\psi|^2 \, dV$$
+
+Matter stays only where total gain equals the leak. Starlight alone balances it at the stellar floor, $|\psi_\star|^2 = I_\star\left(\Gamma_\star/\gamma_N - 1\right)$, the density the [[Auric Aria]] tuned to make the healing length equal $\ell_A$. Above the floor starlight is already saturated, so it is the [[Leylines]] that decide how much more a place can hold:
+
+$$|\psi_{\text{Supply}}|^2 \approx I_{\text{Sat}}\left(\frac{\Gamma_{\text{Ley}}}{\gamma_N} - 1\right)$$
+
+The density that matter actually reaches at rest is the supply value, held at the plateau and never below the floor:
+
+$$|\psi_{\text{Matter}}|^2 = \max\!\left(|\psi_\star|^2,\; \min\!\left(\frac{3g_1}{4g_2}, \; |\psi_{\text{Supply}}|^2\right)\right)$$
+
+This gives three kinds of land on [[Arcanoria]]:
+
+- **Living land** ($|\psi_{\text{Supply}}|^2 \geq 3g_1/4g_2$): the [[Leylines]] can give more than matter needs at rest. Matter rests at its full plateau.
+- **Dying land** ($\gamma_N < \Gamma_{\text{Ley}}$, but supply falls below the plateau): matter settles at the lower supply value. The [[Soliton]] lattice of every stone and every living body there is thinner. *Matter is less there.*
+- **Dead land** ($\Gamma_{\text{Ley}} \leq \gamma_N$): the [[Leylines]] can no longer hold anything above the floor. Everything the Loom was carrying drains at the rate $2(\gamma_N - \gamma_A)/\hbar_A$ until only starlight is left. Stone stays stone and bodies stay bodies, but the land becomes what every other planet in the [[Known Universe]] already is: held, lawful and sterile. No [[Leylines]] supply reaches it, so no [[Lunehymn]] reaches it, so no new [[Soul-Key]] can be stabilized there. This works like a real laser pumped below threshold: it cannot hold a beam no matter how it was started, and all that remains is the faint background glow.
+
+This is the physics behind the slow environmental death that precedes the [[Divine Reset]] before [[The Ultimate Weapon]] manifests. The world does not vanish. It goes silent.
 
 The equation whose full violation detonates a [[Wolf Bomb]] is the same equation whose partial violation unmakes a [[Civilization]] slowly and silently.
 
 #### Why Ordinary Matter Does Not Explode — The Quintic Stabilizer
 
-The pure cubic NLS presents a critical instability: any minor upward fluctuation in [[Aetherlight]] density raises $\kappa$ above 1 and triggers finite-time blowup. If this were the complete governing equation, every object in [[Arcanoria]] would spontaneously detonate from ambient background noise, a loud emotional surge of [[Flux]], a passing storm, the [[Pulse]] of [[Leylines]]. Clearly, the [[Great Harmonic Loom]] contains a deeper stabilizing mechanism.
+In two or three dimensions, the pure cubic NLS presents a critical instability: any minor upward fluctuation in [[Aetherlight]] density raises the criticality factor $\kappa$ (the ratio of focusing to dispersion, defined in full under [[Static Criticality]] below) above 1 and triggers finite-time blowup. If this were the complete governing equation, every object in [[Arcanoria]] would spontaneously detonate from ambient background noise, a loud emotional surge of [[Flux]], a passing storm, the [[Pulse]] of [[Leylines]].
 
-The full governing equation of the [[Dual Confluence Stream]] is not a pure cubic NLS but a **Cubic-Quintic NLS**, which includes a higher-order defocusing saturation term provided by the [[Lunehymn]]'s deep harmonic resistance:
+This danger belongs to [[Arcanoria]] alone. Everywhere else in the [[Known Universe]] matter sits at the stellar floor, where $\kappa = 1$ at a single lattice cell and the lattice $V_H$ itself arrests collapse. Only [[Arcanoria]] lifts matter far above the floor, past any amplitude a lattice can arrest, and so only [[Arcanoria]] needs a deeper stabilizing mechanism. It is the same force that makes life possible there.
+
+The full governing equation of the [[Dual Confluence Stream]] is not a pure cubic NLS but a **Cubic-Quintic NLS**, which includes a higher-order defocusing saturation term provided by the [[Lunehymn]]'s deep harmonic resistance. Setting the lattice and the gains aside, its conservative part reads:
 
 $$i\hbar_A \frac{\partial \psi}{\partial t} = -\frac{\hbar_A^2}{2m_S}\nabla^2\psi - g_1|\psi|^2\psi + g_2|\psi|^4\psi$$
 
-Where $g_1 > 0$ is the [[Aetherlight]] self-focusing cubic coupling constant and $g_2 > 0$ is the [[Lunehymn]] quintic defocusing saturation constant. As the amplitude $|\psi|^2$ grows due to [[Aetherlight]] fluctuation, the quintic term $g_2|\psi|^4$ grows faster and pushes back — creating a natural amplitude plateau where [[Soliton]]s stabilize without detonating. The stable matter amplitude is the plateau value $|\psi_{\text{stable}}|^2$ where all three forces balance:
+Where $g_1 > 0$ is the [[Aetherlight]] self-focusing cubic coupling constant and $g_2 > 0$ is the [[Lunehymn]] quintic defocusing saturation constant. As the amplitude $|\psi|^2$ grows due to [[Aetherlight]] fluctuation, the quintic term $g_2|\psi|^4$ grows faster and pushes back — creating a natural amplitude plateau where [[Soliton]]s stabilize without detonating. The plateau is not arbitrary. The conservative equation comes from the energy functional
 
-$$\frac{\hbar_A^2}{2m_S}k^2 = g_1|\psi_{\text{Stable}}|^2 - g_2|\psi_{\text{Stable}}|^4$$
+$$E[\psi] = \int \left(\frac{\hbar_A^2}{2m_S}\lvert\nabla\psi\rvert^2 - \frac{g_1}{2}\lvert\psi\rvert^4 + \frac{g_2}{3}\lvert\psi\rvert^6\right) dV,$$
+
+and a uniform region of density $n = |\psi|^2$ inside it has a pressure
+
+$$P(n) = n\,\mu - \varepsilon = -\frac{g_1}{2}n^2 + \frac{2g_2}{3}n^3, \qquad \mu = -g_1 n + g_2 n^2 .$$
+
+The plateau is the density at which that pressure vanishes, $P(|\psi_{\text{Stable}}|^2) = 0$, which gives exactly $|\psi_{\text{Stable}}|^2 = 3g_1/4g_2$. This is why matter has a surface: at zero pressure a region of matter can border empty space without spreading or collapsing, like a droplet of liquid. At the edge, the field decays into the surroundings as $e^{-kx}$, with
+
+$$\frac{\hbar_A^2}{2m_S}k^2 = -\mu = g_1|\psi_{\text{Stable}}|^2 - g_2|\psi_{\text{Stable}}|^4 = \frac{3g_1^2}{16g_2},$$
+
+the binding energy of the flat-top soliton: the one density at which a matter wave's edge and its nonlinear well match perfectly.
 
 This plateau is robust to small perturbations. Minor fluctuations in local [[Aetherlight]] density, ambient [[Flux]] surges, emotional resonance spikes, proximity to [[Leylines]], shift the amplitude slightly but the quintic term restores equilibrium automatically. Matter in [[Arcanoria]] does not balance on a knife's edge. It rests in a potential well.
 
-The [[Wolf Bomb]] works precisely because it forcibly overcomes this potential well — not by raising $\kappa$ slightly, but by simultaneously maximizing $g_1$ (via [[Aetherlight]] compression) and nullifying $g_2$ (via inverse-phase [[Lunehymn]] interference), stripping the quintic stabilizer entirely and leaving only the runaway cubic term. The universe does not accidentally detonate. It must be deliberately made to.
+The quintic term also puts a hard cap on criticality. The net focusing a mode can feel is $g_1|\psi|^2 - g_2|\psi|^4$, and that expression can never exceed $g_1^2/4g_2$, however much [[Aetherlight]] is poured in. So the effective criticality is bounded:
 
-$$\Delta E_{\text{Detonation}} = \int \left(g_2|\psi|^4 - g_2|\psi_{\text{Stable}}|^4\right) dV \gg 0$$
+$$\kappa_{\text{Eff}} = \frac{g_1|\psi|^2 - g_2|\psi|^4}{\dfrac{\hbar_A^2}{2m_S}k^2} \;\leq\; \frac{g_1^2}{4g_2}\cdot\frac{2m_S}{\hbar_A^2 k^2}$$
 
-The energy cost of stripping the quintic stabilizer is the activation barrier of the [[Wolf Bomb]]. Fission type weapons must overcome it through [[Resonance]] Compression alone. Fusion type weapons overcome it more efficiently by phase-synchronizing two [[Soliton]] clusters first, so their combined amplitude clears the barrier in a single constructive step.
+This, and not the plateau, is the hard limit: matter can be squeezed above its plateau, but its net focusing can never pass $g_1^2/4g_2$. With the stabilizer intact, a [[Soliton]] can be strained but it cannot run away. This is why the universe "does not accidentally detonate," written as a single inequality.
+
+The [[Wolf Bomb]] works precisely because it forcibly overcomes this potential well — not by raising $\kappa$ slightly, but by simultaneously maximizing $g_1$ (via [[Aetherlight]] compression) and nullifying $g_2$ (via inverse-phase [[Lunehymn]] interference), stripping the quintic stabilizer entirely and leaving only the runaway cubic term. With $g_2$ gone, the cap above disappears and $\kappa$ becomes unbounded. The lattice cannot rescue the target either: living matter is far above the amplitudes a lattice can arrest, and inside the Null radius the lattice is not even expressed (see *Leaving the Window* below). Early prototypes tried to nullify $g_2$ by brute force. Mature weapons do it topologically, by spending the [[Auric Comma]] (see [[Heptagonal Brillouin Zone]] below). The universe does not accidentally detonate. It must be deliberately made to.
+
+The full activation barrier is the energy difference between the compressed cluster and the resting one, with gradient, cubic, quintic and any topological work included:
+
+$$\Delta E_{\text{Activation}} = E[\psi_{\text{Compressed}}] - E[\psi_{\text{Stable}}]$$
+
+Its quintic contribution, the part the stabilizer itself stores, is
+
+$$\Delta E_{\text{Quintic}} = \int \frac{g_2}{3}\left(|\psi|^6 - |\psi_{\text{Stable}}|^6\right) dV \gg 0$$
+
+The quintic term stores energy at the density $\tfrac{g_2}{3}|\psi|^6$ (see the energy functional above). Compressing a cluster from its plateau to the density where focusing finally wins means climbing that stored energy, and that climb is the heart of the activation barrier of the [[Wolf Bomb]]. Fission type weapons must overcome it through [[Resonance]] Compression alone. Fusion type weapons overcome it more efficiently by phase-synchronizing two [[Soliton]] clusters first, so their combined amplitude clears the barrier in a single constructive step.
 
 ### The [[Auric Tone Length]] as Minimum Tone
 
-In real physics, the Planck length (~1.616 × 10⁻³⁵ m) emerges from combining the fundamental constants G, ℏ, and c, representing the scale below which spacetime becomes meaningless as a smooth manifold. In [[Arcanoria]], this bottom limit emerges from an entirely different, and far more elegant, principle.
+In real physics, the Planck length (~1.616 × 10⁻³⁵ m) emerges from combining the fundamental constants G, ℏ, and c, representing the scale below which spacetime becomes meaningless as a smooth manifold. In [[Arcanoria]]'s universe, this bottom limit emerges from an entirely different, and far more elegant, principle.
 
-The [[Auric Tone Length]] is the **minimum resolvable period of the lowest stable tone** — the full revolution of the lowest frequency that can still maintain a standing [[Soliton]] without collapsing into undifferentiated [[Primal White Noise]]. Think of it as the universe having a **fundamental note**, the absolute bass of the [[Auric Heptacode]], and the minimum length is the wavelength of that note. Below it, you cannot encode distinct frequencies; waves become indistinguishable from one another, and therefore cannot carry information or identity.
+The [[Auric Tone Length]] is the **minimum resolvable scale of a stable tone**: the shortest scale on which a tone can still maintain a standing [[Soliton]] without collapsing into undifferentiated [[Primal White Noise]]. Think of it as the universe having a **lowest note**: the floor of the [[Auric Heptacode]]'s descent, the finest step the song can take. "Lowest" refers to the floor of physical scale, not pitch: it is in fact the highest spatial frequency reality can resolve. $\ell_A$ is that note's inverse wavenumber, and one full revolution of its phase spans $2\pi\ell_A$. Below it, you cannot encode distinct frequencies; waves become indistinguishable from one another, and therefore cannot carry information or identity.
 
-For a [[Soliton]] to hold structure, its wavenumber $k$ must satisfy:
+For a [[Soliton]] to hold structure, the reciprocal component it carries along each Heptacode thread must satisfy:
 
-$$k \leq k_{\text{Max}} = \frac{1}{\ell_A} \quad \Rightarrow \quad \ell_A = \sqrt{\frac{\hbar_A^2}{2m_S g |\psi_0|^2}}$$
+$$\lvert k_j\rvert \leq k_{\text{Floor}} = \frac{1}{\ell_A}, \quad j = 1, \ldots, 7, \qquad \ell_A = \xi\!\left(|\psi_\star|^2\right) = \sqrt{\frac{\hbar_A^2}{2m_S\, g_1 |\psi_\star|^2}}$$
 
-This $\ell_A$ is the [[Auric Tone Length]], which emerges not as an arbitrary constant, but the minimum spatial period at which [[Aetherlight]] self-focusing and [[Lunehymn]] dispersion can still achieve balance. Below $\ell_A$, dispersion cannot counteract focusing at any amplitude; the wave collapses into undifferentiated [[Primal White Noise]]. The full wavelength of the [[Auric Aria]]'s deepest encodable tone is:
+This $\ell_A$ is the [[Auric Tone Length]]. It is not an arbitrary constant. The [[Auric Heptacode]] fixes it through the period of its lattice, $a = \pi\ell_A$: the finest wave a lattice can distinguish along any one of its threads spans two of its cells, $2a = 2\pi\ell_A = \lambda_A$ (the Nyquist limit). A reciprocal component beyond $k_{\text{Floor}} = 1/\ell_A$ is not a new mode: it aliases onto one already inside the zone, shifted by a reciprocal lattice vector. Reality cannot distinguish a finer mode as an independent state, so nothing beyond the floor can carry identity. The floor bounds each thread, not the whole seven-dimensional wavevector: a wave that draws on several threads at once can reach a Euclidean magnitude of up to $\sqrt{7}/\ell_A$. In physical space, which is a different thing from the seven-dimensional frequency lattice, the finest single-thread mode has a physical wavenumber $k_{\text{phys}} \sim 1/\ell_A$. The [[Primordial Star]]s then hold matter at the one density, the stellar floor $|\psi_\star|^2$, at which the field's healing length equals it. It is the minimum scale at which the gold's self-focusing can still hold a shape against dispersion. Real physics knows the same scaling under another name: in a repulsive Bose–Einstein condensate, the **healing length** $\xi = \hbar/\sqrt{2mgn}$ is the shortest distance over which a quantum fluid can repair a dent in itself. The [[Auric Tone Length]] is its self-focusing counterpart, the nonlinear coherence length of the [[Known Universe]] at the stellar floor, with the same scaling: the smallest wound reality can close. Below $\ell_A$, dispersion outruns any focusing the field can muster; no shape can hold there, and any finer structure scatters into undifferentiated [[Primal White Noise]].
+
+Because the healing length depends on density, this one relation explains every order of matter at once:
+
+- **In the [[Proto-Universe]]**, density sat far below the floor, so $\xi \gg \ell_A$. The floor existed in the lattice, but nothing could reach it. Everything was cluster.
+- **Across the [[Known Universe]]**, starlight holds density exactly at the floor, so $\xi = \ell_A$. Matter resolves all the way down to the lowest note.
+- **On [[Arcanoria]]'s living land**, the [[Dual Confluence Stream]] lifts density above the floor, so $\xi < \ell_A$. Matter cannot be resolved any finer, because any wavenumber beyond the zone folds back onto one already inside it (see below). Instead, it heals within less than one lattice cell: more [[Coherence]] is packed into every cell. This is the precise meaning of **[[Coherence]] density**, and the reason living matter is stiffer, more remembered and, later in this document, more dangerous.
+
+One full revolution of that floor note, the finest tone the [[Auric Aria]] encoded, spans:
 
 $$\lambda_A = 2\pi\ell_A$$
 
-Thus, the constant is not an arbitrary number. It is the full revolution of the lowest type of tone for frequencies to stabilize and make sense, the period encoded into reality by the [[Auric Aria]] at the moment of the [[Proto-Universe]] first sounding.
+Thus, the constant is not an arbitrary number. $\ell_A$ is the floor note's inverse wavenumber, and $\lambda_A$ is its full revolution: the shortest wave on which frequencies can stabilize and make sense, the period encoded into reality by the [[Auric Aria]] at the moment of the [[Proto-Universe]] first sounding, and enforced only once the [[Primordial Star]]s were lit.
 
 #### The Descent of Frequencies
 
-To reach the scale of the [[Soliton]]s that act as building blocks, the frequencies of the [[Dual Confluence Stream]] must split in a precise downward cascade. This is not instantaneous, it is a structured descent through the [[Auric Heptacode]]'s harmonic series architecture:
+To reach the scale of the [[Soliton]]s that act as building blocks, the frequencies of the field (on [[Arcanoria]], the frequencies of the [[Dual Confluence Stream]]) must be resolved in a precise cascade of ever finer distinctions. This is not instantaneous, and it is not left to chance: it is the [[Auric Heptacode]]'s own quantization rule, a structured refinement through its harmonic series architecture:
 
-- From the **fundamental tone** down through the **harmonic series** (integer multiples: $2f$, $3f$, $4f$…)
-- Then into **semitones** ($2^{1/12}$ intervals)
-- Then into **microtones** ($2^{1/n}$ for large $n$)
-- These divide all the way down until reaching the **minimum resolvable tone-difference** — the [[Auric Tone Length]].
+- The **fundamental tone** generates its **harmonic overtones** (integer multiples: $2f$, $3f$, $4f$…)
+- The intervals between resolvable tonal classes are subdivided into **semitones** ($2^{1/12}$ intervals)
+- Those are subdivided into progressively finer **microtonal** distinctions ($2^{1/n}$ for large $n$)
+- The refinement terminates when the associated spatial wavenumber reaches the Auric Tone cutoff: the **finest resolvable division**, the floor note, whose wave can be no shorter than $\lambda_A = 2\pi\ell_A$.
 
-Shannon entropy confirms this: the channel capacity of any medium is bounded by its bandwidth. The [[Auric Aria]] encoded a minimum bandwidth into the [[Known Universe]]. The [[Auric Tone Length]] is that bandwidth's floor.
+Shannon's information theory then says how much that descent can carry. The capacity of any channel is bounded by its bandwidth $B$ and its signal-to-noise ratio (the Shannon–Hartley theorem):
+
+$$C = B \log_2\left(1 + \frac{S}{N}\right)$$
+
+Bandwidth is a frequency and the [[Auric Tone Length]] is a length, so the two meet through the field's dispersion relation. On the floor's simple linear branch, waves travel at the floor speed $c_A$, and the finest physical mode becomes a ceiling on frequency:
+
+$$\omega_{\text{Max}} = c_A\, k_{\text{phys}} = \frac{c_A}{\ell_A}, \qquad f_{\text{Max}} = \frac{c_A}{2\pi\ell_A}$$
+
+The [[Auric Aria]] encoded that ceiling into the [[Known Universe]]: no channel anywhere can open a band wider than $f_{\text{Max}}$, so $B \leq f_{\text{Max}}$. [[Primal White Noise]] is the $N$ in the denominator. The [[Stellar Veil]] is what keeps that $N$ bounded. The [[Primordial Star]]s are what keep $S$ above it.
+
+There is a catch hidden in this descent. The seven tones of the [[Auric Heptacode]] are a heptatonic scale, and a heptatonic scale built by stacking pure fifths **can never close**. Six of its seven fifths are pure. The seventh comes out short. Why that is, and why it is the same fact as the shape of reality's floor, is the subject of the next section.
 
 #### The [[Heptagonal Brillouin Zone]] — The Shape of Reality's Floor
 
-The [[Auric Tone Length]] $\ell_A$ as defined above is a scalar limit, the minimum spatial period below which no [[Soliton]] can form. This is sufficient to prevent the ultraviolet catastrophe (the infinite bleed of energy into ever-smaller wavelengths). However, a scalar cutoff alone cannot explain three things the [[Great Harmonic Loom]] demonstrably does:
+The [[Auric Tone Length]] $\ell_A$ as defined above is a scalar limit, the minimum spatial scale below which no [[Soliton]] can form. This is enough to prevent the ultraviolet catastrophe (the infinite bleed of energy into ever-smaller wavelengths). However, a scalar cutoff alone cannot explain three things matter demonstrably does:
 
 1. **Why frequencies descend in discrete steps** — semitones, microtones — rather than a smooth continuous slide
 
 2. **Why [[Coherence Repulsion]] has the hard topological character of a zone boundary**, not a soft energy gradient
 
-3. **Why [[Chern Number]]s $\mathcal{C} \in \mathbb{Z}$ are well-defined integers** — a topological invariant requires a *periodic lattice* in momentum space to exist mathematically
+3. **Why [[Chern Number]]s $\mathcal{C} \in \mathbb{Z}$ are well-defined integers** — the Heptacode construction needs a closed two-dimensional parameter manifold on which the Berry bundle can be integrated, and a periodic parent lattice supplies one
 
-The resolution is that $\ell_A$ is not merely a scalar. It is the **edge length of a discrete topological lattice** — specifically, the **[[Heptagonal Brillouin Zone]] (HBZ)**, the fundamental domain of the [[Auric Heptacode]]'s seven-dimensional frequency lattice encoded into the [[Great Harmonic Loom]] at the moment of the [[Proto-Universe]]'s first sounding.
+A Brillouin zone answers all three at once. And the [[Auric Heptacode]] demands that the zone be heptagonal. That is where the trouble starts.
 
-The seven primitive lattice vectors of the HBZ are set by the seven fundamental tones of the [[Auric Aria]]:
+##### The Heptagonal Paradox
 
-$$\mathbf{b}_j = \frac{2\pi}{\ell_A} \hat{e}_j, \quad j = 1, \ldots, 7$$
+A Brillouin zone is the basic cell of a periodic lattice in frequency space. Periodic lattices in two or three dimensions obey a hard law of geometry, the **crystallographic restriction theorem**: the only rotational symmetries they can have are 2-, 3-, 4-, and 6-fold. The proof takes one line. Written in the lattice's own basis, a rotation is a matrix of whole numbers, so its trace must be a whole number. The trace of a 2D rotation by $\theta$ is $2\cos\theta$. For seven-fold symmetry:
 
-Where $\hat{e}_j$ are the seven unit vectors of the [[Auric Heptacode]] geometry. The [[Heptagonal Brillouin Zone]] is the Wigner-Seitz cell of this reciprocal lattice as the heptagonal region in seven-dimensional frequency space closest to the origin. Waves with wavevectors outside this zone are not merely attenuated rather they do not exist in the [[Great Harmonic Loom]] as distinct frequencies. They alias back into the zone or dissolve into [[Primal White Noise]].
+$$2\cos\frac{2\pi}{7} = 1.2469796\ldots \quad \text{a root of} \quad x^3 + x^2 - 2x - 1 = 0$$
 
-The seven bands of the HBZ correspond directly to the seven tonal classes of the [[Auric Heptacode]]. Each band supports a distinct family of [[Soliton]]s with a characteristic [[Chern Number]]. A stable [[Soliton]] always lives in one of these seven bands. The discrete descent of frequencies, from harmonic series to semitones to microtones down to $\ell_A$, is not an approximation or a convention. It is the literal band structure of the HBZ: frequencies descend through quantized steps because the lattice has a quantized geometry, exactly as a steel tongue drum's cymatics modes are set by the geometry of its cuts, not by the player's intention.
+That number is irrational, so it can never be a whole number. **No periodic arrangement of matter in the physical world can be seven-fold symmetric.** Heptagons cannot tile a floor without gaps or overlaps. A strict Bravais lattice in real space cannot produce a true heptagonal first Brillouin zone.
 
-This also completes the explanation of [[Coherence Repulsion]]. When two [[Soliton]] clusters of different [[Chern Number]]s approach, the zone-boundary of the HBZ creates a hard topological barrier between their frequency classes — not because of a continuous energy cost, but because there is no lattice path connecting one Chern class to another without passing through a singularity. Topology does not allow smooth interpolation between integers. The barrier is not a wall. It is an impossibility.
+Yet the scholars of [[Ages]] XI measured heptagonal order everywhere they looked: in [[Crystal]] diffraction, in the overtone spacing of the [[Leylines]], in the band structure of every [[Soliton]] cluster they could resolve. The order was sharp, like a crystal's, but it never repeated. They called this the **Heptagonal Paradox**: *a zone that cannot exist, measured every day.*
 
-_The [[Great Harmonic Loom]] does not hold matter apart through effort. It holds matter apart because it is geometrically incapable of confusing one integer for another._
+For reference, real-life went through the same crisis. In 1982 Dan Shechtman recorded a sharp ten-fold diffraction pattern from a rapidly cooled aluminum–manganese alloy. A symmetry that "could not exist" had shown up in a real material. He was ridiculed for years. Linus Pauling famously dismissed him with *"there is no such thing as quasicrystals, only quasi-scientists."* Shechtman received the 2011 Nobel Prize in Chemistry. The answer in both worlds is the same one.
 
-When a [[Wolf Bomb]]'s [[Phase Singularity]] is injected into a [[Soliton]] cluster, it is geometrically equivalent to **punching a hole in the [[Heptagonal Brillouin Zone]]** and breaking the lattice periodicity at a single point. The band structure collapses locally, the [[Chern Number]] becomes undefined, and the topological invariant shatters. This is the precise mechanism of the Fission detonation.
+##### The Resolution: Reality Is a Heptagonal Quasicrystal
+
+The answer is that matter in [[Arcanoria]] is not a [[Crystal]]. It is a **quasicrystal**: perfectly ordered but never repeating. Every local pattern recurs, but the whole never tiles. The crystallographic restriction only forbids seven-fold symmetry in *periodic* structures of two or three dimensions. In higher dimensions it relaxes. The minimum number of dimensions a lattice needs to hold an $n$-fold rotation is set by Euler's totient function, and for seven it is:
+
+$$\psi(7) = \varphi(7) = 6$$
+
+Seven-fold order needs at least six dimensions to be periodic. Seven is the **smallest** symmetry with that demand: five-, eight-, ten- and twelve-fold symmetry all close in only four. Of all the forbidden symmetries, the [[Auric Aria]] chose the most stubborn small one.
+
+The [[Auric Heptacode]] supplies those dimensions. Its frequency lattice is seven-dimensional, one dimension per golden thread, with reciprocal vectors:
+
+$$\mathbf{b}_j = \frac{2\pi}{a}\, \hat{e}_j = \frac{2}{\ell_A}\, \hat{e}_j, \qquad a = \pi\ell_A, \quad j = 1, \ldots, 7$$
+
+Here the $\hat{e}_j$ are the seven orthonormal directions of the [[Auric Heptacode]] and $a$ is the lattice period fixed by the [[Auric Tone Length]]. In seven dimensions this lattice is perfectly periodic. Its seven-fold symmetry is exact: it is the act of *cycling the seven threads*, $\hat{e}_j \to \hat{e}_{j+1}$. Nothing is forbidden up here. The prohibition only bites when this order is projected down into the world.
+
+This lattice is universal. It is the [[Auric Heptacode]] itself, and it underlies every star, every nebula and every stone in the [[Known Universe]]. The [[Great Harmonic Loom]] is the same seven threads strung into a living instrument over [[Arcanoria]], which is why the scholars of [[Ages]] XI first measured all of this there.
+
+##### Seven Threads, Three Times, One Unison
+
+Cycling the seven threads splits seven-dimensional frequency space into four pieces that never mix. This is ordinary linear algebra (the eigenspaces of a cyclic permutation), and it lines up with the [[Trinity Harmony]] with uncanny exactness:
+
+| Subspace                      | Dim. | What the Heptacode cycle does to it | Shape traced by the seven threads | [[Arcanoria]] reading                                                        | Role                                                             |
+| ----------------------------- | ---- | ----------------------------------- | --------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Unison axis $(1,1,1,1,1,1,1)$ | 1    | Leaves it fixed                     | A single point                    | All seven tones sounding together: the [[Fundamental Frequency]], the octave | Physical, **periodic** (the vertical stratification of the Loom) |
+| Plane I                       | 2    | Rotates by $2\pi/7$                 | Heptagon $\{7/1\}$                | The **Present**                                                              | Physical, **quasiperiodic**                                      |
+| Plane II                      | 2    | Rotates by $4\pi/7$                 | Heptagram $\{7/2\}$               | The **Past** (memory)                                                        | Hidden (perpendicular space)                                     |
+| Plane III                     | 2    | Rotates by $6\pi/7$                 | Heptagram $\{7/3\}$               | The **Future** (destiny)                                                     | Hidden (perpendicular space)                                     |
+
+$1 + 2 + 2 + 2 = 7$. Physical space is the unison axis plus the Present plane: three dimensions. The Past and Future planes form a hidden four-dimensional *perpendicular space* that matter never occupies but always depends on.
+
+Six of those seven dimensions would already be enough to hold seven-fold order. The three planes together span six, and they carry all of the seven-fold information: projecting the lattice along the unison axis leaves the six-dimensional lattice $A_6^*$ (see *The True Shape of the Zone* below). The seventh dimension is the unison axis itself, the one direction in which all seven threads sound together. It adds nothing to the symmetry and everything to the music: it is why the [[Auric Heptacode]] has seven threads rather than six, and why pitch repeats every octave.
+
+Furthermore, three details make this fully [[Arcanoria]]n:
+
+- **The sigil is the map.** If you follow the seven threads in order inside Plane II, they trace the $\{7/2\}$ heptagram. In Plane III they trace the $\{7/3\}$ heptagram. The heptagram of the [[Auric Heptacode]] sigil, used since the [[Age of Glyphs]] on the [[Glyphic Heptastave]], is a literal diagram of the hidden time-planes, drawn ages before anyone could prove it.
+- **Time is one heptagon seen three ways.** The three planes are exact algebraic conjugates of each other: one is turned into the next by replacing $e^{2\pi i/7}$ with its square. Past, Present and Future are not three structures. They are three readings of one seven-fold law. That is why [[Echoing Bonds]] is the only binding whose golden strand touches the [[Trinity Harmony]]: it is the only binding that acts in perpendicular space.
+- **The octave is the one thing that repeats.** The unison direction is the only rational, periodic direction in the lattice. That is why pitch repeats every octave even though nothing in the plane ever repeats.
+
+##### Cut and Project — How Matter Is Chosen
+
+Physical matter is made by a method called **cut-and-project**. In our world this is exactly how the Penrose tiling is built (from a five-dimensional cubic lattice) and how real decagonal quasicrystals are described: flat quasiperiodic layers stacked periodically along one axis, indexed by five whole numbers instead of three. [[Arcanoria]]'s matter is the heptagonal case, indexed by seven, one per tone.
+
+A point $\mathbf{n}$ of the seven-dimensional Heptacode lattice becomes a [[Soliton]] site in the world only if its shadow in perpendicular space falls inside a bounded region, the [[Window of Becoming]]:
+
+$$\mathbf{x}_{\text{Matter}} = \pi_{\parallel}(\mathbf{n}) \quad \text{if and only if} \quad \pi_{\perp}(\mathbf{n}) \in W$$
+
+$\pi_\parallel$ projects onto physical space and $\pi_\perp$ onto the Past–Future planes. $W$ is the shadow of one seven-dimensional unit cell, cast into perpendicular space.
+
+Read in-world, the rule says: **a point of the [[Known Universe]] becomes matter in the Present only when its Past and its Future both agree to admit it.** Matter is the part of the song that memory and destiny jointly allow to be heard. Shifting the cut through perpendicular space, a motion called a **phason**, rearranges which points are admitted. In [[Arcanoria]] the quasicrystal is not a description of matter. It is the mechanism by which matter is admitted at all. A phason does not move matter. It changes which matter *is*.
+
+##### The True Shape of the Zone
+
+Because the seven-dimensional lattice is periodic, it has a genuine Brillouin zone: its Wigner–Seitz cell, the region of frequency space closer to the origin than to any other lattice point. For this lattice that cell is a **seven-dimensional hypercube**:
+
+$$\mathbf{k} \in [-k_{\text{Floor}},\, k_{\text{Floor}}]^7 = [-\pi/a,\, \pi/a]^7 = [-1/\ell_A,\, 1/\ell_A]^7$$
+
+Its fourteen walls are the hyperplanes $k_j = \pm k_{\text{Floor}}$: each of the seven tones pushed to its positive or its negative limit, each tone rising and each tone falling. So the zone and the [[Auric Tone Length]] are one boundary seen two ways, thread by thread. The floor bounds every component, not the whole vector: at a corner, where all seven threads reach their limits together, $\lvert\mathbf{k}\rvert = \sqrt{7}/\ell_A$. The cube has 128 such corners. This is the **[[Heptagonal Brillouin Zone]]**, and its seven-fold symmetry is exact.
+
+Its shadow in the Present plane is a **regular fourteen-sided polygon**. This is not a flaw. Real diffraction does the same thing: Friedel's law makes every diffraction pattern centrosymmetric, so an odd symmetry always shows up doubled. Shechtman's five-fold icosahedral alloy produced a ten-fold pattern. The seven-fold produces fourteen. [[Arcanoria]]'s scholars put it simply: **seven threads, fourteen shadows. Said differently, seven bindings and their [[Seven Weights]].** Anyone who measures the zone sees fourteen. Only the sigil-makers ever drew seven.
+
+Beneath it lies a finer structure. If you set aside the unison axis and look only at the six hidden-plus-present dimensions, the lattice becomes the one geometers call $A_6^*$. Its zone is the **permutohedron of order seven**, the [[Chordal Zone]]:
+
+- **5,040 vertices**, one for every ordering of the seven tones. 5,040 is also the number Plato chose for the citizens of his ideal city in the *Laws*. The [[Auric Order]] would not call that a coincidence, it is precisely what [[Xian-K'in]] realized.
+- **126 walls**, one for every possible chord. Each wall corresponds to a non-empty, incomplete subset of the seven tones, from a single note up to six. Walls come in complementary pairs: a chord and the chord made of every tone it leaves out. The closest walls belong to the single tones and their six-note complements. There are fourteen of them, and they cast the same fourteen-sided shadow.
+
+[[Coherence Repulsion]] therefore has a concrete geometry. The barrier between two frequency classes is literally a chord-wall of the [[Chordal Zone]].
+
+##### Restoring the Three Requirements
+
+1. **Discrete descent.** The spectrum of a quasiperiodic system need not be a set of smooth bands. In the simplest one-dimensional case, the Fibonacci quasicrystal, it is a Cantor set of zero total width, with gaps nested inside gaps at every scale, and Bellissard's **gap-labelling theorem** gives every gap a label made of whole numbers. The Heptacode potential $V_H$ produces a hierarchically gapped spectrum of this kind, and its gap labels are inherited from the seven-frequency parent lattice: every gap carries seven integers, one per tone. The descent from harmonics to semitones to microtones is a walk down this hierarchy of gaps, and it stops at $\ell_A$ because nothing finer than the healing length can hold a shape.
+2. **Hard [[Coherence Repulsion]].** Moving between frequency classes means crossing a wall of the zone, which means changing a whole-number label. There is no halfway.
+3. **Integer [[Chern Number]]s.** A Chern number is computed over a closed two-dimensional torus, and the periodic parent lattice supplies many. A seven-torus carries $\binom{7}{2} = 21$ independent two-cycles, one for every pair of threads, and a band carries a first Chern number on each:
+
+$$\mathcal{C}_{ij} = \frac{1}{2\pi}\int_{T^2_{ij}} \mathcal{F}_{ij}\; dk_i\, dk_j \;\in\; \mathbb{Z}, \qquad 1 \leq i < j \leq 7$$
+
+Twenty-one is not an accident of counting. It is the sacred number, $21 = 3 \times 7$: the seven threads of the [[Auric Heptacode]] read through the three times of the [[Trinity Harmony]]. Under the Heptacode's cycle, the twenty-one pairs fall into exactly three families of seven. Pairs one step apart trace the heptagon $\{7/1\}$ of the Present, pairs two steps apart trace the heptagram $\{7/2\}$ of the Past, and pairs three steps apart trace the heptagram $\{7/3\}$ of the Future. Each family turns the phase by its own count of sevenths of a full turn: one, two or three. Every pair is also an interval, two tones sounding together, and a [[Dyad Chord]] of two bindings. Between them, the twenty-one pairs sound every interval a seven-tone scale can hold (its seconds, thirds and fourths, with their inversions), each exactly seven times. Seven threads, three times, and every thread sounding once against every other: this is why the [[Auric Order]] holds twenty-one to be the most consonant number in existence, and why the Heptacode takes all twenty-one.
+
+These cycles are also indistinguishable from how [[Cosmic Motion]] runs. A closed two-cycle is two phases turning together, and the heavens move on exactly such cycles: a world spins while it circles its star, and two periods that never share a common beat wind around a torus forever without closing. The calendar of the sky keeps the same count. Every [[Phase]] of [[Cosmic Motion]] is twenty-one [[Seventh]]s, and the twenty-first, the [[Ritual Seventh]], is where attunement to magic peaks. The topology of matter and the turning of the heavens are written on the same twenty-one cycles.
+
+A [[Soliton]]'s full topological identity is therefore a chord of twenty-one integers, $\mathcal{C}_{ij}$. The reading the world can stand on is taken on the **Auric torus** $T^2_{\text{Auric}}$, spanned by the two closed cycles that matter actually lives on. The first is the **unison cycle**: the momentum along the one direction in which the world repeats, the octave. The second is the **phason cycle**: one full slide of the cut through perpendicular space, after which the tiling of the world returns to itself. The Present plane never closes (see below); these two cycles always do. The Auric torus is not a twenty-second cycle. It is a fixed combination of the twenty-one, so the [[Chern Number]] used throughout this document, and by every engineer of [[Ages]] XI, is one fixed reading of that chord:
+
+$$\mathcal{C} = \frac{1}{2\pi} \int_{T^2_{\text{Auric}}} \mathcal{F} = \sum_{i<j} n_{ij}\,\mathcal{C}_{ij} \;\in\; \mathbb{Z}, \qquad n_{ij} = p_i q_j - p_j q_i, \qquad \mathcal{F}_{ij} = \partial_i A_j - \partial_j A_i$$
+
+Here $A_i$ is the Berry connection of the soliton's phase field, $\partial_i$ differentiates along the $i$-th coordinate of the parameter space, and $\mathcal{F}$ is the Berry curvature two-form. The vectors $\mathbf{p}, \mathbf{q} \in \mathbb{Z}^7$ are the integer winding vectors of the two cycles that span the Auric torus, and the coefficients $n_{ij}$ are their wedge product, $\mathbf{p}\wedge\mathbf{q}$. The unison cycle is all seven notes sounding together, $\mathbf{p} = (1,1,1,1,1,1,1)$, and the phason cycle supplies $\mathbf{q}$, so the reading reduces to
+
+$$\mathcal{C} = \sum_{i<j} \left(q_j - q_i\right)\mathcal{C}_{ij}$$
+
+The physical world inherits these integers without being periodic itself. This is established physics: in 2012 Kraus and colleagues showed that one-dimensional quasicrystals inherit the topological invariants of a two-dimensional quantum Hall system, edge states included. In 2016 Bandres, Rechtsman and Segev demonstrated photonic quasicrystals with a fractal topological spectrum and protected edge transport.
+
+There is a deeper reason the integer belongs to the [[Auric Heptacode]]. Because $2\cos(2\pi/7)$ is irrational, the Present plane slices the seven-dimensional torus at an irrational angle. It winds around forever and never closes on itself. Any momentum integral taken purely in physical space never closes either. The world can measure the integer site by site, in real space, but it cannot see what the integer is. **Only the [[Auric Heptacode]] closes the count, and the [[Primordial Star]]s are what keep it counting.**
+
+In the lattice the [[Auric Aria]] built, the seven bands of the HBZ correspond directly to the seven tonal classes of the [[Auric Heptacode]]. Each band supports a distinct family of [[Soliton]]s with a characteristic [[Chern Number]]. A stable [[Soliton]] always lives in one of these seven bands. The discrete descent of frequencies is not an approximation or a convention. It is the literal gap structure of the HBZ: frequencies descend through quantized steps because the lattice has a quantized geometry, exactly as a steel tongue drum's cymatics modes are set by the geometry of its cuts, not by the player's intention.
+
+This also completes the explanation of [[Coherence Repulsion]]. A Chern number cannot change under any smooth deformation that keeps its band gap open, because topology does not interpolate between integers. It can change only at the moment a gap closes: the band touching is the singularity that every path between two classes must pass through. And in the [[Known Universe]], no gap closes on its own. The [[Auric Heptacode]], held by the stars, keeps every natural band gap open, so no natural path connects one Chern class to another. When two [[Soliton]] clusters of different [[Chern Number]]s approach, the walls of the HBZ stand between their frequency classes. The barrier does not come from an energy cost that enough force could pay. It is not a wall. It is an impossibility.
+
+_The [[Auric Heptacode]] does not hold matter apart through effort. It holds matter apart because it is geometrically incapable of confusing one integer for another._
+
+##### [[Crystal]] as Periodic Approximant — Certainty as Rounding
+
+If the world is a quasicrystal, what is a [[Crystal]]? Here our world's physics supplies the answer directly. Real quasicrystals have **approximants**: perfectly periodic crystals whose local structure is almost identical to the quasicrystal's. They are made by replacing the irrational slope of the cut with a nearby fraction. The approximant repeats, but it pays for that with a uniform, built-in strain of the phason field.
+
+[[Absolute Certainty]] does exactly this. A [[Spellweaver]] who crystallizes reality is *rounding an irrational number*: forcing the heptagonal order into the nearest repeating pattern and spreading the leftover error evenly through the unit cell. The canonical measure of an approximant's quality, the one every [[Crystal]] tier is graded by, is the heptagon's own diagonal ratio, $\rho = 2\cos(\pi/7) = 1.8019377\ldots$:
+
+| Approximant $p/q$ | Value | Residual error $\lvert\rho - p/q\rvert$ | Suggested [[Crystal]] tier |
+| --- | --- | --- | --- |
+| $2/1$ | 2.000000 | $1.98 \times 10^{-1}$ | Brittle: hedge-mage glass |
+| $9/5$ | 1.800000 | $1.94 \times 10^{-3}$ | Common: journeyman crystal |
+| $182/101$ | 1.801980 | $4.25 \times 10^{-5}$ | Hardened: knightly crystal |
+| $373/207$ | 1.801932 | $5.37 \times 10^{-6}$ | Masterwork |
+| $1301/722$ | 1.801939 | $1.32 \times 10^{-6}$ | Mythic |
+
+These fractions are not chosen by hand: they are the successive convergents of the continued fraction $\rho = [1;\,1,\,4,\,20,\,2,\,3,\,\dots]$, the best possible rational approximations at each size of denominator. A full six-dimensional approximant carries more structure than any single number, but $\rho$ is the one that sets its tier. The better the approximant, the harder the [[Crystal]], and the larger its repeating cell, so the more conviction it takes to hold. This is the physics behind the layers of hardness of [[Crystal]] magic. The error shrinks with every tier but **never reaches zero**. No certainty, however absolute, can make seven into a whole number. Ordinary ice, with its six-fold snowflake, is the [[Auric Heptacode]]'s nearest honest periodic neighbor to seven: the cheapest approximant there is.
+
+#### The [[Auric Comma]] — Why the Wolf Can Exist
+
+Music has known this problem for two and a half thousand years.
+
+Stack twelve pure fifths (ratio $3/2$) and you should land seven octaves up. You don't. You overshoot by the **Pythagorean comma**:
+
+$$\frac{(3/2)^{12}}{2^7} = \frac{531441}{524288} \approx 23.46 \text{ cents}$$
+
+The circle of fifths cannot close because $\log_2(3/2)$ is irrational. In Pythagorean tuning the whole comma is dumped into a single fifth, which is left badly out of tune. Its two near-matching frequencies beat against each other and the interval *howls*. Musicians named it the **wolf**.
+
+The heptatonic scale (the seven tones of the [[Auric Heptacode]]) inherits the same flaw in a sharper form. Build it as a chain of pure fifths, F–C–G–D–A–E–B. Six of its seven fifths are pure. The seventh, from B back to F, comes out as $1024/729 \approx 588.27$ cents, short of a true fifth by 113.69 cents. That is the tritone, the interval medieval theorists called *diabolus in musica*.
+
+In our world, *"seven-fold tilings cannot close"* and *"seven-note chains of fifths cannot close"* are two unrelated facts, one from geometry and one from music. **In [[Arcanoria]], where frequency is geometry, they are the same fact.** The **[[Auric Comma]]** is the irreducible leftover of fitting seven-fold order into a world that cannot hold it periodically.
+
+##### Where the Comma Goes — The Temperament of the Stars and the Loom
+
+Reality handles the comma the way Baroque tuners did. It **tempers** it, and tempering is something the stars do, not something geometry does on its own. A perfect quasicrystal left alone is content to be quasiperiodic and stores no strain at all. The strain comes from the [[Primordial Star]]s. Each star's light pins the cut toward the one phase at which the matter it holds sits in tune, and seven-fold geometry makes that wish impossible to grant everywhere at once: keep every local fifth pure and, as in any chain of fifths, the phase the stars ask for drifts by a comma across every stretch of the lattice. Across the [[Known Universe]], the cut must compromise between staying uniform and following the stars, and the misfit is spread through every region of matter. On [[Arcanoria]] the [[Great Harmonic Loom]] tempers it a second time, far more finely, through the [[Dual Confluence Stream]]. In a well temperament, the kind of tuning Bach's *Well-Tempered Clavier* was written to show off, the comma is spread unevenly across all the fifths. Every key is playable, and each has its own color. Natural matter is well-tempered in exactly this sense. The comma is dissolved into a faint, uneven phason strain spread across every stone, river and body, so that every place is in tune and every place has its own color. The stored energy is that compromise, written out:
+
+$$E_{\text{Comma}} = \int \left[\frac{K_\perp}{2}\lvert\nabla \mathbf{u}_\perp\rvert^2 + \frac{\Lambda_\star}{2}\big\lvert \mathbf{u}_\perp - \mathbf{u}_\star(\mathbf{r})\big\rvert^2\right] dV$$
+
+Here $\mathbf{u}_\perp$ is the phason field (how far the cut has been displaced through the Past–Future planes at each point) and $K_\perp$ is the **phason stiffness**. $\mathbf{u}_\star(\mathbf{r})$ is the phase the starlight pins each point toward, and $\Lambda_\star$ is how hard it pins. As in real quasicrystals, a *uniform* phason shift costs nothing in the first term; only gradients cost energy there. But $\mathbf{u}_\star$ is never uniform, because the drift of the comma is built into it, $\nabla\mathbf{u}_\star \neq 0$. A flat cut falls ever further out of tune with the stars and pays the second term; a cut that follows them strains everywhere and pays the first. The two terms cannot both vanish, so even the cheapest cut stores energy. That frustration is the comma, held as stored strain. The stiffness rises with [[Coherence]] density, so the comma is held under far more tension on [[Arcanoria]]'s living land than at the stellar floor. Places that are more observed, remembered and loved are stiffer, and they store more comma energy in the same strain.
+
+##### Why a Seven-Fold Universe Must Have Wolves
+
+This is the step that turns the gap into the mechanism.
+
+In a periodic universe built on four- or six-fold order, there would be no perpendicular space, no window, and no comma. Every defect would be an ordinary dislocation, measured by a true physical lattice vector, and the band structure could always absorb it. Such a world could still strain and be broken, but it could not be **untempered**. It would have no phasonic reservoir of this kind for a weapon to spend.
+
+[[Arcanoria]] has no such mercy. Because seven-fold order is forbidden in the world, and the stars never stop asking for it, every region of matter carries a share of the [[Auric Comma]], held quietly in temperament. The [[Wolf Bomb]] does not create destructive energy. **It untempers.** It gathers a region's distributed comma and collapses it into one interval at one point, exactly as Pythagorean tuning gathers the whole comma into one howling fifth. The name was never a metaphor. The weapon makes reality play its wolf interval.
+
+This is the [[Weight of Flaw]] written in geometry: *everything is imperfect; perfection is ontologically impossible.* The [[Auric Aria]] built her universe on a symmetry that cannot close, because only an aperiodic world can be ordered without repeating: every place unique, every pattern familiar. The price of that beauty is a gap that must live somewhere. The [[Wolf Bomb]] is what happens when someone decides where.
+
+_"The seeds of ruins are in the blueprint of certainty."_ — [[The White-Touched Archivist]]
+
+> **Open hook — the Octagram.** Eight-fold order is also forbidden in the world, but it closes in only four dimensions ($\psi(8) = 4$), against the six that seven requires. The octagram of the [[Chorus Pillar]] and the [[Eight-Born Paths]] is, geometrically, a *cheaper* order: easier to close, carrying less comma, and needing far less hidden space. Whether that makes [[Eight-Born Paths]] geometry more stable, or simply emptier, is left open for the [[Eighth Cycle]] lore.
+
+When a [[Wolf Bomb]]'s [[Phase Singularity]] is injected into a [[Soliton]] cluster, it is geometrically equivalent to **punching a hole through the cut**: forcing the comma, which is normally spread across a whole region, into a single point. The local band structure collapses, the [[Chern Number]] can no longer be expressed in the world, and the temperament fails. This is the precise mechanism of the Fission detonation, detailed below.
 
 ### [[Frequency Harmonics]] as Encoded Information
 
-In fiber optic cables, information is encoded in light via wavelength-division multiplexing: different frequencies of light carry different data channels simultaneously through the same medium. [[Arcanoria]]'s [[Frequency Harmonics]] work identically, but through acoustic-vibrational encoding inside the [[Leylines]].
+In fiber optic cables, information is encoded in light via wavelength-division multiplexing: different frequencies of light carry different data channels simultaneously through the same medium. [[Arcanoria]]'s [[Frequency Harmonics]] work identically, but through acoustic-vibrational encoding inside the [[Leylines]]:
+
+$$\psi_{\text{Ley}}(x,t) = \sum_{j=1}^{M} A_j\, e^{\,i\left(k_j x - \omega_j t + \varphi_j\right)}, \qquad M \;\leq\; \frac{B}{\Delta\omega_{\text{Ch}}}$$
+
+Each channel $j$ is one overtone, and its amplitude $A_j$ and phase $\varphi_j$ carry its content. A [[Leylines]] channel can carry as many overtones as its bandwidth $B$ divided by the spacing $\Delta\omega_{\text{Ch}}$ needed to keep neighbors distinguishable, the same limit that sets the channel count of a fiber.
 
 Each overtone in the harmonic series encodes a discrete piece of content, a memory, a spell instruction, a consciousness fragment. The individual overtones are not merely musical decoration; they are the actual data packets of reality, and it is always governed by [[The First Overtone]] which creates the confluence transition between [[Consciousness]] into matter. Moreover, it also creates the process of how [[Sufficient Precision]] and [[Luminance]] act as the Shannon decoder: it reads the overtone structure of an incoming [[Frequency Harmonics]] and resolves it into intelligible information with precision and signal fidelity.
 
-The transformation from continuous waves to discrete information mirrors **quantization in quantum field theory**: the continuous field of vibration collapses into discrete, countable quanta (overtones) when forced through a coherence filter. [[Luminance]] is that filter. This is why [[Sufficient Precision]] (the [[Luminance]] binding) requires truth — a noisy, ambiguous input signal cannot be decoded. Lies create **signal corruption** at the fundamental physics layer.
+The transformation from continuous waves to discrete information mirrors how every bounded system quantizes. A string, a pipe or an electron in an atom can only hold the frequencies its boundaries allow, $f_n = n f_1$ for the simplest string. The field of vibration is continuous; what can be held and read is a discrete, countable set of modes. [[Luminance]] is the filter that picks those modes out. This is why [[Sufficient Precision]] (the [[Luminance]] binding) requires truth — a noisy, ambiguous input signal cannot be decoded. Lies create **signal corruption** at the fundamental physics layer.
 
 #### [[Luminance]] as Shannon Decoder
 
+Decoding is a correlation. A received signal $r(t)$ is the true signal $s(t)$ plus ambient noise $n(t)$ plus, possibly, a deliberately false component $f(t)$, and the fidelity of the meaning recovered is the normalized overlap between what was meant and what arrived:
+
+$$\mathcal{F} = \frac{\lvert\langle s, r\rangle\rvert^2}{\langle s, s\rangle\,\langle r, r\rangle}, \qquad r = s + n + f, \qquad \langle a, b\rangle = \int a^\ast(t)\, b(t)\, dt$$
+
 **Expressed as direct relationships between signal and meaning:**
 
-- A **pure harmonic signal** resolves into perfect information — [[Coherence]] at its maximum
-- A **noisy or ambiguous signal** produces partial decoding — meaning corrupted at the source
-- A **deliberately false signal** creates destructive interference in the overtone structure — not silence, but actively degrading noise
-- A **signal below the [[Auric Tone Length]]** produces nothing — below the minimum tone, identity cannot exist
+- A **pure harmonic signal** resolves into perfect information — [[Coherence]] at its maximum, $\mathcal{F} = 1$
+- A **noisy or ambiguous signal** produces partial decoding — meaning corrupted at the source, $\mathcal{F} \approx S/(S+N)$
+- A **deliberately false signal** creates destructive interference in the overtone structure — not silence, but actively degrading noise: a lie is anti-correlated with the truth, $\langle s, f\rangle < 0$, so it cancels part of the numerator instead of merely padding the denominator
+- A **signal finer than the [[Auric Tone Length]]** produces nothing — past the floor component $k_{\text{Floor}}$ on any thread, a finer mode only aliases onto one the zone already holds and adds no independent band, $B = 0$, so the capacity $C = B\log_2(1+S/N)$ is zero and identity cannot exist
 
 _"I don't need you to be perfect, but be precise about your intent. The [[Great Harmonic Loom]] can work with imperfect signal. It cannot work with a false signal that has no grounding." — [[Auric Order]] teaching on [[Luminance]]_
 
 ### [[Crystal]] as Cymatics Topology
 
-When multiple [[Soliton]]s achieve stable mutual resonance, they stop being isolated wave packets and begin to form **standing wave geometries**, this is what [[Arcanoria]] calls [[Crystal]]. The real-world analog is cymatics: when a plate is vibrated at a precise frequency, sand particles self-organize into exact geometric patterns (Chladni figures). These are not arbitrary — they are the eigenmodes of the plate's geometry, the shapes where standing waves reinforce rather than cancel.
+When multiple [[Soliton]]s achieve stable mutual resonance, they stop being isolated wave packets and begin to form **standing wave geometries**, this is what [[Arcanoria]] calls [[Crystal]]. The real-world analog is cymatics: when a plate is vibrated at a precise frequency, sand particles self-organize into exact geometric patterns (Chladni figures). These are not arbitrary — they are the eigenmodes of the plate's geometry, the shapes where standing waves reinforce rather than cancel. For a thin plate they solve $\nabla^4 w = \beta^4 w$ under the plate's boundary conditions.
 
-In [[Arcanoria]], [[Crystal]] formations are the **eigenmodes of the [[Great Harmonic Loom]]'s local topology** — the geometries where the combination of [[Flux]] (amplitude and gradient modulation) and [[Resonance]] (constructive interference field) produces self-sustaining soliton lattices. What is called "solid matter" in the real world — the stable arrangement of atoms into crystalline structures via electrostatics — is replaced here by the stable arrangement of [[Soliton]]s into cymatics topologies via [[Resonance]], which explains the layers of hardness of [[Crystal]] magic.
+In [[Arcanoria]], [[Crystal]] formations are the **eigenmodes of the [[Auric Heptacode]]'s local topology** (on [[Arcanoria]], of the [[Great Harmonic Loom]] strung across it) — the geometries where the combination of [[Flux]] (amplitude and gradient modulation) and [[Resonance]] (constructive interference field) produces self-sustaining soliton lattices. What is called "solid matter" in the real world — the stable arrangement of atoms into crystalline structures via electrostatics — is replaced here by the stable arrangement of [[Soliton]]s into cymatics topologies via [[Resonance]], which explains the layers of hardness of [[Crystal]] magic.
 
-**Geology is literally topology in the [[Great Harmonic Loom]].**
+In equation form, a [[Crystal]] is a lattice of [[Soliton]]s that has settled into one eigenmode $\phi_n$ of the local Heptacode potential:
+
+$$\left[-\frac{\hbar_A^2}{2m_S}\nabla^2 + V_H(\mathbf{r})\right]\phi_n = E_n\,\phi_n$$
+
+**Geology is literally topology of the [[Auric Heptacode]].**
 
 Furthermore, this is why [[Absolute Certainty]] forces probability into geometric reality: conviction is the psychological analog of imposing an eigenmode onto a chaotic field, forcing it into a standing-wave solution through the acquired [[Coherence]].
 
@@ -25924,24 +28781,36 @@ Furthermore, this is why [[Absolute Certainty]] forces probability into geometri
 | ---------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
 | [[Flux]]               | Gradient amplitude modulation, the intensity of the wave | Drives [[Soliton]] amplitude toward eigenmode threshold    |
 | [[Resonance]]          | Constructive interference field, the alignment of phases | Locks multiple [[Soliton]]s into shared geometry.          |
-| [[Crystal]]            | Stable eigenmode, the standing wave geometry             | Solid matter; the topology of the [[Great Harmonic Loom]]. |
+| [[Crystal]]            | Stable eigenmode, the standing wave geometry             | Solid matter; the topology of the [[Auric Heptacode]].     |
 | [[Primal White Noise]] | Background entropy, undifferentiated pressure            | The dispersive force that [[Crystal]] resists.             |
+
+The locking step is the same mathematics that describes fireflies flashing in unison and pendulum clocks falling into step, the Kuramoto model. Each [[Soliton]] in a forming cluster has a phase $\theta_j$ and a natural frequency $\omega_j$, and [[Resonance]] couples them with strength $K$:
+
+$$\dot\theta_j = \omega_j + \frac{K}{M}\sum_{l=1}^{M}\sin(\theta_l - \theta_j), \qquad r\,e^{i\Theta} = \frac{1}{M}\sum_{j=1}^{M} e^{i\theta_j}$$
+
+The order parameter $r$ measures how locked the cluster is, from 0 (incoherent) to 1 (one shared geometry). [[Flux]] drives each [[Soliton]]'s amplitude up to the eigenmode threshold; [[Resonance]] supplies $K$. For a large cluster whose natural frequencies follow a symmetric, single-peaked distribution $g(\omega)$, measured from its mean, Kuramoto's classic result is that locking begins at the critical coupling $K_c = 2/\big(\pi\, g(0)\big)$. Above it, $r$ rises from zero toward one and the cluster crystallizes: a phase-locked cluster of [[Soliton]]s is what solid matter *is*. [[Primal White Noise]] widens the distribution and lowers its peak $g(0)$, which raises $K_c$: noise is literally what [[Crystal]] has to out-couple.
 
 #### Topological Protection and Why [[Crystal]] Does Not Spontaneously Merge
 
-In standard optical [[Soliton]] physics, two solitons with aligned phases ($\Delta\phi = 0$) naturally attract and merge. If [[Coherence Repulsion]] were merely a phase-boundary energy barrier, any two [[Crystal]] structures resonating in harmonic proximity would begin fusing, objects would merge, which is what partially happens in the [[Seven Dark Fates]] when [[Crystal]] is severed and the snowflakes are merging at the [[Soliton]] level creating the _"Midas touch of [[Crystal]] ice."_
+In real optical [[Soliton]] physics, two solitons with aligned phases ($\Delta\phi = 0$) attract, and in non-integrable media, such as saturable or cubic-quintic ones, they can fuse into one. If [[Coherence Repulsion]] were merely a phase-boundary energy barrier, any two [[Crystal]] structures resonating in harmonic proximity would begin fusing, objects would merge, which is what partially happens in the [[Seven Dark Fates]] when [[Crystal]] is severed and the snowflakes are merging at the [[Soliton]] level creating the _"Midas touch of [[Crystal]] ice."_
 
 The [[Auric Heptacode]] provides the mechanism that prevents this: **topological protection**.
 
 Each stable [[Soliton]] in [[Arcanoria]] carries a **topological invariant** — a [[Chern Number]] $\mathcal{C} \in \mathbb{Z}$ — derived from its phase winding around the seven fundamental frequencies of the [[Auric Heptacode]]:
 
-$$\mathcal{C} = \frac{1}{2\pi} \oint_{\partial \mathcal{H}} \mathbf{A} \cdot d\mathbf{k}$$
+$$\mathcal{C} = \frac{1}{2\pi} \int_{T^2_{\text{Auric}}} \mathcal{F} \;\in\; \mathbb{Z}, \qquad \mathcal{F}_{ij} = \partial_i A_j - \partial_j A_i$$
 
-Where $\mathbf{A}$ is the Berry connection of the soliton's phase field across the [[Auric Heptacode]]'s seven-dimensional frequency space. Two [[Soliton]]s with different [[Chern Number]]s $\mathcal{C}_1 \neq \mathcal{C}_2$ **cannot merge** regardless of local phase alignment — the topological mismatch creates a genuine barrier that no amount of proximity or resonance can overcome without externally rewriting the topological class of one of them.
+Where $\mathcal{F}$ is the Berry curvature two-form of the soliton's phase field, built from its Berry connection $A_i$ across the [[Auric Heptacode]]'s seven-dimensional frequency space, and the integral runs over the Auric torus, the canonical closed surface spanned by the unison and phason cycles (see above). The Auric parent torus provides the canonical [[Ages]] XI computation of the invariant. Equivalent real-space formulations exist, and earlier ages measured the integer that way long before they knew what it meant; only the parent construction exposes why its value is tied to the Heptacode. Topology alone says only that a Chern number cannot change smoothly while its gap stays open. The [[Auric Heptacode]] imposes one further consequence, a constitutive law of matter in the [[Known Universe]]: two [[Soliton]]s with different [[Chern Number]]s $\mathcal{C}_1 \neq \mathcal{C}_2$ **cannot merge**, regardless of local phase alignment. Because no natural process closes a band gap, no amount of proximity or resonance can overcome the mismatch. Only a deliberate operation that closes a gap and rewrites the class of one of them can (see below).
 
-This is why ordinary matter is stable against casual merger: most [[Soliton]] clusters carry distinct topological invariants set by their position in the [[Auric Heptacode]]'s harmonic architecture. Even when two [[Crystal]] structures are in phase, their [[Chern Number]]s differ, and the [[Great Harmonic Loom]] cannot smoothly interpolate between them.
+This is why ordinary matter is stable against casual merger: most [[Soliton]] clusters carry distinct topological invariants set by their position in the [[Auric Heptacode]]'s harmonic architecture. Even when two [[Crystal]] structures are in phase, their [[Chern Number]]s differ, and the [[Auric Heptacode]] cannot smoothly interpolate between them.
 
-The [[Strand Pool]] phase-synchronization required for the Fusion [[Wolf Bomb]] does not merely align phases — it performs **topological class unification**: using [[Strand]]'s spacetime-binding properties to rewrite both clusters' [[Chern Number]]s to the same value before forcing $\Delta\phi = 0$. This is why Fusion-type [[Wolf Bomb]] development requires a highly advanced level of [[Strand]] mastery, [[Object Permanence]] and not simply powerful [[Resonance]] engineering. Phase alignment alone is insufficient. The topology of both targets must first be made identical.
+The [[Strand Pool]] phase-synchronization required for the Fusion [[Wolf Bomb]] does not merely align phases. It performs **topological class unification**: using [[Strand]]'s spacetime-binding properties to rewrite one cluster's [[Chern Number]] to match its partner's before forcing $\Delta\phi = 0$. Mechanically, this is a **phason drive**. [[Strand]] is the only binding that reaches the Past and Future planes, so it is the only binding that can slide the cut through perpendicular space.
+
+Sliding the cut alone is not enough. Dragging the phason through one full cycle is a **topological pump**: it carries exactly $\mathcal{C}$ quanta across the cluster per cycle, the effect Kraus and colleagues demonstrated in quasicrystals in 2012, but the Chern number itself does not change. A pump moves charge; it does not rewrite the band. Rewriting the band takes a **topological phase transition**: the gap must close and reopen, and each simple, unit-charge band closing shifts the Chern number by one (a more complicated degeneracy can shift it by more):
+
+$$\mathcal{C}_{\text{After}} = \mathcal{C}_{\text{Before}} + \sum_{\text{closings}} (\pm 1)$$
+
+That is the [[Strand]] engineer's real achievement. An advanced [[Strand Pool]] holds one cluster's gap shut at a chosen point while it slides the cut, then lets the gap reopen on the far side. Driving a cluster through $\lvert\mathcal{C}_1 - \mathcal{C}_2\rvert$ such controlled closings lands its band label on its partner's. No gap in the [[Known Universe]] closes unless it is forced, and this is the only way to force one without tearing the cluster apart. This is why Fusion-type [[Wolf Bomb]] development requires a highly advanced level of [[Strand]] mastery, [[Object Permanence]] and not simply powerful [[Resonance]] engineering. Phase alignment alone is insufficient. The topology of both targets must first be made identical.
 
 $$\mathcal{C}_1 = \mathcal{C}_2 \quad \text{and} \quad \Delta\phi = 0 \quad \Rightarrow \quad \text{Forced Sympathetic Merger achieved}$$
 
@@ -25949,37 +28818,45 @@ This also explains why deep [[Resonance]] between [[Soul Leitmotif]]s, even perf
 
 ### [[Time Bubble]]s as Self-Folding [[Soliton]]s
 
-A [[Time Bubble]] in [[Arcanoria]] is a [[Soliton]] that has been caused to **fold upon itself**. The existence of [[Time Bubble]]s which can be of vast distances makes the real difference between atoms and particulate physics. A [[Time Bubble]] is a massive atom that can expand several leagues of kilometers becoming its own pocket dimension, a [[Soliton]] is the minimum unit, yes, but it doesn't mean it is the smallest and that it is reserved to that form.
+A [[Time Bubble]] in [[Arcanoria]] is a [[Soliton]] that has been caused to **fold upon itself**. The existence of [[Time Bubble]]s which can be of vast distances makes the real difference between atoms and particulate physics. A [[Time Bubble]] is a massive atom that can expand across several leagues, becoming its own pocket dimension. A [[Soliton]] is the minimum unit, yes, but that does not mean every [[Soliton]] is small or confined to that form.
 
-A [[Time Bubble]] exists because it becomes a closed, self-referential wave structure where the [[Probability Amplitudes]] of multiple temporal states interfere constructively inside a bounded domain. This maps directly to the **Feynman path integral formalism** in quantum mechanics:
+A [[Time Bubble]] exists because it becomes a closed, self-referential wave structure where the [[Probability Amplitudes]] of multiple temporal states interfere constructively inside a bounded domain. It can be expressed naturally in the language of the **Feynman path integral**:
 
 $$\langle x_f | e^{-iHt/\hbar} | x_i \rangle = \int \mathcal{D}[x(t)] \, e^{iS[x]/\hbar}$$
 
-Every possible path through time contributes an amplitude. Normally these interfere and cancel except for the classical path. A [[Time Bubble]] is a configuration where **all paths within a region constructively interfere**, the [[Soliton]] loops back on itself and the interior becomes a superposition of all its own temporal states simultaneously.
+Every admissible history $x(t)$ contributes an amplitude $e^{iS[x]/\hbar}$. Ordinarily, neighboring paths with different actions cancel, and the sum is dominated by the paths where the action is stationary, the classical path among them. A [[Time Bubble]] is the configuration in which a folded [[Soliton]] makes the action the same for every temporal path the fold admits,
 
-The key physical insight: the self-referential folding is only stable because [[Soliton]]s are **nonlinear**. A linear wave would destructively interfere with its own reflection. A [[Soliton]], by definition, has the nonlinear self-reinforcing property that allows it to maintain its profile even when it collides with itself. This is why [[Time Bubble]]s are a type of large [[Soliton]]. The nonlinearity is the mechanism of self-containment that creates the individual pocket dimensions due to time paradoxes.
+$$S[x] = S_0 \;\;\text{for every path } x \text{ in the fold} \quad\Longrightarrow\quad e^{iS[x]/\hbar} = e^{iS_0/\hbar} \;\;\text{for all of them,}$$
+
+so every one of those paths contributes the same phase, and **all paths within the region add instead of cancelling**. The [[Soliton]] loops back on itself, and the interior becomes a superposition of all its own temporal states simultaneously.
+
+The key physical insight is why only a [[Soliton]] can do this: the self-referential folding is only stable because [[Soliton]]s are **nonlinear**. Linear superposition alone cannot confine a region. In a linear medium a wave never changes the medium that carries it. It can form standing waves with its own reflection, constructive or destructive depending on phase and boundary conditions, but it cannot build its own walls. A [[Soliton]] can. Its nonlinearity makes the local propagation conditions depend on its own amplitude, with $-g_1|\psi|^2$ deepening the well wherever the field is strong, so it can sustain a self-consistent bounded solution that no linear field admits. An intense enough beam of light does the same, trapping itself inside the waveguide its own intensity writes. A large enough [[Soliton]] self-traps a region of time. This is why [[Time Bubble]]s are a type of large [[Soliton]]: the nonlinearity is the mechanism of self-containment, and the fold is what closes that containment on itself into a pocket dimension, with time paradoxes of its own.
 
 #### The [[Strand Pool]] and [[Probability Amplitudes]] Folding
 
-The [[Strand Pool]] is the deepest application of the [[Soliton]] framework. By using [[Strand]] (Echoing Bonds / Spacetime Relativity) to create a self-referential temporal loop and [[Flux]] (Analogue to Quantum Currents), a [[Strand Pool]] creates the conditions for a **Bose-Einstein condensate analog** in the [[Great Harmonic Loom]] — all the [[Probability Amplitudes]] collapse into the same "ground state frequency," achieving infinite coherent superposition within a bounded volume which allows to recover pieces of the past through [[Object Permanence]].
+The [[Strand Pool]] is the deepest application of the [[Soliton]] framework. By using [[Strand]] (Echoing Bonds / Spacetime Relativity) to create a self-referential temporal loop and [[Flux]] (Analogue to Quantum Currents), a [[Strand Pool]] creates the conditions for a **Bose-Einstein condensate analog** in the [[Great Harmonic Loom]] — all the [[Probability Amplitudes]] collapse into the same "ground state frequency," achieving a coherent superposition that grows with every fold within a bounded volume which allows to recover pieces of the past through [[Object Permanence]].
 
-Each fold of the [[Strand Pool]] doubles the accessible Hilbert space of the system:
+Each fold adds one independent two-state degree of freedom: the region keeps both the folded and the unfolded branch of its history. Each fold of the [[Strand Pool]] therefore doubles the accessible state space of the system. The amplitude does not double. The *number of distinguishable states it can hold* does:
 
-$$|\psi_{\text{Fold } n}|^2 = 2^n \cdot |\psi_0|^2$$
+$$\dim \mathcal{H}_{\text{Fold } n} = 2^n \cdot \dim \mathcal{H}_0$$
+
+It is exactly the scaling of adding qubits to a quantum register: $n$ folds hold $2^n$ times the information, while energy and norm are still conserved. In the quasicrystal picture, each fold opens one more admissible slice of the Past–Future planes inside the [[Window of Becoming]].
 
 The [[Superposed Resonance]] as [[Resonance Anchors]] is not metaphor, it is the literal description of a **closed time-like curve functioning as an information multiplier**. The [[Strand Pool]] described in the [[Hypermage]] architecture uses several layers of [[Hyper Chord]]s to create a closed [[Time Bubble]] where infinite iterative folds of [[Probability Amplitudes]] multiply the effective [[Consciousness]] contained within it.
 
 ### [[Static Criticality]] as [[Soliton]] Phase Transition
 
-[[Static Criticality]] is what happens when the [[Harmonic Equilibrium]] conditions for [[Soliton]] stability are catastrophically violated. The natural stability condition for a [[Soliton]] in the [[Dual Confluence Stream]] requires the nonlinear self-focusing ([[Aetherlight]] density) to exactly cancel the dispersive spread ([[Lunehymn]] stabilization).
+[[Static Criticality]] is what happens when the [[Harmonic Equilibrium]] conditions for [[Soliton]] stability are catastrophically violated. The natural stability condition for a [[Soliton]] in the [[Dual Confluence Stream]] requires the nonlinear self-focusing ([[Aetherlight]] density) to exactly balance the dispersive spread, with [[Lunehymn]] saturation keeping that balance from tipping.
 
-The **criticality multiplication factor** $\kappa$ mirrors the nuclear k-factor:
+The **criticality index** $\kappa$, the engineering measure [[Ages]] XI weapons designers use to reduce the full cubic-quintic dynamics of a cluster to a single number, mirrors the nuclear k-factor:
 
-$$\kappa = \frac{g|\psi|^2}{\dfrac{\hbar_A^2}{2m_S}k^2}$$
+$$\kappa = \frac{g_{\text{Eff}}\,|\psi|^2}{\dfrac{\hbar_A^2}{2m_S}k^2}, \qquad g_{\text{Eff}} = g_1 - g_2|\psi|^2$$
 
-- $\kappa < 1$ — Subcritical: [[Soliton]] disperses harmlessly back into the [[Great Harmonic Loom]]
-- $\kappa = 1$ — Critical: sustained stable [[Soliton]], [[Harmonic Equilibrium]] maintained
-- $\kappa > 1$ — Supercritical: **blowup in finite time** $T_{\text{Blow}} \sim \frac{1}{\sqrt{\kappa - 1}}$
+$k$ is the cluster's own physical wavenumber, $k \approx 1/w$ for a cluster of width $w$: criticality is always judged at the scale of the thing being held. The effective focusing $g_{\text{Eff}}$ is what is left of [[Aetherlight]] self-focusing after [[Lunehymn]] saturation takes its share. While $g_2$ is intact, $\kappa$ is capped (see the Quintic Stabilizer above). Once $g_2$ is stripped, $g_{\text{Eff}} \to g_1$ and the cap vanishes.
+
+- $\kappa < 1$ — Subcritical: [[Soliton]] disperses harmlessly back into the surrounding field
+- $\kappa = 1$ — Critical: sustained stable [[Soliton]], [[Harmonic Equilibrium]] maintained. This is where the stellar floor holds every smallest [[Soliton]] in the [[Known Universe]].
+- $\kappa > 1$ — Supercritical: **blowup in finite time**, which near threshold follows the engineers' fitted law $T_{\text{Blow}} \sim t_0/\sqrt{\kappa - 1}$, where $t_0 = 2m_S/(\hbar_A k^2)$ is the cluster's dispersion time
 
 When [[Civilization]]s over-extract from the [[Leylines]], they raise the [[Aetherlight]] density — the self-focusing nonlinearity grows. The system crosses the **supercritical threshold**. In nuclear physics, this is called prompt supercriticality: the neutron multiplication factor $k$ exceeds 1 with no delayed neutrons to moderate it. In [[Arcanoria]], it means the [[Soliton]]s can no longer maintain stable balance — they begin to amplify rather than sustain.
 
@@ -25987,35 +28864,133 @@ The formal mathematical analogue is a finite-time blowup in the nonlinear Schrö
 
 $$i\frac{\partial \psi}{\partial t} = -\frac{1}{2}\nabla^2\psi - |\psi|^{2\sigma}\psi$$
 
-For $\sigma \geq 2/d$ (supercritical nonlinearity in dimension $d$), solutions blow up in finite time. The amplitude diverges as:
+For $\sigma \geq 2/d$ (critical or supercritical nonlinearity in dimension $d$), solutions that carry enough concentrated field blow up in finite time. For the cubic case ($\sigma = 1$) this means two dimensions are already critical and three are supercritical. That is why a world of two-dimensional planes and three-dimensional bodies cannot survive losing its quintic stabilizer. Near threshold, the engineers' model has the amplitude diverge as:
 
 $$|\psi(t)| \sim \frac{|\psi_0|}{\sqrt{1 - t/T_{\text{Blow}}}}$$
 
+The exact collapse is subtler than this fit, above all in two dimensions, where it creeps in with slow logarithmic corrections, but the fit is the law every weapons table of [[Ages]] XI is written in.
+
 The amplitude races toward positive infinity while the **local pressure gradient** at the boundary, the difference between the detonating core and the surrounding equilibrium field, drives toward negative infinity. The core explodes upward; the surrounding medium's relative pressure collapses downward. This pressure vacuum then equalizes in the detonation event.
+
+#### The Firework Cascade — Why Overload Releases More [[Emberwhisper]]
+
+A single [[Coherence Detonation]] never stays single in saturated land. The [[Great Plague]] records it plainly: past roughly half imbalance in the [[Dual Confluence Stream]], [[Static Criticality]] erupts in firework-like explosions, and past that, in large firework explosions. The mechanism is a chain reaction, and every link of it follows from the equation above.
+
+**1. What a burst releases.** A [[Soliton]] cluster on [[Arcanoria]] holds its norm $N$ in two locked currents: the gold that focuses it ($g_1$) and the silver that keeps it at rest ($g_2$). Overload breaks the silver first. The quintic term is what fails, which is why the cluster goes supercritical at all. The cubic blowup that follows shatters the lattice and throws the stored field outward, and what it throws is gold with no silver left to hold it: raw [[Aetherlight]], which crystallizes in flight into [[Emberwhisper]] particles. The crimson sparks of a [[Static Criticality]] burst are exactly that, the cluster's own gold torn loose from its rest. Every firework repeats the theft of the [[Seventh Cycle]] at the scale of a single cluster.
+
+**2. What the sparks do when they land.** [[Emberwhisper]] resonates with [[Aetherlight]]. A particle that lands in a neighboring cluster adds focusing without adding saturation: it raises that cluster's $g_1|\psi|^2$ and does nothing for its $g_2|\psi|^4$. The neighbor's imbalance rises by an amount set by how much [[Emberwhisper]] reached it.
+
+**3. The fuse condition.** Call $\varepsilon$ a region's [[Dual Confluence Stream]] imbalance and $\varepsilon_{\text{Crit}}$ the tipping point, which the [[Great Plague]] places near one half. The **margin** of a cluster is how far it still is from tipping:
+
+$$m = \varepsilon_{\text{Crit}} - \varepsilon$$
+
+A burst that releases norm $N_c$ spreads its sparks through the volume around it, so the imbalance it deposits falls off with distance. Every neighbor inside the **ignition radius** has its margin used up and goes supercritical in turn:
+
+$$r_{\text{Ign}} \approx \left(\frac{3\,\eta\, N_c}{4\pi\, m}\right)^{1/3}$$
+
+$\eta$ is how efficiently [[Emberwhisper]] turns into imbalance where it lands. Each of those neighbors bursts and throws its own sparks. The number of new bursts that one burst lights is the **cascade factor**:
+
+$$k_{\text{Casc}} = n_c \cdot \tfrac{4}{3}\pi\, r_{\text{Ign}}^3 \;\approx\; \frac{\eta\, n_c\, N_c}{m}$$
+
+Here $n_c$ is the number of [[Soliton]] clusters per unit volume. This is the same arithmetic as the nuclear multiplication factor. If $k_{\text{Casc}} < 1$, each burst lights fewer than one more and the display dies out. If $k_{\text{Casc}} > 1$, each burst lights more than one and the explosion runs.
+
+**4. Why the saturation keeps rising.** Every burst converts *held* [[Coherence]], matter at rest in its silver, into *free* gold. A running cascade therefore raises the free [[Aetherlight]] in the air with every shell, which shrinks every remaining margin $m$, which raises $k_{\text{Casc}}$ further. The cascade manufactures the very condition that feeds it. That is why [[Static Criticality]] behaves as a domino effect, and why it does not stop on its own while dense, saturated land lies ahead of it.
+
+**5. Why it looks like fireworks.** A real firework shell bursts into stars, and some of those stars are themselves small shells that burst again. A [[Static Criticality]] cascade is built the same way. Every burst is a sphere of gold-and-crimson [[Emberwhisper]] sparks, and the sparks that land in dense clusters become the next bursts. From a distance the event is an expanding front of chained shells.
+
+**6. Why it stops.** $k_{\text{Casc}}$ falls below 1 in three kinds of place:
+
+- **Balanced land.** Silver-rich land has a wide margin $m$. Its [[Lunehymn]] pairs with the arriving gold and brings it to rest instead of letting it ignite.
+- **Thin land.** Dying and dead land hold few dense clusters ($n_c$ small) and little stored norm ($N_c$ small).
+- **The stellar floor.** Matter held only by starlight has almost nothing above the floor to release. A stone in sterile land can be scorched, but it cannot become the next shell.
+
+Either direction of imbalance can light the fuse. Gold excess ignites clusters where they stand. Silver excess lowers the plateau $3g_1/4g_2$, so the clusters it drowns are pressed toward a thinner rest and forced to shed the gold they can no longer hold, and that expelled gold lands as [[Emberwhisper]] in the land around them. Gold-heavy regions burn from the inside. Silver-heavy regions burn at their edges.
 
 ### The Advent of the [[Wolf Bomb]] 
 
-If the [[Static Criticality]] cascades exist due to the imbalances and byproduct of residual [[Emberwhisper]] increasing the concentration of [[Aetherlight]] disproportionate to the amount of [[Lunehymn]] or viceversa, the [[Wolf Bomb]] is the moment [[Civilization]] realized this principle of energy differential can be weaponized to create a localized field of infinity energy releases through the deliberate liberation of charged [[Static Criticality]] at a single point of space. The first type of these [[Resonance]] compression implosion devices is the [[Null-Type Wolf Bomb]] also referred to as the Fission variant.
+If the [[Static Criticality]] cascades exist because every burst releases [[Emberwhisper]], free gold that tips the clusters around it past their margin, whether the land started gold-heavy or silver-heavy (see *The Firework Cascade* above), the [[Wolf Bomb]] is the moment [[Civilization]] realized this principle of energy differential can be weaponized: the deliberate liberation of charged [[Static Criticality]] at a single point of space, large enough that the land around it becomes the rest of the explosion. The first type of these [[Resonance]] compression implosion devices is the [[Null-Type Wolf Bomb]] also referred to as the Fission variant.
 
 Real fission bombs use implosion to compress a subcritical mass past the critical geometry threshold. In [[Arcanoria]], the analogous mechanism is **[[Resonance]] Compression** — using a precisely tuned external [[Frequency Harmonics]] to force a cluster of [[Soliton]]s into geometric overlap, artificially raising their local amplitude $|\psi|^2$ past the supercritical threshold.
 
-The delivery mechanism of the [[Null-Type Wolf Bomb]] operates as a **topological attack**, not merely a field-amplitude disruption. Early prototypes attempted to sever the [[Lunehymn]] correction term by broadcasting its inverse phase at the target, a destructive interference kill shot against the dispersive term alone. This method works against low-[[Coherence]] targets, but proves insufficient against hardened [[Soliton]] clusters with high [[Chern Number]]s, because a well-defined topological invariant can partially route stabilization through the [[Heptagonal Brillouin Zone]]'s edge modes, compensating for the amplitude disruption.
+The delivery mechanism of the [[Null-Type Wolf Bomb]] operates as a **topological attack**, not merely a field-amplitude disruption. Early prototypes attempted to sever the [[Lunehymn]] correction term by broadcasting its inverse phase at the target, a destructive interference kill shot against the saturating term alone. This method works against low-[[Coherence]] targets, but proves insufficient against hardened [[Soliton]] clusters with high [[Chern Number]]s, because a well-defined topological invariant can partially route stabilization through the [[Heptagonal Brillouin Zone]]'s edge modes, compensating for the amplitude disruption.
 
-The mature [[Null-Type Wolf Bomb]] therefore operates at the topological layer directly. Rather than attacking the amplitude of the stabilizing term, it **injects a [[Phase Singularity]]** a [[Flux Vortex]] into the geometric center of the target [[Soliton]] cluster. A [[Phase Singularity]] is a point defect where the phase field $\phi(\mathbf{x})$ carries a **fractional winding number**, forcing the topological integral:
+The mature [[Null-Type Wolf Bomb]] therefore operates at the topological layer directly. Rather than attacking the amplitude of the stabilizing term, it **injects a [[Phase Singularity]]**, a [[Flux Vortex]], into the geometric center of the target [[Soliton]] cluster.
 
-$$\mathcal{C} = \frac{1}{2\pi} \oint_{\partial \mathcal{H}} \mathbf{A} \cdot d\mathbf{k} \notin \mathbb{Z}$$
+##### What the Singularity Really Is — A Comma-Carrying Dislocation
 
-This is mathematically impossible for a well-defined [[Heptagonal Brillouin Zone]]. The [[Chern Number]] must be an integer. It cannot take a fractional value. The [[Soliton]] cluster is now confronted with an irresolvable geometric contradiction at its own core — a note the [[Great Harmonic Loom]] cannot assign to any band.
+Early theorists described the [[Phase Singularity]] as a defect with a "fractional winding number" and concluded that it forced $\mathcal{C} \notin \mathbb{Z}$. Heptagonal Quasicrystal Theory corrected this. A Chern number can never be fractional, not even at the core of a bomb. What the weapon actually exploits is subtler, and worse.
 
-To resolve the paradox, the [[Soliton]] must tear its own topology apart. The quintic stabilizer $g_2|\psi|^4\psi$, which is structurally dependent on the Berry connection being well-defined across the HBZ, collapses instantaneously as the lattice periodicity shatters at the singularity point. The governing equation of the target cluster becomes:
+In a real quasicrystal, a dislocation is measured by a **Burgers vector**: the gap left when you walk a closed loop around the defect. That gap is always a lattice vector of the *higher-dimensional* lattice, labeled by seven whole numbers $\mathbf{n}_b$. It splits into two parts:
+
+$$\mathbf{B} = a\sum_{j=1}^{7} (n_b)_j\,\hat{e}_j = \mathbf{B}_\parallel + \mathbf{B}_\perp, \qquad \mathbf{n}_b \in \mathbb{Z}^7, \qquad \mathbf{B}_\parallel = \pi_\parallel\mathbf{B}, \quad \mathbf{B}_\perp = \pi_\perp\mathbf{B}$$
+
+$\mathbf{n}_b$ only labels the defect; $\mathbf{B}$, scaled by the lattice period $a$, is the displacement itself.
+
+$\mathbf{B}_\parallel$ is the visible part, a displacement in physical space. $\mathbf{B}_\perp$ is the hidden part, a displacement of the cut through perpendicular space. In physical space, $\mathbf{B}_\parallel$ looks like an irrational, "fractional" step that matches no lattice vector the world has. That is the fractional winding the early theorists saw. In the [[Auric Heptacode]], the winding is a clean integer.
+
+The [[Null-Type Wolf Bomb]] is engineered to inject a dislocation with a **large hidden component** $\mathbf{B}_\perp$. That hidden component is the [[Auric Comma]], compressed. Around the core, the phason field winds by $\mathbf{B}_\perp$ on every loop, so the phason strain grows toward the center:
+
+$$\lvert\nabla \mathbf{u}_\perp\rvert \sim \frac{\lvert\mathbf{B}_\perp\rvert}{2\pi r}$$
+
+The topological statement is therefore not $\mathcal{C} \notin \mathbb{Z}$, and it is not a fractional phase winding either: around any closed loop, the phase of a single-valued field always winds by a whole number. What looks fractional is the *projected* holonomy of the displacement field. Walk once around the defect and the displacement comes back short by the Burgers vector, and only its projections are visible:
+
+$$\oint d\mathbf{u} = \mathbf{B}, \qquad \oint d\mathbf{u}_\parallel = \mathbf{B}_\parallel = \pi_\parallel\mathbf{B}, \qquad \oint d\mathbf{u}_\perp = \mathbf{B}_\perp = \pi_\perp\mathbf{B}$$
+
+The parent charge $\mathbf{n}_b$ is an integer vector of the seven-dimensional lattice. Its shadow in the world, $\mathbf{B}_\parallel$, is an irrational step that no lattice vector of the world can match. The integer still exists in the [[Auric Heptacode]], but the world can no longer express it. The [[Soliton]] cluster is holding a whole number that its own slice of reality cannot write down: a note the [[Auric Heptacode]] still knows but cannot assign to any band *here*.
+
+##### Leaving the Window
+
+Close enough to the core, the phason strain becomes so steep that across a single lattice cell the cut shifts by more than the half-width $w$ of the [[Window of Becoming]]:
+
+$$\lvert\nabla\mathbf{u}_\perp\rvert\; a \;\geq\; w \quad\Longrightarrow\quad r \;\leq\; r_N = \frac{\lvert\mathbf{B}_\perp\rvert\, a}{2\pi\, w}$$
+
+The perpendicular coordinates of the [[Soliton]] sites there are pushed outside $W$. By the cut-and-project rule, those sites **stop being matter.** They are not destroyed. They are de-admitted. Their Past and Future no longer agree to let them exist in the Present. The radius inside which this happens is the **Null radius** $r_N$. It grows with the hidden comma the weapon carries, $\lvert\mathbf{B}_\perp\rvert$.
+
+##### Collapse of the Stabilizer
+
+The [[Lunehymn]] quintic term is a *band-resolved* interaction: the [[Symphonic Veins]] deliver it only to field components that have a valid band label. Write the local stabilizer as
+
+$$g_2^{\text{Eff}}(\mathbf{r}) = g_2 \cdot \chi_W\!\left(\mathbf{u}_\perp(\mathbf{r})\right)$$
+
+$\chi_W$ is 1 inside the window and 0 outside it. Inside $r_N$, $g_2^{\text{Eff}} = 0$. The quintic stabilizer collapses instantaneously as the cut tears at the singularity point. The governing equation of the target cluster becomes:
 
 $$i\hbar_A \frac{\partial \psi}{\partial t} = -\frac{\hbar_A^2}{2m_S}\nabla^2\psi - g_1|\psi|^2\psi$$
 
-This equation has no stable solution in 2D or 3D. The [[Soliton]]'s structural integrity catastrophically fails — **it detonates from the inside out**, releasing all stored [[Coherence]] as raw [[Aetherlight]] ([[Emberwhisper]] particles), which cascade to neighboring [[Soliton]] clusters.
+The prepared supercritical cluster has no stable localized equilibrium once the quintic stabilizer is removed. In two dimensions the focusing cubic equation admits only the unstable Townes soliton, in two and three dimensions its dynamics admit collapse, and this target has already been driven beyond the relevant threshold. The equation does not make everything explode; the weapon prepares the one initial condition that will. The [[Soliton]]'s structural integrity catastrophically fails — **it detonates from the inside out**, releasing all stored [[Coherence]] as raw [[Aetherlight]] ([[Emberwhisper]] particles), which cascade to neighboring [[Soliton]] clusters.
 
-The practical implication for [[Age]] XI weapons engineers: a [[Null-Type Wolf Bomb]] does not need to overpower a target's [[Lunehymn]] stabilization. It only needs to **corrupt** the target's topological identity at a single point. The universe's own mathematical rules destroy the rest. The activation energy required scales not with the target's total amplitude but with the minimum injection precision required to punch a [[Phase Singularity]] through the boundary layer of the [[Heptagonal Brillouin Zone]]. 
+The practical implication for [[Ages]] XI weapons engineers: a [[Null-Type Wolf Bomb]] does not need to overpower a target's [[Lunehymn]] stabilization. It only needs to **corrupt** the target's topological identity at a single point. The universe's own mathematical rules destroy the rest. The activation energy required scales not with the target's total amplitude but with the minimum injection precision required to aim $\mathbf{B}_\perp$ at the edge of the [[Window of Becoming]], the boundary layer of the [[Heptagonal Brillouin Zone]]. Aim short, and the comma is absorbed back into temperament. Aim true, and the window tears.
+
+The yield comes from the comma that the defect gathers. A dislocation's stored energy is known from ordinary materials science: it grows with the square of the Burgers vector and with the *logarithm* of the region it draws from. Applied to the hidden component:
+
+$$E_{\text{Yield}} \approx \frac{K_\perp \lvert\mathbf{B}_\perp\rvert^2}{4\pi}\,\ln\!\left(\frac{R}{r_N}\right) \quad \text{(per unit length of the defect line)}$$
+
+$R$ is the radius of the region whose temperament is untempered. Three consequences follow, each already present elsewhere in this document:
+
+- **Precision beats power.** Yield depends on $\lvert\mathbf{B}_\perp\rvert$ and aim, not on the target's amplitude.
+- **Bigger regions give more, but slowly.** The logarithm means doubling the harvested region adds a fixed amount of yield. The Fission weapon is regional, never planetary.
+- **Coherence is fuel.** $K_\perp$ rises with [[Coherence]] density, so the same weapon yields more in a living city than in barren stone (see *The Weapon of [[Coherence]] Density*).
 
 A smaller, more precise weapon can destroy a larger, more powerful target if it achieves topological injection.
+
+#### From Null to Firework — Why the [[Wolf Bomb]] Has a Blast Radius
+
+The [[Null-Type Wolf Bomb]] is a firework with a topological fuse. Its sequence is fixed:
+
+1. **The fuse burns in silence.** During the [[Topological Null]] (see *The Three-Sound Signature* below) the core lies outside the [[Window of Becoming]]. Its stabilizer is gone, $g_2^{\text{Eff}} = 0$, and the lattice is not expressed there either, so nothing arrests the collapse. The cubic blowup runs to completion *unheard*, because nothing inside $r_N$ can be resolved into frequency.
+
+2. **The core re-enters as a shell.** At $T_{\text{Blow}}$ the collapsed field can no longer stay out of the Present. The strained cut snaps most of the way back toward the window, and everything the core held re-enters reality at once as the primary burst: a cavitation shock and a sphere of [[Emberwhisper]] carrying the untempered comma, $E_{\text{Yield}}$. What does not snap back stays frozen in the ground as the scar described in *The Trauma Embedded in Geometry*. No natural [[Coherence Detonation]] comes close to this first shell: its released norm $N_{\text{Core}}$ is the stored [[Coherence]] of the whole cluster plus the comma it gathered.
+
+3. **The land becomes the rest of the weapon.** The primary shell lights everything within its own ignition radius:
+
+$$R_0 \approx \left(\frac{3\,\eta\, N_{\text{Core}}}{4\pi\, m}\right)^{1/3}$$
+
+Beyond $R_0$ the firework cascade takes over. Wherever $k_{\text{Casc}} > 1$, chained bursts carry the front outward shell by shell. The front stops at the first ring of land where $k_{\text{Casc}}$ falls below 1: balanced silver, thin matter or the sterile floor.
+
+$$R_{\text{Blast}} \approx \begin{cases} R_0 & \text{if } k_{\text{Casc}} < 1 \text{ around the target} \\[4pt] \text{the edge of the region where } k_{\text{Casc}} \geq 1 & \text{otherwise} \end{cases}$$
+
+**The bomb sets the first shell. The land sets the radius.** Dropped on barren stone, a [[Wolf Bomb]] is a single enormous burst that ends near $R_0$. Dropped on a living, saturated city, where clusters are dense, each one is loaded with stored [[Coherence]] and every margin is thin, the primary shell lights a cascade that runs until the city ends. Seen from outside, the detonation is one massive firework: the hum, the silence, one immense crimson-gold sphere, and then a front of chained bursts racing outward through everything that was most alive. This is the same law that makes the yield climb with [[Coherence]] density (see *The Weapon of [[Coherence]] Density*), written as a distance.
+
+The [[Siphon-Type Wolf Bomb]] lights the same kind of firework with a far larger first shell: its primary burst carries the merged norm plus the $\Delta N_{\text{Siphon}}$ stolen from the [[Leylines]], and at a [[Leylines]] convergence the cascade runs along every crossing vein the siphon has not already drained.
 
 #### The Three-Sound Signature of the [[Wolf Bomb]]
 
@@ -26023,17 +28998,17 @@ The acoustic signature of the [[Wolf Bomb]] is physically inevitable and follows
 
 **1. The Low Humming Static**
 
-As $\kappa \to 1^+$, the [[Soliton]] cluster oscillates near its critical point. The beating frequency between the [[Aetherlight]] self-focusing and the struggling [[Lunehymn]] correction is:
+As the weapon compresses the cluster and erodes its stabilizer, the focusing it demands creeps toward the most the quintic term can absorb, the cap $\kappa_{\text{Cap}}$ from the Quintic Stabilizer above. Call the remaining margin $\delta = 1 - \kappa/\kappa_{\text{Cap}}$. The cluster's breathing mode, the beat between the [[Aetherlight]] self-focusing and the struggling [[Lunehymn]] correction, softens as the margin closes:
 
-$$\nu_{\text{Beat}} = \frac{1}{2\pi}\sqrt{(\kappa - 1)} \cdot \omega_0$$
+$$\nu_{\text{Beat}} = \frac{\omega_0}{2\pi}\sqrt{\delta}$$
 
-Near criticality, $(\kappa - 1) \ll 1$, so $\nu_{\text{Beat}} \ll \nu_0$ — the beating frequency falls into the infrasonic and bass range. This is the pre-detonation hum. It is the sound of the [[Great Harmonic Loom]] advertising its instability before the collapse arrives. In real physics, the analogue is the hum of a transformer near magnetic saturation, or the acoustic emission of a material approaching fracture.
+$\omega_0$ is the cluster's natural breathing frequency. Near failure, $\delta \ll 1$, so $\nu_{\text{Beat}} \ll \omega_0/2\pi$ — the beating frequency falls into the infrasonic and bass range. At $\delta = 0$ it reaches zero, and below zero the breathing turns into runaway. This is the pre-detonation hum. It is the sound of the [[Great Harmonic Loom]] advertising its instability before the collapse arrives. In real physics this is *critical slowing down*: the soft mode of any system approaching a saddle-node instability slows as the square root of its margin. The audible analogues are the hum of a transformer near magnetic saturation and the acoustic emission of a material approaching fracture.
 
 Furthermore, in mature [[Null-Type Wolf Bomb]]s using [[Phase Singularity]] injection, the humming static is followed by a phenomenon early survivors described as impossible and later theorists confirmed as inevitable: **a sudden, absolute silence**. It is a complete cessation of all sound, not merely silence.
 
-This is the [[Topological Null]], hence the name of "Null Type" as it is the moment the injected [[Phase Singularity]] propagates inward through the [[Heptagonal Brillouin Zone]] and the lattice periodicity collapses. At the precise instant the [[Chern Number]] becomes undefined, every frequency in the target [[Soliton]] cluster simultaneously loses its phase reference. There is no longer a band structure for any wave to belong to. The [[Great Harmonic Loom]] cannot assign any of them a note. For a fraction of a [[Bar]], the target location broadcasts nothing because it is nothing that can be resolved into frequency.
+This is the [[Topological Null]], which gives the "Null Type" its name. It is the moment the Null radius sweeps outward through the cluster and every [[Soliton]] site inside it is pushed out of the [[Window of Becoming]]. At that instant the cluster's [[Chern Number]] can no longer be expressed in the world, and every frequency in it loses its phase reference at once. There is no longer a band structure for any wave to belong to. The [[Great Harmonic Loom]] cannot assign any of them a note. For a fraction of a [[Bar]], the target location broadcasts nothing, because nothing there can be resolved into frequency. The silence is not dampening. The emitters have briefly stopped being part of the Present.
 
-$$\mathcal{C} \notin \mathbb{Z} \quad \Rightarrow \quad \text{All } \psi_j \text{ lose coherent phase} \quad \Rightarrow \quad \text{Total acoustic emission} = 0$$
+$$\pi_\perp(\mathbf{n}) \notin W \quad \Rightarrow \quad \text{no band label for any } \psi_j \quad \Rightarrow \quad \text{Total acoustic emission} = 0$$
 
 The [[Topological Null]] lasts only as long as the singularity takes to propagate from the injection point to the outer boundary of the cluster. In practice: a fraction of a heartbeat. But it is unmistakable. Everyone within acoustic range of a Fission detonation experiences it as the world briefly forgetting how to make sound.
 
@@ -26043,7 +29018,7 @@ The [[Topological Null]] is the definitive signature of a mature [[Phase Singula
 
 **2. The Explosion**
 
-At $t = T_{\text{blow}}$, the pressure differential equalizes via a shockwave — identical in mechanism to cavitation collapse in fluid dynamics. A pressure void forms, then the surrounding [[Dual Confluence Stream]] rushes inward at supersonic [[Coherence]] speeds. The [[Soliton]] lattice shatters and releases all stored [[Aetherlight]] as [[Emberwhisper]] particles in a cascading rupture, analogous to the prompt neutron cascade in nuclear fission.
+At $t = T_{\text{Blow}}$, the pressure differential equalizes via a shockwave, much as a collapsing cavitation bubble does in a fluid. A pressure void forms, then the surrounding [[Dual Confluence Stream]] rushes inward at supersonic [[Coherence]] speeds. The [[Soliton]] lattice shatters and releases all stored [[Aetherlight]] as [[Emberwhisper]] particles in a cascading rupture, analogous to the prompt neutron cascade in nuclear fission. That rupture is the firework cascade lit from the core, and it is what gives the weapon its blast radius (see *From Null to Firework* above).
 
 **3. The [[Wolf Tone]]**
 
@@ -26053,7 +29028,27 @@ $$\nu_{\text{Wolf}} = |\nu_1 - \nu_2|$$
 
 This is the **[[Wolf Tone]]** — the eerie, slowly pulsing acoustic signature of [[Soliton]]s failing to re-crystallize. The "body" whose resonance creates the beating is the residual [[Great Harmonic Loom]] geometry of the blast zone itself, which still carries the eigenmode structure of the destroyed [[Crystal]] lattice as a ghost topology. The [[Wolf Tone]] is the sound of the [[Great Harmonic Loom]] remembering the crystallized matter that no longer exists as if the universe was mourning in the frequency of what it lost.
 
-_The fission [[Wolf Tone]] chatters. It is many detuned ghosts speaking at once._
+##### Why the Ghosts Cannot Settle — The Seven-Fold Origin of the Wolf
+
+In a periodic world, a ghost [[Soliton]] would simply fall into the nearest band and fall silent. In [[Arcanoria]] it cannot, and the reason is the seven-fold symmetry itself.
+
+The spectrum of a heptagonal quasicrystal is Cantor-like: gaps nested inside gaps at every scale, with no smooth band to land in. The blast has left the region's phason field badly strained, so its spectrum is smeared. A ghost partial whose frequency falls into one of these gaps has two allowed states available, one at each edge of the gap. It cannot belong to either. Like a cello string caught against a body resonance, it trades its energy back and forth between the two:
+
+$$\nu_{\text{Wolf}} = \lvert\nu_1 - \nu_2\rvert \;\approx\; \Delta_{\text{Gap}}$$
+
+This is exactly how a real cellist's wolf note works. The string's note sits too close to a strong resonance of the instrument's body, the two vibrations exchange energy, and the tone stutters and howls. In [[Arcanoria]] the instrument body is the Loom geometry of the blast zone. The resonance it is caught against is the gap structure that seven-fold order forces on everything.
+
+Three consequences follow:
+
+- **The pitch of the wolf is the size of a gap.** Wide gaps give a fast, harsh beat. Narrow gaps give a slow, deep throb.
+- **The wolf lingers for generations.** A ghost can only settle once the strained phason field relaxes and the spectrum sharpens back into well-tempered gaps. In real quasicrystals, phonon strain relaxes quickly but **phason strain relaxes diffusively and very slowly**. Rapidly quenched quasicrystals keep their built-in phason strain, and it shows up as shifted, broadened diffraction peaks. The relaxation time grows with the square of the region's size:
+
+$$\tau_{\text{Wolf}} \sim \frac{L^2}{D_\perp}$$
+
+  Here $D_\perp$ is the Loom's phason diffusion constant, which is tiny. A blast zone ten times wider stays wounded a hundred times longer.
+- **Different weapons, different wolves.** A Fission detonation scatters ghosts across many gaps at once, so many different beat rates sound together.
+
+_The fission [[Wolf Tone]] chatters. It is many detuned ghosts speaking at once, each caught in a different gap._
 
 #### The [[Coherence Repulsion]] Barrier that creates the [[Siphon-Type Wolf Bomb]] (Fusion)
 
@@ -26061,9 +29056,9 @@ In nuclear physics, fusion requires overcoming the **Coulomb barrier** — the e
 
 The phase boundary energy term is:
 
-$$E_{\text{Boundary}} = \alpha \int |\nabla\psi_1 \cdot \nabla\psi_2| \, dV > 0$$
+$$E_{\text{Boundary}} = \alpha \int |\psi_1||\psi_2|\left(1 - \cos\Delta\phi\right) dV \;+\; E_{\text{Topo}}, \qquad E_{\text{Topo}} = \begin{cases} 0 & \mathcal{C}_1 = \mathcal{C}_2 \\ \text{no finite path} & \mathcal{C}_1 \neq \mathcal{C}_2 \end{cases}$$
 
-Where $\alpha > 0$ is the [[Coherence Repulsion]] constant. This is why [[Soliton]]s exist side-by-side without spontaneously merging. Forcing two [[Soliton]]s past this boundary — and then triggering the blowup — releases more energy than detonating either alone. This is the fusion principle.
+Where $\alpha > 0$ is the [[Coherence Repulsion]] constant. The first term is the *phase* barrier. It vanishes only when the two clusters are perfectly in step, which matches real soliton physics, where in-phase solitons attract and out-of-phase solitons repel. The second term is the *topological* barrier from the walls of the [[Heptagonal Brillouin Zone]]. It cannot be climbed at all, only removed by making the two Chern numbers equal. This is why [[Soliton]]s exist side-by-side without spontaneously merging. Forcing two [[Soliton]]s past this boundary — and then triggering the blowup — releases more energy than detonating either alone. This is the fusion principle.
 
 #### The Forced Sympathetic Merger
 
@@ -26071,27 +29066,31 @@ The [[Siphon-Type Wolf Bomb]] works by achieving a **Forced Sympathetic Merger**
 
 $$\Delta\phi_{12} = \phi_1 - \phi_2 = 0 \pmod{2\pi}$$
 
-When the phases align, $E_{\text{Boundary}} \to 0$ and the [[Coherence Repulsion]] vanishes. The two [[Soliton]]s merge into a single, larger [[Soliton]] with:
+Once the [[Strand Pool]] phason drive has already set $\mathcal{C}_1 = \mathcal{C}_2$, aligning the phases drives $E_{\text{Boundary}} \to 0$ and the [[Coherence Repulsion]] vanishes. The two [[Soliton]]s merge into a single, larger [[Soliton]] with:
 
 $$|\psi_{\text{Merged}}|^2 = |\psi_1|^2 + |\psi_2|^2 + 2|\psi_1||\psi_2|\cos(\Delta\phi)$$
 
-At $\Delta\phi = 0$: $|\psi_{\text{Merged}}|^2 = (|\psi_1| + |\psi_2|)^2$ **constructive interference squares the amplitude**. However, this squared amplitude requires an accounting. In a closed conservative system, the total $L^2$ norm $\int |\psi|^2 dV$ cannot increase — overlapping two phases localizes energy but cannot create it. The cross-term $2\int |\psi_1||\psi_2| dV$ must be sourced from somewhere.
+At $\Delta\phi = 0$: $|\psi_{\text{Merged}}|^2 = (|\psi_1| + |\psi_2|)^2$ at every point where the two overlap: **constructive interference squares the amplitude**. That is a statement about where the field gathers, not about how much of it there is. In a closed conservative system the total norm $N = \int |\psi|^2 dV$ stays $N_1 + N_2$. The bright overlap is paid for by redistribution: the merging packet narrows, and the field around it thins. Interference localizes norm; it cannot create it.
 
-The source is the environment itself. This is the [[Resonance Siphon]] mechanism.
+An open system can do more. The new norm comes from the environment itself. This is the [[Resonance Siphon]] mechanism.
 
-When the [[Strand Pool]] eliminates [[Coherence Repulsion]] by unifying the two clusters' [[Chern Number]]s, the sudden drop from $E_{\text{Boundary}} > 0$ to $E_{\text{Boundary}} = 0$ creates a transient topological vacuum which acts as a region of anomalously low [[Soliton]] density relative to the surrounding [[Leylines]] field. In the driven-dissipative framework, the gain term $\gamma_A$ responds immediately: ambient [[Aetherlight]] from the surrounding [[Leylines]] network rushes into the vacuum at supersonic [[Coherence]] speed, injecting new norm into the merged packet in the instant before the cubic blowup begins.
+When the [[Strand Pool]] eliminates [[Coherence Repulsion]] by unifying the two clusters' [[Chern Number]]s, the sudden drop from $E_{\text{Boundary}} > 0$ to $E_{\text{Boundary}} = 0$ lets the two packets fall together, and the region they drain becomes a transient topological vacuum: anomalously low [[Soliton]] density relative to the surrounding [[Leylines]] field. In the driven-dissipative framework, the saturable gain $\gamma_A(|\psi|^2)$ responds immediately, leaping toward its full value $\Gamma_{\text{Ley}}$ as local density collapses: ambient [[Aetherlight]] from the surrounding [[Leylines]] network rushes into the vacuum at supersonic [[Coherence]] speed, injecting new norm into the merged packet in the instant before the cubic blowup begins.
 
-The total norm after merger is thus:
+How much the land gives follows from the continuity equation of the governing field (see the [[Harmonic Equilibrium]] condition above). Over the window $t_0 \to t_1$ of the merger, the [[Leylines]] inject
 
-$$\int |\psi_{\text{Merged}}|^2 \, dV = \int (|\psi_1|^2 + |\psi_2|^2) \, dV + \underbrace{2\int |\psi_1||\psi_2| \, dV}_{\Delta N_{\text{Siphon}} \ \text{—injected from [[Leylines]]}}$$
+$$\Delta N_{\text{Siphon}} \approx \frac{2}{\hbar_A}\int_{t_0}^{t_1} dt \int dV\; \gamma_A\!\left(|\psi|^2\right) |\psi|^2.$$
 
-The cross-term $\Delta N_{\text{Siphon}}$ is not conjured. It is, quite literally, stolen from the land. The squared amplitude is fueled by the [[Great Harmonic Loom]] itself, and the [[Leylines]] of the surrounding region are permanently depleted in proportion to the weapon's yield. Energy is conserved. The environment pays the bill.
+The full continuity equation carries $\gamma_\star + \gamma_A - \gamma_N$, but over the merger timescale the ordinary stellar-floor gain and the leak through the [[Stellar Veil]] remain approximately balanced, so the excess norm is dominated by the Leyline term. The total norm after merger is thus:
+
+$$N_{\text{Merged}} \approx N_1 + N_2 + \Delta N_{\text{Siphon}}$$
+
+The merger dynamics redistribute the original norm plus $\Delta N_{\text{Siphon}}$ into one high-amplitude packet. $\Delta N_{\text{Siphon}}$ is not conjured. It is, quite literally, stolen from the land. The squared amplitude is fueled by the [[Great Harmonic Loom]] itself, and the [[Leylines]] of the surrounding region are permanently depleted in proportion to the weapon's yield. No norm is created ex nihilo. In the enlarged [[Soliton]]–[[Leylines]] system, the Loom reservoir pays the bill.
 
 The merged [[Soliton]] is now far above the blowup threshold $\kappa \gg 1$, and its blowup time is dramatically shorter:
 
-$$T_{\text{Blow}}^{\text{Fusion}} \sim \frac{1}{\sqrt{\kappa_{\text{Merged}} - 1}} \ll T_{\text{Blow}}^{\text{Fission}}$$
+$$T_{\text{Blow}}^{\text{Fusion}} \sim \frac{t_0}{\sqrt{\kappa_{\text{Merged}} - 1}} \ll T_{\text{Blow}}^{\text{Fission}}$$
 
-The energy release scales as the square of the combined amplitude. The [[Siphon-Type Wolf Bomb]] is geometrically more destructive than the Fission [[Null-Type Wolf Bomb]] not merely because it merges two targets but because it **conscripts the environment as a third fuel source**. 
+The peak density scales with the square of the coherent amplitude sum, while the nonlinear energy stored in the compressed packet rises even faster as the cubic and quintic terms dominate. The [[Siphon-Type Wolf Bomb]] is geometrically more destructive than the Fission [[Null-Type Wolf Bomb]] not merely because it merges two targets but because it **conscripts the environment as a third fuel source**. 
 
 A Fusion detonation above sufficient [[Leylines]]' density does not just destroy what is there. It weakens the capacity of the land to sustain [[Coherence]] for generations afterward. The blast radius measured in destroyed matter is the short-term consequence. The [[Leylines]] scar left in the [[Great Harmonic Loom]] is the long-term one which explains the devastating [[Vibrational Fallout]]. This is why the once living [[Symphonic Veins]] become the "necrotic tissue" of [[Arcanoria]].
 
@@ -26099,7 +29098,7 @@ A Fusion detonation above sufficient [[Leylines]]' density does not just destroy
 
 #### The [[Siphon-Type Wolf Bomb]] Is Hauntingly Different
 
-The post-fusion detonation produces a different [[Wolf Tone]] signature. Because the merged [[Soliton]] was phase-synchronized before detonation, its ghost partial solitons share a common residual phase base. Rather than many detuned ghost [[Soliton]]s, there is one dominant ghost frequency with very small perturbations. The beat tone $\nu_{\text{wolf}} = |\nu_1 - \nu_2|$ is far smaller — lower in pitch, more sustained, more coherent.
+The post-fusion detonation produces a different [[Wolf Tone]] signature. Because the merged [[Soliton]] was phase-synchronized before detonation, its ghost partial solitons share a common residual phase base. Rather than many detuned ghost [[Soliton]]s, there is one dominant ghost frequency with very small perturbations. Because the clusters were driven into a single Chern class first, that ghost straddles **one gap** instead of many. Its beat tone $\nu_{\text{Wolf}} = |\nu_1 - \nu_2|$ is set by a single, narrow gap edge pair: far smaller, lower in pitch, more sustained, more coherent. The Siphon's phason scar is also spread over the whole drained region instead of a single core, so $L$ in $\tau_{\text{Wolf}} \sim L^2/D_\perp$ is enormous. The Requiem outlives everyone who heard it.
 
 The fusion [[Wolf Tone]] is a **single, sustained near-pure tone**, which is why it is sometimes referred as the Howling or Requiem Bomb as well, rather than the chaotic beating of the fission [[Wolf Tone]]. Those who have survived both types of detonation can identify which weapon was used by the character of its aftermath sound.
 
@@ -26113,16 +29112,19 @@ The technological leap from Fission to Fusion mirrors the Manhattan Project to H
 
 | Feature                   | [[Null-Type Wolf Bomb]] (Fission)                                                                                     | [[Siphon-Type Wolf Bomb]] (Fusion)                                                                                                                   |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Core mechanism            | [[Phase Singularity]] injection, topological defect shatters [[Chern Number]], $g_2$ collapses, cubic blowup proceeds | [[Resonance Siphon]], [[Strand Pool]] unifies [[Chern Number]]s, topological vacuum draws ambient [[Leylines]] energy, squared amplitude blowup |
+| Core mechanism            | Comma-carrying dislocation ($\mathbf{B}_\perp \neq 0$) untempers the region, sites leave the [[Window of Becoming]], $g_2$ collapses, cubic blowup proceeds | [[Resonance Siphon]], [[Strand Pool]] unifies [[Chern Number]]s, topological vacuum draws ambient [[Leylines]] energy, squared amplitude blowup |
 | Attack layer              | Topological — fractures the [[Heptagonal Brillouin Zone]] from within                                                 | Topological + thermodynamic — rewrites topology, then siphons the [[Great Harmonic Loom]]                                                       |
-| Critical condition        | $\mathcal{C} \notin \mathbb{Z}$ → $g_2 \to 0$ → runaway $g_1$                                                         | $\mathcal{C}_1 = \mathcal{C}_2$ and $\Delta\phi = 0$ → $\Delta N_{\text{Siphon}}$ injected → $\kappa_{\text{Merged}} \gg 1$                     |
+| Critical condition        | $\mathcal{C}_{\text{Heptacode}} \in \mathbb{Z}$ but inexpressible in the world → $\pi_\perp \notin W$ → $g_2^{\text{Eff}} \to 0$ → runaway $g_1$ | $\mathcal{C}_1 = \mathcal{C}_2$ and $\Delta\phi = 0$ → $\Delta N_{\text{Siphon}}$ injected → $\kappa_{\text{Merged}} \gg 1$                     |
 | Blowup time               | $T \sim (\kappa - 1)^{-1/2}$ — moderate                                                                               | $T \ll T_{\text{Fission}}$ — near-instantaneous                                                                                                 |
+| Energy source             | The region's tempered [[Auric Comma]], $E \propto K_\perp\lvert\mathbf{B}_\perp\rvert^2 \ln(R/r_N)$ | The comma of two unified clusters plus $\Delta N_{\text{Siphon}}$ drawn from the [[Leylines]] |
+| Blast radius              | Primary shell $R_0 \propto (N_{\text{Core}}/m)^{1/3}$, carried further by the firework cascade wherever $k_{\text{Casc}} \geq 1$ | Larger primary shell (merged norm plus $\Delta N_{\text{Siphon}}$); the cascade runs along every undrained vein of a convergence |
+| Wolf persistence          | $\tau \sim L^2/D_\perp$ over a local core: years to decades | $\tau \sim L^2/D_\perp$ over the whole drained region: generations |
 | Acoustic signature        | Infrasonic hum → [[Topological Null]] silence → explosion → chaotic chattering [[Wolf Tone]]                          | Infrasonic hum → merger [[Resonance]] tone → explosion → single sustained dying note                                                            |
-| [[Wolf Tone]] character   | Chaotic beating — many detuned ghost partials speaking at once                                                        | One sustained near-pure tone — [[Coherence]] phase ghost of the merged cluster                                                                  |
-| In-world requirement      | Precision [[Phase Singularity]] delivery through [[Heptagonal Brillouin Zone]] boundary layer                         | [[Strand]] mastery for topological class unification + [[Object Permanence]] architecture                                                       |
+| [[Wolf Tone]] character   | Chaotic beating — many ghost partials caught in many different spectral gaps                                          | One sustained near-pure tone — a single Chern-unified ghost straddling one gap                                                                   |
+| In-world requirement      | Precision aiming of $\mathbf{B}_\perp$ at the edge of the [[Window of Becoming]]                                       | [[Strand]] mastery for phason-drive class unification + [[Object Permanence]] architecture                                                      |
 | Environmental consequence | Localized [[Soliton]] fragmentation, [[Vibrational Fallout]] zone                                                     | [[Vibrational Fallout]] scar "Necrotic [[Symphonic Veins]]" as permanent depletion of $\gamma_A$ in blast radius proportional to yield          |
 | [[Vibrational Fallout]]   | Moderate, scattered soliton fragments, ghost partial decay                                                            | Catastrophic, merged topology tears [[Great Harmonic Loom]] threads; land loses long-term [[Coherence]] capacity                                |
-| Philosophical identity    | The universe resolves an impossible number                                                                            | The universe is made to pay for someone else's violence                                                                                         |
+| Philosophical identity    | The universe is forced to play its own wolf interval                                                                   | The universe is made to pay for someone else's violence                                                                                         |
 
 #### The [[Wolf Tone]] as Ontological Statement
 
@@ -26140,15 +29142,17 @@ The distinction between the [[Wolf Bomb]] and every other instrument of mass des
 
 The [[Wolf Bomb]] is categorically different. It does not speak to matter from the outside. It corrupts the conversation matter is already having with itself, and then leaves the [[Great Harmonic Loom]] to carry the wound.
 
-The [[Null-Type Wolf Bomb]] does not overpower the [[Heptagonal Brillouin Zone]]. It injects an irresolvable contradiction into it — a [[Phase Singularity]] whose fractional winding number the [[Great Harmonic Loom]] is architecturally incapable of assigning to any band. The universe's own mathematical rules, the same constraints that hold every stone and every living body in stable [[Coherence]], then enforce the destruction. That is the truly malicious difference: the weapon does not kill the target. The target is made to kill itself.
+The [[Null-Type Wolf Bomb]] does not overpower the [[Heptagonal Brillouin Zone]]. It injects an irresolvable contradiction into it: a [[Phase Singularity]] carrying an integer the Loom can count but the world cannot express, the region's whole [[Auric Comma]] collapsed into one point that the [[Auric Heptacode]] is architecturally incapable of assigning to any band. The universe's own mathematical rules, the same constraints that hold every stone and every living body in stable [[Coherence]], then enforce the destruction. That is the truly malicious difference: the weapon does not kill the target. The target is made to kill itself.
 
-The [[Siphon-Type Wolf Bomb]] takes this to a darker place still. It does not source its destructive energy from an external payload. It achieves a forced sympathetic merger and conscripts the ambient [[Leylines]] network of the surrounding land as its fuel. The environment itself becomes the detonation charge. Energy is conserved. It is the land that pays the price for the violence.
+The [[Siphon-Type Wolf Bomb]] takes this to a darker place still. It does not source its destructive energy from an external payload. It achieves a forced sympathetic merger and conscripts the ambient [[Leylines]] network of the surrounding land as its fuel. The environment itself becomes the detonation charge. Nothing is created from nothing. It is the land that pays the price for the violence.
 
 #### The Trauma Embedded in Geometry
 
-In any other destruction event in [[Arcanoria]], the aftermath is held by the survivors. The wound belongs to those who witnessed it, who must carry the memory of what was where the silence now is. The [[Wolf Bomb]] refuses this distribution. Through the mechanics of the [[Topological Null]] and the [[Leylines]] depletion that Fusion detonations leave behind, the trauma is not merely recorded by the landscape — it is encoded into it, physically, at the level of the [[Heptagonal Brillouin Zone]] geometry of the blast zone itself. The [[Topological Null]] is not a scar on the surface of a location. It is the location having forgotten how to be a location. The [[Leylines]] void left by a Fusion detonation is a region where the [[Great Harmonic Loom]]'s gain term  has been structurally amputated — not merely strained — and where the land's capacity to hold [[Coherence]] will not recover on any timescale that matters to the living.
+In any other destruction event in [[Arcanoria]], the aftermath is held by the survivors. The wound belongs to those who witnessed it, who must carry the memory of what was where the silence now is. The [[Wolf Bomb]] refuses this distribution. Through the mechanics of the [[Topological Null]] and the [[Leylines]] depletion that Fusion detonations leave behind, the trauma is not merely recorded by the landscape — it is encoded into it, physically, at the level of the [[Heptagonal Brillouin Zone]] geometry of the blast zone itself. The [[Topological Null]] is not a scar on the surface of a location. It is the location having forgotten how to be a location. The [[Leylines]] void left by a Fusion detonation is a region where the [[Great Harmonic Loom]]'s gain term $\Gamma_{\text{Ley}}$ has been structurally amputated — not merely strained — and where the land's capacity to hold [[Coherence]] will not recover on any timescale that matters to the living. It is dead land in the strict sense defined above: still held by the stars, emptied of the Loom.
 
 The ghost partial [[Soliton]]s that produce the [[Wolf Tone]] scar are not residual noise. They are the eigenmode structure of the destroyed [[Crystal]] lattice, still imprinted as a ghost topology in the [[Great Harmonic Loom]] geometry of the blast zone, which is why [[Spellweaving]] cannot stabilize the region until that ghost topology either fully decays or is deliberately unmade. The [[Wolf Tone]] does not fade because the wound healed. It fades only when the [[Great Harmonic Loom]] finally stops trying to remember.
+
+In quasicrystal terms, the scar is **quenched phason strain**: a frozen twist of the cut through the Past–Future planes, locked into the ground. Real quasicrystals that were cooled too quickly carry exactly this kind of built-in phason strain, and it can be read directly from their shifted, broadened diffraction peaks. [[Arcanoria]]'s survey-mages of [[Ages]] XI read blast zones the same way. They listen to how far the fourteen-fold shadow of the zone has been smeared, and from that they can date a detonation, size it, and tell which weapon caused it. The past of a place is literally bent. That is why [[Object Permanence]] recoveries inside a Wolf zone return memories that are wrong at the edges.
 
 The [[Wolf Bomb]]s do not belong to the category of weapons that overwhelm. They belong to the category of weapons that subvert. The operative principle is not force, it is the deliberate engineering of [[Dissonance]] as a forced feedback loop within a system that requires [[Consonance]] to exist.
 
@@ -26158,7 +29162,7 @@ This subversive ontology has one further and darkest corollary: the destructive 
 
 In the [[Null-Type Wolf Bomb]] variant, the [[Phase Singularity]] injected into the target cluster does not merely shatter the [[Soliton]] lattice of stone and air. According to the [[Weight of Value]], nothing achieves full ontological density until [[Consciousness]] has decided it is real. A thriving city is not simply a collection of mineral [[Crystal]] lattices; it is a massively over-determined field of localized [[Coherence]], anchored by the collective observation, memory, and shared reality of its population alongside any [[Resonance Stabilizer]] or [[Resonance Anchors]] that serve to funnel more [[Coherence]].
 
-Thus, the resulting [[Topological Null]] is proportionally deeper, there is simply more certainty to erase. The collapse does not stop at matter. It shatters collective reality. The [[Vibrational Fallout]] zone left behind echoes not only with ghost partial [[Soliton]]s of unmade stone, but with the unresolved [[Frequency Harmonics]] of silenced minds of millions of intersecting lives whose patterns the [[Great Harmonic Loom]] still holds, and cannot assign to either presence or [[Void]]. The [[Wolf Tone]] that follows a populated detonation is not the chaotic stutter of broken geology. It is polyphonic in [[Superposed Resonance]] of bygone existential signatures.
+Thus, the resulting [[Topological Null]] is proportionally deeper, there is simply more certainty to erase. In the terms of the yield formula, collective observation raises the phason stiffness: $K_\perp = K_\perp^{(0)} + \beta_C\,\rho_C$, where $\rho_C$ is the local density of observation, memory and shared reality, and $\beta_C$ how strongly each unit of it stiffens the cut. A remembered city holds its comma under more tension than a forgotten valley does, so the same injected singularity releases more. *To be loved by many is to be wound tighter.* The firework that follows also travels further: dense clusters, heavy stored norm and thin margins all push $k_{\text{Casc}}$ above one. The collapse does not stop at matter. It shatters collective reality. The [[Vibrational Fallout]] zone left behind echoes not only with ghost partial [[Soliton]]s of unmade stone, but with the unresolved [[Frequency Harmonics]] of silenced minds of millions of intersecting lives whose patterns the [[Great Harmonic Loom]] still holds, and cannot assign to either presence or [[Void]]. The [[Wolf Tone]] that follows a populated detonation is not the chaotic stutter of broken geology. It is polyphonic in [[Superposed Resonance]] of bygone existential signatures.
 
 The [[Siphon-Type Wolf Bomb]] variant is geometrically more dangerous still at a [[Leylines]] convergence — and [[Leylines]] convergences are, by the logic of [[Civilization]], precisely where [[Sacred Site]]s, [[Trade Nexus]], and densest populations form. The more sacred and prettier the place, the more powerful the [[Resonance Siphon]] of the [[Wolf Bomb]].
 
@@ -26166,7 +29170,7 @@ The [[Resonance Stabilizer]]s become weaponized as means to equilibrates to what
 
 At a convergence, that supply is vast, intersecting, and highly pressurized. When the topological vacuum opens at the merger point, ambient [[Aetherlight]] from multiple crossing [[Leylines]] rushes inward simultaneously, and the [[Resonance Siphon]] injected into the blowup grows without a practical ceiling. The weapon gorges on the convergence. The blast radius expands until the local [[Leylines]] network is fully drained or structurally severed, causing the signature Necrotic [[Symphonic Veins]] connected to that node as result of being left permanently starved.
 
-This is what places the [[Wolf Bomb]] categorically beyond the ontological scale of any other destructive instrument in [[Arcanoria]] and as the prime weapon for war crimes as its yield is directly proportional to how alive, how meaningful, and how inhabited its target is. Targeting the most vibrant, the most populated, and the most spiritually significant locations is not a strategic refinement that happens to maximize casualties, it is the weapon's own physics demanding it. The [[Auric Heptacode]], the [[Dual Confluence Stream]], the topological protection of the [[Heptagonal Brillouin Zone]] — every layer of the [[Great Harmonic Loom]] designed to hold the universe in high [[Coherence]] for [[City Development]] becomes the mechanism of its own unraveling the moment one of these weapons is deployed.
+This is what places the [[Wolf Bomb]] categorically beyond the ontological scale of any other destructive instrument in [[Arcanoria]] and as the prime weapon for war crimes as its yield is directly proportional to how alive, how meaningful, and how inhabited its target is. Targeting the most vibrant, the most populated, and the most spiritually significant locations is not a strategic refinement that happens to maximize casualties, it is the weapon's own physics demanding it. The [[Auric Heptacode]], the [[Dual Confluence Stream]], the topological protection of the [[Heptagonal Brillouin Zone]] — every layer of the [[Great Harmonic Loom]] designed to hold [[Arcanoria]] in high [[Coherence]] for [[City Development]] becomes the mechanism of its own unraveling the moment one of these weapons is deployed.
 
 _"The acoustic betrayal at the heart of the [[Wolf Bomb]]'s existence is unimaginable. The universe is not destroyed from outside. It is made to become its own executioner — forced to resolve an irresolvable contradiction, and it is made to pay most dearly where it has been most loved." - [[The White-Touched Archivist]]_
 
@@ -26174,68 +29178,323 @@ _"The acoustic betrayal at the heart of the [[Wolf Bomb]]'s existence is unimagi
 
 #### [[Consciousness]] Precedes Matter — The Ontological Sequence
 
-In [[Arcanoria]], the standard assumption of biology is inverted. In a purely material universe, [[Consciousness]] emerges from matter as neurons organize, complexity grows, and awareness arises. However, this entire framework is stripped In [[Arcanoria]] as [[Consciousness]] is prior to matter. The [[Soul-Key]] — a being's stable [[Fundamental Frequency]] — is not produced by the body. It is the condition that allows a body to achieve [[Coherence]] in the first place.
+In [[Arcanoria]], the standard assumption of biology is inverted. In a purely material universe, [[Consciousness]] emerges from matter as neurons organize, complexity grows, and awareness arises. However, this entire framework is stripped away in [[Arcanoria]], as [[Consciousness]] is prior to matter. The [[Soul-Key]], the key that organizes a being's [[Fundamental Frequency]] into tonality, is not produced by the body. It is the condition that allows a body to achieve [[Coherence]] in the first place.
 
 This is not metaphor. It is the direct consequence of the [[Soliton]] ontology.
 
-A lifeless [[Crystal]] cluster, a rock, a mineral vein, a shard of [[Sky Glass]], is a [[Soliton]] lattice held in stable eigenmode geometry by the [[Auric Heptacode]] alone. It persists through structural constraint. It does not want to persist. It has no [[Fundamental Frequency]] of its own, it merely echoes the geometry imposed on it by the [[Auric Heptacode]].
+A lifeless [[Crystal]] cluster, a rock, a mineral vein, a shard of [[Sky Glass]], is a [[Soliton]] lattice held in stable eigenmode geometry by the [[Auric Heptacode]] and kept at the stellar floor by the [[Primordial Star]]s. It persists through structural constraint and through the [[Auric Aria]]'s attention distributed in starlight, the [[Consciousness]] that holds every piece of matter that has none of its own. It does not want to persist. It has no [[Fundamental Frequency]] of its own; it merely echoes the geometry imposed on it by the [[Auric Heptacode]].
 
-A living body is something categorically different. It is a [[Soliton]] lattice organized around a **pre-existing vibrational identity**: the [[Soul-Key]]. The [[Soul-Key]] is a [[Fundamental Frequency]] gifted by [[Selenea]] before structural form was woven — a standing wave of [[Pure Light]] that preceded the body it would eventually inhabit. The body is not the source of that frequency. It is the instrument that learned to resonate with it.
+A living body is something categorically different. It is a [[Soliton]] lattice organized around a **pre-existing vibrational identity**: the [[Soul-Key]]. The [[Soul-Key]] is the key [[Selenea]] gave to a [[Fundamental Frequency]], locked by her essence (in person during the [[Fifth Cycle]] and [[Sixth Cycle]], through [[Lunehymn]] ever since) before structural form was woven: a standing wave of [[Pure Light]] that preceded the body it would eventually inhabit. The body is not the source of that frequency. It is the instrument that learned to resonate with it.
 
 This is the ontological meaning of [[Pure Light]]: it is the proportion of a being's existence that was *conscious before it was physical* — the [[Selenea]]-gifted vibrational identity that the [[Auric Aria]]'s structural weaving then built a body around. [[Auric Structure]], in turn, is the proportion that is *physical before it is conscious* — the structural lattice woven from the [[Auric Heptacode]] that provides form, durability, and environmental persistence.
 
-$$\text{Living Being} = \underbrace{\alpha_S \cdot \psi_{\text{Structure}}}_{\text{Auric Structure}} + \underbrace{\alpha_L \cdot \psi_{\text{Soul}}}_{\text{Pure Light}}$$
+$$\psi_{\text{Being}} = \underbrace{\sqrt{\alpha_S}\; \psi_{\text{Structure}}}_{\text{Auric Structure}} + \underbrace{\sqrt{\alpha_L}\; \psi_{\text{Soul}}}_{\text{Pure Light}}, \qquad \alpha_S + \alpha_L = 1$$
 
-Where $\alpha_S$ and $\alpha_L$ are the Structure–Light composition ratios, $\psi_{\text{structure}}$ is the [[Auric Heptacode]]-locked soliton lattice, and $\psi_{\text{soul}}$ is the [[Soul-Key]]'s [[Fundamental Frequency]] — the pre-existing vibrational identity. For [[Humanity]], $\alpha_S = 0.75$ and $\alpha_L = 0.25$: predominantly structural, but irreducibly animated by a soul that came first.
+Where $\alpha_S$ and $\alpha_L$ are the Structure–Light composition ratios, the shares of the being's norm carried by each component (the two components are normalized to the same norm and do not overlap, so the shares add up), $\psi_{\text{structure}}$ is the [[Auric Heptacode]]-locked soliton lattice, and $\psi_{\text{soul}}$ is the [[Soul-Key]]'s locked comb (see *[[Lunehymn]] — The Final Force* above): the being's [[Fundamental Frequency]] organized into a key, the pre-existing vibrational identity. For [[Humanity]], $\alpha_S = 0.75$ and $\alpha_L = 0.25$: predominantly structural, but irreducibly animated by a soul that came first.
 
-The [[Formless Masses]] — [[Arcanoria]]'s primordial soulless entities — are the proof by negation. They are [[Auric Structure]] with $\alpha_L \approx 0$. Durable, persistent, indestructible — and entirely incapable of growth, change, or authentic resonance, because **without a prior [[Fundamental Frequency]], there is nothing for the [[Soliton]] lattice to cohere around.** They are perfectly formed instruments that play no note. Their [[Harmonic Equilibrium]] is stable but hollow, and this is the precise trap that the [[Auric Aria]] is incapable of creating only through her mastery of the [[Auric Heptacode]].
+The [[Formless Masses]] — [[Arcanoria]]'s primordial soulless entities — are the proof by negation. They are [[Auric Structure]] with $\alpha_L \approx 0$: a [[Fundamental Frequency]] with no [[Soul-Key]]. Even their structure is a misweave, threads of the [[Auric Heptacode]] laid while the [[Auric Aria]]'s certainty was failing, so it is dissonant where every other weave is consonant. Durable, persistent and nearly indestructible while their [[Dissonance Core]] holds, they are entirely incapable of growth, change, or authentic resonance, because **without a key, there is nothing for the [[Soliton]] lattice to cohere around.** They are instruments that play no note, held together only by the brute static of their own core. This is precisely the limit the [[Auric Aria]] cannot cross through her mastery of the [[Auric Heptacode]] alone: she can weave a [[Fundamental Frequency]], never a [[Soul-Key]].
 
 #### The [[Soul-Key]] as Homeostatic Anchor
 
-Because [[Consciousness]] precedes matter in [[Arcanoria]], the body's [[Soliton]] lattice does not maintain its [[Harmonic Equilibrium]] through passive material balance alone, it maintains it by continuously **resonating toward its own [[Soul-Key]]**. The [[Fundamental Frequency]] of the [[Soul-Key]] acts as the attractor state of the entire biological system: when ambient [[Aetherlight]] density pushes the body's soliton amplitude away from its plateau, the [[Soul-Key]]'s vibrational identity pulls it back.
+Because [[Consciousness]] precedes matter in [[Arcanoria]], the body's [[Soliton]] lattice does not maintain its [[Harmonic Equilibrium]] through passive material balance alone, it maintains it by continuously **resonating toward its own [[Soul-Key]]**. The tonic of the [[Soul-Key]] acts as the attractor state of the entire biological system: when ambient [[Aetherlight]] density pushes the body's soliton amplitude away from its plateau, the [[Soul-Key]]'s vibrational identity pulls it back.
 
 This is the biological homeostatic feedback loop in soliton terms:
 
-$$|\psi_{\text{Body}}(t)| \xrightarrow{\text{Soul-Key Attractor}} |\psi_{\text{Stable}}|^2 = \frac{g_1}{2g_2}$$
+$$|\psi_{\text{Body}}(t)|^2 \xrightarrow{\text{Soul-Key Attractor}} |\psi_{\text{Stable}}|^2 = \frac{3g_1}{4g_2}$$
 
-The [[Symphonic Veins]] are the physical infrastructure through which this correction propagates, they carry [[Lunehymn]] from the [[Great Harmonic Loom]] into the body's tissue, supplying the quintic stabilization term $g_2|\psi|^4$ that keeps the Cubic-Quintic NLS from tipping into blowup. The [[Soul-Key]]'s frequency is the signal; the [[Symphonic Veins]] are the delivery network.
+The attractor enters the governing equation as the **[[Soul-Binding]] term**, a weak, steady drive at the [[Soul-Key]]'s tonic $\omega_S$ that carries the whole locked comb $\psi_{\text{Soul}}(t)$ defined above:
 
-The [[Soul Leitmotif]], which only awakens in humans who have processed sufficient lived experience into their identity, is the *crystallized, fully conscious form* of this homeostatic signal. Before [[Motif Awakening]], a human's [[Soul-Key]] operates as a passive attractor. After awakening, the [[Soul Leitmotif]] becomes an *active transmitter*, the individual can consciously modulate their own [[Fundamental Frequency]], which is the root mechanism of all [[Spellweaving]].
+$$i\hbar_A \frac{\partial \psi}{\partial t} = \Big[\ldots\text{CQCGLE terms}\ldots\Big] + \lambda\, \psi_{\text{Soul}}(t), \qquad \lambda > 0$$
+
+This is **injection locking**, one of the oldest effects in acoustics. Rayleigh documented organ pipes pulling each other into unison, and Huygens saw pendulum clocks on a shared beam fall into step. A self-sustaining oscillator that is driven gently near its own frequency gets *captured* by the drive, as long as the detuning stays inside a locking range. Adler worked out that range for electronic oscillators in 1946. It grows with the strength of the injected signal relative to the oscillator's own amplitude: $\Delta\omega_{\text{Max}} = (\omega_0/2Q)(A_{\text{Inj}}/A_{\text{Osc}})$, with $Q$ the oscillator's quality factor. The [[Soul-Binding]] term obeys the same rule. With the body's amplitude held at its plateau by its own gain and saturation, reducing this equation to the phase of the body against the drive gives the locking range directly:
+
+$$\lvert\omega_{\text{Body}} - \omega_S\rvert \;\leq\; \Omega_{\text{Lock}} = \frac{\lambda}{\hbar_A}\frac{\lvert\psi_{\text{Soul}}\rvert}{\lvert\psi_{\text{Body}}\rvert}$$
+
+The soul is the injected signal; the body is the oscillator it captures.
+
+Inside the locking range, the body is held to its soul's note. Push it outside, and the body drifts free. That is the boundary at which the homeostatic loop fails (see below).
+
+The drive can only be this clean because the comb is locked, and the comb can only be locked because [[Lunehymn]] is present. A keyless [[Fundamental Frequency]] drives a body with free-running modes and no fixed phase, a drive no oscillator can lock to. That is the [[Atonalis]] condition in one sentence.
+
+The [[Symphonic Veins]] are the physical infrastructure through which this correction propagates, they carry [[Lunehymn]] from the [[Great Harmonic Loom]] into the body's tissue, supplying the quintic stabilization term $g_2|\psi|^4$ that keeps the Cubic-Quintic NLS from tipping into blowup. The [[Soul-Key]]'s frequency is the signal; the [[Symphonic Veins]] are the delivery network. The same [[Lunehymn]] does both jobs at once: it keeps the body's plateau from tipping, and it keeps the soul's comb locked. Rest and tonality are one term.
+
+The [[Soul Leitmotif]], which only awakens in humans who have processed sufficient lived experience into their identity, is the *crystallized, fully conscious form* of this homeostatic signal: the [[Soul-Key]] made into a physical gem.
+
+#### [[Motif Awakening]] — From a Passive Key to a Conscious Signal
+
+**[[Motif Awakening]] is much more profound than unlocking magic.** Before it, the [[Soul-Key]] already exists. It is the attractor described above, and it passively keeps a person coherent: the [[Soul-Binding]] drive runs at a fixed strength $\lambda_0$, the comb is whatever the soul already is, and the body is held to it without ever being asked. After a [[Motif Awakening]], the person becomes capable of consciously accessing and modulating that frequency. That is why the [[Soul Leitmotif]] becomes the bridge into [[Spellweaving]].
+
+**The threshold.** The [[Grand Thread Rings]] of the [[Great Harmonic Loom]] do not distinguish between feelings. They read only the amplitude of [[Emotional Authenticity]], and when that amplitude crosses a threshold, the [[Soul-Key]] sublimates into an object:
+
+$$A_{\text{EA}}(t) \;\geq\; A_{\text{Motif}} \quad\Longrightarrow\quad \text{the Soul-Key crystallizes}$$
+
+The first crossing creates the [[Soul Leitmotif]]. The second and third embellish it with its primary and secondary [[Ornament]]s. Grief can cross it and so can joy; the [[Great Harmonic Loom]] only measures how much is honestly felt.
+
+**The Wish.** Every [[Motif Awakening]] is structured by a single Wish, and what is vocalized is the phase-lock pairing between the soon-to-be [[Spellweaver]] and the [[Great Harmonic Loom]]. In wave terms, the Wish decides which of the seven binding threads, each with its own frequency $\omega_b$, the key locks to:
+
+$$b^\ast = \arg\min_{b}\, \lvert\omega_S - \omega_b\rvert \qquad \text{with} \qquad \lvert\omega_S - \omega_{b^\ast}\rvert \leq \Omega_{\text{Wish}}$$
+
+That binding becomes the primary element. Each later awakening locks the same comb to one more thread, so an [[Ornament]] adds a voice to the song rather than replacing it.
+
+**After awakening: control.** The awakened [[Spellweaver]] can steer three things the unawakened soul could not: the strength of the soul's coupling $\lambda(t)$, its phase and timing $\theta(t)$, and its intake from the [[Leylines]] $\gamma_A^{\text{In}}(t)$. The transmitted signal is the soul's own comb, shaped by an envelope $u(t)$:
+
+$$s(t) = \lambda(t)\, u(t)\, e^{i\theta(t)}\, \psi_{\text{Soul}}(t)$$
+
+The [[Great Harmonic Loom]] answers that drive the way any resonant medium does, through its response function $G$. The spell manifests where the response crosses the plucking threshold that the [[Magical Catalyst]] helps it reach:
+
+$$\delta\psi_{\text{Loom}}(\mathbf{r},t) = \int G(\mathbf{r}-\mathbf{r}_0,\, t-t')\; s(t')\, dt', \qquad \lvert\delta\psi_{\text{Loom}}\rvert \;\geq\; \theta_{\text{Spell}}$$
+
+$\mathbf{r}_0$ is the [[Soul Leitmotif]]. The response falls off with distance, $\lvert G\rvert \propto e^{-\lvert\mathbf{r}-\mathbf{r}_0\rvert/\ell_{\text{SL}}}$, which is [[Signal Loss]]: the damping that starts to bite at about three meters. It sets the reach of any spell without prepared [[Stable Harmonic Channels]]:
+
+$$R_{\text{Max}} = \ell_{\text{SL}}\,\ln\frac{\lvert s\rvert}{\theta_{\text{Spell}}}$$
+
+The energy itself comes from the [[Leylines]], at the rate $\frac{2}{\hbar_A}\int \gamma_A^{\text{In}}\,|\psi|^2\,dV$. The [[Spellweaver]] does not carry it; they open or narrow their own intake, and [[Essence Sacrifice]] is the price paid in self when that intake is pushed past what the soul can carry. So magic is not *a person possesses magical energy and spends it*. It is **[[Consciousness]] learning to deliberately modify the [[Resonance]] relationship between itself and the fabric sustaining physical reality.** This is why the physics chain at the end of this document defines [[Spellweaving]] as conscious modulation of $\lambda$ and $\gamma_A$, the [[Soul-Binding]] and its exchange with the [[Great Harmonic Loom]], quite literally, the cymatics of the soul.
+
+**Know thyself.** "Know thyself" becomes physically powerful in [[Arcanoria]]. A key is a comb of locked phases, and an unresolved identity is phase noise in that comb: contradictions between what a person wants, believes and feels jitter the relations $\phi_n$ that should stay fixed. With phase noise of variance $\sigma_I^2$, only part of what is transmitted stays coherent, and the rest turns into the caster's own noise:
+
+$$\left\langle e^{i\,\delta\phi}\right\rangle = e^{-\sigma_I^2/2} \quad\Longrightarrow\quad S_{\text{Coherent}} = S\,e^{-\sigma_I^2}, \qquad S_{\text{Self-noise}} = S\left(1 - e^{-\sigma_I^2}\right)$$
+
+The capacity of a [[Spellweaver]] as a channel is therefore:
+
+$$C = B\log_2\!\left(1 + \frac{S\,e^{-\sigma_I^2}}{N + S\left(1-e^{-\sigma_I^2}\right)}\right) \;\xrightarrow{\;S\,\to\,\infty\;}\; B\log_2\frac{1}{1-e^{-\sigma_I^2}}$$
+
+$B$ is the bandwidth that [[Sufficient Precision]] narrows to a clean band. The limit is the point: **no amount of raw power fixes an incoherent self.** As strength $S$ grows, capacity climbs toward a ceiling set by $\sigma_I$, not by $S$. The more completely a person has resolved their identity, the more coherent the signal they can deliberately transmit, and the higher that ceiling sits. This is why character psychology and the magic system of [[Arcanoria]] are the same system, without one being a metaphor for the other.
+
+#### Why Emotion Affects Magic
+
+This now follows directly. [[Consciousness]] has a [[Fundamental Frequency]]. Emotion changes the state of [[Consciousness]]. [[Spellweaving]] deliberately exposes that [[Consciousness]] to the [[Great Harmonic Loom]]. Therefore emotional instability creates physical magical instability.
+
+An emotional state acts on the key through four quantities: its intensity $A_E$, its authenticity $\eta_A \in [0,1]$ (how much of what is felt is honestly expressed rather than dammed, the province of [[Emotional Authenticity]]), its jitter $D_E$ (how fast the feeling is shifting) and its drift $\delta\omega_E$ (how far it pulls the key off its tonic).
+
+- **Honest feeling amplifies.** [[Emotional Authenticity]] turns the depth of feeling into gain, and steep emotional gradients amplify potency exponentially: $\lambda_{\text{Eff}} = \lambda\, e^{\beta\,\eta_A A_E}$.
+- **Unstable feeling scatters.** Jitter accumulates as phase noise over a cast of duration $T_c$: $\sigma_E^2 = 2D_E\,T_c$.
+- **Drifting feeling breaks the lock.** If the drift leaves the locking range, $\lvert\delta\omega_E\rvert > \Omega_{\text{Lock}}$, the key cannot stay locked to its thread, and the spell beats instead of holding: $\omega_{\text{Beat}} = \sqrt{\delta\omega_E^2 - \Omega_{\text{Lock}}^2}$. This is Adler's unlocked regime: the spell pulses, flickers and lands unpredictably, and the [[Soul Leitmotif]] flickers or dims with it.
+
+Inside the lock, the coherent power a [[Spellweaver]] delivers to the Loom is:
+
+$$P_{\text{Spell}} \;\propto\; \lambda^2\, e^{2\beta\,\eta_A A_E}\; e^{-\left(\sigma_I^2 + 2D_E T_c\right)}, \qquad \lvert\delta\omega_E\rvert \leq \Omega_{\text{Lock}}$$
+
+The rule every apprentice learns (*an angry [[Spellweaver]] casts a bigger fireball; a frightened one casts unstable magic*) is not sitting outside the hard system. It is the human-scale experience of the same [[Soliton]] metaphysics. Honest, focused anger is a large $A_E$ with high $\eta_A$ and little jitter: exponential gain with the lock intact. Fear is jitter and drift: $D_E$ drains coherence and $\delta\omega_E$ pushes the key past $\Omega_{\text{Lock}}$ into beating. Push intensity far enough and the gain outruns every lock at once. The drive lifts the body above its plateau and the Loom past its threshold together, which is the [[Catalytic Abyss of Emotion]]: potency magnified without bound, with as much [[Discordant Interference]] as power.
+
+**The bubble.** A [[Soliton]] has an interior and an exterior. From within it you cannot see the boundary that contains you; from outside you cannot enter its contents, only see its surface. A person's life is the same: a private topology of memory, feeling and meaning that anyone else sees only from the surface. Because [[Soliton]]s can be of any size, a [[Spellweaver]] can extend that bubble outward into a [[Resonance Field]], as large as a room, a stadium or a sealed pocket dimension, and every form of [[Field Magic]], [[Time Bubble]] and [[Dimensional Arts]] follows from it. A field reaches as far as [[Signal Loss]] lets its threshold hold, $R_F = \ell_{\text{SL}}\ln\!\left(\lvert s\rvert/\theta_{\text{Field}}\right)$, and every emotional term above applies inside it: a frightened caster's field flickers at $\omega_{\text{Beat}}$.
+
+So the system's hard mathematics is ultimately supporting a very soft psychological premise: **feeling has physical consequences, because [[Consciousness]] is already physically upstream of matter.**
+
+#### Spell Potency — Canon's Equation as a Signal Chain
+
+Everything above describes the signal. [[Essence Sacrifice]] gives the ledger of a casting in one line:
+
+$$\text{Spell Potency} = \frac{\text{Fuel Quality} \times \text{Thematic Resonance} \times \text{Performance Quality}}{\text{Remaining Essence Sacrifice Cost}}$$
+
+This is not a second law laid over the physics. It is $P_{\text{Spell}}$ written as a ledger: what the [[Great Harmonic Loom]] delivers, per unit of self the [[Spellweaver]] still pays. Every term is measured against a **standard casting**: Tier 1 fuel, all six principles at neutral, no music. That casting is $100\%$, so the result reads directly as how many standard castings a spell is worth. The calibration below is the one the Seven Bindings mixing desk computes, so any reading on the desk can be reproduced by hand.
+
+**Where each term sits in the chain.** The [[Great Harmonic Loom]] lays casting out as a five-stage audio signal chain, and every stage of it already appears in this document:
+
+1. **[[Resonance]], the carrier.** The [[Soul-Key]]'s locked comb $\psi_{\text{Soul}}$: a pure baseband tone.
+2. **The interface.** A [[Soul Leitmotif]], or an organ of [[Coherence-Binding Tissue]], transduces that tone into [[Frequency Harmonics]] the Loom can carry.
+3. **[[Attunement for Magic]].** The [[Key of Attunement]] centers the carrier on the Loom's baseline, the [[Auric Aria]]'s broadcast standard. This is the lock $\lvert\omega_S - \omega_b\rvert \leq \Omega_{\text{Lock}}$.
+4. **[[The Principles of Magic]].** Six modulators shape the drive $s(t) = \lambda\, u\, e^{i\theta}\, \psi_{\text{Soul}}$.
+5. **The [[Magical Catalyst]].** Usually [[Music as Catalyst]]: it pushes the Loom's response $\lvert\delta\psi_{\text{Loom}}\rvert$ past $\theta_{\text{Spell}}$, and the threads are plucked.
+
+The [[Triadic Virtues of Spellcraft]] fall into that chain at different places, which is why they enter the fraction at different places. [[Mastery Over Chaos]] **directs**: it is Performance Quality, in the numerator. [[Potential of Creation]] **fuels and lubricates**. Its feeling and its history are Thematic Resonance in the numerator, *and* they are what lets the music shrink the denominator, while its third member, [[Essence Sacrifice]], is the fuel itself. The [[Key of Attunement]] is neither: it is the carrier the other six modulate, and it gates Performance Quality from upstream. This is the [[Trinity Harmony]] in arithmetic. The past fuels, the future directs, the present carries, and no one can burn a future for fuel, because there is nothing there yet to spend.
+
+**Readings.** Each of the six dial principles is read as a level $L_b$ from $0$ to $100$. Fifty is neutral: it neither helps nor hurts. Whenever principles are averaged, the spell's Root, its [[Major Note]], counts twice, because the Root decides what the spell *is*:
+
+$$\langle L\rangle_{\mathcal{S}} = \frac{\sum_{b\in\mathcal{S}} w_b\, L_b}{\sum_{b\in\mathcal{S}} w_b}, \qquad w_b = \begin{cases} 2 & b \text{ is the Root} \\ 1 & \text{otherwise} \end{cases}$$
+
+A spell rooted in [[Void]] or [[Resonance]] leans on neither triad, so both means fall through as plain averages.
+
+| Principle | Binding | Stage in the chain | Enters as | Interference weight $d_b$ | Above 70 | Below 30 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [[Key of Attunement]] | [[Resonance]] | Carrier, spectral cleanup | $c_K$ in Performance Quality | 0.4 | Clear Inner Purpose | Doubting Who You Are |
+| [[Sufficient Precision]] | [[Luminance]] | Bandpass filter | $L_M$ in Performance Quality | 1.1 | Intent with Surgical Precision | Poorly Defined Effects |
+| [[Emotional Authenticity]] | [[Flux]] | Envelope and timbre | $R_T$, and the music's loop | 0.15 | Total Vulnerability | Bottling Up Emotions |
+| [[Essence Sacrifice]] | [[Void]] | Power supply and gain | $Q_F$, and the fuel strain $s_F$ | — | — | — |
+| [[Perfect Focus]] | [[Cindergale]] | Signal integrity | $L_M$ in Performance Quality | 0.5 | In Flow State | Cannot Concentrate |
+| [[Absolute Certainty]] | [[Crystal]] | Waveform render | $L_M$ in Performance Quality | 0.6 | Impeccable Will and Imagination | Overthinking If It Works |
+| [[Echoing Bonds]] | [[Strand]] | Delay and send-bus routing | $R_T$, and the music's loop | 0.1 | Target Is a Loved One | Target Is a Broken Relationship |
+
+Past 70 or below 30, a reading stops describing the thread and starts describing the person.
+
+**Fuel Quality $Q_F$: the supply.** A spell's energy is drawn from the [[Leylines]] through the weaver's intake $\gamma_A^{\text{In}}$ (see *[[Motif Awakening]]* above). The offering is what opens that intake, and the [[Weight of Value]] decides how far a given offering opens it. $Q_F$ is that opening per unit of essence paid, measured against physical exhaustion:
+
+$$Q_F = \frac{\gamma_A^{\text{In}}\ \text{opened per unit of essence}}{\big(\gamma_A^{\text{In}}\ \text{opened per unit of essence}\big)_{\text{Tier 1}}}$$
+
+| Tier | Offering | $Q_F$ | Fuel strain $s_F$ |
+| --- | --- | --- | --- |
+| 0 | Garbage: something the weaver would not notice losing | 0 | 1 |
+| 1 | Physical exhaustion | 1 | 1 |
+| 2 | Life force and vitality | 2 | 1.25 |
+| 3 | Memories and identity-bearing losses | 4 | 1.6 |
+| 4 | Perfect fuel: the sacrifice most aligned with the spell's purpose | 10 | 2 |
+
+Tier 0 opens nothing. The Loom only prices what a [[Consciousness]] values, so an offering without meaning buys no intake and arrives as noise. The tiers are steps, not a continuum: a memory is a different *kind* of loss from a push-up, not more of the same. They are the shape of the economy, not a price list. Through the [[Weight of Value]], a push-up can sit closer to Tier 2 for one weaver than for another.
+
+**Thematic Resonance $R_T$: the coupling.** [[Emotional Authenticity]] is whether the feeling is real. [[Echoing Bonds]] is whether the song and the target share a history. Together they set how much of the drive couples into the spell's purpose: the honest gain $\lambda_{\text{Eff}} = \lambda\, e^{\beta\eta_A A_E}$, and the transmission of the [[Stable Harmonic Channels]] that the history has laid down.
+
+$$R_T = \langle L\rangle_{\text{Flux, Strand}}, \qquad \text{Thematic factor} = \frac{R_T}{50}$$
+
+A stranger is neutral: no history, no modifier. A target whose bond was burned for fuel drags $R_T$ down. [[Essence Sacrifice]] is deliberately left out of this mean. It is already $Q_F$, and counting it twice would let a weaver pay for alignment they have not earned.
+
+**Performance Quality $Q_P$: coherence and the carrier.** [[Mastery Over Chaos]] is the capacity to give form to [[Primal White Noise]] through focused intention, and its three principles are three stages of the chain:
+
+- **[[Sufficient Precision]]** is the bandpass that confines the spell to one band.
+- **[[Perfect Focus]]** is signal integrity. It holds the jitter $2D_E T_c$ down so the output never drops out.
+- **[[Absolute Certainty]]** is the render: the waveform committed without a staircase of doubt.
+
+Their mean $L_M = \langle L\rangle_{\text{Luminance, Cindergale, Crystal}}$ is the share of the signal kept coherent and in band, read as a fader mean. It is the $e^{-\sigma^2}$ of the sections above for every noise except identity, which belongs to the carrier. The carrier then gates it:
+
+$$Q_P = L_M\cdot\frac{1 + c_K}{2}, \qquad c_K = \frac{L_{\text{Resonance}}}{100} = \big\langle\cos\phi_K\big\rangle = \cos\bar\phi_K\; e^{-\sigma_I^2/2}$$
+
+The half weight is not arbitrary. Canon describes the [[Key of Attunement]] as consonance between the weaver's own key and the [[Auric Aria]]'s frequency, felt so deeply that it "becomes as much you as it is the song". That is two voices of equal weight, the Loom's baseline and the weaver's key, and two equal voices a phase $\phi_K$ apart add to
+
+$$\frac{\big\lvert 1 + e^{i\phi_K}\big\rvert^2}{4} = \frac{1 + \cos\phi_K}{2}$$
+
+of their full power. Inside the lock, Adler's equation holds the key at a steady offset $\sin\bar\phi_K = \delta\omega/\Omega_{\text{Lock}}$, and identity noise $\sigma_I$ jitters it around that offset. Inner conflict is both the offset and the jitter; unwavering purpose is neither.
+
+- **At the edge of the lock** the offset reaches $90^\circ$. The voices are in quadrature, and half the power still adds.
+- **Past the edge** the phase runs at $\omega_{\text{Beat}}$, its mean cosine averages away, and the factor bottoms out at one half. The rest of the damage lands in [[Discordant Interference]].
+
+Only the key's voice carries the weaver's noise; the baseline is the [[Auric Aria]]'s, and it is always clean. That is why a lost key halves a flawless performance instead of erasing it, and why an off-center signal is not quieter: it is somewhere else. A neutral weaver ($L_M = 50$, $c_K = \tfrac12$) performs at
+
+$$Q_P^{(0)} = 50\times\tfrac34 = 37.5, \qquad \text{Performance factor} = \frac{Q_P}{37.5}$$
+
+**Remaining Cost $C_R$: music as regenerative feedback.** [[Music as Catalyst]] adds no power; it takes the cost off the weaver. In the chain, it is a feedback loop:
+
+1. The [[Primary Instrument]] sounds in phase with the spell's internal lock, through [[Rhythmic Entrainment]].
+2. The Loom's response returns into the drive along the feedback lines of [[Echoing Bonds]].
+3. Every share of the drive that the loop returns is a share the weaver's own essence no longer pays.
+
+A loop that returns a fraction $\mathcal{L}$ of the drive leaves:
+
+$$C_R = 1 - \mathcal{L}, \qquad \mathcal{L} = 0.9\;\frac{R_T}{100}\;\frac{\mu_{\text{Song}}}{100}$$
+
+$\mu_{\text{Song}}$ is how much of the song is happening *in* the weaver, in four rungs, because nobody is ever 72% offloaded:
+
+| Rung | $\mu_{\text{Song}}$ | One fireball costs |
+| --- | --- | --- |
+| No music, pure will | 0 | One push-up |
+| A basic rhythm | 45 | One sit-up |
+| Harmony, feeling the beat | 78 | One circle of the arm |
+| A song personally yours | 100 | One flick of the wrist |
+
+The loop can only return what couples, which is why $R_T$ is inside it: a perfectly played song with no feeling and no history behind it carries almost nothing. And the loop never closes alone. While fuel, song, performer and intention are four separate voices, the best a song can return is nine tenths. That is canon's cost ladder, about a tenfold spread from a push-up on pure will to the flick of a wrist. Dividing by $C_R$ is the regenerative amplifier: output per unit of self-paid drive grows as $1/(1 - \mathcal{L})$, the closed-loop gain of positive feedback.
+
+**The full readout.**
+
+$$\text{Spell Potency} = 100\%\times\frac{Q_F\cdot\dfrac{R_T}{50}\cdot\dfrac{Q_P}{37.5}}{C_R}$$
+
+Each factor is exactly $1$ at the standard casting. The numerator is $P_{\text{Spell}}$ counted in standard castings: $Q_F$ carries the supply, $R_T/50$ the honest gain and the channel, and $Q_P/37.5$ the coherence and the lock. The faders stop at $100$, so the thematic factor tops out at $2$ and the performance factor at $8/3$. Anything the emotional gain would add past the top of the fader is the [[Catalytic Abyss of Emotion]], outside what the ledger can measure: power and interference without bound.
+
+**Worked example: a standard fireball, kept to a rhythm.** Take Tier 1 fuel, every principle at 50, a [[Cindergale]] Root and a basic rhythm ($\mu_{\text{Song}} = 45$):
+
+$$Q_F = 1, \qquad \frac{R_T}{50} = \frac{50}{50} = 1, \qquad \frac{Q_P}{37.5} = \frac{50\times 0.75}{37.5} = 1, \qquad C_R = 1 - 0.9\times 0.50\times 0.45 = 0.7975$$
+
+$$\text{Spell Potency} = \frac{100\%\times 1\times 1\times 1}{0.7975} = 125\%$$
+
+The desk displays Performance Quality as 38 and Remaining Sacrifice Cost as 80, both rounded. The arithmetic runs on 37.5 and 79.75, which is why the result is $125\%$ and not $127\%$. Nothing is short of neutral, so [[Discordant Interference]] is $0\%$ and the casting is Stable. It is the same push-up buying a quarter more fireball, because the rhythm carried a fifth of the price.
+
+Up the ladder, the same neutral weaver reads $100\%$, $125\%$, $154\%$ and $182\%$. Raise both [[Emotional Authenticity]] and [[Echoing Bonds]] to 100 under a song that is personally theirs, and the remaining cost falls to its floor, $C_R = 0.1$: the same push-up now buys $2{,}000\%$.
+
+**[[Discordant Interference]]: what is missing.** [[Mastery Over Chaos]] is what turns noise into form, so wherever a stage falls short, noise comes through. [[Discordant Interference]], the chance that a casting turns on its own weaver, is driven by what is *absent*, not by what is loud:
+
+$$I_D = \min\!\Big(100,\;\; s_F \sum_b d_b\,\max\!\big(0,\; 50 - L_b\big) \;+\; 12\,n_H \;+\; 45\,[\text{Tier 0}] \;+\; 5\,[\text{Tier} \geq 3]\Big)$$
+
+$n_H$ is the number of harmonies woven over the Root, a bracket is $1$ when its condition holds and $0$ otherwise, and the result is rounded to a whole percent.
+
+- **The weights follow the chain.** Precision comes first, because an undefined spell has no band to occupy, and the noise a channel admits grows with the bandwidth it leaves open. Certainty and Focus come next. Then the carrier: a drifting center corrupts everything downstream of it, and past the lock it beats. The two lubricants weigh least, because a hollow feeling or a stranger as target makes a spell weaker more than wilder.
+- **Only shortfalls count.** A principle above neutral cannot buy back a missing one. A chain is only as clean as its dirtiest stage.
+- **Complexity.** Each harmony (one for a [[Dyad Chord]], two for a [[Triad Chord]]) adds $12$, because it is one more carrier that must stay locked.
+- **Fuel strain.** Fuel does not create risk by itself. Paying honestly for a spell one has the clarity to hold is the safest magic there is. But heavier fuel drives more energy through whatever gap is already open, which is why $s_F$ multiplies the shortfalls.
+- **Fuel floors.** Tier 0 adds $45$: an offering with no meaning carries no priced information, so it reaches the Loom as noise by definition. Tiers 3 and 4 add a floor of $5$: past life force, the weaver is burning identity, which needs [[Composure]] afterwards to stay out of a [[Corruption]] spiral, so such a casting never reads as entirely safe.
+
+**Why it turns on the weaver.** Linear media are reciprocal: the Loom's response is symmetric, $G(\mathbf{r}, \mathbf{r}_0) = G(\mathbf{r}_0, \mathbf{r})$. The path that carried the drive out from the [[Soul Leitmotif]] at $\mathbf{r}_0$ carries whatever the Loom cannot absorb straight back to it. The reading gives the casting's state:
+
+| Reading | State |
+| --- | --- |
+| $I_D < 35$ | Stable |
+| $35 \leq I_D < 65$ | Straining |
+| $I_D \geq 65$ | Discordant Interference: the spell backfires on its weaver |
+| Potency $> 350\%$ with $I_D < 20$ | High Coherence: a lot of spell, and nothing about it coming apart |
+| All four miracle conditions at once | The ceiling is gone (see below) |
+
+**Canon's worked failure, by the numbers.** [[The Principles of Magic]] analyzes a delusional [[Crystal]] [[Spellweaver]] cutting enchanted cloth with war scissors, fueled by burned memories, the target a former lover they no longer remember. On the desk the reading is Key 82, Precision 8, Authenticity 78, Focus 88, Certainty 95 and Bonds 6, with Tier 3 fuel, no music and a [[Cindergale]] Root:
+
+$$L_M = \frac{8 + 2\times 88 + 95}{4} = 69.75, \qquad Q_P = 69.75\times\frac{1 + 0.82}{2} = 63.47, \qquad R_T = \frac{78 + 6}{2} = 42$$
+
+$$\text{Spell Potency} = 100\%\times 4\times\frac{42}{50}\times\frac{63.47}{37.5} = 569\%$$
+
+$$I_D = 1.6\times\big(1.1\times 42 + 0.1\times 44\big) + 5 = 85.96 \approx 86\% \quad\Longrightarrow\quad \text{backfire}$$
+
+With only Precision and Bonds at neutral, the same weaver would have cast $997\%$ at $5\%$ interference, a High Coherence casting. Canon's verdict, in numbers: drastically reduced in power, the cloth damaged anyway, and the [[Discordant Interference]] thrown back at the weaver.
+
+**[[Miracle Magic]]: a division by zero.** The loop gain cannot reach one while fuel, song, performer and intention are four voices. A miracle is the moment they lock into one. On the desk, that means four conditions at once:
+
+- **Tier 4 fuel**
+- **$R_T \geq 85$**
+- **$Q_P \geq 85$**
+- **$\mu_{\text{Song}} \geq 85$**
+
+Then the Loom "cannot distinguish between the sacrifice and the spell, between the fuel and the performer, between the song and the intention". They share one [[Fundamental Frequency]], the loop gain is exactly one in magnitude and in phase, and the remainder vanishes:
+
+$$\lvert\mathcal{L}\rvert = 1,\;\; \arg\mathcal{L} = 0 \quad\Longrightarrow\quad C_R = 0 \quad\Longrightarrow\quad \text{Spell Potency} \to \infty$$
+
+This is the Barkhausen condition. An amplifier whose loop gain reaches unity in phase stops amplifying and starts oscillating, sustaining itself from its own song. The lock is a snap, not a slope. Like every lock in this document it is a threshold, so a spell one condition short sits on the last-tenth floor, $C_R = 0.1$, not anywhere near zero. The ceiling does not rise; there is no ratio left for a ceiling to cap. The infinity belongs to the ledger, not to the energy: no oscillator delivers infinite output at the Barkhausen point, because it is bounded by what it saturates against, and a miracle saturates against the offering. Every limit it meets is dissolved by an equal share of the sacrifice, until the sacrifice is spent completely.
+
+[[Elara]]'s miracle reads Key 96, Precision 88, Authenticity 100, Focus 92, Certainty 90 and Bonds 100. Her fuel was Tier 4, motherhood itself, and the song of [[Sedrick]] carried the rest ($\mu_{\text{Song}} = 100$). That gives $R_T = 100$ and $Q_P = 90.5\times 0.98 = 88.7$, so all four conditions hold and $C_R = 0$. Change one thing and burn a Tier 3 memory instead: the same casting reads $18{,}921\%$, an enormous spell and not a miracle. She paid in full. Elara was hollowed, unable to feel the love she had surrendered, which is exactly what it means for a miracle to be bounded by nothing but its offering.
 
 #### The [[Pure Light]] / [[Auric Structure]] Ratio and [[Aetherlight]] Vulnerability
 
-Because [[Pure Light]] ($\alpha_L$) is the proportion of a being's existence rooted in pre-material [[Consciousness]], it determines how *responsive* a being is to the [[Dual Confluence Stream]], and therefore how vulnerable it is when that stream becomes hostile.
+Because [[Pure Light]] ($\alpha_L$) is the proportion of a being's existence rooted in pre-material [[Consciousness]], it sets how strongly a change in the ambient field moves the body, $\delta|\psi_{\text{Body}}|^2 \approx \chi_0\,\alpha_L\,\delta|\psi_{\text{Amb}}|^2$. It determines how *responsive* a being is to the [[Dual Confluence Stream]], and therefore how vulnerable it is when that stream becomes hostile.
 
-High-[[Auric Structure]] organisms ($\alpha_S \to 1$) are anchored primarily in the geometric stability of the [[Auric Heptacode]]'s structural threads. Their [[Soliton]] lattices are topologically robust. Minor fluctuations in ambient [[Aetherlight]] density barely disturb them, they have little [[Pure Light]] to perturb. A "cockroach" can walk through the edge of a [[Vibrational Fallout]] zone and emerge largely unaffected, because its homeostatic loop barely engages the [[Dual Confluence Stream]] to begin with.
+High-[[Auric Structure]] organisms ($\alpha_S \to 1$) are anchored primarily in the geometric stability of the [[Auric Heptacode]]'s structural threads. Their [[Soliton]] lattices are topologically robust. Minor fluctuations in ambient [[Aetherlight]] density barely disturb them, they have little [[Pure Light]] to perturb. An [[Ashfall Beetle]] can walk through the edge of a [[Vibrational Fallout]] zone and emerge largely unaffected, because its homeostatic loop barely engages the [[Dual Confluence Stream]] to begin with.
 
-High-[[Pure Light]] organisms ($\alpha_L \to 1$) are the opposite: their [[Soliton]] lattices are organized almost entirely around their [[Soul-Key]]'s [[Fundamental Frequency]]. They are exquisitely attuned to the [[Great Harmonic Loom]], and exquisitely vulnerable when it becomes unstable. A sprite, a slime, an elemental, these beings are not protected by structural redundancy. They are protected by *harmonic clarity*. When the ambient field grows noisy, their entire physical coherence is at risk.
+High-[[Pure Light]] organisms ($\alpha_L \to 1$) are the opposite: their [[Soliton]] lattices are organized almost entirely around their [[Soul-Key]]. They are exquisitely attuned to the [[Great Harmonic Loom]], and exquisitely vulnerable when it becomes unstable. A sprite, a slime, an elemental, these beings are not protected by structural redundancy. They are protected by *harmonic clarity*. When the ambient field grows noisy, their entire physical coherence is at risk.
 
 [[Humanity]]'s 75/25 ratio is the deliberate compromise the [[Auric Aria]] engineered: enough structural robustness to survive environmental hostility, and enough [[Pure Light]] to maintain conscious resonance with the [[Great Harmonic Loom]] and perform [[Spellweaving]] through her special engineered system of [[Soul Leitmotif]]s.
 
 | Species              | $\alpha_S$ | $\alpha_L$ | [[Aetherlight]] Vulnerability                    | Homeostatic Mechanism                                         |
 | -------------------- | ---------- | ---------- | ------------------------------------------------ | ------------------------------------------------------------- |
-| [[Formless Masses]]  | ~100%      | ~0%        | Near-immune, no [[Pure Light]] to perturb        | Purely geometric; no [[Soul-Key]]                             |
-| "Cockroach"          | 95%        | 5%         | Minimal                                          | Passive structural tolerance                                  |
+| [[Formless Masses]]  | ~100%      | ~0%        | Near-immune, no [[Pure Light]] to perturb        | [[Dissonance Core]] static; no [[Soul-Key]]                   |
+| [[Ashfall Beetle]]   | 95%        | 5%         | Minimal                                          | Passive structural tolerance                                  |
 | [[Humanity]]         | 75%        | 25%        | Moderate, [[Spellweaver]]s elevated              | [[Soul Leitmotif]] active/passive attractor                   |
 | Dragon               | 55%        | 45%        | High, CBT arrays couple tightly to ambient field | Distributed [[Coherence-Binding Tissue]] arrays               |
 | [[Slime]]            | 25%        | 75%        | Very high, entire body is Light-threaded CBT     | Distributed CBT matrix, no structural buffer                  |
 | [[Elemental Sprite]] | 10%        | 90%        | Critical, ambient disruption threatens existence | Direct [[Great Harmonic Loom]] attunement; no physical buffer |
 
+#### [[Auric Structure]] as the Size Regulator — [[Megalophic]] [[Pure Light]]
+
+[[Auric Structure]] does more than make a body durable. **It is what regulates size.** A structural body is a lattice-pinned eigenmode: the cut-and-project rule admits a fixed set of [[Soliton]] sites for the body plan the [[Auric Aria]] wove (and much later propagated by DNA), and a body cannot add sites its plan does not admit. Feed a structure-dominated creature more than it needs and the surplus has nowhere to go. It is spent or shed, and the body stays the size its weave allows.
+
+[[Pure Light]] has no such limit. The [[Pure Light]] part of a body is a flat-top field held by its [[Soul-Key]], not a lattice of admitted sites, and a flat-top field has a fixed *height*, the plateau $3g_1/4g_2$, but no fixed *width*. Add norm to it and it cannot become denser. It can only become bigger. In a structure-dominated body the lattice is the template and the field fills it, so the size belongs to the weave. In a Light-dominated body the relation reverses: the field is the template, and [[Auric Structure]] crystallizes around whatever volume it reaches, the same mechanism that turned [[Elemental Sprite]]s into [[Slime]]s (see *Evolutionary Drift* below). Hide, bone and pelt follow the light outward:
+
+$$V \approx \frac{N}{3g_1/4g_2}, \qquad \frac{dV}{dt} \approx \alpha_L\,\frac{\dot N_{\text{Intake}}}{3g_1/4g_2}$$
+
+$\dot N_{\text{Intake}}$ is the norm a being draws from the [[Dual Confluence Stream]], and $\alpha_L$ is the share of its body that structure does not pin. Real physics shows the same behavior: cubic-quintic media support "liquid light," flat-top states whose density saturates while their size grows with the light poured into them, and quantum droplets in ultracold gases do the same with atoms.
+
+This is the origin of [[Megalophic]] [[Pure Light]]: the [[Pure Light]] beings that grow enormously, the behemoths. They feed on magic, drawing the [[Dual Confluence Stream]] straight through their [[Coherence-Binding Tissue]], and because [[Auric Structure]] is too small a share of their bodies to regulate size, what they eat becomes volume. They grow until the land's supply can no longer feed what they have become. Their size is set by the saturation of the land, not by any body plan, which is why they appear in the [[Age of Behemoths]], when control of the [[Dual Confluence Stream]] raised that saturation across [[Arcanoria]], and why they had largely disappeared by the later [[Ages]] Because the plateau only exists where $g_2 > 0$, [[Megalophic]] growth is also one more thing that can happen only on [[Arcanoria]].
+
+The rule mirrors the rest of the spectrum: **[[Auric Structure]] is permanence and proportion. [[Pure Light]] is growth without a limit.**
+
 #### When the Homeostatic Loop Fails
 
-If ambient [[Aetherlight]] density rises faster than the body can up-regulate its quintic resistance, as occurs in [[Vibrational Fallout]] zones, near active [[Leylines]] over-extraction sites, or in the immediate aftermath of a [[Wolf Bomb]] detonation, the body's [[Soliton]] lattice begins experiencing subcritical instability. The [[Soul-Key]]'s attractor signal is progressively drowned out by ambient noise. 
+If ambient [[Aetherlight]] density rises faster than the body can up-regulate its quintic resistance, as occurs in [[Vibrational Fallout]] zones, near active [[Leylines]] over-extraction sites, or in the immediate aftermath of a [[Wolf Bomb]] detonation, the body's [[Soliton]] lattice begins experiencing subcritical instability. The [[Soul-Key]]'s attractor signal is progressively drowned out by ambient noise. In formal terms, the ambient field detunes the body's frequency and inflates its amplitude, which shrinks the locking range $\Omega_{\text{Lock}}$ until the soul can no longer capture the body. Inside a Wolf zone it is worse: the strained, gap-riddled spectrum offers the body no clean frequency to lock *to*. The whole failure can be read off one ratio, the body's detuning measured against its shrinking locking range:
 
-Without the [[Fundamental Frequency]] to cohere around, matter does not know what shape it is supposed to hold.
+$$D(t) = \frac{\lvert\omega_{\text{Body}}(t) - \omega_S\rvert}{\Omega_{\text{Lock}}(t)}, \qquad \Omega_{\text{Lock}} = \frac{\lambda}{\hbar_A}\frac{\lvert\psi_{\text{Soul}}\rvert}{\lvert\psi_{\text{Body}}\rvert}$$
+
+While $D < 1$ the soul still holds the body. As the ambient field inflates $\lvert\psi_{\text{Body}}\rvert$, $\Omega_{\text{Lock}}$ shrinks and $D$ climbs; the stages below are the road from $D \ll 1$ to $D > 1$.
+
+Without its key to cohere around, living matter does not know what shape it is supposed to hold.
 
 This manifests in progressive stages documented by [[Cadmus Tacet]]:
 
-- **Stage 1 — Resonance Pressure:** The body's [[Soliton]] lattice vibrates above its stable plateau. Experienced as physical pain, sensory overstimulation, [[Flux]] dysregulation. The [[Soul-Key]] attractor is still functioning but working against resistance.
+- **Stage 1 — Resonance Pressure** ($D$ rising, still $< 1$): The body's [[Soliton]] lattice vibrates above its stable plateau. Experienced as physical pain, sensory overstimulation, [[Flux]] dysregulation. The [[Soul-Key]] attractor is still functioning but working against resistance.
 
-- **Stage 2 — [[Coherence]] Fraying:** The topological invariants of peripheral [[Soliton]] clusters begin degrading. The boundary between self and environment becomes physically ambiguous. [[Spellweaver]]s lose precision; [[Crystal]] bindings shatter spontaneously. In high-[[Pure Light]] beings, partial loss of physical definition occurs — edges of the body begin to blur into the ambient [[Dual Confluence Stream]].
+- **Stage 2 — [[Coherence]] Fraying** ($D \approx 1$ at the body's periphery): The topological invariants of peripheral [[Soliton]] clusters begin degrading. The boundary between self and environment becomes physically ambiguous. [[Spellweaver]]s lose precision; [[Crystal]] bindings shatter spontaneously. In high-[[Pure Light]] beings, partial loss of physical definition occurs — edges of the body begin to blur into the ambient [[Dual Confluence Stream]].
 
-- **Stage 3 — [[Static Criticality]] of Tissue:** Localized regions of the body's [[Soliton]] lattice enter supercritical cascade — the Cubic-Quintic stabilizer is overwhelmed and the runaway cubic term dominates locally. This is [[Arcanoria]]'s equivalent of radiation poisoning: not cellular death but [[Soliton]]ic decoherence of living matter. The [[Soul-Key]] is still present but can no longer reach the tissue it is supposed to anchor.
+- **Stage 3 — [[Static Criticality]] of Tissue** (local $\kappa > 1$): Localized regions of the body's [[Soliton]] lattice enter supercritical cascade — the Cubic-Quintic stabilizer is overwhelmed and the runaway cubic term dominates locally. This is [[Arcanoria]]'s equivalent of radiation poisoning: not cellular death but [[Soliton]]ic decoherence of living matter. The [[Soul-Key]] is still present but can no longer reach the tissue it is supposed to anchor.
 
-- **Stage 4 — Full Decoherence:** The homeostatic loop collapses entirely. The body's [[Soliton]] clusters disperse into [[Primal White Noise]]. This is not merely biological death, it is ontological erasure. The [[Fundamental Frequency]] of the [[Soul-Key]] no longer has a physical instrument to resonate through. The note does not die. But the instrument that was playing it ceases to exist. This is how [[Slime]]s are killed by [[Cadmus Tacet]]. The body doesn't dissolve entirely unless its entire anchor as with the [[Dissonance Core]]s of the [[Atonalis]] and [[Formless Masses]].
+- **Stage 4 — Full Decoherence** ($D > 1$ everywhere): The homeostatic loop collapses entirely. The [[Soul-Key]] can no longer capture any part of the body and decouples from it: this is death. It is not erasure. The [[Soul-Key]] and its [[Fundamental Frequency]] leave along [[The First Overtone]], and the body stays behind as a corpse, held by the [[Primordial Star]]s like any other matter (see *What Death Leaves Behind* below). Everything the body held above the stellar floor, its living density and its share of the [[Dual Confluence Stream]], drains away; the vessel does not. The note does not die. The instrument simply stops being played. This is how [[Slime]]s are killed by [[Cadmus Tacet]]. The only bodies that dissolve instead are the ones that never had a key: the [[Atonalis]] and the [[Formless Masses]], held together by a [[Dissonance Core]] rather than by the stars.
 
 [[Spellweaver]]s are more vulnerable than ordinary people in high-saturation zones precisely because their $\alpha_L$ contribution is awakened and actively transmitting. The same attunement that makes [[Spellweaving]] possible makes the body a more responsive antenna to ambient instability. A commoner walks through a [[Vibrational Fallout]] zone and feels ill. A [[Spellweaver]] walks through the same zone and risks Stage 2 [[Coherence]] Fraying within a single [[Bar]], because their [[Soul Leitmotif]] is broadcasting, and the corrupted field broadcasts back.
 
@@ -26243,9 +29502,48 @@ This is why [[Leylines]] over-extraction does not merely deplete a resource. It 
 
 _"The body is not the source of the song. It is what the song agrees to become when it decides to stay." — [[Auric Order]], on the nature of life and [[Pure Light]]_
 
+#### What Death Leaves Behind — Bodies, [[Rose Seed]]s and [[The First Overtone]]
+
+Death is the moment a [[Soul-Key]] stops capturing its body. In the composition formula above, the $\sqrt{\alpha_L}\,\psi_{\text{Soul}}$ component leaves, and what remains is $\sqrt{\alpha_S}\,\psi_{\text{Structure}}$: the vessel.
+
+**The body remains.** The vessel was woven from consonant [[Auric Structure]], and consonant structure is exactly what the [[Primordial Star]]s hold, everywhere, with or without a [[Consciousness]] of its own. A corpse is held the same way a stone is held: by the [[Auric Aria]]'s attention in starlight, at the stellar floor. With no [[Soul-Key]] pulling it toward a living plateau, it settles from living density toward the floor and then decays the ordinary way, as biology rather than as [[Soliton]] dispersal. Death on [[Arcanoria]] leaves bodies behind because the stars do not stop holding matter when a soul stops holding it. What remains is whatever was structure. A human or a beast leaves a whole body, a [[Slime]] leaves the gel husk of the substrate it grew, and a being of 100% [[Pure Light]], which never had a vessel, leaves no body at all.
+
+**The exception: what never had a key.** The [[Atonalis]] and the [[Formless Masses]] have a [[Fundamental Frequency]] but no [[Soul-Key]]. Their structure is dissonant, woven out of tune with the [[Consonance]] the [[Primordial Star]]s enforce, so it was never the stars' to hold. (An [[Atonalis]] born from a [[Spellweaver]] is no exception: the body that hatches from the [[Dissonance]] cocoon is no longer the consonant body that entered it.) What held it was the static of the [[Dissonance Core]]. When that core is destroyed or starves, the stars have nothing to take over, and the body dissolves into static.
+
+One part survives. The [[Resonance Anchors]] inside a [[Dissonance Core]] are the fragments of absorbed [[Consciousness]] that were once truly locked: the good qualities of a soul that could have grown into something beautiful, hijacked by the wound rather than created by it. They are the only consonant structure the creature contains, so they are the only part the stars will hold. With the dissonant body gone from around them, they settle into the densest, most stable periodic form available, a fixed approximant, and **fossilize into a [[Rose Seed]]**. That is why every slain [[Atonalis]] drops one, why the seed's rarity, purity and size scale with the anchors the creature had gathered, and why a [[Rose Seed]] has no purified form: it already is the purified state of a [[Dissonance Core]]. Planted, it grows [[Fated Flower]]s in patterns of [[Auric Geometry]] and cymatics, because what fossilized was an eigenmode of the [[Auric Heptacode]] all along.
+
+**Every [[Consciousness]] rejoins [[The Eternal Symphony]].** Whatever the body does, the [[Consciousness]] that leaves [[Arcanoria]] goes one way, along the [[Auroral Ribbons]]. The soul and its [[Fundamental Frequency]] decouple from the vessel and enter the causal flow of [[The First Overtone]] as potential [[Flux]], until memory and identity collapse into a note within [[The Eternal Symphony]]. Where [[Vibrational Density]] is high enough, at [[Sacred Site]]s and attuned temples, the passage becomes visible in the [[Auroral Ribbons]]. The slain [[Atonalis]] goes there too: its body to static, its anchors to a seed, its [[Consciousness]] to the song.
+
+The pull is not gentle. [[The First Overtone]] is the cosmic object of highest [[Vibrational Density]], and a [[Soul-Key]] that has lost its body is anchored nowhere: no vessel to resonate through, no [[Lunehymn]] reaching it through the [[Symphonic Veins]]. Call $\Gamma_{\text{FO}}$ the rate at which the current carries an unanchored key away. Nothing ordinary can hold a key against it.
+
+**The rare exceptions: proxy containers.** A few things can hold a [[Soul-Key]] as a *proxy*. They take over both jobs the body and the silver were doing: they keep the key's comb locked, and they give it a resonator to drive, so that a body (or a body's equivalent) can be consolidated from [[Resonance]] around it. A container holds a key only while its capture rate beats the current:
+
+$$\Omega_C(t) \;\geq\; \Gamma_{\text{FO}} \qquad \text{and} \qquad \lvert\omega_S - \omega_C\rvert \leq \Omega_C(t)$$
+
+$\Omega_C$ is the container's locking range and $\omega_C$ its own resonance. Both scale with the container's [[Coherence]], which decays unless something feeds it:
+
+$$\Omega_C(t) = \Omega_C^{(0)}\,\frac{Q_C(t)}{Q_C^{(0)}}, \qquad \frac{dQ_C}{dt} = -\frac{Q_C}{\tau_C} + W(t)$$
+
+$Q_C$ is the container's quality, $\tau_C$ how long it holds unaided and $W(t)$ whatever sustains it: worship, a resupply of [[Lux Aeterna]], the [[Resonance]] sealed into a [[Magical Relic]]. When the container is destroyed, $Q_C$ drops to zero, $\Omega_C$ falls below $\Gamma_{\text{FO}}$, and the key is released at once. That is why only an *exceptional* [[Coherence]] container can do this at all, and why the canonical cases are so few:
+
+- **[[Flesh-Binding Ritual]]s with [[Outer God]]s.** An [[Outer God]] fills the [[Soul Leitmotif]] of a willing host it resonated with, and an [[Anthropomorphic Shape]] is consolidated from [[Resonance]] around that gem. The [[Flesh-Casing Ritual]] is the [[Spellweaver]]'s version: one's own [[Consciousness]] sealed inside one's own [[Soul Leitmotif]], the body reduced to a vessel. Destroy the gem and the self is released.
+- **An [[Outer God]] rerouting the current.** [[Lacrimosa]] holds the [[Consciousness]] of those tethered to her through [[Lux Aeterna]] and the [[Auroral Ribbons]], diverting them into her own [[Consciousness]] instead of [[The Eternal Symphony]]. When the [[Lux Aeterna]] runs out, the hollowed body dissolves into her [[Auroral Ribbons]] and the [[Consciousness]] snaps back into her.
+- **The [[Law of Relics]].** A handful of [[World-Bending Relics]] associated with magical permanence, such as the [[Eight-Winged Viola]] or the [[Law of Relics]] itself which is built from all of the hollowed and [[Lacrimosa]]'s own [[Consciousness]].
+- **A few [[Cursed Objects]]**, the dark mirror of the same permanence.
+- **The [[Stellar Legacy Score]].** The firmament itself becomes the container: a [[Legend]]'s key is bound into the core of a star and held there as a [[Constellation]] (see *What a Star Is* above). Liberation releases it, and it still ends in [[The Eternal Symphony]].
+
+A proxy delays the arrival or diverts it. It never creates a new kind of afterlife. Every container eventually breaks, liberates or runs dry, and what it held goes on along the current. And those who hold until the end of time, such as the [[Law of Relics]], exist so long as [[Cosmic Motion]] does.
+
+| What dies                                                               | What the body does                                                  | What remains                                                                            | Where the [[Consciousness]] goes                                               |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| A being with a [[Soul-Key]] (beast, [[Pure Light]] being, [[Humanity]]) | Stays, held by the [[Primordial Star]]s; decays as biology          | The vessel: whatever was [[Auric Structure]]                                            | [[The First Overtone]] → [[The Eternal Symphony]]                              |
+| [[Atonalis]] and [[Formless Masses]] (no [[Soul-Key]])                  | Dissolves into static when the [[Dissonance Core]] fails            | A [[Rose Seed]]: its [[Resonance Anchors]], fossilized                                  | [[The First Overtone]] → [[The Eternal Symphony]]                              |
+| A [[Soul-Key]] held by a proxy container                                | Consolidated from [[Resonance]] around the container while it holds | The container: a host's gem, a [[Magical Relic]], one of the [[Cursed Objects]], a star | Held until the container breaks or liberates it; then onward along the current |
+| Lifeless matter (stone, [[Sky Glass]], a sterile planet)                | Nothing dies; the stars hold it indefinitely                        | Itself                                                                                  | No [[Consciousness]] of its own                                                |
+
 #### [[Pure Light]] as the Hybridization Engine
 
-The next answer that cuts the middle of the entire [[Pure Light]] spectrum is: **Why [[Demi-Human]]s and Cross-Species Lineages Exist?**
+The next answer that cuts the middle of the entire [[Pure Light]] spectrum is: **Why [[Demi-Human]]s, [[Humanoid]]s and Cross-Species Lineages Exist?**
 
 Standard biological reproduction is a structural process: two [[Auric Structure]]-dominant organisms contribute compatible lattice geometries, and the offspring inherits a blended [[Soliton]] architecture. This works cleanly within a species because their topological invariants, their [[Chern Number]]s, are close enough that the [[Great Harmonic Loom]] can interpolate a stable eigenmode for the offspring without contradiction.
 
@@ -26253,23 +29551,27 @@ Across species, however, [[Chern Number]]s diverge. The [[Auric Heptacode]] geom
 
 **This is where [[Pure Light]] overrides the structural rules entirely.**
 
-[[Pure Light]] — the $\psi_{\text{Soul}}$ component of a living being — is not subject to topological class constraints the way [[Auric Structure]] is. The [[Soul-Key]] is a [[Fundamental Frequency]], not a geometric lattice. Frequencies can harmonize across topological classes without needing to share a [[Chern Number]]. Two [[Soul-Key]]s that are **frequency-compatible** — whose [[Fundamental Frequency]] produce constructive interference rather than destructive — can produce a viable $\psi_{\text{Soul}}$ for an offspring even when their structural geometries are entirely incompatible.
+[[Pure Light]] — the $\psi_{\text{Soul}}$ component of a living being — is not subject to topological class constraints the way [[Auric Structure]] is. The [[Soul-Key]] is a key, a locked set of frequencies, not a geometric lattice. Frequencies can harmonize across topological classes without needing to share a [[Chern Number]]. Two [[Soul-Key]]s that are **frequency-compatible** — whose tonics sit close enough to a consonant ratio to lock together — can produce a viable $\psi_{\text{Soul}}$ for an offspring even when their structural geometries are entirely incompatible.
 
-The offspring's [[Pure Light]] component is thus not inherited geometrically but acoustically: it is a new [[Fundamental Frequency]] that resolves the harmonic tension between the two parent frequencies, producing a note that neither parent could produce alone. The body, the [[Auric Structure]] component, then crystallizes around that new frequency as its attractor, finding whatever eigenmode of the [[Great Harmonic Loom]] is closest to the new [[Soul-Key]]'s vibrational signature.
+The offspring's [[Pure Light]] component is thus not inherited geometrically but acoustically: it is a new key, locked by the same [[Lunehymn]] that holds every [[Soul-Key]], that resolves the harmonic tension between the two parent frequencies, producing a note that neither parent could produce alone. The body, the [[Auric Structure]] component, then crystallizes around that new frequency as its attractor, finding whatever eigenmode of the [[Great Harmonic Loom]] is closest to the new [[Soul-Key]]'s vibrational signature.
 
 This is why cross-species fertility in [[Arcanoria]] is governed by [[Pure Light]] compatibility, **not only structural genetics**:
 
-$$\nu_{\text{Offspring}} = f(\nu_{\text{Parent}_1}, \nu_{\text{Parent}_2}) \quad \text{where} \quad \Delta\phi_{\text{Souls}} < \phi_{\text{Threshold}}$$
+$$\left\lvert \frac{\omega_1}{\omega_2} - \frac{p}{q} \right\rvert \;\leq\; W_{p/q}, \qquad \omega_{\text{Offspring}} = \frac{\omega_1}{p} = \frac{\omega_2}{q}$$
 
-If the phase difference between two parents' [[Soul-Key]] frequencies falls below the compatibility threshold $\phi_{\text{Threshold}}$, a viable offspring [[Fundamental Frequency]] can be resolved by the [[Great Harmonic Loom]]. If it exceeds it, the frequencies cannot harmonize and no stable $\psi_{\text{Soul}}$ emerges, biological incompatibility at the ontological level, not the chemical one.
+$\omega_1$ and $\omega_2$ are the tonics of the two parents' [[Soul-Key]]s, and $p/q$ is the simple ratio they sit near: an octave $2/1$, a fifth $3/2$, a fourth $4/3$. Two oscillators can only lock together inside a narrow band around such a ratio, called an *Arnold tongue*, and the band $W_{p/q}$ narrows quickly as $p$ and $q$ grow, so consonant pairings lock easily and complex ones barely at all. When the parents' tonics fall inside a tongue, the [[Great Harmonic Loom]] resolves the offspring's key on their shared fundamental $\omega_1/p = \omega_2/q$: the tone both parents' notes are harmonics of, which neither parent sounds. That is the "note neither parent could produce alone" in exact form, the same effect our own ears know as the missing fundamental. If the tonics fall outside every tongue, the frequencies cannot harmonize and no stable $\psi_{\text{Soul}}$ emerges: biological incompatibility at the ontological level, not the chemical one.
 
-Any species carrying less than 70% [[Auric Structure]] — or possessing dedicated [[Coherence-Binding Tissue]] — carries enough [[Pure Light]] that its [[Soul-Key]] frequency can bridge topological gaps. This is why elves, nymphs, sprites, and most [[Demi-Human]] lineages can crossbreed with [[Humanity]] or with each other: their $\alpha_L$ is high enough that their [[Pure Light]] component dominates the reproductive equation, and structural incompatibility becomes secondary.
+Any species carrying less than 65% [[Auric Structure]] — or possessing dedicated [[Coherence-Binding Tissue]] — carries enough [[Pure Light]] that its [[Soul-Key]] frequency can bridge topological gaps. This is why elves, nymphs, sprites, and most [[Demi-Human]] lineages can crossbreed with [[Humanity]] or with each other: their $\alpha_L$ is high enough that their [[Pure Light]] component dominates the reproductive equation, and structural incompatibility becomes secondary.
 
 #### Evolutionary Drift — How [[Elemental Sprite]]s Became [[Slime]]s
 
 [[Pure Light]] hybridization does not only occur through deliberate reproduction. It also occurs through prolonged environmental phase-lock: when a high-[[Pure Light]] being inhabits the same region of the [[Great Harmonic Loom]] for long enough, its [[Soul-Key]] frequency begins to entrain with the dominant [[Frequency Harmonics]] of that environment — the local [[Leylines]] [[Resonance]], the geological [[Crystal]] topology, the ambient [[Aetherlight]]/[[Lunehymn]] ratio of the land.
 
-Over generational timescales, this entrainment shifts the [[Fundamental Frequency]] of the lineage's [[Soul-Key]]s incrementally. As the [[Soul-Key]] frequency drifts, the [[Auric Structure]] component that crystallizes around it drifts with it, the body slowly reorganizes toward the eigenmode most stable in that local [[Great Harmonic Loom]] topology.
+Over generational timescales, this entrainment shifts the [[Fundamental Frequency]] of the lineage's [[Soul-Key]]s incrementally. Each generation the tonic is pulled a small fraction $\epsilon$ of the way toward the land's dominant frequency $\omega_{\text{Env}}$:
+
+$$\omega_S^{(g+1)} = \omega_S^{(g)} - \epsilon\left(\omega_S^{(g)} - \omega_{\text{Env}}\right) \quad\Longrightarrow\quad \omega_S^{(g)} = \omega_{\text{Env}} + \left(\omega_S^{(0)} - \omega_{\text{Env}}\right)(1-\epsilon)^{g}$$
+
+$g$ counts generations. The pull is strongest for lineages with the most [[Pure Light]], so $\epsilon$ grows with $\alpha_L$. As the [[Soul-Key]] frequency drifts, the [[Auric Structure]] component that crystallizes around it drifts with it, the body slowly reorganizes toward the eigenmode most stable in that local [[Great Harmonic Loom]] topology.
 
 This is the mechanism by which [[Elemental Sprite]]s beings of approximately 10% [[Auric Structure]] and 90% [[Pure Light]], evolved into [[Slime]]s over extended contact with [[Agromagical Enclave]]s and the land's [[Crystal]] lattice. 
 
@@ -26289,23 +29591,170 @@ This same drift principle applies across all evolutionary transitions along the 
 
 _"We did not grow roots in the soil. We grew a song from it. And eventually, the song needed somewhere to live." — [[Sprite-Light Conclave]] oral tradition, on the origin of [[Slime]]s_
 
+### Black Holes — The Cosmic Sneeze
+
+Almost every mechanism in this document exists to hold something in: the stars hold matter at the floor, the [[Stellar Veil]] holds the noise out, [[Lunehymn]] holds a key in tune. One mechanism exists to throw something out. It is the oldest expulsion reflex of the [[Known Universe]], and it is the original form of the logic that [[Civilization]] would one day weaponize as the [[Siphon-Type Wolf Bomb]].
+
+#### When an [[Alien Star]] Collapses
+
+An [[Alien Star]] is an [[Outer God]] the [[Stellar Veil]] has collapsed into a pearl: a defect trapped inside the layers (see *The [[Stellar Veil]]* above). The prisoner does not rest. When it pushes outward against its cell, the star swells, which is what a growing supergiant is. When the push fails, it falls back under the pull of its own [[Consciousness]]: an [[Outer God]]'s [[Fundamental Frequency]] acts on the star's field as a self-focusing drive $g_O$, and there is no [[Lunehymn]] anywhere outside [[Arcanoria]] to saturate it. The only thing that can arrest the fall is the lattice, and a lattice can only arrest a collapse below a critical norm $N_{\text{Arr}}$. Its scale is set by the same kind of threshold that governs the two-dimensional cubic equation, the Townes norm:
+
+$$N_{\text{Arr}} \;\gtrsim\; N_T = 11.70\,\frac{\hbar_A^2}{2m_S\, g_O}$$
+
+The lattice raises the threshold above $N_T$; it cannot remove it. Two fates follow:
+
+$$N_O \leq N_{\text{Arr}} \;\Rightarrow\; \text{neutron star}, \qquad\qquad N_O > N_{\text{Arr}} \;\Rightarrow\; \text{black hole}$$
+
+- **A neutron star is a super-prison.** The collapse is arrested at the densest packing the lattice can hold, and the [[Outer God]] is sealed tighter than before.
+- **A black hole is a sneeze.** Nothing in the [[Known Universe]] can arrest the fall. Left alone, the cubic blowup would tear the [[Auric Heptacode]] open from inside. So the [[Known Universe]] does the only thing left: it opens a one-way conduit through the [[Stellar Veil]] at that point and expels the [[Outer God]] into [[The Infinite Void]].
+
+#### The Sneeze — A One-Way Conduit Out
+
+The conduit is a hole in the boundary of reality, opened from inside: within a radius $r_s$ the leak to the outside jumps from $\gamma_N$ to $\gamma_h \gg \gamma_N$. Once open, it does not close at once. It is a sink, and the surrounding field obeys continuity:
+
+$$\frac{\partial n}{\partial t} + \nabla\cdot(n\,\mathbf{v}) = -\frac{2\gamma_h}{\hbar_A}\,n\;\Theta(r_s - r)$$
+
+$n = |\psi|^2$ is the field's density, $\mathbf{v}$ its flow velocity and $\Theta$ the step function. Outside the mouth, a steady drain of norm at the rate $Q$ forces an inward flow:
+
+$$4\pi r^2\, n(r)\, \lvert v(r)\rvert = Q \qquad\Longrightarrow\qquad \lvert v(r)\rvert = \frac{Q}{4\pi r^2\, n(r)}$$
+
+The inflow speeds up as it approaches the hole. Every wave in the field, starlight included, travels at the field's sound speed:
+
+$$c_s^2 = \frac{n}{m_\ast}\,\frac{\partial \mu}{\partial n}$$
+
+$\mu$ is the local chemical potential and $m_\ast$ the effective mass of the medium. $c_s^2 > 0$ is the condition for matter being stable at all: on living land it is $c_s^2 = 3g_1^2/(8g_2 m_S)$, and at the stellar floor the lattice supplies the stiffness. The **event horizon** is where the inflow catches up with sound:
+
+$$\lvert v(r_h)\rvert = c_s(r_h) \qquad\Longrightarrow\qquad r_h = \sqrt{\frac{Q}{4\pi\, n\, c_s}} \quad (\text{uniform } n,\, c_s)$$
+
+Inside $r_h$ the field falls inward faster than any wave it can carry. No pulse of starlight, no signal and no [[Coherence]] can travel back out. In an acoustic universe an event horizon is literal: it is the radius where reality's own sound is swept away faster than it can sing. Three canonical facts follow:
+
+- **There are no white holes.** A white hole would need waves to come back out of the conduit, and the far end of the conduit is [[The Infinite Void]], which has no lattice to carry a wave. The [[Stellar Veil]] exists precisely to forbid an outflow from the noise into ordered reality.
+- **A black hole starves.** The conduit keeps draining until there is nothing near it left to drain, $\tau_{\text{BH}} \approx N_{\text{Avail}}/Q$. Once it has run out of [[Soliton]]s and matter, it has nothing left to carry, and the [[Stellar Veil]] closes it.
+- **Hawking radiation is the universe sealing the wound.** A sonic horizon radiates. Its rim emits a thermal hiss whose characteristic energy is set by how steeply the flow crosses the speed of sound:
+
+$$E_H = \frac{\hbar_A\,\kappa_h}{2\pi}, \qquad \kappa_h = \left\lvert \frac{d}{dr}\Big(\lvert v\rvert - c_s\Big)\right\rvert_{r_h}$$
+
+  In-world, that hiss is the [[Known Universe]] trying to heal and seal the hole it opened: the same immunological system that converts stray [[Primal White Noise]] into cosmic radiation, working at the rim of the conduit.
+
+#### From Sneeze to Siphon
+
+The sneeze came first. It is the universe's own reflex: open a hole, and everything near it rushes toward the opening, because an emptied region draws the surrounding field in. The [[Resonance Siphon]] at the heart of the [[Siphon-Type Wolf Bomb]] is exactly that logic, turned inward and applied to [[Coherence]] on [[Arcanoria]]. The *Forced Sympathetic Merger* opens a topological vacuum, the saturable [[Leylines]] gain leaps toward its full $\Gamma_{\text{Ley}}$ where the density collapses, and the land rushes in. The only difference is where the drained norm goes:
+
+|                    | Black hole (the sneeze)                                                                 | [[Siphon-Type Wolf Bomb]] (the siphon)                                                                                  |
+| ------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Who opens the hole | The [[Known Universe]], through the [[Stellar Veil]]                                    | [[Civilization]], through a [[Strand Pool]] merger                                                                      |
+| What rushes in     | Every [[Soliton]] and every piece of matter within reach                                | The [[Leylines]] supply of the surrounding land                                                                         |
+| Where it goes      | Out through the conduit into [[The Infinite Void]]: $\Delta N_{\text{BH}} = \int Q\,dt$ | Into the merged packet, then into the blast: $\Delta N_{\text{Siphon}} = \frac{2}{\hbar_A}\iint \gamma_A \lvert\psi\rvert^2\,dV\,dt$ |
+| Purpose            | Expulsion of an [[Outer God]]                                                           | Annihilation                                                                                                            |
+| How it ends        | Starves, then the [[Stellar Veil]] seals it                                             | Detonates, then leaves necrotic [[Symphonic Veins]]                                                                     |
+
+The same physics with the opposite destination. What the universe designed to protect itself, [[Civilization]] learned to point at its own land.
+
+**Stellar deaths, side by side.** Not every dying star is a sneeze. A [[Primordial Star]]'s supernova is a synapse of the [[Auric Aria]] firing; an [[Alien Star]]'s is a prisoner's failed escape, ending as a neutron star or a black hole by the threshold above; and a [[Constellation]] does not explode at all: when it is liberated its core empties, and it fades into [[Stardust]] as described in *What a Star Is*.
+
 ### The Full Physics Chain
 
-The complete [[Soliton]] framework is internally consistent across every layer of [[Arcanoria]]'s physical reality:
+The complete [[Soliton]] framework is internally consistent across every layer of reality, from the [[Stellar Veil]] down to a single living body:
 
-| Layer                    | Physical Mechanism                                                                                                                   | [[Arcanoria]] Analog                                                                                           |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| Sub-lattice void         | Below [[Heptagonal Brillouin Zone]] boundary. No frequency identity possible                                                         | [[Primal White Noise]]                                                                                         |
-| Lattice floor            | Minimum resolvable BZ period; hard UV cutoff; discrete frequency bands begin                                                         | [[Auric Tone Length]] $\ell_A$ — the lowest note                                                               |
-| Particle                 | Driven-dissipative [[Soliton]] at CGLE fixed point; sustained by $\gamma_A = \gamma_L$                                               | [[Soliton]] = matter unit                                                                                      |
-| Solid matter             | Cymatic eigenmode of HBZ topology; discrete [[Soliton]] lattice geometry                                                             | [[Crystal]], geology is topology                                                                               |
-| Information              | Harmonic overtone encoding across HBZ bands; decoded by [[Luminance]]                                                                | [[Frequency Harmonics]]                                                                                        |
-| Living matter            | CGLE with [[Soul Binding]] constant $\lambda > 0$; field attracted toward $\psi_{\text{Soul}}$                                       | Living being, [[Soul-Key]] as homeostatic anchor                                                               |
-| Spellcasting             | Conscious modulation of $\lambda$ and $\gamma_A$ intake through [[Soul Leitmotif]]                                                   | [[Spellweaving]], thermodynamic transduction, not mana pool                                                    |
-| Time distortion          | Self-folding [[Soliton]]; all path amplitudes constructively interfere within bounded region                                         | [[Time Bubble]], nonlinearity enables self-collision                                                           |
-| Civilizational overreach | Regional $\gamma_A > \gamma_L$ cascade, matter slowly un-becomes before cascade                                                      | [[Static Criticality]], thermodynamic MAD condition                                                            |
-| Weapon — Fission         | [[Phase Singularity]] injection → $\mathcal{C} \notin \mathbb{Z}$ → HBZ collapse → $g_2 \to 0$ → cubic blowup                        | [[Null-Type Wolf Bomb]] — hum, [[Topological Null]], explosion, chattering [[Wolf Tone]]                       |
-| Weapon — Fusion          | Topological unification + [[Resonance Siphon]] → $\Delta N_{\text{Siphon}}$ from [[Leylines]] → $\kappa \gg 1$ → near-instant blowup | [[Siphon-Type Wolf Bomb]] — hum, merger tone, explosion, single dying note; [[Vibrational Fallout]] ecological scar |
+| Layer | Physical Mechanism | [[Arcanoria]] Analog |
+| --- | --- | --- |
+| Beyond the boundary | Uncapped noise: no lattice, no floor, no identity | True [[Primal White Noise]] in [[The Infinite Void]] |
+| Boundary | Seven-layer Bragg stack: sets the leak $\gamma_N$, lets noise penetrate only its first layers, traps forced-in defects, stays transparent at its own resonance | [[Stellar Veil]], reinforced from one layer to seven; [[Alien Star]]s; [[Lacrimosa]]'s tears |
+| Sub-lattice void | Below the healing length; outside the [[Window of Becoming]]; no frequency identity possible | Filtered [[Primal White Noise]] |
+| Hyperlattice | Periodic seven-dimensional lattice $\mathbb{Z}^7$ of period $a = \pi\ell_A$; true Brillouin zone is the 7-cube $[-1/\ell_A, 1/\ell_A]^7$, walled by $k_j = \pm 1/\ell_A$; seven-fold symmetry exact | [[Auric Heptacode]], [[Heptagonal Brillouin Zone]] (the [[Great Harmonic Loom]] is its living instrument over [[Arcanoria]]) |
+| Time-planes | The Heptacode cycle splits 7D into unison axis + three conjugate planes (heptagon, $\{7/2\}$, $\{7/3\}$) | [[Trinity Harmony]]: Present, Past, Future; the heptagram sigil |
+| Unpumped field | No gain: density far below the floor, $\xi \gg \ell_A$, everything drains at $\gamma_N$ | [[Proto-Universe]]: clusters, dust clouds, early nebulae |
+| Universal pump | Saturable starlight gain $\gamma_\star$ holding the stellar floor $\lvert\psi_\star\rvert^2 = \hbar_A^2/2m_S g_1\ell_A^2$; lattice-arrested collapse at $\kappa = 1$ | [[Primordial Star]]s; the [[Known Universe]]: lawful, sterile, keyless |
+| Lattice floor | Healing length at the stellar floor, $\ell_A = \xi(\lvert\psi_\star\rvert^2)$; Cantor-like gap hierarchy begins | [[Auric Tone Length]] $\ell_A$ — the lowest note |
+| The world | Cut-and-project slice: unison axis (periodic) + Present plane (quasiperiodic); matter where $\pi_\perp(\mathbf{n}) \in W$ | A heptagonal quasicrystal; fourteen-fold shadow |
+| Irreducible misfit | Seven-fold order is forbidden in 2D/3D ($2\cos\frac{2\pi}{7} \notin \mathbb{Z}$); misfit stored as phason strain | [[Auric Comma]], tempered by the stars everywhere and by the Loom on [[Arcanoria]] |
+| Planetary instrument | [[Leylines]] gain $\gamma_A$ and quintic saturation $g_2$ switched on over one world | [[Great Harmonic Loom]], [[Dual Confluence Stream]]: unique to [[Arcanoria]] |
+| Particle | Driven-dissipative flat-top [[Soliton]]: plateau $3g_1/4g_2$, sustained where saturable gain balances loss | [[Soliton]] = matter unit on living land |
+| Solid matter | Kuramoto locking of [[Soliton]]s past $K_c$; periodic approximant $p/q$ of $\rho = 2\cos(\pi/7)$, comma folded evenly into the unit cell | [[Crystal]], certainty as rounding, geology is topology |
+| Information | Harmonic overtone encoding across HBZ bands; Shannon–Hartley bound; decoded by [[Luminance]] | [[Frequency Harmonics]] |
+| Tonality | Mode-locked comb; in [[Arcanoria]] the only saturating term that can hold a soul's comb is the quintic $g_2$ | [[Soul-Key]], stabilized by [[Lunehymn]], the final force |
+| Living matter | CQCGLE plus [[Soul-Binding]] drive $\lambda\psi_{\text{Soul}}(t)$; injection locking within $\Omega_{\text{Lock}}$ | Living being, [[Soul-Key]] as homeostatic anchor |
+| Size | Flat-top states saturate in height and grow in width with norm; a structural lattice pins extent | [[Auric Structure]] as size regulator; Megalophic [[Pure Light]] |
+| Death | Soul term decouples; consonant structure stays held by starlight; dissonant structure dissolves; consonant anchors fossilize | Corpses remain; [[Rose Seed]]s; [[The First Overtone]] → [[The Eternal Symphony]] |
+| Proxy holding | Container holds a key while $\Omega_C(t) \geq \Gamma_{\text{FO}}$; $Q_C$ decays at $1/\tau_C$ unless fed | [[Flesh-Binding Ritual]]s, [[Lux Aeterna]], [[Law of Relics]], [[Cursed Objects]], [[Constellation]]s |
+| Stars | Core drive $\Gamma_{\text{Core}} > \gamma_N$ keeps a star lit; an empty core drains as $e^{-2\gamma_N t/\hbar_A}$ | [[Primordial Star]]s, [[Constellation]]s, [[Alien Star]]s, [[Stardust]] |
+| Awakening | Amplitude of [[Emotional Authenticity]] crosses $A_{\text{Motif}}$; the Wish locks the comb to one binding thread, $\lvert\omega_S - \omega_{b^\ast}\rvert \leq \Omega_{\text{Wish}}$ | [[Motif Awakening]], [[Soul Leitmotif]], [[Ornament]]s |
+| Spellcasting | Conscious modulation of $\lambda$, $\theta$ and $\gamma_A$ intake; Loom response $\delta\psi = G * s$ above $\theta_{\text{Spell}}$; reach $\ell_{\text{SL}}\ln(\lvert s\rvert/\theta)$ | [[Spellweaving]], thermodynamic transduction, not mana pool; [[Signal Loss]] |
+| Identity | Phase noise $\sigma_I^2$ in the key's comb; capacity ceiling $B\log_2\!\big(1/(1-e^{-\sigma_I^2})\big)$ | "Know thyself" as signal coherence |
+| Emotion | Gain $e^{\beta\eta_A A_E}$, jitter $2D_E T_c$, drift beyond $\Omega_{\text{Lock}}$ beats at $\sqrt{\delta\omega_E^2 - \Omega_{\text{Lock}}^2}$ | Anger strengthens, fear destabilizes; [[Catalytic Abyss of Emotion]] |
+| Potency | Cascaded chain: supply $Q_F$ × coupling $R_T/50$ × coherence $Q_P/37.5$, with the carrier summed as two equal voices, $(1+c_K)/2$; divided by $C_R = 1 - \mathcal{L}$, the regenerative feedback of the song; a standard casting is $100\%$ | Canon's Spell Potency equation; [[Triadic Virtues of Spellcraft]]; [[Music as Catalyst]] |
+| Backfire | Shortfalls below neutral admit noise, weighted by stage ($d_b$) and scaled by fuel strain ($s_F$); reciprocity of $G$ returns it to the source; stable below $35$, straining to $65$, backfire above | [[Discordant Interference]] |
+| Miracle | Loop gain $\lvert\mathcal{L}\rvert = 1$ in phase (Barkhausen): $C_R = 0$, a self-sustaining oscillation bounded only by the offering | [[Miracle Magic]]; [[Elara]] and the song of [[Sedrick]] |
+| Time distortion | Self-folding [[Soliton]]: the fold makes the action equal across its family of temporal paths, so their amplitudes add in phase; nonlinear self-trapping walls the region in; one two-state degree of freedom per fold, $2^n$ states after $n$ folds | [[Time Bubble]], [[Strand Pool]] |
+| Civilizational overreach | Regional $\Gamma_{\text{Ley}}$ falls toward $\gamma_N$: matter thins, then falls back to the stellar floor | [[Static Criticality]], thermodynamic MAD condition, dead land |
+| Chain reaction | Each burst frees unpaired gold; $k_{\text{Casc}} \approx \eta\, n_c N_c/m$; self-sustaining while $k_{\text{Casc}} > 1$ | [[Static Criticality]] fireworks, [[Emberwhisper]] |
+| Weapon — Fission | Comma-carrying dislocation ($\mathbf{B}_\perp \neq 0$) → sites leave $W$ → $g_2^{\text{Eff}} \to 0$ → cubic blowup → primary shell → firework front to $R_{\text{Blast}}$; ghosts trapped in many gaps | [[Null-Type Wolf Bomb]] — hum, [[Topological Null]], explosion, chattering [[Wolf Tone]] |
+| Weapon — Fusion | Phason drive through $\lvert\mathcal{C}_1 - \mathcal{C}_2\rvert$ controlled gap closings unifies the Chern classes + [[Resonance Siphon]] → $\Delta N_{\text{Siphon}}$ from [[Leylines]] → $\kappa \gg 1$ → near-instant blowup → larger primary shell; one ghost, one gap | [[Siphon-Type Wolf Bomb]] — hum, merger tone, explosion, single dying note; [[Vibrational Fallout]] ecological scar |
+| Aftermath | Quenched phason strain relaxing diffusively, $\tau \sim L^2/D_\perp$ | The [[Wolf Tone]] that outlives the survivors |
+| Expulsion | Collapse past $N_{\text{Arr}}$; sink with sonic horizon $\lvert v(r_h)\rvert = c_s$; thermal hiss $E_H = \hbar_A\kappa_h/2\pi$; starves in $N_{\text{Avail}}/Q$ | Black holes, the cosmic sneeze; neutron-star prisons; the template of the [[Resonance Siphon]] |
+
+### Real-World Anchors
+
+Every load-bearing mechanism in this document is anchored to an established mathematical or physical structure. The bridges between those structures are Arcanorian laws, and they always take the same step: *in a universe where frequency is geometry, facts that are separate in our world become a single pillar.*
+
+| Arcanorian claim                                                 | Real-world basis                                                                                                                                                                                                                                                                                                                                                                                             |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Solitons behave like particles                                   | KdV solitons travel without spreading and re-emerge intact from collisions; Zabusky & Kruskal named them in *PRL* 15, 240 (1965)                                                                                                                                                                                                                                                                             |
+| No periodic world can be seven-fold symmetric                    | Crystallographic restriction theorem: only 2-, 3-, 4-, and 6-fold rotations are possible in 2D and 3D lattices (trace argument: $2\cos\theta \in \mathbb{Z}$)                                                                                                                                                                                                                                                |
+| Seven-fold order needs a six-dimensional (or larger) Loom        | Higher-dimensional crystallographic restriction: minimum dimension $\psi(n)$; $\psi(7) = 6$, the smallest $n$ requiring six                                                                                                                                                                                                                                                                                  |
+| Ordered-but-aperiodic matter with sharp "impossible" diffraction | Quasicrystals: Shechtman, 1982 (ten-fold Al–Mn), Nobel Prize in Chemistry 2011                                                                                                                                                                                                                                                                                                                               |
+| Matter as a slice of a higher lattice through a window           | Cut-and-project method (Penrose tiling from 5D; decagonal quasicrystals indexed with five integers)                                                                                                                                                                                                                                                                                                          |
+| Seven threads → unison axis + three conjugate planes             | Eigen-decomposition of the cyclic permutation of $\mathbb{R}^7$: one fixed line plus three invariant planes rotating by $2\pi k/7$, $k = 1, 2, 3$                                                                                                                                                                                                                                                            |
+| Fourteen-fold shadow of a seven-fold zone                        | Friedel's law: diffraction patterns are centrosymmetric, so odd symmetries appear doubled                                                                                                                                                                                                                                                                                                                    |
+| 126 chord-walls, 5,040 vertices                                  | Voronoi cell of $A_6^*$ is the permutohedron of order 7 ($7! = 5040$ vertices, $2^7 - 2 = 126$ facets) — Conway & Sloane, *Sphere Packings, Lattices and Groups*                                                                                                                                                                                                                                             |
+| Discrete, hierarchical descent of frequencies                    | Cantor-like spectra of quasiperiodic systems (Fibonacci Hamiltonian); Bellissard's gap-labelling theorem                                                                                                                                                                                                                                                                                                     |
+| Integer Chern numbers in a non-periodic world                    | Kraus et al., *PRL* 109, 106402 (2012): topological states and adiabatic (phason) pumping in quasicrystals, with the Chern number defined on the torus of one periodic momentum and the phason; Bandres, Rechtsman & Segev, *PRX* 6, 011016 (2016): topological photonic quasicrystals; real-space Chern invariants without translation symmetry (the Bott index): Loring & Hastings, *EPL* 92, 67004 (2010) |
+| Twenty-one Chern numbers in three families of seven              | $H^2(T^7,\mathbb{Z}) \cong \mathbb{Z}^{21}$, one two-cycle per pair of coordinates; under cyclic permutation of seven coordinates the 21 pairs split into three orbits of seven by step 1, 2 and 3, the edges of the heptagon $\{7/1\}$ and the heptagrams $\{7/2\}$ and $\{7/3\}$ (the complete graph $K_7$ as three Hamiltonian cycles)                                                                    |
+| The Auric reading of the chord                                   | A two-cycle spanned by integer winding vectors $\mathbf{p}, \mathbf{q}$ has homology class $\mathbf{p}\wedge\mathbf{q}$, with coefficients $p_i q_j - p_j q_i$ on the basis cycles                                                                                                                                                                                                                           |
+| [[Cosmic Motion]] on the same cycles                             | Liouville–Arnold theorem: bounded integrable motion lies on invariant tori, and two incommensurate frequencies wind densely around a two-torus; KAM theory (Kolmogorov, 1954; Arnold, 1963; Moser, 1962) shows most such tori survive small perturbations, as in planetary motion                                                                                                                            |
+| A Chern class changes only where a gap closes                    | Topological phase transitions: a Chern number is invariant while the band gap stays open and changes by $\pm 1$ at each simple, unit-charge closing such as a single Dirac point, and by more at higher-order degeneracies (Haldane, *PRL* 61, 2015 (1988))                                                                                                                                                  |
+| A phason cycle moves charge, not class                           | Thouless pumping: quantized transport per cycle, with the Chern number unchanged (Thouless, *PRB* 27, 6083 (1983))                                                                                                                                                                                                                                                                                           |
+| In-phase solitons attract and can fuse                           | Attraction of in-phase spatial solitons, and fusion in non-integrable media: Stegeman & Segev, *Science* 286, 1518 (1999)                                                                                                                                                                                                                                                                                    |
+| [[Crystal]] as rounding of an irrational                         | Periodic approximant phases of quasicrystals, carrying uniform phason strain                                                                                                                                                                                                                                                                                                                                 |
+| The [[Auric Comma]] and the wolf                                 | Pythagorean comma $531441/524288 \approx 23.46$ cents; the wolf fifth that concentrates it, named for its howling beats; the diatonic chain's short fifth $1024/729$ (the tritone)                                                                                                                                                                                                                           |
+| The Loom tempers the comma                                       | Meantone, well, and equal temperaments: distributing the comma across intervals                                                                                                                                                                                                                                                                                                                              |
+| The comma as stored strain                                       | Commensurate–incommensurate competition: a stiff layer pinned by a potential of incompatible period cannot satisfy both and stores strain (the Frenkel–Kontorova model, 1938)                                                                                                                                                                                                                                |
+| Singularity with "fractional" winding                            | Dislocations in quasicrystals: Burgers vectors are higher-dimensional lattice vectors with phonon ($\parallel$) and phason ($\perp$) components                                                                                                                                                                                                                                                              |
+| The wolf lingers for generations                                 | Phason strain relaxes diffusively and far more slowly than phonon strain; quenched quasicrystals retain it                                                                                                                                                                                                                                                                                                   |
+| Ghost partials beating between two states                        | The bowed-string wolf tone: a note near a strong body resonance alternates between two vibration regimes                                                                                                                                                                                                                                                                                                     |
+| [[Auric Tone Length]]                                            | Same scaling as the healing length of a repulsive Bose–Einstein condensate, $\xi = \hbar/\sqrt{2mgn}$                                                                                                                                                                                                                                                                                                        |
+| From the tone length to a bandwidth                              | Dispersion relations: the finest physical wavenumber $k_{\text{phys}}$ becomes a frequency cutoff, $\omega_{\text{Max}} = c\,k_{\text{phys}}$ on a linear branch                                                                                                                                                                                                                                             |
+| [[Proto-Universe]] clusters; the stellar floor                   | The healing length grows as density falls, $\xi \propto n^{-1/2}$: a thin condensate cannot hold fine structure                                                                                                                                                                                                                                                                                              |
+| Lattice-arrested collapse at the stellar floor                   | Two-dimensional discrete solitons in optically induced photonic lattices: Fleischer, Segev, Efremidis & Christodoulides, *Nature* 422, 147 (2003); review: Kartashov, Malomed & Torner, *Rev. Mod. Phys.* 83, 247 (2011)                                                                                                                                                                                     |
+| The seven-layer [[Stellar Veil]]                                 | Distributed Bragg reflectors: reflectivity rises with every layer pair; light inside the stopband decays exponentially into the stack; defect modes trap light in photonic band-gap structures (Yablonovitch; John, 1987)                                                                                                                                                                                    |
+| [[Lunehymn]] makes tonality possible                             | Modes lock through an external modulator (active mode-locking) or an intensity-dependent loss or gain, such as a saturable absorber or Kerr lens (passive mode-locking); in the cubic-quintic Ginzburg–Landau model of passive mode-locking, the quintic terms widen the range of stable locked pulses: Grelu & Akhmediev, *Nature Photonics* 6, 84 (2012)                                                   |
+| Megalophic growth                                                | Flat-top "liquid light" in cubic-quintic media: Michinel, Paz-Alonso & Pérez-García, *PRL* 96, 023903 (2006); self-bound quantum droplets whose density saturates while size grows with atom number: Petrov, *PRL* 115, 155302 (2015)                                                                                                                                                                        |
+| The firework cascade                                             | Branching chain reactions: a multiplication factor above 1 is self-sustaining, the same arithmetic as the nuclear $k$-factor                                                                                                                                                                                                                                                                                 |
+| Lattice period and floor wavenumber                              | Nyquist limit and aliasing: on a lattice of spacing $a$, a wave shorter than $2a$ is indistinguishable from a longer one, so every distinct mode lies within $\pm\pi/a$ along each lattice direction, and any wavevector beyond is identified with one inside the zone modulo a reciprocal lattice vector; in $d$ dimensions the cubic zone is $[-\pi/a, \pi/a]^d$, whose corners lie at $\sqrt{d}\,\pi/a$   |
+| Matter has a surface                                             | Zero-pressure liquid droplets: the flat-top plateau of the cubic-quintic equation is the density at which pressure vanishes                                                                                                                                                                                                                                                                                  |
+| The pre-detonation hum                                           | Critical slowing down: a soft mode's frequency falls as the square root of the margin to a saddle-node instability                                                                                                                                                                                                                                                                                           |
+| Crystallization as phase-locking                                 | Kuramoto model of coupled oscillators: for a large population with a symmetric, single-peaked frequency distribution $g$, locking begins at $K_c = 2/\pi g(0)$ (Kuramoto, 1975; review: Strogatz, *Physica D* 143, 1 (2000))                                                                                                                                                                                 |
+| Hybrid offspring keys                                            | Arnold tongues of mode-locking near simple frequency ratios; the missing fundamental of psychoacoustics                                                                                                                                                                                                                                                                                                      |
+| Identity as signal coherence                                     | Phase noise reduces a carrier's coherent amplitude by $e^{-\sigma^2/2}$; Shannon–Hartley capacity with signal-dependent noise                                                                                                                                                                                                                                                                                |
+| Fear makes magic flicker                                         | Adler's equation outside the locking range: the oscillator beats at $\sqrt{\Delta\omega^2 - \Omega^2}$                                                                                                                                                                                                                                                                                                       |
+| Neutron star or black hole                                       | Critical-norm collapse thresholds (the Townes norm of the 2D cubic equation, $N_T \approx 11.70$ in natural units); the Chandrasekhar limit of real stars                                                                                                                                                                                                                                                    |
+| Black holes as sonic horizons                                    | Acoustic ("dumb") holes: Unruh, *PRL* 46, 1351 (1981); analogue Hawking radiation in a Bose–Einstein condensate: Steinhauer, *Nature Physics* 12, 959 (2016)                                                                                                                                                                                                                                                 |
+| Flat-top matter plateau                                          | Cubic-quintic NLS flat-top solitons, plateau $\lvert\psi\rvert^2 = 3g_1/4g_2$                                                                                                                                                                                                                                                                                                                                |
+| Living land, dying land, dead land                               | Saturable gain and lasing threshold                                                                                                                                                                                                                                                                                                                                                                          |
+| One equation in a preferred frame                                | Effective nonrelativistic field equations (Gross–Pitaevskii, complex Ginzburg–Landau) are written in the rest frame of their medium, with one absolute time and a spatial Laplacian                                                                                                                                                                                                                          |
+| [[Soul-Key]] holds the body                                      | Injection locking (Huygens' clocks, Rayleigh's organ pipes); Adler's locking range $\Delta\omega_{\text{Max}} = (\omega_0/2Q)(A_{\text{Inj}}/A_{\text{Osc}})$ (Adler, *Proc. IRE* 34, 351 (1946))                                                                                                                                                                                                            |
+| Blowup without the stabilizer                                    | Finite-time blowup of the focusing NLS for $\sigma d \geq 2$; critical collapse carries slow log-log corrections (Fibich & Papanicolaou, *SIAM J. Appl. Math.* 60, 183 (1999))                                                                                                                                                                                                                               |
+| [[Time Bubble]]s in the path integral                            | Feynman's path integral; in the semiclassical limit, stationary phase selects the classical path (Feynman, *Rev. Mod. Phys.* 20, 367 (1948))                                                                                                                                                                                                                                                                 |
+| Only a nonlinear wave can wall itself in                         | Self-trapping of optical beams: a beam's own intensity writes the waveguide that guides it (Chiao, Garmire & Townes, *PRL* 13, 479 (1964))                                                                                                                                                                                                                                                                   |
+| Each fold doubles the state space                                | $n$ independent two-state systems span a $2^n$-dimensional Hilbert space                                                                                                                                                                                                                                                                                                                                     |
+| Spell potency as a product of factors                            | Cascaded stages: the gains of a signal chain multiply, so one stage at half strength halves the whole chain                                                                                                                                                                                                                                                                                                  |
+| Music lowers the cost, not the power                             | Positive feedback: closed-loop gain $A/(1 - \beta A)$ (Black's feedback formula, 1934; Armstrong's regenerative receiver, 1914)                                                                                                                                                                                                                                                                              |
+| A miracle as a division by zero                                  | Barkhausen criterion (1921): a loop gain of unit magnitude and zero phase turns an amplifier into a self-sustaining oscillator, whose output real systems bound by nonlinear saturation                                                                                                                                                                                                                      |
+| A lost Key halves rather than erases                             | Two equal phasors add to $(1+\cos\phi)/2$ of full power; Adler's locked phase reaches $90^\circ$ at the edge of the locking range (Adler, *Proc. IRE* 34, 351 (1946))                                                                                                                                                                                                                                        |
+| Precision weighs most in interference                            | Johnson–Nyquist noise: admitted noise power grows with bandwidth, $N = k_B T B$ (Johnson; Nyquist, 1928)                                                                                                                                                                                                                                                                                                     |
+| Backfire returns to the weaver                                   | Reciprocity of linear media: the Green's function is symmetric, $G(\mathbf{r}, \mathbf{r}_0) = G(\mathbf{r}_0, \mathbf{r})$ (Rayleigh; Lorentz)                                                                                                                                                                                                                                                              |
+
+_One note about [[Arcanoria]]'s acoustic ontology: No stable seven-fold **atomic** quasicrystal has been confirmed in our reality (yet). Seven-fold structures have been proposed theoretically (including boron-based models) and seven-fold quasiperiodic patterns can be made with light. [[Arcanoria]] is a universe where the rare case is the foundational one born from music and metaphysical vibration._
 
 # Soul Leitmotif
 

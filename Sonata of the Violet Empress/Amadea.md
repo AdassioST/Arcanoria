@@ -688,7 +688,11 @@ The $15 tier converts dedicated superfans by giving them **status, agency, and i
 - [[Fierce]] -> [[Destructive Flare]] ([[Cindergale]])
 - [[Obsessive]] -> [[Burning Flagellant]] ([[Void]])
 
+- _"People will accept any meaning offered before they will accept no meaning at all. Isn't that beauty sublime? They eventually become the master of their own fate by the tragedy that allowed them to have a purpose."_
+
 [[Lazarus]] was originally a former member of the council of the [[Enclave]] of the Moonlit Garden which uses [[Glimmerfern]] and plants [[Rose Seed]]s to create beauty out of loss. [[Lazarus]] however took this to the extreme to the point of aestheticizing the wound and deliberately giving wounds to others so that they could bloom as well. His delusional mindset drove him to be exiled from the [[Enclave]] who rejected his views, and the event eventually seeded his way into becoming the leader of the [[Court of Delicacies]] where he found a place of like minded people after [[Junius]] successors in [[Cordelia]]'s family.
+
+[[Lazarus]] signature is called burning fangs because it is a set of twin fire stemming from both of his arms that when mirroring a bite it pierces so cleanly, that the ashes it leaves afterwards are cold, capturing his [[Fierce]] and [[Serene]] nature simultaneously. It also demonstrates the full properties of [[Cindergale]] not merely as "fire" magic.
 
 ---
 [[Carmina]]
@@ -772,7 +776,236 @@ The Peddler's Circle
 
 [[Cyril]] the Informant Bartender
 
-[[Leander]] is [[Orphael]]'s _"I got it from my Daddy"_ [[Demi-Human]] giant muscular friend wielding percussion that marries [[Ligeia]].
+---
+[[Leander]]
+
+[[Legend Title]]: The Heart of Many Drums.
+
+[[Primary Instrument]]: Undertow Crown.
+[[Armament]]: Dual Maul-Spikes
+[[Soul Leitmotif]]: 
+[[Ornament]]s: 
+
+[[Motif Awakening]] Wish: _""_
+
+[[Legend Trait]]s:
+- 
+- 
+- 
+
+[[Orphael]]'s _"I got it from my Daddy"_ [[Demi-Human]] giant muscular friend wielding percussion that marries [[Ligeia]].
+
+He is a key figure to [[Artusian Knight]]s and is the [[Demi-Human]] giant friend of [[Orphael]] who is a drummer that has a healthy relationship with his father and is the primary acoustics for [[Sephira]]'s fire dancing techniques. It has [[Void]] access to [[Reverberation Arts]] to make breakcore following [[Sephira]]'s super fast music. Despite all the musculature he is quite sensitive and loves [[Amadea]]'s violin sound and wants her to teach how to play despite being massive. Outside of combat, he helps in [[Iridia]] new [[Dance]]rs and the [[Civic]] fantasy plays. Eventually marries [[Ligeia]].
+
+His instrument is a collection of drums he has kept, at the center is "Father's Heart" and the people he has met in his life gave him a reason to keep adding drums to his drumset, eventually having one for all of his significant [[Legend Relationship]]s.
+
+---
+[[Vashti]]
+
+[[Legend Title]]: The [[Great Vanguard]] of [[Iridia]] and of All [[Artusian Knight]]s.
+
+[[Primary Instrument]]: 
+[[Armament]]: 
+[[Soul Leitmotif]]: 
+[[Ornament]]s: 
+
+[[Motif Awakening]] Wish: _""_
+
+[[Legend Trait]]s:
+- 
+- 
+- 
+
+_"Beautiful things don't ask for attention."_ | _"I do not owe anyone attention merely because they consider me beautiful."_
+
+A Snow Leopard [[Demi-Human]], and later a core Leader of the [[Demi-Human]]s in the Emancipation of Strauss.
+
+[[Vashti]]'s arms are tattooed with all the [[Vow Mark]]s she carries, mirroring the patterns of her tail. As a core figure in Strauss, she is the leader of the [[Demi-Human]]s that help in the emancipation of Strauss in [[Cyril]]'s pedler circle, and she eventually becomes a vital part of [[Iridia]] as its military leader and [[Great Vanguard]] of [[Iridia]] and of all [[Artusian Knight]]s. Some of her friends, also [[Demi-Human]]s, join and die in the [[Shadow Order]] wars.
+
+She becomes a diagonal opposite to [[Arioch]] of the [[Purest of Love]], as she fights against the concept of bondage and servitude, both of them being [[Demi-Human]]s who were forced into slavery. The leopard girl asks: _Who owns my will?_ The foxgirl, [[Fidessa]], asks: _Who gets to say what I am?_
+
+Her bond with [[Fidessa]] runs through a name: the foxgirl is the only one allowed to call her Vashi, a privilege that is **not transferable**. [[Fidessa]] teaches the leopard that identity can change without being lost, while the leopard teaches the foxgirl that trust can remain uncertain without being false.
+
+---
+[[Fidessa]]: [[Reality Bender]] [[Demi-Human]] Foxgirl
+
+[[Legend Title]]: 
+
+[[Primary Instrument]]: [[Soul Oscillator]], [[Dance]]
+[[Armament]]: 
+[[Soul Leitmotif]]: 
+[[Ornament]]s: 
+
+[[Motif Awakening]] Wish: _""_
+
+[[Legend Trait]]s:
+- [[Reality Bender]]
+- 
+- 
+
+[[Fidessa]] is a foxgirl with severe trust issues whom [[Amadea]] comes to know in Strauss, and she is a key part of its liberation. She is a core member all the way to the final fight and joins [[Iridia]], where she becomes a core support for [[Sephira]] as well as a Dancer, and the other important [[Demi-Human]] of [[Iridia]] alongside [[Vashti]].
+
+She and [[Amadea]] have several [[Reality Bender]] interactions with one another: comedic fever dreams of [[Illusory Magic]] where no one knows what is happening, which [[Cordelia]] watches baffled.
+
+Her question is _Who gets to say what I am?_ — the same instinct behind renaming [[Vashti]]: _"Why should a name be fixed? Why can't I call something what it feels like to me?"_ Her severe trust issues are also the wound [[Lacrimosa]] later reaches for, as [[The Hollowing]] promises a world without deception.
+
+---
+[[Argos]]
+
+[[Legend Title]]: The Underground Tracker.
+
+[[Primary Instrument]]: 
+[[Armament]]: 
+[[Soul Leitmotif]]: 
+[[Ornament]]s: 
+
+[[Motif Awakening]] Wish: _""_
+
+[[Legend Trait]]s:
+- 
+- 
+- 
+
+Hound-Type [[Demi-Human]], [[Cyril]]'s Underground Agent in Strauss
+
+[[Argos]] is a male hound-type [[Demi-Human]] who first appears in Strauss as one of [[Cyril]]'s underground agents, working through the tunnels beneath the city to locate captives, move information, and guide escaped [[Demi-Human]]s away from the Court's trafficking networks. His ability to track people through residual [[Resonance]] makes him invaluable to [[Cyril]], and later to [[Amadea]].
+
+He becomes one of the important [[Demi-Human]] figures who follow [[Amadea]] toward [[Iridia]], eventually specializing in reconnaissance, extraction, and bringing missing operatives home. Where [[Vashti]] represents autonomy after bondage and [[Fidessa]] represents the right to define one's own identity, [[Argos]] represents protection and responsibility: his entire sense of worth becomes tied to finding people who disappear. He unconsciously mirrors [[Corvin]] — counting survivors, checking routes, watching entrances, and always asking whether everyone returned — but unlike [[Artus]], whose instinct is to sacrifice himself for others, [[Argos]]'s hound instinct is to retrieve them.
+
+That same virtue becomes the weakness through which [[Lacrimosa]] eventually reaches him during [[The Hollowing]], turning the man who found the missing so they could return home into one who finds survivors so they can be absorbed.
+
+---
+The Feline Trio
+
+The core feline cast is a trio of catgirls: [[Mirelle]], [[Solenne]], and [[Zerlina]]. [[Mirelle]] is the first to die, as she becomes the subjugated [[Velvet Nectar]] that [[Amadea]] tastes, and hers is the pendant [[Amadea]] takes from the noble who defeated her. Eventually a [[Demi-Human]] lynx, [[Laima]], joins the group. One of the important votes is determining which girl of the trio is sent where, and which girl dies as a result.
+
+Each of the first trio asks [[Amadea]] a different question:
+
+[[Mirelle]]: _"What do you want?"_
+
+[[Zerlina]]: _"Was that actually your choice?"_
+
+[[Solenne]]: _"What possibilities have you ruled out?"_
+
+After [[Mirelle]] dies, the new feline trio of [[Solenne]], [[Zerlina]], and the lynx asks:
+
+[[Zerlina]]: _"Did everyone really choose this?"_
+
+[[Solenne]]: _"Are we sure there isn't another possibility?"_
+
+[[Laima]]: _"Can we keep doing this after today?"_
+
+[[Zerlina]] interrogates **consent**. [[Solenne]] interrogates **premature surrender**. [[Laima]] interrogates **sustainability and reciprocity**.
+
+The first feline trio asks: _"What do we want, are we free to choose it, and what might still be possible?"_ The second asks: _"Are we free to choose, what might still be possible, and what do we owe each other once we choose?"_ They move from surviving Strauss to **building a society** in [[Iridia]].
+
+---
+[[Mirelle]]
+
+[[Legend Title]]: 
+
+[[Primary Instrument]]: 
+[[Armament]]: 
+[[Soul Leitmotif]]: 
+[[Ornament]]s: 
+
+[[Motif Awakening]] Wish: _""_
+
+[[Legend Trait]]s:
+- 
+- 
+- 
+
+[[Demi-Human]] Catgirl of the Feline Trio, [[Cyril]]'s Infiltration Agent
+
+[[Mirelle]] is the one of the trio who actually likes beautiful things. She likes perfume. She likes expensive fabric. She likes jewelry. She is the one who, after emancipation, would absolutely steal the nicest pillow in [[Iridia]] and argue that surviving slavery has earned her the right to sleep on something absurdly soft. She enjoys flirtation when _she_ initiates it. She enjoys being looked at when _she_ wants to be looked at. She understands aristocratic etiquette better than the others, which is precisely why [[Cyril]] uses her for infiltration, and she is the one who first introduces [[Amadea]] to the court's proper etiquette.
+
+The tragic part of her character, aside from being the first death of the trio, is that Strauss takes someone who genuinely enjoys beauty, touch, taste, and luxury, and transforms those things into mechanisms of extraction as a sculpture of [[Lazarus]] gardens. The Court doesn't merely kill [[Mirelle]]. It steals her philosophy and perverts it. She believed beautiful things could belong to her. The Court decides that _she_ is the beautiful thing that belongs to somebody else. Her death hurts the trio heavily, but particularly [[Cyril]], and it is the main reason why [[Cyril]] doesn't want this fate for [[Amadea]].
+
+---
+[[Zerlina]]
+
+[[Legend Title]]: 
+
+[[Primary Instrument]]: 
+[[Armament]]: 
+[[Soul Leitmotif]]: 
+[[Ornament]]s: 
+
+[[Motif Awakening]] Wish: _""_
+
+[[Legend Trait]]s:
+- [[Empathetic]] -> [[People Pleaser]]
+- [[Skeptical]]
+- [[Impatient]]
+
+[[Demi-Human]] Catgirl of the Feline Trio
+
+[[Zerlina]] is the one who teaches [[Amadea]] that persuasion can become coercion long before anyone casts a [[Vow Mark]]. She understands consent better than almost anyone, yet she is naturally a [[People Pleaser]]. The faster everybody agrees, the more suspicious she becomes. Not because she thinks they're wrong. Because consensus itself can exert pressure.
+
+She's pleasantly contrary. If everyone sits at the table, she sits on the windowsill. If somebody says _"You have to try this,"_ she immediately doesn't want it. If someone says _"You probably wouldn't like this,"_ now she absolutely needs to try it. That is her wonderful little contradiction: she hates being socially pressured and is incredibly susceptible to reverse psychology, and [[Mirelle]] knows exactly how to manipulate this.
+
+---
+[[Solenne]]
+
+[[Legend Title]]: 
+
+[[Primary Instrument]]: 
+[[Armament]]: 
+[[Soul Leitmotif]]: 
+[[Ornament]]s: 
+
+[[Motif Awakening]] Wish: _""_
+
+[[Legend Trait]]s:
+- [[Mystical]]
+- [[Stubborn]]
+- [[Enigmatic]]
+
+A [[Demi-Human]] Catgirl of the Feline Trio
+
+[[Solenne]] is an optimist and the representation that cats are notorious for surviving situations they should not, which is what gives her an almost offensive confidence in people's ability to land somewhere. She is stubborn enough to believe it:
+
+_"I'm not saying everyone survives."_
+
+_"Then what are you saying?"_
+
+_"That until they don't, they're alive."_
+
+Which means [[Solenne]] versus [[Amadea]] is probability against personhood. Out of the catgirls, she is the one constantly bruised.
+
+[[Mirelle]]'s death destroys [[Solenne]]'s original optimism. Before [[Mirelle]] dies, [[Solenne]] thinks: _Things will work out._ After [[Mirelle]] dies: _Things might not work out. That is why we have to work._ She naturally bonds with [[Argos]]: _"We go looking until there's no one left to find."_ [[Argos]] is compulsive. [[Solenne]] is hopeful. [[Argos]] retrieves because failure becomes personal guilt. [[Solenne]] attempts rescue because possibility generates responsibility: _"Impossible and unlikely are not the same."_
+
+---
+[[Laima]]
+
+[[Legend Title]]: The Counter-Tracker.
+
+[[Primary Instrument]]: 
+[[Armament]]: 
+[[Soul Leitmotif]]: 
+[[Ornament]]s: 
+
+[[Motif Awakening]] Wish: _""_
+
+[[Legend Trait]]s:
+- 
+- 
+- 
+
+[[Demi-Human]] Lynx, Counter-Tracker & Field-Extraction Specialist
+
+[[Laima]] grew up believing that dependence gives other people leverage over you. Never need anything from anybody: that's how she survived. She fears indebtedness, much like how [[Amadea]] herself deals with it at her toxic lowest, so she understands survivor's guilt. _"When does dependence become belonging?"_
+
+Despite how she hates owing others, she has no problem helping them. She will carry someone. Repair something. Share food. Stand watch. Teach survival skills. Risk herself. Because she tells herself: _It's better to be the creditor than the debtor._ So she gives constantly, because giving keeps her above needing.
+
+This is where she becomes a parallel to [[Cordelia]] without duplicating her. [[Cordelia]] gives because her identity tells her love requires sacrifice. [[Laima]] gives because giving prevents anybody from possessing leverage over her: essentially the same behavior, from a completely different wound. She is comfortable with obligations she can discharge and uncomfortable with generosity she must simply accept, which clashes with [[Zerlina]], who can therefore ask her one of the most brutal questions anybody asks her: _"If you can choose to give without owing me, why can't I?"_
+
+[[Laima]] understands something [[Cordelia]] doesn't: reciprocity isn't bookkeeping. It is allowing other people to carry part of your weight.
+
+With [[Argos]] she is the anti-tracker. [[Argos]] finds people. [[Laima]] makes sure people **cannot be found**.
+
+---
 
 [[Dear Fugue]]
 
@@ -814,9 +1047,9 @@ Dream to the World Chronological Death Count:
 - [[Corvin]] (Pressumed)
 - [[Nivienne]]
 - [[Artus]]
-- [[The Seven Hands]]
+- [[The Seven Hands]] ([[Atonalis]])
 - Javius
-- The girl of the feline trio that became [[Velvet Nectar]]
+- [[Mirelle]] who became [[Velvet Nectar]]
 - Many [[Court of Delicacies]] Nobles
 - [[Corpse Bouquet]]
 - [[Kastor]]
@@ -829,27 +1062,31 @@ Dream to the World Chronological Death Count:
 - [[Carmina]] (Right before [[Atonalis]])
 - The Boreal King
 - [[Cordelia]]'s cousin
-- Mehr Ling
+- Possibly Althea (If voting in wrong choice | [[Atonalis]])
+- [[Demi-Human]] Slaver Wolf
+- Mehr Ling (In [[Awakened State]])
 - [[Pollux]]
 - Many [[Artusian Knight]]s
-- Daphne
+- [[Daphne]]
 
 [[The Hollowing]] Chronological Death Count:
 - [[Luminaire]]
 - Sister Mara
 - Alena
-- [[Demi-Human]] hound
+- [[Argos]] the [[Demi-Human]] hound
 - One of the feline trio (depends on voting for whomever is with the foxgirl)
 - Half of [[Orphael]]'s friends
-- Leader of [[Sprite-Light Conclave]] (depends on voting)
 - [[Luminaire]]'s family
+- Leader of [[Sprite-Light Conclave]] (depends on voting)
 - [[Father Raphael]]'s confident
+- Althea (If not voted before)
 - [[Demi-Human]] theologian
 - [[Father Raphael]]
 - [[Orphael]]
 - [[Cordelia]]
 - Many [[Artusian Knight]]s
 - [[Pagiel]]
+- [[Deliah]]
 - [[Cyril]]
 - [[Amadea]]
 - [[Sephira]]
@@ -860,7 +1097,7 @@ As acts get published the immediate next act is labelled with exceptions of ones
 - Act 22. The Rules of This House Are Not the Rules of the World | [[Fragment of Meaning]]
 - Act 34. And You Have Bled Enough, Remember? | [[Fragment of Lucidity]]
 - Act 47. The Second Death of Artus | [[Fragment of Catharsis]]
-- Act 50. I Am the North Star of My Own Celestial Astrolabe | [[Fragment of Acceptance]]
+- Act 51. I Am the North Star of My Own Celestial Astrolabe | [[Fragment of Acceptance]]
 - Act 60. What If You Could Be Yourself, Luminaire? | [[Fragment of Defiance]]
 - Act 70. The Blazing Heart of the Resistance | [[Fragment of Vision]]
 - Act 84. The Legend in the Crown of Feathered Obsidian | [[Fragment of Rebirth]]
@@ -2132,7 +2369,7 @@ The exile happens not because he stops believing this — it happens because he 
 
 On the symbolic register, [[Lazarus]] represents the first and most intellectually seductive distortion: **that suffering has inherent aesthetic value, and that producing suffering is therefore an act of creation**. The [[Rose Seed]] motif is the engine of this symbolism — a seed that flowers into beauty specifically in the soil of loss. He does not deny that the wound hurts. He argues that the hurt is the point. That the bloom would not exist without the wound. That therefore the wound is not cruelty — it is gardening.
 
-This is fully cemented when [[Lazarus]] is introduced in Act 19 after [[Kastor]] defeats [[Amadea]], and she refuses to give up. He sees more potential in her than her current underground allies do. Moreover, [[Lazarus]] describes properly in Act 20 [[Amadea]]'s abilities as a future she has not yet accepted in herself. He speaks with interest, as if waiting to see this specific version of the story emerge, particularly by how she handles loss and transforms her in the signature [[Hollow-Point]] that assassinated several of his men, and after she escapes with [[Cordelia]] his interested in her evolves.
+This is fully cemented when [[Lazarus]] is introduced in Act 20 after [[Kastor]] defeats [[Amadea]], and she refuses to give up. He sees more potential in her than her current underground allies do. Moreover, [[Lazarus]] describes properly in Act 21 [[Amadea]]'s abilities as a future she has not yet accepted in herself. He speaks with interest, as if waiting to see this specific version of the story emerge, particularly by how she handles loss and transforms her in the signature [[Hollow-Point]] that assassinated several of his men, and after she escapes with [[Cordelia]] his interested in her evolves.
 
 This is [[Lazarus]]'s specific danger: he is right about the [[Rose Seed]]. Loss does produce beauty. [[Amadea]] herself is the evidence — the Violet Grove, [[Iridia]], the [[Dancing Blade Arts]], [[Dear Fugue]], her entire identity as the [[Mythical Virtuoso]] of the [[Void]] and [[The Principles of Magic]], all of it grew from the specific shape of what she lost. The difference between [[Lazarus]] and [[Amadea]] is not their diagnosis. It is their ethics: [[Amadea]] transformed her _own_ grief into light. [[Lazarus]] decided that gave him the right to harvest grief from _others_ without consent.
 
@@ -2147,6 +2384,10 @@ Add the concept of aesthetic emotions of literature to the dark twisted policy, 
 _"Do not treat spectators as minors, they are smart enough to understand subtlety. A well narrated story character has to be known by their actions, thoughts, and feelings. Not by how they used to look. That's why their [[Rose Seed]] is the undeniable essence of the person that broke. You're unable to see their physical features, only the actions they took in life, to whichever tragic ending it lead to."_
 
 _"No one has ever made your story, that's why you've got to make the tragedy the best possible. Neither the person nor the story are truly second, that's the beauty of a single life."_
+
+_"If tragedy already creates beautiful transformation, why pretend that preventing every tragedy is virtuous? Why not help tragedy along?"_
+
+
 
 ##### The Second Antagonist, The [[Facewalker]], the [[Crescent Mist Peaks]] [[Erosyx]]: The Hunger That Wears the Face of What You've Lost
 
@@ -2347,7 +2588,7 @@ The Entire Novel of [[Amadea]] is a [[Sonata]] built on 4 Movements, each contai
 		Act 31 — The Crescent Veils of [[Aetherlight]] and [[Lunehymn]] (Score VI | Act 31)
 		Act 32 — The [[Scorching Truth]] of the [[Atonalis]] (Score VI | Act 32)
 		Act 33 — Where are you!? Please! Answer!! (Score VI | Act 33)
-		Act 34 — And You Have Bleed Enough, Remember? (Score VI | Act 34)
+		Act 34 — And You Have Bled Enough, Remember? (Score VI | Act 34)
 		Act 35 — A Dream Bathed in the Song of Gold (Score VI | Act 35)[Age 25]
 		Act 36 — [[Consonance]] Lies in the Future, Not the Past (Score VI | Act 36)
 		
@@ -2383,8 +2624,8 @@ The Entire Novel of [[Amadea]] is a [[Sonata]] built on 4 Movements, each contai
 		_[[Weight of Flaw]] | [[Fragment of Lucidity]]_
 		
 		Act 49 — The Dawn of the [[Mythical Virtuoso]] of the Feathered Wyrm (Score IX | Act 49)
-		Act 50 —  I Am The North Star of My Own [[Celestial Astrolabe]] (Score IX | Act 50)
-		Act 51 — The Seven Founding Architects of [[The Principles of Magic]] (Score IX | Act 51)
+		Act 50 — The Seven Founding Architects of [[The Principles of Magic]] (Score IX | Act 50)
+		Act 51 — I Am The North Star of My Own [[Celestial Astrolabe]] (Score IX | Act 51)
 		Act 52 — Run Into Love To Destroy Who You Used To Be (Score IX | Act 52)
 		Act 53 — The [[Magnum Opus]] of Obsidian & Shadow Ink (Score IX | Act 53)
 		Act 54 — [[Potential of Creation]], [[Key of Attunement]], [[Mastery Over Chaos]] (Score IX | Act 54) [Cycle Birthday 8 - Age 32]
@@ -3185,7 +3426,7 @@ Change into first person of the novel, it appears retroactively that everything 
 
 [[Amadea]], performing under the stage identity of Violet, travels [[Enclave]] to [[Enclave]] following the words of her [[Militant Enclave]] mentor as reconciliation to make peace with the death of [[Artus]] and follow the dream of the Violet Grove. As she travels, she is occasionally hungry and unable to eat, which annoys her as she just spend her money on a bread that she can't even taste.
 
-She faces the critics and travels through the [[Age of Embers]] detailing static criticality. She embarks alone through repurposed granaries, the devastated threshold wasteland of the [[Great Plague]], demonstrating what [[Static Criticality]] is firsthand, and how to detect detonations before they occur through the rise of hairs and the [[Celestial Astrolabe]]. She remembers an irrelevant stupid habit more vividly than his last words.
+She faces the critics and travels through the [[Age of Embers]] detailing static criticality. She embarks alone through repurposed granaries, the devastated threshold wasteland of the [[Great Plague]], demonstrating what [[Static Criticality]] is firsthand, and how to detect detonations before they occur through the rise of hairs and the [[Celestial Astrolabe]]. On times, she remembers an irrelevant stupid habit of [[Artus]] more vividly than his last words.
 
 [[Amadea]] admits her determination on jumping between enclaves is walking toward something by not stopping. If she stops, she won't find the grove.
 
@@ -3207,11 +3448,29 @@ Moreover, we retroactively learn the names of those in the [[Militant Enclave]],
 
 First she travels without companion, no destination beyond the name of a place she half-believes exists. She carries the [[Sky Glass]] shard and the memory of [[Artus]] as her only luggage. She departs her natal continent, leaving her past behind, and through sea enters the continent that shares the [[Great Expanse]].
 
-On arrival of the eastern side of the continent, She resumes performing. The play she stages is the story of herself and Artus — the orphan girl and the knight who kept sacrificing himself for her. She stages it as Ballad, as Legend, as something that happened to someone else. The distance of fiction is the only form in which she can bear to carry it.
+Once reaching the outskirts of the fractured [[Silver Blood]] kingdom, [[Amadea]] comes across a dream prophet, reminding her of [[Lenore]] , she invites her in, and [[Amadea]] lets her dreams be read by the stars and her [[Prophetical Arts]], and also because it serves as an immediate inn.
+
+On the immediate morning, the dream reader tells her: "Half of your psyche is a mess of unusable imagery gold, falling structures, voices, a child, black feathers, something resembling blood, distorted noise—but only one datum resolves with complete certainty." 
+
+“The final word I heard from you was ‘run.’” [[Amadea]] freezes. “I don't know where. I don't know when. The rest is static. But that word is clear.”
+
+"Run?" Amadea thinks fatalistically to herself, "Of course it's run. Even death would have to catch me moving."
+
+Then she asks to herself again:
+
+"Why am I even buying grim visages out of decrepit people..." and leaves enraged before doing the next performance. "I can't believe I would let someone seduce my mind into garbage like that, even [[Lenore]] said it. Prophecies are mostly garbage without meaning. Why would i even indulge for this?"
+
+Thus, on arrival of the eastern side of the continent, She resumes performing. The play she stages is the story of herself and Artus — the orphan girl and the knight who kept sacrificing himself for her. She stages it as Ballad, as Legend, as something that happened to someone else. The distance of fiction is the only form in which she can bear to carry it.
 
 In the [[Enclave]] circuits she passes through between performances, she begins hearing a name, a Tide Singer who was also a performer, whose [[Legend]] is attached to the deeper reaches of the [[Great Expanse]]. She begins following this lead to uncover the location of the Violet Grove given his relationship to [[Lunehymn]]. But she hears the rumor not loud enough to be certain, but consistent enough to be a direction. She files the name. She keeps moving.
 
 The name of this act is the lullaby of [[Mira]]'s [[Soul Leitmotif]] which becomes important once [[Amadea]] learns the origin of [[Lacrimosa]] incarnation much after. This is the first major subtle reveal of the entire novel.
+
+The prophecy is one of the core symbols that appear at her lowest moments:
+
+1. This happens when she is alone right before meeting Cordelia
+    
+2. And it comes back to her mind when she uses entropy scrying to see the failed future where the corpse bouquet won. 
 
 _Act 15. The Waltz of Wandering Love_
 
@@ -3620,11 +3879,19 @@ Once she has a network being stablished and a few money from scamming, she chang
 
 [[Amadea]] pushes back: _"I know already, I thought so enough over the shore. I am not fighting because I believe I'll win, I'm not that stupid. No, I'm fighting because I simply refuse to lose."_
 
-Convinced by her conviction, [[Cyril]] gives her the first "debut" quest, explains to her the story of Strauss and why it is named after the Waltz King and how it perverted into aesthetics under the control of the [[Court of Delicacies]] and a new violin to pass through, this is where she acquires the Red Velvet Violin.
+Convinced by her conviction, [[Cyril]] gives her the first "debut" quest, explains to her the story of Strauss and why it is named after the Waltz King and how it perverted into aesthetics under the control of the [[Court of Delicacies]] and a new violin to pass through, this is where she acquires the Red Velvet Violin, and she gets introduced to [[Argos]] who is their ticket in and out.
 
-Her mission is to interrupt a waltz and a slavery auction to kill Javius, the connection of Daphne and the teacher that humiliated [[Cordelia]] when she indebted herself to him to save her. [[Amadea]] is more than willing for a payback.
+Her mission is to interrupt a waltz, rescue a captured agent, and interrupt a slavery auction to kill Javius, the connection of Daphne and the teacher that humiliated [[Cordelia]] when she indebted herself to him to save her. [[Amadea]] is more than willing for a payback.
 
-She begins practicing the aristocracy manners utilizing whatever high language she remembers from [[Cordelia]] and what is written in the [[Wandering Libretto]]. During her mission, it complicates as she's dispatched to target another aristocrat related to Javius that may also have a lead on the [[Court of Delicacies]], and even worse when Javius tried to have his way with [[Amadea]] thinking she was an escort.
+She begins practicing the aristocracy manners utilizing whatever high language she remembers from [[Cordelia]] and what is written in the [[Wandering Libretto]]. During her mission, she has [[Zerlina]] and [[Solenne]] with her, who are the other two agents. However it complicates as she's dispatched to target another aristocrat related to Javius that may also have a lead on the [[Court of Delicacies]], and even worse when Javius tried to have his way with [[Amadea]] thinking she was an escort.
+
+The waltz is the face of the evening and the auction is its purpose. Between dances, [[Demi-Human]]s are presented to the nobles as lots, their [[Vow Mark]]s displayed as proof of obedience, and it is here that [[Amadea]] meets most of the people who will carry Strauss with her.
+
+Her contact inside is [[Mirelle]], working the floor as an attendant because she understands aristocratic etiquette better than anyone in [[Cyril]]'s network, which is precisely why he uses her for infiltration. She clocks [[Amadea]] at once: manners borrowed from the [[Wandering Libretto]] and half-remembered phrases of [[Cordelia]], convincing from a distance but not up close. She covers for her through the evening, the first of the etiquette she will later teach her properly.
+
+On the podium there is [[Fidessa]], a [[Demi-Human]] foxgirl with severe trust issues, listening to the auctioneer announce to a room of bidders what she is, the very question that defines her, and forced to submit through a [[Vow Mark]] as she has recently been captured: _Who gets to say what I am?_
+
+Beneath the hall, in the tunnels, waits [[Argos]], a hound-type [[Demi-Human]] and one of [[Cyril]]'s underground agents, who locates captives, moves information, and guides escaped [[Demi-Human]]s away from the Court's trafficking networks, tracking the lots through their residual [[Resonance]] so that no one is lost on the way down. With him is [[Zerlina]], who distrusts the plan precisely because everyone agreed to it so quickly, and distrusts the stranger [[Cyril]] sent even more. Meeting them is how [[Amadea]] discovers how deeply [[Demi-Human]] slavery permeates Strauss — not merely through auctions, but through servants, hidden holding cells, [[Vow Mark]]s, transport routes, and people who have learned to survive beneath the city.
 
 It's her first assassination that goes correct because she managed to use the [[Hollow-Point]] to extend her range in a hidden blade. She lets him get near, up to the point where she can execute a cinematic vault on top of him, slitting his throat and silencing his voice to prevent anyone else from coming while falling from the other side as he falls bleeding to his knees while she's on the other side of his back.
 
@@ -3634,9 +3901,90 @@ She won the fight and assassinated both Javius and his informant but she had to 
 
 This is a defining moment for [[Amadea]] as she internalizes that killing [[Atonalis]], beasts, and people are not different, especially in light of the waltz: _"It's the first time I kill someone, I don't know why, but I didn't expect it to be this easy to take someone's life. He was so high of himself insulting me as 'thief' and escort."_
 
+The two deaths interrupt the waltz and the auction. In the confusion, [[Mirelle]] moves the lots off the block and [[Argos]] guides them down into the tunnels, counting every head before he lets himself believe that everyone came down. [[Solenne]] comes out bruised and grinning: _"Probably dead isn't dead."_ [[Zerlina]] is still suspicious of the human who made it look easy. [[Fidessa]] goes with them but thanks no one; she watches [[Amadea]] the way she watches everything, waiting to find out what the rescue will cost her. This is how [[Amadea]] earns her place with the feline trio and the [[Demi-Human]]s of the underground.
+
 _Act 20: A Killing Waltz of Crystal and Shadow_
 
 The scene opens with [[Amadea]] missing the snoring of [[Cordelia]] and finding herself melancholic that she was getting accustomed to it, and now that there's no one, she's truly alone again. She's surprised that she misses someone interrupting her sleep, thinking to herself: _"Under what stars am I missing an aristocrat snoring? How did I even get here."_
+
+Scene of the proper introduction of [[Lazarus]] and the gerbera flowers drinking in a vase violet ink, growing beautiful in their hues before decaying and slowly rotting away. _"What makes you beautiful slowly kills you. That's the poetry of change"_. 
+
+This recurring scene serves to track time as the passing of days changes the flowers of color, it is the flower clock that signals [[Amadea]]'s time in the [[Court of Delicacies]]. It shifts from a wounded rich red, to a luxury golden, to an intimate pink, to its most beautiful hues of white with all the chromatic color at its edges as the color of the flower drains from the center, then fading into silver with deep dark veins, and then withering away. 
+
+They begin first as the rich red, as [[Lazarus]] is interrupted because of an ongoing incident in the court with a resistance movement, [[Amadea]] witnesses the real appearance of [[Lazarus]]. He goes against the leader directly, acting on the kill of he performs. This is the representation of the crimson of the clock with the insurgence in the [[Court of Delicacies]] crushed. 
+
+The leader that stands against him because of the damage he has caused, first attacking his political stance and the development of Strauss into nightmare. For which he says:
+
+_"Oh please, Is tending to a garden not an act of hope for the future?"
+
+For which, of course the leader, defiant calls him a monstruous villain.
+
+[[Lazarus]] then replies to him the quote that is part of the [[Achievement]]s in [[Gateway To Genesis]]:
+_"Villain? Never. History does not need another monster; it merely needed a hand willing to bloom the friction of stories. I am called consequence."_
+
+He says: _"I don't fear you."_
+
+[[Lazarus]] replies: _"Then you will die braver than most."_
+
+In the exchange. [[Lazarus]] demonstrates his terrific abilities of [[Cindergale]] as the burning fangs. The leader catches a glimpse that his sister has followed him, and in the second of hesitation, [[Lazarus]] hits the killing blow in front of her.
+
+After the kill, his sister (a young [[Flux]] [[Spellweaver]]) immediately tries to attack [[Lazarus]] in blind panic. However, he deflects the magic with his own fire and instead he reflects as an speech of what has been done for the sake of the gardens, and uses this same motif to recruit his younger sister, pardoning her life, and saying that she can build a new life here, to one day attempt to kill him when she is strong enough:
+
+_"Face me again when you know what you want this grief to become."_
+
+As [[Lazarus]] gives her a seed, when he just killed her older brother.
+
+_"A child who is not embraced by the village will burn it down to feel its warmth."_
+
+_"It's not that beauty sublime? They eventually become the master of their own fate by the tragedy that allowed them to have a purpose."_
+
+[[Amadea]] becomes visibly pissed at this entire situation, then she begins saying to herself: _"Tell me Silver Moon, which voice is the note—"
+
+[[Zerlina]] immediately understands [[Amadea]] and what she intends by what she is saying so she interrupts and pounces on her as a tackle to keep them hidden, and as [[Amadea]] struggles, [[Zerlina]] curls up to her leg saying to [[Amadea]] on the execution she just witnessed. [[Mirelle]] immediately casts a silencing veil over them as she realizes they are making noise. (This later becomes the exact reason why [[Lazarus]] finds from [[Emotional Residue]] that [[Amadea]] was saw him here.)
+
+_"That man said what we were all thinking. That man resisted. That man is dead. Heaven knows what is of his sister next."_
+
+_"You are free to get yourself killed, but you can't make that decision for everybody hiding beside you."_
+
+For which [[Amadea]] replies: _"Fine, let go. I'll find a spot myself."_
+
+Thus [[Solenne]] then supports this when [[Amadea]] begins pushing back against the feline:
+
+_"I agree with you as much as everyone else does here. We all want to do something, but even if we all right now act, what is us, or the entire [[Cyril]] network against the core of the court?"_
+
+_"If we rise without support, you're going to drown in a sea of tragedy. So before you stand up, find out whether there are sixty or six thousand willing to stand too.”_
+
+As [[Amadea]] still doesn't buy it she replies against [[Zerlina]]: _"If the alternative is letting that girl under his tutelage, I accept the risk. Let go."_
+
+_“Tomorrow might become something else! You don't know which one you're calling for yet."_
+
+[[Solenne]] joins [[Zerlina]] as she realizes [[Amadea]] is pretty reckless, and is genuinely about to break free from [[Zerlina]]'s grip. So she joins the tackle:
+
+_"Not acting right this instant is not the same as surrendering forever. Just never be the next person standing alone."_
+
+[[Amadea]] is struggling against the two catgirls who are on her as [[Solenne]] is pleading as [[Amadea]] is about to break free again:
+
+_"Acting before you understand the situation will also destroy all the choices we still have!"_
+
+[[Mirelle]] becomes the final voice of reason and the only one standing:
+
+_"You still don't understand the risk. Your death isn't where the damage stops."_
+
+_"He kills you. Your death creates grief. He says the grief proves his philosophy. Anyone surviving that knew you may be recruited, broken, harvested, displayed or worse. Even your resistance can become another exhibit in the garden. What we can do at most is mitigate those we can rescue directly... So let's go somewhere less gruesome, I can get us a few drinks while they are still real."_
+
+They retreat, though [[Amadea]] is still shaken, [[Mirelle]] gets to catch [[Amadea]] letting out a few tears due to powerlessness, and someone else making the choice for her, saying to herself:
+
+_"I still don't have the power to save anyone."_
+
+Though instead of becoming grief, [[Amadea]] still angered redirects that blade to the next mission as a spy and into the [[Hollow-Point]]:
+
+_"I'll cut them with that distance."_
+
+Aside from being a deliberate mirror to [[Carmina]] and [[Artus]] in the dawn that drowned in fire, it is also an extension because as an adult, she is restrained because she is becoming powerful enough that her decisions can kill everyone around her, and internally, she can't make that difference even if she did help in saving [[Fidessa]], and a few other [[Demi-Human]]s because her mind is still trapped back when [[Carmina]] was buried under the flames.
+
+Young Amadea's problem was helplessness. Growing Amadea's problem is responsibility, and the physical image repeats while its moral meaning matures with her and, devastatingly, she can't view that difference herself yet. However, unlike the [[Carmina]] incident, there is no hidden relief this time. [[Amadea]] genuinely wants them off her. She believes she can act. In fact, she probably can hurt someone now which is why this time she has tears.
+
+infiltrating the parties acting as a femme fatale dispatching high ranking aristocrats and other corrupt leaders from the information being dispatched by [[Cyril]] until she finds the lead back to [[Cordelia]]. She is finding the answer of: **How do sixty become six thousand?** (This also much later echoes her own age at 60, where her individual years became the entirety of [[Iridia]].)
 
 Time has passed and [[Cyril]] keeps sending [[Amadea]] on leads that she also follows from the aristocrats she's been killing, liberating the underground whenever possible to the rhythm of the waltz, this is what cements her idea that the [[Waltz Pillar]] is meant to be for the many, not for the aristocrats who are perverting the memory of Strauss in the very city that allowed him to compose so many pieces.
 
@@ -3644,43 +3992,65 @@ Time has passed and [[Cyril]] keeps sending [[Amadea]] on leads that she also fo
 
 This is also a training and defining moment where she has to learn how to coordinate her body to function, fully cementing the idea that the new Amadea able to fulfill Artus dream must go past her limitations she had as a child.
 
-Scene from [[Lazarus]] and gerbera flowers drinking in a vase violet ink, growing beautiful in their hues of pink and white before decaying and slowly rotting away. _"What makes you beautiful slowly kills you. That's the poetry of change"_. This recurring scene serves to track time as the passing of days changes the flowers of color, it is the flower clock that signals [[Amadea]]'s time in the [[Court of Delicacies]]. It shifts from a wounded rich red, to a luxury golden, to an intimate pink, to its most beautiful hues of white with all the chromatic color at its edges as the color of the flower drains from the center, then fading into silver with deep dark veins, and then withering away.
+[[Amadea]] spends two entire [[Phase]]s looking for leads, and dealing with information while learning the aristocracy and the manners of high society. Making some friends, and inciting the first underground rebellion of Strauss. She also begins learning etiquette from [[Mirelle]].
 
-Over two missions she attends one of the performances of tragedy of the [[Court of Delicacies]], while these already ended, [[Amadea]] makes a personal vow to retell this story one day with something different than the cruelty of [[Lazarus]]. She grows sick to the [[Court of Delicacies]] motto: _"It's cheap art if there's no struggle, the performance, the surrender is the entire point"_
+[[Mirelle]], who covered for [[Amadea]]'s borrowed manners at the auction, is the one who properly introduces her to the court's etiquette. The lesson happens while [[Mirelle]] is deciding what fabric she actually likes, because she is the one of the trio who genuinely enjoys beautiful things: perfume, expensive fabric, jewelry.
 
-She hears from [[Lazarus]]: 
+She also knows exactly how to play with [[Zerlina]]'s contrary nature:
 
-[[Amadea]] witnesses the kill of [[Lazarus]] of one of the pretenders that stand against him because of the damage he has caused.
+[[Mirelle]]: _"Don't touch those pastries."_
 
-He says: "I don't fear you." 
+[[Zerlina]]: _"Why?"_
 
-[[Lazarus]] replies: "Then you will die braver than most."
+[[Mirelle]]: _"They're too expensive."_
 
-In the exchange. [[Lazarus]] demonstrates his terrific abilities of [[Cindergale]] as the burning fangs. After the kill, he reflects on what has been done, and recruits his younger sister, pardoning her life as [[Lazarus]] just killed her brother.
+[[Zerlina]] is already eating one. [[Mirelle]] smiles.
 
-_"A child who is not embraced by the village will burn it down to feel its warmth."_
+[[Mirelle]]: _"You are embarrassingly predictable."_
 
-_"It's not that beauty sublime? They eventually become the master of their own fate by the tragedy that allowed them to have a purpose."_
+It is [[Fidessa]] who introduces [[Amadea]] to [[Vashti]], the snow leopard who leads the [[Demi-Human]]s of Strauss. From the feline trio's perspective she is imposing at first, more legend than person, with every [[Vow Mark]] she still carries is tattooed down her arms and mirrored in the patterns of her tail. [[Fidessa]] treats her with none of that reverence:
 
-She begins as a spy infiltrating the parties acting as a femme fatale dispatching high ranking aristocrats and other corrupt leaders from the information being dispatched by [[Cyril]] until she finds the lead back to [[Cordelia]].
+[[Fidessa]]: _"Vashi."_
 
-[[Amadea]] spends two entire [[Phase]]s looking for leads, and dealing with information while learning the aristocracy and the manners of high society. Making some friends, and inciting the first underground rebellion of Strauss.
+[[Vashti]]: _"Vashti."_
 
-This is where the flowers shift to luxury golden.
+[[Fidessa]]: _"That's what I said."_
+
+[[Vashti]]: _"It isn't. Why are you so ridiculous, we've gone over this how many times!?"_
+
+[[Fidessa]]: _"Why should a name be fixed? Why can't I call something what it feels like to me?"_
+
+[[Vashti]]: _"Because it's mine, you moron."_
+
+[[Fidessa]]: _"I swear, it's one syllable."_
+
+[[Vashti]]: _"It's one I didn't give you. I have enough weight already."_
+
+Early in [[Fidessa]]'s arc, while she is still developing her [[Soul Oscillator]], pressing one key can sometimes produce more than one perceived sound. Someone beside her hears C. Someone across the room hears a high G harmonic. She insists she pressed C. [[Amadea]] hears both.
+
+Over these two missions she attends one of the performances of tragedy of the [[Court of Delicacies]].while these already ended, [[Amadea]] makes a personal vow to retell this story one day with something different than the cruelty of [[Lazarus]]. 
+
+Scene of [[Vashti]] being forced to surrender to the floor due to the [[Vow Mark]]s acting as literal chains when one of the catgirls is injured. She fights against her arms until is eventually overpowered by casting several of those.
+
+She grows sick to the [[Court of Delicacies]] motto: _"It's cheap art if there's no struggle, the performance, the surrender is the entire point"_
+
+The first time [[Amadea]] tries her own selected dress, the flowers shift to luxury golden.
 
 During these infiltrations, Amadea uncovers the grotesque reality behind Strauss's high-society revels: the **Weight of Indulgence parties**. Held in subterranean ballrooms lined with velvet couches and heavy silk drapes, these gatherings are sprawling, chemical-fueled lavish decadent parties organized by the [[Court of Delicacies]]. Nobles, corrupted magistrates, and sycophantic Spellweavers lounge in states of induced ecstasy alongside drugged escorts and subjugated Demi-Humans. Over silver platters, servants circulate bowls of **Lust Berries** and crystal flutes of spiced aphrodisiac wines. The Lust Berries grow directly from the ambience of these parties.
 
 The air itself is thick with the cloying mist of **Nostalgia Perfumery**—diffused oils of distilled [[Eleos Bloom]]s that forcefully induce memories of dead lovers, forgotten childhood innocence, and phantom grief, leaving the attendees weeping and indulging in the same breath. Amadea observes that these berries are not merely luxuries; their soil is watered directly by the somatic exhaustion of these parties, charging them with predatory [[Eros Magic]] that paralyzes the will to resist.
 
-One of the agents of the [[Demi-Human]] trio never returns.
+The agent of the [[Demi-Human]] trio, [[Mirelle]], who taught [[Amadea]] about etiquette never returns.
+
+[[Solenne]], who walked off the auction block bruised and grinning, refuses to mourn her and says it again: _"Probably dead isn't dead."_ She keeps saying: _"She'll come back."_
 
 One of the missions require her to use [[Cunning]] and deliberately accept commands from aristocrats. She learns progressively more of the terrifying man that [[Lazarus]] is while slowly honing her skills as an assassin.
 
-Amadea is offered a porcelain cup of exquisite tea by an aristocratic host—an infusion of early [[Velvet Nectar]] sweetened with concentrated Lust Berry syrup. To her palate, starved by years of ash and caravan rations, it tastes impossibly rich, sweeter even than the purest auric peach. Only the faint, oily aftertaste—and the terrifying relaxation that begins melting her physical reflexes—prompts her to secretly purge the draught, recognizing the exact predatory aphrodisiac that broke Lord Theron's mind years ago in Cordelia's past.
+Amadea is offered a porcelain cup of exquisite tea by an aristocratic host—an infusion of early [[Velvet Nectar]] (The subjugation of [[Mirelle]]) sweetened with concentrated Lust Berry syrup. To her palate, starved by years of ash and caravan rations, it tastes impossibly rich, sweeter even than the purest auric peach. Only the faint, oily aftertaste—and the terrifying relaxation that begins melting her physical reflexes—prompts her to secretly purge the draught, recognizing the exact predatory aphrodisiac that broke Lord Theron's mind years ago in Cordelia's past.
 
 This is where the flowers change to intimate pink.
 
-After the [[Demi-Human]] feline from the trio never came back, Amadea goes as her replacement despite [[Cyril]]'s warnings, this leads her to the encounter where Amadea is sent by Cyril to extract information from a mid-ranking Regalia noble connected to the Court of Delicacies. To gain access to his private chambers, she poses as a high-end servant and debt-payer.
+After [[Mirelle]], the [[Demi-Human]] feline from the trio never came back, Amadea goes as her replacement despite [[Cyril]]'s warnings because [[Amadea]] wants revenge, this leads her to the encounter where Amadea is sent by Cyril to extract information from a mid-ranking Regalia noble connected to the Court of Delicacies. To gain access to his private chambers, she poses as a high-end servant and debt-payer.
 
 However, the noble is paranoid as he isn't a [[Spellweaver]] and masks himself under the guise that he is just a civilian and a victim in a world of magic. Thus, before he allows anyone to be close enough to access his ledgers, he demands she submit to to a circle of five Vow Marks as a "standard security measure" for all new servants. Knowing she cannot blow her cover yet, Amadea is forced to comply. She kneels as the noble uses a silver stylus to carve the paste of emberwhisper and frozen Vow Orchids into the right side of her collarbone.
 
@@ -3713,13 +4083,15 @@ Realizing she has struck a note, she continues: _"What would your father think o
 
 She then calls him by his first name, mirroring the one of his family, and this is the last straw that makes the noble look back at her.
 
-This prompts his ego as he is hurt of being the only one without magic, and he uses another vow mark to get her to stand up on his command and "give her a lesson" while forbidding her to use magic and challenges her to a physical duel believing she is worthless without her [[Spellweaving]]. He lounges for a punch but she catches it. The noble realizing she can fight back, now beings using the previous command as cheap tactics to win the duel. This is where he begins using the orders to kneel or rise as means to sabotage her fighting, that makes the dirty fighting land a punch and a kick on the side of [[Amadea]], as [[Amadea]] recoils from the hit, she backs away before the second and before she has to obey to stop the pain of the vow mark. Saying back to him _"You are now playing dirty? What happened to the duel."_
+This prompts his ego as he is hurt of being the only one without magic, and he uses another vow mark to get her to stand up on his command and "give her a lesson" while forbidding her to use magic and challenges her to a physical duel believing she is worthless without her [[Spellweaving]]. He lounges for a punch but she catches it. The noble realizing she can fight back, now beings using the previous command as cheap tactics to win the duel. This is where he begins using the orders to kneel or rise as means to sabotage her fighting, that makes the dirty fighting land a punch on her face and a kick on the side of [[Amadea]], as [[Amadea]] recoils from the hit, she backs away before the second and before she has to obey to stop the pain of the vow mark. Saying back to him _"You are now playing dirty? What happened to the duel."_
 
 He says with an opportunistic grin: _"So long as I win, nothing else matters. What does it feel to be helpless against magic?"_
 
-While it hurts, [[Amadea]] is versatile as this was the exact training she had to endure with [[Lenore]]. Having [[Amadea]] kneeling after being hit, he then goes for a kick on the kneeling [[Amadea]], however she dodges by only moving her head backwards, and then changing position to a half upright position, not fully leaning into either command, and carefully laying the trap by moving the stage where they are fighting to the center of the room, leading him to the shining chandelier.
+While it hurts, [[Amadea]] is versatile as this was the exact training she had to endure with [[Lenore]]. Having [[Amadea]] kneeling after being hit, he then goes for a follow-up kick on the kneeling [[Amadea]], however she dodges by only moving her head backwards, and then changing position to a half upright position, not fully leaning into either command, and carefully laying the trap by moving the stage where they are fighting to the center of the room, leading him to the shining chandelier.
 
-Amadea says as she fights: "Even if the music is over, there are always other options." echoing the words of [[Corvin]] and becomes a fistfight. She says that she was never a [[Spellweaver]] by privilege, she actually learned to fight from [[Lenore]] with her bare fists and kicks much before she had the ability to use magic. And systematically wins the fist fight by fighting with the rules of [[Lenore]] about her weight, even with his dirty tricks to get her to submit, signaling that she is much more than [[Spellweaving]].
+[[Amadea]] then stands up again defiant, and clears the blood of her nose with the back of her wrist, she says as she fights with the faint blood still on her skin: "Even if the music is over, there are always other options."
+
+She is echoing the words of [[Corvin]] over her own blood as it becomes a fistfight. She then says that she was never a [[Spellweaver]] by privilege, she actually learned to fight from [[Lenore]] with her bare fists and kicks much before she had the ability to use magic. And systematically wins the fist fight by fighting with the rules of [[Lenore]] about her weight, even with his dirty tricks to get her to submit, signaling that she is much more than [[Spellweaving]].
 
 She tells him: _"Your first mistake was giving me weight to anchor to. If the marks weren't on my right side, I wouldn't have a pivot to beat you up. Even as a slaver you are terrible."_
 
@@ -3735,7 +4107,11 @@ While now she's fully unable to fight due to all the pain she has had to endure 
 
 She says to the corpse: _"Always a wounded ego. You are all always so predictable. I don't understand how all of you even got into power."_
 
-As the wreckage clears, she can now stand up again, and retrieves from his pocket the pendant he stole from the [[Demi-Human]] girls.
+As the wreckage clears, she can now stand up again, and retrieves from his pocket [[Mirelle]]'s pendant which he stole from the [[Demi-Human]] after she lost to him and became [[Velvet Nectar]].
+
+With the pendant, [[Mirelle]]'s fate is no longer an absence. The Court didn't merely kill her: it took someone who genuinely enjoyed beauty, touch, taste, and luxury, and transformed those things into mechanisms of extraction, a sculpture of [[Lazarus]] gardens. Her death hurts the trio heavily, but particularly [[Cyril]].
+
+[[Solenne]] stops saying _"She'll come back."_ Because [[Mirelle]] didn't. Before, she thought: _Things will work out._ Now she thinks: _Things might not work out. That is why we have to work._
 
 _Act 21: Silk And Lavender in the Scent of Roses_
 
@@ -3757,7 +4133,9 @@ Amadea against Lazarus says her final words before pretending her death: _"Do yo
 
 This is where the flowers turn a reflective silver.
 
-Despite not actually dying, she is wounded, and the taste of her own blood, shows her the mortality and thin veil she's treading on these estates. She tries to use the [[Waltz of Wandering Love]] to heal back treating her flesh as if it was the repairing spell [[Cordelia]] taught her with clothing, but she realizes it's much harder than she thought, praising [[Cordelia]] for her abilities, she gets properly treated later after arriving half-dead to the informant and the circles of peddlers who help her with [[Glimmerfern]] at the expense of having to do extra work.
+The way in is opened by [[Fidessa]]. She opens the path for [[Amadea]] into [[Lazarus]] gardens, and to save her, and almost dies doing it, but manages to escape.
+
+Despite not actually dying due to [[Fidessa]]'s intervention, [[Amadea]] is badly wounded, and the taste of her own blood, shows her the mortality and thin veil she's treading on these estates. She tries to use the [[Waltz of Wandering Love]] to heal back treating her flesh as if it was the repairing spell [[Cordelia]] taught her with clothing, but she realizes it's much harder than she thought, praising [[Cordelia]] for her abilities, she gets properly treated later after arriving half-dead to the informant and the circles of peddlers who help her with [[Glimmerfern]] at the expense of having to do extra work.
 
 However, instead of failing into despair or leave despite the near-death experience where she had to fake her own demise, this pushes her to find [[Cordelia]] no matter the cost, she will recover [[Artus]] [[Sky Glass]], and the snoring of her companion. As they regroup to assess the situation, Cyril warns her before even attempting, saying that they should find a new opening the next [[Cycle]] instead of trying to force it open.
 
@@ -3770,6 +4148,8 @@ Despite the grim warning, [[Amadea]] refuses to yield saying that [[Cordelia]] c
 Cyril respects her choice, seeing no purpose in arguing against her reckless behavior:
 
 - "Fine, but do not face it head on. It's called [[Corpse Bouquet]] for a reason. You don't want to know what happens when you inhale too much pollen. And I can't assure you I could rescue you from the displays of the [[Court of Delicacies]]. Under no circumstances attempt to escape the trap by panicking, if you thrash you have lost the fight. I am being dead serious. And never, I say never, allow its bell jar to reach you. It always ends in tragedy."
+
+[[Mirelle]] is behind the warning, she was one of the oldest agents [[Cyril]] had and with whom he had most hopes: [[Cyril]] has already lost one of the most valuable persons he held to the sculptures of [[Lazarus]] gardens, and she is the main reason he doesn't want this fate for [[Amadea]].
 
 The first major confrontation happens on the ruined observatory at the end of [[Lazarus]] garden maze a [[Pure Light]] plant [[Eleos Bloom]] Nymph named [[Corpse Bouquet]] which is [[Lazarus]] treasured jewel of his gardens. This is the reason why the chapter title has "scent" of roses. The nymph's official name is "Sanctum Bloom" but the moniker of the underworld and anyone who goes against it knows her by the grim name of [[Corpse Bouquet]].
 
@@ -3976,6 +4356,8 @@ The important thing is that she wins by seeing what the monster is, not just by 
 Aside from the horror, this highlights that [[Pure Light]] beings are also dangerous even if they're not [[Atonalis]] or [[Pleasure Parasite]]s. She calls them "Perverted divinity." And particularly, this fight is important because these nymphs use pollen as mind control arts to subdue and pacify the victim which attempts to use in Amadea before devouring her in subjugation. This is also Amadea's first encounter with mind control arts, and it's a lesser version of the same type of magic that [[Lacrimosa]] uses in the hollowing as the call of the purest of love which breaks most people minds. Amadea has been training against this horrors on the first important mission. And the breathing arts are a key way to fight against Lacrimosa.
 
 Weaponizing the intellect and arrogance of their enemies into the opening she needs is something she learned from Artus, fully applied it against the nymph, and it's what makes her win the rematch against kastor. Moreover, [[Corpse Bouquet]] is part of Lazarus pristine collection. The moment Amadea kills it, the entire court of delicacies feels the waves, distracting most of them while making Amadea a real threat. This is when Lazarus becomes interested in her as she did the impossible, and it evolves the [[Manipulative]] [[Legend Trait]] of [[Amadea]] into [[Reality Bender]].
+
+That distraction is the opening for the mass liberation of Strauss, and [[Argos]]'s ability to track people through residual [[Resonance]] makes him invaluable to [[Amadea]] as the captives are found and guided away beneath the city.
 
 Much later this also ripples out, Amadea later says in Iridia, _"I think [[Corpse Bouquet]] was one of the most frightening moments I've ever felt but that feeling made the clarity needed to stop pulling and start directing."_ 
 
@@ -4237,7 +4619,29 @@ The last thing he tells her is:
 
 [[Cyril]]: "Delusional as ever but hope isn't the point right?"
 
-This now becomes the moment [[Amadea]] pinpoints the exact location of [[Cordelia]] and prepares the extraction. [[Amadea]] rescues [[Cordelia]] from institutional abuse and humiliation. [[Amadea]] teases [[Luminaire]] which causes her to rage and lose her [[Composure]] declaring her a rival. 
+This now becomes the moment [[Amadea]] pinpoints the exact location of [[Cordelia]] and prepares the extraction. [[Amadea]] teases [[Luminaire]] which causes her to rage and lose her [[Composure]] declaring her a rival. 
+
+Right before the revolution, with the [[Demi-Human]]s of Strauss ready to rise behind [[Vashti]], [[Fidessa]], who barely survived opening the path into [[Lazarus]] gardens, finds her:
+
+_"I've been calling you Vashi for Moons."_
+
+_"Yes. And I can't get you to shut up no matter what."_
+
+_"You don't have one for me?"_
+
+_"What? You told me your name was Fidessa."_
+
+_"You are so dumb. Dessa, for you, if we make it out alive. Let's settle it as a promise for tomorrow, right?"_
+
+_"Then Vashi."_
+
+_"You've been pretending to hate it this entire time."_
+
+_"I did hate it."_
+
+_"Oh."_
+
+_"You were the problem. Not the name. If we live enough, perhaps that too can change."_
 
 This next chapter is the first [[Cordelia]] chapter, where the POV changes to her to focus on [[Cordelia]] and her interiority.
 
@@ -4320,6 +4724,36 @@ After they're going out of the stands, [[Kaia]] is sent to approach them later t
 After the eerie encounter, when they reach the informant's place, there is one massive celebration party with [[Cyril]] that has been serving as the informant of [[Amadea]]. This is because the promise they made: _"If you are alive from the heart of the rot of the [[Court of Delicacies]]. Meet me in the new tavern I will have in this [[Major Settlement]]."_ [[Cyril]] is surprised to see the duo of women back, and that [[Amadea]] survived an encounter with [[Lazarus]].
 
 It's a celebration for [[Cordelia]] of being liberated from the claws of the aristocracy where [[Amadea]] introduces her to the rest of the friends she's been making on the streets while planning how to save her.
+
+Among them are [[Vashti]] and [[Fidessa]]. When [[Cordelia]] overhears [[Fidessa]] calling the leopard Vashi, she tries it herself:
+
+[[Cordelia]]: _"Vashi—"_
+
+[[Vashti]]: _"Vashti."_
+
+[[Cordelia]]: _"Oh. Sorry. Vashti."_
+
+Aside from developing the bond between the leopard and the foxgirl, it is characterization: the privilege is **not transferable**. [[Fidessa]] is delighted.
+
+[[Fidessa]]: _"So it *is* just me."_
+
+[[Vashti]]: _"Don't make me reconsider."_
+
+The party is also the stage for one of [[Fidessa]] and [[Amadea]]'s [[Reality Bender]] fever-dream sessions, a comedic bout of [[Illusory Magic]] where no one knows what is happening, which [[Cordelia]] watches baffled. [[Fidessa]] is buying [[Eleos Bloom]]s one by one while [[Amadea]] is the seller insisting on the whole package instead of individual loaves:
+
+[[Amadea]]: _"Ma'am, you really can't buy individual slices like—"_
+
+[[Fidessa]]: _"I buy the [[Eleos Bloom]] *Pressing Celesta*."_
+
+[[Amadea]]: _"You have to buy the whole thing. It's— Uhm."_
+
+_Loaves begin raining._
+
+[[Amadea]]: _"Wait, where are these even coming from?"_
+
+[[Fidessa]]: _"I buy the [[Eleos Bloom]] *Pressing Celesta*."_
+
+[[Amadea]]: _"It's on the counter now and the floor."_
 
 [[Sephira]] eventually arrives at the tavern and confronts [[Amadea]], saying that she knows she still has the object they were fighting for, demanding it back because she used her as the ticket to safety.  [[Amadea]] places a bet giving to her [[Volatile]] nature, if [[Sephira]] can beat her on the drinking games, she will claim it. _"How about we make it fair and interesting: Whomever is still standing last, gets to claim it."_
 
@@ -4848,7 +5282,7 @@ This is where her [[Cindergale]] [[Ornament]] [[Motif Awakening]] occurs. The 
 
 She struggles in defiance against all odds with the new ticking sound of [[Amadea]]'s [[Celestial Astrolabe]], trying to focus all her magic no matter what she feels, what she sees, or what she hallucinates. Moreover, this is when Cordelia begins her time bending abilities through the treacherous terrain as she manages to go backwards to the past 4 Beats (Seconds) every time she fails a jump or something else, this is her first encounter with time bubbles as she's inadvertently creating them out of desperation. This is the first step of [[Cordelia]] becoming the Time Bender.
 
-_Act 34: And You Have Bleed Enough, Remember?_
+_Act 34: And You Have Bled Enough, Remember?_
 
 The POV goes back to [[Amadea]] where we are in a disturbing state of her interiority and the interaction with the [[Artus]] shapeshifter where the [[Atonalis]] was wanting to be [[Amadea]] so badly saying "I want hair like yours, hands like yours, fingers that curl in the cold like yours, I want eyes to stare, and to cry when I'm feeling lost like you." The [[Facewalker]] is touching each part of [[Amadea]] as it describes the eerie passage.
 
@@ -4924,6 +5358,12 @@ The moment [[Amadea]] reaches this place, she realizes this is the exact descrip
 
 Thus, the real "Avaloch Basin" of [[Elaine]]'s dream is the exact chalice basin where Iridia is eventually founded near the boreal reach. [[Amadea]] names it as the "Iridescent Basin" and the city of Iridia is founded on the very center of it.
 
+The pilgrimage crosses a land the emancipation of Strauss has rearranged. Routes change. Trafficking networks collapse. Refugees begin moving. Old Court safehouses become contested. Bandits, escaped servants, displaced [[Demi-Human]]s and surviving Court agents all begin crossing territories that had previously been quiet. That's where [[Laima]], a [[Demi-Human]] lynx, joins the feline group. She initially doesn't see [[Amadea]]'s revolution as liberation:
+
+[[Laima]]: _"You kicked the hive and now everyone is running through my forest."_
+
+She is helped by the emancipation in principle while being materially inconvenienced or endangered by it. With her, [[Solenne]] and [[Zerlina]] are a trio again, and they move from surviving Strauss to **building a society** in [[Iridia]].
+
 _Act 38: A Safe Haven of [[Ballad]]s & Fantasy [[Civic]] Plays_
 
 Founding of [[Iridia]], and the first true insurmountable achievement from [[Amadea]]. She finally makes the [[Echoing Bonds]] of [[Artus]] planted on the beginning of what will be the new grove.
@@ -4937,6 +5377,16 @@ The memory and promise is finally a reality.
 The chapter also shows the reality of these [[Civic]] plays painting sets, rehearsing lines, the anxiety of performers to beautifully contrast the apocalyptic horror outside the city walls. It shows the citizens engaging in the mundane labor of creating art, proving that they are not just surviving, but actively choosing to live which is the core thesis of [[Amadea]] transformation of living instead of merely surviving.
 
 In [[Iridia]], originally [[Cordelia]] follows the laws of the plays exactly as they are, acting subconsciously on her abuse as if [[Amadea]]'s institutional law is above everything. Seeing this, [[Amadea]] breaks her paralysis saying that rules aren't absolute and that she should always question authority, especially if it's [[Ballad]]s, they're meant to portray emotion, not to be constrained by rules.
+
+[[Laima]] finds [[Cordelia]] almost incomprehensible. [[Cordelia]] gives and gives and gives. [[Laima]] initially assumes this must be manipulative, much like how [[Amadea]] behaves with the aristocracy: nobody is that generous for free. Then she watches [[Cordelia]] long enough to discover the much worse truth: [[Cordelia]] genuinely expects nothing back. The lynx doesn't find that beautiful. She finds it horrifying, because someone who expects nothing back can be consumed indefinitely. [[Zerlina]] recognizes the consent problem in [[Cordelia]]; [[Laima]] recognizes the **reciprocity problem**.
+
+[[Laima]]: _"You're supposed to let people repay you."_
+
+[[Cordelia]]: _"You don't owe me anything."_
+
+[[Laima]]: _"That's not why."_
+
+That is the whole relationship, and it is extremely relevant to [[Cordelia]]'s eventual collapse.
 
 _Act 39: The Seed of [[Revelation]] of the Violet Grove_
 
@@ -4967,9 +5417,13 @@ The _Dancing Blade Arts_ and the creation of the _Dear Fugue_ construct are not 
 
 _Act 41: Dawn Must Come for Those Who Cannot Watch Themselves_
 
-Reintroduction of [[Lenore]] who has heard the myth of a new safe haven and realizes it's [[Amadea]] who did manage to found [[Iridia]]. She rejoins the main cast with [[Amadea]] as [[Iridia]]'s scholar, and architect of [[Cosmic Motion]] imitating the water systems of Lol-Ha' in the city capital.
+Reintroduction of [[Lenore]] who has heard the myth of a new safe haven and realizes it's [[Amadea]] who did manage to found [[Iridia]]. She rejoins the main cast with [[Amadea]] as [[Iridia]]'s scholar, and architect of [[Cosmic Motion]] imitating the water systems of Lol-Ha' in the city capital. She comes accompanied by Mehr Ling as both renounced of their lives in [[Xian-K'in]] to join [[Amadea]].
 
 First conflicts with [[Lazarus]] on the [[Court of Delicacies]]. She realizes that it's necessary to have a [[Shadow Order]] to keep the light of [[Iridia]] afloat, she properly becomes a [[Great Justiciar]], and starts creating the [[Civic]] apparatus of her [[Civilization]], including the [[Obsidian Feather Society]]. She starts getting involved with [[Luminaire]] and [[Hollowmarch]] as an opposing mirror to their theology on suffering, and reviews her own version of the [[Auric Order]] mainly focused on the [[Waltz Pillar]] instead of the [[Aureus Pillar]].
+
+Of the [[Demi-Human]]s who followed [[Amadea]] toward [[Iridia]], [[Argos]] becomes one of the most important, specializing in reconnaissance, extraction, and bringing missing operatives home for the new [[Shadow Order]]. When [[Lenore]] arrives at [[Iridia]] and watches him counting survivors, checking routes, and watching entrances, she sees it immediately:
+
+[[Lenore]]: _"Of course you trust him. You found yourself another man who counts everyone before he sleeps."_
 
 _Act 42: Do You Recognize Him!? Of Course You Do!!
 
@@ -5084,9 +5538,43 @@ _Act 43: Safety Without Freedom is Just Another Form of Violence_
 
 The chapter opens by the continuation of the [[Corvin]] revelation, [[Amadea]] panicking, and entering a similar spiraling state but grounding herself in her order, and in [[Cordelia]]. She however, begins to overcompensate becoming a martyr herself to prevent to have the fate of [[Corvin]].
 
+She begins preparing for the fully fledged war with the help of [[Lenore]] to understand [[Dream Magic]], Amadea uses [[Entropic Scrying Arts]] to see the future where lost against the [[Corpse Bouquet]] and she's horrified which is partially what stops her from using dream scrying in general as she sees herself posed as the breathing sculpture of the [[Corpse Bouquet]]. From then onward, [[Lenore]] becomes the [[Great Seer]] of [[Iridia]] aided by Mehr Ling. This encounter however poses a more terrifying revelation for [[Amadea]]:
+
+_"Then whatever kills me is still ahead."_
+
+She has now literally witnessed one of her deaths, and it was not the promised death so it gives existential horror:  She is afraid of finding the sentence that ends with run as the [[Obsidian Feather Society]] will be now engaged in the [[Shadow Order]] war on a newborn [[Iridia]] while she developed [[Revelatory Martyr]].
+
+The feline trio are the voices that hold her leadership to account. [[Zerlina]], who grows more suspicious the faster everybody agrees, is the one who teaches [[Amadea]] that persuasion can become coercion long before anyone casts a [[Vow Mark]]:
+
+[[Amadea]]: _"They volunteered."_
+
+[[Zerlina]]: _"You asked them."_
+
+[[Amadea]]: _"Well, yes."_
+
+[[Zerlina]]: _"You're the Violet Empress."_
+
+[[Amadea]]: _"And?"_
+
+[[Zerlina]]: _"Ask them again when you're not in the room."_
+
+[[Solenne]] fights the arithmetic itself, probability against personhood, and she is the one who puts [[Amadea]] on the side of [[Corvin]] when he used to fight against [[Elaine]]:
+
+[[Amadea]]: _"If we attempt that extraction, we risk twelve people for three."_
+
+[[Solenne]]: _"So make it safer."_
+
+[[Amadea]]: _"There isn't a safer plan. We don't have any more shots."_
+
+[[Solenne]]: _"Then make another one."_
+
+[[Amadea]]: _"Eventually there are no more plans."_
+
+[[Solenne]]: _"Eventually isn't now."_
+
 [[Ligeia]], the armored singer of the [[Court of Delicacies]] uses the exact same prismatic polearm technique that [[Elaine]] used, giving a dark mirror to [[Amadea]] of her own childhood and surrogate mother even if not strictly related. At her worst point, it curls into an obsession after realizing the truth of [[The Seven Hands]] that killed [[Artus]].
 
-On the subject of theology, she leans [[Iridia]] ultimately deciding to be only [[Waltz Pillar]] leaning as she refuses to be fully [[Chorus Pillar]] or fully fledged [[Aureus Pillar]] by seeing both ends of the spectrum. [[Amadea]] explores her [[Reverent]] nature.
+On the subject of theology, she leans [[Iridia]] ultimately deciding to be only [[Waltz Pillar]] leaning as she refuses to be fully [[Chorus Pillar]] or fully fledged [[Aureus Pillar]] by seeing both ends of the spectrum. [[Amadea]] explores her [[Reverent]] nature. And begins a long struggle of martyrdom with the idea that true leadership means your consequences no longer stop at the boundaries of your own body.
 
 Furthermore, [[Pollux]] focuses on the weaponization of [[Amadea]]'s unknown past is the climax of his symbolism on their early fights against [[Pollux]] after [[Corvin]]'s revelation, where he deliberately brings [[Amadea]] to her lowest and offers her the one thing even the [[Facewalker]] could not: her _origins_.
 
@@ -5142,6 +5630,22 @@ An armored cross singer, [[Ligeia]], from the [[Court of Delicacies]] learns to 
 
 [[Luminaire]] passes on the words of [[Aurelian]] to [[Amadea]] that she learned from [[Daedalus]] when she was younger: _"Meaning is applied human-" she softly chuckles, "and well sometimes [[Demi-Human]], devotion. And to be devoid of devotion is to be living without a reason to live."_
 
+In the [[Shadow Order]] operations, [[Argos]] and [[Laima]] work as a pair. [[Argos]] finds people; [[Laima]], the counter-tracker and field-extraction specialist, makes sure people **cannot be found**. She knows how to break a trail, create false routes, disguise camps, move wounded people through terrain, identify ambush funnels, find defensible sleep positions and determine when a route has become compromised. [[Argos]] finds captives. [[Laima]] gets them somewhere nobody can follow.
+
+[[Argos]]: _"They passed here."_
+
+[[Laima]]: _"Then whoever followed them also passed here."_
+
+[[Laima]] is also the one who keeps asking _"Who brings [[Argos]] home?"_ She becomes the first person who treats the rescuer as somebody who also requires retrieval, and [[Argos]] hates this.
+
+[[Argos]]: _"I know the way back."_
+
+[[Laima]]: _"So do they."_
+
+[[Argos]]: _"Who?"_
+
+[[Laima]]: _"Everyone you go looking for."_
+
 _Act 45: A Noble Sacrifice of A Cost Too Great For A Single Soul To Bear_
 
 The act is a 3 theme breakdown between [[Amadea]] and the [[Corvin]] struggle that she's repeating the same patterns as a [[Threat Cartographer]]. Plus the realization that she has been replicating [[Artus]]'s martyrdom pattern in how she leads. Unbearable precision about what [[Amadea]]'s leadership style has cost someone she loves. 
@@ -5182,9 +5686,15 @@ That smile becomes one of the most psychologically damaging memories [[Cordelia]
 
 The [[Time Bubble]] does not collapse when [[Amadea]] dies. [[Amadea]] uses her last magic for a one way jump with an [[Obsidian Feather]] only for [[Cordelia]] to get her to safety just far enough where she can run. [[Cordelia]] remains inside long enough to grieve her. She has to live with the consequence instead of immediately being rewarded with the restoration of the original continuity. She mourns [[Amadea]] at [[Iridia]], lives in the emptier world left behind, and eventually reaches the point where she stops trying to resurrect her. Only after accepting that death does she return to the original problem that trapped her there. The solution is ultimately something painfully small compared with the enormity of the suffering the bubble contained: a minor contradiction in the causal chain, an object, memory, action, or temporal consequence whose existence requires its own cause to have already happened. [[Cordelia]] finally sees that this tiny inconsistency is the central [[Strand Pool]] around which the entire history has folded. By severing that causal anchor rather than creating another one, she allows the impossible chronology to collapse. And unmakes the saving miracle she created for the feline, accepting that she had to die for her to gain this knowledge. This happens over the last talk she has with the girl she rescued, in one of the gardens of [[Iridia]] under the moonlight and after spending the last day of the rotting reality with a ghost that shouldn't be alive, she makes the final goodbye, and goes back to the moment where she saved her, letting causality continue without her intervention and resolving the contradiction.
 
-Upon return [[Sephira]] is the first to meet her, but [[Cordelia]] is deeply devastated and hollow, [[Sephira]] believes it was because of the feline girl that died as almost no comparable amount of time has passed. However, it all crashes down once she is back at [[Iridia]] and [[Cordelia]] returns to the original continuity and sees [[Amadea]] alive. The reunion is psychologically closer to resurrection than ordinary relief. [[Amadea]] may have experienced [[Cordelia]]'s disappearance as mere days of expedition; [[Cordelia]] has spent an [[Echo]] beside her, watched almost everyone they knew die, held [[Amadea]] while she bled out, buried or mourned her, and then continued living afterward in [[Iridia]]'s darkest days as they lost the [[Shadow Order]] war. When the living [[Amadea]] approaches and asks what happened, [[Cordelia]] freezes because the woman she remembers dying is walking toward her. She eventually grabs and embraces her with the same desperate physical recognition that mirrors the reunion of [[Selenea]] and the [[Auric Aria]] in the [[Parlor of the Moon]], grabbing [[Amadea]] by the waist as she is clutched desperately clinging to her. To [[Amadea]] it is an unexpectedly intense reunion. To [[Cordelia]], it is a dead woman returning without ever having died.
+Upon return [[Sephira]] is the first to meet her, but [[Cordelia]] is deeply devastated and hollow, [[Sephira]] believes it was because of the feline girl that died as almost no comparable amount of time has passed. However, it all crashes down once she is back at [[Iridia]] and [[Cordelia]] returns to the original continuity and sees [[Amadea]] alive.
 
-The escape establishes one of the most important properties of [[Time Bubble]]s: the chronology can be rejected without the lived duration being refunded. The impossible future ceases to be externally historical, but it remains internally constitutive of [[Cordelia]] and it is the push that gives her the title of Time Bender. She remembers it, her [[Soul-Key]] has integrated it, and her body resolves to the duration her soul actually experienced. She therefore emerges physically older than when she entered despite almost no equivalent time having passed outside. This leads [[Cordelia]] to formulate the principle that later becomes foundational to the study of temporal magic: **“Time may be rewritten. Duration cannot be unlived.”** A history can cease to be externally true while remaining internally constitutive. For a virtuoso of [[Echoing Bonds]], it becomes perhaps the purest possible proof that the past can bind someone even when the universe itself no longer recognizes that past as having happened.
+The reunion is psychologically closer to resurrection than ordinary relief. [[Amadea]] may have experienced [[Cordelia]]'s disappearance as mere days of expedition; [[Cordelia]] has spent an [[Echo]] beside her, watched almost everyone they knew die, held [[Amadea]] while she bled out, buried or mourned her, and then continued living afterward in [[Iridia]]'s darkest days as they lost the [[Shadow Order]] war. When the living [[Amadea]] approaches and asks what happened, [[Cordelia]] freezes because the woman she remembers dying is walking toward her. She eventually grabs and embraces her with the same desperate physical recognition that mirrors the reunion of [[Selenea]] and the [[Auric Aria]] in the [[Parlor of the Moon]], grabbing [[Amadea]] by the waist as she is clutched desperately clinging to her. To [[Amadea]] it is an unexpectedly intense reunion. To [[Cordelia]], it is a dead woman returning without ever having died.
+
+While [[Amadea]] is stunned by this sudden change in [[Cordelia]], she realizes she can't be lying, so her curiosity piques with one thought. _"What were the last words you heard from me?"_ [[Cordelia]] of course is surprised by this curveball, but she replies between sobs: _"Did you? I believe..."_
+
+This poses more dread on [[Amadea]], as [[Cordelia]] does see a version of [[Amadea]] die during her time bubble chapter as one of the "failed" timelines but it doesn't contain "RUN" it was a different ending, and she is about to embark on a direct assault on the [[Court of Delicacies]] to fight the painter.
+
+Finally, the escape establishes one of the most important properties of [[Time Bubble]]s: the chronology can be rejected without the lived duration being refunded. The impossible future ceases to be externally historical, but it remains internally constitutive of [[Cordelia]] and it is the push that gives her the title of Time Bender. She remembers it, her [[Soul-Key]] has integrated it, and her body resolves to the duration her soul actually experienced. She therefore emerges physically older than when she entered despite almost no equivalent time having passed outside. This leads [[Cordelia]] to formulate the principle that later becomes foundational to the study of temporal magic: **“Time may be rewritten. Duration cannot be unlived.”** A history can cease to be externally true while remaining internally constitutive. For a virtuoso of [[Echoing Bonds]], it becomes perhaps the purest possible proof that the past can bind someone even when the universe itself no longer recognizes that past as having happened.
 
 This is also why [[Cordelia]] does not outlaw all [[Chrono Magic]]. What she eventually prohibits within [[The Principles of Magic]] is **self-negating causality**: deliberate temporal structures in which the existence of an event destroys or requires the destruction of the cause that made the event possible. A [[Strand]] may bend temporal relationships, preserve memory, reveal the past, or manipulate duration, but it must never demand that history contradict the cause of its own weaving. Her personal experience causes her to contemplate even further extremes such as the classical impossible case — going backward to kill one's own grandfather — and she no longer treats it as an amusing theoretical paradox. Her immediate thought is what kind of subjective eternity a consciousness might endure while reality attempts to resolve the contradiction. She can only imagine the torture.
 
@@ -5650,26 +6160,35 @@ Elder [[Lenore]] becomes a key figure in [[Iridia]] to ground [[Amadea]] even de
 
 Moreover, [[Amadea]] unearths the story of the [[Stravos Household]] and of [[Pollux]] & [[Kastor]] past, following the lead of [[Leda]] the violinist and of [[Markus]].
 
-_Act 50: I Am The North Star of My Own [[Celestial Astrolabe]]_
-
-They finally realize the plan on how to beat [[Pollux]].
-
-This is the the moment of transformation of [[Amadea]]'s [[Reality Bender]] into [[World Shaping Maverick]] which crystalizes further her [[Crystal]] [[Motif Awakening]]. _"You are again filled with Determination. For you are the Determination."_
-
-When [[Amadea]] is prompted to abandon the legacy of [[Iridia]] she declares: _"But I refuse. I won't be written out of my own story. I will claw for a better world with my own hands regardless of the insurmountable of the pain I must face."_
-
-_Act 51: The Seven Founding Architects of [[The Principles of Magic]]_
+_Act 50: The Seven Founding Architects of [[The Principles of Magic]]_
 
 [[Cordelia]] is a key character to [[Amadea]] as well in her relationship to [[Luminaire]] which is why the 3 found so many schools of magic like [[Illusory Magic]], [[Healing Magic]], [[Detective Magic]], etc. [[Cordelia]] and [[Luminaire]] fight over [[Divination Arts]], [[Cordelia]] says it's part of [[Time Bending Arts]] and her register, while [[Luminaire]] argues that the importance lies in the intent which is revealing. This is the first time this debate appears over the decision on where to put it and continues many [[Ages]] after.
 
 This is the formal rise of the [[Mythical Virtuoso]], establishing [[The Principles of Magic]]
- and [[The Registers of Magic]] based on what they have all gathered across their entire journey. They take on the former legacy of [[Daedalus]] and [[Aurelian]]. [[Artusian Knight]]
-
+ and [[The Registers of Magic]] based on what they have all gathered across their entire journey. They take on the former legacy of [[Daedalus]] and [[Aurelian]].
+ 
 As words get out, [[Pollux]] questions [[Amadea]] about her decision to create [[Forbidden Magic]]: _"You tried to outlaw everything I do, what is the fun in that? But I'm glad that I keep such an impact in your mind as much as you do in mine. That's the sweetest thing anyone could has ever done for me. 'To try to preserve the [[Dissonance]] of my strings by immortalizing them into law.'  It sounds so delightful, but I digress with calling it [[Atonalis]] magic, mine is much more refined, filled with distortion, yes, but devoid of [[Discordant Interference]]."
 
-_Act 52: Run Into Love To Destroy Who You Used To Be_
+- Mehr Ling already knows at his death that nothing will survive the [[Awakened State]] so he begs [[Amadea]]: “Run!” She then repeats those words, and the dread takes hold of her as she realizes she's fulfilling the prophecy as she effectively said at last "run", but precisely that burst of dread momentum is why she manages to escape. **This is the moment [[Amadea]] believes she has reached it**.
+
+- _No. Not now. This is the word._
+- _This is how it starts._
+- _This is the word the prophet heard._
+- _So this is what run sounds like when death reaches me—_
+
+_Act 51: I Am The North Star of My Own [[Celestial Astrolabe]]_
+
+In the aftermath, [[Amadea]] realizes there is always another [[Beat]] after the [[Beat]] that should've been the last.
+
+When [[Amadea]] is prompted to abandon the legacy of [[Iridia]] she declares: _"But I refuse. I won't be written out of my own story. I will claw for a better world with my own hands regardless of the insurmountable of the pain I must face."_
 
 [[Amadea]] realizes on her deepest trauma that it will not be because she forgot the girl in the river. It will be because she finally steps into the water, takes that little girl by the hand, and decides to become the mother she lost, both to herself and to the world of Iridia. This is how she destroys her version that looks on the past and finally walks forward into love. (Image of the little girl in the river being rescued by herself.)
+
+This is the the moment of transformation of [[Amadea]]'s [[Reality Bender]] into [[World Shaping Maverick]] which crystalizes further her [[Crystal]] [[Motif Awakening]]. _"You are again filled with Determination. For you are the Determination."_
+
+They finally realize the plan on how to beat [[Pollux]].
+
+_Act 52: Run Into Love To Destroy Who You Used To Be_
 
 This is the fight between the [[Court of Delicacies]] and the [[Obsidian Feather Society]] divided in two fronts, one in the underground passage with [[Amadea]], and the second team of [[Cordelia]], [[Sephira]], and [[Orphael]].
 
@@ -5979,6 +6498,10 @@ _Act 65: The Fall of [[Enclave]]s, Starvation and Cessation of All Joy_
 
 Starvation begins to set in as the infrastructure is compromised, entire societies fall because _"Who are you to tell a starving child that they deserve to continue suffering? Join instead the embrace of the [[Purest of Love]]."_
 
+[[Argos]] keeps going out. 3 missing. He finds all 3. Then 17 missing. He finds 15. Then he finds 41. Then an entire village. Then three villages. Then refugees start deliberately hiding because they want [[Lacrimosa]]. Then people he rescues walk back toward the [[All-Loving Moon]]. That last part is what breaks him. He retrieves someone. They thank him. That night they Hollow willingly. He finds them again and there is **nothing left to rescue**.
+
+People disappear faster than he can rescue them, entire communities fall, and his identity collapses under the accumulation of those he could not bring home. This is the weakness through which [[Lacrimosa]] reaches him, offering the impossible fulfillment of his deepest wish: **"No one is lost here."** [[Argos]] surrenders because [[The Hollowing]] abolishes separation itself, right before [[Orphael]] and some of his friends defect too. Afterward, the man who once found the missing so they could return home becomes capable of finding survivors so they can be absorbed, turning his greatest virtue into one of [[Amadea]]'s most painful losses.
+
 _Act 66: The Dawn of the [[Age of the False Messiah]]_
 
 This the Dawn of the [[Age of the False Messiah]] where entire societies submit making the collapse of infrastructure which makes even more societies submit and the domino collapse escalates levelling the entire league of [[Enclave]]s which then make the next compounded tragedy, as [[Orphael]] is the next of the [[Mythical Virtuoso]] choosing oblivion as he sees so much suffering from trying to heal a world that keeps breaking itself under the stress of more people choosing [[The Hollowing]]. He falls alongside the [[Sprite-Light Conclave]].
@@ -5995,9 +6518,13 @@ _Act 67: The Dream of the Tide Singer_
 
 [[Sephira]] is about to surrender but [[Ligeia]] returns the favor all that time ago when she prevented [[Ligeia]] from choosing oblivion to die with [[Pollux]]. [[Sephira]] is saved by the life she once saved, and it helps when [[Amadea]] joins them as well.
 
+[[Fidessa]] becomes dangerously close to surrendering to [[The Hollowing]], as the garrison collapses, and one of the catgirls that is with her surrenders. [[Fidessa]] is about to collapse too and join her as well because her severe trust issues make the promise of a world without deception extremely seductive. [[Lacrimosa]] offers her something [[Pollux]] never could: absolute certainty. No masks, no lies, no wondering whether what she sees through [[Illusory Magic]] is real, and most importantly no possibility of betrayal, because there is no separation between minds. For someone who has survived by constantly questioning reality and other people, [[The Hollowing]] feels like finally being allowed to stop asking whether the world is lying to her.
+
+[[Vashti]] reaches her before she surrenders. It is the culmination of her own relationship with agency: after having her own will controlled through [[Vow Mark]]s, she refuses to save [[Fidessa]] by taking the decision away from her. She can only remain with her and tell her that she cannot promise [[Iridia]] will never fail her, that nobody will ever betray her, or that trusting someone will not hurt, but the choice remains hers and she will stay while she makes it. The foxgirl chooses to remain herself not because uncertainty disappears, but because another separate consciousness remains beside her while she faces it.
+
 The [[Luminaire]]-[[Orphael]] loss is a tragedy that makes [[Amadea]] enter into a Fractured state but the worst to come is when [[Cordelia]] defects as well as [[Lacrimosa]] finally manages to make her submit in a cornered defense squadron that has lost to the [[Purest of Love]], as she desperately tries to heal everyone.
 
-_Chapter 68 — Mother of All Healers_
+_Chapter 68: Mother of All Healers_
 
 [[Lacrimosa]] orchestrated a false delivery plan while sabotaging the [[Topological Arts]] network of [[Amadea]]. She expected to confront [[Lacrimosa]], instead is the garrison of [[Cordelia]] who will be subject to the horrors.
 
@@ -6007,7 +6534,7 @@ The [[Luminaire]]-[[Orphael]] loss is a tragedy that makes [[Amadea]] enter into
 
 She perfectly reads [[Cordelia]]'s unvoiced traumas and offers the exact psychological antithesis to her wounds. [[Lacrimosa]] points out that [[Cordelia]]'s relentless [[Over-giving Devout]] nature to [[Amadea]]'s crusade has just become a new version of her family's aristocratic abuse. She uses this intelligently as she knows [[Amadea]] won't make it in time to save [[Cordelia]] even when she realizes. Furthermore, [[Lacrimosa]] plans to use the despair of [[Amadea]] and her enduring survivors guilt as the means to make [[Amadea]] hollow too after she fails to save [[Cordelia]]. It's a sealed double plan to completely vanquish the pair of [[Mythical Virtuoso]].
 
-_Act 69 — I-I can't!? There has to be another way, answer me!!_
+_Act 69: I-I can't!? There has to be another way, answer me!!_
 
 The chapter mirrors the structure of the run that [[Cordelia]] did in her [[Cindergale]] [[Motif Awakening]] for [[Amadea]] and the rescue of the estate by [[Amadea]]. When [[Amadea]] rescued [[Cordelia]] at the estate, [[Amadea]] was physically present. When [[Cordelia]] rescued [[Amadea]] from the [[Facewalker]] [[Erosyx]], [[Cordelia]] physically crashed into the ice cage to anchor her. However, this time, [[Amadea]] isn't able to come to the trap [[Lacrimosa]] deliberately set for both in time. 
 
@@ -6048,6 +6575,8 @@ _Act 70 — The Blazing Heart of the Resistance_
 However, when facing the reality-bending horror of [[Lacrimosa]], [[Amadea]]'s anchor is not abstract theology, it is the fact that [[Lacrimosa]] mentioned [[Artus]] at the very end. Thanks due to this slip that she survives, as it acts as the grief of losing [[Cordelia]] contrasted to the memory of a boy with a split lip smiling at her in a dry riverbed caused by [[Lacrimosa]]'s own words mentioning [[Artus]]. If [[Amadea]] chose to hollow, then the memory of [[Artus]] would be truly dead as she's admitting that his sacrifice and her weeping was meaningless. She uses the last tether of her magic to warp away from [[Lacrimosa]] and retreat action. [[Lacrimosa]] sees this as proof of checkmate, her inability to confront her directly, and waits for her to surrender her [[Consciousness]] the next time they meet shortly after, however, the next time they meet [[Amadea]] is not going to surrender.
 
 [[Artus]] memory can oppose a god because both are configurations of [[Resonance]]. and reality, no matter the scale is a relationship built on [[Resonance]]. A relationship does not become ontologically insignificant because it is small, the universe is a fractal. This contrast between the macrocosmic threat and the microscopic human connection is what makes [[Amadea]] mourn with [[Sephira]] the loss of a fellow [[Mythical Virtuoso]]. [[Amadea]] lost [[Luminaire]] and [[Cordelia]], [[Sephira]] lost [[Orphael]]. 
+
+The rescue of [[Fidessa]] in Act 67 becomes the deliberate thematic mirror of this loss. [[Amadea]] loves [[Cordelia]] but does not reach her before the decisive moment of [[The Hollowing]], while [[Vashti]] reached [[Fidessa]] just in time. The difference is not that the leopard loved her more or had a better argument, but simply that **she got there in time**. It is particularly painful for [[Amadea]] because it proves that sometimes the difference between losing someone and saving them is having another person physically present during the few moments when they can still hear themselves.
 
 The relationship of [[Luminaire]], [[Orphael]] and [[Cordelia]] is the final push for [[Amadea]] to realize "To have lost greatly, is to have loved greatly," 
 
@@ -6123,7 +6652,7 @@ _Act 78: The Encore of Ten Thousand Voices_
 
 This entire act is a mirror to the first show of [[Pagiel]] that [[Cordelia]] and [[Amadea]] attended at the climax of the carnival of shifting reflections in Act 24 of Everything Beautiful and Wrong, but with completely different stakes.
 
-Loss is Transformation chapter.
+_Loss is Transformation chapter._
 
 Moreover, the [[Void]] and [[Luminance]] helix lance is structurally the same as the one made by [[Corvin]], [[Elaine]], and [[Kay]] in Act 2. [[Amadea]] reaches [[Miracle Magic]] by burning this very memory as perfect [[Resonance]] fuel, this is the only time after the encounter with [[Carmina]] that she accesses [[Essence Sacrifice]] beyond blood. Thus, in the final helix, [[Sephira]] acts as [[Corvin]] in the rear, [[Ligeia]] takes [[Elaine]]'s place, and [[Amadea]] is driving the helix like [[Kay]]'s [[Crystal]] at the very tip, driving it straight through the heart of the [[Purest of Love]].
 
@@ -6141,8 +6670,6 @@ An attack of erasure to end all erasure.
 - [[Lacrimosa]]'s erasure destroys agency in order to eliminate suffering.  
 - [[Amadea]]'s sacrifice exercises agency in order to preserve a world where agency remains possible.
 
-
-
 #### Score XIV: The Circlet of the Violet Grove
 
 [[Weight of Change]] | [[Fragment of Rebirth]]
@@ -6159,15 +6686,15 @@ Thus, Amadea becomes the audience of Amadea.
 
 The answer of Amadea is: **"Everywhere."**
 
-[[Lenore]] speaks to [[Amadea]] of [[Corvin]] saying:
+As this moves [[Lenore]], she speaks to [[Amadea]] of [[Corvin]] saying:
 
-Corvin was a loving man.  
-Corvin failed.  
-Corvin lost his children.  
-Corvin saved children.  
-Corvin loved me.  
-Corvin became a monster.  
-That monster killed Artus.  
+Corvin was a loving man.
+Corvin failed.
+Corvin lost his children.
+Corvin saved children.
+Corvin loved me.
+Corvin became a monster.
+That monster killed Artus.
 And before all of that, he was the hand who raised you from the fires.
 
 Amadea has to decide whether this stranger deserves her love. Again. And she falls in love with the **weight** of Corvin. All of it, as she expresses: _"That is exactly what Ballads were supposed to do."_
@@ -6208,6 +6735,8 @@ But at Iridia:
 
 The goal was never to keep dancing forever. The goal was to become sufficiently capable of movement that one day children would no longer have to run. Amadea’s mother danced through a freezing current because there was no safe place to stop. Amadea builds the safe place to complete the full circle.
 
+[[Amadea]] to [[Lenore]]: I once heard an astrologer as crazy as you, also predicting future through dreams. I don't remember much but one detail that is as vivid as yesterday. I would die running, I wonder how many times I was frightened by the realization of my own visceral death, but whatever “run” means, I'm no longer afraid of hearing it.
+
 _Act 82: Singers Remember When The Living Cannot_
 
 Most of the children in the caravan reappear as symbols of [[Iridia]], including the [[Waltz of Wandering Love]] as anthem.
@@ -6224,7 +6753,7 @@ It will be taken. People die. Memories disappear. Songs distort. Institutions mu
 
 _Act 83: A Star Born in the Aria of Creation_
 
-On her deathbed, [[Amadea]]'s final words are what she heard from [[Artus]] when he died: _"Greatest knight who ever lived..." She whispered. "With the hand of his beautiful empress... Just like the [[Ballad]], where the children who don't have to run."_
+On her deathbed, [[Amadea]]'s final words are what she heard from [[Artus]] when he died: _"Greatest knight who ever lived..." She whispered. "With the hand of his beautiful empress... Just like the [[Ballad]], where the children don't have to run."_
 
 Run is her last word, as she looks at the golden tree of [[Iridia]] with all of the next generation of the [[Artusian Knight]]s, [[Sephira]], [[Ligeia]], [[Lenore]], and the surviving cast.
 

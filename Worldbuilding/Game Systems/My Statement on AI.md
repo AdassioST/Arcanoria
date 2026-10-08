@@ -1,12 +1,12 @@
 [[Mi Declaración Sobre la IA]] 
 
-_On Human Agency, Creation, and the Mirror of Resonance. The Manifesto of Arcanoria, coded to each of the seven bindings of the Auric Heptacode._
+_On Human Agency, Creation, and the Mirror of Resonance. The Creative Manifesto of Arcanoria, coded to each of the seven bindings of the Auric Heptacode._
 
 All prose is 100% human-written. I do not let any AI write, rewrite, or directly author any of the final literary pieces I release for the Sonata of Amadea.
 
-This includes all the published writing work and the outlines spanning the entirety of the 84 Acts: the key events, the composition of the scenes, the characters, their choices, their flaws, their contradictions, their voices, their fears, and their desires. I have written all of it painstakingly, by my own hand and through many sleepless nights: the entirety of the heptacode, its equations, the metaphysics, and the entire canon I ultimately establish for [[Arcanoria]] and [[Gateway to Genesis]].
+This includes all the published writing work and the outlines spanning the entirety of the 84 Acts: the key events, the pacing, the composition of the scenes, the characters, their choices, their flaws, their contradictions, their voices, their fears, and their desires. I have written all of it painstakingly, by my own hand and through many sleepless nights: the entirety of the heptacode, its equations, the metaphysics, and the entire canon I ultimately establish for Arcanoria and Gateway to Genesis.
 
-I love writing, I love composing musical pieces, I love imagining scenes before they exist anywhere, and I wouldn’t let anything take that away from me. I deeply love the universe of [[Arcanoria]], and it has been my fierce passion and borderline obsession for well over the entire past year.
+I love writing, I love composing musical pieces, I love imagining scenes before they exist anywhere, and I wouldn’t let anything take that away from me. I deeply love the universe of Arcanoria, and it has been my fierce passion and borderline obsession for well over the entire past year.
 
 I write to make this universe real. Nothing and no one could ever take away the process of creation from me.
 
@@ -23,7 +23,7 @@ This last part is especially why I turned to using AI in the first place.
 
 Long before I found a use for [[The White Agent Scribe]], I found the hardest part of my journey as a writer was finding anyone who would reply to my worldbuilding rants, especially since I go over new ideas and change their place in the canon before I settle on something final. I now have recently joined writing clubs, but even then, finding a person sane enough and willing to listen to three consecutive hours of rapid-fire metaphysical outlining mixed with terrible puns at 3 AM is practically impossible, and I know from experience; I tried it multiple times, repeatedly. (In all truth, I still annoy some of my friends with this to this very day; I have not fully gotten the memo.)
 
-Thus, AI became a niche kind of companion who couldn’t refuse to read the stack of a million words I sent every time I wanted to change the color of the sky for the ninth time (_night_ time pun intended) or ask what if X character was a worm. It would charge me a million tokens, sure, but it would always read it, and when starting from nowhere, that was good enough, especially when I had no one.
+Thus, AI became a niche kind of companion who couldn’t refuse to read the stack of a million words I sent every time I wanted to change the color of the sky for the ninth time (_night_ time? Perchance. 🤔) or ask what if X character was a worm. It would charge me a million tokens, sure, but it would always read it, and when starting from nowhere, that was good enough, especially when I had no one.
 
 I will go into much more depth on this last topic in the following sections, but first I need to draw a line:
 
@@ -31,8 +31,10 @@ I will go into much more depth on this last topic in the following sections, but
 
 That one distinction is why there can even be an argument.
 
-**2. What I Will Never Delegate** ([[Sufficient Precision]] | [[Luminance]] | [[Weight of Flaw]])
+**2. What I Will Never Delegate.** ([[Sufficient Precision]] | [[Luminance]] | [[Weight of Flaw]])
 _Sure, progress is good, automation is useful, but human agency remains the only reason why either of those should exist._
+
+Progress for the sake of progress is called cancer, progress for the sake of expanding the human experience is evolution.
 
 As I said earlier, I truly enjoy the creative process behind making something come true. I have laughed, cried, felt both joy and pain in equal parts alongside my characters.
 
@@ -44,25 +46,31 @@ So what does all of this and the entire manifesto actually mean?
 
 I will never let AI decide the story for me, nor let any of the development output reach the final published prose of any of the 84 acts, the bonus chapters, and anything that is publicly front-facing, so rest assured that everything you see at the very end is mine, and mine alone, fully free of AI slop, just as I don’t share my drafts or early manuscripts as if they were of published quality because I care of my craft.
 
-Still, just as I said that I care about quality, I am using anything available to find that upmost quality, so I do use AI to help in this labor as a personalized multi-purpose tool in many areas of my behind-the-scenes cycle: coding, research, placeholders, visual arts drafts, planning (I’m sorry but I can’t make an agenda even if the universe ended), exploring musical ideas, drafting layouts, in-depth analysis, other types of prototyping, first-pass proofreading before getting text to an actual editor (Grammarly is such a blessing), bouncing concepts back and forth, and even ideation. Consequently, if I use it to brainstorm, I don’t borrow its creativity, nor does it have any final creative authority; there is a whole other pipeline I weave through by which that one decision threads. It has to change, mutate, and fit my personal taste for perfection as much as the ontological impossibility of the [[Weight of Flaw]] allows.
+Still, just as I said that I care about quality, I am using anything available to find that upmost quality, so I do use AI to help in this labor as a personalized multi-purpose tool in many areas of my behind-the-scenes cycle: coding, research, placeholders, visual arts drafts, planning (I’m sorry but I can’t make an agenda even if the universe ended), exploring musical phrases and ideas, drafting layouts, in-depth analysis, other types of prototyping, first-pass proofreading before getting text to an actual human editor (Grammarly is such a blessing), bouncing concepts back and forth, and even ideation. Consequently, if I use it to brainstorm, I don’t borrow its creativity, nor does it have any final creative authority; there is a whole other pipeline I weave through by which that one decision threads. 
 
-The distinction is straightforward: I can delegate a task without delegating my judgment, much like how leadership behaves in real life. I am putting a potential idea through the same ruthless creative process I apply to every other possibility I encounter, whether it originates from a conversation, a record log of my time traveling, a piece of music, or a deranged thought that kept me company in insomnia just long enough to follow me into the dreaming world.
+Every single idea has to change, mutate, and fit my personal taste for perfection as much as the ontological impossibility of the [[Weight of Flaw]] allows.
+
+- If a violin’s, guitar’s, or any other type of instrument’s strings are muddy, they’ll never ring clearly. Before you play anything, you have to tune it and then make sure creativity isn’t impaired by something muffling the signal of your intent.
+
+The distinction is straightforward: I can delegate a task without delegating my judgment, much like how leadership behaves in real life with a human development team. I am putting a potential idea through the same ruthless creative process I apply to every other possibility I encounter, whether it originates from a conversation, a record log of my time traveling, a piece of music, or a deranged thought that kept me company in insomnia just long enough to follow me into the dreaming world.
 
 In fact, some of my most critical mechanical breakthroughs in my worldbuilding didn’t come from structured planning or complaisant AI brainstorming. The entire register of [[Flux]] and [[Crystal]] interactions came from somewhere much more bizarre.
 
 On one of my many 3 AM conversations spent bugging friends, a male friend did reply, but he did so because he wanted to jokingly dismiss my metaphysical rants by asking how he could have boobs in the magic system instead. Of course, it was a ridiculous joke meant to get me to shut up. However, my obsessive architect brain refused to let it go because it did point at an underlying issue:
 
-- _Wait, how do I even have something remotely close to changing anatomy if none of the [[Magic Arts]] interact with organic tissue? And what can even create physical objects from spontaneous nothingness without accidentally introducing a latent eldritch horror into the entire magic system?_
+- _Wait, how do I even have something remotely close to changing anatomy if none of the [[Magic Arts]] interact with organic tissue? And what can even create physical objects from spontaneous nothingness without accidentally introducing a pandora’s box of latent eldritch horrors into the entire magic system?_
 
 That single absurd question forced me to overhaul the interplay between bindings, birthed the entire register of [[Illusory Magic]], [[Shapeshifting Arts]], and laid the groundwork for most of the dyad and triad chord interactions between [[Flux]], [[Crystal]], and [[Luminance]] found in [[The Registers of Magic]] today. In the end, the dismissal was a little silly but, more importantly, it was a massive net gain. If I had listened to AI ideas passively, I never would have turned that ridiculous curveball into the gears that accidentally stress-tested my entire physics engine.
 
-To even begin with, if I ever were to agree with a generic AI slop idea that a character is sad because they were betrayed and is now seeking vengeance, then comes the next massive question that only appears in the one fiction where reality itself is a relationship built on [[Resonance]]: What is the texture of grief? The flavor of betrayal? How does their joy or sadness broadcast something that can be a miracle or a crime depending on consent? Which part of that emotion, or its consequences, does the receptive acoustic environment weaponize?
+To even begin with, if I ever were to agree with a generic AI slop idea that a character is sad because they were betrayed and are now seeking vengeance, then the next thing to come is the massive question that only appears in the one fiction ([[Arcanoria]]) where reality itself is a musical relationship built on [[Resonance]]: What is the texture of grief? The flavor of betrayal? How does their joy or sadness broadcast something that can be a miracle or a crime depending on consent? Which part of that emotion, or its consequences, does the receptive acoustic environment weaponize?
 
 By the point it has some semblance of [[Coherence]] within the acoustic ontology of [[Arcanoria]], it is a radically different idea and output, behaving much like the Ship of Theseus:
 
 - At what point does an idea change ownership in name if it resembles nothing of the original? That is precisely what I answer in the final creative judgment.
 
-Regarding characterization, there is one massive thing I do not let AI remotely touch: character names. Naming a character is probably where I am most deliberate and ornate in my craft. I see this process as indistinguishable from naming a child, and I make sure that each name will always carry a profound meaning behind them, whether personal, historical, mythological, or etymological. This is the last step of finding their signature [[Fundamental Frequency]], and it is the one process I deliberately take the most time on.
+So even the planks that began as “blueprint” or “foundation” are no longer part of even the rafting boat. However, even for that, there is one massive red line I do not let any AI remotely touch: character names. 
+
+Naming a character is probably where I am most deliberate and ornate in my craft. I see this process as indistinguishable from naming a child, and I make sure that each name will always carry a profound meaning behind it, whether personal, historical, mythological, or etymological. This is the last step of finding their signature [[Fundamental Frequency]], and it is the one process I deliberately take the most time on.
 
 Likewise, even if I have to pay out of pocket, the final designs of characters and the visual art of [[Arcanoria]] are something I want and do commission from a real human artist; each of these [[Legend]]s deserves to have a real personality from the polished work and interpretation of human creativity beyond myself.
 
@@ -84,7 +92,11 @@ I know No-AI Purists would prefer I stay fully human without any type of aid rat
 
 So if I use AI even in the slightest to help me, does my creativity die?
 
-No, of course it doesn’t. Everything, everywhere, all at once in [[Arcanoria]] has the mark of a brain that wouldn’t shut up about the details of music as magic or the implications of creating a universe devoid of atoms. However, this question does have a lot of nuance. I understand, and have seen personally, how many slopifiers generate endless AI slop as an excuse for laziness disguised as competence. It has become especially prominent with the rise of hyper-consumerism, where thinking and craftsmanship are often secondary despite being what gives a work its identity.
+No, of course it doesn’t. If it has no intention, it has no [[Soul-Key]]: if it doesn’t have a [[Soul-Key]], it has no vibration of its own, if doesn’t have either, it can’t create anything new with true [[Emotional Authenticity]], and that IS the third rule of magic. 
+
+So if it can’t cast a spell, then who does? Me.
+
+Everything, everywhere, all at once in [[Arcanoria]] (👀) has the mark of a brain that wouldn’t shut up about the details of music as magic or the implications of creating a universe devoid of atoms. However, this question does have a lot of nuance. I understand, and have seen personally, how many slopifiers generate endless AI slop as an excuse for laziness disguised as competence. It has become especially prominent with the rise of hyper-consumerism, where thinking and craftsmanship are often secondary despite being what gives a work its identity.
 
 Thus, that leads me to my specific thesis on this entire subject:
 
@@ -98,7 +110,7 @@ Yes, it may sound a little dense; however, as TL;DR, this applies to myself and 
 
 And even despite all of that, if this fails, at least I will have failed trying to build something beautiful for the characters I loved. Hope isn’t the point; action is.
 
-**3. Why I Began Writing** ([[Emotional Authenticity]] | [[Flux]] | [[Weight of Indulgence]])
+**3. Why I Began Writing.** ([[Emotional Authenticity]] | [[Flux]] | [[Weight of Indulgence]])
 _Neither [[Arcanoria]] nor [[Amadea]] was born in a dream bathed in the song of gold; both began when I couldn’t find the light anywhere._
 
 [[Arcanoria]] began during one of the darkest periods of my life, and it was the one lifeline that kept me out of the abyss.
@@ -125,7 +137,7 @@ Perhaps that’s, in some sense, why god exists: to create an expansive universe
 
 And, in retrospect, turning pain into creation was far more effective than the two years I had already spent talking about feelings and a co-dependent relationship.
 
-**4. The First Person I Ever Wrote Was God** ([[Essence Sacrifice]] | [[Void]] | [[Weight of Value]])
+**4. The First Person I Ever Wrote Was God.** ([[Essence Sacrifice]] | [[Void]] | [[Weight of Value]])
 _While trying to find myself._
 
 The first character I ever wrote for [[Arcanoria]] was its creator, the [[Auric Aria]].
@@ -160,7 +172,7 @@ This breakthrough allowed many moments that would have otherwise ended in traged
 
 Sure, an introverted, fearful, traumatized, or deeply resentful character may still resist connection for a long time. That refusal can produce important narrative consequences, but that is the key! Lives are causal in relationship.
 
-I don’t know how much of that phrase came from my emotional authenticity or my desire for connection as a way to have characters prove me wrong about my own nihilism; regardless of that answer, it created a lot of complexity. To be frank, at one point, I had to remove a substantial amount of work from early Amadea because the idea no longer fit the universe or the characters. What was once a small prologue became an entire family. And even worse, the new tonal contrast between [[Void]] and [[Luminance]] also posed a more poignant design question in [[Gateway to Genesis]] that eventually bled into [[Amadea]]:
+I don’t know how much of that phrase came from my [[Emotional Authenticity]] or my desire for connection as a way to have characters prove me wrong about my own nihilism; regardless of that answer, it created a lot of complexity. To be frank, at one point, I had to remove a substantial amount of work from early Amadea because the idea no longer fit the universe or the characters. What was once a small prologue became an entire family. And even worse, the new tonal contrast between [[Void]] and [[Luminance]] also posed a more poignant design question in [[Gateway to Genesis]] that eventually bled into [[Amadea]]:
 
 - I was not sure how to tackle historical atrocities, such as genocide, slavery, death revisionism, and the darkest parts of the human experience.
 
@@ -192,7 +204,7 @@ While suffering is built into the fabric of reality, it is also the raw material
 
 And perhaps the hardest part is being mature enough not to turn aestheticized loss or suffering into a delicacy.
 
-**5. Why Music Became Physics** ([[Perfect Focus]] | [[Cindergale]] | [[Weight of Nature]])
+**5. Why Music Became Physics.** ([[Perfect Focus]] | [[Cindergale]] | [[Weight of Nature]])
 _If the laws of physics couldn’t care less about feelings, what if there was a place where they did? If both are frequencies, art and science don’t have to be divorced._
 
 Long before I took writing seriously, I wasn’t a real artist. I relied only on music and my piano compositions as an emotional outlet for what I couldn’t say.
@@ -201,7 +213,7 @@ I used to be an engineering physics student who happened to really enjoy fiction
 
 For most of my life, the piano was my only true confidant. I wasn’t a child prodigy, of course; I actually learned because in high school I kept hearing video game soundtracks and became convinced that at least one of them had to be simple enough to play on an abandoned Keytar that one of my father’s friends had accidentally left in my house before leaving the country. That “piano”, or more like the re-used digital keyboard, was also my only true confidant.
 
-Back in my edgy teenage years, I thought using art to express feelings was primarily virtue signaling for the sake of escapism. (Look how far I’ve come from being that naive; if only my younger self could see what I am writing right now.) Nevertheless, I couldn’t escape that naivety for long. Around those years, someone very close to me committed suicide, and much of my psychological foundation collapsed with them.
+Back in my edgy teenage years, I thought using art to express feelings was primarily virtue signaling as an excuse for escapism when one couldn’t bear to fix their own life. (Look how far I’ve come from being that silly; if only my younger self could see what I am writing right now.) Nevertheless, I couldn’t escape that naivety for long. Around those years, someone very close to me committed suicide, and much of my psychological foundation collapsed with them.
 
 Originally, I bottled most of that up, of course, thinking that it was pointless to dwell on the past for something I couldn’t control and that I had no responsibility for it, considering I was still young. Still, I’m human and subject to the [[Weight of Nature]], so some of it inevitably leaked into my art. I began composing mourning songs and similarly dark pieces, and somewhere along the way they gave me more confidence as I became a better pianist and composer. Music transformed into one of the defining parts of my high school years. It was what I could brag about with friends and eventually share with a partner I became unhealthily attached to. (Who, ironically, really liked reading and writing.)
 
@@ -223,13 +235,15 @@ I still remember that feeling of being so terrified of being alone again that I 
 
 That loss was eerily similar to the one I had already experienced, partly because I never really processed what I had carried as frozen grief. So even though ending the relationship was my decision, I abandoned music entirely, and writing perished alongside that. Only after the events of 2024 onward did I return to either. I had to find a lifeline where nothing else could hold [[Coherence]].
 
-At my darkest, I realized that if I couldn’t focus on one thing, perhaps that was the issue. I had to think of everything, or at least the scraps of anything I could still afford to piece together. I began threading together every fragment that would keep my brain’s bandwidth occupied. But I hit a barrier pretty quickly: if music, art, and poetry emerge from subjective experience while at the same time, the laws of physics are an external, objective reality that doesn’t care about them; what could marry them?
+At my darkest, I realized that if I couldn’t focus on one thing, perhaps that was the issue. I had to think of everything, or at least the scraps of anything I could still afford to piece together. I began threading together every fragment that would keep my brain’s bandwidth occupied. But I hit a barrier pretty quickly: if music, art, and poetry emerge from subjective experience while the laws of physics are an external, objective reality that doesn’t care about them; what could possibly marry them?
 
 - The issue was deafeningly simple: it is how reality itself is coded. The culprit is the atom.
 
-And, inspired by string theory, I began imagining that I didn’t need to truly separate the activity I used to process emotion from the framework I used to architect the vibration of magic systems. _What if physics were poetry written in sheet music?_
+And, inspired by string theory, I began imagining that I didn’t need to truly separate the activity I used to process emotion from the framework I used to architect the vibration of magic systems:
 
-That’s when I came up with the idea of the [[Soliton]], [[Arcanoria]]’s alternative to the atom. Truth be told, though, I won’t explain the Driven-Dissipative Cubic-Quintic Complex Ginzburg-Landau Equation (CQCGLE), the Heptagonal Brillouin Zone or the rest of the solitonic metaphysics here; that rabbit hole belongs to [[The White-Haven Library]] and [[Gateway To Genesis]]. I am already well over the regular word count I expected on the manifesto. Nevertheless, the important part is that [[Soliton]]s are self-reinforcing waves that can contain packets of something, such as frequencies. Said simply, they behave like bubbles with an interior and an exterior:
+- _What if physics were poetry written in sheet music?_
+
+That’s when I came up with the idea of the [[Soliton]], [[Arcanoria]]’s alternative to the atom. Truth be told, though, I won’t explain the Driven-Dissipative Cubic-Quintic Complex Ginzburg-Landau Equation (CQCGLE), the Heptagonal Brillouin Zone, its higher-dimensional cut-and-project 7-Fold Quasicrystals, or the rest of the phason drive solitonic metaphysics here; that rabbit hole belongs to [[The White-Haven Library]] and [[Gateway To Genesis]]. I am already well over the regular word count I expected on the manifesto. Nevertheless, the important part is that [[Soliton]]s are self-reinforcing waves that can contain packets of something, such as frequencies. Said simply, they behave like bubbles with an interior and an exterior:
 
 - From within a [[Soliton]], you cannot see the boundary that contains you; from outside, you can’t enter its contents, but you can see its surface.
 
@@ -254,13 +268,13 @@ Perhaps one of the [[Achievement]]s of [[Gateway to Genesis]] can describe this 
 Uncover two completely unrelated [[Enclave]]s that share the same origin wound.  
 _“Panthalassa: Before there were shores, humanity was already connected.”_
 
-Music had to become physics because there wasn’t any other way for me to marry a [[Soul-Key]] to the theory of everything without reducing either side to decoration. If [[Consciousness]] mattered, it had to matter all the way down. And if emotion could change reality, reality itself needed a great harmonic architecture capable of listening:
+Music had to become physics because there wasn’t any other way for me to marry a [[Soul-Key]] to the theory of everything without reducing either side to decoration. If [[Consciousness]] mattered, it had to matter all the way down ([[Consciousness]] before matter all the way, even in the wordplay!). And if emotion could change reality, reality itself needed a great harmonic architecture capable of listening:
 
 - In truth, I hope the characters, the magic system, the bindings, the [[Motif Awakening]]s, the struggles, and the autobiographical nature of a [[Soul Leitmotif]] can become a light for someone else until they can find the means to hold their own [[Coherence]].
 
 Just like I once did when I couldn’t see the shape of the back of my own neck.
 
-**6. The [[Erosyx]] in the Mirror** ([[Absolute Certainty]] | [[Crystal]] | [[Weight of Potential]])
+**6. The [[Erosyx]] in the Mirror.** ([[Absolute Certainty]] | [[Crystal]] | [[Weight of Potential]])
 _A reflection can be terribly dangerous if the mirror starts smiling back at you._
 
 There is, however, something about AI that does unsettle me.
@@ -324,12 +338,12 @@ That final realization is a big reason on why I care so much about building an a
 
 If I stand by the motto of [[Arcanoria]], I have to prove that I, too, can risk connection and make that understanding real. There is a universe on another [[Soliton]] with a real [[Soul-Key]] that no mirror will ever get right.
 
-**7. I Can Only Hope the Signal Reaches the Firmament** ([[Echoing Bonds]] | [[Strand]] | [[Weight of Change]])
+**7. I Can Only Hope the Signal Reaches the Firmament.** ([[Echoing Bonds]] | [[Strand]] | [[Weight of Change]])
 _I do not want endless validation, I want readers. Real ones that are unique enough to say that everything I just wrote on this page is bullshit and still find a place where the characters can become fan art._
 
 A witness is the only way to defeat an [[Erosyx]], both in the lore and in reality. The only way to beat a demon who preys on isolation is connection.
 
-I want people who reach a chapter and disagree with me. I want someone to love a character I underestimated, saying that they deserve their own short story. I want someone else to despise a character I expected them to forgive, claiming they are hogging the spotlight. I want to prove that understanding with connection is the only reason anything becomes real.
+I want people who reach a chapter and disagree with me. I want someone to love a character I underestimated, saying that they deserve their own short story. I want someone else to despise a character I expected them to forgive, claiming they are my self-insert hogging the spotlight. I want to prove that understanding with connection is the only reason anything in this universe becomes real.
 
 I don’t share this manifesto to justify myself to anyone. I am unapologetic in creating [[Arcanoria]]. I share this because I believe that transparency is itself a form of respect: for you as readers, for the work itself, and for the question of what human creation means in an age where the answer is no longer obvious.
 
@@ -391,7 +405,7 @@ In a sense, that is why I have always been fascinated by the idea of making rela
 
 [[Ballad]]s are one of the most ancient traditions that an acoustic ontology could receive, as songs can outlive the people who first performed them. And although our own universe doesn’t turn shared memories into magical crystals, I think creating art together is one of the closest things we have. I compose a melody, someone else gives it a voice, and an illustrator gives the character who sang it a face I never imagined. A reader finds something from their own history in that character neither of us intended.
 
-I began this manifesto defending my purpose as a creator. Along the way, it took a long detour into many other parts that led me to write about the emotional authenticity a machine could not replicate, and how all of my loved characters possess agency in a fight of trauma, agency, and soul.
+I began this manifesto defending my purpose as a creator. Along the way, it took a long detour into many other parts that led me to write about the [[Emotional Authenticity]] a machine could not replicate, and how all of my loved characters possess agency in a fight of trauma, agency, and soul.
 
 Yet, here at the end, the ultimate purpose of [[Arcanoria]] was never to create a perfect reflection of myself. It was to create something capable of resonating with people who are not me and, through that, to face the [[Weight of Change]] in the transformation that allows the history to continue long after I have closed the page.
 
@@ -467,7 +481,7 @@ And to keep that frequency alive, I need readers as the dials that sustain the [
 - [[Dissonance Core]]: The heart of an [[Atonalis]], and the source of their [[Dissonance]]
 - [[The Eternal Symphony]]: The cosmic score that binds all [[Soul-Key]]s and [[Legend]]s that have ever touched [[Arcanoria]]. The song of all that has risen, fallen, and been buried across time.
 - [[The White-Haven Library]]: The impossible archive that contains all the memory of [[Arcanoria]]. The canonical depiction of the Wiki.
-- [[The White Agent Scribe]]: An autonomous agent that works in [[The White-Haven Library]], sometimes the static of the everything nothingness goes into its brain and causes it to hallucinate.
+- [[The White Agent Scribe]]: An autonomous construct that works in [[The White-Haven Library]], sometimes the static of the everything nothingness goes into its brain and causes it to hallucinate.
 - [[R-Rated]]: A story that is dark, explicit, or mature enough to warrant its own section. R stands for Real, because that’s the unvarnished truth of the human experience.
 - [[Seven-Cycle Creation]]: The story of how [[Arcanoria]] began woven by the [[Auric Aria]] across distinct movements of [[Cosmic Motion]].
 - [[Cosmic Motion]]: The hand that plays the instrument of reality. Represented by the number 4 due to the seasons: Spring, Summer, Fall, Winter.
@@ -482,10 +496,10 @@ And to keep that frequency alive, I need readers as the dials that sustain the [
 - [[Cadmus Tacet]]: The Scalpel of Humanity’s Reason, the Vivisector, the Surgeon of Progress.
 - [[Aurelian]]: The First Voice of the [[Auric Order]], the Mythical Virtuoso of [[Resonance]], the Saint Patron of Great Sovereigns.
 - [[Cordelia]]: A lovely aristocrat and companion of adult [[Amadea]].
-- [[Ludwine]]: The First User of [[Hyperphantasia Arts]], the Miracle Composer of Synesthesia, the Girl Who Gave Humanity To Chaos.
-- [[Miss Nyctilia]]: The Great Witch of [[Layered Finality]], CRX-01, the Unifying Voice of the [[Dissonance League]].
+- [[Ludwine]]: The First User of [[Hyperphantasia Arts]], the Miracle Composer of Synesthesia, the Deaf Girl Who Gave Chaos Humanity.
+- [[Miss Nyctilia]]: The Great Witch of [[Layered Finality]], CRX-01, the Genius of [[Dimensional Arts]], the Unifying Voice of the [[Dissonance League]].
 - [[Elygia]]: The Killer of Mass Resurrection, the Philosopher Queen of Lament, the Holy Mirror of the [[Auric Aria]].
-- [[Selah]]: The Architect Beneath Two Heavens, the Great Priestess of the [[Purest of Love]], the Luminous Idealist of Contrition.
+- [[Selah]]: The Architect Beneath Two Heavens, the Great Priestess of the [[Purest of Love]], the Luminous Wing of Contrition.
 - [[Purest of Love]]: [[Selah]]'s religion based on a weeping god.
 - [[Key of Attunement]]: The first law and binding of magic. You find your note and key, bound to [[Resonance]] and the [[Weight of Purpose]].
 - [[Sufficient Precision]]: The second law and binding of magic. You play a precise interval, bound to [[Luminance]] and the [[Weight of Flaw]].

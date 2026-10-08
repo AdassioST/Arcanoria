@@ -136,7 +136,7 @@ The Romantic Interest System's first action is silent and depends on the [[Legen
 | **Heterosexual** | Protocol activates only for opposite-gender-expression pairings                                |
 | **Homosexual**   | Protocol activates only for same-gender-expression pairings                                    |
 | **Bisexual**     | Protocol activates for any pairing where the other Legend passes the [[Affection]] threshhold. |
-
+[[Vaelia]]
 The system itself functions through the following levels of Romantic Interest that behave as equally asymmetrical as the rest of [[Legend Relationship]]s.
 
 | Threshold   | Stage           | Behavioral Expression                                                                                                                                                                                  | Mechanical Effect                                                                                       |

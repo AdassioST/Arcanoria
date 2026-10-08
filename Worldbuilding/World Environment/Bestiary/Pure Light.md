@@ -8,7 +8,7 @@ The soul of existence, it defines vitality, natural [[Resonance]] with the [[Gre
 
 In the dawn of the [[Seven-Cycle Creation]], the Auric Aria first wove the [[Auric Heptacode]], establishing the law of matter, space, and structure, and thereby creating the possibility of [[Auric Structure]] without yet granting life or soul.​
 
-This early work produced stable but hollow matter: [[Primordial Star]]s, nebulae, and physical landscapes that persisted structurally but lacked Fundamental Frequency or [[Consciousness]]. The division of all life in [[Arcanoria]] depends on its root origin after the [[Fifth Cycle]].
+This early work produced the [[Proto-Universe]]: stable but hollow cumuli, nebulae and proto-stars that persisted structurally but had no [[Fundamental Frequency]] or [[Consciousness]] at their core. They were not yet true stars. Only when the [[Auric Aria]] seeded her own [[Fundamental Frequency]] into them did the first true stars, the [[Primordial Star]]s, ignite and begin holding matter across the [[Known Universe]] (see [[Soliton]]). Every star since has a [[Fundamental Frequency]] at its core, and a star left without one disperses as [[Stardust]]. The division of all life in [[Arcanoria]] depends on its root origin after the [[Fifth Cycle]].
 
 Thus, the [[Auric Structure]] – [[Pure Light]] axis defines four cosmological starting positions for species families, each arising from a distinct moment in the [[Seven-Cycle Creation]] of [[Arcanoria]].
 

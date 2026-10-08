@@ -73,7 +73,7 @@ Witness a [[Legend]] recover from Spiraling [[Composure]] and as result evolve o
 _"You Are Filled With Determination: Their [[Fundamental Frequency]] never asked permission to keep going."_
 
 Witness any [[Legend]] share a [[Scorching Truth]] and be rejected, imprisoned, or executed for heresy
-_"The Cave's Exit: The blinding [[Luminance]] was so perfect that no one believed they had seen it."
+_"The Cave's Exit: The blinding [[Luminance]] was so perfect that no one believed they had seen it."_
 
 Witness any [[Legend]] reach the [[Catalytic Abyss of Emotion]]
 _"The Crux of Nigredo: Have a [[Legend]] reach the dark night of their soul."_
@@ -97,7 +97,7 @@ Use [[Syncretism]] to merge two [[Constellation]]s
 _"Interpretatio Aeterna: Two truths that cannot exist together have always been a single truth that hadn't found a name yet."_
 
 Develop a [[Legend]]'s starting Personality [[Legend Trait]] into an [[Apex Trait]]
-_"Tathāgata of the [[Soul Leitmotif]]: Grow a [[Legend]] that became so entirely themselves that their [[Fundamental Frequency]] finally resolved into the note it was always meant to be."
+_"Tathāgata of the [[Soul Leitmotif]]: Grow a [[Legend]] that became so entirely themselves that their [[Fundamental Frequency]] finally resolved into the note it was always meant to be."_
 
 Have an [[Underdog]] produce 3× [[Lyrical Fragment]]s on a single action
 _"The Stone The Builders Rejected: [[The Eternal Symphony]] doesn't grade prestige, It grades the [[Resonance]] of a soul."_
@@ -118,12 +118,15 @@ Witness a [[Legend Relationship]] reach the level of [[Romantic Interest]] of In
 _"An Infatuated Obsession: You just don't know it yet, but you love me and I love you the same. One day we'll have a pretty wedding, and I'll be your everything."_
 
 Witness a [[Legend]] be crushed by the [[Weight of Potential]]
-_"The [[Crystal]] Jar: I saw my life branching out like an [[Auric Peach]] Tree. From the tip of every branch, a wonderful future. I sat at the crotch, starving to death; I wanted them all, but choosing one meant losing the rest. Unable to decide, I saw the golden peaches wrinkle into shades of brown, plopping one by one to the ground at my feet."
+_"The [[Crystal]] Jar: I saw my life branching out like an [[Auric Peach]] Tree. From the tip of every branch, a wonderful future. I sat at the crotch, starving to death; I wanted them all, but choosing one meant losing the rest. Unable to decide, I saw the golden peaches wrinkle into shades of brown, plopping one by one to the ground at my feet."_
 
 Have any [[Legend]] perform any unspeakable act
-_"Aw.. Hell Nah: You know what you did..."
+_"Aw.. Hell Nah: You know what you did..."_
 
 ### Culture, [[Civic]]s & [[Civilization]]
+
+Witness the first birth of your [[Civilization]]
+_"There is Beauty in That: No matter the sorrow of this shattered world, no matter how deep the scars etched in golden dust, so long as new life is born, so too are the stars. And one day, their symphony will sing back to us."_
 
 Have a fully [[Ornament]]al [[Major Settlement]]
 _"[[Soul Leitmotif]] of [[Civilization]]: Develop a rich, long-standing history of a [[Major Settlement]]."_
@@ -168,13 +171,16 @@ Justify any [[Atrocity]] in your [[Civilization]]
 _"Hume's Guillotine: From what is, you cannot cut what ought to be. And yet someone always does."_
 
 Revise the Death Count of any official ledger in your [[Civilization]]
-_"The Trolley That Kept Moving: You didn't fail to save the five; you just wrote it as one."
+_"The Trolley That Kept Moving: You didn't fail to save the five; you just wrote it as one."_
 
 Reveal and condemn the historical revisionism of any [[Civilization]] that rewrote the death count of any official ledger by exposing the truth of the tragedy.
 _"People Are Never Numbers!: Expose the ultimate corruption of the [[Weight of Value]] taking root in the tyrants of [[Civilization]]."_
 
 Adopt a [[Religion]] with a stable [[Piety]] output without the help of [[Prophet]] [[Civic]]s
-_"Pascal's Compromise: It's not that you had to believe, but the altar was useful anyway."
+_"Pascal's Compromise: It's not that you had to believe, but the altar was useful anyway."_
+
+Allow a group of exiles of any [[Religion]] to settle in your [[Civilization]]
+_"The Promised Land: In my Father’s house are many rooms. The priests promised the land only to the seed of the covenant; yet you divided the inheritance among the strangers who sojourned within your borders, and the discord became home."_
 
 Found a [[Religion]]
 _"Genesis 1:5: The Aria called [[Luminance]] Day, and the [[Void]] she called Night. And there was evening, and there was morning."_
@@ -229,7 +235,7 @@ Witness any shapeshifting [[Atonalis]] successfully mimic a deceased [[Legend]],
 _"A Chinese Room of Hunger: It sang back every prayer while feeling none of them."_
 
 Have [[Spellweaving]] [[Chord Layering]] turn to [[Discordant Interference]] by leaving several [[Minor Note]]s unresolved in the Visualization phase of [[Spellweaving]] combat
-_"Chekhov's [[Resonance]]: If you show a loaded spell in Act I, it must absolutely go off by Act III."_
+_"Chekhov's [[Resonance]]: If you show a loaded spell in Measure I, it must absolutely go off by Measure III."_
 
 Attempt to resolve [[Discordant Interference]] in [[Spellweaving]] [[Chord Layering]] through incremental corrections until the spell finally collapses
 _"Zeno's Crescendo: You kept halving the resolution but it never arrived."_
@@ -237,17 +243,32 @@ _"Zeno's Crescendo: You kept halving the resolution but it never arrived."_
 Cancel the [[Chord Layering]] stack of an enemy spell loaded with 15 or more [[Minor Note]]s during the Abjuration phase of [[Spellweaving]] combat while scoring Perfect in every single note.
 _"[[Arcanoria]] Moment 37: Daigo would be proud of your noise cancelling reflexes."_
 
+Suffer an unmitigated hit from a preventable enemy spell after spending an entire Measure ringing the Redraw Bell.
+_"Pavlov's Carillon: Why bite the hand that feeds when it's the only hand you're getting?"_
+
+Interrupt an enemy's [[Legend Opus]] signature [[Symphony Card]] of [[Triad Chord]] level or above, causing it to collapse into [[Discordant Interference]].
+_"Critically Thinking Hater: Oh, that was your masterwork? Fascinating potential. Dreadful composition. Absolutely horrid execution, darling. Sit down; let me explain why your triad collapsed."_
+
+Win a [[Spellweaving]] combat encounter without using a single Offensive [[Symphony Card]].
+_"Ahimsa's Mirror: The truest victory is not overpowering the blade, but leaving the hand to wonder why it was drawn at all. The fiercest strike always becomes the heaviest when forced to resolve inward."_
+
+Suffer over 60% [[Discordant Interference]] backlash damage to your own forces from an interrupted or collapsed [[Chord Layering]] stack during Tempo Fever.
+_"For Whom the Bell Greeds: Perchance he for whom this bell tolls may be so ill as that he knows not it tolls for him. Now this bell tolling softly for another, says to me, Thou must die."_
+
+Enter the Climax Resolution state of Tempo Fever
+_"Ecstasy of the Red Shoes: There is no leaving the floor now. The audience screams for the grand finale! Feel the encore! One more, one more, just one overbeat more!"_
+
 Vanquish a [[Primal Discordia]]
-_"Fiat Resonantia: Ex Chao, Ordo."
+_"Fiat Resonantia: Ex Chao, Ordo."_
 
 Cancel a [[Chord Layering]] stack of an enemy spell that should've inflicted more than 70% of the [[Composure]] of a unit with a single defensive [[Symphony Card]].
 _"Potemkin Buster: That shouldn't work. It definitely shouldn't work."_
 
-Lose all of your [[Divination Arts]] and [[Prophetical Arts]] attempts on the same [[Spellweaving]] fight against an [[Atonalis]].
+Lose all of your [[Divination Arts]] and [[Prophetical Arts]] attempts on the same [[Spellweaving]] fight.
 _"This is [[Gateway To Genesis]]: YOU DIED. YOU DIED. YOU DIED."_
 
-Achieve a Mythical Victory by manually winning a [[Spellweaving]] combat that was destined to fail
-_"Veni, Vidi, Vici: Providence forged an unbeatable giant. You brought a shepherd's sling, and five smooth notes that rewrote the scripture of fate."
+Achieve a [[Mythical Victory]] by manually winning a [[Spellweaving]] combat that was destined to fail.
+_"Veni, Vidi, Vici: Providence forged an unbeatable giant. You brought a shepherd's sling, and five smooth notes that rewrote the scripture of fate."_
 
 Obtain a [[Rose Seed]] from an [[Ascendant]] or higher tier of [[Atonalis]]
 _"Petals of Creation: Harvest a highly beautiful [[Rose Seed]] as monument to the lost potential that was born before the monster."_
@@ -264,7 +285,7 @@ _"The Song From Halfway Down: A flood of fond endorphins. Brings a calm that kno
 ### [[World Event]]s & [[Age Crisis]]
 
 Witness [[Lacrimosa]]'s [[Resonance]] [[Motif Awakening]]
-_"Kojève's Winged Blindfold: To be seen by the one who matters, that is everything."
+_"Kojève's Winged Blindfold: To be seen by the one who matters, that is everything."_
 
 Become a [[Major Actor]] in a [[World Event]]
 _"History is Written by the Victors: Have your [[Civilization]] dictate the fate of the [[Arcanoria]] in the [[Fate Stage]]."_
@@ -275,7 +296,9 @@ _"Across the Sea, to the Land Beyond: [[The Golden Light in the Sky]] was born f
 Reclaim your position as a [[Major Actor]] after being cast out of the [[Fate Stage]]
 _"But It Refused: I won't be written out of my own story. I will claw for a better world with my own hands regardless of the insurmountable of the pain I must face."_
 
-_"Critically Thinking Hater: "_
+Adopt an antagonistic position in the [[Fate Stage]]
+_"Necessary [[Dissonance]]: Villain? Never. History does not need another monster; it merely needed a hand willing to bloom the friction of stories. I am called consequence."_
+
 ### [[Memory Field]]s and [[Scorching Truth]]s
 
 Discover the origin of the [[Atonalis]]
@@ -285,7 +308,7 @@ Uncover [[The Truth of Arcanoria]]
 _"[[The Truth of Arcanoria]]: Learn the one truth that will set you free."_
 
 Uncover all the [[Scorching Truth]]s
-_"Searing Compendium: From birth to decay, reveal how it's all connected."
+_"Searing Compendium: From birth to decay, reveal how it's all connected."_
 
 ### The [[Sonata]] of [[Arcanoria]]
 
@@ -296,16 +319,16 @@ Win the Crusades for the [[Silver Blood]] in [[Ages]] V
 _"For the [[Moon]]!: Win the Holy war for the [[Chorus Pillar]]."_
 
 Win the Crusades for the [[Auric Aria]] in [[Ages]] V
-*"For The Sovereign!: Win the Holy War for the [[Aureus Pillar]]."*
+_"For The Sovereign!: Win the Holy War for the [[Aureus Pillar]]."_
 
 Create the first tether of Auric and Selenic [[World-Bending Relics]] to the [[Moon]]
 _"[[Parlor of the Moon]]: Uncover the forgotten palace bygone by guilt."_
 
 Conclude the [[Sonata]] of Interwoven Threads of Gold and Silver
-*"The [[Singer of Paradise]]: Reach the apex of a long lost love letter."
+_"The [[Singer of Paradise]]: Reach the apex of a long lost love letter."_
 
 Wish for the End of the Third Actor
-_The Purest of All Love: Learn to love without possession._  
+_"The Purest of All Love: Learn to love without possession."_
 
 100% [[Gateway To Genesis]] and Wish for the End of the Third Actor
-_[[Gateway To Genesis]]: Loss is the transformation that made every single note of [[The Eternal Symphony]] real.
+_"[[Gateway To Genesis]]: Loss is the transformation that made every single note of [[The Eternal Symphony]] real."_

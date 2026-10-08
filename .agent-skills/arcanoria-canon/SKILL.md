@@ -82,8 +82,6 @@ generic mana, no elemental schools unmapped to the Principles.
 - Prioritize established symbols — the seven-pointed golden heptagram of the
   Auric Heptacode, and specific character aesthetics (Lacrimosa, the Obsidian
   Empress variant of Amadea).
-- **Avoid conflicting iconography.** Do not use avian/bird motifs unless
-  specifically directed; they may reference discarded visual themes.
 - When unsure whether a visual or narrative element is still current, **ask.**
 
 ## Naming Conventions

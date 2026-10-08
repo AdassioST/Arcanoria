@@ -65,15 +65,17 @@ _"I prevented the [[Great Plague]]. That little girl kept her mother. She kept h
 
 **On Aria's Question for [[Civilization]]: “Okay, this may be a weird question, but what do you think about hands?”**
 
-_"No, really! I know how that sounds, but it's something I haven't been able to understand from my place of divinity. No other being truly has them except me and my children."_
+_"No, really! I know how that sounds, but it's something I haven't been able to understand from my place of divinity. No other being truly has them except my children and me."_
 
-_"I've noticed you barely think about them compared to your minds, your feelings, your spirits or your hearts, even though they're THE SIGNATURE of my [[Perfect Reflection]]! Across the vastness of [[The Eternal Symphony]] another [[Consciousness]] would recognize you as mine from nothing more than your hands, your feet, and your fingers. And many would envy you simply for being able to manipulate reality through all those little interfaces where intention can leave you...”
+_"I've noticed you barely think about them compared to your minds, your feelings, your spirits, or your hearts, even though they're THE SIGNATURE of my [[Perfect Reflection]]! Across the vastness of [[The Eternal Symphony]] another [[Consciousness]] would recognize you as mine from nothing more than your hands, your feet, and your fingers. And many would envy you simply for being able to manipulate reality through all those little interfaces where intention can leave you...”_
 
-_"Let me phrase it differently. A finger is an articulation of intention. Several resolve into a hand, the hand through the wrist, the forearm through the elbow, the arm through the shoulder — articulation nested into articulation until something that exists only inside your [[Consciousness]] can reach beyond itself and become consequence."
+_"Let me phrase it differently. A finger is an articulation of intention. Several resolve into a hand, the hand through the wrist, the forearm through the elbow, the arm through the shoulder — articulation nested into articulation until something that exists only inside your [[Consciousness]] can reach beyond itself and become consequence."_
 
 _“A thought cannot touch the world. A hand can. That's the part you overlook. Not so much ‘I think, therefore I am,’ but perhaps, ‘I reach, therefore what I am becomes part of existence.’ To reach is to make the self causal.”_
 
-_"Thus, as the core gift of [[Auric Geometry]], I decided on the primary symbol for agency, with five carefully ornate terminal articulations that were just elegant enough for you. The morphology of my own 'hands' are... less bounded. Imagine fingers continuing into finer fingers, resolving into smaller hands, and those hands containing still finer articulations of their own on and on through an asymptotic succession far beyond what your 'numbers' could follow. Yes, I know! It should sound strange. That's precisely my point. You carry a finite version of the feature every other [[Outer God]] finds most alien about me, and somehow familiarity made it for you one of the least intriguing."
+_"Thus, as the core gift of [[Auric Geometry]], I decided on the primary symbol for agency, with five carefully ornate terminal articulations that were just elegant enough for you. It's a beautiful total of 70 discrete control nodes across four primaries. I thought a lot about having 58 concentrated entirely for the fine convergence of touch. Ah! I'm getting carried away...! My point is that the morphology of my own 'hands' is... less bounded. I have a few more control nodes than what I gave you."_
+
+_"Imagine fingers continuing into finer fingers, resolving into smaller hands, and those hands containing still finer articulations of their own on and on through an asymptotic succession far beyond what your 'numbers' could follow. Yes, I know! It should sound strange. That's precisely my point. You carry a finite version of the feature every other [[Outer God]] finds most alien about me, and somehow familiarity made it for you one of the least intriguing."_
 
 _"So I suppose that's why I'm asking. To you, they're just a part of your body. To me, they're where intention becomes creation... and one of the oldest pieces of myself I ever gave away."_
 
